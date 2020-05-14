@@ -1,0 +1,361 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Albany County, WY"	"56001"	"1999"	"1999"	"Unintentional"	"1"	16	32192	Unreliable
+	"Albany County, WY"	"56001"	"2000"	"2000"	"Unintentional"	"1"	11	32014	Unreliable
+	"Albany County, WY"	"56001"	"2001"	"2001"	"Unintentional"	"1"	13	32419	Unreliable
+	"Albany County, WY"	"56001"	"2002"	"2002"	"Unintentional"	"1"	14	32675	Unreliable
+	"Albany County, WY"	"56001"	"2003"	"2003"	"Unintentional"	"1"	13	33098	Unreliable
+	"Albany County, WY"	"56001"	"2004"	"2004"	"Unintentional"	"1"	12	33580	Unreliable
+	"Albany County, WY"	"56001"	"2005"	"2005"	"Unintentional"	"1"	11	33631	Unreliable
+	"Albany County, WY"	"56001"	"2006"	"2006"	"Unintentional"	"1"	15	33950	Unreliable
+	"Albany County, WY"	"56001"	"2008"	"2008"	"Unintentional"	"1"	14	34643	Unreliable
+	"Albany County, WY"	"56001"	"2009"	"2009"	"Unintentional"	"1"	12	35743	Unreliable
+	"Albany County, WY"	"56001"	"2010"	"2010"	"Unintentional"	"1"	12	36299	Unreliable
+	"Albany County, WY"	"56001"	"2011"	"2011"	"Unintentional"	"1"	14	36889	Unreliable
+	"Albany County, WY"	"56001"	"2012"	"2012"	"Unintentional"	"1"	16	37276	Unreliable
+	"Albany County, WY"	"56001"	"2013"	"2013"	"Unintentional"	"1"	18	37422	Unreliable
+	"Albany County, WY"	"56001"	"2014"	"2014"	"Unintentional"	"1"	20	37811	52.9
+	"Albany County, WY"	"56001"	"2015"	"2015"	"Unintentional"	"1"	15	37956	Unreliable
+	"Albany County, WY"	"56001"	"2016"	"2016"	"Unintentional"	"1"	13	38256	Unreliable
+	"Albany County, WY"	"56001"	"2016"	"2016"	"Suicide"	"2"	10	38256	Unreliable
+	"Albany County, WY"	"56001"	"2017"	"2017"	"Unintentional"	"1"	16	38332	Unreliable
+	"Albany County, WY"	"56001"	"2018"	"2018"	"Unintentional"	"1"	15	38601	Unreliable
+	"Albany County, WY"	"56001"	"2018"	"2018"	"Suicide"	"2"	13	38601	Unreliable
+	"Big Horn County, WY"	"56003"	"2005"	"2005"	"Unintentional"	"1"	10	11193	Unreliable
+	"Big Horn County, WY"	"56003"	"2008"	"2008"	"Unintentional"	"1"	12	11419	Unreliable
+	"Big Horn County, WY"	"56003"	"2010"	"2010"	"Unintentional"	"1"	13	11668	Unreliable
+	"Big Horn County, WY"	"56003"	"2011"	"2011"	"Unintentional"	"1"	13	11759	Unreliable
+	"Big Horn County, WY"	"56003"	"2012"	"2012"	"Unintentional"	"1"	11	11794	Unreliable
+	"Big Horn County, WY"	"56003"	"2013"	"2013"	"Unintentional"	"1"	12	11994	Unreliable
+	"Big Horn County, WY"	"56003"	"2015"	"2015"	"Unintentional"	"1"	11	12022	Unreliable
+	"Big Horn County, WY"	"56003"	"2017"	"2017"	"Unintentional"	"1"	13	11906	Unreliable
+	"Campbell County, WY"	"56005"	"1999"	"1999"	"Unintentional"	"1"	15	32844	Unreliable
+	"Campbell County, WY"	"56005"	"2000"	"2000"	"Unintentional"	"1"	16	33698	Unreliable
+	"Campbell County, WY"	"56005"	"2001"	"2001"	"Unintentional"	"1"	23	34699	66.3
+	"Campbell County, WY"	"56005"	"2002"	"2002"	"Unintentional"	"1"	17	36193	Unreliable
+	"Campbell County, WY"	"56005"	"2003"	"2003"	"Unintentional"	"1"	15	36586	Unreliable
+	"Campbell County, WY"	"56005"	"2004"	"2004"	"Unintentional"	"1"	19	36907	Unreliable
+	"Campbell County, WY"	"56005"	"2005"	"2005"	"Unintentional"	"1"	21	37888	55.4
+	"Campbell County, WY"	"56005"	"2006"	"2006"	"Unintentional"	"1"	21	39497	53.2
+	"Campbell County, WY"	"56005"	"2007"	"2007"	"Unintentional"	"1"	24	41651	57.6
+	"Campbell County, WY"	"56005"	"2008"	"2008"	"Unintentional"	"1"	27	42846	63.0
+	"Campbell County, WY"	"56005"	"2009"	"2009"	"Unintentional"	"1"	17	45650	Unreliable
+	"Campbell County, WY"	"56005"	"2009"	"2009"	"Suicide"	"2"	10	45650	Unreliable
+	"Campbell County, WY"	"56005"	"2010"	"2010"	"Unintentional"	"1"	19	46133	Unreliable
+	"Campbell County, WY"	"56005"	"2010"	"2010"	"Suicide"	"2"	12	46133	Unreliable
+	"Campbell County, WY"	"56005"	"2011"	"2011"	"Unintentional"	"1"	25	46618	53.6
+	"Campbell County, WY"	"56005"	"2011"	"2011"	"Suicide"	"2"	11	46618	Unreliable
+	"Campbell County, WY"	"56005"	"2012"	"2012"	"Unintentional"	"1"	17	47874	Unreliable
+	"Campbell County, WY"	"56005"	"2012"	"2012"	"Suicide"	"2"	15	47874	Unreliable
+	"Campbell County, WY"	"56005"	"2013"	"2013"	"Unintentional"	"1"	25	48176	51.9
+	"Campbell County, WY"	"56005"	"2013"	"2013"	"Suicide"	"2"	14	48176	Unreliable
+	"Campbell County, WY"	"56005"	"2014"	"2014"	"Unintentional"	"1"	36	48320	74.5
+	"Campbell County, WY"	"56005"	"2015"	"2015"	"Unintentional"	"1"	31	49220	63.0
+	"Campbell County, WY"	"56005"	"2016"	"2016"	"Unintentional"	"1"	13	48803	Unreliable
+	"Campbell County, WY"	"56005"	"2017"	"2017"	"Unintentional"	"1"	16	46242	Unreliable
+	"Campbell County, WY"	"56005"	"2017"	"2017"	"Suicide"	"2"	15	46242	Unreliable
+	"Campbell County, WY"	"56005"	"2018"	"2018"	"Unintentional"	"1"	22	46140	47.7
+	"Campbell County, WY"	"56005"	"2018"	"2018"	"Suicide"	"2"	10	46140	Unreliable
+	"Carbon County, WY"	"56007"	"1999"	"1999"	"Unintentional"	"1"	12	15730	Unreliable
+	"Carbon County, WY"	"56007"	"2002"	"2002"	"Unintentional"	"1"	10	15256	Unreliable
+	"Carbon County, WY"	"56007"	"2006"	"2006"	"Unintentional"	"1"	14	15136	Unreliable
+	"Carbon County, WY"	"56007"	"2007"	"2007"	"Unintentional"	"1"	12	15494	Unreliable
+	"Carbon County, WY"	"56007"	"2008"	"2008"	"Unintentional"	"1"	11	15658	Unreliable
+	"Carbon County, WY"	"56007"	"2009"	"2009"	"Unintentional"	"1"	13	15977	Unreliable
+	"Carbon County, WY"	"56007"	"2010"	"2010"	"Unintentional"	"1"	11	15885	Unreliable
+	"Carbon County, WY"	"56007"	"2014"	"2014"	"Unintentional"	"1"	17	15854	Unreliable
+	"Carbon County, WY"	"56007"	"2015"	"2015"	"Unintentional"	"1"	15	15559	Unreliable
+	"Carbon County, WY"	"56007"	"2016"	"2016"	"Unintentional"	"1"	14	15618	Unreliable
+	"Carbon County, WY"	"56007"	"2017"	"2017"	"Unintentional"	"1"	19	15303	Unreliable
+	"Carbon County, WY"	"56007"	"2018"	"2018"	"Unintentional"	"1"	12	14971	Unreliable
+	"Converse County, WY"	"56009"	"2012"	"2012"	"Unintentional"	"1"	10	14008	Unreliable
+	"Converse County, WY"	"56009"	"2015"	"2015"	"Unintentional"	"1"	13	14236	Unreliable
+	"Converse County, WY"	"56009"	"2016"	"2016"	"Unintentional"	"1"	10	14191	Unreliable
+	"Fremont County, WY"	"56013"	"1999"	"1999"	"Unintentional"	"1"	35	35729	98.0
+	"Fremont County, WY"	"56013"	"1999"	"1999"	"Suicide"	"2"	11	35729	Unreliable
+	"Fremont County, WY"	"56013"	"2000"	"2000"	"Unintentional"	"1"	23	35804	64.2
+	"Fremont County, WY"	"56013"	"2001"	"2001"	"Unintentional"	"1"	27	35718	75.6
+	"Fremont County, WY"	"56013"	"2002"	"2002"	"Unintentional"	"1"	31	36015	86.1
+	"Fremont County, WY"	"56013"	"2002"	"2002"	"Suicide"	"2"	13	36015	Unreliable
+	"Fremont County, WY"	"56013"	"2003"	"2003"	"Unintentional"	"1"	33	36130	91.3
+	"Fremont County, WY"	"56013"	"2003"	"2003"	"Suicide"	"2"	12	36130	Unreliable
+	"Fremont County, WY"	"56013"	"2004"	"2004"	"Unintentional"	"1"	26	36383	71.5
+	"Fremont County, WY"	"56013"	"2005"	"2005"	"Unintentional"	"1"	34	36838	92.3
+	"Fremont County, WY"	"56013"	"2005"	"2005"	"Suicide"	"2"	11	36838	Unreliable
+	"Fremont County, WY"	"56013"	"2006"	"2006"	"Unintentional"	"1"	35	37408	93.6
+	"Fremont County, WY"	"56013"	"2006"	"2006"	"Suicide"	"2"	16	37408	Unreliable
+	"Fremont County, WY"	"56013"	"2007"	"2007"	"Unintentional"	"1"	38	38132	99.7
+	"Fremont County, WY"	"56013"	"2007"	"2007"	"Suicide"	"2"	14	38132	Unreliable
+	"Fremont County, WY"	"56013"	"2008"	"2008"	"Unintentional"	"1"	40	38907	102.8
+	"Fremont County, WY"	"56013"	"2008"	"2008"	"Suicide"	"2"	12	38907	Unreliable
+	"Fremont County, WY"	"56013"	"2009"	"2009"	"Unintentional"	"1"	38	39685	95.8
+	"Fremont County, WY"	"56013"	"2010"	"2010"	"Unintentional"	"1"	28	40123	69.8
+	"Fremont County, WY"	"56013"	"2011"	"2011"	"Unintentional"	"1"	38	40579	93.6
+	"Fremont County, WY"	"56013"	"2011"	"2011"	"Suicide"	"2"	14	40579	Unreliable
+	"Fremont County, WY"	"56013"	"2012"	"2012"	"Unintentional"	"1"	33	41110	80.3
+	"Fremont County, WY"	"56013"	"2012"	"2012"	"Suicide"	"2"	19	41110	Unreliable
+	"Fremont County, WY"	"56013"	"2013"	"2013"	"Unintentional"	"1"	27	40998	65.9
+	"Fremont County, WY"	"56013"	"2014"	"2014"	"Unintentional"	"1"	32	40703	78.6
+	"Fremont County, WY"	"56013"	"2014"	"2014"	"Suicide"	"2"	10	40703	Unreliable
+	"Fremont County, WY"	"56013"	"2015"	"2015"	"Unintentional"	"1"	46	40315	114.1
+	"Fremont County, WY"	"56013"	"2015"	"2015"	"Suicide"	"2"	11	40315	Unreliable
+	"Fremont County, WY"	"56013"	"2016"	"2016"	"Unintentional"	"1"	46	40242	114.3
+	"Fremont County, WY"	"56013"	"2016"	"2016"	"Suicide"	"2"	19	40242	Unreliable
+	"Fremont County, WY"	"56013"	"2017"	"2017"	"Unintentional"	"1"	49	39803	123.1
+	"Fremont County, WY"	"56013"	"2017"	"2017"	"Suicide"	"2"	12	39803	Unreliable
+	"Fremont County, WY"	"56013"	"2018"	"2018"	"Unintentional"	"1"	38	39531	96.1
+	"Goshen County, WY"	"56015"	"2000"	"2000"	"Unintentional"	"1"	11	12538	Unreliable
+	"Goshen County, WY"	"56015"	"2001"	"2001"	"Unintentional"	"1"	11	12475	Unreliable
+	"Goshen County, WY"	"56015"	"2002"	"2002"	"Unintentional"	"1"	10	12381	Unreliable
+	"Goshen County, WY"	"56015"	"2009"	"2009"	"Unintentional"	"1"	10	12967	Unreliable
+	"Goshen County, WY"	"56015"	"2010"	"2010"	"Unintentional"	"1"	12	13249	Unreliable
+	"Goshen County, WY"	"56015"	"2011"	"2011"	"Unintentional"	"1"	15	13536	Unreliable
+	"Goshen County, WY"	"56015"	"2015"	"2015"	"Unintentional"	"1"	10	13383	Unreliable
+	"Johnson County, WY"	"56019"	"2016"	"2016"	"Unintentional"	"1"	11	8486	Unreliable
+	"Laramie County, WY"	"56021"	"1999"	"1999"	"Unintentional"	"1"	34	81009	42.0
+	"Laramie County, WY"	"56021"	"1999"	"1999"	"Suicide"	"2"	10	81009	Unreliable
+	"Laramie County, WY"	"56021"	"2000"	"2000"	"Unintentional"	"1"	26	81607	31.9
+	"Laramie County, WY"	"56021"	"2000"	"2000"	"Suicide"	"2"	14	81607	Unreliable
+	"Laramie County, WY"	"56021"	"2001"	"2001"	"Unintentional"	"1"	35	82554	42.4
+	"Laramie County, WY"	"56021"	"2001"	"2001"	"Suicide"	"2"	13	82554	Unreliable
+	"Laramie County, WY"	"56021"	"2002"	"2002"	"Unintentional"	"1"	48	83226	57.7
+	"Laramie County, WY"	"56021"	"2003"	"2003"	"Unintentional"	"1"	32	84084	38.1
+	"Laramie County, WY"	"56021"	"2003"	"2003"	"Suicide"	"2"	14	84084	Unreliable
+	"Laramie County, WY"	"56021"	"2004"	"2004"	"Unintentional"	"1"	40	85427	46.8
+	"Laramie County, WY"	"56021"	"2004"	"2004"	"Suicide"	"2"	12	85427	Unreliable
+	"Laramie County, WY"	"56021"	"2005"	"2005"	"Unintentional"	"1"	40	85732	46.7
+	"Laramie County, WY"	"56021"	"2005"	"2005"	"Suicide"	"2"	14	85732	Unreliable
+	"Laramie County, WY"	"56021"	"2006"	"2006"	"Unintentional"	"1"	51	86819	58.7
+	"Laramie County, WY"	"56021"	"2006"	"2006"	"Suicide"	"2"	15	86819	Unreliable
+	"Laramie County, WY"	"56021"	"2007"	"2007"	"Unintentional"	"1"	31	87654	35.4
+	"Laramie County, WY"	"56021"	"2007"	"2007"	"Suicide"	"2"	17	87654	Unreliable
+	"Laramie County, WY"	"56021"	"2008"	"2008"	"Unintentional"	"1"	36	89077	40.4
+	"Laramie County, WY"	"56021"	"2008"	"2008"	"Suicide"	"2"	17	89077	Unreliable
+	"Laramie County, WY"	"56021"	"2009"	"2009"	"Unintentional"	"1"	53	90430	58.6
+	"Laramie County, WY"	"56021"	"2009"	"2009"	"Suicide"	"2"	19	90430	Unreliable
+	"Laramie County, WY"	"56021"	"2010"	"2010"	"Unintentional"	"1"	58	91738	63.2
+	"Laramie County, WY"	"56021"	"2010"	"2010"	"Suicide"	"2"	23	91738	25.1
+	"Laramie County, WY"	"56021"	"2011"	"2011"	"Unintentional"	"1"	42	92680	45.3
+	"Laramie County, WY"	"56021"	"2011"	"2011"	"Suicide"	"2"	26	92680	28.1
+	"Laramie County, WY"	"56021"	"2012"	"2012"	"Unintentional"	"1"	50	94483	52.9
+	"Laramie County, WY"	"56021"	"2012"	"2012"	"Suicide"	"2"	27	94483	28.6
+	"Laramie County, WY"	"56021"	"2013"	"2013"	"Unintentional"	"1"	44	95809	45.9
+	"Laramie County, WY"	"56021"	"2013"	"2013"	"Suicide"	"2"	15	95809	Unreliable
+	"Laramie County, WY"	"56021"	"2014"	"2014"	"Unintentional"	"1"	43	96389	44.6
+	"Laramie County, WY"	"56021"	"2014"	"2014"	"Suicide"	"2"	22	96389	22.8
+	"Laramie County, WY"	"56021"	"2015"	"2015"	"Unintentional"	"1"	46	97121	47.4
+	"Laramie County, WY"	"56021"	"2015"	"2015"	"Suicide"	"2"	27	97121	27.8
+	"Laramie County, WY"	"56021"	"2016"	"2016"	"Unintentional"	"1"	47	98136	47.9
+	"Laramie County, WY"	"56021"	"2016"	"2016"	"Suicide"	"2"	25	98136	25.5
+	"Laramie County, WY"	"56021"	"2017"	"2017"	"Unintentional"	"1"	53	98327	53.9
+	"Laramie County, WY"	"56021"	"2017"	"2017"	"Suicide"	"2"	24	98327	24.4
+	"Laramie County, WY"	"56021"	"2018"	"2018"	"Unintentional"	"1"	40	98976	40.4
+	"Laramie County, WY"	"56021"	"2018"	"2018"	"Suicide"	"2"	34	98976	34.4
+	"Lincoln County, WY"	"56023"	"1999"	"1999"	"Unintentional"	"1"	10	14338	Unreliable
+	"Lincoln County, WY"	"56023"	"2000"	"2000"	"Unintentional"	"1"	11	14573	Unreliable
+	"Lincoln County, WY"	"56023"	"2003"	"2003"	"Unintentional"	"1"	16	15117	Unreliable
+	"Lincoln County, WY"	"56023"	"2005"	"2005"	"Unintentional"	"1"	11	15917	Unreliable
+	"Lincoln County, WY"	"56023"	"2007"	"2007"	"Unintentional"	"1"	20	17013	117.6
+	"Lincoln County, WY"	"56023"	"2008"	"2008"	"Unintentional"	"1"	17	17629	Unreliable
+	"Lincoln County, WY"	"56023"	"2010"	"2010"	"Unintentional"	"1"	12	18106	Unreliable
+	"Lincoln County, WY"	"56023"	"2012"	"2012"	"Unintentional"	"1"	14	17961	Unreliable
+	"Lincoln County, WY"	"56023"	"2013"	"2013"	"Unintentional"	"1"	12	18364	Unreliable
+	"Lincoln County, WY"	"56023"	"2014"	"2014"	"Unintentional"	"1"	13	18567	Unreliable
+	"Lincoln County, WY"	"56023"	"2015"	"2015"	"Unintentional"	"1"	13	18722	Unreliable
+	"Lincoln County, WY"	"56023"	"2016"	"2016"	"Unintentional"	"1"	14	19110	Unreliable
+	"Lincoln County, WY"	"56023"	"2017"	"2017"	"Unintentional"	"1"	10	19265	Unreliable
+	"Lincoln County, WY"	"56023"	"2018"	"2018"	"Unintentional"	"1"	12	19434	Unreliable
+	"Natrona County, WY"	"56025"	"1999"	"1999"	"Unintentional"	"1"	34	66282	51.3
+	"Natrona County, WY"	"56025"	"1999"	"1999"	"Suicide"	"2"	23	66282	34.7
+	"Natrona County, WY"	"56025"	"2000"	"2000"	"Unintentional"	"1"	33	66533	49.6
+	"Natrona County, WY"	"56025"	"2000"	"2000"	"Suicide"	"2"	15	66533	Unreliable
+	"Natrona County, WY"	"56025"	"2001"	"2001"	"Unintentional"	"1"	51	66978	76.1
+	"Natrona County, WY"	"56025"	"2001"	"2001"	"Suicide"	"2"	11	66978	Unreliable
+	"Natrona County, WY"	"56025"	"2002"	"2002"	"Unintentional"	"1"	37	67554	54.8
+	"Natrona County, WY"	"56025"	"2003"	"2003"	"Unintentional"	"1"	27	68246	39.6
+	"Natrona County, WY"	"56025"	"2003"	"2003"	"Suicide"	"2"	21	68246	30.8
+	"Natrona County, WY"	"56025"	"2004"	"2004"	"Unintentional"	"1"	29	69035	42.0
+	"Natrona County, WY"	"56025"	"2004"	"2004"	"Suicide"	"2"	13	69035	Unreliable
+	"Natrona County, WY"	"56025"	"2005"	"2005"	"Unintentional"	"1"	37	69922	52.9
+	"Natrona County, WY"	"56025"	"2005"	"2005"	"Suicide"	"2"	12	69922	Unreliable
+	"Natrona County, WY"	"56025"	"2006"	"2006"	"Unintentional"	"1"	35	70806	49.4
+	"Natrona County, WY"	"56025"	"2006"	"2006"	"Suicide"	"2"	18	70806	Unreliable
+	"Natrona County, WY"	"56025"	"2007"	"2007"	"Unintentional"	"1"	38	72365	52.5
+	"Natrona County, WY"	"56025"	"2007"	"2007"	"Suicide"	"2"	18	72365	Unreliable
+	"Natrona County, WY"	"56025"	"2008"	"2008"	"Unintentional"	"1"	59	73682	80.1
+	"Natrona County, WY"	"56025"	"2008"	"2008"	"Suicide"	"2"	11	73682	Unreliable
+	"Natrona County, WY"	"56025"	"2009"	"2009"	"Unintentional"	"1"	43	75238	57.2
+	"Natrona County, WY"	"56025"	"2009"	"2009"	"Suicide"	"2"	17	75238	Unreliable
+	"Natrona County, WY"	"56025"	"2010"	"2010"	"Unintentional"	"1"	52	75450	68.9
+	"Natrona County, WY"	"56025"	"2010"	"2010"	"Suicide"	"2"	22	75450	29.2
+	"Natrona County, WY"	"56025"	"2011"	"2011"	"Unintentional"	"1"	45	76366	58.9
+	"Natrona County, WY"	"56025"	"2011"	"2011"	"Suicide"	"2"	17	76366	Unreliable
+	"Natrona County, WY"	"56025"	"2012"	"2012"	"Unintentional"	"1"	39	78621	49.6
+	"Natrona County, WY"	"56025"	"2012"	"2012"	"Suicide"	"2"	24	78621	30.5
+	"Natrona County, WY"	"56025"	"2013"	"2013"	"Unintentional"	"1"	63	80973	77.8
+	"Natrona County, WY"	"56025"	"2013"	"2013"	"Suicide"	"2"	19	80973	Unreliable
+	"Natrona County, WY"	"56025"	"2014"	"2014"	"Unintentional"	"1"	59	81624	72.3
+	"Natrona County, WY"	"56025"	"2014"	"2014"	"Suicide"	"2"	21	81624	25.7
+	"Natrona County, WY"	"56025"	"2015"	"2015"	"Unintentional"	"1"	60	82178	73.0
+	"Natrona County, WY"	"56025"	"2015"	"2015"	"Suicide"	"2"	28	82178	34.1
+	"Natrona County, WY"	"56025"	"2016"	"2016"	"Unintentional"	"1"	49	81039	60.5
+	"Natrona County, WY"	"56025"	"2016"	"2016"	"Suicide"	"2"	17	81039	Unreliable
+	"Natrona County, WY"	"56025"	"2017"	"2017"	"Unintentional"	"1"	49	79547	61.6
+	"Natrona County, WY"	"56025"	"2017"	"2017"	"Suicide"	"2"	24	79547	30.2
+	"Natrona County, WY"	"56025"	"2018"	"2018"	"Unintentional"	"1"	61	79115	77.1
+	"Natrona County, WY"	"56025"	"2018"	"2018"	"Suicide"	"2"	27	79115	34.1
+	"Park County, WY"	"56029"	"1999"	"1999"	"Unintentional"	"1"	14	25664	Unreliable
+	"Park County, WY"	"56029"	"2000"	"2000"	"Unintentional"	"1"	15	25786	Unreliable
+	"Park County, WY"	"56029"	"2002"	"2002"	"Unintentional"	"1"	23	25761	89.3
+	"Park County, WY"	"56029"	"2003"	"2003"	"Unintentional"	"1"	19	25988	Unreliable
+	"Park County, WY"	"56029"	"2003"	"2003"	"Suicide"	"2"	11	25988	Unreliable
+	"Park County, WY"	"56029"	"2005"	"2005"	"Unintentional"	"1"	21	26372	79.6
+	"Park County, WY"	"56029"	"2007"	"2007"	"Unintentional"	"1"	19	27209	Unreliable
+	"Park County, WY"	"56029"	"2008"	"2008"	"Unintentional"	"1"	23	27594	83.4
+	"Park County, WY"	"56029"	"2009"	"2009"	"Unintentional"	"1"	13	28008	Unreliable
+	"Park County, WY"	"56029"	"2010"	"2010"	"Unintentional"	"1"	11	28205	Unreliable
+	"Park County, WY"	"56029"	"2011"	"2011"	"Unintentional"	"1"	14	28592	Unreliable
+	"Park County, WY"	"56029"	"2012"	"2012"	"Unintentional"	"1"	14	28702	Unreliable
+	"Park County, WY"	"56029"	"2012"	"2012"	"Suicide"	"2"	13	28702	Unreliable
+	"Park County, WY"	"56029"	"2013"	"2013"	"Unintentional"	"1"	13	29227	Unreliable
+	"Park County, WY"	"56029"	"2013"	"2013"	"Suicide"	"2"	11	29227	Unreliable
+	"Park County, WY"	"56029"	"2014"	"2014"	"Unintentional"	"1"	16	28989	Unreliable
+	"Park County, WY"	"56029"	"2015"	"2015"	"Unintentional"	"1"	26	29228	89.0
+	"Park County, WY"	"56029"	"2015"	"2015"	"Suicide"	"2"	10	29228	Unreliable
+	"Park County, WY"	"56029"	"2016"	"2016"	"Unintentional"	"1"	18	29353	Unreliable
+	"Park County, WY"	"56029"	"2016"	"2016"	"Suicide"	"2"	10	29353	Unreliable
+	"Park County, WY"	"56029"	"2017"	"2017"	"Unintentional"	"1"	23	29568	77.8
+	"Park County, WY"	"56029"	"2018"	"2018"	"Unintentional"	"1"	23	29324	78.4
+	"Platte County, WY"	"56031"	"2010"	"2010"	"Unintentional"	"1"	13	8667	Unreliable
+	"Sheridan County, WY"	"56033"	"2000"	"2000"	"Unintentional"	"1"	10	26560	Unreliable
+	"Sheridan County, WY"	"56033"	"2001"	"2001"	"Unintentional"	"1"	11	26623	Unreliable
+	"Sheridan County, WY"	"56033"	"2002"	"2002"	"Unintentional"	"1"	17	26839	Unreliable
+	"Sheridan County, WY"	"56033"	"2003"	"2003"	"Unintentional"	"1"	17	26938	Unreliable
+	"Sheridan County, WY"	"56033"	"2005"	"2005"	"Unintentional"	"1"	13	27075	Unreliable
+	"Sheridan County, WY"	"56033"	"2005"	"2005"	"Suicide"	"2"	10	27075	Unreliable
+	"Sheridan County, WY"	"56033"	"2006"	"2006"	"Unintentional"	"1"	19	27422	Unreliable
+	"Sheridan County, WY"	"56033"	"2006"	"2006"	"Suicide"	"2"	10	27422	Unreliable
+	"Sheridan County, WY"	"56033"	"2008"	"2008"	"Unintentional"	"1"	15	28465	Unreliable
+	"Sheridan County, WY"	"56033"	"2008"	"2008"	"Suicide"	"2"	10	28465	Unreliable
+	"Sheridan County, WY"	"56033"	"2010"	"2010"	"Unintentional"	"1"	12	29116	Unreliable
+	"Sheridan County, WY"	"56033"	"2011"	"2011"	"Unintentional"	"1"	16	29239	Unreliable
+	"Sheridan County, WY"	"56033"	"2012"	"2012"	"Unintentional"	"1"	12	29596	Unreliable
+	"Sheridan County, WY"	"56033"	"2012"	"2012"	"Suicide"	"2"	10	29596	Unreliable
+	"Sheridan County, WY"	"56033"	"2013"	"2013"	"Unintentional"	"1"	13	29824	Unreliable
+	"Sheridan County, WY"	"56033"	"2013"	"2013"	"Suicide"	"2"	11	29824	Unreliable
+	"Sheridan County, WY"	"56033"	"2014"	"2014"	"Unintentional"	"1"	17	30032	Unreliable
+	"Sheridan County, WY"	"56033"	"2014"	"2014"	"Suicide"	"2"	10	30032	Unreliable
+	"Sheridan County, WY"	"56033"	"2015"	"2015"	"Unintentional"	"1"	16	30009	Unreliable
+	"Sheridan County, WY"	"56033"	"2015"	"2015"	"Suicide"	"2"	12	30009	Unreliable
+	"Sheridan County, WY"	"56033"	"2016"	"2016"	"Unintentional"	"1"	34	30200	112.6
+	"Sheridan County, WY"	"56033"	"2017"	"2017"	"Unintentional"	"1"	19	30210	Unreliable
+	"Sheridan County, WY"	"56033"	"2018"	"2018"	"Unintentional"	"1"	24	30233	79.4
+	"Sublette County, WY"	"56035"	"2005"	"2005"	"Unintentional"	"1"	10	7515	Unreliable
+	"Sweetwater County, WY"	"56037"	"1999"	"1999"	"Unintentional"	"1"	19	38142	Unreliable
+	"Sweetwater County, WY"	"56037"	"1999"	"1999"	"Suicide"	"2"	10	38142	Unreliable
+	"Sweetwater County, WY"	"56037"	"2000"	"2000"	"Unintentional"	"1"	27	37613	71.8
+	"Sweetwater County, WY"	"56037"	"2001"	"2001"	"Unintentional"	"1"	16	36899	Unreliable
+	"Sweetwater County, WY"	"56037"	"2002"	"2002"	"Unintentional"	"1"	19	37428	Unreliable
+	"Sweetwater County, WY"	"56037"	"2002"	"2002"	"Suicide"	"2"	17	37428	Unreliable
+	"Sweetwater County, WY"	"56037"	"2003"	"2003"	"Unintentional"	"1"	19	37450	Unreliable
+	"Sweetwater County, WY"	"56037"	"2004"	"2004"	"Unintentional"	"1"	27	38026	71.0
+	"Sweetwater County, WY"	"56037"	"2004"	"2004"	"Suicide"	"2"	10	38026	Unreliable
+	"Sweetwater County, WY"	"56037"	"2005"	"2005"	"Unintentional"	"1"	14	38739	Unreliable
+	"Sweetwater County, WY"	"56037"	"2006"	"2006"	"Unintentional"	"1"	35	39749	88.1
+	"Sweetwater County, WY"	"56037"	"2006"	"2006"	"Suicide"	"2"	14	39749	Unreliable
+	"Sweetwater County, WY"	"56037"	"2007"	"2007"	"Unintentional"	"1"	29	41470	69.9
+	"Sweetwater County, WY"	"56037"	"2008"	"2008"	"Unintentional"	"1"	30	42358	70.8
+	"Sweetwater County, WY"	"56037"	"2008"	"2008"	"Suicide"	"2"	10	42358	Unreliable
+	"Sweetwater County, WY"	"56037"	"2009"	"2009"	"Unintentional"	"1"	27	44133	61.2
+	"Sweetwater County, WY"	"56037"	"2010"	"2010"	"Unintentional"	"1"	35	43806	79.9
+	"Sweetwater County, WY"	"56037"	"2010"	"2010"	"Suicide"	"2"	11	43806	Unreliable
+	"Sweetwater County, WY"	"56037"	"2011"	"2011"	"Unintentional"	"1"	21	44175	47.5
+	"Sweetwater County, WY"	"56037"	"2011"	"2011"	"Suicide"	"2"	15	44175	Unreliable
+	"Sweetwater County, WY"	"56037"	"2012"	"2012"	"Unintentional"	"1"	28	45267	61.9
+	"Sweetwater County, WY"	"56037"	"2012"	"2012"	"Suicide"	"2"	13	45267	Unreliable
+	"Sweetwater County, WY"	"56037"	"2013"	"2013"	"Unintentional"	"1"	20	45237	44.2
+	"Sweetwater County, WY"	"56037"	"2013"	"2013"	"Suicide"	"2"	13	45237	Unreliable
+	"Sweetwater County, WY"	"56037"	"2014"	"2014"	"Unintentional"	"1"	33	45010	73.3
+	"Sweetwater County, WY"	"56037"	"2015"	"2015"	"Unintentional"	"1"	22	44626	49.3
+	"Sweetwater County, WY"	"56037"	"2015"	"2015"	"Suicide"	"2"	11	44626	Unreliable
+	"Sweetwater County, WY"	"56037"	"2016"	"2016"	"Unintentional"	"1"	33	44165	74.7
+	"Sweetwater County, WY"	"56037"	"2017"	"2017"	"Unintentional"	"1"	26	43534	59.7
+	"Sweetwater County, WY"	"56037"	"2017"	"2017"	"Suicide"	"2"	16	43534	Unreliable
+	"Sweetwater County, WY"	"56037"	"2018"	"2018"	"Unintentional"	"1"	28	43051	65.0
+	"Sweetwater County, WY"	"56037"	"2018"	"2018"	"Suicide"	"2"	10	43051	Unreliable
+	"Teton County, WY"	"56039"	"2000"	"2000"	"Unintentional"	"1"	11	18251	Unreliable
+	"Teton County, WY"	"56039"	"2003"	"2003"	"Unintentional"	"1"	10	19066	Unreliable
+	"Teton County, WY"	"56039"	"2005"	"2005"	"Unintentional"	"1"	15	19632	Unreliable
+	"Teton County, WY"	"56039"	"2009"	"2009"	"Unintentional"	"1"	11	21232	Unreliable
+	"Teton County, WY"	"56039"	"2015"	"2015"	"Unintentional"	"1"	15	23125	Unreliable
+	"Teton County, WY"	"56039"	"2016"	"2016"	"Unintentional"	"1"	15	23191	Unreliable
+	"Teton County, WY"	"56039"	"2017"	"2017"	"Unintentional"	"1"	13	23265	Unreliable
+	"Uinta County, WY"	"56041"	"1999"	"1999"	"Unintentional"	"1"	11	19901	Unreliable
+	"Uinta County, WY"	"56041"	"2002"	"2002"	"Unintentional"	"1"	10	19587	Unreliable
+	"Uinta County, WY"	"56041"	"2003"	"2003"	"Unintentional"	"1"	11	19480	Unreliable
+	"Uinta County, WY"	"56041"	"2004"	"2004"	"Unintentional"	"1"	13	19470	Unreliable
+	"Uinta County, WY"	"56041"	"2005"	"2005"	"Unintentional"	"1"	10	19494	Unreliable
+	"Uinta County, WY"	"56041"	"2006"	"2006"	"Unintentional"	"1"	11	19709	Unreliable
+	"Uinta County, WY"	"56041"	"2007"	"2007"	"Unintentional"	"1"	16	20171	Unreliable
+	"Uinta County, WY"	"56041"	"2008"	"2008"	"Unintentional"	"1"	15	20613	Unreliable
+	"Uinta County, WY"	"56041"	"2009"	"2009"	"Unintentional"	"1"	10	21054	Unreliable
+	"Uinta County, WY"	"56041"	"2010"	"2010"	"Unintentional"	"1"	14	21118	Unreliable
+	"Uinta County, WY"	"56041"	"2011"	"2011"	"Unintentional"	"1"	14	20985	Unreliable
+	"Uinta County, WY"	"56041"	"2013"	"2013"	"Unintentional"	"1"	13	21066	Unreliable
+	"Uinta County, WY"	"56041"	"2014"	"2014"	"Unintentional"	"1"	15	20904	Unreliable
+	"Uinta County, WY"	"56041"	"2015"	"2015"	"Unintentional"	"1"	19	20822	Unreliable
+	"Uinta County, WY"	"56041"	"2016"	"2016"	"Unintentional"	"1"	16	20773	Unreliable
+	"Uinta County, WY"	"56041"	"2018"	"2018"	"Unintentional"	"1"	11	20299	Unreliable
+	"Washakie County, WY"	"56043"	"2018"	"2018"	"Unintentional"	"1"	10	7885	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Wyoming"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Wyoming (56)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 8:56:02 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 8:56:02 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,2372 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Albany County, NY"	"36001"	"1999"	"1999"	"Unintentional"	"1"	60	294692	20.4
+	"Albany County, NY"	"36001"	"1999"	"1999"	"Suicide"	"2"	25	294692	8.5
+	"Albany County, NY"	"36001"	"1999"	"1999"	"Homicide"	"3"	14	294692	Unreliable
+	"Albany County, NY"	"36001"	"2000"	"2000"	"Unintentional"	"1"	66	294565	22.4
+	"Albany County, NY"	"36001"	"2000"	"2000"	"Suicide"	"2"	19	294565	Unreliable
+	"Albany County, NY"	"36001"	"2000"	"2000"	"Homicide"	"3"	13	294565	Unreliable
+	"Albany County, NY"	"36001"	"2001"	"2001"	"Unintentional"	"1"	75	296232	25.3
+	"Albany County, NY"	"36001"	"2001"	"2001"	"Suicide"	"2"	17	296232	Unreliable
+	"Albany County, NY"	"36001"	"2001"	"2001"	"Homicide"	"3"	10	296232	Unreliable
+	"Albany County, NY"	"36001"	"2002"	"2002"	"Unintentional"	"1"	58	298283	19.4
+	"Albany County, NY"	"36001"	"2002"	"2002"	"Suicide"	"2"	29	298283	9.7
+	"Albany County, NY"	"36001"	"2002"	"2002"	"Homicide"	"3"	12	298283	Unreliable
+	"Albany County, NY"	"36001"	"2003"	"2003"	"Unintentional"	"1"	57	301085	18.9
+	"Albany County, NY"	"36001"	"2003"	"2003"	"Suicide"	"2"	18	301085	Unreliable
+	"Albany County, NY"	"36001"	"2004"	"2004"	"Unintentional"	"1"	64	302173	21.2
+	"Albany County, NY"	"36001"	"2004"	"2004"	"Suicide"	"2"	18	302173	Unreliable
+	"Albany County, NY"	"36001"	"2005"	"2005"	"Unintentional"	"1"	77	302791	25.4
+	"Albany County, NY"	"36001"	"2005"	"2005"	"Suicide"	"2"	23	302791	7.6
+	"Albany County, NY"	"36001"	"2005"	"2005"	"Homicide"	"3"	10	302791	Unreliable
+	"Albany County, NY"	"36001"	"2006"	"2006"	"Unintentional"	"1"	83	303997	27.3
+	"Albany County, NY"	"36001"	"2006"	"2006"	"Suicide"	"2"	21	303997	6.9
+	"Albany County, NY"	"36001"	"2007"	"2007"	"Unintentional"	"1"	72	303858	23.7
+	"Albany County, NY"	"36001"	"2007"	"2007"	"Suicide"	"2"	32	303858	10.5
+	"Albany County, NY"	"36001"	"2007"	"2007"	"Undetermined "	"4"	16	303858	Unreliable
+	"Albany County, NY"	"36001"	"2008"	"2008"	"Unintentional"	"1"	82	303739	27.0
+	"Albany County, NY"	"36001"	"2008"	"2008"	"Suicide"	"2"	31	303739	10.2
+	"Albany County, NY"	"36001"	"2008"	"2008"	"Homicide"	"3"	12	303739	Unreliable
+	"Albany County, NY"	"36001"	"2009"	"2009"	"Unintentional"	"1"	75	304733	24.6
+	"Albany County, NY"	"36001"	"2009"	"2009"	"Suicide"	"2"	16	304733	Unreliable
+	"Albany County, NY"	"36001"	"2009"	"2009"	"Undetermined "	"4"	13	304733	Unreliable
+	"Albany County, NY"	"36001"	"2010"	"2010"	"Unintentional"	"1"	71	304204	23.3
+	"Albany County, NY"	"36001"	"2010"	"2010"	"Suicide"	"2"	25	304204	8.2
+	"Albany County, NY"	"36001"	"2010"	"2010"	"Undetermined "	"4"	15	304204	Unreliable
+	"Albany County, NY"	"36001"	"2011"	"2011"	"Unintentional"	"1"	70	303565	23.1
+	"Albany County, NY"	"36001"	"2011"	"2011"	"Suicide"	"2"	28	303565	9.2
+	"Albany County, NY"	"36001"	"2011"	"2011"	"Undetermined "	"4"	22	303565	7.2
+	"Albany County, NY"	"36001"	"2012"	"2012"	"Unintentional"	"1"	91	305455	29.8
+	"Albany County, NY"	"36001"	"2012"	"2012"	"Suicide"	"2"	33	305455	10.8
+	"Albany County, NY"	"36001"	"2012"	"2012"	"Undetermined "	"4"	11	305455	Unreliable
+	"Albany County, NY"	"36001"	"2013"	"2013"	"Unintentional"	"1"	65	306945	21.2
+	"Albany County, NY"	"36001"	"2013"	"2013"	"Suicide"	"2"	36	306945	11.7
+	"Albany County, NY"	"36001"	"2013"	"2013"	"Homicide"	"3"	11	306945	Unreliable
+	"Albany County, NY"	"36001"	"2013"	"2013"	"Undetermined "	"4"	17	306945	Unreliable
+	"Albany County, NY"	"36001"	"2014"	"2014"	"Unintentional"	"1"	68	308171	22.1
+	"Albany County, NY"	"36001"	"2014"	"2014"	"Suicide"	"2"	26	308171	8.4
+	"Albany County, NY"	"36001"	"2014"	"2014"	"Homicide"	"3"	12	308171	Unreliable
+	"Albany County, NY"	"36001"	"2014"	"2014"	"Undetermined "	"4"	27	308171	8.8
+	"Albany County, NY"	"36001"	"2015"	"2015"	"Unintentional"	"1"	69	309381	22.3
+	"Albany County, NY"	"36001"	"2015"	"2015"	"Suicide"	"2"	32	309381	10.3
+	"Albany County, NY"	"36001"	"2015"	"2015"	"Undetermined "	"4"	32	309381	10.3
+	"Albany County, NY"	"36001"	"2016"	"2016"	"Unintentional"	"1"	77	308846	24.9
+	"Albany County, NY"	"36001"	"2016"	"2016"	"Suicide"	"2"	24	308846	7.8
+	"Albany County, NY"	"36001"	"2016"	"2016"	"Undetermined "	"4"	22	308846	7.1
+	"Albany County, NY"	"36001"	"2017"	"2017"	"Unintentional"	"1"	86	309612	27.8
+	"Albany County, NY"	"36001"	"2017"	"2017"	"Suicide"	"2"	31	309612	10.0
+	"Albany County, NY"	"36001"	"2017"	"2017"	"Undetermined "	"4"	24	309612	7.8
+	"Albany County, NY"	"36001"	"2018"	"2018"	"Unintentional"	"1"	90	307117	29.3
+	"Albany County, NY"	"36001"	"2018"	"2018"	"Suicide"	"2"	37	307117	12.0
+	"Albany County, NY"	"36001"	"2018"	"2018"	"Homicide"	"3"	13	307117	Unreliable
+	"Albany County, NY"	"36001"	"2018"	"2018"	"Undetermined "	"4"	20	307117	6.5
+	"Allegany County, NY"	"36003"	"1999"	"1999"	"Unintentional"	"1"	21	49997	42.0
+	"Allegany County, NY"	"36003"	"2000"	"2000"	"Unintentional"	"1"	16	49927	Unreliable
+	"Allegany County, NY"	"36003"	"2001"	"2001"	"Unintentional"	"1"	19	50079	Unreliable
+	"Allegany County, NY"	"36003"	"2002"	"2002"	"Unintentional"	"1"	27	50014	54.0
+	"Allegany County, NY"	"36003"	"2003"	"2003"	"Unintentional"	"1"	12	50165	Unreliable
+	"Allegany County, NY"	"36003"	"2004"	"2004"	"Unintentional"	"1"	18	50311	Unreliable
+	"Allegany County, NY"	"36003"	"2005"	"2005"	"Unintentional"	"1"	16	49768	Unreliable
+	"Allegany County, NY"	"36003"	"2005"	"2005"	"Suicide"	"2"	10	49768	Unreliable
+	"Allegany County, NY"	"36003"	"2006"	"2006"	"Unintentional"	"1"	25	49359	50.6
+	"Allegany County, NY"	"36003"	"2007"	"2007"	"Unintentional"	"1"	23	49079	46.9
+	"Allegany County, NY"	"36003"	"2008"	"2008"	"Unintentional"	"1"	17	49177	Unreliable
+	"Allegany County, NY"	"36003"	"2009"	"2009"	"Unintentional"	"1"	18	48969	Unreliable
+	"Allegany County, NY"	"36003"	"2010"	"2010"	"Unintentional"	"1"	24	48946	49.0
+	"Allegany County, NY"	"36003"	"2011"	"2011"	"Unintentional"	"1"	21	48778	43.1
+	"Allegany County, NY"	"36003"	"2012"	"2012"	"Unintentional"	"1"	24	48357	49.6
+	"Allegany County, NY"	"36003"	"2013"	"2013"	"Unintentional"	"1"	13	48109	Unreliable
+	"Allegany County, NY"	"36003"	"2013"	"2013"	"Suicide"	"2"	11	48109	Unreliable
+	"Allegany County, NY"	"36003"	"2014"	"2014"	"Unintentional"	"1"	16	47736	Unreliable
+	"Allegany County, NY"	"36003"	"2015"	"2015"	"Unintentional"	"1"	17	47462	Unreliable
+	"Allegany County, NY"	"36003"	"2016"	"2016"	"Unintentional"	"1"	17	47077	Unreliable
+	"Allegany County, NY"	"36003"	"2017"	"2017"	"Unintentional"	"1"	18	46894	Unreliable
+	"Allegany County, NY"	"36003"	"2018"	"2018"	"Unintentional"	"1"	18	46430	Unreliable
+	"Bronx County, NY"	"36005"	"1999"	"1999"	"Unintentional"	"1"	306	1317895	23.2
+	"Bronx County, NY"	"36005"	"1999"	"1999"	"Suicide"	"2"	68	1317895	5.2
+	"Bronx County, NY"	"36005"	"1999"	"1999"	"Homicide"	"3"	148	1317895	11.2
+	"Bronx County, NY"	"36005"	"2000"	"2000"	"Unintentional"	"1"	301	1332650	22.6
+	"Bronx County, NY"	"36005"	"2000"	"2000"	"Suicide"	"2"	66	1332650	5.0
+	"Bronx County, NY"	"36005"	"2000"	"2000"	"Homicide"	"3"	190	1332650	14.3
+	"Bronx County, NY"	"36005"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	15	1332650	Unreliable
+	"Bronx County, NY"	"36005"	"2001"	"2001"	"Unintentional"	"1"	401	1346555	29.8
+	"Bronx County, NY"	"36005"	"2001"	"2001"	"Suicide"	"2"	65	1346555	4.8
+	"Bronx County, NY"	"36005"	"2001"	"2001"	"Homicide"	"3"	206	1346555	15.3
+	"Bronx County, NY"	"36005"	"2001"	"2001"	"Undetermined "	"4"	16	1346555	Unreliable
+	"Bronx County, NY"	"36005"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	16	1346555	Unreliable
+	"Bronx County, NY"	"36005"	"2002"	"2002"	"Unintentional"	"1"	302	1358739	22.2
+	"Bronx County, NY"	"36005"	"2002"	"2002"	"Suicide"	"2"	78	1358739	5.7
+	"Bronx County, NY"	"36005"	"2002"	"2002"	"Homicide"	"3"	168	1358739	12.4
+	"Bronx County, NY"	"36005"	"2002"	"2002"	"Undetermined "	"4"	23	1358739	1.7
+	"Bronx County, NY"	"36005"	"2003"	"2003"	"Unintentional"	"1"	301	1362373	22.1
+	"Bronx County, NY"	"36005"	"2003"	"2003"	"Suicide"	"2"	84	1362373	6.2
+	"Bronx County, NY"	"36005"	"2003"	"2003"	"Homicide"	"3"	154	1362373	11.3
+	"Bronx County, NY"	"36005"	"2003"	"2003"	"Undetermined "	"4"	19	1362373	Unreliable
+	"Bronx County, NY"	"36005"	"2004"	"2004"	"Unintentional"	"1"	327	1358963	24.1
+	"Bronx County, NY"	"36005"	"2004"	"2004"	"Suicide"	"2"	62	1358963	4.6
+	"Bronx County, NY"	"36005"	"2004"	"2004"	"Homicide"	"3"	137	1358963	10.1
+	"Bronx County, NY"	"36005"	"2004"	"2004"	"Undetermined "	"4"	13	1358963	Unreliable
+	"Bronx County, NY"	"36005"	"2005"	"2005"	"Unintentional"	"1"	309	1351736	22.9
+	"Bronx County, NY"	"36005"	"2005"	"2005"	"Suicide"	"2"	71	1351736	5.3
+	"Bronx County, NY"	"36005"	"2005"	"2005"	"Homicide"	"3"	145	1351736	10.7
+	"Bronx County, NY"	"36005"	"2005"	"2005"	"Undetermined "	"4"	18	1351736	Unreliable
+	"Bronx County, NY"	"36005"	"2006"	"2006"	"Unintentional"	"1"	367	1348164	27.2
+	"Bronx County, NY"	"36005"	"2006"	"2006"	"Suicide"	"2"	66	1348164	4.9
+	"Bronx County, NY"	"36005"	"2006"	"2006"	"Homicide"	"3"	162	1348164	12.0
+	"Bronx County, NY"	"36005"	"2006"	"2006"	"Undetermined "	"4"	15	1348164	Unreliable
+	"Bronx County, NY"	"36005"	"2007"	"2007"	"Unintentional"	"1"	344	1354056	25.4
+	"Bronx County, NY"	"36005"	"2007"	"2007"	"Suicide"	"2"	78	1354056	5.8
+	"Bronx County, NY"	"36005"	"2007"	"2007"	"Homicide"	"3"	133	1354056	9.8
+	"Bronx County, NY"	"36005"	"2007"	"2007"	"Undetermined "	"4"	20	1354056	1.5
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Unintentional"	"1"	284	1363488	20.8
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Suicide"	"2"	71	1363488	5.2
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Homicide"	"3"	142	1363488	10.4
+	"Bronx County, NY"	"36005"	"2008"	"2008"	"Undetermined "	"4"	12	1363488	Unreliable
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Unintentional"	"1"	291	1376261	21.1
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Suicide"	"2"	89	1376261	6.5
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Homicide"	"3"	115	1376261	8.4
+	"Bronx County, NY"	"36005"	"2009"	"2009"	"Undetermined "	"4"	19	1376261	Unreliable
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Unintentional"	"1"	274	1385108	19.8
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Suicide"	"2"	60	1385108	4.3
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Homicide"	"3"	138	1385108	10.0
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Undetermined "	"4"	22	1385108	1.6
+	"Bronx County, NY"	"36005"	"2011"	"2011"	"Unintentional"	"1"	323	1392002	23.2
+	"Bronx County, NY"	"36005"	"2011"	"2011"	"Suicide"	"2"	81	1392002	5.8
+	"Bronx County, NY"	"36005"	"2011"	"2011"	"Homicide"	"3"	149	1392002	10.7
+	"Bronx County, NY"	"36005"	"2011"	"2011"	"Undetermined "	"4"	18	1392002	Unreliable
+	"Bronx County, NY"	"36005"	"2012"	"2012"	"Unintentional"	"1"	337	1408473	23.9
+	"Bronx County, NY"	"36005"	"2012"	"2012"	"Suicide"	"2"	76	1408473	5.4
+	"Bronx County, NY"	"36005"	"2012"	"2012"	"Homicide"	"3"	120	1408473	8.5
+	"Bronx County, NY"	"36005"	"2012"	"2012"	"Undetermined "	"4"	17	1408473	Unreliable
+	"Bronx County, NY"	"36005"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	13	1408473	Unreliable
+	"Bronx County, NY"	"36005"	"2013"	"2013"	"Unintentional"	"1"	339	1418733	23.9
+	"Bronx County, NY"	"36005"	"2013"	"2013"	"Suicide"	"2"	83	1418733	5.9
+	"Bronx County, NY"	"36005"	"2013"	"2013"	"Homicide"	"3"	83	1418733	5.9
+	"Bronx County, NY"	"36005"	"2013"	"2013"	"Undetermined "	"4"	22	1418733	1.6
+	"Bronx County, NY"	"36005"	"2014"	"2014"	"Unintentional"	"1"	305	1438159	21.2
+	"Bronx County, NY"	"36005"	"2014"	"2014"	"Suicide"	"2"	68	1438159	4.7
+	"Bronx County, NY"	"36005"	"2014"	"2014"	"Homicide"	"3"	113	1438159	7.9
+	"Bronx County, NY"	"36005"	"2014"	"2014"	"Undetermined "	"4"	21	1438159	1.5
+	"Bronx County, NY"	"36005"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	1438159	Unreliable
+	"Bronx County, NY"	"36005"	"2015"	"2015"	"Unintentional"	"1"	396	1455444	27.2
+	"Bronx County, NY"	"36005"	"2015"	"2015"	"Suicide"	"2"	87	1455444	6.0
+	"Bronx County, NY"	"36005"	"2015"	"2015"	"Homicide"	"3"	98	1455444	6.7
+	"Bronx County, NY"	"36005"	"2015"	"2015"	"Undetermined "	"4"	22	1455444	1.5
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Unintentional"	"1"	507	1455720	34.8
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Suicide"	"2"	89	1455720	6.1
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Homicide"	"3"	105	1455720	7.2
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Undetermined "	"4"	21	1455720	1.4
+	"Bronx County, NY"	"36005"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	12	1455720	Unreliable
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Unintentional"	"1"	550	1471160	37.4
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Suicide"	"2"	82	1471160	5.6
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Homicide"	"3"	68	1471160	4.6
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Undetermined "	"4"	21	1471160	1.4
+	"Bronx County, NY"	"36005"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	15	1471160	Unreliable
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Unintentional"	"1"	556	1432132	38.8
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Suicide"	"2"	71	1432132	5.0
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Homicide"	"3"	103	1432132	7.2
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Undetermined "	"4"	13	1432132	Unreliable
+	"Bronx County, NY"	"36005"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	12	1432132	Unreliable
+	"Broome County, NY"	"36007"	"1999"	"1999"	"Unintentional"	"1"	46	200881	22.9
+	"Broome County, NY"	"36007"	"1999"	"1999"	"Suicide"	"2"	11	200881	Unreliable
+	"Broome County, NY"	"36007"	"2000"	"2000"	"Unintentional"	"1"	40	200536	19.9
+	"Broome County, NY"	"36007"	"2000"	"2000"	"Suicide"	"2"	12	200536	Unreliable
+	"Broome County, NY"	"36007"	"2001"	"2001"	"Unintentional"	"1"	45	200868	22.4
+	"Broome County, NY"	"36007"	"2001"	"2001"	"Suicide"	"2"	11	200868	Unreliable
+	"Broome County, NY"	"36007"	"2002"	"2002"	"Unintentional"	"1"	57	201438	28.3
+	"Broome County, NY"	"36007"	"2002"	"2002"	"Suicide"	"2"	20	201438	9.9
+	"Broome County, NY"	"36007"	"2003"	"2003"	"Unintentional"	"1"	62	201037	30.8
+	"Broome County, NY"	"36007"	"2003"	"2003"	"Suicide"	"2"	17	201037	Unreliable
+	"Broome County, NY"	"36007"	"2004"	"2004"	"Unintentional"	"1"	65	200974	32.3
+	"Broome County, NY"	"36007"	"2004"	"2004"	"Suicide"	"2"	19	200974	Unreliable
+	"Broome County, NY"	"36007"	"2005"	"2005"	"Unintentional"	"1"	46	200477	22.9
+	"Broome County, NY"	"36007"	"2005"	"2005"	"Suicide"	"2"	23	200477	11.5
+	"Broome County, NY"	"36007"	"2006"	"2006"	"Unintentional"	"1"	77	200905	38.3
+	"Broome County, NY"	"36007"	"2006"	"2006"	"Suicide"	"2"	26	200905	12.9
+	"Broome County, NY"	"36007"	"2007"	"2007"	"Unintentional"	"1"	60	200877	29.9
+	"Broome County, NY"	"36007"	"2007"	"2007"	"Suicide"	"2"	24	200877	11.9
+	"Broome County, NY"	"36007"	"2008"	"2008"	"Unintentional"	"1"	63	201029	31.3
+	"Broome County, NY"	"36007"	"2008"	"2008"	"Suicide"	"2"	18	201029	Unreliable
+	"Broome County, NY"	"36007"	"2009"	"2009"	"Unintentional"	"1"	51	200935	25.4
+	"Broome County, NY"	"36007"	"2009"	"2009"	"Suicide"	"2"	16	200935	Unreliable
+	"Broome County, NY"	"36007"	"2009"	"2009"	"Homicide"	"3"	17	200935	Unreliable
+	"Broome County, NY"	"36007"	"2010"	"2010"	"Unintentional"	"1"	83	200600	41.4
+	"Broome County, NY"	"36007"	"2010"	"2010"	"Suicide"	"2"	18	200600	Unreliable
+	"Broome County, NY"	"36007"	"2011"	"2011"	"Unintentional"	"1"	76	199031	38.2
+	"Broome County, NY"	"36007"	"2011"	"2011"	"Suicide"	"2"	37	199031	18.6
+	"Broome County, NY"	"36007"	"2012"	"2012"	"Unintentional"	"1"	86	198060	43.4
+	"Broome County, NY"	"36007"	"2012"	"2012"	"Suicide"	"2"	22	198060	11.1
+	"Broome County, NY"	"36007"	"2013"	"2013"	"Unintentional"	"1"	80	197534	40.5
+	"Broome County, NY"	"36007"	"2013"	"2013"	"Suicide"	"2"	22	197534	11.1
+	"Broome County, NY"	"36007"	"2014"	"2014"	"Unintentional"	"1"	99	197349	50.2
+	"Broome County, NY"	"36007"	"2014"	"2014"	"Suicide"	"2"	30	197349	15.2
+	"Broome County, NY"	"36007"	"2015"	"2015"	"Unintentional"	"1"	94	196567	47.8
+	"Broome County, NY"	"36007"	"2015"	"2015"	"Suicide"	"2"	18	196567	Unreliable
+	"Broome County, NY"	"36007"	"2016"	"2016"	"Unintentional"	"1"	128	195334	65.5
+	"Broome County, NY"	"36007"	"2016"	"2016"	"Suicide"	"2"	25	195334	12.8
+	"Broome County, NY"	"36007"	"2017"	"2017"	"Unintentional"	"1"	127	193639	65.6
+	"Broome County, NY"	"36007"	"2017"	"2017"	"Suicide"	"2"	26	193639	13.4
+	"Broome County, NY"	"36007"	"2018"	"2018"	"Unintentional"	"1"	107	191659	55.8
+	"Broome County, NY"	"36007"	"2018"	"2018"	"Suicide"	"2"	20	191659	10.4
+	"Cattaraugus County, NY"	"36009"	"1999"	"1999"	"Unintentional"	"1"	31	84050	36.9
+	"Cattaraugus County, NY"	"36009"	"2000"	"2000"	"Unintentional"	"1"	27	83955	32.2
+	"Cattaraugus County, NY"	"36009"	"2000"	"2000"	"Suicide"	"2"	11	83955	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2001"	"2001"	"Unintentional"	"1"	34	83346	40.8
+	"Cattaraugus County, NY"	"36009"	"2002"	"2002"	"Unintentional"	"1"	18	83301	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2003"	"2003"	"Unintentional"	"1"	29	83335	34.8
+	"Cattaraugus County, NY"	"36009"	"2004"	"2004"	"Unintentional"	"1"	28	82864	33.8
+	"Cattaraugus County, NY"	"36009"	"2004"	"2004"	"Suicide"	"2"	10	82864	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2005"	"2005"	"Unintentional"	"1"	32	82039	39.0
+	"Cattaraugus County, NY"	"36009"	"2005"	"2005"	"Suicide"	"2"	10	82039	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2006"	"2006"	"Unintentional"	"1"	27	81342	33.2
+	"Cattaraugus County, NY"	"36009"	"2007"	"2007"	"Unintentional"	"1"	36	81056	44.4
+	"Cattaraugus County, NY"	"36009"	"2007"	"2007"	"Suicide"	"2"	12	81056	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2008"	"2008"	"Unintentional"	"1"	29	80761	35.9
+	"Cattaraugus County, NY"	"36009"	"2009"	"2009"	"Unintentional"	"1"	25	80491	31.1
+	"Cattaraugus County, NY"	"36009"	"2009"	"2009"	"Suicide"	"2"	15	80491	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2010"	"2010"	"Unintentional"	"1"	34	80317	42.3
+	"Cattaraugus County, NY"	"36009"	"2011"	"2011"	"Unintentional"	"1"	37	79832	46.3
+	"Cattaraugus County, NY"	"36009"	"2011"	"2011"	"Suicide"	"2"	11	79832	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2012"	"2012"	"Unintentional"	"1"	28	79458	35.2
+	"Cattaraugus County, NY"	"36009"	"2012"	"2012"	"Suicide"	"2"	10	79458	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2013"	"2013"	"Unintentional"	"1"	37	78892	46.9
+	"Cattaraugus County, NY"	"36009"	"2013"	"2013"	"Suicide"	"2"	13	78892	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2014"	"2014"	"Unintentional"	"1"	25	78600	31.8
+	"Cattaraugus County, NY"	"36009"	"2014"	"2014"	"Suicide"	"2"	14	78600	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2015"	"2015"	"Unintentional"	"1"	34	77922	43.6
+	"Cattaraugus County, NY"	"36009"	"2015"	"2015"	"Suicide"	"2"	11	77922	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2016"	"2016"	"Unintentional"	"1"	49	77677	63.1
+	"Cattaraugus County, NY"	"36009"	"2016"	"2016"	"Suicide"	"2"	10	77677	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2017"	"2017"	"Unintentional"	"1"	47	77348	60.8
+	"Cattaraugus County, NY"	"36009"	"2017"	"2017"	"Suicide"	"2"	15	77348	Unreliable
+	"Cattaraugus County, NY"	"36009"	"2018"	"2018"	"Unintentional"	"1"	33	76840	42.9
+	"Cattaraugus County, NY"	"36009"	"2018"	"2018"	"Suicide"	"2"	14	76840	Unreliable
+	"Cayuga County, NY"	"36011"	"1999"	"1999"	"Unintentional"	"1"	28	82034	34.1
+	"Cayuga County, NY"	"36011"	"2000"	"2000"	"Unintentional"	"1"	21	81963	25.6
+	"Cayuga County, NY"	"36011"	"2001"	"2001"	"Unintentional"	"1"	20	81313	24.6
+	"Cayuga County, NY"	"36011"	"2002"	"2002"	"Unintentional"	"1"	24	81401	29.5
+	"Cayuga County, NY"	"36011"	"2003"	"2003"	"Unintentional"	"1"	22	81395	27.0
+	"Cayuga County, NY"	"36011"	"2004"	"2004"	"Unintentional"	"1"	23	81284	28.3
+	"Cayuga County, NY"	"36011"	"2005"	"2005"	"Unintentional"	"1"	22	81104	27.1
+	"Cayuga County, NY"	"36011"	"2006"	"2006"	"Unintentional"	"1"	26	80892	32.1
+	"Cayuga County, NY"	"36011"	"2007"	"2007"	"Unintentional"	"1"	27	80629	33.5
+	"Cayuga County, NY"	"36011"	"2008"	"2008"	"Unintentional"	"1"	37	80482	46.0
+	"Cayuga County, NY"	"36011"	"2009"	"2009"	"Unintentional"	"1"	34	80172	42.4
+	"Cayuga County, NY"	"36011"	"2010"	"2010"	"Unintentional"	"1"	30	80026	37.5
+	"Cayuga County, NY"	"36011"	"2010"	"2010"	"Suicide"	"2"	13	80026	Unreliable
+	"Cayuga County, NY"	"36011"	"2011"	"2011"	"Unintentional"	"1"	27	79738	33.9
+	"Cayuga County, NY"	"36011"	"2011"	"2011"	"Suicide"	"2"	11	79738	Unreliable
+	"Cayuga County, NY"	"36011"	"2012"	"2012"	"Unintentional"	"1"	33	79552	41.5
+	"Cayuga County, NY"	"36011"	"2013"	"2013"	"Unintentional"	"1"	36	79477	45.3
+	"Cayuga County, NY"	"36011"	"2013"	"2013"	"Suicide"	"2"	11	79477	Unreliable
+	"Cayuga County, NY"	"36011"	"2014"	"2014"	"Unintentional"	"1"	30	78823	38.1
+	"Cayuga County, NY"	"36011"	"2015"	"2015"	"Unintentional"	"1"	32	78288	40.9
+	"Cayuga County, NY"	"36011"	"2016"	"2016"	"Unintentional"	"1"	40	77861	51.4
+	"Cayuga County, NY"	"36011"	"2016"	"2016"	"Suicide"	"2"	10	77861	Unreliable
+	"Cayuga County, NY"	"36011"	"2017"	"2017"	"Unintentional"	"1"	49	77603	63.1
+	"Cayuga County, NY"	"36011"	"2018"	"2018"	"Unintentional"	"1"	40	77145	51.9
+	"Cayuga County, NY"	"36011"	"2018"	"2018"	"Suicide"	"2"	10	77145	Unreliable
+	"Chautauqua County, NY"	"36013"	"1999"	"1999"	"Unintentional"	"1"	41	140087	29.3
+	"Chautauqua County, NY"	"36013"	"1999"	"1999"	"Suicide"	"2"	16	140087	Unreliable
+	"Chautauqua County, NY"	"36013"	"2000"	"2000"	"Unintentional"	"1"	59	139750	42.2
+	"Chautauqua County, NY"	"36013"	"2000"	"2000"	"Suicide"	"2"	13	139750	Unreliable
+	"Chautauqua County, NY"	"36013"	"2001"	"2001"	"Unintentional"	"1"	31	138730	22.3
+	"Chautauqua County, NY"	"36013"	"2001"	"2001"	"Suicide"	"2"	14	138730	Unreliable
+	"Chautauqua County, NY"	"36013"	"2002"	"2002"	"Unintentional"	"1"	34	138346	24.6
+	"Chautauqua County, NY"	"36013"	"2002"	"2002"	"Suicide"	"2"	13	138346	Unreliable
+	"Chautauqua County, NY"	"36013"	"2003"	"2003"	"Unintentional"	"1"	50	137587	36.3
+	"Chautauqua County, NY"	"36013"	"2004"	"2004"	"Unintentional"	"1"	43	137174	31.3
+	"Chautauqua County, NY"	"36013"	"2004"	"2004"	"Suicide"	"2"	11	137174	Unreliable
+	"Chautauqua County, NY"	"36013"	"2005"	"2005"	"Unintentional"	"1"	47	136139	34.5
+	"Chautauqua County, NY"	"36013"	"2005"	"2005"	"Suicide"	"2"	12	136139	Unreliable
+	"Chautauqua County, NY"	"36013"	"2006"	"2006"	"Unintentional"	"1"	47	135640	34.7
+	"Chautauqua County, NY"	"36013"	"2006"	"2006"	"Suicide"	"2"	10	135640	Unreliable
+	"Chautauqua County, NY"	"36013"	"2007"	"2007"	"Unintentional"	"1"	49	135481	36.2
+	"Chautauqua County, NY"	"36013"	"2007"	"2007"	"Suicide"	"2"	12	135481	Unreliable
+	"Chautauqua County, NY"	"36013"	"2007"	"2007"	"Undetermined "	"4"	12	135481	Unreliable
+	"Chautauqua County, NY"	"36013"	"2008"	"2008"	"Unintentional"	"1"	43	135229	31.8
+	"Chautauqua County, NY"	"36013"	"2008"	"2008"	"Suicide"	"2"	11	135229	Unreliable
+	"Chautauqua County, NY"	"36013"	"2008"	"2008"	"Undetermined "	"4"	13	135229	Unreliable
+	"Chautauqua County, NY"	"36013"	"2009"	"2009"	"Unintentional"	"1"	41	135197	30.3
+	"Chautauqua County, NY"	"36013"	"2009"	"2009"	"Suicide"	"2"	14	135197	Unreliable
+	"Chautauqua County, NY"	"36013"	"2010"	"2010"	"Unintentional"	"1"	49	134905	36.3
+	"Chautauqua County, NY"	"36013"	"2010"	"2010"	"Suicide"	"2"	19	134905	Unreliable
+	"Chautauqua County, NY"	"36013"	"2011"	"2011"	"Unintentional"	"1"	49	134368	36.5
+	"Chautauqua County, NY"	"36013"	"2011"	"2011"	"Suicide"	"2"	14	134368	Unreliable
+	"Chautauqua County, NY"	"36013"	"2012"	"2012"	"Unintentional"	"1"	57	133539	42.7
+	"Chautauqua County, NY"	"36013"	"2012"	"2012"	"Suicide"	"2"	20	133539	15.0
+	"Chautauqua County, NY"	"36013"	"2013"	"2013"	"Unintentional"	"1"	43	133080	32.3
+	"Chautauqua County, NY"	"36013"	"2013"	"2013"	"Suicide"	"2"	15	133080	Unreliable
+	"Chautauqua County, NY"	"36013"	"2014"	"2014"	"Unintentional"	"1"	60	132053	45.4
+	"Chautauqua County, NY"	"36013"	"2014"	"2014"	"Suicide"	"2"	18	132053	Unreliable
+	"Chautauqua County, NY"	"36013"	"2015"	"2015"	"Unintentional"	"1"	67	130779	51.2
+	"Chautauqua County, NY"	"36013"	"2015"	"2015"	"Suicide"	"2"	17	130779	Unreliable
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"Unintentional"	"1"	78	129504	60.2
+	"Chautauqua County, NY"	"36013"	"2016"	"2016"	"Suicide"	"2"	19	129504	Unreliable
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"Unintentional"	"1"	68	129046	52.7
+	"Chautauqua County, NY"	"36013"	"2017"	"2017"	"Suicide"	"2"	21	129046	16.3
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"Unintentional"	"1"	67	127939	52.4
+	"Chautauqua County, NY"	"36013"	"2018"	"2018"	"Suicide"	"2"	17	127939	Unreliable
+	"Chemung County, NY"	"36015"	"1999"	"1999"	"Unintentional"	"1"	30	91284	32.9
+	"Chemung County, NY"	"36015"	"1999"	"1999"	"Suicide"	"2"	10	91284	Unreliable
+	"Chemung County, NY"	"36015"	"2000"	"2000"	"Unintentional"	"1"	22	91070	24.2
+	"Chemung County, NY"	"36015"	"2001"	"2001"	"Unintentional"	"1"	30	90780	33.0
+	"Chemung County, NY"	"36015"	"2002"	"2002"	"Unintentional"	"1"	33	90613	36.4
+	"Chemung County, NY"	"36015"	"2003"	"2003"	"Unintentional"	"1"	26	90154	28.8
+	"Chemung County, NY"	"36015"	"2004"	"2004"	"Unintentional"	"1"	22	89777	24.5
+	"Chemung County, NY"	"36015"	"2005"	"2005"	"Unintentional"	"1"	26	88860	29.3
+	"Chemung County, NY"	"36015"	"2005"	"2005"	"Suicide"	"2"	14	88860	Unreliable
+	"Chemung County, NY"	"36015"	"2006"	"2006"	"Unintentional"	"1"	25	88732	28.2
+	"Chemung County, NY"	"36015"	"2006"	"2006"	"Suicide"	"2"	11	88732	Unreliable
+	"Chemung County, NY"	"36015"	"2007"	"2007"	"Unintentional"	"1"	23	88634	25.9
+	"Chemung County, NY"	"36015"	"2007"	"2007"	"Suicide"	"2"	12	88634	Unreliable
+	"Chemung County, NY"	"36015"	"2008"	"2008"	"Unintentional"	"1"	39	88503	44.1
+	"Chemung County, NY"	"36015"	"2008"	"2008"	"Suicide"	"2"	15	88503	Unreliable
+	"Chemung County, NY"	"36015"	"2009"	"2009"	"Unintentional"	"1"	39	88849	43.9
+	"Chemung County, NY"	"36015"	"2009"	"2009"	"Suicide"	"2"	11	88849	Unreliable
+	"Chemung County, NY"	"36015"	"2010"	"2010"	"Unintentional"	"1"	37	88830	41.7
+	"Chemung County, NY"	"36015"	"2011"	"2011"	"Unintentional"	"1"	45	88840	50.7
+	"Chemung County, NY"	"36015"	"2011"	"2011"	"Suicide"	"2"	12	88840	Unreliable
+	"Chemung County, NY"	"36015"	"2012"	"2012"	"Unintentional"	"1"	44	88911	49.5
+	"Chemung County, NY"	"36015"	"2013"	"2013"	"Unintentional"	"1"	42	88506	47.5
+	"Chemung County, NY"	"36015"	"2014"	"2014"	"Unintentional"	"1"	32	87770	36.5
+	"Chemung County, NY"	"36015"	"2014"	"2014"	"Suicide"	"2"	11	87770	Unreliable
+	"Chemung County, NY"	"36015"	"2015"	"2015"	"Unintentional"	"1"	47	87071	54.0
+	"Chemung County, NY"	"36015"	"2016"	"2016"	"Unintentional"	"1"	67	86322	77.6
+	"Chemung County, NY"	"36015"	"2016"	"2016"	"Suicide"	"2"	14	86322	Unreliable
+	"Chemung County, NY"	"36015"	"2017"	"2017"	"Unintentional"	"1"	58	85557	67.8
+	"Chemung County, NY"	"36015"	"2018"	"2018"	"Unintentional"	"1"	50	84254	59.3
+	"Chemung County, NY"	"36015"	"2018"	"2018"	"Suicide"	"2"	12	84254	Unreliable
+	"Chenango County, NY"	"36017"	"1999"	"1999"	"Unintentional"	"1"	23	51286	44.8
+	"Chenango County, NY"	"36017"	"2000"	"2000"	"Unintentional"	"1"	19	51401	Unreliable
+	"Chenango County, NY"	"36017"	"2001"	"2001"	"Unintentional"	"1"	21	51109	41.1
+	"Chenango County, NY"	"36017"	"2002"	"2002"	"Unintentional"	"1"	22	51205	43.0
+	"Chenango County, NY"	"36017"	"2003"	"2003"	"Unintentional"	"1"	22	51393	42.8
+	"Chenango County, NY"	"36017"	"2004"	"2004"	"Unintentional"	"1"	17	51297	Unreliable
+	"Chenango County, NY"	"36017"	"2005"	"2005"	"Unintentional"	"1"	19	51154	Unreliable
+	"Chenango County, NY"	"36017"	"2006"	"2006"	"Unintentional"	"1"	21	51391	40.9
+	"Chenango County, NY"	"36017"	"2007"	"2007"	"Unintentional"	"1"	20	51463	38.9
+	"Chenango County, NY"	"36017"	"2008"	"2008"	"Unintentional"	"1"	19	51326	Unreliable
+	"Chenango County, NY"	"36017"	"2009"	"2009"	"Unintentional"	"1"	13	50639	Unreliable
+	"Chenango County, NY"	"36017"	"2010"	"2010"	"Unintentional"	"1"	21	50477	41.6
+	"Chenango County, NY"	"36017"	"2011"	"2011"	"Unintentional"	"1"	20	50118	39.9
+	"Chenango County, NY"	"36017"	"2012"	"2012"	"Unintentional"	"1"	18	49933	Unreliable
+	"Chenango County, NY"	"36017"	"2013"	"2013"	"Unintentional"	"1"	27	49503	54.5
+	"Chenango County, NY"	"36017"	"2014"	"2014"	"Unintentional"	"1"	18	49426	Unreliable
+	"Chenango County, NY"	"36017"	"2015"	"2015"	"Unintentional"	"1"	17	48844	Unreliable
+	"Chenango County, NY"	"36017"	"2016"	"2016"	"Unintentional"	"1"	29	48579	59.7
+	"Chenango County, NY"	"36017"	"2017"	"2017"	"Unintentional"	"1"	16	47863	Unreliable
+	"Chenango County, NY"	"36017"	"2018"	"2018"	"Unintentional"	"1"	17	47536	Unreliable
+	"Clinton County, NY"	"36019"	"1999"	"1999"	"Unintentional"	"1"	34	79875	42.6
+	"Clinton County, NY"	"36019"	"1999"	"1999"	"Suicide"	"2"	12	79875	Unreliable
+	"Clinton County, NY"	"36019"	"2000"	"2000"	"Unintentional"	"1"	24	79894	30.0
+	"Clinton County, NY"	"36019"	"2001"	"2001"	"Unintentional"	"1"	29	80320	36.1
+	"Clinton County, NY"	"36019"	"2002"	"2002"	"Unintentional"	"1"	13	80707	Unreliable
+	"Clinton County, NY"	"36019"	"2002"	"2002"	"Suicide"	"2"	12	80707	Unreliable
+	"Clinton County, NY"	"36019"	"2003"	"2003"	"Unintentional"	"1"	28	81396	34.4
+	"Clinton County, NY"	"36019"	"2004"	"2004"	"Unintentional"	"1"	14	81803	Unreliable
+	"Clinton County, NY"	"36019"	"2005"	"2005"	"Unintentional"	"1"	32	82233	38.9
+	"Clinton County, NY"	"36019"	"2006"	"2006"	"Unintentional"	"1"	25	82547	30.3
+	"Clinton County, NY"	"36019"	"2006"	"2006"	"Suicide"	"2"	10	82547	Unreliable
+	"Clinton County, NY"	"36019"	"2007"	"2007"	"Unintentional"	"1"	27	82556	32.7
+	"Clinton County, NY"	"36019"	"2008"	"2008"	"Unintentional"	"1"	21	82401	25.5
+	"Clinton County, NY"	"36019"	"2008"	"2008"	"Suicide"	"2"	13	82401	Unreliable
+	"Clinton County, NY"	"36019"	"2009"	"2009"	"Unintentional"	"1"	32	82280	38.9
+	"Clinton County, NY"	"36019"	"2010"	"2010"	"Unintentional"	"1"	27	82128	32.9
+	"Clinton County, NY"	"36019"	"2011"	"2011"	"Unintentional"	"1"	40	81945	48.8
+	"Clinton County, NY"	"36019"	"2012"	"2012"	"Unintentional"	"1"	27	81654	33.1
+	"Clinton County, NY"	"36019"	"2012"	"2012"	"Suicide"	"2"	16	81654	Unreliable
+	"Clinton County, NY"	"36019"	"2013"	"2013"	"Unintentional"	"1"	27	81591	33.1
+	"Clinton County, NY"	"36019"	"2013"	"2013"	"Suicide"	"2"	12	81591	Unreliable
+	"Clinton County, NY"	"36019"	"2014"	"2014"	"Unintentional"	"1"	35	81632	42.9
+	"Clinton County, NY"	"36019"	"2015"	"2015"	"Unintentional"	"1"	33	81251	40.6
+	"Clinton County, NY"	"36019"	"2015"	"2015"	"Suicide"	"2"	14	81251	Unreliable
+	"Clinton County, NY"	"36019"	"2016"	"2016"	"Unintentional"	"1"	29	81073	35.8
+	"Clinton County, NY"	"36019"	"2016"	"2016"	"Suicide"	"2"	12	81073	Unreliable
+	"Clinton County, NY"	"36019"	"2017"	"2017"	"Unintentional"	"1"	34	80980	42.0
+	"Clinton County, NY"	"36019"	"2018"	"2018"	"Unintentional"	"1"	34	80695	42.1
+	"Columbia County, NY"	"36021"	"1999"	"1999"	"Unintentional"	"1"	20	63217	31.6
+	"Columbia County, NY"	"36021"	"2000"	"2000"	"Unintentional"	"1"	16	63094	Unreliable
+	"Columbia County, NY"	"36021"	"2001"	"2001"	"Unintentional"	"1"	23	62953	36.5
+	"Columbia County, NY"	"36021"	"2002"	"2002"	"Unintentional"	"1"	25	63182	39.6
+	"Columbia County, NY"	"36021"	"2003"	"2003"	"Unintentional"	"1"	17	63304	Unreliable
+	"Columbia County, NY"	"36021"	"2004"	"2004"	"Unintentional"	"1"	30	63646	47.1
+	"Columbia County, NY"	"36021"	"2005"	"2005"	"Unintentional"	"1"	27	63717	42.4
+	"Columbia County, NY"	"36021"	"2006"	"2006"	"Unintentional"	"1"	16	63427	Unreliable
+	"Columbia County, NY"	"36021"	"2007"	"2007"	"Unintentional"	"1"	21	63430	33.1
+	"Columbia County, NY"	"36021"	"2008"	"2008"	"Unintentional"	"1"	27	63253	42.7
+	"Columbia County, NY"	"36021"	"2008"	"2008"	"Suicide"	"2"	15	63253	Unreliable
+	"Columbia County, NY"	"36021"	"2009"	"2009"	"Unintentional"	"1"	25	63023	39.7
+	"Columbia County, NY"	"36021"	"2010"	"2010"	"Unintentional"	"1"	18	63096	Unreliable
+	"Columbia County, NY"	"36021"	"2011"	"2011"	"Unintentional"	"1"	19	62550	Unreliable
+	"Columbia County, NY"	"36021"	"2012"	"2012"	"Unintentional"	"1"	20	62499	32.0
+	"Columbia County, NY"	"36021"	"2013"	"2013"	"Unintentional"	"1"	19	62243	Unreliable
+	"Columbia County, NY"	"36021"	"2014"	"2014"	"Unintentional"	"1"	21	62122	33.8
+	"Columbia County, NY"	"36021"	"2014"	"2014"	"Suicide"	"2"	10	62122	Unreliable
+	"Columbia County, NY"	"36021"	"2015"	"2015"	"Unintentional"	"1"	29	61509	47.1
+	"Columbia County, NY"	"36021"	"2016"	"2016"	"Unintentional"	"1"	24	60989	39.4
+	"Columbia County, NY"	"36021"	"2016"	"2016"	"Suicide"	"2"	16	60989	Unreliable
+	"Columbia County, NY"	"36021"	"2016"	"2016"	"Undetermined "	"4"	11	60989	Unreliable
+	"Columbia County, NY"	"36021"	"2017"	"2017"	"Unintentional"	"1"	34	60604	56.1
+	"Columbia County, NY"	"36021"	"2018"	"2018"	"Unintentional"	"1"	30	59916	50.1
+	"Cortland County, NY"	"36023"	"1999"	"1999"	"Unintentional"	"1"	15	48734	Unreliable
+	"Cortland County, NY"	"36023"	"2000"	"2000"	"Unintentional"	"1"	12	48599	Unreliable
+	"Cortland County, NY"	"36023"	"2001"	"2001"	"Unintentional"	"1"	15	48903	Unreliable
+	"Cortland County, NY"	"36023"	"2003"	"2003"	"Unintentional"	"1"	11	49475	Unreliable
+	"Cortland County, NY"	"36023"	"2004"	"2004"	"Unintentional"	"1"	12	49628	Unreliable
+	"Cortland County, NY"	"36023"	"2005"	"2005"	"Unintentional"	"1"	17	49330	Unreliable
+	"Cortland County, NY"	"36023"	"2006"	"2006"	"Unintentional"	"1"	16	49449	Unreliable
+	"Cortland County, NY"	"36023"	"2007"	"2007"	"Unintentional"	"1"	12	49624	Unreliable
+	"Cortland County, NY"	"36023"	"2008"	"2008"	"Unintentional"	"1"	16	49537	Unreliable
+	"Cortland County, NY"	"36023"	"2009"	"2009"	"Unintentional"	"1"	12	49358	Unreliable
+	"Cortland County, NY"	"36023"	"2010"	"2010"	"Unintentional"	"1"	15	49336	Unreliable
+	"Cortland County, NY"	"36023"	"2011"	"2011"	"Unintentional"	"1"	18	49363	Unreliable
+	"Cortland County, NY"	"36023"	"2012"	"2012"	"Unintentional"	"1"	15	49474	Unreliable
+	"Cortland County, NY"	"36023"	"2013"	"2013"	"Unintentional"	"1"	19	48976	Unreliable
+	"Cortland County, NY"	"36023"	"2014"	"2014"	"Unintentional"	"1"	18	49024	Unreliable
+	"Cortland County, NY"	"36023"	"2015"	"2015"	"Unintentional"	"1"	24	48494	49.5
+	"Cortland County, NY"	"36023"	"2016"	"2016"	"Unintentional"	"1"	26	48070	54.1
+	"Cortland County, NY"	"36023"	"2017"	"2017"	"Unintentional"	"1"	22	47786	46.0
+	"Cortland County, NY"	"36023"	"2018"	"2018"	"Unintentional"	"1"	19	47823	Unreliable
+	"Delaware County, NY"	"36025"	"1999"	"1999"	"Unintentional"	"1"	20	48069	41.6
+	"Delaware County, NY"	"36025"	"2000"	"2000"	"Unintentional"	"1"	22	48055	45.8
+	"Delaware County, NY"	"36025"	"2001"	"2001"	"Unintentional"	"1"	14	47771	Unreliable
+	"Delaware County, NY"	"36025"	"2002"	"2002"	"Unintentional"	"1"	21	47666	44.1
+	"Delaware County, NY"	"36025"	"2003"	"2003"	"Unintentional"	"1"	19	47930	Unreliable
+	"Delaware County, NY"	"36025"	"2004"	"2004"	"Unintentional"	"1"	24	48283	49.7
+	"Delaware County, NY"	"36025"	"2004"	"2004"	"Suicide"	"2"	11	48283	Unreliable
+	"Delaware County, NY"	"36025"	"2005"	"2005"	"Unintentional"	"1"	19	48377	Unreliable
+	"Delaware County, NY"	"36025"	"2006"	"2006"	"Unintentional"	"1"	19	48271	Unreliable
+	"Delaware County, NY"	"36025"	"2007"	"2007"	"Unintentional"	"1"	21	48450	43.3
+	"Delaware County, NY"	"36025"	"2008"	"2008"	"Unintentional"	"1"	27	48363	55.8
+	"Delaware County, NY"	"36025"	"2009"	"2009"	"Unintentional"	"1"	23	48182	47.7
+	"Delaware County, NY"	"36025"	"2010"	"2010"	"Unintentional"	"1"	22	47980	45.9
+	"Delaware County, NY"	"36025"	"2010"	"2010"	"Suicide"	"2"	10	47980	Unreliable
+	"Delaware County, NY"	"36025"	"2011"	"2011"	"Unintentional"	"1"	14	47559	Unreliable
+	"Delaware County, NY"	"36025"	"2012"	"2012"	"Unintentional"	"1"	21	47276	44.4
+	"Delaware County, NY"	"36025"	"2012"	"2012"	"Suicide"	"2"	11	47276	Unreliable
+	"Delaware County, NY"	"36025"	"2013"	"2013"	"Unintentional"	"1"	20	46722	42.8
+	"Delaware County, NY"	"36025"	"2014"	"2014"	"Unintentional"	"1"	24	46581	51.5
+	"Delaware County, NY"	"36025"	"2015"	"2015"	"Unintentional"	"1"	26	46053	56.5
+	"Delaware County, NY"	"36025"	"2016"	"2016"	"Unintentional"	"1"	21	45523	46.1
+	"Delaware County, NY"	"36025"	"2016"	"2016"	"Suicide"	"2"	12	45523	Unreliable
+	"Delaware County, NY"	"36025"	"2017"	"2017"	"Unintentional"	"1"	20	45001	44.4
+	"Delaware County, NY"	"36025"	"2018"	"2018"	"Unintentional"	"1"	32	44527	71.9
+	"Dutchess County, NY"	"36027"	"1999"	"1999"	"Unintentional"	"1"	75	277586	27.0
+	"Dutchess County, NY"	"36027"	"1999"	"1999"	"Suicide"	"2"	19	277586	Unreliable
+	"Dutchess County, NY"	"36027"	"1999"	"1999"	"Homicide"	"3"	12	277586	Unreliable
+	"Dutchess County, NY"	"36027"	"2000"	"2000"	"Unintentional"	"1"	62	280150	22.1
+	"Dutchess County, NY"	"36027"	"2000"	"2000"	"Suicide"	"2"	22	280150	7.9
+	"Dutchess County, NY"	"36027"	"2001"	"2001"	"Unintentional"	"1"	80	284712	28.1
+	"Dutchess County, NY"	"36027"	"2001"	"2001"	"Suicide"	"2"	16	284712	Unreliable
+	"Dutchess County, NY"	"36027"	"2002"	"2002"	"Unintentional"	"1"	82	287700	28.5
+	"Dutchess County, NY"	"36027"	"2002"	"2002"	"Suicide"	"2"	15	287700	Unreliable
+	"Dutchess County, NY"	"36027"	"2003"	"2003"	"Unintentional"	"1"	69	290781	23.7
+	"Dutchess County, NY"	"36027"	"2003"	"2003"	"Suicide"	"2"	12	290781	Unreliable
+	"Dutchess County, NY"	"36027"	"2004"	"2004"	"Unintentional"	"1"	80	292859	27.3
+	"Dutchess County, NY"	"36027"	"2004"	"2004"	"Suicide"	"2"	15	292859	Unreliable
+	"Dutchess County, NY"	"36027"	"2005"	"2005"	"Unintentional"	"1"	62	294362	21.1
+	"Dutchess County, NY"	"36027"	"2005"	"2005"	"Suicide"	"2"	19	294362	Unreliable
+	"Dutchess County, NY"	"36027"	"2006"	"2006"	"Unintentional"	"1"	87	294712	29.5
+	"Dutchess County, NY"	"36027"	"2006"	"2006"	"Suicide"	"2"	20	294712	6.8
+	"Dutchess County, NY"	"36027"	"2007"	"2007"	"Unintentional"	"1"	91	295319	30.8
+	"Dutchess County, NY"	"36027"	"2007"	"2007"	"Suicide"	"2"	28	295319	9.5
+	"Dutchess County, NY"	"36027"	"2007"	"2007"	"Homicide"	"3"	14	295319	Unreliable
+	"Dutchess County, NY"	"36027"	"2008"	"2008"	"Unintentional"	"1"	81	296267	27.3
+	"Dutchess County, NY"	"36027"	"2008"	"2008"	"Suicide"	"2"	28	296267	9.5
+	"Dutchess County, NY"	"36027"	"2009"	"2009"	"Unintentional"	"1"	81	296887	27.3
+	"Dutchess County, NY"	"36027"	"2009"	"2009"	"Suicide"	"2"	29	296887	9.8
+	"Dutchess County, NY"	"36027"	"2010"	"2010"	"Unintentional"	"1"	98	297488	32.9
+	"Dutchess County, NY"	"36027"	"2010"	"2010"	"Suicide"	"2"	38	297488	12.8
+	"Dutchess County, NY"	"36027"	"2010"	"2010"	"Homicide"	"3"	14	297488	Unreliable
+	"Dutchess County, NY"	"36027"	"2011"	"2011"	"Unintentional"	"1"	116	297999	38.9
+	"Dutchess County, NY"	"36027"	"2011"	"2011"	"Suicide"	"2"	27	297999	9.1
+	"Dutchess County, NY"	"36027"	"2012"	"2012"	"Unintentional"	"1"	107	297322	36.0
+	"Dutchess County, NY"	"36027"	"2012"	"2012"	"Suicide"	"2"	18	297322	Unreliable
+	"Dutchess County, NY"	"36027"	"2012"	"2012"	"Undetermined "	"4"	10	297322	Unreliable
+	"Dutchess County, NY"	"36027"	"2013"	"2013"	"Unintentional"	"1"	127	296916	42.8
+	"Dutchess County, NY"	"36027"	"2013"	"2013"	"Suicide"	"2"	41	296916	13.8
+	"Dutchess County, NY"	"36027"	"2013"	"2013"	"Homicide"	"3"	15	296916	Unreliable
+	"Dutchess County, NY"	"36027"	"2014"	"2014"	"Unintentional"	"1"	99	296579	33.4
+	"Dutchess County, NY"	"36027"	"2014"	"2014"	"Suicide"	"2"	40	296579	13.5
+	"Dutchess County, NY"	"36027"	"2015"	"2015"	"Unintentional"	"1"	128	295754	43.3
+	"Dutchess County, NY"	"36027"	"2015"	"2015"	"Suicide"	"2"	34	295754	11.5
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"Unintentional"	"1"	130	294473	44.1
+	"Dutchess County, NY"	"36027"	"2016"	"2016"	"Suicide"	"2"	31	294473	10.5
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"Unintentional"	"1"	160	295568	54.1
+	"Dutchess County, NY"	"36027"	"2017"	"2017"	"Suicide"	"2"	41	295568	13.9
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"Unintentional"	"1"	162	293718	55.2
+	"Dutchess County, NY"	"36027"	"2018"	"2018"	"Suicide"	"2"	45	293718	15.3
+	"Erie County, NY"	"36029"	"1999"	"1999"	"Unintentional"	"1"	249	952546	26.1
+	"Erie County, NY"	"36029"	"1999"	"1999"	"Suicide"	"2"	67	952546	7.0
+	"Erie County, NY"	"36029"	"1999"	"1999"	"Homicide"	"3"	31	952546	3.3
+	"Erie County, NY"	"36029"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	22	952546	2.3
+	"Erie County, NY"	"36029"	"2000"	"2000"	"Unintentional"	"1"	193	950265	20.3
+	"Erie County, NY"	"36029"	"2000"	"2000"	"Suicide"	"2"	65	950265	6.8
+	"Erie County, NY"	"36029"	"2000"	"2000"	"Homicide"	"3"	36	950265	3.8
+	"Erie County, NY"	"36029"	"2000"	"2000"	"Undetermined "	"4"	12	950265	Unreliable
+	"Erie County, NY"	"36029"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	18	950265	Unreliable
+	"Erie County, NY"	"36029"	"2001"	"2001"	"Unintentional"	"1"	225	946515	23.8
+	"Erie County, NY"	"36029"	"2001"	"2001"	"Suicide"	"2"	58	946515	6.1
+	"Erie County, NY"	"36029"	"2001"	"2001"	"Homicide"	"3"	68	946515	7.2
+	"Erie County, NY"	"36029"	"2001"	"2001"	"Undetermined "	"4"	16	946515	Unreliable
+	"Erie County, NY"	"36029"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	14	946515	Unreliable
+	"Erie County, NY"	"36029"	"2002"	"2002"	"Unintentional"	"1"	190	943551	20.1
+	"Erie County, NY"	"36029"	"2002"	"2002"	"Suicide"	"2"	71	943551	7.5
+	"Erie County, NY"	"36029"	"2002"	"2002"	"Homicide"	"3"	47	943551	5.0
+	"Erie County, NY"	"36029"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	14	943551	Unreliable
+	"Erie County, NY"	"36029"	"2003"	"2003"	"Unintentional"	"1"	232	941846	24.6
+	"Erie County, NY"	"36029"	"2003"	"2003"	"Suicide"	"2"	64	941846	6.8
+	"Erie County, NY"	"36029"	"2003"	"2003"	"Homicide"	"3"	62	941846	6.6
+	"Erie County, NY"	"36029"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	17	941846	Unreliable
+	"Erie County, NY"	"36029"	"2004"	"2004"	"Unintentional"	"1"	208	938333	22.2
+	"Erie County, NY"	"36029"	"2004"	"2004"	"Suicide"	"2"	66	938333	7.0
+	"Erie County, NY"	"36029"	"2004"	"2004"	"Homicide"	"3"	51	938333	5.4
+	"Erie County, NY"	"36029"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	17	938333	Unreliable
+	"Erie County, NY"	"36029"	"2005"	"2005"	"Unintentional"	"1"	196	931745	21.0
+	"Erie County, NY"	"36029"	"2005"	"2005"	"Suicide"	"2"	63	931745	6.8
+	"Erie County, NY"	"36029"	"2005"	"2005"	"Homicide"	"3"	59	931745	6.3
+	"Erie County, NY"	"36029"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	11	931745	Unreliable
+	"Erie County, NY"	"36029"	"2006"	"2006"	"Unintentional"	"1"	208	925564	22.5
+	"Erie County, NY"	"36029"	"2006"	"2006"	"Suicide"	"2"	69	925564	7.5
+	"Erie County, NY"	"36029"	"2006"	"2006"	"Homicide"	"3"	81	925564	8.8
+	"Erie County, NY"	"36029"	"2006"	"2006"	"Undetermined "	"4"	39	925564	4.2
+	"Erie County, NY"	"36029"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	16	925564	Unreliable
+	"Erie County, NY"	"36029"	"2007"	"2007"	"Unintentional"	"1"	227	921887	24.6
+	"Erie County, NY"	"36029"	"2007"	"2007"	"Suicide"	"2"	77	921887	8.4
+	"Erie County, NY"	"36029"	"2007"	"2007"	"Homicide"	"3"	61	921887	6.6
+	"Erie County, NY"	"36029"	"2007"	"2007"	"Undetermined "	"4"	58	921887	6.3
+	"Erie County, NY"	"36029"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	15	921887	Unreliable
+	"Erie County, NY"	"36029"	"2008"	"2008"	"Unintentional"	"1"	266	920571	28.9
+	"Erie County, NY"	"36029"	"2008"	"2008"	"Suicide"	"2"	82	920571	8.9
+	"Erie County, NY"	"36029"	"2008"	"2008"	"Homicide"	"3"	45	920571	4.9
+	"Erie County, NY"	"36029"	"2008"	"2008"	"Undetermined "	"4"	32	920571	3.5
+	"Erie County, NY"	"36029"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	13	920571	Unreliable
+	"Erie County, NY"	"36029"	"2009"	"2009"	"Unintentional"	"1"	303	919334	33.0
+	"Erie County, NY"	"36029"	"2009"	"2009"	"Suicide"	"2"	80	919334	8.7
+	"Erie County, NY"	"36029"	"2009"	"2009"	"Homicide"	"3"	70	919334	7.6
+	"Erie County, NY"	"36029"	"2009"	"2009"	"Undetermined "	"4"	13	919334	Unreliable
+	"Erie County, NY"	"36029"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	13	919334	Unreliable
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Unintentional"	"1"	269	919040	29.3
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Suicide"	"2"	105	919040	11.4
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Homicide"	"3"	59	919040	6.4
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	14	919040	Unreliable
+	"Erie County, NY"	"36029"	"2011"	"2011"	"Unintentional"	"1"	313	918028	34.1
+	"Erie County, NY"	"36029"	"2011"	"2011"	"Suicide"	"2"	108	918028	11.8
+	"Erie County, NY"	"36029"	"2011"	"2011"	"Homicide"	"3"	44	918028	4.8
+	"Erie County, NY"	"36029"	"2011"	"2011"	"Undetermined "	"4"	16	918028	Unreliable
+	"Erie County, NY"	"36029"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	15	918028	Unreliable
+	"Erie County, NY"	"36029"	"2012"	"2012"	"Unintentional"	"1"	271	919086	29.5
+	"Erie County, NY"	"36029"	"2012"	"2012"	"Suicide"	"2"	86	919086	9.4
+	"Erie County, NY"	"36029"	"2012"	"2012"	"Homicide"	"3"	61	919086	6.6
+	"Erie County, NY"	"36029"	"2012"	"2012"	"Undetermined "	"4"	15	919086	Unreliable
+	"Erie County, NY"	"36029"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	12	919086	Unreliable
+	"Erie County, NY"	"36029"	"2013"	"2013"	"Unintentional"	"1"	358	919866	38.9
+	"Erie County, NY"	"36029"	"2013"	"2013"	"Suicide"	"2"	89	919866	9.7
+	"Erie County, NY"	"36029"	"2013"	"2013"	"Homicide"	"3"	57	919866	6.2
+	"Erie County, NY"	"36029"	"2013"	"2013"	"Undetermined "	"4"	10	919866	Unreliable
+	"Erie County, NY"	"36029"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	11	919866	Unreliable
+	"Erie County, NY"	"36029"	"2014"	"2014"	"Unintentional"	"1"	375	922835	40.6
+	"Erie County, NY"	"36029"	"2014"	"2014"	"Suicide"	"2"	115	922835	12.5
+	"Erie County, NY"	"36029"	"2014"	"2014"	"Homicide"	"3"	68	922835	7.4
+	"Erie County, NY"	"36029"	"2015"	"2015"	"Unintentional"	"1"	502	922578	54.4
+	"Erie County, NY"	"36029"	"2015"	"2015"	"Suicide"	"2"	100	922578	10.8
+	"Erie County, NY"	"36029"	"2015"	"2015"	"Homicide"	"3"	53	922578	5.7
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Unintentional"	"1"	519	921046	56.3
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Suicide"	"2"	105	921046	11.4
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Homicide"	"3"	56	921046	6.1
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Undetermined "	"4"	12	921046	Unreliable
+	"Erie County, NY"	"36029"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	15	921046	Unreliable
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Unintentional"	"1"	496	925528	53.6
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Suicide"	"2"	115	925528	12.4
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Homicide"	"3"	50	925528	5.4
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Undetermined "	"4"	11	925528	Unreliable
+	"Erie County, NY"	"36029"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	19	925528	Unreliable
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Unintentional"	"1"	431	919719	46.9
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Suicide"	"2"	96	919719	10.4
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Homicide"	"3"	69	919719	7.5
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Undetermined "	"4"	15	919719	Unreliable
+	"Erie County, NY"	"36029"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	16	919719	Unreliable
+	"Essex County, NY"	"36031"	"1999"	"1999"	"Unintentional"	"1"	13	38664	Unreliable
+	"Essex County, NY"	"36031"	"2000"	"2000"	"Unintentional"	"1"	16	38851	Unreliable
+	"Essex County, NY"	"36031"	"2001"	"2001"	"Unintentional"	"1"	15	38893	Unreliable
+	"Essex County, NY"	"36031"	"2002"	"2002"	"Unintentional"	"1"	14	39195	Unreliable
+	"Essex County, NY"	"36031"	"2003"	"2003"	"Unintentional"	"1"	15	39334	Unreliable
+	"Essex County, NY"	"36031"	"2004"	"2004"	"Unintentional"	"1"	14	39295	Unreliable
+	"Essex County, NY"	"36031"	"2005"	"2005"	"Unintentional"	"1"	13	39321	Unreliable
+	"Essex County, NY"	"36031"	"2006"	"2006"	"Unintentional"	"1"	18	39490	Unreliable
+	"Essex County, NY"	"36031"	"2007"	"2007"	"Unintentional"	"1"	19	39373	Unreliable
+	"Essex County, NY"	"36031"	"2008"	"2008"	"Unintentional"	"1"	14	39435	Unreliable
+	"Essex County, NY"	"36031"	"2009"	"2009"	"Unintentional"	"1"	16	39478	Unreliable
+	"Essex County, NY"	"36031"	"2010"	"2010"	"Unintentional"	"1"	16	39370	Unreliable
+	"Essex County, NY"	"36031"	"2011"	"2011"	"Unintentional"	"1"	16	39181	Unreliable
+	"Essex County, NY"	"36031"	"2011"	"2011"	"Suicide"	"2"	10	39181	Unreliable
+	"Essex County, NY"	"36031"	"2012"	"2012"	"Unintentional"	"1"	19	38961	Unreliable
+	"Essex County, NY"	"36031"	"2012"	"2012"	"Suicide"	"2"	10	38961	Unreliable
+	"Essex County, NY"	"36031"	"2013"	"2013"	"Unintentional"	"1"	13	38762	Unreliable
+	"Essex County, NY"	"36031"	"2014"	"2014"	"Unintentional"	"1"	20	38679	51.7
+	"Essex County, NY"	"36031"	"2015"	"2015"	"Unintentional"	"1"	18	38478	Unreliable
+	"Essex County, NY"	"36031"	"2016"	"2016"	"Unintentional"	"1"	17	38102	Unreliable
+	"Essex County, NY"	"36031"	"2017"	"2017"	"Unintentional"	"1"	13	37956	Unreliable
+	"Essex County, NY"	"36031"	"2018"	"2018"	"Unintentional"	"1"	18	37300	Unreliable
+	"Franklin County, NY"	"36033"	"1999"	"1999"	"Unintentional"	"1"	18	51061	Unreliable
+	"Franklin County, NY"	"36033"	"2000"	"2000"	"Unintentional"	"1"	13	51134	Unreliable
+	"Franklin County, NY"	"36033"	"2001"	"2001"	"Unintentional"	"1"	19	50925	Unreliable
+	"Franklin County, NY"	"36033"	"2002"	"2002"	"Unintentional"	"1"	14	50924	Unreliable
+	"Franklin County, NY"	"36033"	"2003"	"2003"	"Unintentional"	"1"	20	51228	39.0
+	"Franklin County, NY"	"36033"	"2004"	"2004"	"Unintentional"	"1"	25	51197	48.8
+	"Franklin County, NY"	"36033"	"2005"	"2005"	"Unintentional"	"1"	14	51257	Unreliable
+	"Franklin County, NY"	"36033"	"2006"	"2006"	"Unintentional"	"1"	20	51511	38.8
+	"Franklin County, NY"	"36033"	"2007"	"2007"	"Unintentional"	"1"	13	51782	Unreliable
+	"Franklin County, NY"	"36033"	"2008"	"2008"	"Unintentional"	"1"	18	51907	Unreliable
+	"Franklin County, NY"	"36033"	"2009"	"2009"	"Unintentional"	"1"	21	51706	40.6
+	"Franklin County, NY"	"36033"	"2010"	"2010"	"Unintentional"	"1"	17	51599	Unreliable
+	"Franklin County, NY"	"36033"	"2011"	"2011"	"Unintentional"	"1"	25	51551	48.5
+	"Franklin County, NY"	"36033"	"2012"	"2012"	"Unintentional"	"1"	24	51795	46.3
+	"Franklin County, NY"	"36033"	"2013"	"2013"	"Unintentional"	"1"	14	51688	Unreliable
+	"Franklin County, NY"	"36033"	"2014"	"2014"	"Unintentional"	"1"	26	51262	50.7
+	"Franklin County, NY"	"36033"	"2015"	"2015"	"Unintentional"	"1"	27	50660	53.3
+	"Franklin County, NY"	"36033"	"2016"	"2016"	"Unintentional"	"1"	31	50409	61.5
+	"Franklin County, NY"	"36033"	"2017"	"2017"	"Unintentional"	"1"	14	51116	Unreliable
+	"Franklin County, NY"	"36033"	"2018"	"2018"	"Unintentional"	"1"	17	50293	Unreliable
+	"Fulton County, NY"	"36035"	"1999"	"1999"	"Unintentional"	"1"	13	55011	Unreliable
+	"Fulton County, NY"	"36035"	"2000"	"2000"	"Unintentional"	"1"	19	55073	Unreliable
+	"Fulton County, NY"	"36035"	"2001"	"2001"	"Unintentional"	"1"	13	54904	Unreliable
+	"Fulton County, NY"	"36035"	"2002"	"2002"	"Unintentional"	"1"	18	54988	Unreliable
+	"Fulton County, NY"	"36035"	"2003"	"2003"	"Unintentional"	"1"	17	55081	Unreliable
+	"Fulton County, NY"	"36035"	"2004"	"2004"	"Unintentional"	"1"	21	55233	38.0
+	"Fulton County, NY"	"36035"	"2005"	"2005"	"Unintentional"	"1"	23	55301	41.6
+	"Fulton County, NY"	"36035"	"2006"	"2006"	"Unintentional"	"1"	18	55328	Unreliable
+	"Fulton County, NY"	"36035"	"2007"	"2007"	"Unintentional"	"1"	22	55489	39.6
+	"Fulton County, NY"	"36035"	"2008"	"2008"	"Unintentional"	"1"	10	55584	Unreliable
+	"Fulton County, NY"	"36035"	"2008"	"2008"	"Suicide"	"2"	11	55584	Unreliable
+	"Fulton County, NY"	"36035"	"2009"	"2009"	"Unintentional"	"1"	14	55558	Unreliable
+	"Fulton County, NY"	"36035"	"2010"	"2010"	"Unintentional"	"1"	23	55531	41.4
+	"Fulton County, NY"	"36035"	"2011"	"2011"	"Unintentional"	"1"	16	55180	Unreliable
+	"Fulton County, NY"	"36035"	"2012"	"2012"	"Unintentional"	"1"	18	54925	Unreliable
+	"Fulton County, NY"	"36035"	"2013"	"2013"	"Unintentional"	"1"	22	54586	40.3
+	"Fulton County, NY"	"36035"	"2014"	"2014"	"Unintentional"	"1"	24	54105	44.4
+	"Fulton County, NY"	"36035"	"2015"	"2015"	"Unintentional"	"1"	16	53992	Unreliable
+	"Fulton County, NY"	"36035"	"2015"	"2015"	"Suicide"	"2"	11	53992	Unreliable
+	"Fulton County, NY"	"36035"	"2016"	"2016"	"Unintentional"	"1"	18	53828	Unreliable
+	"Fulton County, NY"	"36035"	"2017"	"2017"	"Unintentional"	"1"	22	53877	40.8
+	"Fulton County, NY"	"36035"	"2018"	"2018"	"Unintentional"	"1"	21	53591	39.2
+	"Genesee County, NY"	"36037"	"1999"	"1999"	"Unintentional"	"1"	16	60554	Unreliable
+	"Genesee County, NY"	"36037"	"2000"	"2000"	"Unintentional"	"1"	25	60370	41.4
+	"Genesee County, NY"	"36037"	"2001"	"2001"	"Unintentional"	"1"	24	60321	39.8
+	"Genesee County, NY"	"36037"	"2002"	"2002"	"Unintentional"	"1"	22	60289	36.5
+	"Genesee County, NY"	"36037"	"2003"	"2003"	"Unintentional"	"1"	29	60412	48.0
+	"Genesee County, NY"	"36037"	"2004"	"2004"	"Unintentional"	"1"	21	60224	34.9
+	"Genesee County, NY"	"36037"	"2005"	"2005"	"Unintentional"	"1"	18	60068	Unreliable
+	"Genesee County, NY"	"36037"	"2006"	"2006"	"Unintentional"	"1"	23	59919	38.4
+	"Genesee County, NY"	"36037"	"2007"	"2007"	"Unintentional"	"1"	33	59930	55.1
+	"Genesee County, NY"	"36037"	"2008"	"2008"	"Unintentional"	"1"	25	59895	41.7
+	"Genesee County, NY"	"36037"	"2009"	"2009"	"Unintentional"	"1"	20	59932	33.4
+	"Genesee County, NY"	"36037"	"2010"	"2010"	"Unintentional"	"1"	24	60079	39.9
+	"Genesee County, NY"	"36037"	"2010"	"2010"	"Suicide"	"2"	12	60079	Unreliable
+	"Genesee County, NY"	"36037"	"2011"	"2011"	"Unintentional"	"1"	26	59993	43.3
+	"Genesee County, NY"	"36037"	"2012"	"2012"	"Unintentional"	"1"	23	59977	38.3
+	"Genesee County, NY"	"36037"	"2013"	"2013"	"Unintentional"	"1"	28	59454	47.1
+	"Genesee County, NY"	"36037"	"2014"	"2014"	"Unintentional"	"1"	19	59162	Unreliable
+	"Genesee County, NY"	"36037"	"2015"	"2015"	"Unintentional"	"1"	28	58937	47.5
+	"Genesee County, NY"	"36037"	"2016"	"2016"	"Unintentional"	"1"	37	58482	63.3
+	"Genesee County, NY"	"36037"	"2016"	"2016"	"Suicide"	"2"	10	58482	Unreliable
+	"Genesee County, NY"	"36037"	"2017"	"2017"	"Unintentional"	"1"	26	57956	44.9
+	"Genesee County, NY"	"36037"	"2018"	"2018"	"Unintentional"	"1"	38	57511	66.1
+	"Greene County, NY"	"36039"	"1999"	"1999"	"Unintentional"	"1"	17	47975	Unreliable
+	"Greene County, NY"	"36039"	"2000"	"2000"	"Unintentional"	"1"	16	48195	Unreliable
+	"Greene County, NY"	"36039"	"2001"	"2001"	"Unintentional"	"1"	20	47976	41.7
+	"Greene County, NY"	"36039"	"2002"	"2002"	"Unintentional"	"1"	26	48177	54.0
+	"Greene County, NY"	"36039"	"2003"	"2003"	"Unintentional"	"1"	24	48416	49.6
+	"Greene County, NY"	"36039"	"2004"	"2004"	"Unintentional"	"1"	19	48755	Unreliable
+	"Greene County, NY"	"36039"	"2005"	"2005"	"Unintentional"	"1"	13	49142	Unreliable
+	"Greene County, NY"	"36039"	"2006"	"2006"	"Unintentional"	"1"	19	49513	Unreliable
+	"Greene County, NY"	"36039"	"2007"	"2007"	"Unintentional"	"1"	17	49537	Unreliable
+	"Greene County, NY"	"36039"	"2008"	"2008"	"Unintentional"	"1"	17	49467	Unreliable
+	"Greene County, NY"	"36039"	"2009"	"2009"	"Unintentional"	"1"	22	49372	44.6
+	"Greene County, NY"	"36039"	"2010"	"2010"	"Unintentional"	"1"	17	49221	Unreliable
+	"Greene County, NY"	"36039"	"2011"	"2011"	"Unintentional"	"1"	18	48954	Unreliable
+	"Greene County, NY"	"36039"	"2012"	"2012"	"Unintentional"	"1"	15	48673	Unreliable
+	"Greene County, NY"	"36039"	"2012"	"2012"	"Undetermined "	"4"	10	48673	Unreliable
+	"Greene County, NY"	"36039"	"2013"	"2013"	"Unintentional"	"1"	23	48455	47.5
+	"Greene County, NY"	"36039"	"2014"	"2014"	"Unintentional"	"1"	20	47967	41.7
+	"Greene County, NY"	"36039"	"2015"	"2015"	"Unintentional"	"1"	19	47625	Unreliable
+	"Greene County, NY"	"36039"	"2015"	"2015"	"Suicide"	"2"	13	47625	Unreliable
+	"Greene County, NY"	"36039"	"2016"	"2016"	"Unintentional"	"1"	23	47508	48.4
+	"Greene County, NY"	"36039"	"2017"	"2017"	"Unintentional"	"1"	19	47470	Unreliable
+	"Greene County, NY"	"36039"	"2017"	"2017"	"Suicide"	"2"	12	47470	Unreliable
+	"Greene County, NY"	"36039"	"2018"	"2018"	"Unintentional"	"1"	37	47491	77.9
+	"Herkimer County, NY"	"36043"	"1999"	"1999"	"Unintentional"	"1"	18	64462	Unreliable
+	"Herkimer County, NY"	"36043"	"2000"	"2000"	"Unintentional"	"1"	25	64427	38.8
+	"Herkimer County, NY"	"36043"	"2000"	"2000"	"Suicide"	"2"	12	64427	Unreliable
+	"Herkimer County, NY"	"36043"	"2001"	"2001"	"Unintentional"	"1"	12	64274	Unreliable
+	"Herkimer County, NY"	"36043"	"2002"	"2002"	"Unintentional"	"1"	21	63971	32.8
+	"Herkimer County, NY"	"36043"	"2002"	"2002"	"Suicide"	"2"	10	63971	Unreliable
+	"Herkimer County, NY"	"36043"	"2003"	"2003"	"Unintentional"	"1"	24	64080	37.5
+	"Herkimer County, NY"	"36043"	"2003"	"2003"	"Suicide"	"2"	10	64080	Unreliable
+	"Herkimer County, NY"	"36043"	"2004"	"2004"	"Unintentional"	"1"	21	64332	32.6
+	"Herkimer County, NY"	"36043"	"2004"	"2004"	"Suicide"	"2"	10	64332	Unreliable
+	"Herkimer County, NY"	"36043"	"2005"	"2005"	"Unintentional"	"1"	16	64292	Unreliable
+	"Herkimer County, NY"	"36043"	"2006"	"2006"	"Unintentional"	"1"	24	64029	37.5
+	"Herkimer County, NY"	"36043"	"2007"	"2007"	"Unintentional"	"1"	18	64343	Unreliable
+	"Herkimer County, NY"	"36043"	"2007"	"2007"	"Suicide"	"2"	10	64343	Unreliable
+	"Herkimer County, NY"	"36043"	"2008"	"2008"	"Unintentional"	"1"	24	64404	37.3
+	"Herkimer County, NY"	"36043"	"2009"	"2009"	"Unintentional"	"1"	25	64381	38.8
+	"Herkimer County, NY"	"36043"	"2010"	"2010"	"Unintentional"	"1"	16	64519	Unreliable
+	"Herkimer County, NY"	"36043"	"2010"	"2010"	"Suicide"	"2"	11	64519	Unreliable
+	"Herkimer County, NY"	"36043"	"2011"	"2011"	"Unintentional"	"1"	21	64160	32.7
+	"Herkimer County, NY"	"36043"	"2012"	"2012"	"Unintentional"	"1"	21	64508	32.6
+	"Herkimer County, NY"	"36043"	"2013"	"2013"	"Unintentional"	"1"	17	64181	Unreliable
+	"Herkimer County, NY"	"36043"	"2013"	"2013"	"Suicide"	"2"	10	64181	Unreliable
+	"Herkimer County, NY"	"36043"	"2014"	"2014"	"Unintentional"	"1"	23	63744	36.1
+	"Herkimer County, NY"	"36043"	"2014"	"2014"	"Suicide"	"2"	14	63744	Unreliable
+	"Herkimer County, NY"	"36043"	"2015"	"2015"	"Unintentional"	"1"	16	63100	Unreliable
+	"Herkimer County, NY"	"36043"	"2016"	"2016"	"Unintentional"	"1"	23	62613	36.7
+	"Herkimer County, NY"	"36043"	"2017"	"2017"	"Unintentional"	"1"	22	62240	35.3
+	"Herkimer County, NY"	"36043"	"2018"	"2018"	"Unintentional"	"1"	22	61833	35.6
+	"Jefferson County, NY"	"36045"	"1999"	"1999"	"Unintentional"	"1"	24	112081	21.4
+	"Jefferson County, NY"	"36045"	"2000"	"2000"	"Unintentional"	"1"	31	111738	27.7
+	"Jefferson County, NY"	"36045"	"2001"	"2001"	"Unintentional"	"1"	35	111422	31.4
+	"Jefferson County, NY"	"36045"	"2001"	"2001"	"Suicide"	"2"	13	111422	Unreliable
+	"Jefferson County, NY"	"36045"	"2002"	"2002"	"Unintentional"	"1"	38	111112	34.2
+	"Jefferson County, NY"	"36045"	"2002"	"2002"	"Suicide"	"2"	13	111112	Unreliable
+	"Jefferson County, NY"	"36045"	"2003"	"2003"	"Unintentional"	"1"	43	110246	39.0
+	"Jefferson County, NY"	"36045"	"2004"	"2004"	"Unintentional"	"1"	45	109924	40.9
+	"Jefferson County, NY"	"36045"	"2005"	"2005"	"Unintentional"	"1"	32	113486	28.2
+	"Jefferson County, NY"	"36045"	"2006"	"2006"	"Unintentional"	"1"	35	113650	30.8
+	"Jefferson County, NY"	"36045"	"2006"	"2006"	"Suicide"	"2"	15	113650	Unreliable
+	"Jefferson County, NY"	"36045"	"2007"	"2007"	"Unintentional"	"1"	30	115059	26.1
+	"Jefferson County, NY"	"36045"	"2007"	"2007"	"Suicide"	"2"	14	115059	Unreliable
+	"Jefferson County, NY"	"36045"	"2008"	"2008"	"Unintentional"	"1"	33	115033	28.7
+	"Jefferson County, NY"	"36045"	"2009"	"2009"	"Unintentional"	"1"	39	115023	33.9
+	"Jefferson County, NY"	"36045"	"2009"	"2009"	"Suicide"	"2"	17	115023	Unreliable
+	"Jefferson County, NY"	"36045"	"2010"	"2010"	"Unintentional"	"1"	34	116229	29.3
+	"Jefferson County, NY"	"36045"	"2010"	"2010"	"Suicide"	"2"	15	116229	Unreliable
+	"Jefferson County, NY"	"36045"	"2011"	"2011"	"Unintentional"	"1"	48	117910	40.7
+	"Jefferson County, NY"	"36045"	"2011"	"2011"	"Suicide"	"2"	16	117910	Unreliable
+	"Jefferson County, NY"	"36045"	"2012"	"2012"	"Unintentional"	"1"	39	120262	32.4
+	"Jefferson County, NY"	"36045"	"2012"	"2012"	"Suicide"	"2"	25	120262	20.8
+	"Jefferson County, NY"	"36045"	"2013"	"2013"	"Unintentional"	"1"	51	119504	42.7
+	"Jefferson County, NY"	"36045"	"2013"	"2013"	"Suicide"	"2"	15	119504	Unreliable
+	"Jefferson County, NY"	"36045"	"2014"	"2014"	"Unintentional"	"1"	38	119103	31.9
+	"Jefferson County, NY"	"36045"	"2014"	"2014"	"Suicide"	"2"	16	119103	Unreliable
+	"Jefferson County, NY"	"36045"	"2015"	"2015"	"Unintentional"	"1"	52	117635	44.2
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"Unintentional"	"1"	60	114006	52.6
+	"Jefferson County, NY"	"36045"	"2016"	"2016"	"Suicide"	"2"	18	114006	Unreliable
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"Unintentional"	"1"	59	114187	51.7
+	"Jefferson County, NY"	"36045"	"2017"	"2017"	"Suicide"	"2"	17	114187	Unreliable
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"Unintentional"	"1"	50	111755	44.7
+	"Jefferson County, NY"	"36045"	"2018"	"2018"	"Suicide"	"2"	10	111755	Unreliable
+	"Kings County, NY"	"36047"	"1999"	"1999"	"Unintentional"	"1"	615	2447352	25.1
+	"Kings County, NY"	"36047"	"1999"	"1999"	"Suicide"	"2"	116	2447352	4.7
+	"Kings County, NY"	"36047"	"1999"	"1999"	"Homicide"	"3"	286	2447352	11.7
+	"Kings County, NY"	"36047"	"1999"	"1999"	"Undetermined "	"4"	23	2447352	0.9
+	"Kings County, NY"	"36047"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	16	2447352	Unreliable
+	"Kings County, NY"	"36047"	"2000"	"2000"	"Unintentional"	"1"	529	2465326	21.5
+	"Kings County, NY"	"36047"	"2000"	"2000"	"Suicide"	"2"	108	2465326	4.4
+	"Kings County, NY"	"36047"	"2000"	"2000"	"Homicide"	"3"	267	2465326	10.8
+	"Kings County, NY"	"36047"	"2000"	"2000"	"Undetermined "	"4"	17	2465326	Unreliable
+	"Kings County, NY"	"36047"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	26	2465326	1.1
+	"Kings County, NY"	"36047"	"2001"	"2001"	"Unintentional"	"1"	615	2477252	24.8
+	"Kings County, NY"	"36047"	"2001"	"2001"	"Suicide"	"2"	118	2477252	4.8
+	"Kings County, NY"	"36047"	"2001"	"2001"	"Homicide"	"3"	277	2477252	11.2
+	"Kings County, NY"	"36047"	"2001"	"2001"	"Undetermined "	"4"	25	2477252	1.0
+	"Kings County, NY"	"36047"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	25	2477252	1.0
+	"Kings County, NY"	"36047"	"2002"	"2002"	"Unintentional"	"1"	562	2480559	22.7
+	"Kings County, NY"	"36047"	"2002"	"2002"	"Suicide"	"2"	110	2480559	4.4
+	"Kings County, NY"	"36047"	"2002"	"2002"	"Homicide"	"3"	224	2480559	9.0
+	"Kings County, NY"	"36047"	"2002"	"2002"	"Undetermined "	"4"	33	2480559	1.3
+	"Kings County, NY"	"36047"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	17	2480559	Unreliable
+	"Kings County, NY"	"36047"	"2003"	"2003"	"Unintentional"	"1"	550	2472999	22.2
+	"Kings County, NY"	"36047"	"2003"	"2003"	"Suicide"	"2"	113	2472999	4.6
+	"Kings County, NY"	"36047"	"2003"	"2003"	"Homicide"	"3"	244	2472999	9.9
+	"Kings County, NY"	"36047"	"2003"	"2003"	"Undetermined "	"4"	30	2472999	1.2
+	"Kings County, NY"	"36047"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	15	2472999	Unreliable
+	"Kings County, NY"	"36047"	"2004"	"2004"	"Unintentional"	"1"	537	2459094	21.8
+	"Kings County, NY"	"36047"	"2004"	"2004"	"Suicide"	"2"	120	2459094	4.9
+	"Kings County, NY"	"36047"	"2004"	"2004"	"Homicide"	"3"	233	2459094	9.5
+	"Kings County, NY"	"36047"	"2004"	"2004"	"Undetermined "	"4"	32	2459094	1.3
+	"Kings County, NY"	"36047"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	10	2459094	Unreliable
+	"Kings County, NY"	"36047"	"2005"	"2005"	"Unintentional"	"1"	568	2445809	23.2
+	"Kings County, NY"	"36047"	"2005"	"2005"	"Suicide"	"2"	118	2445809	4.8
+	"Kings County, NY"	"36047"	"2005"	"2005"	"Homicide"	"3"	222	2445809	9.1
+	"Kings County, NY"	"36047"	"2005"	"2005"	"Undetermined "	"4"	38	2445809	1.6
+	"Kings County, NY"	"36047"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	10	2445809	Unreliable
+	"Kings County, NY"	"36047"	"2006"	"2006"	"Unintentional"	"1"	583	2436132	23.9
+	"Kings County, NY"	"36047"	"2006"	"2006"	"Suicide"	"2"	103	2436132	4.2
+	"Kings County, NY"	"36047"	"2006"	"2006"	"Homicide"	"3"	229	2436132	9.4
+	"Kings County, NY"	"36047"	"2006"	"2006"	"Undetermined "	"4"	36	2436132	1.5
+	"Kings County, NY"	"36047"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	12	2436132	Unreliable
+	"Kings County, NY"	"36047"	"2007"	"2007"	"Unintentional"	"1"	548	2441324	22.4
+	"Kings County, NY"	"36047"	"2007"	"2007"	"Suicide"	"2"	119	2441324	4.9
+	"Kings County, NY"	"36047"	"2007"	"2007"	"Homicide"	"3"	222	2441324	9.1
+	"Kings County, NY"	"36047"	"2007"	"2007"	"Undetermined "	"4"	28	2441324	1.1
+	"Kings County, NY"	"36047"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	10	2441324	Unreliable
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Unintentional"	"1"	490	2460361	19.9
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Suicide"	"2"	140	2460361	5.7
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Homicide"	"3"	221	2460361	9.0
+	"Kings County, NY"	"36047"	"2008"	"2008"	"Undetermined "	"4"	22	2460361	0.9
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Unintentional"	"1"	432	2487751	17.4
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Suicide"	"2"	126	2487751	5.1
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Homicide"	"3"	216	2487751	8.7
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Undetermined "	"4"	28	2487751	1.1
+	"Kings County, NY"	"36047"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	13	2487751	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Unintentional"	"1"	437	2504700	17.4
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Suicide"	"2"	123	2504700	4.9
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Homicide"	"3"	226	2504700	9.0
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Undetermined "	"4"	31	2504700	1.2
+	"Kings County, NY"	"36047"	"2011"	"2011"	"Unintentional"	"1"	494	2532645	19.5
+	"Kings County, NY"	"36047"	"2011"	"2011"	"Suicide"	"2"	118	2532645	4.7
+	"Kings County, NY"	"36047"	"2011"	"2011"	"Homicide"	"3"	200	2532645	7.9
+	"Kings County, NY"	"36047"	"2011"	"2011"	"Undetermined "	"4"	23	2532645	0.9
+	"Kings County, NY"	"36047"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	12	2532645	Unreliable
+	"Kings County, NY"	"36047"	"2012"	"2012"	"Unintentional"	"1"	488	2565635	19.0
+	"Kings County, NY"	"36047"	"2012"	"2012"	"Suicide"	"2"	126	2565635	4.9
+	"Kings County, NY"	"36047"	"2012"	"2012"	"Homicide"	"3"	154	2565635	6.0
+	"Kings County, NY"	"36047"	"2012"	"2012"	"Undetermined "	"4"	31	2565635	1.2
+	"Kings County, NY"	"36047"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	20	2565635	0.8
+	"Kings County, NY"	"36047"	"2013"	"2013"	"Unintentional"	"1"	476	2592149	18.4
+	"Kings County, NY"	"36047"	"2013"	"2013"	"Suicide"	"2"	130	2592149	5.0
+	"Kings County, NY"	"36047"	"2013"	"2013"	"Homicide"	"3"	147	2592149	5.7
+	"Kings County, NY"	"36047"	"2013"	"2013"	"Undetermined "	"4"	27	2592149	1.0
+	"Kings County, NY"	"36047"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	22	2592149	0.8
+	"Kings County, NY"	"36047"	"2014"	"2014"	"Unintentional"	"1"	550	2621793	21.0
+	"Kings County, NY"	"36047"	"2014"	"2014"	"Suicide"	"2"	137	2621793	5.2
+	"Kings County, NY"	"36047"	"2014"	"2014"	"Homicide"	"3"	127	2621793	4.8
+	"Kings County, NY"	"36047"	"2014"	"2014"	"Undetermined "	"4"	32	2621793	1.2
+	"Kings County, NY"	"36047"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	14	2621793	Unreliable
+	"Kings County, NY"	"36047"	"2015"	"2015"	"Unintentional"	"1"	579	2636735	22.0
+	"Kings County, NY"	"36047"	"2015"	"2015"	"Suicide"	"2"	137	2636735	5.2
+	"Kings County, NY"	"36047"	"2015"	"2015"	"Homicide"	"3"	154	2636735	5.8
+	"Kings County, NY"	"36047"	"2015"	"2015"	"Undetermined "	"4"	32	2636735	1.2
+	"Kings County, NY"	"36047"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	14	2636735	Unreliable
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Unintentional"	"1"	625	2629150	23.8
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Suicide"	"2"	130	2629150	4.9
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Homicide"	"3"	145	2629150	5.5
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Undetermined "	"4"	21	2629150	0.8
+	"Kings County, NY"	"36047"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	18	2629150	Unreliable
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Unintentional"	"1"	672	2648771	25.4
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Suicide"	"2"	142	2648771	5.4
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Homicide"	"3"	124	2648771	4.7
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Undetermined "	"4"	25	2648771	0.9
+	"Kings County, NY"	"36047"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	14	2648771	Unreliable
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Unintentional"	"1"	583	2582830	22.6
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Suicide"	"2"	146	2582830	5.7
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Homicide"	"3"	113	2582830	4.4
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Undetermined "	"4"	37	2582830	1.4
+	"Kings County, NY"	"36047"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	20	2582830	0.8
+	"Lewis County, NY"	"36049"	"1999"	"1999"	"Unintentional"	"1"	14	26914	Unreliable
+	"Lewis County, NY"	"36049"	"2000"	"2000"	"Unintentional"	"1"	13	26944	Unreliable
+	"Lewis County, NY"	"36049"	"2002"	"2002"	"Unintentional"	"1"	11	26618	Unreliable
+	"Lewis County, NY"	"36049"	"2006"	"2006"	"Unintentional"	"1"	19	27001	Unreliable
+	"Lewis County, NY"	"36049"	"2007"	"2007"	"Unintentional"	"1"	11	27086	Unreliable
+	"Lewis County, NY"	"36049"	"2008"	"2008"	"Unintentional"	"1"	14	26878	Unreliable
+	"Lewis County, NY"	"36049"	"2012"	"2012"	"Unintentional"	"1"	16	27224	Unreliable
+	"Lewis County, NY"	"36049"	"2013"	"2013"	"Unintentional"	"1"	15	27149	Unreliable
+	"Lewis County, NY"	"36049"	"2014"	"2014"	"Unintentional"	"1"	12	27220	Unreliable
+	"Lewis County, NY"	"36049"	"2016"	"2016"	"Unintentional"	"1"	15	26865	Unreliable
+	"Lewis County, NY"	"36049"	"2017"	"2017"	"Unintentional"	"1"	21	26551	79.1
+	"Lewis County, NY"	"36049"	"2018"	"2018"	"Unintentional"	"1"	10	26447	Unreliable
+	"Livingston County, NY"	"36051"	"1999"	"1999"	"Unintentional"	"1"	19	64243	Unreliable
+	"Livingston County, NY"	"36051"	"2000"	"2000"	"Unintentional"	"1"	24	64328	37.3
+	"Livingston County, NY"	"36051"	"2001"	"2001"	"Unintentional"	"1"	29	65088	44.6
+	"Livingston County, NY"	"36051"	"2002"	"2002"	"Unintentional"	"1"	28	65118	43.0
+	"Livingston County, NY"	"36051"	"2003"	"2003"	"Unintentional"	"1"	21	65130	32.2
+	"Livingston County, NY"	"36051"	"2004"	"2004"	"Unintentional"	"1"	21	65484	32.1
+	"Livingston County, NY"	"36051"	"2005"	"2005"	"Unintentional"	"1"	15	65322	Unreliable
+	"Livingston County, NY"	"36051"	"2006"	"2006"	"Unintentional"	"1"	27	65357	41.3
+	"Livingston County, NY"	"36051"	"2007"	"2007"	"Unintentional"	"1"	17	65460	Unreliable
+	"Livingston County, NY"	"36051"	"2008"	"2008"	"Unintentional"	"1"	25	65637	38.1
+	"Livingston County, NY"	"36051"	"2009"	"2009"	"Unintentional"	"1"	24	65420	36.7
+	"Livingston County, NY"	"36051"	"2010"	"2010"	"Unintentional"	"1"	26	65393	39.8
+	"Livingston County, NY"	"36051"	"2011"	"2011"	"Unintentional"	"1"	23	65070	35.3
+	"Livingston County, NY"	"36051"	"2011"	"2011"	"Suicide"	"2"	11	65070	Unreliable
+	"Livingston County, NY"	"36051"	"2012"	"2012"	"Unintentional"	"1"	28	64810	43.2
+	"Livingston County, NY"	"36051"	"2013"	"2013"	"Unintentional"	"1"	17	64705	Unreliable
+	"Livingston County, NY"	"36051"	"2013"	"2013"	"Suicide"	"2"	11	64705	Unreliable
+	"Livingston County, NY"	"36051"	"2014"	"2014"	"Unintentional"	"1"	23	64586	35.6
+	"Livingston County, NY"	"36051"	"2015"	"2015"	"Unintentional"	"1"	31	64717	47.9
+	"Livingston County, NY"	"36051"	"2016"	"2016"	"Unintentional"	"1"	23	64257	35.8
+	"Livingston County, NY"	"36051"	"2016"	"2016"	"Suicide"	"2"	10	64257	Unreliable
+	"Livingston County, NY"	"36051"	"2017"	"2017"	"Unintentional"	"1"	32	63799	50.2
+	"Livingston County, NY"	"36051"	"2017"	"2017"	"Suicide"	"2"	10	63799	Unreliable
+	"Livingston County, NY"	"36051"	"2018"	"2018"	"Unintentional"	"1"	39	63227	61.7
+	"Madison County, NY"	"36053"	"1999"	"1999"	"Unintentional"	"1"	16	69523	Unreliable
+	"Madison County, NY"	"36053"	"2000"	"2000"	"Unintentional"	"1"	19	69441	Unreliable
+	"Madison County, NY"	"36053"	"2001"	"2001"	"Unintentional"	"1"	24	69852	34.4
+	"Madison County, NY"	"36053"	"2001"	"2001"	"Suicide"	"2"	14	69852	Unreliable
+	"Madison County, NY"	"36053"	"2002"	"2002"	"Unintentional"	"1"	25	70261	35.6
+	"Madison County, NY"	"36053"	"2003"	"2003"	"Unintentional"	"1"	22	71010	31.0
+	"Madison County, NY"	"36053"	"2004"	"2004"	"Unintentional"	"1"	26	71397	36.4
+	"Madison County, NY"	"36053"	"2005"	"2005"	"Unintentional"	"1"	12	71471	Unreliable
+	"Madison County, NY"	"36053"	"2006"	"2006"	"Unintentional"	"1"	23	72042	31.9
+	"Madison County, NY"	"36053"	"2006"	"2006"	"Suicide"	"2"	13	72042	Unreliable
+	"Madison County, NY"	"36053"	"2007"	"2007"	"Unintentional"	"1"	26	72709	35.8
+	"Madison County, NY"	"36053"	"2008"	"2008"	"Unintentional"	"1"	24	73075	32.8
+	"Madison County, NY"	"36053"	"2009"	"2009"	"Unintentional"	"1"	24	73169	32.8
+	"Madison County, NY"	"36053"	"2010"	"2010"	"Unintentional"	"1"	34	73442	46.3
+	"Madison County, NY"	"36053"	"2011"	"2011"	"Unintentional"	"1"	19	73365	Unreliable
+	"Madison County, NY"	"36053"	"2011"	"2011"	"Suicide"	"2"	15	73365	Unreliable
+	"Madison County, NY"	"36053"	"2012"	"2012"	"Unintentional"	"1"	31	72382	42.8
+	"Madison County, NY"	"36053"	"2012"	"2012"	"Suicide"	"2"	10	72382	Unreliable
+	"Madison County, NY"	"36053"	"2013"	"2013"	"Unintentional"	"1"	27	72382	37.3
+	"Madison County, NY"	"36053"	"2013"	"2013"	"Suicide"	"2"	10	72382	Unreliable
+	"Madison County, NY"	"36053"	"2014"	"2014"	"Unintentional"	"1"	33	72369	45.6
+	"Madison County, NY"	"36053"	"2015"	"2015"	"Unintentional"	"1"	24	71849	33.4
+	"Madison County, NY"	"36053"	"2015"	"2015"	"Suicide"	"2"	14	71849	Unreliable
+	"Madison County, NY"	"36053"	"2016"	"2016"	"Unintentional"	"1"	36	71329	50.5
+	"Madison County, NY"	"36053"	"2017"	"2017"	"Unintentional"	"1"	26	70965	36.6
+	"Madison County, NY"	"36053"	"2018"	"2018"	"Unintentional"	"1"	31	70795	43.8
+	"Madison County, NY"	"36053"	"2018"	"2018"	"Suicide"	"2"	10	70795	Unreliable
+	"Monroe County, NY"	"36055"	"1999"	"1999"	"Unintentional"	"1"	152	733679	20.7
+	"Monroe County, NY"	"36055"	"1999"	"1999"	"Suicide"	"2"	45	733679	6.1
+	"Monroe County, NY"	"36055"	"1999"	"1999"	"Homicide"	"3"	34	733679	4.6
+	"Monroe County, NY"	"36055"	"2000"	"2000"	"Unintentional"	"1"	131	735343	17.8
+	"Monroe County, NY"	"36055"	"2000"	"2000"	"Suicide"	"2"	55	735343	7.5
+	"Monroe County, NY"	"36055"	"2000"	"2000"	"Homicide"	"3"	46	735343	6.3
+	"Monroe County, NY"	"36055"	"2001"	"2001"	"Unintentional"	"1"	193	739891	26.1
+	"Monroe County, NY"	"36055"	"2001"	"2001"	"Suicide"	"2"	56	739891	7.6
+	"Monroe County, NY"	"36055"	"2001"	"2001"	"Homicide"	"3"	48	739891	6.5
+	"Monroe County, NY"	"36055"	"2002"	"2002"	"Unintentional"	"1"	148	741391	20.0
+	"Monroe County, NY"	"36055"	"2002"	"2002"	"Suicide"	"2"	41	741391	5.5
+	"Monroe County, NY"	"36055"	"2002"	"2002"	"Homicide"	"3"	48	741391	6.5
+	"Monroe County, NY"	"36055"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	10	741391	Unreliable
+	"Monroe County, NY"	"36055"	"2003"	"2003"	"Unintentional"	"1"	147	741671	19.8
+	"Monroe County, NY"	"36055"	"2003"	"2003"	"Suicide"	"2"	42	741671	5.7
+	"Monroe County, NY"	"36055"	"2003"	"2003"	"Homicide"	"3"	62	741671	8.4
+	"Monroe County, NY"	"36055"	"2004"	"2004"	"Unintentional"	"1"	165	741075	22.3
+	"Monroe County, NY"	"36055"	"2004"	"2004"	"Suicide"	"2"	48	741075	6.5
+	"Monroe County, NY"	"36055"	"2004"	"2004"	"Homicide"	"3"	41	741075	5.5
+	"Monroe County, NY"	"36055"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	11	741075	Unreliable
+	"Monroe County, NY"	"36055"	"2005"	"2005"	"Unintentional"	"1"	152	738506	20.6
+	"Monroe County, NY"	"36055"	"2005"	"2005"	"Suicide"	"2"	40	738506	5.4
+	"Monroe County, NY"	"36055"	"2005"	"2005"	"Homicide"	"3"	56	738506	7.6
+	"Monroe County, NY"	"36055"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	10	738506	Unreliable
+	"Monroe County, NY"	"36055"	"2006"	"2006"	"Unintentional"	"1"	209	738329	28.3
+	"Monroe County, NY"	"36055"	"2006"	"2006"	"Suicide"	"2"	57	738329	7.7
+	"Monroe County, NY"	"36055"	"2006"	"2006"	"Homicide"	"3"	50	738329	6.8
+	"Monroe County, NY"	"36055"	"2007"	"2007"	"Unintentional"	"1"	205	739249	27.7
+	"Monroe County, NY"	"36055"	"2007"	"2007"	"Suicide"	"2"	63	739249	8.5
+	"Monroe County, NY"	"36055"	"2007"	"2007"	"Homicide"	"3"	54	739249	7.3
+	"Monroe County, NY"	"36055"	"2008"	"2008"	"Unintentional"	"1"	217	741018	29.3
+	"Monroe County, NY"	"36055"	"2008"	"2008"	"Suicide"	"2"	51	741018	6.9
+	"Monroe County, NY"	"36055"	"2008"	"2008"	"Homicide"	"3"	48	741018	6.5
+	"Monroe County, NY"	"36055"	"2009"	"2009"	"Unintentional"	"1"	191	743386	25.7
+	"Monroe County, NY"	"36055"	"2009"	"2009"	"Suicide"	"2"	67	743386	9.0
+	"Monroe County, NY"	"36055"	"2009"	"2009"	"Homicide"	"3"	31	743386	4.2
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Unintentional"	"1"	232	744344	31.2
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Suicide"	"2"	64	744344	8.6
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Homicide"	"3"	50	744344	6.7
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Undetermined "	"4"	11	744344	Unreliable
+	"Monroe County, NY"	"36055"	"2011"	"2011"	"Unintentional"	"1"	234	745625	31.4
+	"Monroe County, NY"	"36055"	"2011"	"2011"	"Suicide"	"2"	81	745625	10.9
+	"Monroe County, NY"	"36055"	"2011"	"2011"	"Homicide"	"3"	44	745625	5.9
+	"Monroe County, NY"	"36055"	"2012"	"2012"	"Unintentional"	"1"	265	747813	35.4
+	"Monroe County, NY"	"36055"	"2012"	"2012"	"Suicide"	"2"	69	747813	9.2
+	"Monroe County, NY"	"36055"	"2012"	"2012"	"Homicide"	"3"	37	747813	4.9
+	"Monroe County, NY"	"36055"	"2012"	"2012"	"Undetermined "	"4"	20	747813	2.7
+	"Monroe County, NY"	"36055"	"2013"	"2013"	"Unintentional"	"1"	288	749606	38.4
+	"Monroe County, NY"	"36055"	"2013"	"2013"	"Suicide"	"2"	61	749606	8.1
+	"Monroe County, NY"	"36055"	"2013"	"2013"	"Homicide"	"3"	49	749606	6.5
+	"Monroe County, NY"	"36055"	"2013"	"2013"	"Undetermined "	"4"	11	749606	Unreliable
+	"Monroe County, NY"	"36055"	"2014"	"2014"	"Unintentional"	"1"	307	749857	40.9
+	"Monroe County, NY"	"36055"	"2014"	"2014"	"Suicide"	"2"	60	749857	8.0
+	"Monroe County, NY"	"36055"	"2014"	"2014"	"Homicide"	"3"	36	749857	4.8
+	"Monroe County, NY"	"36055"	"2014"	"2014"	"Undetermined "	"4"	14	749857	Unreliable
+	"Monroe County, NY"	"36055"	"2015"	"2015"	"Unintentional"	"1"	304	749600	40.6
+	"Monroe County, NY"	"36055"	"2015"	"2015"	"Suicide"	"2"	80	749600	10.7
+	"Monroe County, NY"	"36055"	"2015"	"2015"	"Homicide"	"3"	44	749600	5.9
+	"Monroe County, NY"	"36055"	"2015"	"2015"	"Undetermined "	"4"	10	749600	Unreliable
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"Unintentional"	"1"	378	747727	50.6
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"Suicide"	"2"	82	747727	11.0
+	"Monroe County, NY"	"36055"	"2016"	"2016"	"Homicide"	"3"	52	747727	7.0
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"Unintentional"	"1"	492	747642	65.8
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"Suicide"	"2"	69	747642	9.2
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"Homicide"	"3"	38	747642	5.1
+	"Monroe County, NY"	"36055"	"2017"	"2017"	"Undetermined "	"4"	16	747642	Unreliable
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"Unintentional"	"1"	481	742474	64.8
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"Suicide"	"2"	77	742474	10.4
+	"Monroe County, NY"	"36055"	"2018"	"2018"	"Homicide"	"3"	37	742474	5.0
+	"Montgomery County, NY"	"36057"	"1999"	"1999"	"Unintentional"	"1"	13	49918	Unreliable
+	"Montgomery County, NY"	"36057"	"2000"	"2000"	"Unintentional"	"1"	13	49708	Unreliable
+	"Montgomery County, NY"	"36057"	"2001"	"2001"	"Unintentional"	"1"	16	49472	Unreliable
+	"Montgomery County, NY"	"36057"	"2002"	"2002"	"Unintentional"	"1"	18	49298	Unreliable
+	"Montgomery County, NY"	"36057"	"2003"	"2003"	"Unintentional"	"1"	19	49449	Unreliable
+	"Montgomery County, NY"	"36057"	"2004"	"2004"	"Unintentional"	"1"	16	49460	Unreliable
+	"Montgomery County, NY"	"36057"	"2005"	"2005"	"Unintentional"	"1"	19	49505	Unreliable
+	"Montgomery County, NY"	"36057"	"2006"	"2006"	"Unintentional"	"1"	16	49724	Unreliable
+	"Montgomery County, NY"	"36057"	"2007"	"2007"	"Unintentional"	"1"	19	49798	Unreliable
+	"Montgomery County, NY"	"36057"	"2008"	"2008"	"Unintentional"	"1"	18	49951	Unreliable
+	"Montgomery County, NY"	"36057"	"2009"	"2009"	"Unintentional"	"1"	16	50001	Unreliable
+	"Montgomery County, NY"	"36057"	"2010"	"2010"	"Unintentional"	"1"	16	50219	Unreliable
+	"Montgomery County, NY"	"36057"	"2011"	"2011"	"Unintentional"	"1"	22	49916	44.1
+	"Montgomery County, NY"	"36057"	"2012"	"2012"	"Unintentional"	"1"	17	49941	Unreliable
+	"Montgomery County, NY"	"36057"	"2013"	"2013"	"Unintentional"	"1"	26	49897	52.1
+	"Montgomery County, NY"	"36057"	"2013"	"2013"	"Suicide"	"2"	10	49897	Unreliable
+	"Montgomery County, NY"	"36057"	"2014"	"2014"	"Unintentional"	"1"	15	49779	Unreliable
+	"Montgomery County, NY"	"36057"	"2015"	"2015"	"Unintentional"	"1"	26	49642	52.4
+	"Montgomery County, NY"	"36057"	"2016"	"2016"	"Unintentional"	"1"	27	49276	54.8
+	"Montgomery County, NY"	"36057"	"2017"	"2017"	"Unintentional"	"1"	20	49258	40.6
+	"Montgomery County, NY"	"36057"	"2018"	"2018"	"Unintentional"	"1"	25	49455	50.6
+	"Nassau County, NY"	"36059"	"1999"	"1999"	"Unintentional"	"1"	288	1330815	21.6
+	"Nassau County, NY"	"36059"	"1999"	"1999"	"Suicide"	"2"	60	1330815	4.5
+	"Nassau County, NY"	"36059"	"1999"	"1999"	"Homicide"	"3"	37	1330815	2.8
+	"Nassau County, NY"	"36059"	"2000"	"2000"	"Unintentional"	"1"	257	1334544	19.3
+	"Nassau County, NY"	"36059"	"2000"	"2000"	"Suicide"	"2"	50	1334544	3.7
+	"Nassau County, NY"	"36059"	"2000"	"2000"	"Homicide"	"3"	27	1334544	2.0
+	"Nassau County, NY"	"36059"	"2001"	"2001"	"Unintentional"	"1"	307	1337086	23.0
+	"Nassau County, NY"	"36059"	"2001"	"2001"	"Suicide"	"2"	77	1337086	5.8
+	"Nassau County, NY"	"36059"	"2001"	"2001"	"Homicide"	"3"	28	1337086	2.1
+	"Nassau County, NY"	"36059"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	1337086	Unreliable
+	"Nassau County, NY"	"36059"	"2002"	"2002"	"Unintentional"	"1"	253	1339572	18.9
+	"Nassau County, NY"	"36059"	"2002"	"2002"	"Suicide"	"2"	53	1339572	4.0
+	"Nassau County, NY"	"36059"	"2002"	"2002"	"Homicide"	"3"	41	1339572	3.1
+	"Nassau County, NY"	"36059"	"2003"	"2003"	"Unintentional"	"1"	273	1339761	20.4
+	"Nassau County, NY"	"36059"	"2003"	"2003"	"Suicide"	"2"	63	1339761	4.7
+	"Nassau County, NY"	"36059"	"2003"	"2003"	"Homicide"	"3"	31	1339761	2.3
+	"Nassau County, NY"	"36059"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	10	1339761	Unreliable
+	"Nassau County, NY"	"36059"	"2004"	"2004"	"Unintentional"	"1"	267	1337964	20.0
+	"Nassau County, NY"	"36059"	"2004"	"2004"	"Suicide"	"2"	52	1337964	3.9
+	"Nassau County, NY"	"36059"	"2004"	"2004"	"Homicide"	"3"	21	1337964	1.6
+	"Nassau County, NY"	"36059"	"2005"	"2005"	"Unintentional"	"1"	226	1332318	17.0
+	"Nassau County, NY"	"36059"	"2005"	"2005"	"Suicide"	"2"	48	1332318	3.6
+	"Nassau County, NY"	"36059"	"2005"	"2005"	"Homicide"	"3"	23	1332318	1.7
+	"Nassau County, NY"	"36059"	"2006"	"2006"	"Unintentional"	"1"	338	1324905	25.5
+	"Nassau County, NY"	"36059"	"2006"	"2006"	"Suicide"	"2"	79	1324905	6.0
+	"Nassau County, NY"	"36059"	"2006"	"2006"	"Homicide"	"3"	31	1324905	2.3
+	"Nassau County, NY"	"36059"	"2006"	"2006"	"Undetermined "	"4"	10	1324905	Unreliable
+	"Nassau County, NY"	"36059"	"2007"	"2007"	"Unintentional"	"1"	362	1322048	27.4
+	"Nassau County, NY"	"36059"	"2007"	"2007"	"Suicide"	"2"	71	1322048	5.4
+	"Nassau County, NY"	"36059"	"2007"	"2007"	"Homicide"	"3"	25	1322048	1.9
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Unintentional"	"1"	391	1325129	29.5
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Suicide"	"2"	83	1325129	6.3
+	"Nassau County, NY"	"36059"	"2008"	"2008"	"Homicide"	"3"	31	1325129	2.3
+	"Nassau County, NY"	"36059"	"2009"	"2009"	"Unintentional"	"1"	361	1332088	27.1
+	"Nassau County, NY"	"36059"	"2009"	"2009"	"Suicide"	"2"	69	1332088	5.2
+	"Nassau County, NY"	"36059"	"2009"	"2009"	"Homicide"	"3"	39	1332088	2.9
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Unintentional"	"1"	369	1339532	27.5
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Suicide"	"2"	89	1339532	6.6
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Homicide"	"3"	35	1339532	2.6
+	"Nassau County, NY"	"36059"	"2011"	"2011"	"Unintentional"	"1"	405	1344436	30.1
+	"Nassau County, NY"	"36059"	"2011"	"2011"	"Suicide"	"2"	94	1344436	7.0
+	"Nassau County, NY"	"36059"	"2011"	"2011"	"Homicide"	"3"	25	1344436	1.9
+	"Nassau County, NY"	"36059"	"2012"	"2012"	"Unintentional"	"1"	432	1349233	32.0
+	"Nassau County, NY"	"36059"	"2012"	"2012"	"Suicide"	"2"	94	1349233	7.0
+	"Nassau County, NY"	"36059"	"2012"	"2012"	"Homicide"	"3"	38	1349233	2.8
+	"Nassau County, NY"	"36059"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	11	1349233	Unreliable
+	"Nassau County, NY"	"36059"	"2013"	"2013"	"Unintentional"	"1"	438	1352146	32.4
+	"Nassau County, NY"	"36059"	"2013"	"2013"	"Suicide"	"2"	100	1352146	7.4
+	"Nassau County, NY"	"36059"	"2013"	"2013"	"Homicide"	"3"	28	1352146	2.1
+	"Nassau County, NY"	"36059"	"2014"	"2014"	"Unintentional"	"1"	442	1358627	32.5
+	"Nassau County, NY"	"36059"	"2014"	"2014"	"Suicide"	"2"	99	1358627	7.3
+	"Nassau County, NY"	"36059"	"2014"	"2014"	"Homicide"	"3"	22	1358627	1.6
+	"Nassau County, NY"	"36059"	"2015"	"2015"	"Unintentional"	"1"	449	1361350	33.0
+	"Nassau County, NY"	"36059"	"2015"	"2015"	"Suicide"	"2"	94	1361350	6.9
+	"Nassau County, NY"	"36059"	"2015"	"2015"	"Homicide"	"3"	22	1361350	1.6
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"Unintentional"	"1"	452	1361500	33.2
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"Suicide"	"2"	110	1361500	8.1
+	"Nassau County, NY"	"36059"	"2016"	"2016"	"Homicide"	"3"	26	1361500	1.9
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"Unintentional"	"1"	475	1369514	34.7
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"Suicide"	"2"	80	1369514	5.8
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"Homicide"	"3"	30	1369514	2.2
+	"Nassau County, NY"	"36059"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	11	1369514	Unreliable
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"Unintentional"	"1"	454	1358343	33.4
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"Suicide"	"2"	89	1358343	6.6
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"Homicide"	"3"	19	1358343	Unreliable
+	"Nassau County, NY"	"36059"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	15	1358343	Unreliable
+	"New York County, NY"	"36061"	"1999"	"1999"	"Unintentional"	"1"	399	1535624	26.0
+	"New York County, NY"	"36061"	"1999"	"1999"	"Suicide"	"2"	129	1535624	8.4
+	"New York County, NY"	"36061"	"1999"	"1999"	"Homicide"	"3"	114	1535624	7.4
+	"New York County, NY"	"36061"	"1999"	"1999"	"Undetermined "	"4"	19	1535624	Unreliable
+	"New York County, NY"	"36061"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	11	1535624	Unreliable
+	"New York County, NY"	"36061"	"2000"	"2000"	"Unintentional"	"1"	314	1537195	20.4
+	"New York County, NY"	"36061"	"2000"	"2000"	"Suicide"	"2"	99	1537195	6.4
+	"New York County, NY"	"36061"	"2000"	"2000"	"Homicide"	"3"	109	1537195	7.1
+	"New York County, NY"	"36061"	"2000"	"2000"	"Undetermined "	"4"	17	1537195	Unreliable
+	"New York County, NY"	"36061"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	14	1537195	Unreliable
+	"New York County, NY"	"36061"	"2001"	"2001"	"Unintentional"	"1"	424	1555729	27.3
+	"New York County, NY"	"36061"	"2001"	"2001"	"Suicide"	"2"	137	1555729	8.8
+	"New York County, NY"	"36061"	"2001"	"2001"	"Homicide"	"3"	108	1555729	6.9
+	"New York County, NY"	"36061"	"2001"	"2001"	"Undetermined "	"4"	30	1555729	1.9
+	"New York County, NY"	"36061"	"2002"	"2002"	"Unintentional"	"1"	365	1555382	23.5
+	"New York County, NY"	"36061"	"2002"	"2002"	"Suicide"	"2"	141	1555382	9.1
+	"New York County, NY"	"36061"	"2002"	"2002"	"Homicide"	"3"	86	1555382	5.5
+	"New York County, NY"	"36061"	"2002"	"2002"	"Undetermined "	"4"	28	1555382	1.8
+	"New York County, NY"	"36061"	"2003"	"2003"	"Unintentional"	"1"	404	1562154	25.9
+	"New York County, NY"	"36061"	"2003"	"2003"	"Suicide"	"2"	132	1562154	8.4
+	"New York County, NY"	"36061"	"2003"	"2003"	"Homicide"	"3"	79	1562154	5.1
+	"New York County, NY"	"36061"	"2003"	"2003"	"Undetermined "	"4"	11	1562154	Unreliable
+	"New York County, NY"	"36061"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	12	1562154	Unreliable
+	"New York County, NY"	"36061"	"2004"	"2004"	"Unintentional"	"1"	313	1569947	19.9
+	"New York County, NY"	"36061"	"2004"	"2004"	"Suicide"	"2"	144	1569947	9.2
+	"New York County, NY"	"36061"	"2004"	"2004"	"Homicide"	"3"	75	1569947	4.8
+	"New York County, NY"	"36061"	"2004"	"2004"	"Undetermined "	"4"	11	1569947	Unreliable
+	"New York County, NY"	"36061"	"2005"	"2005"	"Unintentional"	"1"	370	1573573	23.5
+	"New York County, NY"	"36061"	"2005"	"2005"	"Suicide"	"2"	121	1573573	7.7
+	"New York County, NY"	"36061"	"2005"	"2005"	"Homicide"	"3"	86	1573573	5.5
+	"New York County, NY"	"36061"	"2005"	"2005"	"Undetermined "	"4"	21	1573573	1.3
+	"New York County, NY"	"36061"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	10	1573573	Unreliable
+	"New York County, NY"	"36061"	"2006"	"2006"	"Unintentional"	"1"	394	1578171	25.0
+	"New York County, NY"	"36061"	"2006"	"2006"	"Suicide"	"2"	108	1578171	6.8
+	"New York County, NY"	"36061"	"2006"	"2006"	"Homicide"	"3"	89	1578171	5.6
+	"New York County, NY"	"36061"	"2006"	"2006"	"Undetermined "	"4"	24	1578171	1.5
+	"New York County, NY"	"36061"	"2007"	"2007"	"Unintentional"	"1"	321	1581402	20.3
+	"New York County, NY"	"36061"	"2007"	"2007"	"Suicide"	"2"	111	1581402	7.0
+	"New York County, NY"	"36061"	"2007"	"2007"	"Homicide"	"3"	51	1581402	3.2
+	"New York County, NY"	"36061"	"2007"	"2007"	"Undetermined "	"4"	26	1581402	1.6
+	"New York County, NY"	"36061"	"2008"	"2008"	"Unintentional"	"1"	305	1587022	19.2
+	"New York County, NY"	"36061"	"2008"	"2008"	"Suicide"	"2"	111	1587022	7.0
+	"New York County, NY"	"36061"	"2008"	"2008"	"Homicide"	"3"	68	1587022	4.3
+	"New York County, NY"	"36061"	"2008"	"2008"	"Undetermined "	"4"	19	1587022	Unreliable
+	"New York County, NY"	"36061"	"2009"	"2009"	"Unintentional"	"1"	295	1583431	18.6
+	"New York County, NY"	"36061"	"2009"	"2009"	"Suicide"	"2"	92	1583431	5.8
+	"New York County, NY"	"36061"	"2009"	"2009"	"Homicide"	"3"	61	1583431	3.9
+	"New York County, NY"	"36061"	"2009"	"2009"	"Undetermined "	"4"	19	1583431	Unreliable
+	"New York County, NY"	"36061"	"2010"	"2010"	"Unintentional"	"1"	284	1585873	17.9
+	"New York County, NY"	"36061"	"2010"	"2010"	"Suicide"	"2"	107	1585873	6.7
+	"New York County, NY"	"36061"	"2010"	"2010"	"Homicide"	"3"	50	1585873	3.2
+	"New York County, NY"	"36061"	"2010"	"2010"	"Undetermined "	"4"	20	1585873	1.3
+	"New York County, NY"	"36061"	"2011"	"2011"	"Unintentional"	"1"	300	1601948	18.7
+	"New York County, NY"	"36061"	"2011"	"2011"	"Suicide"	"2"	130	1601948	8.1
+	"New York County, NY"	"36061"	"2011"	"2011"	"Homicide"	"3"	74	1601948	4.6
+	"New York County, NY"	"36061"	"2011"	"2011"	"Undetermined "	"4"	15	1601948	Unreliable
+	"New York County, NY"	"36061"	"2012"	"2012"	"Unintentional"	"1"	336	1619090	20.8
+	"New York County, NY"	"36061"	"2012"	"2012"	"Suicide"	"2"	144	1619090	8.9
+	"New York County, NY"	"36061"	"2012"	"2012"	"Homicide"	"3"	53	1619090	3.3
+	"New York County, NY"	"36061"	"2012"	"2012"	"Undetermined "	"4"	24	1619090	1.5
+	"New York County, NY"	"36061"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	13	1619090	Unreliable
+	"New York County, NY"	"36061"	"2013"	"2013"	"Unintentional"	"1"	346	1626159	21.3
+	"New York County, NY"	"36061"	"2013"	"2013"	"Suicide"	"2"	139	1626159	8.5
+	"New York County, NY"	"36061"	"2013"	"2013"	"Homicide"	"3"	38	1626159	2.3
+	"New York County, NY"	"36061"	"2013"	"2013"	"Undetermined "	"4"	17	1626159	Unreliable
+	"New York County, NY"	"36061"	"2014"	"2014"	"Unintentional"	"1"	356	1636268	21.8
+	"New York County, NY"	"36061"	"2014"	"2014"	"Suicide"	"2"	144	1636268	8.8
+	"New York County, NY"	"36061"	"2014"	"2014"	"Homicide"	"3"	35	1636268	2.1
+	"New York County, NY"	"36061"	"2014"	"2014"	"Undetermined "	"4"	15	1636268	Unreliable
+	"New York County, NY"	"36061"	"2015"	"2015"	"Unintentional"	"1"	320	1644518	19.5
+	"New York County, NY"	"36061"	"2015"	"2015"	"Suicide"	"2"	130	1644518	7.9
+	"New York County, NY"	"36061"	"2015"	"2015"	"Homicide"	"3"	40	1644518	2.4
+	"New York County, NY"	"36061"	"2015"	"2015"	"Undetermined "	"4"	27	1644518	1.6
+	"New York County, NY"	"36061"	"2016"	"2016"	"Unintentional"	"1"	424	1643734	25.8
+	"New York County, NY"	"36061"	"2016"	"2016"	"Suicide"	"2"	114	1643734	6.9
+	"New York County, NY"	"36061"	"2016"	"2016"	"Homicide"	"3"	42	1643734	2.6
+	"New York County, NY"	"36061"	"2016"	"2016"	"Undetermined "	"4"	17	1643734	Unreliable
+	"New York County, NY"	"36061"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	11	1643734	Unreliable
+	"New York County, NY"	"36061"	"2017"	"2017"	"Unintentional"	"1"	420	1664727	25.2
+	"New York County, NY"	"36061"	"2017"	"2017"	"Suicide"	"2"	154	1664727	9.3
+	"New York County, NY"	"36061"	"2017"	"2017"	"Homicide"	"3"	37	1664727	2.2
+	"New York County, NY"	"36061"	"2017"	"2017"	"Undetermined "	"4"	22	1664727	1.3
+	"New York County, NY"	"36061"	"2018"	"2018"	"Unintentional"	"1"	488	1628701	30.0
+	"New York County, NY"	"36061"	"2018"	"2018"	"Suicide"	"2"	127	1628701	7.8
+	"New York County, NY"	"36061"	"2018"	"2018"	"Homicide"	"3"	23	1628701	1.4
+	"New York County, NY"	"36061"	"2018"	"2018"	"Undetermined "	"4"	32	1628701	2.0
+	"Niagara County, NY"	"36063"	"1999"	"1999"	"Unintentional"	"1"	67	220556	30.4
+	"Niagara County, NY"	"36063"	"2000"	"2000"	"Unintentional"	"1"	46	219846	20.9
+	"Niagara County, NY"	"36063"	"2000"	"2000"	"Suicide"	"2"	20	219846	9.1
+	"Niagara County, NY"	"36063"	"2001"	"2001"	"Unintentional"	"1"	60	218552	27.5
+	"Niagara County, NY"	"36063"	"2001"	"2001"	"Suicide"	"2"	13	218552	Unreliable
+	"Niagara County, NY"	"36063"	"2002"	"2002"	"Unintentional"	"1"	54	218127	24.8
+	"Niagara County, NY"	"36063"	"2002"	"2002"	"Suicide"	"2"	19	218127	Unreliable
+	"Niagara County, NY"	"36063"	"2003"	"2003"	"Unintentional"	"1"	56	218072	25.7
+	"Niagara County, NY"	"36063"	"2003"	"2003"	"Suicide"	"2"	16	218072	Unreliable
+	"Niagara County, NY"	"36063"	"2003"	"2003"	"Homicide"	"3"	10	218072	Unreliable
+	"Niagara County, NY"	"36063"	"2004"	"2004"	"Unintentional"	"1"	62	217737	28.5
+	"Niagara County, NY"	"36063"	"2004"	"2004"	"Suicide"	"2"	10	217737	Unreliable
+	"Niagara County, NY"	"36063"	"2005"	"2005"	"Unintentional"	"1"	51	216818	23.5
+	"Niagara County, NY"	"36063"	"2005"	"2005"	"Suicide"	"2"	11	216818	Unreliable
+	"Niagara County, NY"	"36063"	"2006"	"2006"	"Unintentional"	"1"	72	216148	33.3
+	"Niagara County, NY"	"36063"	"2006"	"2006"	"Suicide"	"2"	19	216148	Unreliable
+	"Niagara County, NY"	"36063"	"2006"	"2006"	"Homicide"	"3"	10	216148	Unreliable
+	"Niagara County, NY"	"36063"	"2006"	"2006"	"Undetermined "	"4"	12	216148	Unreliable
+	"Niagara County, NY"	"36063"	"2007"	"2007"	"Unintentional"	"1"	57	215791	26.4
+	"Niagara County, NY"	"36063"	"2007"	"2007"	"Suicide"	"2"	23	215791	10.7
+	"Niagara County, NY"	"36063"	"2007"	"2007"	"Undetermined "	"4"	14	215791	Unreliable
+	"Niagara County, NY"	"36063"	"2008"	"2008"	"Unintentional"	"1"	72	215793	33.4
+	"Niagara County, NY"	"36063"	"2008"	"2008"	"Suicide"	"2"	24	215793	11.1
+	"Niagara County, NY"	"36063"	"2008"	"2008"	"Undetermined "	"4"	15	215793	Unreliable
+	"Niagara County, NY"	"36063"	"2009"	"2009"	"Unintentional"	"1"	76	216043	35.2
+	"Niagara County, NY"	"36063"	"2009"	"2009"	"Suicide"	"2"	20	216043	9.3
+	"Niagara County, NY"	"36063"	"2010"	"2010"	"Unintentional"	"1"	83	216469	38.3
+	"Niagara County, NY"	"36063"	"2010"	"2010"	"Suicide"	"2"	24	216469	11.1
+	"Niagara County, NY"	"36063"	"2011"	"2011"	"Unintentional"	"1"	77	216011	35.6
+	"Niagara County, NY"	"36063"	"2011"	"2011"	"Suicide"	"2"	33	216011	15.3
+	"Niagara County, NY"	"36063"	"2012"	"2012"	"Unintentional"	"1"	91	215124	42.3
+	"Niagara County, NY"	"36063"	"2012"	"2012"	"Suicide"	"2"	36	215124	16.7
+	"Niagara County, NY"	"36063"	"2013"	"2013"	"Unintentional"	"1"	86	214249	40.1
+	"Niagara County, NY"	"36063"	"2013"	"2013"	"Suicide"	"2"	33	214249	15.4
+	"Niagara County, NY"	"36063"	"2014"	"2014"	"Unintentional"	"1"	79	213525	37.0
+	"Niagara County, NY"	"36063"	"2014"	"2014"	"Suicide"	"2"	36	213525	16.9
+	"Niagara County, NY"	"36063"	"2015"	"2015"	"Unintentional"	"1"	115	212652	54.1
+	"Niagara County, NY"	"36063"	"2015"	"2015"	"Suicide"	"2"	33	212652	15.5
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"Unintentional"	"1"	105	211758	49.6
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"Suicide"	"2"	36	211758	17.0
+	"Niagara County, NY"	"36063"	"2016"	"2016"	"Homicide"	"3"	12	211758	Unreliable
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"Unintentional"	"1"	105	211328	49.7
+	"Niagara County, NY"	"36063"	"2017"	"2017"	"Suicide"	"2"	25	211328	11.8
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"Unintentional"	"1"	98	210433	46.6
+	"Niagara County, NY"	"36063"	"2018"	"2018"	"Suicide"	"2"	29	210433	13.8
+	"Oneida County, NY"	"36065"	"1999"	"1999"	"Unintentional"	"1"	74	235412	31.4
+	"Oneida County, NY"	"36065"	"1999"	"1999"	"Suicide"	"2"	11	235412	Unreliable
+	"Oneida County, NY"	"36065"	"2000"	"2000"	"Unintentional"	"1"	63	235469	26.8
+	"Oneida County, NY"	"36065"	"2000"	"2000"	"Suicide"	"2"	20	235469	8.5
+	"Oneida County, NY"	"36065"	"2001"	"2001"	"Unintentional"	"1"	87	234247	37.1
+	"Oneida County, NY"	"36065"	"2001"	"2001"	"Suicide"	"2"	26	234247	11.1
+	"Oneida County, NY"	"36065"	"2001"	"2001"	"Homicide"	"3"	12	234247	Unreliable
+	"Oneida County, NY"	"36065"	"2002"	"2002"	"Unintentional"	"1"	68	234078	29.1
+	"Oneida County, NY"	"36065"	"2002"	"2002"	"Suicide"	"2"	16	234078	Unreliable
+	"Oneida County, NY"	"36065"	"2003"	"2003"	"Unintentional"	"1"	75	234243	32.0
+	"Oneida County, NY"	"36065"	"2003"	"2003"	"Suicide"	"2"	22	234243	9.4
+	"Oneida County, NY"	"36065"	"2004"	"2004"	"Unintentional"	"1"	73	234654	31.1
+	"Oneida County, NY"	"36065"	"2004"	"2004"	"Suicide"	"2"	18	234654	Unreliable
+	"Oneida County, NY"	"36065"	"2005"	"2005"	"Unintentional"	"1"	62	234282	26.5
+	"Oneida County, NY"	"36065"	"2005"	"2005"	"Suicide"	"2"	21	234282	9.0
+	"Oneida County, NY"	"36065"	"2006"	"2006"	"Unintentional"	"1"	73	234229	31.2
+	"Oneida County, NY"	"36065"	"2006"	"2006"	"Suicide"	"2"	21	234229	9.0
+	"Oneida County, NY"	"36065"	"2006"	"2006"	"Homicide"	"3"	10	234229	Unreliable
+	"Oneida County, NY"	"36065"	"2006"	"2006"	"Undetermined "	"4"	11	234229	Unreliable
+	"Oneida County, NY"	"36065"	"2007"	"2007"	"Unintentional"	"1"	60	234488	25.6
+	"Oneida County, NY"	"36065"	"2007"	"2007"	"Suicide"	"2"	29	234488	12.4
+	"Oneida County, NY"	"36065"	"2007"	"2007"	"Undetermined "	"4"	11	234488	Unreliable
+	"Oneida County, NY"	"36065"	"2008"	"2008"	"Unintentional"	"1"	66	234482	28.1
+	"Oneida County, NY"	"36065"	"2008"	"2008"	"Suicide"	"2"	21	234482	9.0
+	"Oneida County, NY"	"36065"	"2009"	"2009"	"Unintentional"	"1"	52	234619	22.2
+	"Oneida County, NY"	"36065"	"2009"	"2009"	"Suicide"	"2"	22	234619	9.4
+	"Oneida County, NY"	"36065"	"2010"	"2010"	"Unintentional"	"1"	77	234878	32.8
+	"Oneida County, NY"	"36065"	"2010"	"2010"	"Suicide"	"2"	20	234878	8.5
+	"Oneida County, NY"	"36065"	"2011"	"2011"	"Unintentional"	"1"	68	234287	29.0
+	"Oneida County, NY"	"36065"	"2011"	"2011"	"Suicide"	"2"	19	234287	Unreliable
+	"Oneida County, NY"	"36065"	"2012"	"2012"	"Unintentional"	"1"	69	233556	29.5
+	"Oneida County, NY"	"36065"	"2012"	"2012"	"Suicide"	"2"	30	233556	12.8
+	"Oneida County, NY"	"36065"	"2013"	"2013"	"Unintentional"	"1"	105	233585	45.0
+	"Oneida County, NY"	"36065"	"2013"	"2013"	"Suicide"	"2"	34	233585	14.6
+	"Oneida County, NY"	"36065"	"2013"	"2013"	"Homicide"	"3"	12	233585	Unreliable
+	"Oneida County, NY"	"36065"	"2014"	"2014"	"Unintentional"	"1"	108	232871	46.4
+	"Oneida County, NY"	"36065"	"2014"	"2014"	"Suicide"	"2"	27	232871	11.6
+	"Oneida County, NY"	"36065"	"2015"	"2015"	"Unintentional"	"1"	110	232500	47.3
+	"Oneida County, NY"	"36065"	"2015"	"2015"	"Suicide"	"2"	22	232500	9.5
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"Unintentional"	"1"	137	231190	59.3
+	"Oneida County, NY"	"36065"	"2016"	"2016"	"Suicide"	"2"	19	231190	Unreliable
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"Unintentional"	"1"	131	231332	56.6
+	"Oneida County, NY"	"36065"	"2017"	"2017"	"Suicide"	"2"	25	231332	10.8
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"Unintentional"	"1"	120	229577	52.3
+	"Oneida County, NY"	"36065"	"2018"	"2018"	"Suicide"	"2"	30	229577	13.1
+	"Onondaga County, NY"	"36067"	"1999"	"1999"	"Unintentional"	"1"	162	458575	35.3
+	"Onondaga County, NY"	"36067"	"1999"	"1999"	"Suicide"	"2"	38	458575	8.3
+	"Onondaga County, NY"	"36067"	"2000"	"2000"	"Unintentional"	"1"	131	458336	28.6
+	"Onondaga County, NY"	"36067"	"2000"	"2000"	"Suicide"	"2"	43	458336	9.4
+	"Onondaga County, NY"	"36067"	"2000"	"2000"	"Homicide"	"3"	19	458336	Unreliable
+	"Onondaga County, NY"	"36067"	"2001"	"2001"	"Unintentional"	"1"	140	458576	30.5
+	"Onondaga County, NY"	"36067"	"2001"	"2001"	"Suicide"	"2"	31	458576	6.8
+	"Onondaga County, NY"	"36067"	"2001"	"2001"	"Homicide"	"3"	20	458576	4.4
+	"Onondaga County, NY"	"36067"	"2002"	"2002"	"Unintentional"	"1"	142	459484	30.9
+	"Onondaga County, NY"	"36067"	"2002"	"2002"	"Suicide"	"2"	31	459484	6.7
+	"Onondaga County, NY"	"36067"	"2002"	"2002"	"Homicide"	"3"	28	459484	6.1
+	"Onondaga County, NY"	"36067"	"2003"	"2003"	"Unintentional"	"1"	136	460961	29.5
+	"Onondaga County, NY"	"36067"	"2003"	"2003"	"Suicide"	"2"	27	460961	5.9
+	"Onondaga County, NY"	"36067"	"2003"	"2003"	"Homicide"	"3"	19	460961	Unreliable
+	"Onondaga County, NY"	"36067"	"2004"	"2004"	"Unintentional"	"1"	160	461412	34.7
+	"Onondaga County, NY"	"36067"	"2004"	"2004"	"Suicide"	"2"	30	461412	6.5
+	"Onondaga County, NY"	"36067"	"2004"	"2004"	"Homicide"	"3"	18	461412	Unreliable
+	"Onondaga County, NY"	"36067"	"2005"	"2005"	"Unintentional"	"1"	179	460910	38.8
+	"Onondaga County, NY"	"36067"	"2005"	"2005"	"Suicide"	"2"	39	460910	8.5
+	"Onondaga County, NY"	"36067"	"2005"	"2005"	"Homicide"	"3"	17	460910	Unreliable
+	"Onondaga County, NY"	"36067"	"2006"	"2006"	"Unintentional"	"1"	161	460925	34.9
+	"Onondaga County, NY"	"36067"	"2006"	"2006"	"Suicide"	"2"	48	460925	10.4
+	"Onondaga County, NY"	"36067"	"2006"	"2006"	"Homicide"	"3"	14	460925	Unreliable
+	"Onondaga County, NY"	"36067"	"2007"	"2007"	"Unintentional"	"1"	169	461287	36.6
+	"Onondaga County, NY"	"36067"	"2007"	"2007"	"Suicide"	"2"	40	461287	8.7
+	"Onondaga County, NY"	"36067"	"2007"	"2007"	"Homicide"	"3"	24	461287	5.2
+	"Onondaga County, NY"	"36067"	"2008"	"2008"	"Unintentional"	"1"	191	463472	41.2
+	"Onondaga County, NY"	"36067"	"2008"	"2008"	"Suicide"	"2"	44	463472	9.5
+	"Onondaga County, NY"	"36067"	"2008"	"2008"	"Homicide"	"3"	26	463472	5.6
+	"Onondaga County, NY"	"36067"	"2009"	"2009"	"Unintentional"	"1"	172	465633	36.9
+	"Onondaga County, NY"	"36067"	"2009"	"2009"	"Suicide"	"2"	47	465633	10.1
+	"Onondaga County, NY"	"36067"	"2009"	"2009"	"Homicide"	"3"	28	465633	6.0
+	"Onondaga County, NY"	"36067"	"2010"	"2010"	"Unintentional"	"1"	180	467026	38.5
+	"Onondaga County, NY"	"36067"	"2010"	"2010"	"Suicide"	"2"	35	467026	7.5
+	"Onondaga County, NY"	"36067"	"2010"	"2010"	"Homicide"	"3"	21	467026	4.5
+	"Onondaga County, NY"	"36067"	"2011"	"2011"	"Unintentional"	"1"	167	466960	35.8
+	"Onondaga County, NY"	"36067"	"2011"	"2011"	"Suicide"	"2"	46	466960	9.9
+	"Onondaga County, NY"	"36067"	"2011"	"2011"	"Homicide"	"3"	20	466960	4.3
+	"Onondaga County, NY"	"36067"	"2012"	"2012"	"Unintentional"	"1"	202	466852	43.3
+	"Onondaga County, NY"	"36067"	"2012"	"2012"	"Suicide"	"2"	57	466852	12.2
+	"Onondaga County, NY"	"36067"	"2012"	"2012"	"Homicide"	"3"	14	466852	Unreliable
+	"Onondaga County, NY"	"36067"	"2013"	"2013"	"Unintentional"	"1"	189	468387	40.4
+	"Onondaga County, NY"	"36067"	"2013"	"2013"	"Suicide"	"2"	58	468387	12.4
+	"Onondaga County, NY"	"36067"	"2013"	"2013"	"Homicide"	"3"	29	468387	6.2
+	"Onondaga County, NY"	"36067"	"2014"	"2014"	"Unintentional"	"1"	206	468196	44.0
+	"Onondaga County, NY"	"36067"	"2014"	"2014"	"Suicide"	"2"	47	468196	10.0
+	"Onondaga County, NY"	"36067"	"2014"	"2014"	"Homicide"	"3"	19	468196	Unreliable
+	"Onondaga County, NY"	"36067"	"2015"	"2015"	"Unintentional"	"1"	253	468463	54.0
+	"Onondaga County, NY"	"36067"	"2015"	"2015"	"Suicide"	"2"	50	468463	10.7
+	"Onondaga County, NY"	"36067"	"2015"	"2015"	"Homicide"	"3"	26	468463	5.6
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"Unintentional"	"1"	282	466194	60.5
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"Suicide"	"2"	51	466194	10.9
+	"Onondaga County, NY"	"36067"	"2016"	"2016"	"Homicide"	"3"	35	466194	7.5
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"Unintentional"	"1"	246	465398	52.9
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"Suicide"	"2"	40	465398	8.6
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"Homicide"	"3"	25	465398	5.4
+	"Onondaga County, NY"	"36067"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	465398	Unreliable
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"Unintentional"	"1"	240	461809	52.0
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"Suicide"	"2"	54	461809	11.7
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"Homicide"	"3"	27	461809	5.8
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	10	461809	Unreliable
+	"Ontario County, NY"	"36069"	"1999"	"1999"	"Unintentional"	"1"	35	99802	35.1
+	"Ontario County, NY"	"36069"	"2000"	"2000"	"Unintentional"	"1"	26	100224	25.9
+	"Ontario County, NY"	"36069"	"2001"	"2001"	"Unintentional"	"1"	39	100819	38.7
+	"Ontario County, NY"	"36069"	"2002"	"2002"	"Unintentional"	"1"	34	101763	33.4
+	"Ontario County, NY"	"36069"	"2002"	"2002"	"Suicide"	"2"	13	101763	Unreliable
+	"Ontario County, NY"	"36069"	"2003"	"2003"	"Unintentional"	"1"	26	102625	25.3
+	"Ontario County, NY"	"36069"	"2003"	"2003"	"Suicide"	"2"	10	102625	Unreliable
+	"Ontario County, NY"	"36069"	"2004"	"2004"	"Unintentional"	"1"	28	103385	27.1
+	"Ontario County, NY"	"36069"	"2005"	"2005"	"Unintentional"	"1"	27	104259	25.9
+	"Ontario County, NY"	"36069"	"2006"	"2006"	"Unintentional"	"1"	41	104644	39.2
+	"Ontario County, NY"	"36069"	"2006"	"2006"	"Suicide"	"2"	11	104644	Unreliable
+	"Ontario County, NY"	"36069"	"2007"	"2007"	"Unintentional"	"1"	32	105216	30.4
+	"Ontario County, NY"	"36069"	"2007"	"2007"	"Suicide"	"2"	10	105216	Unreliable
+	"Ontario County, NY"	"36069"	"2008"	"2008"	"Unintentional"	"1"	40	106302	37.6
+	"Ontario County, NY"	"36069"	"2009"	"2009"	"Unintentional"	"1"	32	107214	29.8
+	"Ontario County, NY"	"36069"	"2009"	"2009"	"Suicide"	"2"	14	107214	Unreliable
+	"Ontario County, NY"	"36069"	"2010"	"2010"	"Unintentional"	"1"	31	107931	28.7
+	"Ontario County, NY"	"36069"	"2010"	"2010"	"Suicide"	"2"	11	107931	Unreliable
+	"Ontario County, NY"	"36069"	"2011"	"2011"	"Unintentional"	"1"	44	108525	40.5
+	"Ontario County, NY"	"36069"	"2011"	"2011"	"Suicide"	"2"	18	108525	Unreliable
+	"Ontario County, NY"	"36069"	"2012"	"2012"	"Unintentional"	"1"	46	108519	42.4
+	"Ontario County, NY"	"36069"	"2012"	"2012"	"Suicide"	"2"	11	108519	Unreliable
+	"Ontario County, NY"	"36069"	"2013"	"2013"	"Unintentional"	"1"	33	109103	30.2
+	"Ontario County, NY"	"36069"	"2013"	"2013"	"Suicide"	"2"	14	109103	Unreliable
+	"Ontario County, NY"	"36069"	"2014"	"2014"	"Unintentional"	"1"	47	109707	42.8
+	"Ontario County, NY"	"36069"	"2014"	"2014"	"Suicide"	"2"	17	109707	Unreliable
+	"Ontario County, NY"	"36069"	"2015"	"2015"	"Unintentional"	"1"	49	109561	44.7
+	"Ontario County, NY"	"36069"	"2015"	"2015"	"Suicide"	"2"	14	109561	Unreliable
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"Unintentional"	"1"	46	109828	41.9
+	"Ontario County, NY"	"36069"	"2016"	"2016"	"Suicide"	"2"	14	109828	Unreliable
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"Unintentional"	"1"	53	109899	48.2
+	"Ontario County, NY"	"36069"	"2017"	"2017"	"Suicide"	"2"	10	109899	Unreliable
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"Unintentional"	"1"	46	109864	41.9
+	"Ontario County, NY"	"36069"	"2018"	"2018"	"Suicide"	"2"	23	109864	20.9
+	"Orange County, NY"	"36071"	"1999"	"1999"	"Unintentional"	"1"	86	336630	25.5
+	"Orange County, NY"	"36071"	"1999"	"1999"	"Suicide"	"2"	21	336630	6.2
+	"Orange County, NY"	"36071"	"1999"	"1999"	"Homicide"	"3"	11	336630	Unreliable
+	"Orange County, NY"	"36071"	"2000"	"2000"	"Unintentional"	"1"	72	341367	21.1
+	"Orange County, NY"	"36071"	"2000"	"2000"	"Suicide"	"2"	27	341367	7.9
+	"Orange County, NY"	"36071"	"2001"	"2001"	"Unintentional"	"1"	94	347674	27.0
+	"Orange County, NY"	"36071"	"2001"	"2001"	"Suicide"	"2"	27	347674	7.8
+	"Orange County, NY"	"36071"	"2001"	"2001"	"Homicide"	"3"	15	347674	Unreliable
+	"Orange County, NY"	"36071"	"2002"	"2002"	"Unintentional"	"1"	99	352975	28.0
+	"Orange County, NY"	"36071"	"2002"	"2002"	"Suicide"	"2"	25	352975	7.1
+	"Orange County, NY"	"36071"	"2003"	"2003"	"Unintentional"	"1"	83	358727	23.1
+	"Orange County, NY"	"36071"	"2003"	"2003"	"Suicide"	"2"	12	358727	Unreliable
+	"Orange County, NY"	"36071"	"2004"	"2004"	"Unintentional"	"1"	94	362934	25.9
+	"Orange County, NY"	"36071"	"2004"	"2004"	"Suicide"	"2"	27	362934	7.4
+	"Orange County, NY"	"36071"	"2004"	"2004"	"Homicide"	"3"	12	362934	Unreliable
+	"Orange County, NY"	"36071"	"2005"	"2005"	"Unintentional"	"1"	92	364522	25.2
+	"Orange County, NY"	"36071"	"2005"	"2005"	"Suicide"	"2"	19	364522	Unreliable
+	"Orange County, NY"	"36071"	"2006"	"2006"	"Unintentional"	"1"	113	366908	30.8
+	"Orange County, NY"	"36071"	"2006"	"2006"	"Suicide"	"2"	17	366908	Unreliable
+	"Orange County, NY"	"36071"	"2007"	"2007"	"Unintentional"	"1"	107	368464	29.0
+	"Orange County, NY"	"36071"	"2007"	"2007"	"Suicide"	"2"	35	368464	9.5
+	"Orange County, NY"	"36071"	"2008"	"2008"	"Unintentional"	"1"	105	370201	28.4
+	"Orange County, NY"	"36071"	"2008"	"2008"	"Suicide"	"2"	36	370201	9.7
+	"Orange County, NY"	"36071"	"2008"	"2008"	"Homicide"	"3"	10	370201	Unreliable
+	"Orange County, NY"	"36071"	"2009"	"2009"	"Unintentional"	"1"	95	372079	25.5
+	"Orange County, NY"	"36071"	"2009"	"2009"	"Suicide"	"2"	37	372079	9.9
+	"Orange County, NY"	"36071"	"2010"	"2010"	"Unintentional"	"1"	118	372813	31.7
+	"Orange County, NY"	"36071"	"2010"	"2010"	"Suicide"	"2"	25	372813	6.7
+	"Orange County, NY"	"36071"	"2010"	"2010"	"Homicide"	"3"	16	372813	Unreliable
+	"Orange County, NY"	"36071"	"2011"	"2011"	"Unintentional"	"1"	129	374872	34.4
+	"Orange County, NY"	"36071"	"2011"	"2011"	"Suicide"	"2"	34	374872	9.1
+	"Orange County, NY"	"36071"	"2011"	"2011"	"Homicide"	"3"	10	374872	Unreliable
+	"Orange County, NY"	"36071"	"2012"	"2012"	"Unintentional"	"1"	107	374512	28.6
+	"Orange County, NY"	"36071"	"2012"	"2012"	"Suicide"	"2"	25	374512	6.7
+	"Orange County, NY"	"36071"	"2012"	"2012"	"Homicide"	"3"	17	374512	Unreliable
+	"Orange County, NY"	"36071"	"2013"	"2013"	"Unintentional"	"1"	134	375592	35.7
+	"Orange County, NY"	"36071"	"2013"	"2013"	"Suicide"	"2"	28	375592	7.5
+	"Orange County, NY"	"36071"	"2013"	"2013"	"Homicide"	"3"	13	375592	Unreliable
+	"Orange County, NY"	"36071"	"2014"	"2014"	"Unintentional"	"1"	144	376099	38.3
+	"Orange County, NY"	"36071"	"2014"	"2014"	"Suicide"	"2"	34	376099	9.0
+	"Orange County, NY"	"36071"	"2014"	"2014"	"Homicide"	"3"	10	376099	Unreliable
+	"Orange County, NY"	"36071"	"2015"	"2015"	"Unintentional"	"1"	145	377647	38.4
+	"Orange County, NY"	"36071"	"2015"	"2015"	"Suicide"	"2"	29	377647	7.7
+	"Orange County, NY"	"36071"	"2016"	"2016"	"Unintentional"	"1"	163	379210	43.0
+	"Orange County, NY"	"36071"	"2016"	"2016"	"Suicide"	"2"	21	379210	5.5
+	"Orange County, NY"	"36071"	"2016"	"2016"	"Homicide"	"3"	14	379210	Unreliable
+	"Orange County, NY"	"36071"	"2017"	"2017"	"Unintentional"	"1"	194	382226	50.8
+	"Orange County, NY"	"36071"	"2017"	"2017"	"Suicide"	"2"	38	382226	9.9
+	"Orange County, NY"	"36071"	"2018"	"2018"	"Unintentional"	"1"	193	381951	50.5
+	"Orange County, NY"	"36071"	"2018"	"2018"	"Suicide"	"2"	37	381951	9.7
+	"Orange County, NY"	"36071"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	10	381951	Unreliable
+	"Orleans County, NY"	"36073"	"1999"	"1999"	"Unintentional"	"1"	13	44183	Unreliable
+	"Orleans County, NY"	"36073"	"2001"	"2001"	"Unintentional"	"1"	17	43898	Unreliable
+	"Orleans County, NY"	"36073"	"2002"	"2002"	"Unintentional"	"1"	14	43660	Unreliable
+	"Orleans County, NY"	"36073"	"2003"	"2003"	"Unintentional"	"1"	14	43593	Unreliable
+	"Orleans County, NY"	"36073"	"2004"	"2004"	"Unintentional"	"1"	11	43682	Unreliable
+	"Orleans County, NY"	"36073"	"2005"	"2005"	"Unintentional"	"1"	12	43475	Unreliable
+	"Orleans County, NY"	"36073"	"2006"	"2006"	"Unintentional"	"1"	15	43420	Unreliable
+	"Orleans County, NY"	"36073"	"2007"	"2007"	"Unintentional"	"1"	21	43342	48.5
+	"Orleans County, NY"	"36073"	"2008"	"2008"	"Unintentional"	"1"	14	43254	Unreliable
+	"Orleans County, NY"	"36073"	"2009"	"2009"	"Unintentional"	"1"	12	42975	Unreliable
+	"Orleans County, NY"	"36073"	"2010"	"2010"	"Unintentional"	"1"	13	42883	Unreliable
+	"Orleans County, NY"	"36073"	"2011"	"2011"	"Unintentional"	"1"	13	42622	Unreliable
+	"Orleans County, NY"	"36073"	"2012"	"2012"	"Unintentional"	"1"	14	42836	Unreliable
+	"Orleans County, NY"	"36073"	"2013"	"2013"	"Unintentional"	"1"	18	42235	Unreliable
+	"Orleans County, NY"	"36073"	"2014"	"2014"	"Unintentional"	"1"	18	41984	Unreliable
+	"Orleans County, NY"	"36073"	"2015"	"2015"	"Unintentional"	"1"	11	41582	Unreliable
+	"Orleans County, NY"	"36073"	"2016"	"2016"	"Unintentional"	"1"	16	41346	Unreliable
+	"Orleans County, NY"	"36073"	"2017"	"2017"	"Unintentional"	"1"	25	40983	61.0
+	"Orleans County, NY"	"36073"	"2018"	"2018"	"Unintentional"	"1"	12	40612	Unreliable
+	"Oswego County, NY"	"36075"	"1999"	"1999"	"Unintentional"	"1"	40	122199	32.7
+	"Oswego County, NY"	"36075"	"1999"	"1999"	"Suicide"	"2"	11	122199	Unreliable
+	"Oswego County, NY"	"36075"	"2000"	"2000"	"Unintentional"	"1"	44	122377	36.0
+	"Oswego County, NY"	"36075"	"2000"	"2000"	"Suicide"	"2"	13	122377	Unreliable
+	"Oswego County, NY"	"36075"	"2001"	"2001"	"Unintentional"	"1"	45	122269	36.8
+	"Oswego County, NY"	"36075"	"2001"	"2001"	"Suicide"	"2"	12	122269	Unreliable
+	"Oswego County, NY"	"36075"	"2002"	"2002"	"Unintentional"	"1"	45	122496	36.7
+	"Oswego County, NY"	"36075"	"2002"	"2002"	"Suicide"	"2"	13	122496	Unreliable
+	"Oswego County, NY"	"36075"	"2003"	"2003"	"Unintentional"	"1"	40	123120	32.5
+	"Oswego County, NY"	"36075"	"2003"	"2003"	"Suicide"	"2"	10	123120	Unreliable
+	"Oswego County, NY"	"36075"	"2004"	"2004"	"Unintentional"	"1"	39	123340	31.6
+	"Oswego County, NY"	"36075"	"2004"	"2004"	"Suicide"	"2"	11	123340	Unreliable
+	"Oswego County, NY"	"36075"	"2005"	"2005"	"Unintentional"	"1"	38	122640	31.0
+	"Oswego County, NY"	"36075"	"2005"	"2005"	"Suicide"	"2"	10	122640	Unreliable
+	"Oswego County, NY"	"36075"	"2006"	"2006"	"Unintentional"	"1"	47	122354	38.4
+	"Oswego County, NY"	"36075"	"2006"	"2006"	"Suicide"	"2"	13	122354	Unreliable
+	"Oswego County, NY"	"36075"	"2007"	"2007"	"Unintentional"	"1"	48	122213	39.3
+	"Oswego County, NY"	"36075"	"2007"	"2007"	"Suicide"	"2"	19	122213	Unreliable
+	"Oswego County, NY"	"36075"	"2008"	"2008"	"Unintentional"	"1"	33	122366	27.0
+	"Oswego County, NY"	"36075"	"2008"	"2008"	"Suicide"	"2"	12	122366	Unreliable
+	"Oswego County, NY"	"36075"	"2009"	"2009"	"Unintentional"	"1"	46	122055	37.7
+	"Oswego County, NY"	"36075"	"2009"	"2009"	"Suicide"	"2"	16	122055	Unreliable
+	"Oswego County, NY"	"36075"	"2010"	"2010"	"Unintentional"	"1"	39	122109	31.9
+	"Oswego County, NY"	"36075"	"2010"	"2010"	"Suicide"	"2"	11	122109	Unreliable
+	"Oswego County, NY"	"36075"	"2011"	"2011"	"Unintentional"	"1"	61	122228	49.9
+	"Oswego County, NY"	"36075"	"2011"	"2011"	"Suicide"	"2"	25	122228	20.5
+	"Oswego County, NY"	"36075"	"2012"	"2012"	"Unintentional"	"1"	61	121700	50.1
+	"Oswego County, NY"	"36075"	"2012"	"2012"	"Suicide"	"2"	22	121700	18.1
+	"Oswego County, NY"	"36075"	"2013"	"2013"	"Unintentional"	"1"	66	121165	54.5
+	"Oswego County, NY"	"36075"	"2013"	"2013"	"Suicide"	"2"	17	121165	Unreliable
+	"Oswego County, NY"	"36075"	"2014"	"2014"	"Unintentional"	"1"	59	120913	48.8
+	"Oswego County, NY"	"36075"	"2014"	"2014"	"Suicide"	"2"	17	120913	Unreliable
+	"Oswego County, NY"	"36075"	"2015"	"2015"	"Unintentional"	"1"	54	120146	44.9
+	"Oswego County, NY"	"36075"	"2015"	"2015"	"Suicide"	"2"	22	120146	18.3
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"Unintentional"	"1"	61	118987	51.3
+	"Oswego County, NY"	"36075"	"2016"	"2016"	"Suicide"	"2"	19	118987	Unreliable
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"Unintentional"	"1"	64	118478	54.0
+	"Oswego County, NY"	"36075"	"2017"	"2017"	"Suicide"	"2"	24	118478	20.3
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"Unintentional"	"1"	46	117898	39.0
+	"Oswego County, NY"	"36075"	"2018"	"2018"	"Suicide"	"2"	12	117898	Unreliable
+	"Otsego County, NY"	"36077"	"1999"	"1999"	"Unintentional"	"1"	22	61629	35.7
+	"Otsego County, NY"	"36077"	"2000"	"2000"	"Unintentional"	"1"	25	61676	40.5
+	"Otsego County, NY"	"36077"	"2001"	"2001"	"Unintentional"	"1"	19	61924	Unreliable
+	"Otsego County, NY"	"36077"	"2002"	"2002"	"Unintentional"	"1"	24	62093	38.7
+	"Otsego County, NY"	"36077"	"2003"	"2003"	"Unintentional"	"1"	27	62567	43.2
+	"Otsego County, NY"	"36077"	"2004"	"2004"	"Unintentional"	"1"	23	62934	36.5
+	"Otsego County, NY"	"36077"	"2005"	"2005"	"Unintentional"	"1"	19	63069	Unreliable
+	"Otsego County, NY"	"36077"	"2005"	"2005"	"Suicide"	"2"	13	63069	Unreliable
+	"Otsego County, NY"	"36077"	"2006"	"2006"	"Unintentional"	"1"	21	63032	33.3
+	"Otsego County, NY"	"36077"	"2007"	"2007"	"Unintentional"	"1"	22	62914	35.0
+	"Otsego County, NY"	"36077"	"2008"	"2008"	"Unintentional"	"1"	17	62561	Unreliable
+	"Otsego County, NY"	"36077"	"2009"	"2009"	"Unintentional"	"1"	14	62280	Unreliable
+	"Otsego County, NY"	"36077"	"2010"	"2010"	"Unintentional"	"1"	28	62259	45.0
+	"Otsego County, NY"	"36077"	"2011"	"2011"	"Unintentional"	"1"	23	61917	37.1
+	"Otsego County, NY"	"36077"	"2012"	"2012"	"Unintentional"	"1"	24	61709	38.9
+	"Otsego County, NY"	"36077"	"2013"	"2013"	"Unintentional"	"1"	16	61683	Unreliable
+	"Otsego County, NY"	"36077"	"2013"	"2013"	"Suicide"	"2"	11	61683	Unreliable
+	"Otsego County, NY"	"36077"	"2014"	"2014"	"Unintentional"	"1"	20	61128	32.7
+	"Otsego County, NY"	"36077"	"2015"	"2015"	"Unintentional"	"1"	30	60636	49.5
+	"Otsego County, NY"	"36077"	"2015"	"2015"	"Suicide"	"2"	10	60636	Unreliable
+	"Otsego County, NY"	"36077"	"2016"	"2016"	"Unintentional"	"1"	26	60097	43.3
+	"Otsego County, NY"	"36077"	"2017"	"2017"	"Unintentional"	"1"	33	60094	54.9
+	"Otsego County, NY"	"36077"	"2018"	"2018"	"Unintentional"	"1"	19	59749	Unreliable
+	"Otsego County, NY"	"36077"	"2018"	"2018"	"Suicide"	"2"	14	59749	Unreliable
+	"Putnam County, NY"	"36079"	"1999"	"1999"	"Unintentional"	"1"	21	94647	22.2
+	"Putnam County, NY"	"36079"	"2000"	"2000"	"Unintentional"	"1"	14	95745	Unreliable
+	"Putnam County, NY"	"36079"	"2001"	"2001"	"Unintentional"	"1"	20	97055	20.6
+	"Putnam County, NY"	"36079"	"2002"	"2002"	"Unintentional"	"1"	25	98263	25.4
+	"Putnam County, NY"	"36079"	"2003"	"2003"	"Unintentional"	"1"	25	98964	25.3
+	"Putnam County, NY"	"36079"	"2004"	"2004"	"Unintentional"	"1"	20	99468	20.1
+	"Putnam County, NY"	"36079"	"2005"	"2005"	"Unintentional"	"1"	23	99575	23.1
+	"Putnam County, NY"	"36079"	"2006"	"2006"	"Unintentional"	"1"	26	99357	26.2
+	"Putnam County, NY"	"36079"	"2007"	"2007"	"Unintentional"	"1"	33	99454	33.2
+	"Putnam County, NY"	"36079"	"2008"	"2008"	"Unintentional"	"1"	34	99537	34.2
+	"Putnam County, NY"	"36079"	"2009"	"2009"	"Unintentional"	"1"	26	99666	26.1
+	"Putnam County, NY"	"36079"	"2010"	"2010"	"Unintentional"	"1"	18	99710	Unreliable
+	"Putnam County, NY"	"36079"	"2011"	"2011"	"Unintentional"	"1"	31	99933	31.0
+	"Putnam County, NY"	"36079"	"2012"	"2012"	"Unintentional"	"1"	38	99607	38.1
+	"Putnam County, NY"	"36079"	"2013"	"2013"	"Unintentional"	"1"	29	99645	29.1
+	"Putnam County, NY"	"36079"	"2013"	"2013"	"Suicide"	"2"	15	99645	Unreliable
+	"Putnam County, NY"	"36079"	"2014"	"2014"	"Unintentional"	"1"	28	99487	28.1
+	"Putnam County, NY"	"36079"	"2015"	"2015"	"Unintentional"	"1"	43	99042	43.4
+	"Putnam County, NY"	"36079"	"2016"	"2016"	"Unintentional"	"1"	39	98900	39.4
+	"Putnam County, NY"	"36079"	"2016"	"2016"	"Suicide"	"2"	10	98900	Unreliable
+	"Putnam County, NY"	"36079"	"2017"	"2017"	"Unintentional"	"1"	51	99323	51.3
+	"Putnam County, NY"	"36079"	"2017"	"2017"	"Suicide"	"2"	11	99323	Unreliable
+	"Putnam County, NY"	"36079"	"2018"	"2018"	"Unintentional"	"1"	38	98892	38.4
+	"Queens County, NY"	"36081"	"1999"	"1999"	"Unintentional"	"1"	468	2208975	21.2
+	"Queens County, NY"	"36081"	"1999"	"1999"	"Suicide"	"2"	131	2208975	5.9
+	"Queens County, NY"	"36081"	"1999"	"1999"	"Homicide"	"3"	127	2208975	5.7
+	"Queens County, NY"	"36081"	"1999"	"1999"	"Undetermined "	"4"	22	2208975	1.0
+	"Queens County, NY"	"36081"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	15	2208975	Unreliable
+	"Queens County, NY"	"36081"	"2000"	"2000"	"Unintentional"	"1"	405	2229379	18.2
+	"Queens County, NY"	"36081"	"2000"	"2000"	"Suicide"	"2"	97	2229379	4.4
+	"Queens County, NY"	"36081"	"2000"	"2000"	"Homicide"	"3"	117	2229379	5.2
+	"Queens County, NY"	"36081"	"2000"	"2000"	"Undetermined "	"4"	16	2229379	Unreliable
+	"Queens County, NY"	"36081"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	24	2229379	1.1
+	"Queens County, NY"	"36081"	"2001"	"2001"	"Unintentional"	"1"	440	2231316	19.7
+	"Queens County, NY"	"36081"	"2001"	"2001"	"Suicide"	"2"	98	2231316	4.4
+	"Queens County, NY"	"36081"	"2001"	"2001"	"Homicide"	"3"	96	2231316	4.3
+	"Queens County, NY"	"36081"	"2001"	"2001"	"Undetermined "	"4"	23	2231316	1.0
+	"Queens County, NY"	"36081"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	18	2231316	Unreliable
+	"Queens County, NY"	"36081"	"2002"	"2002"	"Unintentional"	"1"	472	2224507	21.2
+	"Queens County, NY"	"36081"	"2002"	"2002"	"Suicide"	"2"	125	2224507	5.6
+	"Queens County, NY"	"36081"	"2002"	"2002"	"Homicide"	"3"	112	2224507	5.0
+	"Queens County, NY"	"36081"	"2002"	"2002"	"Undetermined "	"4"	24	2224507	1.1
+	"Queens County, NY"	"36081"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	10	2224507	Unreliable
+	"Queens County, NY"	"36081"	"2003"	"2003"	"Unintentional"	"1"	485	2214608	21.9
+	"Queens County, NY"	"36081"	"2003"	"2003"	"Suicide"	"2"	104	2214608	4.7
+	"Queens County, NY"	"36081"	"2003"	"2003"	"Homicide"	"3"	132	2214608	6.0
+	"Queens County, NY"	"36081"	"2003"	"2003"	"Undetermined "	"4"	19	2214608	Unreliable
+	"Queens County, NY"	"36081"	"2004"	"2004"	"Unintentional"	"1"	392	2198516	17.8
+	"Queens County, NY"	"36081"	"2004"	"2004"	"Suicide"	"2"	129	2198516	5.9
+	"Queens County, NY"	"36081"	"2004"	"2004"	"Homicide"	"3"	107	2198516	4.9
+	"Queens County, NY"	"36081"	"2004"	"2004"	"Undetermined "	"4"	14	2198516	Unreliable
+	"Queens County, NY"	"36081"	"2005"	"2005"	"Unintentional"	"1"	510	2185222	23.3
+	"Queens County, NY"	"36081"	"2005"	"2005"	"Suicide"	"2"	120	2185222	5.5
+	"Queens County, NY"	"36081"	"2005"	"2005"	"Homicide"	"3"	111	2185222	5.1
+	"Queens County, NY"	"36081"	"2005"	"2005"	"Undetermined "	"4"	20	2185222	0.9
+	"Queens County, NY"	"36081"	"2006"	"2006"	"Unintentional"	"1"	502	2173862	23.1
+	"Queens County, NY"	"36081"	"2006"	"2006"	"Suicide"	"2"	135	2173862	6.2
+	"Queens County, NY"	"36081"	"2006"	"2006"	"Homicide"	"3"	95	2173862	4.4
+	"Queens County, NY"	"36081"	"2006"	"2006"	"Undetermined "	"4"	30	2173862	1.4
+	"Queens County, NY"	"36081"	"2007"	"2007"	"Unintentional"	"1"	476	2177351	21.9
+	"Queens County, NY"	"36081"	"2007"	"2007"	"Suicide"	"2"	138	2177351	6.3
+	"Queens County, NY"	"36081"	"2007"	"2007"	"Homicide"	"3"	88	2177351	4.0
+	"Queens County, NY"	"36081"	"2007"	"2007"	"Undetermined "	"4"	16	2177351	Unreliable
+	"Queens County, NY"	"36081"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	12	2177351	Unreliable
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Unintentional"	"1"	403	2193623	18.4
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Suicide"	"2"	115	2193623	5.2
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Homicide"	"3"	100	2193623	4.6
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Undetermined "	"4"	17	2193623	Unreliable
+	"Queens County, NY"	"36081"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	15	2193623	Unreliable
+	"Queens County, NY"	"36081"	"2009"	"2009"	"Unintentional"	"1"	432	2217166	19.5
+	"Queens County, NY"	"36081"	"2009"	"2009"	"Suicide"	"2"	124	2217166	5.6
+	"Queens County, NY"	"36081"	"2009"	"2009"	"Homicide"	"3"	82	2217166	3.7
+	"Queens County, NY"	"36081"	"2009"	"2009"	"Undetermined "	"4"	22	2217166	1.0
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Unintentional"	"1"	390	2230722	17.5
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Suicide"	"2"	154	2230722	6.9
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Homicide"	"3"	108	2230722	4.8
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Undetermined "	"4"	17	2230722	Unreliable
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	10	2230722	Unreliable
+	"Queens County, NY"	"36081"	"2011"	"2011"	"Unintentional"	"1"	450	2247848	20.0
+	"Queens County, NY"	"36081"	"2011"	"2011"	"Suicide"	"2"	144	2247848	6.4
+	"Queens County, NY"	"36081"	"2011"	"2011"	"Homicide"	"3"	89	2247848	4.0
+	"Queens County, NY"	"36081"	"2011"	"2011"	"Undetermined "	"4"	32	2247848	1.4
+	"Queens County, NY"	"36081"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	20	2247848	0.9
+	"Queens County, NY"	"36081"	"2012"	"2012"	"Unintentional"	"1"	428	2272771	18.8
+	"Queens County, NY"	"36081"	"2012"	"2012"	"Suicide"	"2"	152	2272771	6.7
+	"Queens County, NY"	"36081"	"2012"	"2012"	"Homicide"	"3"	85	2272771	3.7
+	"Queens County, NY"	"36081"	"2012"	"2012"	"Undetermined "	"4"	25	2272771	1.1
+	"Queens County, NY"	"36081"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	10	2272771	Unreliable
+	"Queens County, NY"	"36081"	"2013"	"2013"	"Unintentional"	"1"	484	2296175	21.1
+	"Queens County, NY"	"36081"	"2013"	"2013"	"Suicide"	"2"	149	2296175	6.5
+	"Queens County, NY"	"36081"	"2013"	"2013"	"Homicide"	"3"	67	2296175	2.9
+	"Queens County, NY"	"36081"	"2013"	"2013"	"Undetermined "	"4"	14	2296175	Unreliable
+	"Queens County, NY"	"36081"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	11	2296175	Unreliable
+	"Queens County, NY"	"36081"	"2014"	"2014"	"Unintentional"	"1"	444	2321580	19.1
+	"Queens County, NY"	"36081"	"2014"	"2014"	"Suicide"	"2"	147	2321580	6.3
+	"Queens County, NY"	"36081"	"2014"	"2014"	"Homicide"	"3"	71	2321580	3.1
+	"Queens County, NY"	"36081"	"2014"	"2014"	"Undetermined "	"4"	18	2321580	Unreliable
+	"Queens County, NY"	"36081"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	2321580	Unreliable
+	"Queens County, NY"	"36081"	"2015"	"2015"	"Unintentional"	"1"	496	2339150	21.2
+	"Queens County, NY"	"36081"	"2015"	"2015"	"Suicide"	"2"	136	2339150	5.8
+	"Queens County, NY"	"36081"	"2015"	"2015"	"Homicide"	"3"	65	2339150	2.8
+	"Queens County, NY"	"36081"	"2015"	"2015"	"Undetermined "	"4"	18	2339150	Unreliable
+	"Queens County, NY"	"36081"	"2016"	"2016"	"Unintentional"	"1"	537	2333054	23.0
+	"Queens County, NY"	"36081"	"2016"	"2016"	"Suicide"	"2"	152	2333054	6.5
+	"Queens County, NY"	"36081"	"2016"	"2016"	"Homicide"	"3"	55	2333054	2.4
+	"Queens County, NY"	"36081"	"2016"	"2016"	"Undetermined "	"4"	22	2333054	0.9
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Unintentional"	"1"	589	2358582	25.0
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Suicide"	"2"	140	2358582	5.9
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Homicide"	"3"	46	2358582	2.0
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Undetermined "	"4"	16	2358582	Unreliable
+	"Queens County, NY"	"36081"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	15	2358582	Unreliable
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Unintentional"	"1"	588	2278906	25.8
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Suicide"	"2"	165	2278906	7.2
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Homicide"	"3"	63	2278906	2.8
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Undetermined "	"4"	19	2278906	Unreliable
+	"Queens County, NY"	"36081"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	14	2278906	Unreliable
+	"Rensselaer County, NY"	"36083"	"1999"	"1999"	"Unintentional"	"1"	36	152392	23.6
+	"Rensselaer County, NY"	"36083"	"1999"	"1999"	"Suicide"	"2"	13	152392	Unreliable
+	"Rensselaer County, NY"	"36083"	"2000"	"2000"	"Unintentional"	"1"	40	152538	26.2
+	"Rensselaer County, NY"	"36083"	"2001"	"2001"	"Unintentional"	"1"	45	152700	29.5
+	"Rensselaer County, NY"	"36083"	"2001"	"2001"	"Suicide"	"2"	10	152700	Unreliable
+	"Rensselaer County, NY"	"36083"	"2002"	"2002"	"Unintentional"	"1"	40	153040	26.1
+	"Rensselaer County, NY"	"36083"	"2002"	"2002"	"Suicide"	"2"	12	153040	Unreliable
+	"Rensselaer County, NY"	"36083"	"2003"	"2003"	"Unintentional"	"1"	25	154201	16.2
+	"Rensselaer County, NY"	"36083"	"2003"	"2003"	"Suicide"	"2"	13	154201	Unreliable
+	"Rensselaer County, NY"	"36083"	"2004"	"2004"	"Unintentional"	"1"	36	155523	23.1
+	"Rensselaer County, NY"	"36083"	"2004"	"2004"	"Suicide"	"2"	19	155523	Unreliable
+	"Rensselaer County, NY"	"36083"	"2005"	"2005"	"Unintentional"	"1"	36	156104	23.1
+	"Rensselaer County, NY"	"36083"	"2006"	"2006"	"Unintentional"	"1"	49	157312	31.1
+	"Rensselaer County, NY"	"36083"	"2007"	"2007"	"Unintentional"	"1"	48	158243	30.3
+	"Rensselaer County, NY"	"36083"	"2007"	"2007"	"Suicide"	"2"	13	158243	Unreliable
+	"Rensselaer County, NY"	"36083"	"2008"	"2008"	"Unintentional"	"1"	33	159011	20.8
+	"Rensselaer County, NY"	"36083"	"2008"	"2008"	"Suicide"	"2"	10	159011	Unreliable
+	"Rensselaer County, NY"	"36083"	"2009"	"2009"	"Unintentional"	"1"	39	159150	24.5
+	"Rensselaer County, NY"	"36083"	"2009"	"2009"	"Suicide"	"2"	19	159150	Unreliable
+	"Rensselaer County, NY"	"36083"	"2009"	"2009"	"Undetermined "	"4"	11	159150	Unreliable
+	"Rensselaer County, NY"	"36083"	"2010"	"2010"	"Unintentional"	"1"	48	159429	30.1
+	"Rensselaer County, NY"	"36083"	"2010"	"2010"	"Suicide"	"2"	12	159429	Unreliable
+	"Rensselaer County, NY"	"36083"	"2010"	"2010"	"Undetermined "	"4"	11	159429	Unreliable
+	"Rensselaer County, NY"	"36083"	"2011"	"2011"	"Unintentional"	"1"	30	159395	18.8
+	"Rensselaer County, NY"	"36083"	"2011"	"2011"	"Suicide"	"2"	18	159395	Unreliable
+	"Rensselaer County, NY"	"36083"	"2012"	"2012"	"Unintentional"	"1"	42	159835	26.3
+	"Rensselaer County, NY"	"36083"	"2012"	"2012"	"Suicide"	"2"	21	159835	13.1
+	"Rensselaer County, NY"	"36083"	"2012"	"2012"	"Undetermined "	"4"	10	159835	Unreliable
+	"Rensselaer County, NY"	"36083"	"2013"	"2013"	"Unintentional"	"1"	48	159918	30.0
+	"Rensselaer County, NY"	"36083"	"2013"	"2013"	"Suicide"	"2"	10	159918	Unreliable
+	"Rensselaer County, NY"	"36083"	"2013"	"2013"	"Undetermined "	"4"	11	159918	Unreliable
+	"Rensselaer County, NY"	"36083"	"2014"	"2014"	"Unintentional"	"1"	51	159774	31.9
+	"Rensselaer County, NY"	"36083"	"2014"	"2014"	"Suicide"	"2"	24	159774	15.0
+	"Rensselaer County, NY"	"36083"	"2015"	"2015"	"Unintentional"	"1"	55	160266	34.3
+	"Rensselaer County, NY"	"36083"	"2015"	"2015"	"Suicide"	"2"	19	160266	Unreliable
+	"Rensselaer County, NY"	"36083"	"2015"	"2015"	"Undetermined "	"4"	14	160266	Unreliable
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"Unintentional"	"1"	48	160070	30.0
+	"Rensselaer County, NY"	"36083"	"2016"	"2016"	"Suicide"	"2"	18	160070	Unreliable
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"Unintentional"	"1"	32	159722	20.0
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"Suicide"	"2"	16	159722	Unreliable
+	"Rensselaer County, NY"	"36083"	"2017"	"2017"	"Undetermined "	"4"	17	159722	Unreliable
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"Unintentional"	"1"	51	159442	32.0
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"Suicide"	"2"	21	159442	13.2
+	"Rensselaer County, NY"	"36083"	"2018"	"2018"	"Undetermined "	"4"	17	159442	Unreliable
+	"Richmond County, NY"	"36085"	"1999"	"1999"	"Unintentional"	"1"	71	437814	16.2
+	"Richmond County, NY"	"36085"	"1999"	"1999"	"Suicide"	"2"	20	437814	4.6
+	"Richmond County, NY"	"36085"	"1999"	"1999"	"Homicide"	"3"	27	437814	6.2
+	"Richmond County, NY"	"36085"	"2000"	"2000"	"Unintentional"	"1"	81	443728	18.3
+	"Richmond County, NY"	"36085"	"2000"	"2000"	"Suicide"	"2"	21	443728	4.7
+	"Richmond County, NY"	"36085"	"2000"	"2000"	"Homicide"	"3"	22	443728	5.0
+	"Richmond County, NY"	"36085"	"2001"	"2001"	"Unintentional"	"1"	98	448961	21.8
+	"Richmond County, NY"	"36085"	"2001"	"2001"	"Suicide"	"2"	26	448961	5.8
+	"Richmond County, NY"	"36085"	"2001"	"2001"	"Homicide"	"3"	17	448961	Unreliable
+	"Richmond County, NY"	"36085"	"2002"	"2002"	"Unintentional"	"1"	105	452813	23.2
+	"Richmond County, NY"	"36085"	"2002"	"2002"	"Suicide"	"2"	29	452813	6.4
+	"Richmond County, NY"	"36085"	"2002"	"2002"	"Homicide"	"3"	12	452813	Unreliable
+	"Richmond County, NY"	"36085"	"2003"	"2003"	"Unintentional"	"1"	92	455939	20.2
+	"Richmond County, NY"	"36085"	"2003"	"2003"	"Suicide"	"2"	29	455939	6.4
+	"Richmond County, NY"	"36085"	"2003"	"2003"	"Homicide"	"3"	15	455939	Unreliable
+	"Richmond County, NY"	"36085"	"2004"	"2004"	"Unintentional"	"1"	113	456846	24.7
+	"Richmond County, NY"	"36085"	"2004"	"2004"	"Suicide"	"2"	24	456846	5.3
+	"Richmond County, NY"	"36085"	"2005"	"2005"	"Unintentional"	"1"	116	457028	25.4
+	"Richmond County, NY"	"36085"	"2005"	"2005"	"Suicide"	"2"	32	457028	7.0
+	"Richmond County, NY"	"36085"	"2005"	"2005"	"Homicide"	"3"	20	457028	4.4
+	"Richmond County, NY"	"36085"	"2006"	"2006"	"Unintentional"	"1"	116	457577	25.4
+	"Richmond County, NY"	"36085"	"2006"	"2006"	"Suicide"	"2"	25	457577	5.5
+	"Richmond County, NY"	"36085"	"2006"	"2006"	"Homicide"	"3"	27	457577	5.9
+	"Richmond County, NY"	"36085"	"2007"	"2007"	"Unintentional"	"1"	100	459642	21.8
+	"Richmond County, NY"	"36085"	"2007"	"2007"	"Suicide"	"2"	24	459642	5.2
+	"Richmond County, NY"	"36085"	"2007"	"2007"	"Homicide"	"3"	17	459642	Unreliable
+	"Richmond County, NY"	"36085"	"2008"	"2008"	"Unintentional"	"1"	124	463701	26.7
+	"Richmond County, NY"	"36085"	"2008"	"2008"	"Suicide"	"2"	27	463701	5.8
+	"Richmond County, NY"	"36085"	"2008"	"2008"	"Homicide"	"3"	27	463701	5.8
+	"Richmond County, NY"	"36085"	"2008"	"2008"	"Undetermined "	"4"	12	463701	Unreliable
+	"Richmond County, NY"	"36085"	"2009"	"2009"	"Unintentional"	"1"	121	466965	25.9
+	"Richmond County, NY"	"36085"	"2009"	"2009"	"Suicide"	"2"	29	466965	6.2
+	"Richmond County, NY"	"36085"	"2009"	"2009"	"Homicide"	"3"	20	466965	4.3
+	"Richmond County, NY"	"36085"	"2010"	"2010"	"Unintentional"	"1"	143	468730	30.5
+	"Richmond County, NY"	"36085"	"2010"	"2010"	"Suicide"	"2"	34	468730	7.3
+	"Richmond County, NY"	"36085"	"2010"	"2010"	"Homicide"	"3"	22	468730	4.7
+	"Richmond County, NY"	"36085"	"2010"	"2010"	"Undetermined "	"4"	13	468730	Unreliable
+	"Richmond County, NY"	"36085"	"2011"	"2011"	"Unintentional"	"1"	139	470467	29.5
+	"Richmond County, NY"	"36085"	"2011"	"2011"	"Suicide"	"2"	24	470467	5.1
+	"Richmond County, NY"	"36085"	"2011"	"2011"	"Homicide"	"3"	16	470467	Unreliable
+	"Richmond County, NY"	"36085"	"2011"	"2011"	"Undetermined "	"4"	12	470467	Unreliable
+	"Richmond County, NY"	"36085"	"2012"	"2012"	"Unintentional"	"1"	189	470728	40.2
+	"Richmond County, NY"	"36085"	"2012"	"2012"	"Suicide"	"2"	32	470728	6.8
+	"Richmond County, NY"	"36085"	"2012"	"2012"	"Homicide"	"3"	12	470728	Unreliable
+	"Richmond County, NY"	"36085"	"2013"	"2013"	"Unintentional"	"1"	143	472621	30.3
+	"Richmond County, NY"	"36085"	"2013"	"2013"	"Suicide"	"2"	32	472621	6.8
+	"Richmond County, NY"	"36085"	"2014"	"2014"	"Unintentional"	"1"	150	473279	31.7
+	"Richmond County, NY"	"36085"	"2014"	"2014"	"Suicide"	"2"	31	473279	6.6
+	"Richmond County, NY"	"36085"	"2014"	"2014"	"Homicide"	"3"	18	473279	Unreliable
+	"Richmond County, NY"	"36085"	"2015"	"2015"	"Unintentional"	"1"	166	474558	35.0
+	"Richmond County, NY"	"36085"	"2015"	"2015"	"Suicide"	"2"	33	474558	7.0
+	"Richmond County, NY"	"36085"	"2015"	"2015"	"Homicide"	"3"	15	474558	Unreliable
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"Unintentional"	"1"	182	476015	38.2
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"Suicide"	"2"	31	476015	6.5
+	"Richmond County, NY"	"36085"	"2016"	"2016"	"Homicide"	"3"	17	476015	Unreliable
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"Unintentional"	"1"	182	479458	38.0
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"Suicide"	"2"	38	479458	7.9
+	"Richmond County, NY"	"36085"	"2017"	"2017"	"Homicide"	"3"	12	479458	Unreliable
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"Unintentional"	"1"	165	476179	34.7
+	"Richmond County, NY"	"36085"	"2018"	"2018"	"Suicide"	"2"	36	476179	7.6
+	"Rockland County, NY"	"36087"	"1999"	"1999"	"Unintentional"	"1"	41	285265	14.4
+	"Rockland County, NY"	"36087"	"2000"	"2000"	"Unintentional"	"1"	41	286753	14.3
+	"Rockland County, NY"	"36087"	"2001"	"2001"	"Unintentional"	"1"	48	290613	16.5
+	"Rockland County, NY"	"36087"	"2001"	"2001"	"Suicide"	"2"	18	290613	Unreliable
+	"Rockland County, NY"	"36087"	"2002"	"2002"	"Unintentional"	"1"	54	293728	18.4
+	"Rockland County, NY"	"36087"	"2002"	"2002"	"Suicide"	"2"	12	293728	Unreliable
+	"Rockland County, NY"	"36087"	"2003"	"2003"	"Unintentional"	"1"	46	296224	15.5
+	"Rockland County, NY"	"36087"	"2003"	"2003"	"Suicide"	"2"	10	296224	Unreliable
+	"Rockland County, NY"	"36087"	"2004"	"2004"	"Unintentional"	"1"	60	297562	20.2
+	"Rockland County, NY"	"36087"	"2005"	"2005"	"Unintentional"	"1"	64	298737	21.4
+	"Rockland County, NY"	"36087"	"2006"	"2006"	"Unintentional"	"1"	75	299390	25.1
+	"Rockland County, NY"	"36087"	"2006"	"2006"	"Suicide"	"2"	17	299390	Unreliable
+	"Rockland County, NY"	"36087"	"2007"	"2007"	"Unintentional"	"1"	48	301668	15.9
+	"Rockland County, NY"	"36087"	"2008"	"2008"	"Unintentional"	"1"	67	305413	21.9
+	"Rockland County, NY"	"36087"	"2008"	"2008"	"Suicide"	"2"	21	305413	6.9
+	"Rockland County, NY"	"36087"	"2009"	"2009"	"Unintentional"	"1"	53	308652	17.2
+	"Rockland County, NY"	"36087"	"2009"	"2009"	"Suicide"	"2"	14	308652	Unreliable
+	"Rockland County, NY"	"36087"	"2010"	"2010"	"Unintentional"	"1"	53	311687	17.0
+	"Rockland County, NY"	"36087"	"2010"	"2010"	"Suicide"	"2"	20	311687	6.4
+	"Rockland County, NY"	"36087"	"2011"	"2011"	"Unintentional"	"1"	67	315158	21.3
+	"Rockland County, NY"	"36087"	"2011"	"2011"	"Suicide"	"2"	20	315158	6.3
+	"Rockland County, NY"	"36087"	"2012"	"2012"	"Unintentional"	"1"	75	317757	23.6
+	"Rockland County, NY"	"36087"	"2012"	"2012"	"Suicide"	"2"	23	317757	7.2
+	"Rockland County, NY"	"36087"	"2013"	"2013"	"Unintentional"	"1"	87	320903	27.1
+	"Rockland County, NY"	"36087"	"2013"	"2013"	"Suicide"	"2"	20	320903	6.2
+	"Rockland County, NY"	"36087"	"2014"	"2014"	"Unintentional"	"1"	65	323866	20.1
+	"Rockland County, NY"	"36087"	"2014"	"2014"	"Suicide"	"2"	22	323866	6.8
+	"Rockland County, NY"	"36087"	"2015"	"2015"	"Unintentional"	"1"	86	326037	26.4
+	"Rockland County, NY"	"36087"	"2015"	"2015"	"Suicide"	"2"	18	326037	Unreliable
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"Unintentional"	"1"	86	326780	26.3
+	"Rockland County, NY"	"36087"	"2016"	"2016"	"Suicide"	"2"	19	326780	Unreliable
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"Unintentional"	"1"	93	328868	28.3
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"Suicide"	"2"	25	328868	7.6
+	"Rockland County, NY"	"36087"	"2017"	"2017"	"Undetermined "	"4"	13	328868	Unreliable
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"Unintentional"	"1"	104	325695	31.9
+	"Rockland County, NY"	"36087"	"2018"	"2018"	"Suicide"	"2"	28	325695	8.6
+	"St. Lawrence County, NY"	"36089"	"1999"	"1999"	"Unintentional"	"1"	52	112202	46.3
+	"St. Lawrence County, NY"	"36089"	"1999"	"1999"	"Suicide"	"2"	10	112202	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2000"	"2000"	"Unintentional"	"1"	47	111931	42.0
+	"St. Lawrence County, NY"	"36089"	"2001"	"2001"	"Unintentional"	"1"	43	111497	38.6
+	"St. Lawrence County, NY"	"36089"	"2001"	"2001"	"Suicide"	"2"	14	111497	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2002"	"2002"	"Unintentional"	"1"	50	111292	44.9
+	"St. Lawrence County, NY"	"36089"	"2003"	"2003"	"Unintentional"	"1"	38	111329	34.1
+	"St. Lawrence County, NY"	"36089"	"2003"	"2003"	"Suicide"	"2"	11	111329	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2004"	"2004"	"Unintentional"	"1"	33	111468	29.6
+	"St. Lawrence County, NY"	"36089"	"2005"	"2005"	"Unintentional"	"1"	42	111606	37.6
+	"St. Lawrence County, NY"	"36089"	"2005"	"2005"	"Suicide"	"2"	15	111606	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2006"	"2006"	"Unintentional"	"1"	29	111556	26.0
+	"St. Lawrence County, NY"	"36089"	"2006"	"2006"	"Suicide"	"2"	17	111556	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2007"	"2007"	"Unintentional"	"1"	43	111586	38.5
+	"St. Lawrence County, NY"	"36089"	"2008"	"2008"	"Unintentional"	"1"	37	111684	33.1
+	"St. Lawrence County, NY"	"36089"	"2008"	"2008"	"Suicide"	"2"	15	111684	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2009"	"2009"	"Unintentional"	"1"	32	112169	28.5
+	"St. Lawrence County, NY"	"36089"	"2009"	"2009"	"Suicide"	"2"	13	112169	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2010"	"2010"	"Unintentional"	"1"	43	111944	38.4
+	"St. Lawrence County, NY"	"36089"	"2010"	"2010"	"Suicide"	"2"	14	111944	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2011"	"2011"	"Unintentional"	"1"	43	111690	38.5
+	"St. Lawrence County, NY"	"36089"	"2011"	"2011"	"Suicide"	"2"	16	111690	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2012"	"2012"	"Unintentional"	"1"	43	112232	38.3
+	"St. Lawrence County, NY"	"36089"	"2012"	"2012"	"Suicide"	"2"	10	112232	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2013"	"2013"	"Unintentional"	"1"	36	111963	32.2
+	"St. Lawrence County, NY"	"36089"	"2014"	"2014"	"Unintentional"	"1"	40	111400	35.9
+	"St. Lawrence County, NY"	"36089"	"2014"	"2014"	"Suicide"	"2"	10	111400	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2015"	"2015"	"Unintentional"	"1"	47	111007	42.3
+	"St. Lawrence County, NY"	"36089"	"2015"	"2015"	"Suicide"	"2"	11	111007	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"Unintentional"	"1"	44	110038	40.0
+	"St. Lawrence County, NY"	"36089"	"2016"	"2016"	"Suicide"	"2"	12	110038	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"Unintentional"	"1"	57	109623	52.0
+	"St. Lawrence County, NY"	"36089"	"2017"	"2017"	"Suicide"	"2"	14	109623	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2018"	"2018"	"Unintentional"	"1"	41	108047	37.9
+	"Saratoga County, NY"	"36091"	"1999"	"1999"	"Unintentional"	"1"	33	198641	16.6
+	"Saratoga County, NY"	"36091"	"2000"	"2000"	"Unintentional"	"1"	38	200635	18.9
+	"Saratoga County, NY"	"36091"	"2001"	"2001"	"Unintentional"	"1"	43	203974	21.1
+	"Saratoga County, NY"	"36091"	"2001"	"2001"	"Suicide"	"2"	10	203974	Unreliable
+	"Saratoga County, NY"	"36091"	"2002"	"2002"	"Unintentional"	"1"	45	206446	21.8
+	"Saratoga County, NY"	"36091"	"2002"	"2002"	"Suicide"	"2"	18	206446	Unreliable
+	"Saratoga County, NY"	"36091"	"2003"	"2003"	"Unintentional"	"1"	42	209410	20.1
+	"Saratoga County, NY"	"36091"	"2003"	"2003"	"Suicide"	"2"	19	209410	Unreliable
+	"Saratoga County, NY"	"36091"	"2004"	"2004"	"Unintentional"	"1"	55	211478	26.0
+	"Saratoga County, NY"	"36091"	"2004"	"2004"	"Suicide"	"2"	25	211478	11.8
+	"Saratoga County, NY"	"36091"	"2005"	"2005"	"Unintentional"	"1"	51	212975	23.9
+	"Saratoga County, NY"	"36091"	"2005"	"2005"	"Suicide"	"2"	21	212975	9.9
+	"Saratoga County, NY"	"36091"	"2006"	"2006"	"Unintentional"	"1"	47	214627	21.9
+	"Saratoga County, NY"	"36091"	"2006"	"2006"	"Suicide"	"2"	26	214627	12.1
+	"Saratoga County, NY"	"36091"	"2007"	"2007"	"Unintentional"	"1"	40	215798	18.5
+	"Saratoga County, NY"	"36091"	"2007"	"2007"	"Suicide"	"2"	16	215798	Unreliable
+	"Saratoga County, NY"	"36091"	"2008"	"2008"	"Unintentional"	"1"	56	217282	25.8
+	"Saratoga County, NY"	"36091"	"2008"	"2008"	"Suicide"	"2"	16	217282	Unreliable
+	"Saratoga County, NY"	"36091"	"2009"	"2009"	"Unintentional"	"1"	44	218652	20.1
+	"Saratoga County, NY"	"36091"	"2009"	"2009"	"Suicide"	"2"	23	218652	10.5
+	"Saratoga County, NY"	"36091"	"2010"	"2010"	"Unintentional"	"1"	41	219607	18.7
+	"Saratoga County, NY"	"36091"	"2010"	"2010"	"Suicide"	"2"	24	219607	10.9
+	"Saratoga County, NY"	"36091"	"2011"	"2011"	"Unintentional"	"1"	58	220882	26.3
+	"Saratoga County, NY"	"36091"	"2011"	"2011"	"Suicide"	"2"	25	220882	11.3
+	"Saratoga County, NY"	"36091"	"2012"	"2012"	"Unintentional"	"1"	50	222133	22.5
+	"Saratoga County, NY"	"36091"	"2012"	"2012"	"Suicide"	"2"	34	222133	15.3
+	"Saratoga County, NY"	"36091"	"2013"	"2013"	"Unintentional"	"1"	41	223865	18.3
+	"Saratoga County, NY"	"36091"	"2013"	"2013"	"Suicide"	"2"	34	223865	15.2
+	"Saratoga County, NY"	"36091"	"2013"	"2013"	"Undetermined "	"4"	12	223865	Unreliable
+	"Saratoga County, NY"	"36091"	"2014"	"2014"	"Unintentional"	"1"	63	224921	28.0
+	"Saratoga County, NY"	"36091"	"2014"	"2014"	"Suicide"	"2"	21	224921	9.3
+	"Saratoga County, NY"	"36091"	"2014"	"2014"	"Undetermined "	"4"	17	224921	Unreliable
+	"Saratoga County, NY"	"36091"	"2015"	"2015"	"Unintentional"	"1"	57	226249	25.2
+	"Saratoga County, NY"	"36091"	"2015"	"2015"	"Suicide"	"2"	35	226249	15.5
+	"Saratoga County, NY"	"36091"	"2015"	"2015"	"Undetermined "	"4"	14	226249	Unreliable
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"Unintentional"	"1"	66	227053	29.1
+	"Saratoga County, NY"	"36091"	"2016"	"2016"	"Suicide"	"2"	26	227053	11.5
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"Unintentional"	"1"	63	229869	27.4
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"Suicide"	"2"	24	229869	10.4
+	"Saratoga County, NY"	"36091"	"2017"	"2017"	"Undetermined "	"4"	13	229869	Unreliable
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"Unintentional"	"1"	53	230163	23.0
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"Suicide"	"2"	30	230163	13.0
+	"Saratoga County, NY"	"36091"	"2018"	"2018"	"Undetermined "	"4"	22	230163	9.6
+	"Schenectady County, NY"	"36093"	"1999"	"1999"	"Unintentional"	"1"	41	146857	27.9
+	"Schenectady County, NY"	"36093"	"1999"	"1999"	"Suicide"	"2"	10	146857	Unreliable
+	"Schenectady County, NY"	"36093"	"2000"	"2000"	"Unintentional"	"1"	33	146555	22.5
+	"Schenectady County, NY"	"36093"	"2000"	"2000"	"Suicide"	"2"	13	146555	Unreliable
+	"Schenectady County, NY"	"36093"	"2001"	"2001"	"Unintentional"	"1"	41	146334	28.0
+	"Schenectady County, NY"	"36093"	"2001"	"2001"	"Suicide"	"2"	11	146334	Unreliable
+	"Schenectady County, NY"	"36093"	"2002"	"2002"	"Unintentional"	"1"	41	147199	27.9
+	"Schenectady County, NY"	"36093"	"2002"	"2002"	"Suicide"	"2"	10	147199	Unreliable
+	"Schenectady County, NY"	"36093"	"2002"	"2002"	"Homicide"	"3"	11	147199	Unreliable
+	"Schenectady County, NY"	"36093"	"2003"	"2003"	"Unintentional"	"1"	41	147891	27.7
+	"Schenectady County, NY"	"36093"	"2003"	"2003"	"Suicide"	"2"	16	147891	Unreliable
+	"Schenectady County, NY"	"36093"	"2003"	"2003"	"Homicide"	"3"	10	147891	Unreliable
+	"Schenectady County, NY"	"36093"	"2004"	"2004"	"Unintentional"	"1"	47	148900	31.6
+	"Schenectady County, NY"	"36093"	"2004"	"2004"	"Suicide"	"2"	20	148900	13.4
+	"Schenectady County, NY"	"36093"	"2005"	"2005"	"Unintentional"	"1"	51	150200	34.0
+	"Schenectady County, NY"	"36093"	"2006"	"2006"	"Unintentional"	"1"	31	151768	20.4
+	"Schenectady County, NY"	"36093"	"2006"	"2006"	"Suicide"	"2"	14	151768	Unreliable
+	"Schenectady County, NY"	"36093"	"2007"	"2007"	"Unintentional"	"1"	46	152275	30.2
+	"Schenectady County, NY"	"36093"	"2007"	"2007"	"Suicide"	"2"	16	152275	Unreliable
+	"Schenectady County, NY"	"36093"	"2008"	"2008"	"Unintentional"	"1"	43	153360	28.0
+	"Schenectady County, NY"	"36093"	"2009"	"2009"	"Unintentional"	"1"	41	154050	26.6
+	"Schenectady County, NY"	"36093"	"2009"	"2009"	"Suicide"	"2"	18	154050	Unreliable
+	"Schenectady County, NY"	"36093"	"2010"	"2010"	"Unintentional"	"1"	33	154727	21.3
+	"Schenectady County, NY"	"36093"	"2010"	"2010"	"Suicide"	"2"	10	154727	Unreliable
+	"Schenectady County, NY"	"36093"	"2010"	"2010"	"Homicide"	"3"	10	154727	Unreliable
+	"Schenectady County, NY"	"36093"	"2011"	"2011"	"Unintentional"	"1"	37	155058	23.9
+	"Schenectady County, NY"	"36093"	"2011"	"2011"	"Suicide"	"2"	24	155058	15.5
+	"Schenectady County, NY"	"36093"	"2012"	"2012"	"Unintentional"	"1"	37	155124	23.9
+	"Schenectady County, NY"	"36093"	"2012"	"2012"	"Suicide"	"2"	18	155124	Unreliable
+	"Schenectady County, NY"	"36093"	"2013"	"2013"	"Unintentional"	"1"	43	155333	27.7
+	"Schenectady County, NY"	"36093"	"2013"	"2013"	"Suicide"	"2"	16	155333	Unreliable
+	"Schenectady County, NY"	"36093"	"2013"	"2013"	"Homicide"	"3"	11	155333	Unreliable
+	"Schenectady County, NY"	"36093"	"2013"	"2013"	"Undetermined "	"4"	11	155333	Unreliable
+	"Schenectady County, NY"	"36093"	"2014"	"2014"	"Unintentional"	"1"	36	155735	23.1
+	"Schenectady County, NY"	"36093"	"2014"	"2014"	"Suicide"	"2"	21	155735	13.5
+	"Schenectady County, NY"	"36093"	"2015"	"2015"	"Unintentional"	"1"	46	154604	29.8
+	"Schenectady County, NY"	"36093"	"2015"	"2015"	"Suicide"	"2"	15	154604	Unreliable
+	"Schenectady County, NY"	"36093"	"2015"	"2015"	"Undetermined "	"4"	15	154604	Unreliable
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"Unintentional"	"1"	44	154553	28.5
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"Suicide"	"2"	20	154553	12.9
+	"Schenectady County, NY"	"36093"	"2016"	"2016"	"Undetermined "	"4"	34	154553	22.0
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"Unintentional"	"1"	42	155565	27.0
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"Suicide"	"2"	14	155565	Unreliable
+	"Schenectady County, NY"	"36093"	"2017"	"2017"	"Undetermined "	"4"	37	155565	23.8
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"Unintentional"	"1"	34	155350	21.9
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"Suicide"	"2"	13	155350	Unreliable
+	"Schenectady County, NY"	"36093"	"2018"	"2018"	"Undetermined "	"4"	25	155350	16.1
+	"Schoharie County, NY"	"36095"	"1999"	"1999"	"Unintentional"	"1"	12	31537	Unreliable
+	"Schoharie County, NY"	"36095"	"2001"	"2001"	"Unintentional"	"1"	15	31794	Unreliable
+	"Schoharie County, NY"	"36095"	"2002"	"2002"	"Unintentional"	"1"	13	31785	Unreliable
+	"Schoharie County, NY"	"36095"	"2003"	"2003"	"Unintentional"	"1"	10	32032	Unreliable
+	"Schoharie County, NY"	"36095"	"2005"	"2005"	"Unintentional"	"1"	19	32534	Unreliable
+	"Schoharie County, NY"	"36095"	"2006"	"2006"	"Unintentional"	"1"	12	32661	Unreliable
+	"Schoharie County, NY"	"36095"	"2007"	"2007"	"Unintentional"	"1"	11	32894	Unreliable
+	"Schoharie County, NY"	"36095"	"2009"	"2009"	"Unintentional"	"1"	13	32776	Unreliable
+	"Schoharie County, NY"	"36095"	"2011"	"2011"	"Unintentional"	"1"	10	32578	Unreliable
+	"Schoharie County, NY"	"36095"	"2012"	"2012"	"Unintentional"	"1"	11	32099	Unreliable
+	"Schoharie County, NY"	"36095"	"2015"	"2015"	"Unintentional"	"1"	11	31330	Unreliable
+	"Schoharie County, NY"	"36095"	"2017"	"2017"	"Unintentional"	"1"	11	31420	Unreliable
+	"Schoharie County, NY"	"36095"	"2018"	"2018"	"Unintentional"	"1"	14	31097	Unreliable
+	"Schuyler County, NY"	"36097"	"1999"	"1999"	"Unintentional"	"1"	10	19117	Unreliable
+	"Schuyler County, NY"	"36097"	"2000"	"2000"	"Unintentional"	"1"	10	19224	Unreliable
+	"Schuyler County, NY"	"36097"	"2002"	"2002"	"Unintentional"	"1"	10	19179	Unreliable
+	"Schuyler County, NY"	"36097"	"2003"	"2003"	"Unintentional"	"1"	14	19151	Unreliable
+	"Schuyler County, NY"	"36097"	"2008"	"2008"	"Unintentional"	"1"	10	18644	Unreliable
+	"Schuyler County, NY"	"36097"	"2011"	"2011"	"Unintentional"	"1"	10	18361	Unreliable
+	"Schuyler County, NY"	"36097"	"2013"	"2013"	"Unintentional"	"1"	14	18460	Unreliable
+	"Seneca County, NY"	"36099"	"1999"	"1999"	"Unintentional"	"1"	10	33231	Unreliable
+	"Seneca County, NY"	"36099"	"2000"	"2000"	"Unintentional"	"1"	10	33342	Unreliable
+	"Seneca County, NY"	"36099"	"2003"	"2003"	"Unintentional"	"1"	22	35212	62.5
+	"Seneca County, NY"	"36099"	"2004"	"2004"	"Unintentional"	"1"	12	35312	Unreliable
+	"Seneca County, NY"	"36099"	"2005"	"2005"	"Unintentional"	"1"	13	35177	Unreliable
+	"Seneca County, NY"	"36099"	"2006"	"2006"	"Unintentional"	"1"	14	35223	Unreliable
+	"Seneca County, NY"	"36099"	"2007"	"2007"	"Unintentional"	"1"	12	35469	Unreliable
+	"Seneca County, NY"	"36099"	"2009"	"2009"	"Unintentional"	"1"	18	35286	Unreliable
+	"Seneca County, NY"	"36099"	"2010"	"2010"	"Unintentional"	"1"	11	35251	Unreliable
+	"Seneca County, NY"	"36099"	"2011"	"2011"	"Unintentional"	"1"	11	35198	Unreliable
+	"Seneca County, NY"	"36099"	"2012"	"2012"	"Unintentional"	"1"	22	35305	62.3
+	"Seneca County, NY"	"36099"	"2013"	"2013"	"Unintentional"	"1"	14	35409	Unreliable
+	"Seneca County, NY"	"36099"	"2014"	"2014"	"Unintentional"	"1"	18	34884	Unreliable
+	"Seneca County, NY"	"36099"	"2015"	"2015"	"Unintentional"	"1"	18	34833	Unreliable
+	"Seneca County, NY"	"36099"	"2016"	"2016"	"Unintentional"	"1"	20	34777	57.5
+	"Seneca County, NY"	"36099"	"2017"	"2017"	"Unintentional"	"1"	26	34498	75.4
+	"Seneca County, NY"	"36099"	"2018"	"2018"	"Unintentional"	"1"	24	34300	70.0
+	"Steuben County, NY"	"36101"	"1999"	"1999"	"Unintentional"	"1"	38	98458	38.6
+	"Steuben County, NY"	"36101"	"1999"	"1999"	"Suicide"	"2"	18	98458	Unreliable
+	"Steuben County, NY"	"36101"	"2000"	"2000"	"Unintentional"	"1"	34	98726	34.4
+	"Steuben County, NY"	"36101"	"2001"	"2001"	"Unintentional"	"1"	33	99216	33.3
+	"Steuben County, NY"	"36101"	"2002"	"2002"	"Unintentional"	"1"	48	99583	48.2
+	"Steuben County, NY"	"36101"	"2002"	"2002"	"Suicide"	"2"	12	99583	Unreliable
+	"Steuben County, NY"	"36101"	"2003"	"2003"	"Unintentional"	"1"	27	99191	27.2
+	"Steuben County, NY"	"36101"	"2004"	"2004"	"Unintentional"	"1"	33	98983	33.3
+	"Steuben County, NY"	"36101"	"2004"	"2004"	"Suicide"	"2"	14	98983	Unreliable
+	"Steuben County, NY"	"36101"	"2005"	"2005"	"Unintentional"	"1"	41	98868	41.5
+	"Steuben County, NY"	"36101"	"2006"	"2006"	"Unintentional"	"1"	42	98473	42.7
+	"Steuben County, NY"	"36101"	"2006"	"2006"	"Suicide"	"2"	12	98473	Unreliable
+	"Steuben County, NY"	"36101"	"2007"	"2007"	"Unintentional"	"1"	59	98541	59.9
+	"Steuben County, NY"	"36101"	"2008"	"2008"	"Unintentional"	"1"	37	98726	37.5
+	"Steuben County, NY"	"36101"	"2008"	"2008"	"Suicide"	"2"	16	98726	Unreliable
+	"Steuben County, NY"	"36101"	"2009"	"2009"	"Unintentional"	"1"	36	98949	36.4
+	"Steuben County, NY"	"36101"	"2009"	"2009"	"Suicide"	"2"	13	98949	Unreliable
+	"Steuben County, NY"	"36101"	"2010"	"2010"	"Unintentional"	"1"	46	98990	46.5
+	"Steuben County, NY"	"36101"	"2010"	"2010"	"Suicide"	"2"	15	98990	Unreliable
+	"Steuben County, NY"	"36101"	"2011"	"2011"	"Unintentional"	"1"	42	99033	42.4
+	"Steuben County, NY"	"36101"	"2011"	"2011"	"Suicide"	"2"	11	99033	Unreliable
+	"Steuben County, NY"	"36101"	"2012"	"2012"	"Unintentional"	"1"	36	99063	36.3
+	"Steuben County, NY"	"36101"	"2012"	"2012"	"Suicide"	"2"	14	99063	Unreliable
+	"Steuben County, NY"	"36101"	"2013"	"2013"	"Unintentional"	"1"	39	98650	39.5
+	"Steuben County, NY"	"36101"	"2014"	"2014"	"Unintentional"	"1"	54	98394	54.9
+	"Steuben County, NY"	"36101"	"2014"	"2014"	"Suicide"	"2"	16	98394	Unreliable
+	"Steuben County, NY"	"36101"	"2015"	"2015"	"Unintentional"	"1"	35	97631	35.8
+	"Steuben County, NY"	"36101"	"2016"	"2016"	"Unintentional"	"1"	45	96940	46.4
+	"Steuben County, NY"	"36101"	"2016"	"2016"	"Suicide"	"2"	11	96940	Unreliable
+	"Steuben County, NY"	"36101"	"2017"	"2017"	"Unintentional"	"1"	40	96281	41.5
+	"Steuben County, NY"	"36101"	"2017"	"2017"	"Suicide"	"2"	18	96281	Unreliable
+	"Steuben County, NY"	"36101"	"2018"	"2018"	"Unintentional"	"1"	42	95796	43.8
+	"Steuben County, NY"	"36101"	"2018"	"2018"	"Suicide"	"2"	17	95796	Unreliable
+	"Suffolk County, NY"	"36103"	"1999"	"1999"	"Unintentional"	"1"	394	1406161	28.0
+	"Suffolk County, NY"	"36103"	"1999"	"1999"	"Suicide"	"2"	85	1406161	6.0
+	"Suffolk County, NY"	"36103"	"1999"	"1999"	"Homicide"	"3"	34	1406161	2.4
+	"Suffolk County, NY"	"36103"	"2000"	"2000"	"Unintentional"	"1"	355	1419369	25.0
+	"Suffolk County, NY"	"36103"	"2000"	"2000"	"Suicide"	"2"	94	1419369	6.6
+	"Suffolk County, NY"	"36103"	"2000"	"2000"	"Homicide"	"3"	34	1419369	2.4
+	"Suffolk County, NY"	"36103"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	11	1419369	Unreliable
+	"Suffolk County, NY"	"36103"	"2001"	"2001"	"Unintentional"	"1"	395	1442488	27.4
+	"Suffolk County, NY"	"36103"	"2001"	"2001"	"Suicide"	"2"	79	1442488	5.5
+	"Suffolk County, NY"	"36103"	"2001"	"2001"	"Homicide"	"3"	37	1442488	2.6
+	"Suffolk County, NY"	"36103"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	12	1442488	Unreliable
+	"Suffolk County, NY"	"36103"	"2002"	"2002"	"Unintentional"	"1"	373	1456745	25.6
+	"Suffolk County, NY"	"36103"	"2002"	"2002"	"Suicide"	"2"	78	1456745	5.4
+	"Suffolk County, NY"	"36103"	"2002"	"2002"	"Homicide"	"3"	22	1456745	1.5
+	"Suffolk County, NY"	"36103"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	10	1456745	Unreliable
+	"Suffolk County, NY"	"36103"	"2003"	"2003"	"Unintentional"	"1"	371	1470849	25.2
+	"Suffolk County, NY"	"36103"	"2003"	"2003"	"Suicide"	"2"	72	1470849	4.9
+	"Suffolk County, NY"	"36103"	"2003"	"2003"	"Homicide"	"3"	34	1470849	2.3
+	"Suffolk County, NY"	"36103"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	11	1470849	Unreliable
+	"Suffolk County, NY"	"36103"	"2004"	"2004"	"Unintentional"	"1"	348	1478215	23.5
+	"Suffolk County, NY"	"36103"	"2004"	"2004"	"Suicide"	"2"	75	1478215	5.1
+	"Suffolk County, NY"	"36103"	"2004"	"2004"	"Homicide"	"3"	37	1478215	2.5
+	"Suffolk County, NY"	"36103"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	14	1478215	Unreliable
+	"Suffolk County, NY"	"36103"	"2005"	"2005"	"Unintentional"	"1"	363	1477687	24.6
+	"Suffolk County, NY"	"36103"	"2005"	"2005"	"Suicide"	"2"	89	1477687	6.0
+	"Suffolk County, NY"	"36103"	"2005"	"2005"	"Homicide"	"3"	30	1477687	2.0
+	"Suffolk County, NY"	"36103"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	16	1477687	Unreliable
+	"Suffolk County, NY"	"36103"	"2006"	"2006"	"Unintentional"	"1"	460	1475626	31.2
+	"Suffolk County, NY"	"36103"	"2006"	"2006"	"Suicide"	"2"	106	1475626	7.2
+	"Suffolk County, NY"	"36103"	"2006"	"2006"	"Homicide"	"3"	42	1475626	2.8
+	"Suffolk County, NY"	"36103"	"2007"	"2007"	"Unintentional"	"1"	528	1475255	35.8
+	"Suffolk County, NY"	"36103"	"2007"	"2007"	"Suicide"	"2"	103	1475255	7.0
+	"Suffolk County, NY"	"36103"	"2007"	"2007"	"Homicide"	"3"	37	1475255	2.5
+	"Suffolk County, NY"	"36103"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	11	1475255	Unreliable
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Unintentional"	"1"	527	1480218	35.6
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Suicide"	"2"	105	1480218	7.1
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Homicide"	"3"	42	1480218	2.8
+	"Suffolk County, NY"	"36103"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	14	1480218	Unreliable
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Unintentional"	"1"	535	1487206	36.0
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Suicide"	"2"	100	1487206	6.7
+	"Suffolk County, NY"	"36103"	"2009"	"2009"	"Homicide"	"3"	38	1487206	2.6
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Unintentional"	"1"	555	1493350	37.2
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Suicide"	"2"	138	1493350	9.2
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Homicide"	"3"	56	1493350	3.7
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Undetermined "	"4"	18	1493350	Unreliable
+	"Suffolk County, NY"	"36103"	"2011"	"2011"	"Unintentional"	"1"	660	1498816	44.0
+	"Suffolk County, NY"	"36103"	"2011"	"2011"	"Suicide"	"2"	141	1498816	9.4
+	"Suffolk County, NY"	"36103"	"2011"	"2011"	"Homicide"	"3"	43	1498816	2.9
+	"Suffolk County, NY"	"36103"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	11	1498816	Unreliable
+	"Suffolk County, NY"	"36103"	"2012"	"2012"	"Unintentional"	"1"	735	1499273	49.0
+	"Suffolk County, NY"	"36103"	"2012"	"2012"	"Suicide"	"2"	156	1499273	10.4
+	"Suffolk County, NY"	"36103"	"2012"	"2012"	"Homicide"	"3"	27	1499273	1.8
+	"Suffolk County, NY"	"36103"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	10	1499273	Unreliable
+	"Suffolk County, NY"	"36103"	"2013"	"2013"	"Unintentional"	"1"	691	1499738	46.1
+	"Suffolk County, NY"	"36103"	"2013"	"2013"	"Suicide"	"2"	140	1499738	9.3
+	"Suffolk County, NY"	"36103"	"2013"	"2013"	"Homicide"	"3"	39	1499738	2.6
+	"Suffolk County, NY"	"36103"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	10	1499738	Unreliable
+	"Suffolk County, NY"	"36103"	"2014"	"2014"	"Unintentional"	"1"	618	1502968	41.1
+	"Suffolk County, NY"	"36103"	"2014"	"2014"	"Suicide"	"2"	145	1502968	9.6
+	"Suffolk County, NY"	"36103"	"2014"	"2014"	"Homicide"	"3"	32	1502968	2.1
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	"Unintentional"	"1"	681	1501587	45.4
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	"Suicide"	"2"	141	1501587	9.4
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	"Homicide"	"3"	33	1501587	2.2
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	"Undetermined "	"4"	13	1501587	Unreliable
+	"Suffolk County, NY"	"36103"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	13	1501587	Unreliable
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Unintentional"	"1"	820	1492583	54.9
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Suicide"	"2"	139	1492583	9.3
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Homicide"	"3"	39	1492583	2.6
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Undetermined "	"4"	18	1492583	Unreliable
+	"Suffolk County, NY"	"36103"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	11	1492583	Unreliable
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"Unintentional"	"1"	876	1492953	58.7
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"Suicide"	"2"	127	1492953	8.5
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"Homicide"	"3"	24	1492953	1.6
+	"Suffolk County, NY"	"36103"	"2017"	"2017"	"Undetermined "	"4"	10	1492953	Unreliable
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Unintentional"	"1"	777	1481093	52.5
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Suicide"	"2"	129	1481093	8.7
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Homicide"	"3"	24	1481093	1.6
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Undetermined "	"4"	13	1481093	Unreliable
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	14	1481093	Unreliable
+	"Sullivan County, NY"	"36105"	"1999"	"1999"	"Unintentional"	"1"	32	73341	43.6
+	"Sullivan County, NY"	"36105"	"2000"	"2000"	"Unintentional"	"1"	24	73966	32.4
+	"Sullivan County, NY"	"36105"	"2000"	"2000"	"Suicide"	"2"	11	73966	Unreliable
+	"Sullivan County, NY"	"36105"	"2001"	"2001"	"Unintentional"	"1"	29	74143	39.1
+	"Sullivan County, NY"	"36105"	"2002"	"2002"	"Unintentional"	"1"	19	74452	Unreliable
+	"Sullivan County, NY"	"36105"	"2002"	"2002"	"Suicide"	"2"	14	74452	Unreliable
+	"Sullivan County, NY"	"36105"	"2003"	"2003"	"Unintentional"	"1"	27	75447	35.8
+	"Sullivan County, NY"	"36105"	"2004"	"2004"	"Unintentional"	"1"	29	76265	38.0
+	"Sullivan County, NY"	"36105"	"2005"	"2005"	"Unintentional"	"1"	31	76780	40.4
+	"Sullivan County, NY"	"36105"	"2006"	"2006"	"Unintentional"	"1"	45	77231	58.3
+	"Sullivan County, NY"	"36105"	"2007"	"2007"	"Unintentional"	"1"	40	77991	51.3
+	"Sullivan County, NY"	"36105"	"2007"	"2007"	"Suicide"	"2"	13	77991	Unreliable
+	"Sullivan County, NY"	"36105"	"2008"	"2008"	"Unintentional"	"1"	42	77755	54.0
+	"Sullivan County, NY"	"36105"	"2008"	"2008"	"Suicide"	"2"	13	77755	Unreliable
+	"Sullivan County, NY"	"36105"	"2009"	"2009"	"Unintentional"	"1"	31	77647	39.9
+	"Sullivan County, NY"	"36105"	"2010"	"2010"	"Unintentional"	"1"	29	77547	37.4
+	"Sullivan County, NY"	"36105"	"2010"	"2010"	"Suicide"	"2"	14	77547	Unreliable
+	"Sullivan County, NY"	"36105"	"2011"	"2011"	"Unintentional"	"1"	53	76900	68.9
+	"Sullivan County, NY"	"36105"	"2011"	"2011"	"Suicide"	"2"	10	76900	Unreliable
+	"Sullivan County, NY"	"36105"	"2012"	"2012"	"Unintentional"	"1"	49	76793	63.8
+	"Sullivan County, NY"	"36105"	"2012"	"2012"	"Suicide"	"2"	14	76793	Unreliable
+	"Sullivan County, NY"	"36105"	"2013"	"2013"	"Unintentional"	"1"	38	76665	49.6
+	"Sullivan County, NY"	"36105"	"2013"	"2013"	"Suicide"	"2"	14	76665	Unreliable
+	"Sullivan County, NY"	"36105"	"2014"	"2014"	"Unintentional"	"1"	41	75943	54.0
+	"Sullivan County, NY"	"36105"	"2014"	"2014"	"Suicide"	"2"	12	75943	Unreliable
+	"Sullivan County, NY"	"36105"	"2015"	"2015"	"Unintentional"	"1"	40	74877	53.4
+	"Sullivan County, NY"	"36105"	"2016"	"2016"	"Unintentional"	"1"	49	74801	65.5
+	"Sullivan County, NY"	"36105"	"2016"	"2016"	"Suicide"	"2"	13	74801	Unreliable
+	"Sullivan County, NY"	"36105"	"2017"	"2017"	"Unintentional"	"1"	51	75485	67.6
+	"Sullivan County, NY"	"36105"	"2018"	"2018"	"Unintentional"	"1"	58	75498	76.8
+	"Tioga County, NY"	"36107"	"1999"	"1999"	"Unintentional"	"1"	13	51892	Unreliable
+	"Tioga County, NY"	"36107"	"2000"	"2000"	"Unintentional"	"1"	11	51784	Unreliable
+	"Tioga County, NY"	"36107"	"2001"	"2001"	"Unintentional"	"1"	16	51712	Unreliable
+	"Tioga County, NY"	"36107"	"2002"	"2002"	"Unintentional"	"1"	10	51992	Unreliable
+	"Tioga County, NY"	"36107"	"2003"	"2003"	"Unintentional"	"1"	21	51895	40.5
+	"Tioga County, NY"	"36107"	"2004"	"2004"	"Unintentional"	"1"	14	51631	Unreliable
+	"Tioga County, NY"	"36107"	"2005"	"2005"	"Unintentional"	"1"	13	51611	Unreliable
+	"Tioga County, NY"	"36107"	"2006"	"2006"	"Unintentional"	"1"	13	51536	Unreliable
+	"Tioga County, NY"	"36107"	"2007"	"2007"	"Unintentional"	"1"	16	51565	Unreliable
+	"Tioga County, NY"	"36107"	"2008"	"2008"	"Unintentional"	"1"	12	51498	Unreliable
+	"Tioga County, NY"	"36107"	"2009"	"2009"	"Unintentional"	"1"	17	51236	Unreliable
+	"Tioga County, NY"	"36107"	"2010"	"2010"	"Unintentional"	"1"	20	51125	39.1
+	"Tioga County, NY"	"36107"	"2011"	"2011"	"Unintentional"	"1"	24	51043	47.0
+	"Tioga County, NY"	"36107"	"2012"	"2012"	"Unintentional"	"1"	17	50478	Unreliable
+	"Tioga County, NY"	"36107"	"2013"	"2013"	"Unintentional"	"1"	19	50243	Unreliable
+	"Tioga County, NY"	"36107"	"2014"	"2014"	"Unintentional"	"1"	29	49870	58.2
+	"Tioga County, NY"	"36107"	"2015"	"2015"	"Unintentional"	"1"	21	49453	42.5
+	"Tioga County, NY"	"36107"	"2016"	"2016"	"Unintentional"	"1"	25	48760	51.3
+	"Tioga County, NY"	"36107"	"2017"	"2017"	"Unintentional"	"1"	25	48578	51.5
+	"Tioga County, NY"	"36107"	"2018"	"2018"	"Unintentional"	"1"	23	48560	47.4
+	"Tompkins County, NY"	"36109"	"1999"	"1999"	"Unintentional"	"1"	22	96656	22.8
+	"Tompkins County, NY"	"36109"	"2000"	"2000"	"Unintentional"	"1"	20	96501	20.7
+	"Tompkins County, NY"	"36109"	"2000"	"2000"	"Suicide"	"2"	10	96501	Unreliable
+	"Tompkins County, NY"	"36109"	"2001"	"2001"	"Unintentional"	"1"	18	97458	Unreliable
+	"Tompkins County, NY"	"36109"	"2001"	"2001"	"Suicide"	"2"	12	97458	Unreliable
+	"Tompkins County, NY"	"36109"	"2002"	"2002"	"Unintentional"	"1"	22	98227	22.4
+	"Tompkins County, NY"	"36109"	"2002"	"2002"	"Suicide"	"2"	10	98227	Unreliable
+	"Tompkins County, NY"	"36109"	"2003"	"2003"	"Unintentional"	"1"	24	99049	24.2
+	"Tompkins County, NY"	"36109"	"2003"	"2003"	"Suicide"	"2"	10	99049	Unreliable
+	"Tompkins County, NY"	"36109"	"2004"	"2004"	"Unintentional"	"1"	22	99531	22.1
+	"Tompkins County, NY"	"36109"	"2005"	"2005"	"Unintentional"	"1"	20	99433	20.1
+	"Tompkins County, NY"	"36109"	"2006"	"2006"	"Unintentional"	"1"	21	99651	21.1
+	"Tompkins County, NY"	"36109"	"2007"	"2007"	"Unintentional"	"1"	29	99910	29.0
+	"Tompkins County, NY"	"36109"	"2008"	"2008"	"Unintentional"	"1"	20	100383	19.9
+	"Tompkins County, NY"	"36109"	"2009"	"2009"	"Unintentional"	"1"	26	101497	25.6
+	"Tompkins County, NY"	"36109"	"2009"	"2009"	"Suicide"	"2"	15	101497	Unreliable
+	"Tompkins County, NY"	"36109"	"2010"	"2010"	"Unintentional"	"1"	32	101564	31.5
+	"Tompkins County, NY"	"36109"	"2011"	"2011"	"Unintentional"	"1"	27	101723	26.5
+	"Tompkins County, NY"	"36109"	"2011"	"2011"	"Suicide"	"2"	14	101723	Unreliable
+	"Tompkins County, NY"	"36109"	"2012"	"2012"	"Unintentional"	"1"	42	102554	41.0
+	"Tompkins County, NY"	"36109"	"2013"	"2013"	"Unintentional"	"1"	31	103617	29.9
+	"Tompkins County, NY"	"36109"	"2013"	"2013"	"Suicide"	"2"	19	103617	Unreliable
+	"Tompkins County, NY"	"36109"	"2014"	"2014"	"Unintentional"	"1"	41	104691	39.2
+	"Tompkins County, NY"	"36109"	"2015"	"2015"	"Unintentional"	"1"	39	104926	37.2
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"Unintentional"	"1"	48	104871	45.8
+	"Tompkins County, NY"	"36109"	"2016"	"2016"	"Suicide"	"2"	14	104871	Unreliable
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"Unintentional"	"1"	53	104802	50.6
+	"Tompkins County, NY"	"36109"	"2017"	"2017"	"Suicide"	"2"	12	104802	Unreliable
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"Unintentional"	"1"	39	102793	37.9
+	"Tompkins County, NY"	"36109"	"2018"	"2018"	"Suicide"	"2"	15	102793	Unreliable
+	"Ulster County, NY"	"36111"	"1999"	"1999"	"Unintentional"	"1"	58	176526	32.9
+	"Ulster County, NY"	"36111"	"1999"	"1999"	"Suicide"	"2"	20	176526	11.3
+	"Ulster County, NY"	"36111"	"2000"	"2000"	"Unintentional"	"1"	50	177749	28.1
+	"Ulster County, NY"	"36111"	"2000"	"2000"	"Suicide"	"2"	17	177749	Unreliable
+	"Ulster County, NY"	"36111"	"2001"	"2001"	"Unintentional"	"1"	51	178440	28.6
+	"Ulster County, NY"	"36111"	"2001"	"2001"	"Suicide"	"2"	19	178440	Unreliable
+	"Ulster County, NY"	"36111"	"2002"	"2002"	"Unintentional"	"1"	64	180128	35.5
+	"Ulster County, NY"	"36111"	"2002"	"2002"	"Suicide"	"2"	15	180128	Unreliable
+	"Ulster County, NY"	"36111"	"2003"	"2003"	"Unintentional"	"1"	51	180942	28.2
+	"Ulster County, NY"	"36111"	"2004"	"2004"	"Unintentional"	"1"	42	181847	23.1
+	"Ulster County, NY"	"36111"	"2005"	"2005"	"Unintentional"	"1"	58	182438	31.8
+	"Ulster County, NY"	"36111"	"2006"	"2006"	"Unintentional"	"1"	67	182845	36.6
+	"Ulster County, NY"	"36111"	"2006"	"2006"	"Suicide"	"2"	10	182845	Unreliable
+	"Ulster County, NY"	"36111"	"2007"	"2007"	"Unintentional"	"1"	69	182818	37.7
+	"Ulster County, NY"	"36111"	"2007"	"2007"	"Suicide"	"2"	16	182818	Unreliable
+	"Ulster County, NY"	"36111"	"2007"	"2007"	"Undetermined "	"4"	11	182818	Unreliable
+	"Ulster County, NY"	"36111"	"2008"	"2008"	"Unintentional"	"1"	58	183174	31.7
+	"Ulster County, NY"	"36111"	"2008"	"2008"	"Suicide"	"2"	19	183174	Unreliable
+	"Ulster County, NY"	"36111"	"2009"	"2009"	"Unintentional"	"1"	51	182638	27.9
+	"Ulster County, NY"	"36111"	"2009"	"2009"	"Suicide"	"2"	27	182638	14.8
+	"Ulster County, NY"	"36111"	"2009"	"2009"	"Undetermined "	"4"	10	182638	Unreliable
+	"Ulster County, NY"	"36111"	"2010"	"2010"	"Unintentional"	"1"	53	182493	29.0
+	"Ulster County, NY"	"36111"	"2010"	"2010"	"Suicide"	"2"	22	182493	12.1
+	"Ulster County, NY"	"36111"	"2011"	"2011"	"Unintentional"	"1"	55	182448	30.1
+	"Ulster County, NY"	"36111"	"2011"	"2011"	"Suicide"	"2"	24	182448	13.2
+	"Ulster County, NY"	"36111"	"2011"	"2011"	"Undetermined "	"4"	13	182448	Unreliable
+	"Ulster County, NY"	"36111"	"2012"	"2012"	"Unintentional"	"1"	51	181791	28.1
+	"Ulster County, NY"	"36111"	"2012"	"2012"	"Suicide"	"2"	22	181791	12.1
+	"Ulster County, NY"	"36111"	"2012"	"2012"	"Undetermined "	"4"	13	181791	Unreliable
+	"Ulster County, NY"	"36111"	"2013"	"2013"	"Unintentional"	"1"	63	180998	34.8
+	"Ulster County, NY"	"36111"	"2013"	"2013"	"Suicide"	"2"	17	180998	Unreliable
+	"Ulster County, NY"	"36111"	"2013"	"2013"	"Undetermined "	"4"	20	180998	11.0
+	"Ulster County, NY"	"36111"	"2014"	"2014"	"Unintentional"	"1"	54	180445	29.9
+	"Ulster County, NY"	"36111"	"2014"	"2014"	"Suicide"	"2"	17	180445	Unreliable
+	"Ulster County, NY"	"36111"	"2014"	"2014"	"Undetermined "	"4"	12	180445	Unreliable
+	"Ulster County, NY"	"36111"	"2015"	"2015"	"Unintentional"	"1"	61	180143	33.9
+	"Ulster County, NY"	"36111"	"2015"	"2015"	"Suicide"	"2"	31	180143	17.2
+	"Ulster County, NY"	"36111"	"2015"	"2015"	"Undetermined "	"4"	22	180143	12.2
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"Unintentional"	"1"	71	179225	39.6
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"Suicide"	"2"	21	179225	11.7
+	"Ulster County, NY"	"36111"	"2016"	"2016"	"Undetermined "	"4"	32	179225	17.9
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"Unintentional"	"1"	94	179417	52.4
+	"Ulster County, NY"	"36111"	"2017"	"2017"	"Suicide"	"2"	23	179417	12.8
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"Unintentional"	"1"	112	178599	62.7
+	"Ulster County, NY"	"36111"	"2018"	"2018"	"Suicide"	"2"	28	178599	15.7
+	"Warren County, NY"	"36113"	"1999"	"1999"	"Unintentional"	"1"	21	63031	33.3
+	"Warren County, NY"	"36113"	"2000"	"2000"	"Unintentional"	"1"	21	63303	33.2
+	"Warren County, NY"	"36113"	"2000"	"2000"	"Suicide"	"2"	11	63303	Unreliable
+	"Warren County, NY"	"36113"	"2001"	"2001"	"Unintentional"	"1"	23	63406	36.3
+	"Warren County, NY"	"36113"	"2002"	"2002"	"Unintentional"	"1"	22	63774	34.5
+	"Warren County, NY"	"36113"	"2003"	"2003"	"Unintentional"	"1"	16	64323	Unreliable
+	"Warren County, NY"	"36113"	"2004"	"2004"	"Unintentional"	"1"	20	64576	31.0
+	"Warren County, NY"	"36113"	"2005"	"2005"	"Unintentional"	"1"	19	65206	Unreliable
+	"Warren County, NY"	"36113"	"2006"	"2006"	"Unintentional"	"1"	24	65554	36.6
+	"Warren County, NY"	"36113"	"2007"	"2007"	"Unintentional"	"1"	25	65740	38.0
+	"Warren County, NY"	"36113"	"2007"	"2007"	"Suicide"	"2"	12	65740	Unreliable
+	"Warren County, NY"	"36113"	"2008"	"2008"	"Unintentional"	"1"	17	65848	Unreliable
+	"Warren County, NY"	"36113"	"2009"	"2009"	"Unintentional"	"1"	17	65694	Unreliable
+	"Warren County, NY"	"36113"	"2010"	"2010"	"Unintentional"	"1"	11	65707	Unreliable
+	"Warren County, NY"	"36113"	"2010"	"2010"	"Suicide"	"2"	11	65707	Unreliable
+	"Warren County, NY"	"36113"	"2011"	"2011"	"Unintentional"	"1"	18	65831	Unreliable
+	"Warren County, NY"	"36113"	"2012"	"2012"	"Unintentional"	"1"	19	65538	Unreliable
+	"Warren County, NY"	"36113"	"2012"	"2012"	"Suicide"	"2"	12	65538	Unreliable
+	"Warren County, NY"	"36113"	"2013"	"2013"	"Unintentional"	"1"	20	65337	30.6
+	"Warren County, NY"	"36113"	"2014"	"2014"	"Unintentional"	"1"	26	64973	40.0
+	"Warren County, NY"	"36113"	"2015"	"2015"	"Unintentional"	"1"	20	64688	30.9
+	"Warren County, NY"	"36113"	"2015"	"2015"	"Suicide"	"2"	11	64688	Unreliable
+	"Warren County, NY"	"36113"	"2016"	"2016"	"Unintentional"	"1"	20	64567	31.0
+	"Warren County, NY"	"36113"	"2017"	"2017"	"Unintentional"	"1"	19	64532	Unreliable
+	"Warren County, NY"	"36113"	"2018"	"2018"	"Unintentional"	"1"	26	64265	40.5
+	"Washington County, NY"	"36115"	"1999"	"1999"	"Unintentional"	"1"	29	61043	47.5
+	"Washington County, NY"	"36115"	"2000"	"2000"	"Unintentional"	"1"	20	61042	32.8
+	"Washington County, NY"	"36115"	"2001"	"2001"	"Unintentional"	"1"	23	61142	37.6
+	"Washington County, NY"	"36115"	"2002"	"2002"	"Unintentional"	"1"	19	61152	Unreliable
+	"Washington County, NY"	"36115"	"2003"	"2003"	"Unintentional"	"1"	32	61621	51.9
+	"Washington County, NY"	"36115"	"2003"	"2003"	"Suicide"	"2"	10	61621	Unreliable
+	"Washington County, NY"	"36115"	"2004"	"2004"	"Unintentional"	"1"	15	62278	Unreliable
+	"Washington County, NY"	"36115"	"2005"	"2005"	"Unintentional"	"1"	32	62468	51.2
+	"Washington County, NY"	"36115"	"2006"	"2006"	"Unintentional"	"1"	19	62771	Unreliable
+	"Washington County, NY"	"36115"	"2007"	"2007"	"Unintentional"	"1"	20	63054	31.7
+	"Washington County, NY"	"36115"	"2008"	"2008"	"Unintentional"	"1"	22	63252	34.8
+	"Washington County, NY"	"36115"	"2009"	"2009"	"Unintentional"	"1"	22	63077	34.9
+	"Washington County, NY"	"36115"	"2010"	"2010"	"Unintentional"	"1"	34	63216	53.8
+	"Washington County, NY"	"36115"	"2010"	"2010"	"Suicide"	"2"	11	63216	Unreliable
+	"Washington County, NY"	"36115"	"2011"	"2011"	"Unintentional"	"1"	20	63165	31.7
+	"Washington County, NY"	"36115"	"2011"	"2011"	"Suicide"	"2"	13	63165	Unreliable
+	"Washington County, NY"	"36115"	"2012"	"2012"	"Unintentional"	"1"	15	62934	Unreliable
+	"Washington County, NY"	"36115"	"2013"	"2013"	"Unintentional"	"1"	23	63093	36.5
+	"Washington County, NY"	"36115"	"2013"	"2013"	"Suicide"	"2"	11	63093	Unreliable
+	"Washington County, NY"	"36115"	"2014"	"2014"	"Unintentional"	"1"	30	62372	48.1
+	"Washington County, NY"	"36115"	"2014"	"2014"	"Suicide"	"2"	11	62372	Unreliable
+	"Washington County, NY"	"36115"	"2015"	"2015"	"Unintentional"	"1"	22	62230	35.4
+	"Washington County, NY"	"36115"	"2016"	"2016"	"Unintentional"	"1"	31	61800	50.2
+	"Washington County, NY"	"36115"	"2017"	"2017"	"Unintentional"	"1"	21	61620	34.1
+	"Washington County, NY"	"36115"	"2018"	"2018"	"Unintentional"	"1"	25	61197	40.9
+	"Wayne County, NY"	"36117"	"1999"	"1999"	"Unintentional"	"1"	23	93790	24.5
+	"Wayne County, NY"	"36117"	"2000"	"2000"	"Unintentional"	"1"	28	93765	29.9
+	"Wayne County, NY"	"36117"	"2000"	"2000"	"Suicide"	"2"	11	93765	Unreliable
+	"Wayne County, NY"	"36117"	"2001"	"2001"	"Unintentional"	"1"	35	93794	37.3
+	"Wayne County, NY"	"36117"	"2001"	"2001"	"Suicide"	"2"	12	93794	Unreliable
+	"Wayne County, NY"	"36117"	"2002"	"2002"	"Unintentional"	"1"	31	93735	33.1
+	"Wayne County, NY"	"36117"	"2003"	"2003"	"Unintentional"	"1"	28	94001	29.8
+	"Wayne County, NY"	"36117"	"2004"	"2004"	"Unintentional"	"1"	30	93860	32.0
+	"Wayne County, NY"	"36117"	"2005"	"2005"	"Unintentional"	"1"	26	93727	27.7
+	"Wayne County, NY"	"36117"	"2005"	"2005"	"Suicide"	"2"	10	93727	Unreliable
+	"Wayne County, NY"	"36117"	"2006"	"2006"	"Unintentional"	"1"	33	93595	35.3
+	"Wayne County, NY"	"36117"	"2007"	"2007"	"Unintentional"	"1"	36	93539	38.5
+	"Wayne County, NY"	"36117"	"2007"	"2007"	"Suicide"	"2"	11	93539	Unreliable
+	"Wayne County, NY"	"36117"	"2008"	"2008"	"Unintentional"	"1"	36	93739	38.4
+	"Wayne County, NY"	"36117"	"2008"	"2008"	"Suicide"	"2"	11	93739	Unreliable
+	"Wayne County, NY"	"36117"	"2009"	"2009"	"Unintentional"	"1"	35	93643	37.4
+	"Wayne County, NY"	"36117"	"2009"	"2009"	"Suicide"	"2"	12	93643	Unreliable
+	"Wayne County, NY"	"36117"	"2010"	"2010"	"Unintentional"	"1"	27	93772	28.8
+	"Wayne County, NY"	"36117"	"2010"	"2010"	"Suicide"	"2"	12	93772	Unreliable
+	"Wayne County, NY"	"36117"	"2011"	"2011"	"Unintentional"	"1"	44	93436	47.1
+	"Wayne County, NY"	"36117"	"2012"	"2012"	"Unintentional"	"1"	37	92962	39.8
+	"Wayne County, NY"	"36117"	"2012"	"2012"	"Suicide"	"2"	12	92962	Unreliable
+	"Wayne County, NY"	"36117"	"2013"	"2013"	"Unintentional"	"1"	38	92473	41.1
+	"Wayne County, NY"	"36117"	"2013"	"2013"	"Suicide"	"2"	11	92473	Unreliable
+	"Wayne County, NY"	"36117"	"2014"	"2014"	"Unintentional"	"1"	36	92051	39.1
+	"Wayne County, NY"	"36117"	"2015"	"2015"	"Unintentional"	"1"	37	91446	40.5
+	"Wayne County, NY"	"36117"	"2015"	"2015"	"Suicide"	"2"	11	91446	Unreliable
+	"Wayne County, NY"	"36117"	"2016"	"2016"	"Unintentional"	"1"	42	90798	46.3
+	"Wayne County, NY"	"36117"	"2016"	"2016"	"Suicide"	"2"	10	90798	Unreliable
+	"Wayne County, NY"	"36117"	"2017"	"2017"	"Unintentional"	"1"	39	90670	43.0
+	"Wayne County, NY"	"36117"	"2017"	"2017"	"Suicide"	"2"	13	90670	Unreliable
+	"Wayne County, NY"	"36117"	"2018"	"2018"	"Unintentional"	"1"	68	90064	75.5
+	"Westchester County, NY"	"36119"	"1999"	"1999"	"Unintentional"	"1"	201	918532	21.9
+	"Westchester County, NY"	"36119"	"1999"	"1999"	"Suicide"	"2"	36	918532	3.9
+	"Westchester County, NY"	"36119"	"1999"	"1999"	"Homicide"	"3"	19	918532	Unreliable
+	"Westchester County, NY"	"36119"	"2000"	"2000"	"Unintentional"	"1"	172	923459	18.6
+	"Westchester County, NY"	"36119"	"2000"	"2000"	"Suicide"	"2"	28	923459	3.0
+	"Westchester County, NY"	"36119"	"2000"	"2000"	"Homicide"	"3"	31	923459	3.4
+	"Westchester County, NY"	"36119"	"2001"	"2001"	"Unintentional"	"1"	205	931577	22.0
+	"Westchester County, NY"	"36119"	"2001"	"2001"	"Suicide"	"2"	55	931577	5.9
+	"Westchester County, NY"	"36119"	"2001"	"2001"	"Homicide"	"3"	22	931577	2.4
+	"Westchester County, NY"	"36119"	"2002"	"2002"	"Unintentional"	"1"	212	935219	22.7
+	"Westchester County, NY"	"36119"	"2002"	"2002"	"Suicide"	"2"	45	935219	4.8
+	"Westchester County, NY"	"36119"	"2002"	"2002"	"Homicide"	"3"	31	935219	3.3
+	"Westchester County, NY"	"36119"	"2003"	"2003"	"Unintentional"	"1"	209	935799	22.3
+	"Westchester County, NY"	"36119"	"2003"	"2003"	"Suicide"	"2"	36	935799	3.8
+	"Westchester County, NY"	"36119"	"2003"	"2003"	"Homicide"	"3"	33	935799	3.5
+	"Westchester County, NY"	"36119"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	10	935799	Unreliable
+	"Westchester County, NY"	"36119"	"2004"	"2004"	"Unintentional"	"1"	192	935457	20.5
+	"Westchester County, NY"	"36119"	"2004"	"2004"	"Suicide"	"2"	37	935457	4.0
+	"Westchester County, NY"	"36119"	"2004"	"2004"	"Homicide"	"3"	31	935457	3.3
+	"Westchester County, NY"	"36119"	"2005"	"2005"	"Unintentional"	"1"	164	933401	17.6
+	"Westchester County, NY"	"36119"	"2005"	"2005"	"Suicide"	"2"	39	933401	4.2
+	"Westchester County, NY"	"36119"	"2005"	"2005"	"Homicide"	"3"	29	933401	3.1
+	"Westchester County, NY"	"36119"	"2006"	"2006"	"Unintentional"	"1"	207	931426	22.2
+	"Westchester County, NY"	"36119"	"2006"	"2006"	"Suicide"	"2"	50	931426	5.4
+	"Westchester County, NY"	"36119"	"2006"	"2006"	"Homicide"	"3"	28	931426	3.0
+	"Westchester County, NY"	"36119"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	10	931426	Unreliable
+	"Westchester County, NY"	"36119"	"2007"	"2007"	"Unintentional"	"1"	215	933414	23.0
+	"Westchester County, NY"	"36119"	"2007"	"2007"	"Suicide"	"2"	51	933414	5.5
+	"Westchester County, NY"	"36119"	"2007"	"2007"	"Homicide"	"3"	23	933414	2.5
+	"Westchester County, NY"	"36119"	"2007"	"2007"	"Undetermined "	"4"	10	933414	Unreliable
+	"Westchester County, NY"	"36119"	"2008"	"2008"	"Unintentional"	"1"	215	937449	22.9
+	"Westchester County, NY"	"36119"	"2008"	"2008"	"Suicide"	"2"	61	937449	6.5
+	"Westchester County, NY"	"36119"	"2008"	"2008"	"Homicide"	"3"	30	937449	3.2
+	"Westchester County, NY"	"36119"	"2008"	"2008"	"Undetermined "	"4"	10	937449	Unreliable
+	"Westchester County, NY"	"36119"	"2009"	"2009"	"Unintentional"	"1"	209	944201	22.1
+	"Westchester County, NY"	"36119"	"2009"	"2009"	"Suicide"	"2"	61	944201	6.5
+	"Westchester County, NY"	"36119"	"2009"	"2009"	"Homicide"	"3"	24	944201	2.5
+	"Westchester County, NY"	"36119"	"2009"	"2009"	"Undetermined "	"4"	10	944201	Unreliable
+	"Westchester County, NY"	"36119"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	15	944201	Unreliable
+	"Westchester County, NY"	"36119"	"2010"	"2010"	"Unintentional"	"1"	189	949113	19.9
+	"Westchester County, NY"	"36119"	"2010"	"2010"	"Suicide"	"2"	75	949113	7.9
+	"Westchester County, NY"	"36119"	"2010"	"2010"	"Homicide"	"3"	20	949113	2.1
+	"Westchester County, NY"	"36119"	"2011"	"2011"	"Unintentional"	"1"	228	955899	23.9
+	"Westchester County, NY"	"36119"	"2011"	"2011"	"Suicide"	"2"	62	955899	6.5
+	"Westchester County, NY"	"36119"	"2011"	"2011"	"Homicide"	"3"	29	955899	3.0
+	"Westchester County, NY"	"36119"	"2011"	"2011"	"Undetermined "	"4"	11	955899	Unreliable
+	"Westchester County, NY"	"36119"	"2012"	"2012"	"Unintentional"	"1"	248	961670	25.8
+	"Westchester County, NY"	"36119"	"2012"	"2012"	"Suicide"	"2"	81	961670	8.4
+	"Westchester County, NY"	"36119"	"2012"	"2012"	"Homicide"	"3"	21	961670	2.2
+	"Westchester County, NY"	"36119"	"2013"	"2013"	"Unintentional"	"1"	291	968802	30.0
+	"Westchester County, NY"	"36119"	"2013"	"2013"	"Suicide"	"2"	69	968802	7.1
+	"Westchester County, NY"	"36119"	"2013"	"2013"	"Homicide"	"3"	12	968802	Unreliable
+	"Westchester County, NY"	"36119"	"2014"	"2014"	"Unintentional"	"1"	261	972634	26.8
+	"Westchester County, NY"	"36119"	"2014"	"2014"	"Suicide"	"2"	68	972634	7.0
+	"Westchester County, NY"	"36119"	"2014"	"2014"	"Homicide"	"3"	19	972634	Unreliable
+	"Westchester County, NY"	"36119"	"2015"	"2015"	"Unintentional"	"1"	296	976396	30.3
+	"Westchester County, NY"	"36119"	"2015"	"2015"	"Suicide"	"2"	61	976396	6.2
+	"Westchester County, NY"	"36119"	"2015"	"2015"	"Homicide"	"3"	21	976396	2.2
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"Unintentional"	"1"	322	974542	33.0
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"Suicide"	"2"	69	974542	7.1
+	"Westchester County, NY"	"36119"	"2016"	"2016"	"Homicide"	"3"	23	974542	2.4
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"Unintentional"	"1"	319	980244	32.5
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"Suicide"	"2"	76	980244	7.8
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"Homicide"	"3"	25	980244	2.6
+	"Westchester County, NY"	"36119"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	980244	Unreliable
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"Unintentional"	"1"	314	967612	32.5
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"Suicide"	"2"	76	967612	7.9
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"Homicide"	"3"	15	967612	Unreliable
+	"Westchester County, NY"	"36119"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	14	967612	Unreliable
+	"Wyoming County, NY"	"36121"	"1999"	"1999"	"Unintentional"	"1"	15	43584	Unreliable
+	"Wyoming County, NY"	"36121"	"2000"	"2000"	"Unintentional"	"1"	17	43424	Unreliable
+	"Wyoming County, NY"	"36121"	"2001"	"2001"	"Unintentional"	"1"	12	43061	Unreliable
+	"Wyoming County, NY"	"36121"	"2002"	"2002"	"Unintentional"	"1"	13	43007	Unreliable
+	"Wyoming County, NY"	"36121"	"2003"	"2003"	"Unintentional"	"1"	16	42955	Unreliable
+	"Wyoming County, NY"	"36121"	"2004"	"2004"	"Unintentional"	"1"	16	42852	Unreliable
+	"Wyoming County, NY"	"36121"	"2005"	"2005"	"Unintentional"	"1"	14	42780	Unreliable
+	"Wyoming County, NY"	"36121"	"2006"	"2006"	"Unintentional"	"1"	10	42673	Unreliable
+	"Wyoming County, NY"	"36121"	"2007"	"2007"	"Unintentional"	"1"	20	42515	47.0
+	"Wyoming County, NY"	"36121"	"2008"	"2008"	"Unintentional"	"1"	10	42281	Unreliable
+	"Wyoming County, NY"	"36121"	"2010"	"2010"	"Unintentional"	"1"	17	42155	Unreliable
+	"Wyoming County, NY"	"36121"	"2010"	"2010"	"Suicide"	"2"	13	42155	Unreliable
+	"Wyoming County, NY"	"36121"	"2011"	"2011"	"Unintentional"	"1"	22	41944	52.5
+	"Wyoming County, NY"	"36121"	"2012"	"2012"	"Unintentional"	"1"	11	41892	Unreliable
+	"Wyoming County, NY"	"36121"	"2013"	"2013"	"Unintentional"	"1"	14	41531	Unreliable
+	"Wyoming County, NY"	"36121"	"2014"	"2014"	"Unintentional"	"1"	20	41188	48.6
+	"Wyoming County, NY"	"36121"	"2015"	"2015"	"Unintentional"	"1"	24	41013	58.5
+	"Wyoming County, NY"	"36121"	"2016"	"2016"	"Unintentional"	"1"	19	40791	Unreliable
+	"Wyoming County, NY"	"36121"	"2017"	"2017"	"Unintentional"	"1"	14	40493	Unreliable
+	"Wyoming County, NY"	"36121"	"2017"	"2017"	"Suicide"	"2"	10	40493	Unreliable
+	"Wyoming County, NY"	"36121"	"2018"	"2018"	"Unintentional"	"1"	19	40085	Unreliable
+	"Yates County, NY"	"36123"	"1999"	"1999"	"Unintentional"	"1"	19	24613	Unreliable
+	"Yates County, NY"	"36123"	"2002"	"2002"	"Unintentional"	"1"	10	24688	Unreliable
+	"Yates County, NY"	"36123"	"2003"	"2003"	"Unintentional"	"1"	13	24898	Unreliable
+	"Yates County, NY"	"36123"	"2005"	"2005"	"Unintentional"	"1"	12	25129	Unreliable
+	"Yates County, NY"	"36123"	"2007"	"2007"	"Unintentional"	"1"	12	25234	Unreliable
+	"Yates County, NY"	"36123"	"2011"	"2011"	"Unintentional"	"1"	10	25454	Unreliable
+	"Yates County, NY"	"36123"	"2012"	"2012"	"Unintentional"	"1"	15	25344	Unreliable
+	"Yates County, NY"	"36123"	"2013"	"2013"	"Unintentional"	"1"	11	25156	Unreliable
+	"Yates County, NY"	"36123"	"2016"	"2016"	"Unintentional"	"1"	13	24923	Unreliable
+	"Yates County, NY"	"36123"	"2017"	"2017"	"Unintentional"	"1"	15	24955	Unreliable
+	"Yates County, NY"	"36123"	"2018"	"2018"	"Unintentional"	"1"	18	24841	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: New_York"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: New York (36)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:56:41 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:56:41 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

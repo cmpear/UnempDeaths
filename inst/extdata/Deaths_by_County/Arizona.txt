@@ -1,0 +1,761 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"Unintentional"	"1"	70	69801	100.3
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"Suicide"	"2"	16	69801	Unreliable
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"Homicide"	"3"	10	69801	Unreliable
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"Unintentional"	"1"	82	69423	118.1
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"Suicide"	"2"	14	69423	Unreliable
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"Unintentional"	"1"	84	67863	123.8
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"Suicide"	"2"	11	67863	Unreliable
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"Homicide"	"3"	10	67863	Unreliable
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"Unintentional"	"1"	79	67319	117.4
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"Suicide"	"2"	13	67319	Unreliable
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"Homicide"	"3"	18	67319	Unreliable
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"Unintentional"	"1"	85	68072	124.9
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"Suicide"	"2"	18	68072	Unreliable
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"Unintentional"	"1"	80	68161	117.4
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"Suicide"	"2"	18	68161	Unreliable
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"Unintentional"	"1"	89	68521	129.9
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"Suicide"	"2"	14	68521	Unreliable
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"Homicide"	"3"	10	68521	Unreliable
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"Unintentional"	"1"	86	69390	123.9
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"Suicide"	"2"	16	69390	Unreliable
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"Homicide"	"3"	12	69390	Unreliable
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"Unintentional"	"1"	104	69602	149.4
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"Suicide"	"2"	10	69602	Unreliable
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"Unintentional"	"1"	85	69883	121.6
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"Suicide"	"2"	22	69883	31.5
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"Homicide"	"3"	10	69883	Unreliable
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"Unintentional"	"1"	83	71008	116.9
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"Suicide"	"2"	16	71008	Unreliable
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"Unintentional"	"1"	79	71518	110.5
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"Suicide"	"2"	33	71518	46.1
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"Homicide"	"3"	10	71518	Unreliable
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"Unintentional"	"1"	96	72401	132.6
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"Suicide"	"2"	27	72401	37.3
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"Unintentional"	"1"	86	73195	117.5
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"Suicide"	"2"	20	73195	27.3
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"Homicide"	"3"	10	73195	Unreliable
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"Unintentional"	"1"	88	71934	122.3
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"Suicide"	"2"	28	71934	38.9
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"Homicide"	"3"	12	71934	Unreliable
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"Unintentional"	"1"	94	71828	130.9
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"Suicide"	"2"	25	71828	34.8
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"Unintentional"	"1"	121	71474	169.3
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"Suicide"	"2"	19	71474	Unreliable
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"Homicide"	"3"	18	71474	Unreliable
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"Unintentional"	"1"	107	73112	146.4
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"Suicide"	"2"	20	73112	27.4
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"Homicide"	"3"	10	73112	Unreliable
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"Unintentional"	"1"	115	71606	160.6
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"Suicide"	"2"	27	71606	37.7
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"Homicide"	"3"	12	71606	Unreliable
+	"Apache County, AZ"	"04001"	"2018"	"2018"	"Unintentional"	"1"	101	71818	140.6
+	"Apache County, AZ"	"04001"	"2018"	"2018"	"Suicide"	"2"	29	71818	40.4
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"Unintentional"	"1"	57	116530	48.9
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"Suicide"	"2"	20	116530	17.2
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"Unintentional"	"1"	64	117755	54.4
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"Suicide"	"2"	22	117755	18.7
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"Unintentional"	"1"	68	118798	57.2
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"Suicide"	"2"	25	118798	21.0
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"Homicide"	"3"	10	118798	Unreliable
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"Unintentional"	"1"	67	119847	55.9
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"Suicide"	"2"	20	119847	16.7
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"Unintentional"	"1"	66	120638	54.7
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"Suicide"	"2"	22	120638	18.2
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"Unintentional"	"1"	66	123234	53.6
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"Suicide"	"2"	28	123234	22.7
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"Unintentional"	"1"	66	125786	52.5
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"Suicide"	"2"	29	125786	23.1
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"Unintentional"	"1"	83	127241	65.2
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"Suicide"	"2"	28	127241	22.0
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"Unintentional"	"1"	57	128206	44.5
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"Suicide"	"2"	26	128206	20.3
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"Unintentional"	"1"	66	129023	51.2
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"Suicide"	"2"	21	129023	16.3
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"Unintentional"	"1"	69	130081	53.0
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"Suicide"	"2"	27	130081	20.8
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"Unintentional"	"1"	68	131346	51.8
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"Suicide"	"2"	32	131346	24.4
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"Unintentional"	"1"	54	133289	40.5
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"Suicide"	"2"	27	133289	20.3
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"Unintentional"	"1"	59	132088	44.7
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"Suicide"	"2"	30	132088	22.7
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"Unintentional"	"1"	57	129473	44.0
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"Suicide"	"2"	24	129473	18.5
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"Unintentional"	"1"	61	127448	47.9
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"Suicide"	"2"	40	127448	31.4
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"Unintentional"	"1"	76	126427	60.1
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"Suicide"	"2"	27	126427	21.4
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"Unintentional"	"1"	74	125770	58.8
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"Suicide"	"2"	30	125770	23.9
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"Unintentional"	"1"	83	124756	66.5
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"Suicide"	"2"	37	124756	29.7
+	"Cochise County, AZ"	"04003"	"2018"	"2018"	"Unintentional"	"1"	85	126770	67.1
+	"Cochise County, AZ"	"04003"	"2018"	"2018"	"Suicide"	"2"	22	126770	17.4
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"Unintentional"	"1"	60	115307	52.0
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"Suicide"	"2"	21	115307	18.2
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"Homicide"	"3"	11	115307	Unreliable
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"Unintentional"	"1"	60	116320	51.6
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"Suicide"	"2"	20	116320	17.2
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"Unintentional"	"1"	64	118283	54.1
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"Suicide"	"2"	25	118283	21.1
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"Unintentional"	"1"	70	121308	57.7
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"Suicide"	"2"	19	121308	Unreliable
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"Homicide"	"3"	10	121308	Unreliable
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"Unintentional"	"1"	75	122882	61.0
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"Suicide"	"2"	19	122882	Unreliable
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"Unintentional"	"1"	65	125117	52.0
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"Suicide"	"2"	25	125117	20.0
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"Homicide"	"3"	14	125117	Unreliable
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"Unintentional"	"1"	80	127025	63.0
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"Suicide"	"2"	31	127025	24.4
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"Unintentional"	"1"	74	128695	57.5
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"Suicide"	"2"	27	128695	21.0
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"Unintentional"	"1"	76	130442	58.3
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"Suicide"	"2"	21	130442	16.1
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"Homicide"	"3"	12	130442	Unreliable
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"Unintentional"	"1"	83	131853	62.9
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"Suicide"	"2"	17	131853	Unreliable
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"Unintentional"	"1"	83	133477	62.2
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"Suicide"	"2"	33	133477	24.7
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"Undetermined "	"4"	10	133477	Unreliable
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"Unintentional"	"1"	84	134421	62.5
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"Suicide"	"2"	28	134421	20.8
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"Unintentional"	"1"	89	134511	66.2
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"Suicide"	"2"	31	134511	23.0
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"Homicide"	"3"	11	134511	Unreliable
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"Unintentional"	"1"	77	136011	56.6
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"Suicide"	"2"	24	136011	17.6
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"Homicide"	"3"	14	136011	Unreliable
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"Unintentional"	"1"	99	136539	72.5
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"Suicide"	"2"	29	136539	21.2
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"Unintentional"	"1"	86	137682	62.5
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"Suicide"	"2"	29	137682	21.1
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"Unintentional"	"1"	86	139097	61.8
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"Suicide"	"2"	33	139097	23.7
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"Unintentional"	"1"	92	140908	65.3
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"Suicide"	"2"	25	140908	17.7
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"Unintentional"	"1"	102	140776	72.5
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"Suicide"	"2"	40	140776	28.4
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"Homicide"	"3"	13	140776	Unreliable
+	"Coconino County, AZ"	"04005"	"2018"	"2018"	"Unintentional"	"1"	102	142854	71.4
+	"Coconino County, AZ"	"04005"	"2018"	"2018"	"Suicide"	"2"	47	142854	32.9
+	"Coconino County, AZ"	"04005"	"2018"	"2018"	"Homicide"	"3"	14	142854	Unreliable
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"Unintentional"	"1"	35	50990	68.6
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"Suicide"	"2"	13	50990	Unreliable
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"Unintentional"	"1"	38	51335	74.0
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"Unintentional"	"1"	29	51274	56.6
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"Unintentional"	"1"	33	51478	64.1
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"Suicide"	"2"	14	51478	Unreliable
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"Unintentional"	"1"	46	51337	89.6
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"Suicide"	"2"	11	51337	Unreliable
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"Unintentional"	"1"	47	51423	91.4
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"Suicide"	"2"	10	51423	Unreliable
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"Unintentional"	"1"	47	51655	91.0
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"Suicide"	"2"	16	51655	Unreliable
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"Homicide"	"3"	11	51655	Unreliable
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"Unintentional"	"1"	49	52541	93.3
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"Suicide"	"2"	15	52541	Unreliable
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"Unintentional"	"1"	49	53252	92.0
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"Suicide"	"2"	16	53252	Unreliable
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"Unintentional"	"1"	49	53437	91.7
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"Unintentional"	"1"	37	53561	69.1
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"Suicide"	"2"	13	53561	Unreliable
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"Unintentional"	"1"	39	53597	72.8
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"Unintentional"	"1"	33	53144	62.1
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"Suicide"	"2"	10	53144	Unreliable
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"Unintentional"	"1"	41	53144	77.1
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"Suicide"	"2"	16	53144	Unreliable
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"Unintentional"	"1"	49	53053	92.4
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"Suicide"	"2"	17	53053	Unreliable
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"Unintentional"	"1"	49	53119	92.2
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"Suicide"	"2"	18	53119	Unreliable
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"Unintentional"	"1"	54	53159	101.6
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"Suicide"	"2"	18	53159	Unreliable
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"Unintentional"	"1"	57	53556	106.4
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"Suicide"	"2"	14	53556	Unreliable
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"Unintentional"	"1"	58	53501	108.4
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"Suicide"	"2"	20	53501	37.4
+	"Gila County, AZ"	"04007"	"2018"	"2018"	"Unintentional"	"1"	48	53889	89.1
+	"Gila County, AZ"	"04007"	"2018"	"2018"	"Suicide"	"2"	33	53889	61.2
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"Unintentional"	"1"	22	33279	66.1
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"Unintentional"	"1"	15	33489	Unreliable
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"Unintentional"	"1"	12	33356	Unreliable
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"Unintentional"	"1"	14	33224	Unreliable
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"Unintentional"	"1"	22	32985	66.7
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"Unintentional"	"1"	23	32703	70.3
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"Unintentional"	"1"	24	32964	72.8
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"Unintentional"	"1"	20	33701	59.3
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"Unintentional"	"1"	23	35175	65.4
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"Unintentional"	"1"	22	36639	60.0
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"Unintentional"	"1"	16	37525	Unreliable
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"Unintentional"	"1"	16	37220	Unreliable
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"Unintentional"	"1"	18	37147	Unreliable
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"Suicide"	"2"	10	37147	Unreliable
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"Unintentional"	"1"	20	37416	53.5
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"Unintentional"	"1"	20	37482	53.4
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"Unintentional"	"1"	26	37957	68.5
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"Unintentional"	"1"	13	37666	Unreliable
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"Unintentional"	"1"	16	37599	Unreliable
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"Suicide"	"2"	12	37599	Unreliable
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"Unintentional"	"1"	24	37466	64.1
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"Suicide"	"2"	10	37466	Unreliable
+	"Graham County, AZ"	"04009"	"2018"	"2018"	"Unintentional"	"1"	19	38072	Unreliable
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"Unintentional"	"1"	14	19355	Unreliable
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"Unintentional"	"1"	20	19715	101.4
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"Unintentional"	"1"	16	19580	Unreliable
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"Unintentional"	"1"	23	19464	118.2
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"Unintentional"	"1"	20	19722	101.4
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"Unintentional"	"1"	19	19979	Unreliable
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"Suicide"	"2"	10	19979	Unreliable
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"Unintentional"	"1"	23	20379	112.9
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"Unintentional"	"1"	22	20573	106.9
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"Unintentional"	"1"	25	20647	121.1
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"Unintentional"	"1"	21	20555	102.2
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"Unintentional"	"1"	11	20514	Unreliable
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"Suicide"	"2"	10	20514	Unreliable
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"Unintentional"	"1"	15	20489	Unreliable
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"Unintentional"	"1"	17	20419	Unreliable
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"Unintentional"	"1"	15	20281	Unreliable
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"Unintentional"	"1"	15	20324	Unreliable
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"Unintentional"	"1"	21	20231	103.8
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"Unintentional"	"1"	16	20152	Unreliable
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"Unintentional"	"1"	30	20317	147.7
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"Unintentional"	"1"	17	20601	Unreliable
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"Suicide"	"2"	13	20601	Unreliable
+	"La Paz County, AZ"	"04012"	"2018"	"2018"	"Unintentional"	"1"	22	21098	104.3
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Unintentional"	"1"	1145	3004985	38.1
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Suicide"	"2"	385	3004985	12.8
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Homicide"	"3"	318	3004985	10.6
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Undetermined "	"4"	24	3004985	0.8
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	30	3004985	1.0
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"Unintentional"	"1"	1199	3072149	39.0
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"Suicide"	"2"	417	3072149	13.6
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"Homicide"	"3"	251	3072149	8.2
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"Undetermined "	"4"	24	3072149	0.8
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	33	3072149	1.1
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Unintentional"	"1"	1323	3175989	41.7
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Suicide"	"2"	394	3175989	12.4
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Homicide"	"3"	348	3175989	11.0
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Undetermined "	"4"	40	3175989	1.3
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	29	3175989	0.9
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Unintentional"	"1"	1330	3255388	40.9
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Suicide"	"2"	474	3255388	14.6
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Homicide"	"3"	315	3255388	9.7
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Undetermined "	"4"	56	3255388	1.7
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Legal Intervention / Operations of War"	"5"	10	3255388	Unreliable
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	33	3255388	1.0
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Unintentional"	"1"	1380	3328468	41.5
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Suicide"	"2"	465	3328468	14.0
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Homicide"	"3"	332	3328468	10.0
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Undetermined "	"4"	66	3328468	2.0
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	32	3328468	1.0
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Unintentional"	"1"	1482	3417860	43.4
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Suicide"	"2"	475	3417860	13.9
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Homicide"	"3"	320	3417860	9.4
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Undetermined "	"4"	51	3417860	1.5
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Legal Intervention / Operations of War"	"5"	13	3417860	Unreliable
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	22	3417860	0.6
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Unintentional"	"1"	1733	3538988	49.0
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Suicide"	"2"	503	3538988	14.2
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Homicide"	"3"	346	3538988	9.8
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Undetermined "	"4"	92	3538988	2.6
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	23	3538988	0.6
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Unintentional"	"1"	1871	3642884	51.4
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Suicide"	"2"	510	3642884	14.0
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Homicide"	"3"	369	3642884	10.1
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Undetermined "	"4"	85	3642884	2.3
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	36	3642884	1.0
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Unintentional"	"1"	1748	3711954	47.1
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Suicide"	"2"	568	3711954	15.3
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Homicide"	"3"	353	3711954	9.5
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Undetermined "	"4"	74	3711954	2.0
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	29	3711954	0.8
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Unintentional"	"1"	1667	3771061	44.2
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Suicide"	"2"	540	3771061	14.3
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Homicide"	"3"	291	3771061	7.7
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Undetermined "	"4"	58	3771061	1.5
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	24	3771061	0.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Unintentional"	"1"	1616	3803779	42.5
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Suicide"	"2"	524	3803779	13.8
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Homicide"	"3"	229	3803779	6.0
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Undetermined "	"4"	71	3803779	1.9
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	21	3803779	0.6
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Unintentional"	"1"	1660	3817117	43.5
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Suicide"	"2"	564	3817117	14.8
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Homicide"	"3"	238	3817117	6.2
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Undetermined "	"4"	89	3817117	2.3
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	31	3817117	0.8
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Unintentional"	"1"	1716	3880244	44.2
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Suicide"	"2"	621	3880244	16.0
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Homicide"	"3"	214	3880244	5.5
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Undetermined "	"4"	83	3880244	2.1
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	33	3880244	0.9
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Unintentional"	"1"	1574	3942169	39.9
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Suicide"	"2"	604	3942169	15.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Homicide"	"3"	224	3942169	5.7
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Undetermined "	"4"	131	3942169	3.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	29	3942169	0.7
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Unintentional"	"1"	1747	4009412	43.6
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Suicide"	"2"	629	4009412	15.7
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Homicide"	"3"	220	4009412	5.5
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Undetermined "	"4"	139	4009412	3.5
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	23	4009412	0.6
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Unintentional"	"1"	1824	4087191	44.6
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Suicide"	"2"	654	4087191	16.0
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Homicide"	"3"	206	4087191	5.0
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Undetermined "	"4"	105	4087191	2.6
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	22	4087191	0.5
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Unintentional"	"1"	1883	4167947	45.2
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Suicide"	"2"	673	4167947	16.1
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Homicide"	"3"	229	4167947	5.5
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Undetermined "	"4"	87	4167947	2.1
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	27	4167947	0.6
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Unintentional"	"1"	2252	4242997	53.1
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Suicide"	"2"	691	4242997	16.3
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Homicide"	"3"	262	4242997	6.2
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Undetermined "	"4"	88	4242997	2.1
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	22	4242997	0.5
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"Unintentional"	"1"	2368	4307033	55.0
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"Suicide"	"2"	678	4307033	15.7
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"Homicide"	"3"	265	4307033	6.2
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"Undetermined "	"4"	84	4307033	2.0
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	55	4307033	1.3
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Unintentional"	"1"	2496	4410824	56.6
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Suicide"	"2"	737	4410824	16.7
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Homicide"	"3"	247	4410824	5.6
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Undetermined "	"4"	70	4410824	1.6
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	15	4410824	Unreliable
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	57	4410824	1.3
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"Unintentional"	"1"	76	150351	50.5
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"Suicide"	"2"	33	150351	21.9
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"Homicide"	"3"	15	150351	Unreliable
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"Unintentional"	"1"	86	155032	55.5
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"Suicide"	"2"	56	155032	36.1
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"Unintentional"	"1"	97	160312	60.5
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"Suicide"	"2"	42	160312	26.2
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"Unintentional"	"1"	113	166155	68.0
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"Suicide"	"2"	52	166155	31.3
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"Unintentional"	"1"	138	172633	79.9
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"Suicide"	"2"	37	172633	21.4
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"Homicide"	"3"	14	172633	Unreliable
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"Unintentional"	"1"	101	180521	55.9
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"Suicide"	"2"	44	180521	24.4
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"Homicide"	"3"	14	180521	Unreliable
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"Undetermined "	"4"	14	180521	Unreliable
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"Unintentional"	"1"	116	188773	61.4
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"Suicide"	"2"	41	188773	21.7
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"Homicide"	"3"	17	188773	Unreliable
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"Undetermined "	"4"	16	188773	Unreliable
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"Unintentional"	"1"	128	196168	65.3
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"Suicide"	"2"	58	196168	29.6
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"Homicide"	"3"	15	196168	Unreliable
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"Unintentional"	"1"	101	199760	50.6
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"Suicide"	"2"	58	199760	29.0
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"Homicide"	"3"	18	199760	Unreliable
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"Unintentional"	"1"	116	200078	58.0
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"Suicide"	"2"	54	200078	27.0
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"Homicide"	"3"	12	200078	Unreliable
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"Unintentional"	"1"	111	199696	55.6
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"Suicide"	"2"	69	199696	34.6
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"Homicide"	"3"	13	199696	Unreliable
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"Unintentional"	"1"	139	200186	69.4
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"Suicide"	"2"	61	200186	30.5
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"Homicide"	"3"	13	200186	Unreliable
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"Unintentional"	"1"	135	202351	66.7
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"Suicide"	"2"	69	202351	34.1
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"Homicide"	"3"	11	202351	Unreliable
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"Unintentional"	"1"	141	203334	69.3
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"Suicide"	"2"	65	203334	32.0
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"Homicide"	"3"	14	203334	Unreliable
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"Unintentional"	"1"	159	203030	78.3
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"Suicide"	"2"	77	203030	37.9
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"Homicide"	"3"	12	203030	Unreliable
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"Unintentional"	"1"	134	203361	65.9
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"Suicide"	"2"	76	203361	37.4
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"Unintentional"	"1"	164	204737	80.1
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"Suicide"	"2"	74	204737	36.1
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"Unintentional"	"1"	161	205249	78.4
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"Suicide"	"2"	71	205249	34.6
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"Homicide"	"3"	18	205249	Unreliable
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"Unintentional"	"1"	147	207200	70.9
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"Suicide"	"2"	68	207200	32.8
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"Undetermined "	"4"	21	207200	10.1
+	"Mohave County, AZ"	"04015"	"2018"	"2018"	"Unintentional"	"1"	156	209550	74.4
+	"Mohave County, AZ"	"04015"	"2018"	"2018"	"Suicide"	"2"	78	209550	37.2
+	"Mohave County, AZ"	"04015"	"2018"	"2018"	"Undetermined "	"4"	19	209550	Unreliable
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"Unintentional"	"1"	90	96100	93.7
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"Suicide"	"2"	16	96100	Unreliable
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"Unintentional"	"1"	66	97470	67.7
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"Suicide"	"2"	17	97470	Unreliable
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"Unintentional"	"1"	103	97849	105.3
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"Suicide"	"2"	30	97849	30.7
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"Unintentional"	"1"	96	100123	95.9
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"Suicide"	"2"	26	100123	26.0
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"Homicide"	"3"	12	100123	Unreliable
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"Unintentional"	"1"	118	101529	116.2
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"Suicide"	"2"	31	101529	30.5
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"Homicide"	"3"	13	101529	Unreliable
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"Unintentional"	"1"	99	102774	96.3
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"Suicide"	"2"	21	102774	20.4
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"Homicide"	"3"	20	102774	19.5
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"Unintentional"	"1"	102	104184	97.9
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"Suicide"	"2"	24	104184	23.0
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"Homicide"	"3"	11	104184	Unreliable
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"Unintentional"	"1"	103	105624	97.5
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"Suicide"	"2"	30	105624	28.4
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"Homicide"	"3"	13	105624	Unreliable
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"Unintentional"	"1"	117	106927	109.4
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"Suicide"	"2"	20	106927	18.7
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"Homicide"	"3"	14	106927	Unreliable
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"Unintentional"	"1"	98	107626	91.1
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"Suicide"	"2"	14	107626	Unreliable
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"Unintentional"	"1"	95	107571	88.3
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"Suicide"	"2"	23	107571	21.4
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"Unintentional"	"1"	81	107449	75.4
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"Suicide"	"2"	33	107449	30.7
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"Homicide"	"3"	17	107449	Unreliable
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"Unintentional"	"1"	100	107398	93.1
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"Suicide"	"2"	33	107398	30.7
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"Homicide"	"3"	13	107398	Unreliable
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"Unintentional"	"1"	105	107094	98.0
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"Suicide"	"2"	36	107094	33.6
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"Homicide"	"3"	13	107094	Unreliable
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"Unintentional"	"1"	109	107322	101.6
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"Suicide"	"2"	24	107322	22.4
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"Homicide"	"3"	14	107322	Unreliable
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"Unintentional"	"1"	111	108101	102.7
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"Suicide"	"2"	23	108101	21.3
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"Unintentional"	"1"	95	108277	87.7
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"Suicide"	"2"	29	108277	26.8
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"Homicide"	"3"	11	108277	Unreliable
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"Unintentional"	"1"	107	110026	97.2
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"Suicide"	"2"	36	110026	32.7
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"Homicide"	"3"	11	110026	Unreliable
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"Undetermined "	"4"	15	110026	Unreliable
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"Unintentional"	"1"	116	108956	106.5
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"Suicide"	"2"	44	108956	40.4
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"Homicide"	"3"	16	108956	Unreliable
+	"Navajo County, AZ"	"04017"	"2018"	"2018"	"Unintentional"	"1"	106	110445	96.0
+	"Navajo County, AZ"	"04017"	"2018"	"2018"	"Suicide"	"2"	51	110445	46.2
+	"Navajo County, AZ"	"04017"	"2018"	"2018"	"Homicide"	"3"	11	110445	Unreliable
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"Unintentional"	"1"	380	828905	45.8
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"Suicide"	"2"	156	828905	18.8
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"Homicide"	"3"	65	828905	7.8
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"Undetermined "	"4"	16	828905	Unreliable
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"Unintentional"	"1"	435	843746	51.6
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"Suicide"	"2"	131	843746	15.5
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"Homicide"	"3"	88	843746	10.4
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"Undetermined "	"4"	19	843746	Unreliable
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Unintentional"	"1"	406	859280	47.2
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Suicide"	"2"	144	859280	16.8
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Homicide"	"3"	55	859280	6.4
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Undetermined "	"4"	21	859280	2.4
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	859280	Unreliable
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"Unintentional"	"1"	446	874267	51.0
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"Suicide"	"2"	150	874267	17.2
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"Homicide"	"3"	96	874267	11.0
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"Undetermined "	"4"	18	874267	Unreliable
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"Unintentional"	"1"	448	885893	50.6
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"Suicide"	"2"	134	885893	15.1
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"Homicide"	"3"	77	885893	8.7
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"Undetermined "	"4"	17	885893	Unreliable
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Unintentional"	"1"	452	901342	50.1
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Suicide"	"2"	133	901342	14.8
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Homicide"	"3"	88	901342	9.8
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Undetermined "	"4"	16	901342	Unreliable
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	16	901342	Unreliable
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"Unintentional"	"1"	516	920298	56.1
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"Suicide"	"2"	156	920298	17.0
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"Homicide"	"3"	74	920298	8.0
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"Undetermined "	"4"	25	920298	2.7
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"Unintentional"	"1"	533	940930	56.6
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"Suicide"	"2"	167	940930	17.7
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"Homicide"	"3"	79	940930	8.4
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"Undetermined "	"4"	18	940930	Unreliable
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"Unintentional"	"1"	463	955869	48.4
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"Suicide"	"2"	147	955869	15.4
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"Homicide"	"3"	76	955869	8.0
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"Undetermined "	"4"	20	955869	2.1
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"Unintentional"	"1"	416	967778	43.0
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"Suicide"	"2"	146	967778	15.1
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"Homicide"	"3"	101	967778	10.4
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"Undetermined "	"4"	13	967778	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Unintentional"	"1"	454	975580	46.5
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Suicide"	"2"	171	975580	17.5
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Homicide"	"3"	70	975580	7.2
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Undetermined "	"4"	10	975580	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	11	975580	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Unintentional"	"1"	463	980263	47.2
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Suicide"	"2"	177	980263	18.1
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Homicide"	"3"	80	980263	8.2
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Undetermined "	"4"	32	980263	3.3
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"Unintentional"	"1"	452	989569	45.7
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"Suicide"	"2"	178	989569	18.0
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"Homicide"	"3"	79	989569	8.0
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"Undetermined "	"4"	17	989569	Unreliable
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"Unintentional"	"1"	478	992394	48.2
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"Suicide"	"2"	198	992394	20.0
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"Homicide"	"3"	55	992394	5.5
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"Undetermined "	"4"	20	992394	2.0
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"Unintentional"	"1"	563	996554	56.5
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"Suicide"	"2"	184	996554	18.5
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"Homicide"	"3"	72	996554	7.2
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"Undetermined "	"4"	11	996554	Unreliable
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	13	996554	Unreliable
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"Unintentional"	"1"	525	1004516	52.3
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"Suicide"	"2"	184	1004516	18.3
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"Homicide"	"3"	47	1004516	4.7
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"Undetermined "	"4"	26	1004516	2.6
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	1004516	Unreliable
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"Unintentional"	"1"	559	1010025	55.3
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"Suicide"	"2"	202	1010025	20.0
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"Homicide"	"3"	49	1010025	4.9
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"Undetermined "	"4"	14	1010025	Unreliable
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"Unintentional"	"1"	651	1016206	64.1
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"Suicide"	"2"	184	1016206	18.1
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"Homicide"	"3"	58	1016206	5.7
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"Undetermined "	"4"	18	1016206	Unreliable
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"Unintentional"	"1"	646	1022769	63.2
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"Suicide"	"2"	218	1022769	21.3
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"Homicide"	"3"	76	1022769	7.4
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"Undetermined "	"4"	14	1022769	Unreliable
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	13	1022769	Unreliable
+	"Pima County, AZ"	"04019"	"2018"	"2018"	"Unintentional"	"1"	656	1039073	63.1
+	"Pima County, AZ"	"04019"	"2018"	"2018"	"Suicide"	"2"	212	1039073	20.4
+	"Pima County, AZ"	"04019"	"2018"	"2018"	"Homicide"	"3"	75	1039073	7.2
+	"Pima County, AZ"	"04019"	"2018"	"2018"	"Undetermined "	"4"	17	1039073	Unreliable
+	"Pima County, AZ"	"04019"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	23	1039073	2.2
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"Unintentional"	"1"	95	173364	54.8
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"Suicide"	"2"	26	173364	15.0
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"Homicide"	"3"	14	173364	Unreliable
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"Unintentional"	"1"	104	179727	57.9
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"Suicide"	"2"	25	179727	13.9
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"Homicide"	"3"	12	179727	Unreliable
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"Unintentional"	"1"	89	187747	47.4
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"Suicide"	"2"	29	187747	15.4
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"Homicide"	"3"	18	187747	Unreliable
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"Unintentional"	"1"	100	197082	50.7
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"Suicide"	"2"	34	197082	17.3
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"Homicide"	"3"	17	197082	Unreliable
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"Unintentional"	"1"	124	207920	59.6
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"Suicide"	"2"	39	207920	18.8
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"Homicide"	"3"	14	207920	Unreliable
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"Unintentional"	"1"	105	219472	47.8
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"Suicide"	"2"	41	219472	18.7
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"Homicide"	"3"	19	219472	Unreliable
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"Unintentional"	"1"	124	235708	52.6
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"Suicide"	"2"	36	235708	15.3
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"Homicide"	"3"	28	235708	11.9
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"Undetermined "	"4"	12	235708	Unreliable
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"Unintentional"	"1"	154	271328	56.8
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"Suicide"	"2"	46	271328	17.0
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"Homicide"	"3"	19	271328	Unreliable
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"Unintentional"	"1"	156	306174	51.0
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"Suicide"	"2"	44	306174	14.4
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"Homicide"	"3"	18	306174	Unreliable
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"Unintentional"	"1"	119	335311	35.5
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"Suicide"	"2"	46	335311	13.7
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"Homicide"	"3"	15	335311	Unreliable
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"Unintentional"	"1"	134	349830	38.3
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"Suicide"	"2"	61	349830	17.4
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"Homicide"	"3"	25	349830	7.1
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"Unintentional"	"1"	154	375770	41.0
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"Suicide"	"2"	71	375770	18.9
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"Homicide"	"3"	18	375770	Unreliable
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"Unintentional"	"1"	155	382992	40.5
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"Suicide"	"2"	55	382992	14.4
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"Homicide"	"3"	21	382992	5.5
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"Unintentional"	"1"	176	387365	45.4
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"Suicide"	"2"	54	387365	13.9
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"Homicide"	"3"	26	387365	6.7
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"Unintentional"	"1"	147	389350	37.8
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"Suicide"	"2"	53	389350	13.6
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"Homicide"	"3"	21	389350	5.4
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"Unintentional"	"1"	119	401918	29.6
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"Suicide"	"2"	65	401918	16.2
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"Homicide"	"3"	20	401918	5.0
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"Unintentional"	"1"	195	406584	48.0
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"Suicide"	"2"	71	406584	17.5
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"Homicide"	"3"	15	406584	Unreliable
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"Unintentional"	"1"	167	418540	39.9
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"Suicide"	"2"	68	418540	16.2
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"Homicide"	"3"	21	418540	5.0
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"Unintentional"	"1"	172	430237	40.0
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"Suicide"	"2"	66	430237	15.3
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"Homicide"	"3"	29	430237	6.7
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	430237	Unreliable
+	"Pinal County, AZ"	"04021"	"2018"	"2018"	"Unintentional"	"1"	195	447138	43.6
+	"Pinal County, AZ"	"04021"	"2018"	"2018"	"Suicide"	"2"	91	447138	20.4
+	"Pinal County, AZ"	"04021"	"2018"	"2018"	"Homicide"	"3"	22	447138	4.9
+	"Pinal County, AZ"	"04021"	"2018"	"2018"	"Undetermined "	"4"	13	447138	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"Unintentional"	"1"	14	37713	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"Unintentional"	"1"	11	39288	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"Unintentional"	"1"	14	40009	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"Unintentional"	"1"	18	41623	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"Unintentional"	"1"	15	42961	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"Unintentional"	"1"	22	44298	49.7
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"Unintentional"	"1"	12	45338	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"Unintentional"	"1"	16	46144	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"Unintentional"	"1"	17	47011	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"Unintentional"	"1"	15	47420	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"Unintentional"	"1"	11	47676	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"Unintentional"	"1"	23	47303	48.6
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"Unintentional"	"1"	15	46768	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"Unintentional"	"1"	10	46695	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"Unintentional"	"1"	19	46461	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"Unintentional"	"1"	21	45985	45.7
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"Unintentional"	"1"	18	46212	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2018"	"2018"	"Unintentional"	"1"	20	46511	43.0
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"Unintentional"	"1"	88	162943	54.0
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"Suicide"	"2"	47	162943	28.8
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"Homicide"	"3"	12	162943	Unreliable
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"Unintentional"	"1"	89	167517	53.1
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"Suicide"	"2"	52	167517	31.0
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"Unintentional"	"1"	104	172636	60.2
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"Suicide"	"2"	37	172636	21.4
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"Unintentional"	"1"	112	177362	63.1
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"Suicide"	"2"	52	177362	29.3
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"Homicide"	"3"	10	177362	Unreliable
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"Unintentional"	"1"	107	182090	58.8
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"Suicide"	"2"	45	182090	24.7
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"Unintentional"	"1"	150	187822	79.9
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"Suicide"	"2"	49	187822	26.1
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"Undetermined "	"4"	13	187822	Unreliable
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"Unintentional"	"1"	133	195424	68.1
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"Suicide"	"2"	61	195424	31.2
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"Unintentional"	"1"	127	204082	62.2
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"Suicide"	"2"	48	204082	23.5
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"Unintentional"	"1"	133	208773	63.7
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"Suicide"	"2"	66	208773	31.6
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"Unintentional"	"1"	130	211211	61.5
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"Suicide"	"2"	71	211211	33.6
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"Unintentional"	"1"	111	211172	52.6
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"Suicide"	"2"	74	211172	35.0
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"Unintentional"	"1"	129	211033	61.1
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"Suicide"	"2"	61	211033	28.9
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"Homicide"	"3"	10	211033	Unreliable
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"Unintentional"	"1"	143	211888	67.5
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"Suicide"	"2"	65	211888	30.7
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"Homicide"	"3"	15	211888	Unreliable
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"Unintentional"	"1"	144	212637	67.7
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"Suicide"	"2"	74	212637	34.8
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"Homicide"	"3"	10	212637	Unreliable
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"Undetermined "	"4"	15	212637	Unreliable
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"Unintentional"	"1"	196	215133	91.1
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"Suicide"	"2"	61	215133	28.4
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"Undetermined "	"4"	15	215133	Unreliable
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"Unintentional"	"1"	164	218844	74.9
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"Suicide"	"2"	78	218844	35.6
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"Undetermined "	"4"	20	218844	9.1
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"Unintentional"	"1"	168	222255	75.6
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"Suicide"	"2"	79	222255	35.5
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"Homicide"	"3"	12	222255	Unreliable
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"Undetermined "	"4"	18	222255	Unreliable
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"Unintentional"	"1"	162	225562	71.8
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"Suicide"	"2"	82	225562	36.4
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"Undetermined "	"4"	17	225562	Unreliable
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"Unintentional"	"1"	224	228168	98.2
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"Suicide"	"2"	79	228168	34.6
+	"Yavapai County, AZ"	"04025"	"2018"	"2018"	"Unintentional"	"1"	156	231993	67.2
+	"Yavapai County, AZ"	"04025"	"2018"	"2018"	"Suicide"	"2"	81	231993	34.9
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"Unintentional"	"1"	66	155665	42.4
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"Suicide"	"2"	16	155665	Unreliable
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"Unintentional"	"1"	57	160026	35.6
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"Suicide"	"2"	15	160026	Unreliable
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"Unintentional"	"1"	67	162873	41.1
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"Unintentional"	"1"	75	165398	45.3
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"Suicide"	"2"	17	165398	Unreliable
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"Unintentional"	"1"	57	168003	33.9
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"Suicide"	"2"	11	168003	Unreliable
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"Unintentional"	"1"	63	172824	36.5
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"Suicide"	"2"	19	172824	Unreliable
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"Unintentional"	"1"	79	178816	44.2
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"Suicide"	"2"	22	178816	12.3
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"Homicide"	"3"	17	178816	Unreliable
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"Unintentional"	"1"	75	183848	40.8
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"Suicide"	"2"	19	183848	Unreliable
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"Homicide"	"3"	10	183848	Unreliable
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"Unintentional"	"1"	96	187357	51.2
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"Suicide"	"2"	22	187357	11.7
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"Homicide"	"3"	10	187357	Unreliable
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"Unintentional"	"1"	62	191202	32.4
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"Suicide"	"2"	21	191202	11.0
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"Unintentional"	"1"	76	193714	39.2
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"Suicide"	"2"	24	193714	12.4
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"Unintentional"	"1"	69	195751	35.2
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"Suicide"	"2"	15	195751	Unreliable
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"Unintentional"	"1"	73	200870	36.3
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"Suicide"	"2"	23	200870	11.5
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"Homicide"	"3"	11	200870	Unreliable
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"Unintentional"	"1"	86	200022	43.0
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"Suicide"	"2"	20	200022	10.0
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"Unintentional"	"1"	81	201201	40.3
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"Suicide"	"2"	17	201201	Unreliable
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"Unintentional"	"1"	93	203247	45.8
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"Suicide"	"2"	32	203247	15.7
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"Unintentional"	"1"	83	204275	40.6
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"Suicide"	"2"	34	204275	16.6
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"Unintentional"	"1"	110	205631	53.5
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"Suicide"	"2"	26	205631	12.6
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"Homicide"	"3"	10	205631	Unreliable
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"Unintentional"	"1"	90	207534	43.4
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"Suicide"	"2"	22	207534	10.6
+	"Yuma County, AZ"	"04027"	"2018"	"2018"	"Unintentional"	"1"	86	212128	40.5
+	"Yuma County, AZ"	"04027"	"2018"	"2018"	"Suicide"	"2"	36	212128	17.0
+	"Yuma County, AZ"	"04027"	"2018"	"2018"	"Homicide"	"3"	13	212128	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Arizona"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Arizona (04)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:52:28 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:52:28 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

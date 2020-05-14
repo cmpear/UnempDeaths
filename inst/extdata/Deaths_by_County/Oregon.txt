@@ -1,0 +1,1003 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Baker County, OR"	"41001"	"1999"	"1999"	"Unintentional"	"1"	11	16755	Unreliable
+	"Baker County, OR"	"41001"	"2001"	"2001"	"Unintentional"	"1"	13	16618	Unreliable
+	"Baker County, OR"	"41001"	"2002"	"2002"	"Unintentional"	"1"	10	16376	Unreliable
+	"Baker County, OR"	"41001"	"2004"	"2004"	"Unintentional"	"1"	12	16272	Unreliable
+	"Baker County, OR"	"41001"	"2005"	"2005"	"Unintentional"	"1"	14	16086	Unreliable
+	"Baker County, OR"	"41001"	"2006"	"2006"	"Unintentional"	"1"	13	16094	Unreliable
+	"Baker County, OR"	"41001"	"2008"	"2008"	"Unintentional"	"1"	17	16195	Unreliable
+	"Baker County, OR"	"41001"	"2009"	"2009"	"Unintentional"	"1"	15	16225	Unreliable
+	"Baker County, OR"	"41001"	"2011"	"2011"	"Unintentional"	"1"	16	15984	Unreliable
+	"Baker County, OR"	"41001"	"2012"	"2012"	"Unintentional"	"1"	12	15909	Unreliable
+	"Baker County, OR"	"41001"	"2013"	"2013"	"Unintentional"	"1"	15	16018	Unreliable
+	"Baker County, OR"	"41001"	"2015"	"2015"	"Unintentional"	"1"	13	16005	Unreliable
+	"Baker County, OR"	"41001"	"2016"	"2016"	"Unintentional"	"1"	11	16059	Unreliable
+	"Baker County, OR"	"41001"	"2017"	"2017"	"Unintentional"	"1"	17	16054	Unreliable
+	"Baker County, OR"	"41001"	"2018"	"2018"	"Unintentional"	"1"	19	16006	Unreliable
+	"Benton County, OR"	"41003"	"1999"	"1999"	"Unintentional"	"1"	16	78254	Unreliable
+	"Benton County, OR"	"41003"	"2000"	"2000"	"Unintentional"	"1"	16	78153	Unreliable
+	"Benton County, OR"	"41003"	"2001"	"2001"	"Unintentional"	"1"	17	78491	Unreliable
+	"Benton County, OR"	"41003"	"2002"	"2002"	"Unintentional"	"1"	28	80203	34.9
+	"Benton County, OR"	"41003"	"2002"	"2002"	"Suicide"	"2"	13	80203	Unreliable
+	"Benton County, OR"	"41003"	"2003"	"2003"	"Unintentional"	"1"	26	80322	32.4
+	"Benton County, OR"	"41003"	"2004"	"2004"	"Unintentional"	"1"	24	80149	29.9
+	"Benton County, OR"	"41003"	"2005"	"2005"	"Unintentional"	"1"	21	80943	25.9
+	"Benton County, OR"	"41003"	"2005"	"2005"	"Suicide"	"2"	14	80943	Unreliable
+	"Benton County, OR"	"41003"	"2006"	"2006"	"Unintentional"	"1"	21	81957	25.6
+	"Benton County, OR"	"41003"	"2006"	"2006"	"Suicide"	"2"	10	81957	Unreliable
+	"Benton County, OR"	"41003"	"2007"	"2007"	"Unintentional"	"1"	25	83718	29.9
+	"Benton County, OR"	"41003"	"2007"	"2007"	"Suicide"	"2"	15	83718	Unreliable
+	"Benton County, OR"	"41003"	"2008"	"2008"	"Unintentional"	"1"	20	84150	23.8
+	"Benton County, OR"	"41003"	"2009"	"2009"	"Unintentional"	"1"	20	85390	23.4
+	"Benton County, OR"	"41003"	"2009"	"2009"	"Suicide"	"2"	11	85390	Unreliable
+	"Benton County, OR"	"41003"	"2010"	"2010"	"Unintentional"	"1"	16	85579	Unreliable
+	"Benton County, OR"	"41003"	"2010"	"2010"	"Suicide"	"2"	10	85579	Unreliable
+	"Benton County, OR"	"41003"	"2011"	"2011"	"Unintentional"	"1"	27	85928	31.4
+	"Benton County, OR"	"41003"	"2011"	"2011"	"Suicide"	"2"	13	85928	Unreliable
+	"Benton County, OR"	"41003"	"2012"	"2012"	"Unintentional"	"1"	32	86430	37.0
+	"Benton County, OR"	"41003"	"2012"	"2012"	"Suicide"	"2"	13	86430	Unreliable
+	"Benton County, OR"	"41003"	"2013"	"2013"	"Unintentional"	"1"	22	86591	25.4
+	"Benton County, OR"	"41003"	"2013"	"2013"	"Suicide"	"2"	12	86591	Unreliable
+	"Benton County, OR"	"41003"	"2014"	"2014"	"Unintentional"	"1"	33	86316	38.2
+	"Benton County, OR"	"41003"	"2014"	"2014"	"Suicide"	"2"	11	86316	Unreliable
+	"Benton County, OR"	"41003"	"2015"	"2015"	"Unintentional"	"1"	32	87572	36.5
+	"Benton County, OR"	"41003"	"2015"	"2015"	"Suicide"	"2"	10	87572	Unreliable
+	"Benton County, OR"	"41003"	"2016"	"2016"	"Unintentional"	"1"	37	89385	41.4
+	"Benton County, OR"	"41003"	"2016"	"2016"	"Suicide"	"2"	13	89385	Unreliable
+	"Benton County, OR"	"41003"	"2017"	"2017"	"Unintentional"	"1"	33	90951	36.3
+	"Benton County, OR"	"41003"	"2017"	"2017"	"Suicide"	"2"	18	90951	Unreliable
+	"Benton County, OR"	"41003"	"2018"	"2018"	"Unintentional"	"1"	28	92101	30.4
+	"Benton County, OR"	"41003"	"2018"	"2018"	"Suicide"	"2"	18	92101	Unreliable
+	"Clackamas County, OR"	"41005"	"1999"	"1999"	"Unintentional"	"1"	101	335891	30.1
+	"Clackamas County, OR"	"41005"	"1999"	"1999"	"Suicide"	"2"	33	335891	9.8
+	"Clackamas County, OR"	"41005"	"2000"	"2000"	"Unintentional"	"1"	90	338391	26.6
+	"Clackamas County, OR"	"41005"	"2000"	"2000"	"Suicide"	"2"	37	338391	10.9
+	"Clackamas County, OR"	"41005"	"2001"	"2001"	"Unintentional"	"1"	126	343444	36.7
+	"Clackamas County, OR"	"41005"	"2001"	"2001"	"Suicide"	"2"	39	343444	11.4
+	"Clackamas County, OR"	"41005"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	12	343444	Unreliable
+	"Clackamas County, OR"	"41005"	"2002"	"2002"	"Unintentional"	"1"	106	348951	30.4
+	"Clackamas County, OR"	"41005"	"2002"	"2002"	"Suicide"	"2"	46	348951	13.2
+	"Clackamas County, OR"	"41005"	"2002"	"2002"	"Homicide"	"3"	11	348951	Unreliable
+	"Clackamas County, OR"	"41005"	"2003"	"2003"	"Unintentional"	"1"	106	352032	30.1
+	"Clackamas County, OR"	"41005"	"2003"	"2003"	"Suicide"	"2"	69	352032	19.6
+	"Clackamas County, OR"	"41005"	"2004"	"2004"	"Unintentional"	"1"	124	355758	34.9
+	"Clackamas County, OR"	"41005"	"2004"	"2004"	"Suicide"	"2"	36	355758	10.1
+	"Clackamas County, OR"	"41005"	"2005"	"2005"	"Unintentional"	"1"	141	359308	39.2
+	"Clackamas County, OR"	"41005"	"2005"	"2005"	"Suicide"	"2"	40	359308	11.1
+	"Clackamas County, OR"	"41005"	"2006"	"2006"	"Unintentional"	"1"	131	363508	36.0
+	"Clackamas County, OR"	"41005"	"2006"	"2006"	"Suicide"	"2"	47	363508	12.9
+	"Clackamas County, OR"	"41005"	"2006"	"2006"	"Homicide"	"3"	10	363508	Unreliable
+	"Clackamas County, OR"	"41005"	"2007"	"2007"	"Unintentional"	"1"	159	366808	43.3
+	"Clackamas County, OR"	"41005"	"2007"	"2007"	"Suicide"	"2"	45	366808	12.3
+	"Clackamas County, OR"	"41005"	"2008"	"2008"	"Unintentional"	"1"	149	371103	40.2
+	"Clackamas County, OR"	"41005"	"2008"	"2008"	"Suicide"	"2"	50	371103	13.5
+	"Clackamas County, OR"	"41005"	"2008"	"2008"	"Homicide"	"3"	11	371103	Unreliable
+	"Clackamas County, OR"	"41005"	"2009"	"2009"	"Unintentional"	"1"	141	374085	37.7
+	"Clackamas County, OR"	"41005"	"2009"	"2009"	"Suicide"	"2"	59	374085	15.8
+	"Clackamas County, OR"	"41005"	"2010"	"2010"	"Unintentional"	"1"	145	375992	38.6
+	"Clackamas County, OR"	"41005"	"2010"	"2010"	"Suicide"	"2"	65	375992	17.3
+	"Clackamas County, OR"	"41005"	"2011"	"2011"	"Unintentional"	"1"	147	380207	38.7
+	"Clackamas County, OR"	"41005"	"2011"	"2011"	"Suicide"	"2"	56	380207	14.7
+	"Clackamas County, OR"	"41005"	"2012"	"2012"	"Unintentional"	"1"	171	383857	44.5
+	"Clackamas County, OR"	"41005"	"2012"	"2012"	"Suicide"	"2"	67	383857	17.5
+	"Clackamas County, OR"	"41005"	"2013"	"2013"	"Unintentional"	"1"	151	388263	38.9
+	"Clackamas County, OR"	"41005"	"2013"	"2013"	"Suicide"	"2"	54	388263	13.9
+	"Clackamas County, OR"	"41005"	"2014"	"2014"	"Unintentional"	"1"	163	394972	41.3
+	"Clackamas County, OR"	"41005"	"2014"	"2014"	"Suicide"	"2"	68	394972	17.2
+	"Clackamas County, OR"	"41005"	"2015"	"2015"	"Unintentional"	"1"	156	401515	38.9
+	"Clackamas County, OR"	"41005"	"2015"	"2015"	"Suicide"	"2"	77	401515	19.2
+	"Clackamas County, OR"	"41005"	"2015"	"2015"	"Homicide"	"3"	11	401515	Unreliable
+	"Clackamas County, OR"	"41005"	"2016"	"2016"	"Unintentional"	"1"	195	408062	47.8
+	"Clackamas County, OR"	"41005"	"2016"	"2016"	"Suicide"	"2"	62	408062	15.2
+	"Clackamas County, OR"	"41005"	"2017"	"2017"	"Unintentional"	"1"	181	412672	43.9
+	"Clackamas County, OR"	"41005"	"2017"	"2017"	"Suicide"	"2"	67	412672	16.2
+	"Clackamas County, OR"	"41005"	"2018"	"2018"	"Unintentional"	"1"	179	416075	43.0
+	"Clackamas County, OR"	"41005"	"2018"	"2018"	"Suicide"	"2"	59	416075	14.2
+	"Clatsop County, OR"	"41007"	"1999"	"1999"	"Unintentional"	"1"	17	35720	Unreliable
+	"Clatsop County, OR"	"41007"	"2000"	"2000"	"Unintentional"	"1"	13	35630	Unreliable
+	"Clatsop County, OR"	"41007"	"2000"	"2000"	"Suicide"	"2"	11	35630	Unreliable
+	"Clatsop County, OR"	"41007"	"2001"	"2001"	"Unintentional"	"1"	20	35509	56.3
+	"Clatsop County, OR"	"41007"	"2002"	"2002"	"Unintentional"	"1"	19	35519	Unreliable
+	"Clatsop County, OR"	"41007"	"2002"	"2002"	"Suicide"	"2"	13	35519	Unreliable
+	"Clatsop County, OR"	"41007"	"2003"	"2003"	"Unintentional"	"1"	10	35612	Unreliable
+	"Clatsop County, OR"	"41007"	"2004"	"2004"	"Unintentional"	"1"	22	35912	61.3
+	"Clatsop County, OR"	"41007"	"2005"	"2005"	"Unintentional"	"1"	29	36282	79.9
+	"Clatsop County, OR"	"41007"	"2005"	"2005"	"Suicide"	"2"	11	36282	Unreliable
+	"Clatsop County, OR"	"41007"	"2006"	"2006"	"Unintentional"	"1"	26	36603	71.0
+	"Clatsop County, OR"	"41007"	"2007"	"2007"	"Unintentional"	"1"	18	36818	Unreliable
+	"Clatsop County, OR"	"41007"	"2008"	"2008"	"Unintentional"	"1"	18	36825	Unreliable
+	"Clatsop County, OR"	"41007"	"2009"	"2009"	"Unintentional"	"1"	19	36972	Unreliable
+	"Clatsop County, OR"	"41007"	"2010"	"2010"	"Unintentional"	"1"	20	37039	54.0
+	"Clatsop County, OR"	"41007"	"2011"	"2011"	"Unintentional"	"1"	29	37153	78.1
+	"Clatsop County, OR"	"41007"	"2012"	"2012"	"Unintentional"	"1"	19	37301	Unreliable
+	"Clatsop County, OR"	"41007"	"2013"	"2013"	"Unintentional"	"1"	17	37244	Unreliable
+	"Clatsop County, OR"	"41007"	"2013"	"2013"	"Suicide"	"2"	13	37244	Unreliable
+	"Clatsop County, OR"	"41007"	"2014"	"2014"	"Unintentional"	"1"	16	37474	Unreliable
+	"Clatsop County, OR"	"41007"	"2014"	"2014"	"Suicide"	"2"	11	37474	Unreliable
+	"Clatsop County, OR"	"41007"	"2015"	"2015"	"Unintentional"	"1"	20	37831	52.9
+	"Clatsop County, OR"	"41007"	"2015"	"2015"	"Suicide"	"2"	10	37831	Unreliable
+	"Clatsop County, OR"	"41007"	"2016"	"2016"	"Unintentional"	"1"	32	38632	82.8
+	"Clatsop County, OR"	"41007"	"2016"	"2016"	"Suicide"	"2"	10	38632	Unreliable
+	"Clatsop County, OR"	"41007"	"2017"	"2017"	"Unintentional"	"1"	22	39182	56.1
+	"Clatsop County, OR"	"41007"	"2018"	"2018"	"Unintentional"	"1"	24	39764	60.4
+	"Columbia County, OR"	"41009"	"1999"	"1999"	"Unintentional"	"1"	10	43360	Unreliable
+	"Columbia County, OR"	"41009"	"2000"	"2000"	"Unintentional"	"1"	15	43560	Unreliable
+	"Columbia County, OR"	"41009"	"2001"	"2001"	"Unintentional"	"1"	26	44196	58.8
+	"Columbia County, OR"	"41009"	"2001"	"2001"	"Suicide"	"2"	11	44196	Unreliable
+	"Columbia County, OR"	"41009"	"2002"	"2002"	"Unintentional"	"1"	21	45104	46.6
+	"Columbia County, OR"	"41009"	"2003"	"2003"	"Unintentional"	"1"	17	45636	Unreliable
+	"Columbia County, OR"	"41009"	"2004"	"2004"	"Unintentional"	"1"	18	46192	Unreliable
+	"Columbia County, OR"	"41009"	"2004"	"2004"	"Suicide"	"2"	12	46192	Unreliable
+	"Columbia County, OR"	"41009"	"2005"	"2005"	"Unintentional"	"1"	26	46955	55.4
+	"Columbia County, OR"	"41009"	"2006"	"2006"	"Unintentional"	"1"	20	48184	41.5
+	"Columbia County, OR"	"41009"	"2007"	"2007"	"Unintentional"	"1"	31	48898	63.4
+	"Columbia County, OR"	"41009"	"2008"	"2008"	"Unintentional"	"1"	26	49209	52.8
+	"Columbia County, OR"	"41009"	"2009"	"2009"	"Unintentional"	"1"	23	49394	46.6
+	"Columbia County, OR"	"41009"	"2010"	"2010"	"Unintentional"	"1"	21	49351	42.6
+	"Columbia County, OR"	"41009"	"2010"	"2010"	"Suicide"	"2"	11	49351	Unreliable
+	"Columbia County, OR"	"41009"	"2011"	"2011"	"Unintentional"	"1"	28	49402	56.7
+	"Columbia County, OR"	"41009"	"2011"	"2011"	"Suicide"	"2"	10	49402	Unreliable
+	"Columbia County, OR"	"41009"	"2012"	"2012"	"Unintentional"	"1"	16	49286	Unreliable
+	"Columbia County, OR"	"41009"	"2013"	"2013"	"Unintentional"	"1"	21	49344	42.6
+	"Columbia County, OR"	"41009"	"2013"	"2013"	"Suicide"	"2"	15	49344	Unreliable
+	"Columbia County, OR"	"41009"	"2014"	"2014"	"Unintentional"	"1"	22	49459	44.5
+	"Columbia County, OR"	"41009"	"2014"	"2014"	"Suicide"	"2"	13	49459	Unreliable
+	"Columbia County, OR"	"41009"	"2015"	"2015"	"Unintentional"	"1"	23	49600	46.4
+	"Columbia County, OR"	"41009"	"2015"	"2015"	"Suicide"	"2"	11	49600	Unreliable
+	"Columbia County, OR"	"41009"	"2016"	"2016"	"Unintentional"	"1"	29	50785	57.1
+	"Columbia County, OR"	"41009"	"2016"	"2016"	"Suicide"	"2"	14	50785	Unreliable
+	"Columbia County, OR"	"41009"	"2017"	"2017"	"Unintentional"	"1"	23	51782	44.4
+	"Columbia County, OR"	"41009"	"2018"	"2018"	"Unintentional"	"1"	21	52377	40.1
+	"Columbia County, OR"	"41009"	"2018"	"2018"	"Suicide"	"2"	17	52377	Unreliable
+	"Coos County, OR"	"41011"	"1999"	"1999"	"Unintentional"	"1"	30	62962	47.6
+	"Coos County, OR"	"41011"	"1999"	"1999"	"Suicide"	"2"	11	62962	Unreliable
+	"Coos County, OR"	"41011"	"2000"	"2000"	"Unintentional"	"1"	34	62779	54.2
+	"Coos County, OR"	"41011"	"2001"	"2001"	"Unintentional"	"1"	34	62190	54.7
+	"Coos County, OR"	"41011"	"2001"	"2001"	"Suicide"	"2"	15	62190	Unreliable
+	"Coos County, OR"	"41011"	"2002"	"2002"	"Unintentional"	"1"	35	62286	56.2
+	"Coos County, OR"	"41011"	"2002"	"2002"	"Suicide"	"2"	13	62286	Unreliable
+	"Coos County, OR"	"41011"	"2003"	"2003"	"Unintentional"	"1"	41	62625	65.5
+	"Coos County, OR"	"41011"	"2003"	"2003"	"Suicide"	"2"	13	62625	Unreliable
+	"Coos County, OR"	"41011"	"2004"	"2004"	"Unintentional"	"1"	27	63208	42.7
+	"Coos County, OR"	"41011"	"2004"	"2004"	"Suicide"	"2"	24	63208	38.0
+	"Coos County, OR"	"41011"	"2005"	"2005"	"Unintentional"	"1"	30	63843	47.0
+	"Coos County, OR"	"41011"	"2005"	"2005"	"Suicide"	"2"	11	63843	Unreliable
+	"Coos County, OR"	"41011"	"2006"	"2006"	"Unintentional"	"1"	38	63844	59.5
+	"Coos County, OR"	"41011"	"2006"	"2006"	"Suicide"	"2"	23	63844	36.0
+	"Coos County, OR"	"41011"	"2007"	"2007"	"Unintentional"	"1"	33	63420	52.0
+	"Coos County, OR"	"41011"	"2007"	"2007"	"Suicide"	"2"	14	63420	Unreliable
+	"Coos County, OR"	"41011"	"2008"	"2008"	"Unintentional"	"1"	42	63226	66.4
+	"Coos County, OR"	"41011"	"2008"	"2008"	"Suicide"	"2"	21	63226	33.2
+	"Coos County, OR"	"41011"	"2009"	"2009"	"Unintentional"	"1"	22	63079	34.9
+	"Coos County, OR"	"41011"	"2009"	"2009"	"Suicide"	"2"	19	63079	Unreliable
+	"Coos County, OR"	"41011"	"2010"	"2010"	"Unintentional"	"1"	39	63043	61.9
+	"Coos County, OR"	"41011"	"2010"	"2010"	"Suicide"	"2"	24	63043	38.1
+	"Coos County, OR"	"41011"	"2011"	"2011"	"Unintentional"	"1"	52	62791	82.8
+	"Coos County, OR"	"41011"	"2011"	"2011"	"Suicide"	"2"	14	62791	Unreliable
+	"Coos County, OR"	"41011"	"2012"	"2012"	"Unintentional"	"1"	38	62534	60.8
+	"Coos County, OR"	"41011"	"2012"	"2012"	"Suicide"	"2"	16	62534	Unreliable
+	"Coos County, OR"	"41011"	"2013"	"2013"	"Unintentional"	"1"	38	62282	61.0
+	"Coos County, OR"	"41011"	"2013"	"2013"	"Suicide"	"2"	21	62282	33.7
+	"Coos County, OR"	"41011"	"2014"	"2014"	"Unintentional"	"1"	36	62475	57.6
+	"Coos County, OR"	"41011"	"2014"	"2014"	"Suicide"	"2"	21	62475	33.6
+	"Coos County, OR"	"41011"	"2015"	"2015"	"Unintentional"	"1"	55	63121	87.1
+	"Coos County, OR"	"41011"	"2015"	"2015"	"Suicide"	"2"	18	63121	Unreliable
+	"Coos County, OR"	"41011"	"2016"	"2016"	"Unintentional"	"1"	55	63761	86.3
+	"Coos County, OR"	"41011"	"2016"	"2016"	"Suicide"	"2"	17	63761	Unreliable
+	"Coos County, OR"	"41011"	"2017"	"2017"	"Unintentional"	"1"	47	63888	73.6
+	"Coos County, OR"	"41011"	"2017"	"2017"	"Suicide"	"2"	16	63888	Unreliable
+	"Coos County, OR"	"41011"	"2018"	"2018"	"Unintentional"	"1"	51	64389	79.2
+	"Coos County, OR"	"41011"	"2018"	"2018"	"Suicide"	"2"	23	64389	35.7
+	"Crook County, OR"	"41013"	"2000"	"2000"	"Unintentional"	"1"	13	19182	Unreliable
+	"Crook County, OR"	"41013"	"2003"	"2003"	"Unintentional"	"1"	12	20011	Unreliable
+	"Crook County, OR"	"41013"	"2005"	"2005"	"Unintentional"	"1"	13	21019	Unreliable
+	"Crook County, OR"	"41013"	"2006"	"2006"	"Unintentional"	"1"	13	21673	Unreliable
+	"Crook County, OR"	"41013"	"2008"	"2008"	"Unintentional"	"1"	12	21811	Unreliable
+	"Crook County, OR"	"41013"	"2010"	"2010"	"Unintentional"	"1"	11	20978	Unreliable
+	"Crook County, OR"	"41013"	"2012"	"2012"	"Unintentional"	"1"	10	20729	Unreliable
+	"Crook County, OR"	"41013"	"2014"	"2014"	"Unintentional"	"1"	16	20998	Unreliable
+	"Crook County, OR"	"41013"	"2015"	"2015"	"Unintentional"	"1"	15	21630	Unreliable
+	"Crook County, OR"	"41013"	"2016"	"2016"	"Unintentional"	"1"	16	22570	Unreliable
+	"Crook County, OR"	"41013"	"2017"	"2017"	"Unintentional"	"1"	13	23123	Unreliable
+	"Crook County, OR"	"41013"	"2018"	"2018"	"Unintentional"	"1"	19	23867	Unreliable
+	"Curry County, OR"	"41015"	"2001"	"2001"	"Unintentional"	"1"	10	21250	Unreliable
+	"Curry County, OR"	"41015"	"2002"	"2002"	"Unintentional"	"1"	12	21653	Unreliable
+	"Curry County, OR"	"41015"	"2002"	"2002"	"Suicide"	"2"	11	21653	Unreliable
+	"Curry County, OR"	"41015"	"2003"	"2003"	"Unintentional"	"1"	17	21899	Unreliable
+	"Curry County, OR"	"41015"	"2004"	"2004"	"Unintentional"	"1"	14	22473	Unreliable
+	"Curry County, OR"	"41015"	"2005"	"2005"	"Unintentional"	"1"	10	22750	Unreliable
+	"Curry County, OR"	"41015"	"2006"	"2006"	"Unintentional"	"1"	19	22626	Unreliable
+	"Curry County, OR"	"41015"	"2007"	"2007"	"Unintentional"	"1"	20	22447	89.1
+	"Curry County, OR"	"41015"	"2008"	"2008"	"Unintentional"	"1"	15	22305	Unreliable
+	"Curry County, OR"	"41015"	"2008"	"2008"	"Suicide"	"2"	10	22305	Unreliable
+	"Curry County, OR"	"41015"	"2009"	"2009"	"Unintentional"	"1"	12	22341	Unreliable
+	"Curry County, OR"	"41015"	"2010"	"2010"	"Unintentional"	"1"	19	22364	Unreliable
+	"Curry County, OR"	"41015"	"2010"	"2010"	"Suicide"	"2"	11	22364	Unreliable
+	"Curry County, OR"	"41015"	"2011"	"2011"	"Unintentional"	"1"	14	22426	Unreliable
+	"Curry County, OR"	"41015"	"2012"	"2012"	"Unintentional"	"1"	11	22248	Unreliable
+	"Curry County, OR"	"41015"	"2012"	"2012"	"Suicide"	"2"	10	22248	Unreliable
+	"Curry County, OR"	"41015"	"2013"	"2013"	"Unintentional"	"1"	22	22339	98.5
+	"Curry County, OR"	"41015"	"2013"	"2013"	"Suicide"	"2"	14	22339	Unreliable
+	"Curry County, OR"	"41015"	"2014"	"2014"	"Unintentional"	"1"	21	22335	94.0
+	"Curry County, OR"	"41015"	"2014"	"2014"	"Suicide"	"2"	11	22335	Unreliable
+	"Curry County, OR"	"41015"	"2015"	"2015"	"Unintentional"	"1"	28	22483	124.5
+	"Curry County, OR"	"41015"	"2015"	"2015"	"Suicide"	"2"	14	22483	Unreliable
+	"Curry County, OR"	"41015"	"2016"	"2016"	"Unintentional"	"1"	17	22713	Unreliable
+	"Curry County, OR"	"41015"	"2016"	"2016"	"Suicide"	"2"	11	22713	Unreliable
+	"Curry County, OR"	"41015"	"2017"	"2017"	"Unintentional"	"1"	14	22669	Unreliable
+	"Curry County, OR"	"41015"	"2017"	"2017"	"Suicide"	"2"	14	22669	Unreliable
+	"Deschutes County, OR"	"41017"	"1999"	"1999"	"Unintentional"	"1"	39	111933	34.8
+	"Deschutes County, OR"	"41017"	"1999"	"1999"	"Suicide"	"2"	17	111933	Unreliable
+	"Deschutes County, OR"	"41017"	"2000"	"2000"	"Unintentional"	"1"	44	115367	38.1
+	"Deschutes County, OR"	"41017"	"2000"	"2000"	"Suicide"	"2"	13	115367	Unreliable
+	"Deschutes County, OR"	"41017"	"2001"	"2001"	"Unintentional"	"1"	42	120526	34.8
+	"Deschutes County, OR"	"41017"	"2001"	"2001"	"Suicide"	"2"	18	120526	Unreliable
+	"Deschutes County, OR"	"41017"	"2002"	"2002"	"Unintentional"	"1"	40	125247	31.9
+	"Deschutes County, OR"	"41017"	"2002"	"2002"	"Suicide"	"2"	24	125247	19.2
+	"Deschutes County, OR"	"41017"	"2003"	"2003"	"Unintentional"	"1"	55	129094	42.6
+	"Deschutes County, OR"	"41017"	"2003"	"2003"	"Suicide"	"2"	20	129094	15.5
+	"Deschutes County, OR"	"41017"	"2004"	"2004"	"Unintentional"	"1"	59	133756	44.1
+	"Deschutes County, OR"	"41017"	"2004"	"2004"	"Suicide"	"2"	24	133756	17.9
+	"Deschutes County, OR"	"41017"	"2005"	"2005"	"Unintentional"	"1"	67	140567	47.7
+	"Deschutes County, OR"	"41017"	"2005"	"2005"	"Suicide"	"2"	24	140567	17.1
+	"Deschutes County, OR"	"41017"	"2006"	"2006"	"Unintentional"	"1"	74	148149	49.9
+	"Deschutes County, OR"	"41017"	"2006"	"2006"	"Suicide"	"2"	29	148149	19.6
+	"Deschutes County, OR"	"41017"	"2007"	"2007"	"Unintentional"	"1"	64	152633	41.9
+	"Deschutes County, OR"	"41017"	"2007"	"2007"	"Suicide"	"2"	27	152633	17.7
+	"Deschutes County, OR"	"41017"	"2008"	"2008"	"Unintentional"	"1"	62	156820	39.5
+	"Deschutes County, OR"	"41017"	"2008"	"2008"	"Suicide"	"2"	37	156820	23.6
+	"Deschutes County, OR"	"41017"	"2009"	"2009"	"Unintentional"	"1"	64	157345	40.7
+	"Deschutes County, OR"	"41017"	"2009"	"2009"	"Suicide"	"2"	25	157345	15.9
+	"Deschutes County, OR"	"41017"	"2010"	"2010"	"Unintentional"	"1"	65	157733	41.2
+	"Deschutes County, OR"	"41017"	"2010"	"2010"	"Suicide"	"2"	40	157733	25.4
+	"Deschutes County, OR"	"41017"	"2011"	"2011"	"Unintentional"	"1"	65	160338	40.5
+	"Deschutes County, OR"	"41017"	"2011"	"2011"	"Suicide"	"2"	34	160338	21.2
+	"Deschutes County, OR"	"41017"	"2012"	"2012"	"Unintentional"	"1"	51	162277	31.4
+	"Deschutes County, OR"	"41017"	"2012"	"2012"	"Suicide"	"2"	34	162277	21.0
+	"Deschutes County, OR"	"41017"	"2013"	"2013"	"Unintentional"	"1"	62	165954	37.4
+	"Deschutes County, OR"	"41017"	"2013"	"2013"	"Suicide"	"2"	25	165954	15.1
+	"Deschutes County, OR"	"41017"	"2014"	"2014"	"Unintentional"	"1"	71	170388	41.7
+	"Deschutes County, OR"	"41017"	"2014"	"2014"	"Suicide"	"2"	40	170388	23.5
+	"Deschutes County, OR"	"41017"	"2015"	"2015"	"Unintentional"	"1"	69	175268	39.4
+	"Deschutes County, OR"	"41017"	"2015"	"2015"	"Suicide"	"2"	34	175268	19.4
+	"Deschutes County, OR"	"41017"	"2016"	"2016"	"Unintentional"	"1"	90	181307	49.6
+	"Deschutes County, OR"	"41017"	"2016"	"2016"	"Suicide"	"2"	34	181307	18.8
+	"Deschutes County, OR"	"41017"	"2017"	"2017"	"Unintentional"	"1"	104	186875	55.7
+	"Deschutes County, OR"	"41017"	"2017"	"2017"	"Suicide"	"2"	57	186875	30.5
+	"Deschutes County, OR"	"41017"	"2018"	"2018"	"Unintentional"	"1"	100	191996	52.1
+	"Deschutes County, OR"	"41017"	"2018"	"2018"	"Suicide"	"2"	39	191996	20.3
+	"Douglas County, OR"	"41019"	"1999"	"1999"	"Unintentional"	"1"	55	100364	54.8
+	"Douglas County, OR"	"41019"	"1999"	"1999"	"Suicide"	"2"	21	100364	20.9
+	"Douglas County, OR"	"41019"	"2000"	"2000"	"Unintentional"	"1"	49	100399	48.8
+	"Douglas County, OR"	"41019"	"2000"	"2000"	"Suicide"	"2"	21	100399	20.9
+	"Douglas County, OR"	"41019"	"2001"	"2001"	"Unintentional"	"1"	50	100562	49.7
+	"Douglas County, OR"	"41019"	"2001"	"2001"	"Suicide"	"2"	18	100562	Unreliable
+	"Douglas County, OR"	"41019"	"2002"	"2002"	"Unintentional"	"1"	60	101529	59.1
+	"Douglas County, OR"	"41019"	"2002"	"2002"	"Suicide"	"2"	15	101529	Unreliable
+	"Douglas County, OR"	"41019"	"2003"	"2003"	"Unintentional"	"1"	71	102776	69.1
+	"Douglas County, OR"	"41019"	"2003"	"2003"	"Suicide"	"2"	18	102776	Unreliable
+	"Douglas County, OR"	"41019"	"2004"	"2004"	"Unintentional"	"1"	61	103965	58.7
+	"Douglas County, OR"	"41019"	"2004"	"2004"	"Suicide"	"2"	17	103965	Unreliable
+	"Douglas County, OR"	"41019"	"2005"	"2005"	"Unintentional"	"1"	60	105285	57.0
+	"Douglas County, OR"	"41019"	"2005"	"2005"	"Suicide"	"2"	23	105285	21.8
+	"Douglas County, OR"	"41019"	"2006"	"2006"	"Unintentional"	"1"	62	106658	58.1
+	"Douglas County, OR"	"41019"	"2006"	"2006"	"Suicide"	"2"	27	106658	25.3
+	"Douglas County, OR"	"41019"	"2007"	"2007"	"Unintentional"	"1"	76	107057	71.0
+	"Douglas County, OR"	"41019"	"2007"	"2007"	"Suicide"	"2"	24	107057	22.4
+	"Douglas County, OR"	"41019"	"2008"	"2008"	"Unintentional"	"1"	69	107316	64.3
+	"Douglas County, OR"	"41019"	"2008"	"2008"	"Suicide"	"2"	19	107316	Unreliable
+	"Douglas County, OR"	"41019"	"2009"	"2009"	"Unintentional"	"1"	47	107378	43.8
+	"Douglas County, OR"	"41019"	"2009"	"2009"	"Suicide"	"2"	23	107378	21.4
+	"Douglas County, OR"	"41019"	"2010"	"2010"	"Unintentional"	"1"	58	107667	53.9
+	"Douglas County, OR"	"41019"	"2010"	"2010"	"Suicide"	"2"	17	107667	Unreliable
+	"Douglas County, OR"	"41019"	"2011"	"2011"	"Unintentional"	"1"	61	107490	56.7
+	"Douglas County, OR"	"41019"	"2011"	"2011"	"Suicide"	"2"	23	107490	21.4
+	"Douglas County, OR"	"41019"	"2012"	"2012"	"Unintentional"	"1"	57	107164	53.2
+	"Douglas County, OR"	"41019"	"2012"	"2012"	"Suicide"	"2"	35	107164	32.7
+	"Douglas County, OR"	"41019"	"2013"	"2013"	"Unintentional"	"1"	56	106940	52.4
+	"Douglas County, OR"	"41019"	"2013"	"2013"	"Suicide"	"2"	34	106940	31.8
+	"Douglas County, OR"	"41019"	"2014"	"2014"	"Unintentional"	"1"	66	106972	61.7
+	"Douglas County, OR"	"41019"	"2014"	"2014"	"Suicide"	"2"	26	106972	24.3
+	"Douglas County, OR"	"41019"	"2015"	"2015"	"Unintentional"	"1"	94	107685	87.3
+	"Douglas County, OR"	"41019"	"2015"	"2015"	"Suicide"	"2"	33	107685	30.6
+	"Douglas County, OR"	"41019"	"2015"	"2015"	"Homicide"	"3"	17	107685	Unreliable
+	"Douglas County, OR"	"41019"	"2016"	"2016"	"Unintentional"	"1"	65	108457	59.9
+	"Douglas County, OR"	"41019"	"2016"	"2016"	"Suicide"	"2"	30	108457	27.7
+	"Douglas County, OR"	"41019"	"2017"	"2017"	"Unintentional"	"1"	87	109405	79.5
+	"Douglas County, OR"	"41019"	"2017"	"2017"	"Suicide"	"2"	26	109405	23.8
+	"Douglas County, OR"	"41019"	"2018"	"2018"	"Unintentional"	"1"	80	110283	72.5
+	"Douglas County, OR"	"41019"	"2018"	"2018"	"Suicide"	"2"	31	110283	28.1
+	"Grant County, OR"	"41023"	"2006"	"2006"	"Unintentional"	"1"	12	7373	Unreliable
+	"Grant County, OR"	"41023"	"2016"	"2016"	"Unintentional"	"1"	12	7158	Unreliable
+	"Harney County, OR"	"41025"	"2010"	"2010"	"Unintentional"	"1"	10	7422	Unreliable
+	"Hood River County, OR"	"41027"	"2001"	"2001"	"Unintentional"	"1"	11	20397	Unreliable
+	"Hood River County, OR"	"41027"	"2006"	"2006"	"Unintentional"	"1"	11	21200	Unreliable
+	"Hood River County, OR"	"41027"	"2011"	"2011"	"Unintentional"	"1"	12	22493	Unreliable
+	"Hood River County, OR"	"41027"	"2012"	"2012"	"Unintentional"	"1"	11	22584	Unreliable
+	"Hood River County, OR"	"41027"	"2013"	"2013"	"Unintentional"	"1"	10	22675	Unreliable
+	"Hood River County, OR"	"41027"	"2014"	"2014"	"Unintentional"	"1"	15	22885	Unreliable
+	"Hood River County, OR"	"41027"	"2015"	"2015"	"Unintentional"	"1"	10	23137	Unreliable
+	"Hood River County, OR"	"41027"	"2016"	"2016"	"Unintentional"	"1"	12	23232	Unreliable
+	"Jackson County, OR"	"41029"	"1999"	"1999"	"Unintentional"	"1"	73	179264	40.7
+	"Jackson County, OR"	"41029"	"1999"	"1999"	"Suicide"	"2"	33	179264	18.4
+	"Jackson County, OR"	"41029"	"2000"	"2000"	"Unintentional"	"1"	74	181269	40.8
+	"Jackson County, OR"	"41029"	"2000"	"2000"	"Suicide"	"2"	39	181269	21.5
+	"Jackson County, OR"	"41029"	"2001"	"2001"	"Unintentional"	"1"	80	183835	43.5
+	"Jackson County, OR"	"41029"	"2001"	"2001"	"Suicide"	"2"	29	183835	15.8
+	"Jackson County, OR"	"41029"	"2002"	"2002"	"Unintentional"	"1"	84	186704	45.0
+	"Jackson County, OR"	"41029"	"2002"	"2002"	"Suicide"	"2"	42	186704	22.5
+	"Jackson County, OR"	"41029"	"2003"	"2003"	"Unintentional"	"1"	95	189838	50.0
+	"Jackson County, OR"	"41029"	"2003"	"2003"	"Suicide"	"2"	50	189838	26.3
+	"Jackson County, OR"	"41029"	"2004"	"2004"	"Unintentional"	"1"	90	192185	46.8
+	"Jackson County, OR"	"41029"	"2004"	"2004"	"Suicide"	"2"	42	192185	21.9
+	"Jackson County, OR"	"41029"	"2005"	"2005"	"Unintentional"	"1"	87	194701	44.7
+	"Jackson County, OR"	"41029"	"2005"	"2005"	"Suicide"	"2"	37	194701	19.0
+	"Jackson County, OR"	"41029"	"2006"	"2006"	"Unintentional"	"1"	115	196858	58.4
+	"Jackson County, OR"	"41029"	"2006"	"2006"	"Suicide"	"2"	36	196858	18.3
+	"Jackson County, OR"	"41029"	"2007"	"2007"	"Unintentional"	"1"	75	199152	37.7
+	"Jackson County, OR"	"41029"	"2007"	"2007"	"Suicide"	"2"	45	199152	22.6
+	"Jackson County, OR"	"41029"	"2008"	"2008"	"Unintentional"	"1"	90	201162	44.7
+	"Jackson County, OR"	"41029"	"2008"	"2008"	"Suicide"	"2"	39	201162	19.4
+	"Jackson County, OR"	"41029"	"2008"	"2008"	"Undetermined "	"4"	10	201162	Unreliable
+	"Jackson County, OR"	"41029"	"2009"	"2009"	"Unintentional"	"1"	85	202301	42.0
+	"Jackson County, OR"	"41029"	"2009"	"2009"	"Suicide"	"2"	54	202301	26.7
+	"Jackson County, OR"	"41029"	"2010"	"2010"	"Unintentional"	"1"	92	203206	45.3
+	"Jackson County, OR"	"41029"	"2010"	"2010"	"Suicide"	"2"	34	203206	16.7
+	"Jackson County, OR"	"41029"	"2011"	"2011"	"Unintentional"	"1"	114	204822	55.7
+	"Jackson County, OR"	"41029"	"2011"	"2011"	"Suicide"	"2"	44	204822	21.5
+	"Jackson County, OR"	"41029"	"2011"	"2011"	"Homicide"	"3"	11	204822	Unreliable
+	"Jackson County, OR"	"41029"	"2012"	"2012"	"Unintentional"	"1"	109	206412	52.8
+	"Jackson County, OR"	"41029"	"2012"	"2012"	"Suicide"	"2"	44	206412	21.3
+	"Jackson County, OR"	"41029"	"2013"	"2013"	"Unintentional"	"1"	100	208545	48.0
+	"Jackson County, OR"	"41029"	"2013"	"2013"	"Suicide"	"2"	54	208545	25.9
+	"Jackson County, OR"	"41029"	"2014"	"2014"	"Unintentional"	"1"	110	210287	52.3
+	"Jackson County, OR"	"41029"	"2014"	"2014"	"Suicide"	"2"	51	210287	24.3
+	"Jackson County, OR"	"41029"	"2015"	"2015"	"Unintentional"	"1"	114	212567	53.6
+	"Jackson County, OR"	"41029"	"2015"	"2015"	"Suicide"	"2"	55	212567	25.9
+	"Jackson County, OR"	"41029"	"2016"	"2016"	"Unintentional"	"1"	121	216527	55.9
+	"Jackson County, OR"	"41029"	"2016"	"2016"	"Suicide"	"2"	49	216527	22.6
+	"Jackson County, OR"	"41029"	"2017"	"2017"	"Unintentional"	"1"	108	217479	49.7
+	"Jackson County, OR"	"41029"	"2017"	"2017"	"Suicide"	"2"	53	217479	24.4
+	"Jackson County, OR"	"41029"	"2018"	"2018"	"Unintentional"	"1"	118	219564	53.7
+	"Jackson County, OR"	"41029"	"2018"	"2018"	"Suicide"	"2"	64	219564	29.1
+	"Jefferson County, OR"	"41031"	"1999"	"1999"	"Unintentional"	"1"	17	18537	Unreliable
+	"Jefferson County, OR"	"41031"	"2000"	"2000"	"Unintentional"	"1"	13	19009	Unreliable
+	"Jefferson County, OR"	"41031"	"2001"	"2001"	"Unintentional"	"1"	19	19653	Unreliable
+	"Jefferson County, OR"	"41031"	"2002"	"2002"	"Unintentional"	"1"	13	19941	Unreliable
+	"Jefferson County, OR"	"41031"	"2003"	"2003"	"Unintentional"	"1"	14	20212	Unreliable
+	"Jefferson County, OR"	"41031"	"2004"	"2004"	"Unintentional"	"1"	17	20339	Unreliable
+	"Jefferson County, OR"	"41031"	"2005"	"2005"	"Unintentional"	"1"	18	20622	Unreliable
+	"Jefferson County, OR"	"41031"	"2006"	"2006"	"Unintentional"	"1"	13	21113	Unreliable
+	"Jefferson County, OR"	"41031"	"2007"	"2007"	"Unintentional"	"1"	15	21861	Unreliable
+	"Jefferson County, OR"	"41031"	"2008"	"2008"	"Unintentional"	"1"	22	21885	100.5
+	"Jefferson County, OR"	"41031"	"2009"	"2009"	"Unintentional"	"1"	17	21730	Unreliable
+	"Jefferson County, OR"	"41031"	"2010"	"2010"	"Unintentional"	"1"	13	21720	Unreliable
+	"Jefferson County, OR"	"41031"	"2011"	"2011"	"Unintentional"	"1"	17	21771	Unreliable
+	"Jefferson County, OR"	"41031"	"2012"	"2012"	"Unintentional"	"1"	14	21749	Unreliable
+	"Jefferson County, OR"	"41031"	"2013"	"2013"	"Unintentional"	"1"	19	21145	Unreliable
+	"Jefferson County, OR"	"41031"	"2014"	"2014"	"Unintentional"	"1"	13	22192	Unreliable
+	"Jefferson County, OR"	"41031"	"2015"	"2015"	"Unintentional"	"1"	20	22666	88.2
+	"Jefferson County, OR"	"41031"	"2016"	"2016"	"Unintentional"	"1"	15	23080	Unreliable
+	"Jefferson County, OR"	"41031"	"2017"	"2017"	"Unintentional"	"1"	14	23758	Unreliable
+	"Jefferson County, OR"	"41031"	"2018"	"2018"	"Unintentional"	"1"	14	24192	Unreliable
+	"Josephine County, OR"	"41033"	"1999"	"1999"	"Unintentional"	"1"	36	75209	47.9
+	"Josephine County, OR"	"41033"	"1999"	"1999"	"Suicide"	"2"	16	75209	Unreliable
+	"Josephine County, OR"	"41033"	"2000"	"2000"	"Unintentional"	"1"	29	75726	38.3
+	"Josephine County, OR"	"41033"	"2000"	"2000"	"Suicide"	"2"	18	75726	Unreliable
+	"Josephine County, OR"	"41033"	"2001"	"2001"	"Unintentional"	"1"	38	76452	49.7
+	"Josephine County, OR"	"41033"	"2001"	"2001"	"Suicide"	"2"	15	76452	Unreliable
+	"Josephine County, OR"	"41033"	"2002"	"2002"	"Unintentional"	"1"	44	77712	56.6
+	"Josephine County, OR"	"41033"	"2003"	"2003"	"Unintentional"	"1"	50	78779	63.5
+	"Josephine County, OR"	"41033"	"2003"	"2003"	"Suicide"	"2"	25	78779	31.7
+	"Josephine County, OR"	"41033"	"2004"	"2004"	"Unintentional"	"1"	61	79729	76.5
+	"Josephine County, OR"	"41033"	"2004"	"2004"	"Suicide"	"2"	14	79729	Unreliable
+	"Josephine County, OR"	"41033"	"2005"	"2005"	"Unintentional"	"1"	44	80660	54.5
+	"Josephine County, OR"	"41033"	"2005"	"2005"	"Suicide"	"2"	15	80660	Unreliable
+	"Josephine County, OR"	"41033"	"2006"	"2006"	"Unintentional"	"1"	52	81601	63.7
+	"Josephine County, OR"	"41033"	"2006"	"2006"	"Suicide"	"2"	23	81601	28.2
+	"Josephine County, OR"	"41033"	"2007"	"2007"	"Unintentional"	"1"	67	81746	82.0
+	"Josephine County, OR"	"41033"	"2007"	"2007"	"Suicide"	"2"	18	81746	Unreliable
+	"Josephine County, OR"	"41033"	"2008"	"2008"	"Unintentional"	"1"	62	82389	75.3
+	"Josephine County, OR"	"41033"	"2008"	"2008"	"Suicide"	"2"	10	82389	Unreliable
+	"Josephine County, OR"	"41033"	"2009"	"2009"	"Unintentional"	"1"	50	82315	60.7
+	"Josephine County, OR"	"41033"	"2009"	"2009"	"Suicide"	"2"	22	82315	26.7
+	"Josephine County, OR"	"41033"	"2010"	"2010"	"Unintentional"	"1"	54	82713	65.3
+	"Josephine County, OR"	"41033"	"2010"	"2010"	"Suicide"	"2"	16	82713	Unreliable
+	"Josephine County, OR"	"41033"	"2011"	"2011"	"Unintentional"	"1"	54	82987	65.1
+	"Josephine County, OR"	"41033"	"2011"	"2011"	"Suicide"	"2"	26	82987	31.3
+	"Josephine County, OR"	"41033"	"2012"	"2012"	"Unintentional"	"1"	61	82930	73.6
+	"Josephine County, OR"	"41033"	"2012"	"2012"	"Suicide"	"2"	20	82930	24.1
+	"Josephine County, OR"	"41033"	"2013"	"2013"	"Unintentional"	"1"	49	83306	58.8
+	"Josephine County, OR"	"41033"	"2013"	"2013"	"Suicide"	"2"	25	83306	30.0
+	"Josephine County, OR"	"41033"	"2014"	"2014"	"Unintentional"	"1"	68	83599	81.3
+	"Josephine County, OR"	"41033"	"2014"	"2014"	"Suicide"	"2"	20	83599	23.9
+	"Josephine County, OR"	"41033"	"2015"	"2015"	"Unintentional"	"1"	65	84745	76.7
+	"Josephine County, OR"	"41033"	"2015"	"2015"	"Suicide"	"2"	25	84745	29.5
+	"Josephine County, OR"	"41033"	"2016"	"2016"	"Unintentional"	"1"	66	85904	76.8
+	"Josephine County, OR"	"41033"	"2016"	"2016"	"Suicide"	"2"	21	85904	24.4
+	"Josephine County, OR"	"41033"	"2017"	"2017"	"Unintentional"	"1"	69	86352	79.9
+	"Josephine County, OR"	"41033"	"2017"	"2017"	"Suicide"	"2"	29	86352	33.6
+	"Josephine County, OR"	"41033"	"2018"	"2018"	"Unintentional"	"1"	70	87393	80.1
+	"Josephine County, OR"	"41033"	"2018"	"2018"	"Suicide"	"2"	30	87393	34.3
+	"Klamath County, OR"	"41035"	"1999"	"1999"	"Unintentional"	"1"	26	63396	41.0
+	"Klamath County, OR"	"41035"	"2000"	"2000"	"Unintentional"	"1"	40	63775	62.7
+	"Klamath County, OR"	"41035"	"2000"	"2000"	"Suicide"	"2"	18	63775	Unreliable
+	"Klamath County, OR"	"41035"	"2001"	"2001"	"Unintentional"	"1"	30	64139	46.8
+	"Klamath County, OR"	"41035"	"2001"	"2001"	"Suicide"	"2"	18	64139	Unreliable
+	"Klamath County, OR"	"41035"	"2002"	"2002"	"Unintentional"	"1"	42	64150	65.5
+	"Klamath County, OR"	"41035"	"2002"	"2002"	"Suicide"	"2"	14	64150	Unreliable
+	"Klamath County, OR"	"41035"	"2003"	"2003"	"Unintentional"	"1"	24	64582	37.2
+	"Klamath County, OR"	"41035"	"2004"	"2004"	"Unintentional"	"1"	32	64841	49.4
+	"Klamath County, OR"	"41035"	"2004"	"2004"	"Suicide"	"2"	13	64841	Unreliable
+	"Klamath County, OR"	"41035"	"2005"	"2005"	"Unintentional"	"1"	43	65553	65.6
+	"Klamath County, OR"	"41035"	"2005"	"2005"	"Suicide"	"2"	20	65553	30.5
+	"Klamath County, OR"	"41035"	"2006"	"2006"	"Unintentional"	"1"	36	66294	54.3
+	"Klamath County, OR"	"41035"	"2006"	"2006"	"Suicide"	"2"	11	66294	Unreliable
+	"Klamath County, OR"	"41035"	"2007"	"2007"	"Unintentional"	"1"	36	66767	53.9
+	"Klamath County, OR"	"41035"	"2007"	"2007"	"Suicide"	"2"	16	66767	Unreliable
+	"Klamath County, OR"	"41035"	"2008"	"2008"	"Unintentional"	"1"	34	66732	51.0
+	"Klamath County, OR"	"41035"	"2008"	"2008"	"Suicide"	"2"	15	66732	Unreliable
+	"Klamath County, OR"	"41035"	"2009"	"2009"	"Unintentional"	"1"	33	66460	49.7
+	"Klamath County, OR"	"41035"	"2009"	"2009"	"Suicide"	"2"	20	66460	30.1
+	"Klamath County, OR"	"41035"	"2010"	"2010"	"Unintentional"	"1"	30	66380	45.2
+	"Klamath County, OR"	"41035"	"2010"	"2010"	"Suicide"	"2"	22	66380	33.1
+	"Klamath County, OR"	"41035"	"2011"	"2011"	"Unintentional"	"1"	35	66299	52.8
+	"Klamath County, OR"	"41035"	"2011"	"2011"	"Suicide"	"2"	14	66299	Unreliable
+	"Klamath County, OR"	"41035"	"2012"	"2012"	"Unintentional"	"1"	40	65912	60.7
+	"Klamath County, OR"	"41035"	"2012"	"2012"	"Suicide"	"2"	15	65912	Unreliable
+	"Klamath County, OR"	"41035"	"2013"	"2013"	"Unintentional"	"1"	41	65910	62.2
+	"Klamath County, OR"	"41035"	"2013"	"2013"	"Suicide"	"2"	12	65910	Unreliable
+	"Klamath County, OR"	"41035"	"2014"	"2014"	"Unintentional"	"1"	37	65455	56.5
+	"Klamath County, OR"	"41035"	"2014"	"2014"	"Suicide"	"2"	22	65455	33.6
+	"Klamath County, OR"	"41035"	"2015"	"2015"	"Unintentional"	"1"	33	66016	50.0
+	"Klamath County, OR"	"41035"	"2015"	"2015"	"Suicide"	"2"	15	66016	Unreliable
+	"Klamath County, OR"	"41035"	"2016"	"2016"	"Unintentional"	"1"	38	66443	57.2
+	"Klamath County, OR"	"41035"	"2016"	"2016"	"Suicide"	"2"	18	66443	Unreliable
+	"Klamath County, OR"	"41035"	"2017"	"2017"	"Unintentional"	"1"	40	66935	59.8
+	"Klamath County, OR"	"41035"	"2017"	"2017"	"Suicide"	"2"	27	66935	40.3
+	"Klamath County, OR"	"41035"	"2018"	"2018"	"Unintentional"	"1"	43	67653	63.6
+	"Klamath County, OR"	"41035"	"2018"	"2018"	"Suicide"	"2"	11	67653	Unreliable
+	"Lake County, OR"	"41037"	"2008"	"2008"	"Unintentional"	"1"	15	7961	Unreliable
+	"Lake County, OR"	"41037"	"2018"	"2018"	"Unintentional"	"1"	10	7879	Unreliable
+	"Lane County, OR"	"41039"	"1999"	"1999"	"Unintentional"	"1"	126	321778	39.2
+	"Lane County, OR"	"41039"	"1999"	"1999"	"Suicide"	"2"	42	321778	13.1
+	"Lane County, OR"	"41039"	"1999"	"1999"	"Undetermined "	"4"	13	321778	Unreliable
+	"Lane County, OR"	"41039"	"2000"	"2000"	"Unintentional"	"1"	130	322959	40.3
+	"Lane County, OR"	"41039"	"2000"	"2000"	"Suicide"	"2"	42	322959	13.0
+	"Lane County, OR"	"41039"	"2000"	"2000"	"Homicide"	"3"	10	322959	Unreliable
+	"Lane County, OR"	"41039"	"2000"	"2000"	"Undetermined "	"4"	12	322959	Unreliable
+	"Lane County, OR"	"41039"	"2001"	"2001"	"Unintentional"	"1"	124	324855	38.2
+	"Lane County, OR"	"41039"	"2001"	"2001"	"Suicide"	"2"	64	324855	19.7
+	"Lane County, OR"	"41039"	"2001"	"2001"	"Undetermined "	"4"	15	324855	Unreliable
+	"Lane County, OR"	"41039"	"2002"	"2002"	"Unintentional"	"1"	122	327506	37.3
+	"Lane County, OR"	"41039"	"2002"	"2002"	"Suicide"	"2"	47	327506	14.4
+	"Lane County, OR"	"41039"	"2002"	"2002"	"Undetermined "	"4"	15	327506	Unreliable
+	"Lane County, OR"	"41039"	"2003"	"2003"	"Unintentional"	"1"	115	330845	34.8
+	"Lane County, OR"	"41039"	"2003"	"2003"	"Suicide"	"2"	53	330845	16.0
+	"Lane County, OR"	"41039"	"2003"	"2003"	"Undetermined "	"4"	12	330845	Unreliable
+	"Lane County, OR"	"41039"	"2004"	"2004"	"Unintentional"	"1"	129	332327	38.8
+	"Lane County, OR"	"41039"	"2004"	"2004"	"Suicide"	"2"	57	332327	17.2
+	"Lane County, OR"	"41039"	"2005"	"2005"	"Unintentional"	"1"	127	335831	37.8
+	"Lane County, OR"	"41039"	"2005"	"2005"	"Suicide"	"2"	60	335831	17.9
+	"Lane County, OR"	"41039"	"2005"	"2005"	"Homicide"	"3"	14	335831	Unreliable
+	"Lane County, OR"	"41039"	"2005"	"2005"	"Undetermined "	"4"	12	335831	Unreliable
+	"Lane County, OR"	"41039"	"2006"	"2006"	"Unintentional"	"1"	149	339926	43.8
+	"Lane County, OR"	"41039"	"2006"	"2006"	"Suicide"	"2"	55	339926	16.2
+	"Lane County, OR"	"41039"	"2006"	"2006"	"Homicide"	"3"	15	339926	Unreliable
+	"Lane County, OR"	"41039"	"2006"	"2006"	"Undetermined "	"4"	12	339926	Unreliable
+	"Lane County, OR"	"41039"	"2007"	"2007"	"Unintentional"	"1"	166	344844	48.1
+	"Lane County, OR"	"41039"	"2007"	"2007"	"Suicide"	"2"	53	344844	15.4
+	"Lane County, OR"	"41039"	"2007"	"2007"	"Undetermined "	"4"	13	344844	Unreliable
+	"Lane County, OR"	"41039"	"2008"	"2008"	"Unintentional"	"1"	161	348176	46.2
+	"Lane County, OR"	"41039"	"2008"	"2008"	"Suicide"	"2"	60	348176	17.2
+	"Lane County, OR"	"41039"	"2008"	"2008"	"Homicide"	"3"	11	348176	Unreliable
+	"Lane County, OR"	"41039"	"2009"	"2009"	"Unintentional"	"1"	204	350850	58.1
+	"Lane County, OR"	"41039"	"2009"	"2009"	"Suicide"	"2"	67	350850	19.1
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Unintentional"	"1"	149	351715	42.4
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Suicide"	"2"	71	351715	20.2
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Homicide"	"3"	12	351715	Unreliable
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Undetermined "	"4"	12	351715	Unreliable
+	"Lane County, OR"	"41039"	"2011"	"2011"	"Unintentional"	"1"	180	353416	50.9
+	"Lane County, OR"	"41039"	"2011"	"2011"	"Suicide"	"2"	69	353416	19.5
+	"Lane County, OR"	"41039"	"2011"	"2011"	"Undetermined "	"4"	12	353416	Unreliable
+	"Lane County, OR"	"41039"	"2012"	"2012"	"Unintentional"	"1"	209	354542	58.9
+	"Lane County, OR"	"41039"	"2012"	"2012"	"Suicide"	"2"	61	354542	17.2
+	"Lane County, OR"	"41039"	"2012"	"2012"	"Homicide"	"3"	11	354542	Unreliable
+	"Lane County, OR"	"41039"	"2013"	"2013"	"Unintentional"	"1"	191	356212	53.6
+	"Lane County, OR"	"41039"	"2013"	"2013"	"Suicide"	"2"	74	356212	20.8
+	"Lane County, OR"	"41039"	"2014"	"2014"	"Unintentional"	"1"	208	358337	58.0
+	"Lane County, OR"	"41039"	"2014"	"2014"	"Suicide"	"2"	88	358337	24.6
+	"Lane County, OR"	"41039"	"2014"	"2014"	"Homicide"	"3"	11	358337	Unreliable
+	"Lane County, OR"	"41039"	"2014"	"2014"	"Undetermined "	"4"	10	358337	Unreliable
+	"Lane County, OR"	"41039"	"2015"	"2015"	"Unintentional"	"1"	261	362895	71.9
+	"Lane County, OR"	"41039"	"2015"	"2015"	"Suicide"	"2"	74	362895	20.4
+	"Lane County, OR"	"41039"	"2015"	"2015"	"Homicide"	"3"	22	362895	6.1
+	"Lane County, OR"	"41039"	"2015"	"2015"	"Undetermined "	"4"	10	362895	Unreliable
+	"Lane County, OR"	"41039"	"2016"	"2016"	"Unintentional"	"1"	243	369519	65.8
+	"Lane County, OR"	"41039"	"2016"	"2016"	"Suicide"	"2"	79	369519	21.4
+	"Lane County, OR"	"41039"	"2017"	"2017"	"Unintentional"	"1"	246	374748	65.6
+	"Lane County, OR"	"41039"	"2017"	"2017"	"Suicide"	"2"	88	374748	23.5
+	"Lane County, OR"	"41039"	"2017"	"2017"	"Undetermined "	"4"	10	374748	Unreliable
+	"Lane County, OR"	"41039"	"2018"	"2018"	"Unintentional"	"1"	220	379611	58.0
+	"Lane County, OR"	"41039"	"2018"	"2018"	"Suicide"	"2"	93	379611	24.5
+	"Lincoln County, OR"	"41041"	"1999"	"1999"	"Unintentional"	"1"	26	44935	57.9
+	"Lincoln County, OR"	"41041"	"2000"	"2000"	"Unintentional"	"1"	18	44479	Unreliable
+	"Lincoln County, OR"	"41041"	"2000"	"2000"	"Suicide"	"2"	17	44479	Unreliable
+	"Lincoln County, OR"	"41041"	"2001"	"2001"	"Unintentional"	"1"	17	43854	Unreliable
+	"Lincoln County, OR"	"41041"	"2002"	"2002"	"Unintentional"	"1"	26	44270	58.7
+	"Lincoln County, OR"	"41041"	"2003"	"2003"	"Unintentional"	"1"	32	44421	72.0
+	"Lincoln County, OR"	"41041"	"2003"	"2003"	"Suicide"	"2"	10	44421	Unreliable
+	"Lincoln County, OR"	"41041"	"2004"	"2004"	"Unintentional"	"1"	22	44877	49.0
+	"Lincoln County, OR"	"41041"	"2004"	"2004"	"Suicide"	"2"	10	44877	Unreliable
+	"Lincoln County, OR"	"41041"	"2005"	"2005"	"Unintentional"	"1"	25	45347	55.1
+	"Lincoln County, OR"	"41041"	"2006"	"2006"	"Unintentional"	"1"	32	45529	70.3
+	"Lincoln County, OR"	"41041"	"2006"	"2006"	"Suicide"	"2"	14	45529	Unreliable
+	"Lincoln County, OR"	"41041"	"2007"	"2007"	"Unintentional"	"1"	20	45798	43.7
+	"Lincoln County, OR"	"41041"	"2007"	"2007"	"Suicide"	"2"	11	45798	Unreliable
+	"Lincoln County, OR"	"41041"	"2008"	"2008"	"Unintentional"	"1"	22	45915	47.9
+	"Lincoln County, OR"	"41041"	"2008"	"2008"	"Suicide"	"2"	12	45915	Unreliable
+	"Lincoln County, OR"	"41041"	"2009"	"2009"	"Unintentional"	"1"	28	45989	60.9
+	"Lincoln County, OR"	"41041"	"2009"	"2009"	"Suicide"	"2"	10	45989	Unreliable
+	"Lincoln County, OR"	"41041"	"2010"	"2010"	"Unintentional"	"1"	29	46034	63.0
+	"Lincoln County, OR"	"41041"	"2010"	"2010"	"Suicide"	"2"	13	46034	Unreliable
+	"Lincoln County, OR"	"41041"	"2011"	"2011"	"Unintentional"	"1"	18	45933	Unreliable
+	"Lincoln County, OR"	"41041"	"2012"	"2012"	"Unintentional"	"1"	27	46151	58.5
+	"Lincoln County, OR"	"41041"	"2012"	"2012"	"Suicide"	"2"	12	46151	Unreliable
+	"Lincoln County, OR"	"41041"	"2013"	"2013"	"Unintentional"	"1"	35	46350	75.5
+	"Lincoln County, OR"	"41041"	"2013"	"2013"	"Suicide"	"2"	13	46350	Unreliable
+	"Lincoln County, OR"	"41041"	"2014"	"2014"	"Unintentional"	"1"	34	46406	73.3
+	"Lincoln County, OR"	"41041"	"2014"	"2014"	"Suicide"	"2"	19	46406	Unreliable
+	"Lincoln County, OR"	"41041"	"2015"	"2015"	"Unintentional"	"1"	37	47038	78.7
+	"Lincoln County, OR"	"41041"	"2015"	"2015"	"Suicide"	"2"	11	47038	Unreliable
+	"Lincoln County, OR"	"41041"	"2016"	"2016"	"Unintentional"	"1"	33	47806	69.0
+	"Lincoln County, OR"	"41041"	"2016"	"2016"	"Suicide"	"2"	24	47806	50.2
+	"Lincoln County, OR"	"41041"	"2017"	"2017"	"Unintentional"	"1"	38	48920	77.7
+	"Lincoln County, OR"	"41041"	"2017"	"2017"	"Suicide"	"2"	19	48920	Unreliable
+	"Lincoln County, OR"	"41041"	"2018"	"2018"	"Unintentional"	"1"	32	49388	64.8
+	"Lincoln County, OR"	"41041"	"2018"	"2018"	"Suicide"	"2"	18	49388	Unreliable
+	"Linn County, OR"	"41043"	"1999"	"1999"	"Unintentional"	"1"	41	103462	39.6
+	"Linn County, OR"	"41043"	"1999"	"1999"	"Suicide"	"2"	16	103462	Unreliable
+	"Linn County, OR"	"41043"	"2000"	"2000"	"Unintentional"	"1"	34	103069	33.0
+	"Linn County, OR"	"41043"	"2000"	"2000"	"Suicide"	"2"	12	103069	Unreliable
+	"Linn County, OR"	"41043"	"2001"	"2001"	"Unintentional"	"1"	44	103544	42.5
+	"Linn County, OR"	"41043"	"2001"	"2001"	"Suicide"	"2"	20	103544	19.3
+	"Linn County, OR"	"41043"	"2002"	"2002"	"Unintentional"	"1"	51	104561	48.8
+	"Linn County, OR"	"41043"	"2002"	"2002"	"Suicide"	"2"	18	104561	Unreliable
+	"Linn County, OR"	"41043"	"2003"	"2003"	"Unintentional"	"1"	56	106035	52.8
+	"Linn County, OR"	"41043"	"2003"	"2003"	"Suicide"	"2"	17	106035	Unreliable
+	"Linn County, OR"	"41043"	"2004"	"2004"	"Unintentional"	"1"	50	106799	46.8
+	"Linn County, OR"	"41043"	"2004"	"2004"	"Suicide"	"2"	14	106799	Unreliable
+	"Linn County, OR"	"41043"	"2005"	"2005"	"Unintentional"	"1"	62	108132	57.3
+	"Linn County, OR"	"41043"	"2005"	"2005"	"Suicide"	"2"	19	108132	Unreliable
+	"Linn County, OR"	"41043"	"2006"	"2006"	"Unintentional"	"1"	60	110764	54.2
+	"Linn County, OR"	"41043"	"2006"	"2006"	"Suicide"	"2"	14	110764	Unreliable
+	"Linn County, OR"	"41043"	"2007"	"2007"	"Unintentional"	"1"	55	112932	48.7
+	"Linn County, OR"	"41043"	"2007"	"2007"	"Suicide"	"2"	16	112932	Unreliable
+	"Linn County, OR"	"41043"	"2008"	"2008"	"Unintentional"	"1"	48	114967	41.8
+	"Linn County, OR"	"41043"	"2008"	"2008"	"Suicide"	"2"	14	114967	Unreliable
+	"Linn County, OR"	"41043"	"2009"	"2009"	"Unintentional"	"1"	51	116001	44.0
+	"Linn County, OR"	"41043"	"2009"	"2009"	"Suicide"	"2"	21	116001	18.1
+	"Linn County, OR"	"41043"	"2010"	"2010"	"Unintentional"	"1"	60	116672	51.4
+	"Linn County, OR"	"41043"	"2010"	"2010"	"Suicide"	"2"	20	116672	17.1
+	"Linn County, OR"	"41043"	"2011"	"2011"	"Unintentional"	"1"	56	118122	47.4
+	"Linn County, OR"	"41043"	"2011"	"2011"	"Suicide"	"2"	21	118122	17.8
+	"Linn County, OR"	"41043"	"2012"	"2012"	"Unintentional"	"1"	42	118360	35.5
+	"Linn County, OR"	"41043"	"2012"	"2012"	"Suicide"	"2"	16	118360	Unreliable
+	"Linn County, OR"	"41043"	"2013"	"2013"	"Unintentional"	"1"	65	118765	54.7
+	"Linn County, OR"	"41043"	"2013"	"2013"	"Suicide"	"2"	19	118765	Unreliable
+	"Linn County, OR"	"41043"	"2014"	"2014"	"Unintentional"	"1"	69	119356	57.8
+	"Linn County, OR"	"41043"	"2014"	"2014"	"Suicide"	"2"	22	119356	18.4
+	"Linn County, OR"	"41043"	"2015"	"2015"	"Unintentional"	"1"	78	120547	64.7
+	"Linn County, OR"	"41043"	"2015"	"2015"	"Suicide"	"2"	22	120547	18.3
+	"Linn County, OR"	"41043"	"2016"	"2016"	"Unintentional"	"1"	90	122849	73.3
+	"Linn County, OR"	"41043"	"2016"	"2016"	"Suicide"	"2"	30	122849	24.4
+	"Linn County, OR"	"41043"	"2017"	"2017"	"Unintentional"	"1"	74	125047	59.2
+	"Linn County, OR"	"41043"	"2017"	"2017"	"Suicide"	"2"	29	125047	23.2
+	"Linn County, OR"	"41043"	"2018"	"2018"	"Unintentional"	"1"	78	127335	61.3
+	"Linn County, OR"	"41043"	"2018"	"2018"	"Suicide"	"2"	22	127335	17.3
+	"Malheur County, OR"	"41045"	"1999"	"1999"	"Unintentional"	"1"	12	31558	Unreliable
+	"Malheur County, OR"	"41045"	"2000"	"2000"	"Unintentional"	"1"	19	31615	Unreliable
+	"Malheur County, OR"	"41045"	"2002"	"2002"	"Unintentional"	"1"	12	31455	Unreliable
+	"Malheur County, OR"	"41045"	"2003"	"2003"	"Unintentional"	"1"	12	31335	Unreliable
+	"Malheur County, OR"	"41045"	"2004"	"2004"	"Unintentional"	"1"	11	31250	Unreliable
+	"Malheur County, OR"	"41045"	"2005"	"2005"	"Unintentional"	"1"	15	31273	Unreliable
+	"Malheur County, OR"	"41045"	"2006"	"2006"	"Unintentional"	"1"	14	31303	Unreliable
+	"Malheur County, OR"	"41045"	"2007"	"2007"	"Unintentional"	"1"	18	31434	Unreliable
+	"Malheur County, OR"	"41045"	"2008"	"2008"	"Unintentional"	"1"	13	31311	Unreliable
+	"Malheur County, OR"	"41045"	"2009"	"2009"	"Unintentional"	"1"	15	31265	Unreliable
+	"Malheur County, OR"	"41045"	"2011"	"2011"	"Unintentional"	"1"	18	31068	Unreliable
+	"Malheur County, OR"	"41045"	"2012"	"2012"	"Unintentional"	"1"	14	30630	Unreliable
+	"Malheur County, OR"	"41045"	"2013"	"2013"	"Unintentional"	"1"	18	30479	Unreliable
+	"Malheur County, OR"	"41045"	"2015"	"2015"	"Unintentional"	"1"	16	30380	Unreliable
+	"Malheur County, OR"	"41045"	"2016"	"2016"	"Unintentional"	"1"	14	30439	Unreliable
+	"Malheur County, OR"	"41045"	"2017"	"2017"	"Unintentional"	"1"	19	30480	Unreliable
+	"Malheur County, OR"	"41045"	"2018"	"2018"	"Unintentional"	"1"	16	30725	Unreliable
+	"Marion County, OR"	"41047"	"1999"	"1999"	"Unintentional"	"1"	84	282129	29.8
+	"Marion County, OR"	"41047"	"1999"	"1999"	"Suicide"	"2"	36	282129	12.8
+	"Marion County, OR"	"41047"	"2000"	"2000"	"Unintentional"	"1"	94	284834	33.0
+	"Marion County, OR"	"41047"	"2000"	"2000"	"Suicide"	"2"	38	284834	13.3
+	"Marion County, OR"	"41047"	"2000"	"2000"	"Homicide"	"3"	11	284834	Unreliable
+	"Marion County, OR"	"41047"	"2001"	"2001"	"Unintentional"	"1"	100	288136	34.7
+	"Marion County, OR"	"41047"	"2001"	"2001"	"Suicide"	"2"	35	288136	12.1
+	"Marion County, OR"	"41047"	"2001"	"2001"	"Homicide"	"3"	11	288136	Unreliable
+	"Marion County, OR"	"41047"	"2002"	"2002"	"Unintentional"	"1"	102	292533	34.9
+	"Marion County, OR"	"41047"	"2002"	"2002"	"Suicide"	"2"	38	292533	13.0
+	"Marion County, OR"	"41047"	"2002"	"2002"	"Homicide"	"3"	12	292533	Unreliable
+	"Marion County, OR"	"41047"	"2003"	"2003"	"Unintentional"	"1"	109	295317	36.9
+	"Marion County, OR"	"41047"	"2003"	"2003"	"Suicide"	"2"	46	295317	15.6
+	"Marion County, OR"	"41047"	"2003"	"2003"	"Homicide"	"3"	17	295317	Unreliable
+	"Marion County, OR"	"41047"	"2004"	"2004"	"Unintentional"	"1"	109	297139	36.7
+	"Marion County, OR"	"41047"	"2004"	"2004"	"Suicide"	"2"	46	297139	15.5
+	"Marion County, OR"	"41047"	"2005"	"2005"	"Unintentional"	"1"	99	299461	33.1
+	"Marion County, OR"	"41047"	"2005"	"2005"	"Suicide"	"2"	39	299461	13.0
+	"Marion County, OR"	"41047"	"2006"	"2006"	"Unintentional"	"1"	111	303290	36.6
+	"Marion County, OR"	"41047"	"2006"	"2006"	"Suicide"	"2"	37	303290	12.2
+	"Marion County, OR"	"41047"	"2006"	"2006"	"Homicide"	"3"	12	303290	Unreliable
+	"Marion County, OR"	"41047"	"2006"	"2006"	"Undetermined "	"4"	10	303290	Unreliable
+	"Marion County, OR"	"41047"	"2007"	"2007"	"Unintentional"	"1"	117	306964	38.1
+	"Marion County, OR"	"41047"	"2007"	"2007"	"Suicide"	"2"	46	306964	15.0
+	"Marion County, OR"	"41047"	"2008"	"2008"	"Unintentional"	"1"	145	309729	46.8
+	"Marion County, OR"	"41047"	"2008"	"2008"	"Suicide"	"2"	33	309729	10.7
+	"Marion County, OR"	"41047"	"2008"	"2008"	"Homicide"	"3"	12	309729	Unreliable
+	"Marion County, OR"	"41047"	"2009"	"2009"	"Unintentional"	"1"	135	313389	43.1
+	"Marion County, OR"	"41047"	"2009"	"2009"	"Suicide"	"2"	48	313389	15.3
+	"Marion County, OR"	"41047"	"2010"	"2010"	"Unintentional"	"1"	128	315335	40.6
+	"Marion County, OR"	"41047"	"2010"	"2010"	"Suicide"	"2"	50	315335	15.9
+	"Marion County, OR"	"41047"	"2011"	"2011"	"Unintentional"	"1"	137	318872	43.0
+	"Marion County, OR"	"41047"	"2011"	"2011"	"Suicide"	"2"	41	318872	12.9
+	"Marion County, OR"	"41047"	"2012"	"2012"	"Unintentional"	"1"	130	319985	40.6
+	"Marion County, OR"	"41047"	"2012"	"2012"	"Suicide"	"2"	57	319985	17.8
+	"Marion County, OR"	"41047"	"2012"	"2012"	"Homicide"	"3"	10	319985	Unreliable
+	"Marion County, OR"	"41047"	"2013"	"2013"	"Unintentional"	"1"	143	323614	44.2
+	"Marion County, OR"	"41047"	"2013"	"2013"	"Suicide"	"2"	33	323614	10.2
+	"Marion County, OR"	"41047"	"2014"	"2014"	"Unintentional"	"1"	127	326110	38.9
+	"Marion County, OR"	"41047"	"2014"	"2014"	"Suicide"	"2"	40	326110	12.3
+	"Marion County, OR"	"41047"	"2015"	"2015"	"Unintentional"	"1"	161	330700	48.7
+	"Marion County, OR"	"41047"	"2015"	"2015"	"Suicide"	"2"	54	330700	16.3
+	"Marion County, OR"	"41047"	"2016"	"2016"	"Unintentional"	"1"	164	336316	48.8
+	"Marion County, OR"	"41047"	"2016"	"2016"	"Suicide"	"2"	56	336316	16.7
+	"Marion County, OR"	"41047"	"2017"	"2017"	"Unintentional"	"1"	170	341286	49.8
+	"Marion County, OR"	"41047"	"2017"	"2017"	"Suicide"	"2"	58	341286	17.0
+	"Marion County, OR"	"41047"	"2017"	"2017"	"Homicide"	"3"	16	341286	Unreliable
+	"Marion County, OR"	"41047"	"2018"	"2018"	"Unintentional"	"1"	165	346868	47.6
+	"Marion County, OR"	"41047"	"2018"	"2018"	"Suicide"	"2"	63	346868	18.2
+	"Multnomah County, OR"	"41051"	"1999"	"1999"	"Unintentional"	"1"	240	657740	36.5
+	"Multnomah County, OR"	"41051"	"1999"	"1999"	"Suicide"	"2"	99	657740	15.1
+	"Multnomah County, OR"	"41051"	"1999"	"1999"	"Homicide"	"3"	39	657740	5.9
+	"Multnomah County, OR"	"41051"	"1999"	"1999"	"Undetermined "	"4"	15	657740	Unreliable
+	"Multnomah County, OR"	"41051"	"2000"	"2000"	"Unintentional"	"1"	238	660486	36.0
+	"Multnomah County, OR"	"41051"	"2000"	"2000"	"Suicide"	"2"	87	660486	13.2
+	"Multnomah County, OR"	"41051"	"2000"	"2000"	"Homicide"	"3"	27	660486	4.1
+	"Multnomah County, OR"	"41051"	"2000"	"2000"	"Undetermined "	"4"	18	660486	Unreliable
+	"Multnomah County, OR"	"41051"	"2001"	"2001"	"Unintentional"	"1"	258	669690	38.5
+	"Multnomah County, OR"	"41051"	"2001"	"2001"	"Suicide"	"2"	82	669690	12.2
+	"Multnomah County, OR"	"41051"	"2001"	"2001"	"Homicide"	"3"	31	669690	4.6
+	"Multnomah County, OR"	"41051"	"2001"	"2001"	"Undetermined "	"4"	20	669690	3.0
+	"Multnomah County, OR"	"41051"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	669690	Unreliable
+	"Multnomah County, OR"	"41051"	"2002"	"2002"	"Unintentional"	"1"	270	676653	39.9
+	"Multnomah County, OR"	"41051"	"2002"	"2002"	"Suicide"	"2"	96	676653	14.2
+	"Multnomah County, OR"	"41051"	"2002"	"2002"	"Homicide"	"3"	26	676653	3.8
+	"Multnomah County, OR"	"41051"	"2002"	"2002"	"Undetermined "	"4"	26	676653	3.8
+	"Multnomah County, OR"	"41051"	"2003"	"2003"	"Unintentional"	"1"	266	679348	39.2
+	"Multnomah County, OR"	"41051"	"2003"	"2003"	"Suicide"	"2"	101	679348	14.9
+	"Multnomah County, OR"	"41051"	"2003"	"2003"	"Homicide"	"3"	26	679348	3.8
+	"Multnomah County, OR"	"41051"	"2003"	"2003"	"Undetermined "	"4"	22	679348	3.2
+	"Multnomah County, OR"	"41051"	"2004"	"2004"	"Unintentional"	"1"	260	672526	38.7
+	"Multnomah County, OR"	"41051"	"2004"	"2004"	"Suicide"	"2"	94	672526	14.0
+	"Multnomah County, OR"	"41051"	"2004"	"2004"	"Homicide"	"3"	32	672526	4.8
+	"Multnomah County, OR"	"41051"	"2004"	"2004"	"Undetermined "	"4"	32	672526	4.8
+	"Multnomah County, OR"	"41051"	"2005"	"2005"	"Unintentional"	"1"	262	674862	38.8
+	"Multnomah County, OR"	"41051"	"2005"	"2005"	"Suicide"	"2"	95	674862	14.1
+	"Multnomah County, OR"	"41051"	"2005"	"2005"	"Homicide"	"3"	32	674862	4.7
+	"Multnomah County, OR"	"41051"	"2005"	"2005"	"Undetermined "	"4"	20	674862	3.0
+	"Multnomah County, OR"	"41051"	"2006"	"2006"	"Unintentional"	"1"	282	683767	41.2
+	"Multnomah County, OR"	"41051"	"2006"	"2006"	"Suicide"	"2"	107	683767	15.6
+	"Multnomah County, OR"	"41051"	"2006"	"2006"	"Homicide"	"3"	28	683767	4.1
+	"Multnomah County, OR"	"41051"	"2006"	"2006"	"Undetermined "	"4"	24	683767	3.5
+	"Multnomah County, OR"	"41051"	"2007"	"2007"	"Unintentional"	"1"	323	697799	46.3
+	"Multnomah County, OR"	"41051"	"2007"	"2007"	"Suicide"	"2"	107	697799	15.3
+	"Multnomah County, OR"	"41051"	"2007"	"2007"	"Homicide"	"3"	27	697799	3.9
+	"Multnomah County, OR"	"41051"	"2007"	"2007"	"Undetermined "	"4"	30	697799	4.3
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Unintentional"	"1"	294	712989	41.2
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Suicide"	"2"	107	712989	15.0
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Homicide"	"3"	31	712989	4.3
+	"Multnomah County, OR"	"41051"	"2008"	"2008"	"Undetermined "	"4"	19	712989	Unreliable
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Unintentional"	"1"	303	727721	41.6
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Suicide"	"2"	111	727721	15.3
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Homicide"	"3"	22	727721	3.0
+	"Multnomah County, OR"	"41051"	"2009"	"2009"	"Undetermined "	"4"	25	727721	3.4
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Unintentional"	"1"	290	735334	39.4
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Suicide"	"2"	109	735334	14.8
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Homicide"	"3"	31	735334	4.2
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Undetermined "	"4"	26	735334	3.5
+	"Multnomah County, OR"	"41051"	"2011"	"2011"	"Unintentional"	"1"	333	748031	44.5
+	"Multnomah County, OR"	"41051"	"2011"	"2011"	"Suicide"	"2"	113	748031	15.1
+	"Multnomah County, OR"	"41051"	"2011"	"2011"	"Homicide"	"3"	24	748031	3.2
+	"Multnomah County, OR"	"41051"	"2011"	"2011"	"Undetermined "	"4"	10	748031	Unreliable
+	"Multnomah County, OR"	"41051"	"2012"	"2012"	"Unintentional"	"1"	327	759256	43.1
+	"Multnomah County, OR"	"41051"	"2012"	"2012"	"Suicide"	"2"	131	759256	17.3
+	"Multnomah County, OR"	"41051"	"2012"	"2012"	"Homicide"	"3"	26	759256	3.4
+	"Multnomah County, OR"	"41051"	"2013"	"2013"	"Unintentional"	"1"	337	766135	44.0
+	"Multnomah County, OR"	"41051"	"2013"	"2013"	"Suicide"	"2"	138	766135	18.0
+	"Multnomah County, OR"	"41051"	"2013"	"2013"	"Homicide"	"3"	24	766135	3.1
+	"Multnomah County, OR"	"41051"	"2013"	"2013"	"Undetermined "	"4"	13	766135	Unreliable
+	"Multnomah County, OR"	"41051"	"2014"	"2014"	"Unintentional"	"1"	315	776712	40.6
+	"Multnomah County, OR"	"41051"	"2014"	"2014"	"Suicide"	"2"	147	776712	18.9
+	"Multnomah County, OR"	"41051"	"2014"	"2014"	"Homicide"	"3"	30	776712	3.9
+	"Multnomah County, OR"	"41051"	"2014"	"2014"	"Undetermined "	"4"	18	776712	Unreliable
+	"Multnomah County, OR"	"41051"	"2015"	"2015"	"Unintentional"	"1"	331	790294	41.9
+	"Multnomah County, OR"	"41051"	"2015"	"2015"	"Suicide"	"2"	126	790294	15.9
+	"Multnomah County, OR"	"41051"	"2015"	"2015"	"Homicide"	"3"	33	790294	4.2
+	"Multnomah County, OR"	"41051"	"2015"	"2015"	"Undetermined "	"4"	25	790294	3.2
+	"Multnomah County, OR"	"41051"	"2016"	"2016"	"Unintentional"	"1"	354	799766	44.3
+	"Multnomah County, OR"	"41051"	"2016"	"2016"	"Suicide"	"2"	122	799766	15.3
+	"Multnomah County, OR"	"41051"	"2016"	"2016"	"Homicide"	"3"	31	799766	3.9
+	"Multnomah County, OR"	"41051"	"2016"	"2016"	"Undetermined "	"4"	22	799766	2.8
+	"Multnomah County, OR"	"41051"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	13	799766	Unreliable
+	"Multnomah County, OR"	"41051"	"2017"	"2017"	"Unintentional"	"1"	402	807555	49.8
+	"Multnomah County, OR"	"41051"	"2017"	"2017"	"Suicide"	"2"	136	807555	16.8
+	"Multnomah County, OR"	"41051"	"2017"	"2017"	"Homicide"	"3"	33	807555	4.1
+	"Multnomah County, OR"	"41051"	"2017"	"2017"	"Undetermined "	"4"	17	807555	Unreliable
+	"Multnomah County, OR"	"41051"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	807555	Unreliable
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	"Unintentional"	"1"	407	811880	50.1
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	"Suicide"	"2"	152	811880	18.7
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	"Homicide"	"3"	24	811880	3.0
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	"Undetermined "	"4"	12	811880	Unreliable
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	811880	Unreliable
+	"Polk County, OR"	"41053"	"1999"	"1999"	"Unintentional"	"1"	10	61856	Unreliable
+	"Polk County, OR"	"41053"	"2000"	"2000"	"Unintentional"	"1"	22	62380	35.3
+	"Polk County, OR"	"41053"	"2001"	"2001"	"Unintentional"	"1"	16	63445	Unreliable
+	"Polk County, OR"	"41053"	"2002"	"2002"	"Unintentional"	"1"	24	64135	37.4
+	"Polk County, OR"	"41053"	"2003"	"2003"	"Unintentional"	"1"	28	65060	43.0
+	"Polk County, OR"	"41053"	"2003"	"2003"	"Suicide"	"2"	11	65060	Unreliable
+	"Polk County, OR"	"41053"	"2004"	"2004"	"Unintentional"	"1"	26	66569	39.1
+	"Polk County, OR"	"41053"	"2005"	"2005"	"Unintentional"	"1"	19	68585	Unreliable
+	"Polk County, OR"	"41053"	"2006"	"2006"	"Unintentional"	"1"	25	71027	35.2
+	"Polk County, OR"	"41053"	"2006"	"2006"	"Suicide"	"2"	10	71027	Unreliable
+	"Polk County, OR"	"41053"	"2007"	"2007"	"Unintentional"	"1"	31	72791	42.6
+	"Polk County, OR"	"41053"	"2007"	"2007"	"Suicide"	"2"	12	72791	Unreliable
+	"Polk County, OR"	"41053"	"2008"	"2008"	"Unintentional"	"1"	49	74346	65.9
+	"Polk County, OR"	"41053"	"2009"	"2009"	"Unintentional"	"1"	33	74934	44.0
+	"Polk County, OR"	"41053"	"2009"	"2009"	"Suicide"	"2"	13	74934	Unreliable
+	"Polk County, OR"	"41053"	"2010"	"2010"	"Unintentional"	"1"	25	75403	33.2
+	"Polk County, OR"	"41053"	"2010"	"2010"	"Suicide"	"2"	11	75403	Unreliable
+	"Polk County, OR"	"41053"	"2011"	"2011"	"Unintentional"	"1"	31	75993	40.8
+	"Polk County, OR"	"41053"	"2011"	"2011"	"Suicide"	"2"	10	75993	Unreliable
+	"Polk County, OR"	"41053"	"2012"	"2012"	"Unintentional"	"1"	30	76353	39.3
+	"Polk County, OR"	"41053"	"2013"	"2013"	"Unintentional"	"1"	35	76794	45.6
+	"Polk County, OR"	"41053"	"2014"	"2014"	"Unintentional"	"1"	42	77916	53.9
+	"Polk County, OR"	"41053"	"2014"	"2014"	"Suicide"	"2"	12	77916	Unreliable
+	"Polk County, OR"	"41053"	"2015"	"2015"	"Unintentional"	"1"	35	79391	44.1
+	"Polk County, OR"	"41053"	"2016"	"2016"	"Unintentional"	"1"	47	81823	57.4
+	"Polk County, OR"	"41053"	"2017"	"2017"	"Unintentional"	"1"	45	83696	53.8
+	"Polk County, OR"	"41053"	"2018"	"2018"	"Unintentional"	"1"	55	85234	64.5
+	"Polk County, OR"	"41053"	"2018"	"2018"	"Suicide"	"2"	13	85234	Unreliable
+	"Tillamook County, OR"	"41057"	"2000"	"2000"	"Unintentional"	"1"	10	24262	Unreliable
+	"Tillamook County, OR"	"41057"	"2001"	"2001"	"Unintentional"	"1"	13	24359	Unreliable
+	"Tillamook County, OR"	"41057"	"2002"	"2002"	"Unintentional"	"1"	18	24396	Unreliable
+	"Tillamook County, OR"	"41057"	"2003"	"2003"	"Unintentional"	"1"	16	24565	Unreliable
+	"Tillamook County, OR"	"41057"	"2004"	"2004"	"Unintentional"	"1"	15	24780	Unreliable
+	"Tillamook County, OR"	"41057"	"2004"	"2004"	"Suicide"	"2"	10	24780	Unreliable
+	"Tillamook County, OR"	"41057"	"2005"	"2005"	"Unintentional"	"1"	10	24974	Unreliable
+	"Tillamook County, OR"	"41057"	"2006"	"2006"	"Unintentional"	"1"	15	25160	Unreliable
+	"Tillamook County, OR"	"41057"	"2007"	"2007"	"Unintentional"	"1"	11	25243	Unreliable
+	"Tillamook County, OR"	"41057"	"2008"	"2008"	"Unintentional"	"1"	19	25151	Unreliable
+	"Tillamook County, OR"	"41057"	"2009"	"2009"	"Unintentional"	"1"	12	25179	Unreliable
+	"Tillamook County, OR"	"41057"	"2010"	"2010"	"Unintentional"	"1"	18	25250	Unreliable
+	"Tillamook County, OR"	"41057"	"2011"	"2011"	"Unintentional"	"1"	23	25403	90.5
+	"Tillamook County, OR"	"41057"	"2012"	"2012"	"Unintentional"	"1"	14	25287	Unreliable
+	"Tillamook County, OR"	"41057"	"2013"	"2013"	"Unintentional"	"1"	17	25317	Unreliable
+	"Tillamook County, OR"	"41057"	"2015"	"2015"	"Unintentional"	"1"	12	25653	Unreliable
+	"Tillamook County, OR"	"41057"	"2016"	"2016"	"Unintentional"	"1"	20	26143	76.5
+	"Tillamook County, OR"	"41057"	"2016"	"2016"	"Suicide"	"2"	10	26143	Unreliable
+	"Tillamook County, OR"	"41057"	"2017"	"2017"	"Unintentional"	"1"	17	26690	Unreliable
+	"Tillamook County, OR"	"41057"	"2018"	"2018"	"Unintentional"	"1"	19	26787	Unreliable
+	"Umatilla County, OR"	"41059"	"1999"	"1999"	"Unintentional"	"1"	29	69847	41.5
+	"Umatilla County, OR"	"41059"	"2000"	"2000"	"Unintentional"	"1"	22	70548	31.2
+	"Umatilla County, OR"	"41059"	"2001"	"2001"	"Unintentional"	"1"	30	70682	42.4
+	"Umatilla County, OR"	"41059"	"2002"	"2002"	"Unintentional"	"1"	32	72150	44.4
+	"Umatilla County, OR"	"41059"	"2003"	"2003"	"Unintentional"	"1"	38	72820	52.2
+	"Umatilla County, OR"	"41059"	"2004"	"2004"	"Unintentional"	"1"	28	73463	38.1
+	"Umatilla County, OR"	"41059"	"2004"	"2004"	"Suicide"	"2"	21	73463	28.6
+	"Umatilla County, OR"	"41059"	"2005"	"2005"	"Unintentional"	"1"	36	73765	48.8
+	"Umatilla County, OR"	"41059"	"2006"	"2006"	"Unintentional"	"1"	25	73984	33.8
+	"Umatilla County, OR"	"41059"	"2007"	"2007"	"Unintentional"	"1"	32	74269	43.1
+	"Umatilla County, OR"	"41059"	"2007"	"2007"	"Suicide"	"2"	10	74269	Unreliable
+	"Umatilla County, OR"	"41059"	"2008"	"2008"	"Unintentional"	"1"	43	74488	57.7
+	"Umatilla County, OR"	"41059"	"2008"	"2008"	"Suicide"	"2"	15	74488	Unreliable
+	"Umatilla County, OR"	"41059"	"2009"	"2009"	"Unintentional"	"1"	31	75199	41.2
+	"Umatilla County, OR"	"41059"	"2009"	"2009"	"Suicide"	"2"	13	75199	Unreliable
+	"Umatilla County, OR"	"41059"	"2010"	"2010"	"Unintentional"	"1"	39	75889	51.4
+	"Umatilla County, OR"	"41059"	"2010"	"2010"	"Suicide"	"2"	16	75889	Unreliable
+	"Umatilla County, OR"	"41059"	"2011"	"2011"	"Unintentional"	"1"	36	76725	46.9
+	"Umatilla County, OR"	"41059"	"2011"	"2011"	"Suicide"	"2"	12	76725	Unreliable
+	"Umatilla County, OR"	"41059"	"2012"	"2012"	"Unintentional"	"1"	31	76820	40.4
+	"Umatilla County, OR"	"41059"	"2013"	"2013"	"Unintentional"	"1"	41	76720	53.4
+	"Umatilla County, OR"	"41059"	"2013"	"2013"	"Suicide"	"2"	14	76720	Unreliable
+	"Umatilla County, OR"	"41059"	"2014"	"2014"	"Unintentional"	"1"	28	76705	36.5
+	"Umatilla County, OR"	"41059"	"2014"	"2014"	"Suicide"	"2"	17	76705	Unreliable
+	"Umatilla County, OR"	"41059"	"2015"	"2015"	"Unintentional"	"1"	40	76531	52.3
+	"Umatilla County, OR"	"41059"	"2015"	"2015"	"Suicide"	"2"	12	76531	Unreliable
+	"Umatilla County, OR"	"41059"	"2016"	"2016"	"Unintentional"	"1"	43	76456	56.2
+	"Umatilla County, OR"	"41059"	"2016"	"2016"	"Suicide"	"2"	15	76456	Unreliable
+	"Umatilla County, OR"	"41059"	"2017"	"2017"	"Unintentional"	"1"	31	76985	40.3
+	"Umatilla County, OR"	"41059"	"2017"	"2017"	"Suicide"	"2"	20	76985	26.0
+	"Umatilla County, OR"	"41059"	"2018"	"2018"	"Unintentional"	"1"	41	77516	52.9
+	"Umatilla County, OR"	"41059"	"2018"	"2018"	"Suicide"	"2"	15	77516	Unreliable
+	"Union County, OR"	"41061"	"2000"	"2000"	"Unintentional"	"1"	11	24530	Unreliable
+	"Union County, OR"	"41061"	"2001"	"2001"	"Unintentional"	"1"	13	24353	Unreliable
+	"Union County, OR"	"41061"	"2002"	"2002"	"Unintentional"	"1"	13	24472	Unreliable
+	"Union County, OR"	"41061"	"2003"	"2003"	"Unintentional"	"1"	10	24607	Unreliable
+	"Union County, OR"	"41061"	"2004"	"2004"	"Unintentional"	"1"	10	24513	Unreliable
+	"Union County, OR"	"41061"	"2005"	"2005"	"Unintentional"	"1"	14	24675	Unreliable
+	"Union County, OR"	"41061"	"2006"	"2006"	"Unintentional"	"1"	13	24754	Unreliable
+	"Union County, OR"	"41061"	"2008"	"2008"	"Unintentional"	"1"	14	25473	Unreliable
+	"Union County, OR"	"41061"	"2009"	"2009"	"Unintentional"	"1"	14	25580	Unreliable
+	"Union County, OR"	"41061"	"2010"	"2010"	"Unintentional"	"1"	12	25748	Unreliable
+	"Union County, OR"	"41061"	"2011"	"2011"	"Unintentional"	"1"	14	25791	Unreliable
+	"Union County, OR"	"41061"	"2012"	"2012"	"Unintentional"	"1"	16	25759	Unreliable
+	"Union County, OR"	"41061"	"2013"	"2013"	"Unintentional"	"1"	10	25652	Unreliable
+	"Union County, OR"	"41061"	"2014"	"2014"	"Unintentional"	"1"	15	25691	Unreliable
+	"Union County, OR"	"41061"	"2015"	"2015"	"Unintentional"	"1"	23	25790	89.2
+	"Union County, OR"	"41061"	"2016"	"2016"	"Unintentional"	"1"	15	26087	Unreliable
+	"Union County, OR"	"41061"	"2017"	"2017"	"Unintentional"	"1"	17	26222	Unreliable
+	"Union County, OR"	"41061"	"2018"	"2018"	"Unintentional"	"1"	12	26461	Unreliable
+	"Wasco County, OR"	"41065"	"1999"	"1999"	"Unintentional"	"1"	13	23665	Unreliable
+	"Wasco County, OR"	"41065"	"2000"	"2000"	"Unintentional"	"1"	11	23791	Unreliable
+	"Wasco County, OR"	"41065"	"2001"	"2001"	"Unintentional"	"1"	11	23808	Unreliable
+	"Wasco County, OR"	"41065"	"2002"	"2002"	"Unintentional"	"1"	13	23699	Unreliable
+	"Wasco County, OR"	"41065"	"2003"	"2003"	"Unintentional"	"1"	13	23885	Unreliable
+	"Wasco County, OR"	"41065"	"2005"	"2005"	"Unintentional"	"1"	11	23929	Unreliable
+	"Wasco County, OR"	"41065"	"2008"	"2008"	"Unintentional"	"1"	20	24617	81.2
+	"Wasco County, OR"	"41065"	"2009"	"2009"	"Unintentional"	"1"	10	24981	Unreliable
+	"Wasco County, OR"	"41065"	"2010"	"2010"	"Unintentional"	"1"	16	25213	Unreliable
+	"Wasco County, OR"	"41065"	"2012"	"2012"	"Unintentional"	"1"	16	25487	Unreliable
+	"Wasco County, OR"	"41065"	"2012"	"2012"	"Suicide"	"2"	10	25487	Unreliable
+	"Wasco County, OR"	"41065"	"2013"	"2013"	"Unintentional"	"1"	17	25477	Unreliable
+	"Wasco County, OR"	"41065"	"2014"	"2014"	"Unintentional"	"1"	13	25515	Unreliable
+	"Wasco County, OR"	"41065"	"2015"	"2015"	"Unintentional"	"1"	14	25775	Unreliable
+	"Wasco County, OR"	"41065"	"2016"	"2016"	"Unintentional"	"1"	12	26115	Unreliable
+	"Wasco County, OR"	"41065"	"2017"	"2017"	"Unintentional"	"1"	16	26437	Unreliable
+	"Wasco County, OR"	"41065"	"2018"	"2018"	"Unintentional"	"1"	15	26505	Unreliable
+	"Washington County, OR"	"41067"	"1999"	"1999"	"Unintentional"	"1"	102	435602	23.4
+	"Washington County, OR"	"41067"	"1999"	"1999"	"Suicide"	"2"	48	435602	11.0
+	"Washington County, OR"	"41067"	"2000"	"2000"	"Unintentional"	"1"	122	445342	27.4
+	"Washington County, OR"	"41067"	"2000"	"2000"	"Suicide"	"2"	49	445342	11.0
+	"Washington County, OR"	"41067"	"2001"	"2001"	"Unintentional"	"1"	102	460622	22.1
+	"Washington County, OR"	"41067"	"2001"	"2001"	"Suicide"	"2"	54	460622	11.7
+	"Washington County, OR"	"41067"	"2002"	"2002"	"Unintentional"	"1"	123	468549	26.3
+	"Washington County, OR"	"41067"	"2002"	"2002"	"Suicide"	"2"	50	468549	10.7
+	"Washington County, OR"	"41067"	"2002"	"2002"	"Undetermined "	"4"	11	468549	Unreliable
+	"Washington County, OR"	"41067"	"2003"	"2003"	"Unintentional"	"1"	110	474336	23.2
+	"Washington County, OR"	"41067"	"2003"	"2003"	"Suicide"	"2"	60	474336	12.6
+	"Washington County, OR"	"41067"	"2004"	"2004"	"Unintentional"	"1"	130	480207	27.1
+	"Washington County, OR"	"41067"	"2004"	"2004"	"Suicide"	"2"	55	480207	11.5
+	"Washington County, OR"	"41067"	"2005"	"2005"	"Unintentional"	"1"	112	490773	22.8
+	"Washington County, OR"	"41067"	"2005"	"2005"	"Suicide"	"2"	53	490773	10.8
+	"Washington County, OR"	"41067"	"2005"	"2005"	"Undetermined "	"4"	12	490773	Unreliable
+	"Washington County, OR"	"41067"	"2006"	"2006"	"Unintentional"	"1"	128	502226	25.5
+	"Washington County, OR"	"41067"	"2006"	"2006"	"Suicide"	"2"	59	502226	11.7
+	"Washington County, OR"	"41067"	"2006"	"2006"	"Homicide"	"3"	11	502226	Unreliable
+	"Washington County, OR"	"41067"	"2007"	"2007"	"Unintentional"	"1"	151	508842	29.7
+	"Washington County, OR"	"41067"	"2007"	"2007"	"Suicide"	"2"	66	508842	13.0
+	"Washington County, OR"	"41067"	"2007"	"2007"	"Undetermined "	"4"	13	508842	Unreliable
+	"Washington County, OR"	"41067"	"2008"	"2008"	"Unintentional"	"1"	127	515815	24.6
+	"Washington County, OR"	"41067"	"2008"	"2008"	"Suicide"	"2"	60	515815	11.6
+	"Washington County, OR"	"41067"	"2009"	"2009"	"Unintentional"	"1"	127	524699	24.2
+	"Washington County, OR"	"41067"	"2009"	"2009"	"Suicide"	"2"	55	524699	10.5
+	"Washington County, OR"	"41067"	"2009"	"2009"	"Homicide"	"3"	15	524699	Unreliable
+	"Washington County, OR"	"41067"	"2010"	"2010"	"Unintentional"	"1"	134	529710	25.3
+	"Washington County, OR"	"41067"	"2010"	"2010"	"Suicide"	"2"	70	529710	13.2
+	"Washington County, OR"	"41067"	"2010"	"2010"	"Undetermined "	"4"	12	529710	Unreliable
+	"Washington County, OR"	"41067"	"2011"	"2011"	"Unintentional"	"1"	133	540410	24.6
+	"Washington County, OR"	"41067"	"2011"	"2011"	"Suicide"	"2"	81	540410	15.0
+	"Washington County, OR"	"41067"	"2012"	"2012"	"Unintentional"	"1"	134	547672	24.5
+	"Washington County, OR"	"41067"	"2012"	"2012"	"Suicide"	"2"	93	547672	17.0
+	"Washington County, OR"	"41067"	"2012"	"2012"	"Homicide"	"3"	15	547672	Unreliable
+	"Washington County, OR"	"41067"	"2012"	"2012"	"Undetermined "	"4"	10	547672	Unreliable
+	"Washington County, OR"	"41067"	"2013"	"2013"	"Unintentional"	"1"	157	554996	28.3
+	"Washington County, OR"	"41067"	"2013"	"2013"	"Suicide"	"2"	69	554996	12.4
+	"Washington County, OR"	"41067"	"2014"	"2014"	"Unintentional"	"1"	160	562998	28.4
+	"Washington County, OR"	"41067"	"2014"	"2014"	"Suicide"	"2"	77	562998	13.7
+	"Washington County, OR"	"41067"	"2015"	"2015"	"Unintentional"	"1"	137	574326	23.9
+	"Washington County, OR"	"41067"	"2015"	"2015"	"Suicide"	"2"	74	574326	12.9
+	"Washington County, OR"	"41067"	"2016"	"2016"	"Unintentional"	"1"	180	582779	30.9
+	"Washington County, OR"	"41067"	"2016"	"2016"	"Suicide"	"2"	81	582779	13.9
+	"Washington County, OR"	"41067"	"2016"	"2016"	"Homicide"	"3"	11	582779	Unreliable
+	"Washington County, OR"	"41067"	"2017"	"2017"	"Unintentional"	"1"	148	588957	25.1
+	"Washington County, OR"	"41067"	"2017"	"2017"	"Suicide"	"2"	74	588957	12.6
+	"Washington County, OR"	"41067"	"2018"	"2018"	"Unintentional"	"1"	159	597695	26.6
+	"Washington County, OR"	"41067"	"2018"	"2018"	"Suicide"	"2"	77	597695	12.9
+	"Washington County, OR"	"41067"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	597695	Unreliable
+	"Yamhill County, OR"	"41071"	"1999"	"1999"	"Unintentional"	"1"	32	84354	37.9
+	"Yamhill County, OR"	"41071"	"2000"	"2000"	"Unintentional"	"1"	32	84992	37.7
+	"Yamhill County, OR"	"41071"	"2001"	"2001"	"Unintentional"	"1"	30	86156	34.8
+	"Yamhill County, OR"	"41071"	"2001"	"2001"	"Suicide"	"2"	12	86156	Unreliable
+	"Yamhill County, OR"	"41071"	"2002"	"2002"	"Unintentional"	"1"	34	87370	38.9
+	"Yamhill County, OR"	"41071"	"2002"	"2002"	"Suicide"	"2"	13	87370	Unreliable
+	"Yamhill County, OR"	"41071"	"2003"	"2003"	"Unintentional"	"1"	24	88619	27.1
+	"Yamhill County, OR"	"41071"	"2003"	"2003"	"Suicide"	"2"	12	88619	Unreliable
+	"Yamhill County, OR"	"41071"	"2004"	"2004"	"Unintentional"	"1"	38	89447	42.5
+	"Yamhill County, OR"	"41071"	"2004"	"2004"	"Suicide"	"2"	14	89447	Unreliable
+	"Yamhill County, OR"	"41071"	"2005"	"2005"	"Unintentional"	"1"	44	90847	48.4
+	"Yamhill County, OR"	"41071"	"2005"	"2005"	"Suicide"	"2"	13	90847	Unreliable
+	"Yamhill County, OR"	"41071"	"2006"	"2006"	"Unintentional"	"1"	44	93198	47.2
+	"Yamhill County, OR"	"41071"	"2006"	"2006"	"Suicide"	"2"	10	93198	Unreliable
+	"Yamhill County, OR"	"41071"	"2007"	"2007"	"Unintentional"	"1"	42	95875	43.8
+	"Yamhill County, OR"	"41071"	"2007"	"2007"	"Suicide"	"2"	10	95875	Unreliable
+	"Yamhill County, OR"	"41071"	"2008"	"2008"	"Unintentional"	"1"	39	97537	40.0
+	"Yamhill County, OR"	"41071"	"2009"	"2009"	"Unintentional"	"1"	38	98647	38.5
+	"Yamhill County, OR"	"41071"	"2009"	"2009"	"Suicide"	"2"	13	98647	Unreliable
+	"Yamhill County, OR"	"41071"	"2010"	"2010"	"Unintentional"	"1"	30	99193	30.2
+	"Yamhill County, OR"	"41071"	"2010"	"2010"	"Suicide"	"2"	15	99193	Unreliable
+	"Yamhill County, OR"	"41071"	"2011"	"2011"	"Unintentional"	"1"	37	100000	37.0
+	"Yamhill County, OR"	"41071"	"2011"	"2011"	"Suicide"	"2"	17	100000	Unreliable
+	"Yamhill County, OR"	"41071"	"2012"	"2012"	"Unintentional"	"1"	40	100255	39.9
+	"Yamhill County, OR"	"41071"	"2012"	"2012"	"Suicide"	"2"	19	100255	Unreliable
+	"Yamhill County, OR"	"41071"	"2013"	"2013"	"Unintentional"	"1"	36	100725	35.7
+	"Yamhill County, OR"	"41071"	"2013"	"2013"	"Suicide"	"2"	14	100725	Unreliable
+	"Yamhill County, OR"	"41071"	"2014"	"2014"	"Unintentional"	"1"	49	101758	48.2
+	"Yamhill County, OR"	"41071"	"2014"	"2014"	"Suicide"	"2"	16	101758	Unreliable
+	"Yamhill County, OR"	"41071"	"2015"	"2015"	"Unintentional"	"1"	65	102659	63.3
+	"Yamhill County, OR"	"41071"	"2015"	"2015"	"Suicide"	"2"	21	102659	20.5
+	"Yamhill County, OR"	"41071"	"2016"	"2016"	"Unintentional"	"1"	51	105035	48.6
+	"Yamhill County, OR"	"41071"	"2016"	"2016"	"Suicide"	"2"	25	105035	23.8
+	"Yamhill County, OR"	"41071"	"2017"	"2017"	"Unintentional"	"1"	53	105722	50.1
+	"Yamhill County, OR"	"41071"	"2017"	"2017"	"Suicide"	"2"	16	105722	Unreliable
+	"Yamhill County, OR"	"41071"	"2018"	"2018"	"Unintentional"	"1"	34	107002	31.8
+	"Yamhill County, OR"	"41071"	"2018"	"2018"	"Suicide"	"2"	23	107002	21.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Oregon"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Oregon (41)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 7:02:24 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 7:02:24 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

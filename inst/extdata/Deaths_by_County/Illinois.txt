@@ -1,0 +1,2031 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adams County, IL"	"17001"	"1999"	"1999"	"Unintentional"	"1"	33	68430	48.2
+	"Adams County, IL"	"17001"	"2000"	"2000"	"Unintentional"	"1"	33	68277	48.3
+	"Adams County, IL"	"17001"	"2001"	"2001"	"Unintentional"	"1"	29	68014	42.6
+	"Adams County, IL"	"17001"	"2001"	"2001"	"Suicide"	"2"	13	68014	Unreliable
+	"Adams County, IL"	"17001"	"2002"	"2002"	"Unintentional"	"1"	26	67776	38.4
+	"Adams County, IL"	"17001"	"2003"	"2003"	"Unintentional"	"1"	25	67267	37.2
+	"Adams County, IL"	"17001"	"2004"	"2004"	"Unintentional"	"1"	23	66818	34.4
+	"Adams County, IL"	"17001"	"2005"	"2005"	"Unintentional"	"1"	23	66920	34.4
+	"Adams County, IL"	"17001"	"2006"	"2006"	"Unintentional"	"1"	21	67106	31.3
+	"Adams County, IL"	"17001"	"2007"	"2007"	"Unintentional"	"1"	26	66943	38.8
+	"Adams County, IL"	"17001"	"2008"	"2008"	"Unintentional"	"1"	27	66943	40.3
+	"Adams County, IL"	"17001"	"2008"	"2008"	"Suicide"	"2"	15	66943	Unreliable
+	"Adams County, IL"	"17001"	"2009"	"2009"	"Unintentional"	"1"	33	67039	49.2
+	"Adams County, IL"	"17001"	"2009"	"2009"	"Suicide"	"2"	10	67039	Unreliable
+	"Adams County, IL"	"17001"	"2010"	"2010"	"Unintentional"	"1"	28	67103	41.7
+	"Adams County, IL"	"17001"	"2011"	"2011"	"Unintentional"	"1"	29	67159	43.2
+	"Adams County, IL"	"17001"	"2011"	"2011"	"Suicide"	"2"	10	67159	Unreliable
+	"Adams County, IL"	"17001"	"2012"	"2012"	"Unintentional"	"1"	36	67197	53.6
+	"Adams County, IL"	"17001"	"2013"	"2013"	"Unintentional"	"1"	38	67130	56.6
+	"Adams County, IL"	"17001"	"2014"	"2014"	"Unintentional"	"1"	48	66988	71.7
+	"Adams County, IL"	"17001"	"2015"	"2015"	"Unintentional"	"1"	52	67013	77.6
+	"Adams County, IL"	"17001"	"2015"	"2015"	"Suicide"	"2"	11	67013	Unreliable
+	"Adams County, IL"	"17001"	"2016"	"2016"	"Unintentional"	"1"	38	66578	57.1
+	"Adams County, IL"	"17001"	"2016"	"2016"	"Suicide"	"2"	15	66578	Unreliable
+	"Adams County, IL"	"17001"	"2017"	"2017"	"Unintentional"	"1"	26	66234	39.3
+	"Adams County, IL"	"17001"	"2017"	"2017"	"Suicide"	"2"	15	66234	Unreliable
+	"Adams County, IL"	"17001"	"2018"	"2018"	"Unintentional"	"1"	51	65691	77.6
+	"Bond County, IL"	"17005"	"1999"	"1999"	"Unintentional"	"1"	11	17532	Unreliable
+	"Bond County, IL"	"17005"	"2002"	"2002"	"Unintentional"	"1"	11	17735	Unreliable
+	"Bond County, IL"	"17005"	"2004"	"2004"	"Unintentional"	"1"	10	18101	Unreliable
+	"Bond County, IL"	"17005"	"2006"	"2006"	"Unintentional"	"1"	11	18004	Unreliable
+	"Bond County, IL"	"17005"	"2008"	"2008"	"Unintentional"	"1"	11	17916	Unreliable
+	"Bond County, IL"	"17005"	"2010"	"2010"	"Unintentional"	"1"	16	17768	Unreliable
+	"Bond County, IL"	"17005"	"2012"	"2012"	"Unintentional"	"1"	11	17644	Unreliable
+	"Bond County, IL"	"17005"	"2014"	"2014"	"Unintentional"	"1"	15	17269	Unreliable
+	"Bond County, IL"	"17005"	"2015"	"2015"	"Unintentional"	"1"	15	16950	Unreliable
+	"Bond County, IL"	"17005"	"2017"	"2017"	"Unintentional"	"1"	10	16948	Unreliable
+	"Bond County, IL"	"17005"	"2018"	"2018"	"Unintentional"	"1"	10	16630	Unreliable
+	"Boone County, IL"	"17007"	"1999"	"1999"	"Unintentional"	"1"	19	40844	Unreliable
+	"Boone County, IL"	"17007"	"2000"	"2000"	"Unintentional"	"1"	13	41786	Unreliable
+	"Boone County, IL"	"17007"	"2001"	"2001"	"Unintentional"	"1"	14	43220	Unreliable
+	"Boone County, IL"	"17007"	"2002"	"2002"	"Unintentional"	"1"	20	44585	44.9
+	"Boone County, IL"	"17007"	"2003"	"2003"	"Unintentional"	"1"	12	46242	Unreliable
+	"Boone County, IL"	"17007"	"2004"	"2004"	"Unintentional"	"1"	13	47893	Unreliable
+	"Boone County, IL"	"17007"	"2005"	"2005"	"Unintentional"	"1"	21	49725	42.2
+	"Boone County, IL"	"17007"	"2006"	"2006"	"Unintentional"	"1"	12	51797	Unreliable
+	"Boone County, IL"	"17007"	"2007"	"2007"	"Unintentional"	"1"	18	53512	Unreliable
+	"Boone County, IL"	"17007"	"2008"	"2008"	"Unintentional"	"1"	18	54211	Unreliable
+	"Boone County, IL"	"17007"	"2009"	"2009"	"Unintentional"	"1"	11	54154	Unreliable
+	"Boone County, IL"	"17007"	"2010"	"2010"	"Unintentional"	"1"	17	54165	Unreliable
+	"Boone County, IL"	"17007"	"2011"	"2011"	"Unintentional"	"1"	19	54367	Unreliable
+	"Boone County, IL"	"17007"	"2012"	"2012"	"Unintentional"	"1"	24	53940	44.5
+	"Boone County, IL"	"17007"	"2013"	"2013"	"Unintentional"	"1"	14	53957	Unreliable
+	"Boone County, IL"	"17007"	"2013"	"2013"	"Suicide"	"2"	11	53957	Unreliable
+	"Boone County, IL"	"17007"	"2014"	"2014"	"Unintentional"	"1"	21	53869	39.0
+	"Boone County, IL"	"17007"	"2015"	"2015"	"Unintentional"	"1"	21	53585	39.2
+	"Boone County, IL"	"17007"	"2016"	"2016"	"Unintentional"	"1"	23	53503	43.0
+	"Boone County, IL"	"17007"	"2017"	"2017"	"Unintentional"	"1"	26	53513	48.6
+	"Boone County, IL"	"17007"	"2018"	"2018"	"Unintentional"	"1"	27	53577	50.4
+	"Bureau County, IL"	"17011"	"2000"	"2000"	"Unintentional"	"1"	15	35503	Unreliable
+	"Bureau County, IL"	"17011"	"2001"	"2001"	"Unintentional"	"1"	10	35181	Unreliable
+	"Bureau County, IL"	"17011"	"2002"	"2002"	"Unintentional"	"1"	30	35057	85.6
+	"Bureau County, IL"	"17011"	"2003"	"2003"	"Unintentional"	"1"	18	35080	Unreliable
+	"Bureau County, IL"	"17011"	"2004"	"2004"	"Unintentional"	"1"	13	34951	Unreliable
+	"Bureau County, IL"	"17011"	"2005"	"2005"	"Unintentional"	"1"	16	34977	Unreliable
+	"Bureau County, IL"	"17011"	"2006"	"2006"	"Unintentional"	"1"	28	35183	79.6
+	"Bureau County, IL"	"17011"	"2007"	"2007"	"Unintentional"	"1"	14	35153	Unreliable
+	"Bureau County, IL"	"17011"	"2008"	"2008"	"Unintentional"	"1"	23	35078	65.6
+	"Bureau County, IL"	"17011"	"2009"	"2009"	"Unintentional"	"1"	16	35058	Unreliable
+	"Bureau County, IL"	"17011"	"2010"	"2010"	"Unintentional"	"1"	22	34978	62.9
+	"Bureau County, IL"	"17011"	"2011"	"2011"	"Unintentional"	"1"	16	34606	Unreliable
+	"Bureau County, IL"	"17011"	"2012"	"2012"	"Unintentional"	"1"	13	34323	Unreliable
+	"Bureau County, IL"	"17011"	"2013"	"2013"	"Unintentional"	"1"	25	34056	73.4
+	"Bureau County, IL"	"17011"	"2014"	"2014"	"Unintentional"	"1"	22	33840	65.0
+	"Bureau County, IL"	"17011"	"2015"	"2015"	"Unintentional"	"1"	24	33587	71.5
+	"Bureau County, IL"	"17011"	"2016"	"2016"	"Unintentional"	"1"	25	33359	74.9
+	"Bureau County, IL"	"17011"	"2017"	"2017"	"Unintentional"	"1"	20	33243	60.2
+	"Bureau County, IL"	"17011"	"2018"	"2018"	"Unintentional"	"1"	24	32993	72.7
+	"Carroll County, IL"	"17015"	"1999"	"1999"	"Unintentional"	"1"	14	16813	Unreliable
+	"Carroll County, IL"	"17015"	"2007"	"2007"	"Unintentional"	"1"	11	15734	Unreliable
+	"Carroll County, IL"	"17015"	"2008"	"2008"	"Unintentional"	"1"	10	15638	Unreliable
+	"Carroll County, IL"	"17015"	"2009"	"2009"	"Unintentional"	"1"	11	15476	Unreliable
+	"Carroll County, IL"	"17015"	"2010"	"2010"	"Unintentional"	"1"	15	15387	Unreliable
+	"Carroll County, IL"	"17015"	"2012"	"2012"	"Unintentional"	"1"	10	15011	Unreliable
+	"Carroll County, IL"	"17015"	"2013"	"2013"	"Unintentional"	"1"	11	14910	Unreliable
+	"Carroll County, IL"	"17015"	"2015"	"2015"	"Unintentional"	"1"	11	14616	Unreliable
+	"Carroll County, IL"	"17015"	"2018"	"2018"	"Unintentional"	"1"	15	14312	Unreliable
+	"Cass County, IL"	"17017"	"2007"	"2007"	"Unintentional"	"1"	14	13699	Unreliable
+	"Cass County, IL"	"17017"	"2012"	"2012"	"Unintentional"	"1"	15	13338	Unreliable
+	"Cass County, IL"	"17017"	"2015"	"2015"	"Unintentional"	"1"	10	12847	Unreliable
+	"Champaign County, IL"	"17019"	"1999"	"1999"	"Unintentional"	"1"	33	178652	18.5
+	"Champaign County, IL"	"17019"	"2000"	"2000"	"Unintentional"	"1"	38	179669	21.2
+	"Champaign County, IL"	"17019"	"2000"	"2000"	"Suicide"	"2"	17	179669	Unreliable
+	"Champaign County, IL"	"17019"	"2001"	"2001"	"Unintentional"	"1"	61	181956	33.5
+	"Champaign County, IL"	"17019"	"2001"	"2001"	"Suicide"	"2"	13	181956	Unreliable
+	"Champaign County, IL"	"17019"	"2002"	"2002"	"Unintentional"	"1"	52	184198	28.2
+	"Champaign County, IL"	"17019"	"2002"	"2002"	"Suicide"	"2"	17	184198	Unreliable
+	"Champaign County, IL"	"17019"	"2003"	"2003"	"Unintentional"	"1"	44	187013	23.5
+	"Champaign County, IL"	"17019"	"2003"	"2003"	"Suicide"	"2"	14	187013	Unreliable
+	"Champaign County, IL"	"17019"	"2004"	"2004"	"Unintentional"	"1"	55	188617	29.2
+	"Champaign County, IL"	"17019"	"2004"	"2004"	"Suicide"	"2"	25	188617	13.3
+	"Champaign County, IL"	"17019"	"2005"	"2005"	"Unintentional"	"1"	62	190659	32.5
+	"Champaign County, IL"	"17019"	"2005"	"2005"	"Suicide"	"2"	19	190659	Unreliable
+	"Champaign County, IL"	"17019"	"2006"	"2006"	"Unintentional"	"1"	58	193844	29.9
+	"Champaign County, IL"	"17019"	"2006"	"2006"	"Suicide"	"2"	11	193844	Unreliable
+	"Champaign County, IL"	"17019"	"2007"	"2007"	"Unintentional"	"1"	60	196621	30.5
+	"Champaign County, IL"	"17019"	"2007"	"2007"	"Suicide"	"2"	10	196621	Unreliable
+	"Champaign County, IL"	"17019"	"2008"	"2008"	"Unintentional"	"1"	68	197570	34.4
+	"Champaign County, IL"	"17019"	"2008"	"2008"	"Suicide"	"2"	15	197570	Unreliable
+	"Champaign County, IL"	"17019"	"2009"	"2009"	"Unintentional"	"1"	63	199968	31.5
+	"Champaign County, IL"	"17019"	"2009"	"2009"	"Suicide"	"2"	24	199968	12.0
+	"Champaign County, IL"	"17019"	"2010"	"2010"	"Unintentional"	"1"	60	201081	29.8
+	"Champaign County, IL"	"17019"	"2010"	"2010"	"Suicide"	"2"	17	201081	Unreliable
+	"Champaign County, IL"	"17019"	"2011"	"2011"	"Unintentional"	"1"	70	201685	34.7
+	"Champaign County, IL"	"17019"	"2011"	"2011"	"Suicide"	"2"	18	201685	Unreliable
+	"Champaign County, IL"	"17019"	"2012"	"2012"	"Unintentional"	"1"	71	203276	34.9
+	"Champaign County, IL"	"17019"	"2012"	"2012"	"Suicide"	"2"	14	203276	Unreliable
+	"Champaign County, IL"	"17019"	"2013"	"2013"	"Unintentional"	"1"	73	204897	35.6
+	"Champaign County, IL"	"17019"	"2013"	"2013"	"Suicide"	"2"	21	204897	10.2
+	"Champaign County, IL"	"17019"	"2014"	"2014"	"Unintentional"	"1"	76	207133	36.7
+	"Champaign County, IL"	"17019"	"2014"	"2014"	"Suicide"	"2"	18	207133	Unreliable
+	"Champaign County, IL"	"17019"	"2015"	"2015"	"Unintentional"	"1"	78	208861	37.3
+	"Champaign County, IL"	"17019"	"2015"	"2015"	"Suicide"	"2"	21	208861	10.1
+	"Champaign County, IL"	"17019"	"2016"	"2016"	"Unintentional"	"1"	82	208419	39.3
+	"Champaign County, IL"	"17019"	"2016"	"2016"	"Suicide"	"2"	28	208419	13.4
+	"Champaign County, IL"	"17019"	"2016"	"2016"	"Homicide"	"3"	12	208419	Unreliable
+	"Champaign County, IL"	"17019"	"2017"	"2017"	"Unintentional"	"1"	85	209399	40.6
+	"Champaign County, IL"	"17019"	"2017"	"2017"	"Suicide"	"2"	23	209399	11.0
+	"Champaign County, IL"	"17019"	"2017"	"2017"	"Homicide"	"3"	10	209399	Unreliable
+	"Champaign County, IL"	"17019"	"2018"	"2018"	"Unintentional"	"1"	98	209983	46.7
+	"Champaign County, IL"	"17019"	"2018"	"2018"	"Suicide"	"2"	27	209983	12.9
+	"Champaign County, IL"	"17019"	"2018"	"2018"	"Homicide"	"3"	10	209983	Unreliable
+	"Christian County, IL"	"17021"	"1999"	"1999"	"Unintentional"	"1"	14	35398	Unreliable
+	"Christian County, IL"	"17021"	"2000"	"2000"	"Unintentional"	"1"	18	35372	Unreliable
+	"Christian County, IL"	"17021"	"2001"	"2001"	"Unintentional"	"1"	10	35240	Unreliable
+	"Christian County, IL"	"17021"	"2002"	"2002"	"Unintentional"	"1"	21	35181	59.7
+	"Christian County, IL"	"17021"	"2003"	"2003"	"Unintentional"	"1"	15	35172	Unreliable
+	"Christian County, IL"	"17021"	"2004"	"2004"	"Unintentional"	"1"	16	35308	Unreliable
+	"Christian County, IL"	"17021"	"2005"	"2005"	"Unintentional"	"1"	26	35165	73.9
+	"Christian County, IL"	"17021"	"2006"	"2006"	"Unintentional"	"1"	10	35076	Unreliable
+	"Christian County, IL"	"17021"	"2007"	"2007"	"Unintentional"	"1"	18	35034	Unreliable
+	"Christian County, IL"	"17021"	"2007"	"2007"	"Suicide"	"2"	10	35034	Unreliable
+	"Christian County, IL"	"17021"	"2008"	"2008"	"Unintentional"	"1"	21	34974	60.0
+	"Christian County, IL"	"17021"	"2009"	"2009"	"Unintentional"	"1"	11	34808	Unreliable
+	"Christian County, IL"	"17021"	"2010"	"2010"	"Unintentional"	"1"	17	34800	Unreliable
+	"Christian County, IL"	"17021"	"2011"	"2011"	"Unintentional"	"1"	18	34865	Unreliable
+	"Christian County, IL"	"17021"	"2012"	"2012"	"Unintentional"	"1"	22	34638	63.5
+	"Christian County, IL"	"17021"	"2013"	"2013"	"Unintentional"	"1"	18	34298	Unreliable
+	"Christian County, IL"	"17021"	"2014"	"2014"	"Unintentional"	"1"	23	33892	67.9
+	"Christian County, IL"	"17021"	"2014"	"2014"	"Suicide"	"2"	10	33892	Unreliable
+	"Christian County, IL"	"17021"	"2015"	"2015"	"Unintentional"	"1"	20	33642	59.4
+	"Christian County, IL"	"17021"	"2016"	"2016"	"Unintentional"	"1"	25	33309	75.1
+	"Christian County, IL"	"17021"	"2017"	"2017"	"Unintentional"	"1"	23	33102	69.5
+	"Christian County, IL"	"17021"	"2018"	"2018"	"Unintentional"	"1"	15	32661	Unreliable
+	"Clark County, IL"	"17023"	"2004"	"2004"	"Unintentional"	"1"	11	16718	Unreliable
+	"Clark County, IL"	"17023"	"2005"	"2005"	"Unintentional"	"1"	10	16728	Unreliable
+	"Clark County, IL"	"17023"	"2008"	"2008"	"Unintentional"	"1"	11	16634	Unreliable
+	"Clark County, IL"	"17023"	"2009"	"2009"	"Unintentional"	"1"	12	16431	Unreliable
+	"Clark County, IL"	"17023"	"2010"	"2010"	"Unintentional"	"1"	13	16335	Unreliable
+	"Clark County, IL"	"17023"	"2011"	"2011"	"Unintentional"	"1"	10	16161	Unreliable
+	"Clark County, IL"	"17023"	"2012"	"2012"	"Unintentional"	"1"	10	16209	Unreliable
+	"Clark County, IL"	"17023"	"2016"	"2016"	"Unintentional"	"1"	10	15938	Unreliable
+	"Clark County, IL"	"17023"	"2018"	"2018"	"Unintentional"	"1"	14	15596	Unreliable
+	"Clay County, IL"	"17025"	"2008"	"2008"	"Unintentional"	"1"	10	13971	Unreliable
+	"Clay County, IL"	"17025"	"2010"	"2010"	"Unintentional"	"1"	13	13815	Unreliable
+	"Clay County, IL"	"17025"	"2011"	"2011"	"Unintentional"	"1"	14	13728	Unreliable
+	"Clinton County, IL"	"17027"	"1999"	"1999"	"Unintentional"	"1"	21	35533	59.1
+	"Clinton County, IL"	"17027"	"2000"	"2000"	"Unintentional"	"1"	17	35535	Unreliable
+	"Clinton County, IL"	"17027"	"2001"	"2001"	"Unintentional"	"1"	16	35792	Unreliable
+	"Clinton County, IL"	"17027"	"2002"	"2002"	"Unintentional"	"1"	18	36003	Unreliable
+	"Clinton County, IL"	"17027"	"2003"	"2003"	"Unintentional"	"1"	18	36231	Unreliable
+	"Clinton County, IL"	"17027"	"2004"	"2004"	"Unintentional"	"1"	14	36495	Unreliable
+	"Clinton County, IL"	"17027"	"2005"	"2005"	"Unintentional"	"1"	14	36681	Unreliable
+	"Clinton County, IL"	"17027"	"2006"	"2006"	"Unintentional"	"1"	20	37051	54.0
+	"Clinton County, IL"	"17027"	"2007"	"2007"	"Unintentional"	"1"	16	37160	Unreliable
+	"Clinton County, IL"	"17027"	"2008"	"2008"	"Unintentional"	"1"	15	37472	Unreliable
+	"Clinton County, IL"	"17027"	"2009"	"2009"	"Unintentional"	"1"	19	37459	Unreliable
+	"Clinton County, IL"	"17027"	"2010"	"2010"	"Unintentional"	"1"	14	37762	Unreliable
+	"Clinton County, IL"	"17027"	"2011"	"2011"	"Unintentional"	"1"	14	37956	Unreliable
+	"Clinton County, IL"	"17027"	"2012"	"2012"	"Unintentional"	"1"	15	38061	Unreliable
+	"Clinton County, IL"	"17027"	"2013"	"2013"	"Unintentional"	"1"	15	37907	Unreliable
+	"Clinton County, IL"	"17027"	"2014"	"2014"	"Unintentional"	"1"	12	37857	Unreliable
+	"Clinton County, IL"	"17027"	"2015"	"2015"	"Unintentional"	"1"	19	37786	Unreliable
+	"Clinton County, IL"	"17027"	"2016"	"2016"	"Unintentional"	"1"	18	37729	Unreliable
+	"Clinton County, IL"	"17027"	"2017"	"2017"	"Unintentional"	"1"	20	37614	53.2
+	"Clinton County, IL"	"17027"	"2018"	"2018"	"Unintentional"	"1"	21	37639	55.8
+	"Coles County, IL"	"17029"	"1999"	"1999"	"Unintentional"	"1"	20	53447	37.4
+	"Coles County, IL"	"17029"	"2000"	"2000"	"Unintentional"	"1"	14	53196	Unreliable
+	"Coles County, IL"	"17029"	"2001"	"2001"	"Unintentional"	"1"	11	52549	Unreliable
+	"Coles County, IL"	"17029"	"2002"	"2002"	"Unintentional"	"1"	17	52454	Unreliable
+	"Coles County, IL"	"17029"	"2003"	"2003"	"Unintentional"	"1"	27	52974	51.0
+	"Coles County, IL"	"17029"	"2004"	"2004"	"Unintentional"	"1"	30	53182	56.4
+	"Coles County, IL"	"17029"	"2005"	"2005"	"Unintentional"	"1"	24	53016	45.3
+	"Coles County, IL"	"17029"	"2006"	"2006"	"Unintentional"	"1"	15	53359	Unreliable
+	"Coles County, IL"	"17029"	"2007"	"2007"	"Unintentional"	"1"	23	53492	43.0
+	"Coles County, IL"	"17029"	"2008"	"2008"	"Unintentional"	"1"	19	53454	Unreliable
+	"Coles County, IL"	"17029"	"2009"	"2009"	"Unintentional"	"1"	19	53612	Unreliable
+	"Coles County, IL"	"17029"	"2010"	"2010"	"Unintentional"	"1"	25	53873	46.4
+	"Coles County, IL"	"17029"	"2011"	"2011"	"Unintentional"	"1"	24	53916	44.5
+	"Coles County, IL"	"17029"	"2012"	"2012"	"Unintentional"	"1"	17	53655	Unreliable
+	"Coles County, IL"	"17029"	"2013"	"2013"	"Unintentional"	"1"	28	53697	52.1
+	"Coles County, IL"	"17029"	"2013"	"2013"	"Suicide"	"2"	10	53697	Unreliable
+	"Coles County, IL"	"17029"	"2014"	"2014"	"Unintentional"	"1"	19	53320	Unreliable
+	"Coles County, IL"	"17029"	"2015"	"2015"	"Unintentional"	"1"	22	52521	41.9
+	"Coles County, IL"	"17029"	"2016"	"2016"	"Unintentional"	"1"	21	52343	40.1
+	"Coles County, IL"	"17029"	"2017"	"2017"	"Unintentional"	"1"	25	51979	48.1
+	"Coles County, IL"	"17029"	"2018"	"2018"	"Unintentional"	"1"	26	50885	51.1
+	"Cook County, IL"	"17031"	"1999"	"1999"	"Unintentional"	"1"	1785	5365344	33.3
+	"Cook County, IL"	"17031"	"1999"	"1999"	"Suicide"	"2"	408	5365344	7.6
+	"Cook County, IL"	"17031"	"1999"	"1999"	"Homicide"	"3"	776	5365344	14.5
+	"Cook County, IL"	"17031"	"1999"	"1999"	"Undetermined "	"4"	51	5365344	1.0
+	"Cook County, IL"	"17031"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	62	5365344	1.2
+	"Cook County, IL"	"17031"	"2000"	"2000"	"Unintentional"	"1"	1771	5376741	32.9
+	"Cook County, IL"	"17031"	"2000"	"2000"	"Suicide"	"2"	380	5376741	7.1
+	"Cook County, IL"	"17031"	"2000"	"2000"	"Homicide"	"3"	773	5376741	14.4
+	"Cook County, IL"	"17031"	"2000"	"2000"	"Undetermined "	"4"	41	5376741	0.8
+	"Cook County, IL"	"17031"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	68	5376741	1.3
+	"Cook County, IL"	"17031"	"2001"	"2001"	"Unintentional"	"1"	1696	5360562	31.6
+	"Cook County, IL"	"17031"	"2001"	"2001"	"Suicide"	"2"	405	5360562	7.6
+	"Cook County, IL"	"17031"	"2001"	"2001"	"Homicide"	"3"	818	5360562	15.3
+	"Cook County, IL"	"17031"	"2001"	"2001"	"Undetermined "	"4"	47	5360562	0.9
+	"Cook County, IL"	"17031"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	44	5360562	0.8
+	"Cook County, IL"	"17031"	"2002"	"2002"	"Unintentional"	"1"	1766	5328775	33.1
+	"Cook County, IL"	"17031"	"2002"	"2002"	"Suicide"	"2"	427	5328775	8.0
+	"Cook County, IL"	"17031"	"2002"	"2002"	"Homicide"	"3"	758	5328775	14.2
+	"Cook County, IL"	"17031"	"2002"	"2002"	"Undetermined "	"4"	53	5328775	1.0
+	"Cook County, IL"	"17031"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	42	5328775	0.8
+	"Cook County, IL"	"17031"	"2003"	"2003"	"Unintentional"	"1"	1548	5294739	29.2
+	"Cook County, IL"	"17031"	"2003"	"2003"	"Suicide"	"2"	372	5294739	7.0
+	"Cook County, IL"	"17031"	"2003"	"2003"	"Homicide"	"3"	774	5294739	14.6
+	"Cook County, IL"	"17031"	"2003"	"2003"	"Undetermined "	"4"	31	5294739	0.6
+	"Cook County, IL"	"17031"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	42	5294739	0.8
+	"Cook County, IL"	"17031"	"2004"	"2004"	"Unintentional"	"1"	1502	5252021	28.6
+	"Cook County, IL"	"17031"	"2004"	"2004"	"Suicide"	"2"	364	5252021	6.9
+	"Cook County, IL"	"17031"	"2004"	"2004"	"Homicide"	"3"	618	5252021	11.8
+	"Cook County, IL"	"17031"	"2004"	"2004"	"Undetermined "	"4"	18	5252021	Unreliable
+	"Cook County, IL"	"17031"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	38	5252021	0.7
+	"Cook County, IL"	"17031"	"2005"	"2005"	"Unintentional"	"1"	1544	5207615	29.6
+	"Cook County, IL"	"17031"	"2005"	"2005"	"Suicide"	"2"	396	5207615	7.6
+	"Cook County, IL"	"17031"	"2005"	"2005"	"Homicide"	"3"	608	5207615	11.7
+	"Cook County, IL"	"17031"	"2005"	"2005"	"Undetermined "	"4"	30	5207615	0.6
+	"Cook County, IL"	"17031"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	38	5207615	0.7
+	"Cook County, IL"	"17031"	"2006"	"2006"	"Unintentional"	"1"	1809	5165495	35.0
+	"Cook County, IL"	"17031"	"2006"	"2006"	"Suicide"	"2"	344	5165495	6.7
+	"Cook County, IL"	"17031"	"2006"	"2006"	"Homicide"	"3"	627	5165495	12.1
+	"Cook County, IL"	"17031"	"2006"	"2006"	"Undetermined "	"4"	25	5165495	0.5
+	"Cook County, IL"	"17031"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	20	5165495	0.4
+	"Cook County, IL"	"17031"	"2007"	"2007"	"Unintentional"	"1"	1509	5154235	29.3
+	"Cook County, IL"	"17031"	"2007"	"2007"	"Suicide"	"2"	389	5154235	7.5
+	"Cook County, IL"	"17031"	"2007"	"2007"	"Homicide"	"3"	572	5154235	11.1
+	"Cook County, IL"	"17031"	"2007"	"2007"	"Undetermined "	"4"	25	5154235	0.5
+	"Cook County, IL"	"17031"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	43	5154235	0.8
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Unintentional"	"1"	1436	5161831	27.8
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Suicide"	"2"	422	5161831	8.2
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Homicide"	"3"	626	5161831	12.1
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Undetermined "	"4"	43	5161831	0.8
+	"Cook County, IL"	"17031"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	28	5161831	0.5
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Unintentional"	"1"	1322	5181728	25.5
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Suicide"	"2"	403	5181728	7.8
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Homicide"	"3"	598	5181728	11.5
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Undetermined "	"4"	45	5181728	0.9
+	"Cook County, IL"	"17031"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	36	5181728	0.7
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Unintentional"	"1"	1310	5194675	25.2
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Suicide"	"2"	395	5194675	7.6
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Homicide"	"3"	557	5194675	10.7
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Undetermined "	"4"	42	5194675	0.8
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	42	5194675	0.8
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Unintentional"	"1"	1332	5217080	25.5
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Suicide"	"2"	365	5217080	7.0
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Homicide"	"3"	544	5217080	10.4
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Undetermined "	"4"	40	5217080	0.8
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Legal Intervention / Operations of War"	"5"	14	5217080	Unreliable
+	"Cook County, IL"	"17031"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	46	5217080	0.9
+	"Cook County, IL"	"17031"	"2012"	"2012"	"Unintentional"	"1"	1471	5231351	28.1
+	"Cook County, IL"	"17031"	"2012"	"2012"	"Suicide"	"2"	450	5231351	8.6
+	"Cook County, IL"	"17031"	"2012"	"2012"	"Homicide"	"3"	595	5231351	11.4
+	"Cook County, IL"	"17031"	"2012"	"2012"	"Undetermined "	"4"	39	5231351	0.7
+	"Cook County, IL"	"17031"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	27	5231351	0.5
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Unintentional"	"1"	1477	5240700	28.2
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Suicide"	"2"	446	5240700	8.5
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Homicide"	"3"	537	5240700	10.2
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Undetermined "	"4"	39	5240700	0.7
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Legal Intervention / Operations of War"	"5"	10	5240700	Unreliable
+	"Cook County, IL"	"17031"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	31	5240700	0.6
+	"Cook County, IL"	"17031"	"2014"	"2014"	"Unintentional"	"1"	1490	5246456	28.4
+	"Cook County, IL"	"17031"	"2014"	"2014"	"Suicide"	"2"	453	5246456	8.6
+	"Cook County, IL"	"17031"	"2014"	"2014"	"Homicide"	"3"	550	5246456	10.5
+	"Cook County, IL"	"17031"	"2014"	"2014"	"Undetermined "	"4"	36	5246456	0.7
+	"Cook County, IL"	"17031"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	29	5246456	0.6
+	"Cook County, IL"	"17031"	"2015"	"2015"	"Unintentional"	"1"	1609	5238216	30.7
+	"Cook County, IL"	"17031"	"2015"	"2015"	"Suicide"	"2"	434	5238216	8.3
+	"Cook County, IL"	"17031"	"2015"	"2015"	"Homicide"	"3"	605	5238216	11.5
+	"Cook County, IL"	"17031"	"2015"	"2015"	"Undetermined "	"4"	57	5238216	1.1
+	"Cook County, IL"	"17031"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	30	5238216	0.6
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Unintentional"	"1"	2053	5203499	39.5
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Suicide"	"2"	425	5203499	8.2
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Homicide"	"3"	896	5203499	17.2
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Undetermined "	"4"	56	5203499	1.1
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Legal Intervention / Operations of War"	"5"	12	5203499	Unreliable
+	"Cook County, IL"	"17031"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	32	5203499	0.6
+	"Cook County, IL"	"17031"	"2017"	"2017"	"Unintentional"	"1"	2268	5211263	43.5
+	"Cook County, IL"	"17031"	"2017"	"2017"	"Suicide"	"2"	464	5211263	8.9
+	"Cook County, IL"	"17031"	"2017"	"2017"	"Homicide"	"3"	806	5211263	15.5
+	"Cook County, IL"	"17031"	"2017"	"2017"	"Undetermined "	"4"	42	5211263	0.8
+	"Cook County, IL"	"17031"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	66	5211263	1.3
+	"Cook County, IL"	"17031"	"2018"	"2018"	"Unintentional"	"1"	2237	5180493	43.2
+	"Cook County, IL"	"17031"	"2018"	"2018"	"Suicide"	"2"	459	5180493	8.9
+	"Cook County, IL"	"17031"	"2018"	"2018"	"Homicide"	"3"	682	5180493	13.2
+	"Cook County, IL"	"17031"	"2018"	"2018"	"Undetermined "	"4"	51	5180493	1.0
+	"Cook County, IL"	"17031"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	39	5180493	0.8
+	"Crawford County, IL"	"17033"	"1999"	"1999"	"Unintentional"	"1"	10	20623	Unreliable
+	"Crawford County, IL"	"17033"	"2000"	"2000"	"Unintentional"	"1"	13	20452	Unreliable
+	"Crawford County, IL"	"17033"	"2003"	"2003"	"Unintentional"	"1"	11	20106	Unreliable
+	"Crawford County, IL"	"17033"	"2004"	"2004"	"Unintentional"	"1"	13	20059	Unreliable
+	"Crawford County, IL"	"17033"	"2006"	"2006"	"Unintentional"	"1"	14	19966	Unreliable
+	"Crawford County, IL"	"17033"	"2007"	"2007"	"Unintentional"	"1"	10	19886	Unreliable
+	"Crawford County, IL"	"17033"	"2009"	"2009"	"Unintentional"	"1"	12	19845	Unreliable
+	"Crawford County, IL"	"17033"	"2011"	"2011"	"Unintentional"	"1"	14	19857	Unreliable
+	"Crawford County, IL"	"17033"	"2012"	"2012"	"Unintentional"	"1"	12	19600	Unreliable
+	"Crawford County, IL"	"17033"	"2013"	"2013"	"Unintentional"	"1"	17	19505	Unreliable
+	"Crawford County, IL"	"17033"	"2016"	"2016"	"Unintentional"	"1"	17	19308	Unreliable
+	"Crawford County, IL"	"17033"	"2017"	"2017"	"Unintentional"	"1"	14	18961	Unreliable
+	"Cumberland County, IL"	"17035"	"2003"	"2003"	"Unintentional"	"1"	11	11066	Unreliable
+	"Cumberland County, IL"	"17035"	"2010"	"2010"	"Unintentional"	"1"	10	11048	Unreliable
+	"DeKalb County, IL"	"17037"	"1999"	"1999"	"Unintentional"	"1"	18	88010	Unreliable
+	"DeKalb County, IL"	"17037"	"2000"	"2000"	"Unintentional"	"1"	22	88969	24.7
+	"DeKalb County, IL"	"17037"	"2001"	"2001"	"Unintentional"	"1"	31	90545	34.2
+	"DeKalb County, IL"	"17037"	"2002"	"2002"	"Unintentional"	"1"	26	91951	28.3
+	"DeKalb County, IL"	"17037"	"2003"	"2003"	"Unintentional"	"1"	29	94096	30.8
+	"DeKalb County, IL"	"17037"	"2004"	"2004"	"Unintentional"	"1"	21	96106	21.9
+	"DeKalb County, IL"	"17037"	"2005"	"2005"	"Unintentional"	"1"	33	98438	33.5
+	"DeKalb County, IL"	"17037"	"2006"	"2006"	"Unintentional"	"1"	34	101437	33.5
+	"DeKalb County, IL"	"17037"	"2006"	"2006"	"Suicide"	"2"	14	101437	Unreliable
+	"DeKalb County, IL"	"17037"	"2007"	"2007"	"Unintentional"	"1"	36	103746	34.7
+	"DeKalb County, IL"	"17037"	"2007"	"2007"	"Suicide"	"2"	10	103746	Unreliable
+	"DeKalb County, IL"	"17037"	"2008"	"2008"	"Unintentional"	"1"	32	104601	30.6
+	"DeKalb County, IL"	"17037"	"2009"	"2009"	"Unintentional"	"1"	41	105146	39.0
+	"DeKalb County, IL"	"17037"	"2009"	"2009"	"Suicide"	"2"	12	105146	Unreliable
+	"DeKalb County, IL"	"17037"	"2010"	"2010"	"Unintentional"	"1"	23	105160	21.9
+	"DeKalb County, IL"	"17037"	"2011"	"2011"	"Unintentional"	"1"	31	104743	29.6
+	"DeKalb County, IL"	"17037"	"2012"	"2012"	"Unintentional"	"1"	26	104704	24.8
+	"DeKalb County, IL"	"17037"	"2013"	"2013"	"Unintentional"	"1"	30	104741	28.6
+	"DeKalb County, IL"	"17037"	"2014"	"2014"	"Unintentional"	"1"	30	105462	28.4
+	"DeKalb County, IL"	"17037"	"2014"	"2014"	"Suicide"	"2"	13	105462	Unreliable
+	"DeKalb County, IL"	"17037"	"2015"	"2015"	"Unintentional"	"1"	44	104352	42.2
+	"DeKalb County, IL"	"17037"	"2016"	"2016"	"Unintentional"	"1"	40	104528	38.3
+	"DeKalb County, IL"	"17037"	"2016"	"2016"	"Suicide"	"2"	17	104528	Unreliable
+	"DeKalb County, IL"	"17037"	"2017"	"2017"	"Unintentional"	"1"	36	104733	34.4
+	"DeKalb County, IL"	"17037"	"2017"	"2017"	"Suicide"	"2"	17	104733	Unreliable
+	"DeKalb County, IL"	"17037"	"2018"	"2018"	"Unintentional"	"1"	43	104143	41.3
+	"DeKalb County, IL"	"17037"	"2018"	"2018"	"Suicide"	"2"	16	104143	Unreliable
+	"De Witt County, IL"	"17039"	"2003"	"2003"	"Unintentional"	"1"	11	16686	Unreliable
+	"De Witt County, IL"	"17039"	"2008"	"2008"	"Unintentional"	"1"	10	16733	Unreliable
+	"De Witt County, IL"	"17039"	"2015"	"2015"	"Unintentional"	"1"	19	16247	Unreliable
+	"De Witt County, IL"	"17039"	"2017"	"2017"	"Unintentional"	"1"	11	15942	Unreliable
+	"Douglas County, IL"	"17041"	"1999"	"1999"	"Unintentional"	"1"	10	19905	Unreliable
+	"Douglas County, IL"	"17041"	"2001"	"2001"	"Unintentional"	"1"	12	20032	Unreliable
+	"Douglas County, IL"	"17041"	"2003"	"2003"	"Unintentional"	"1"	13	20010	Unreliable
+	"Douglas County, IL"	"17041"	"2006"	"2006"	"Unintentional"	"1"	10	20111	Unreliable
+	"Douglas County, IL"	"17041"	"2008"	"2008"	"Unintentional"	"1"	12	19970	Unreliable
+	"Douglas County, IL"	"17041"	"2012"	"2012"	"Unintentional"	"1"	13	19853	Unreliable
+	"Douglas County, IL"	"17041"	"2015"	"2015"	"Unintentional"	"1"	10	19823	Unreliable
+	"Douglas County, IL"	"17041"	"2016"	"2016"	"Unintentional"	"1"	11	19630	Unreliable
+	"Douglas County, IL"	"17041"	"2017"	"2017"	"Unintentional"	"1"	12	19748	Unreliable
+	"Douglas County, IL"	"17041"	"2018"	"2018"	"Unintentional"	"1"	13	19479	Unreliable
+	"DuPage County, IL"	"17043"	"1999"	"1999"	"Unintentional"	"1"	184	898083	20.5
+	"DuPage County, IL"	"17043"	"1999"	"1999"	"Suicide"	"2"	58	898083	6.5
+	"DuPage County, IL"	"17043"	"1999"	"1999"	"Homicide"	"3"	17	898083	Unreliable
+	"DuPage County, IL"	"17043"	"2000"	"2000"	"Unintentional"	"1"	163	904161	18.0
+	"DuPage County, IL"	"17043"	"2000"	"2000"	"Suicide"	"2"	51	904161	5.6
+	"DuPage County, IL"	"17043"	"2001"	"2001"	"Unintentional"	"1"	197	911474	21.6
+	"DuPage County, IL"	"17043"	"2001"	"2001"	"Suicide"	"2"	71	911474	7.8
+	"DuPage County, IL"	"17043"	"2001"	"2001"	"Homicide"	"3"	15	911474	Unreliable
+	"DuPage County, IL"	"17043"	"2002"	"2002"	"Unintentional"	"1"	178	913880	19.5
+	"DuPage County, IL"	"17043"	"2002"	"2002"	"Suicide"	"2"	66	913880	7.2
+	"DuPage County, IL"	"17043"	"2002"	"2002"	"Homicide"	"3"	15	913880	Unreliable
+	"DuPage County, IL"	"17043"	"2003"	"2003"	"Unintentional"	"1"	214	914078	23.4
+	"DuPage County, IL"	"17043"	"2003"	"2003"	"Suicide"	"2"	62	914078	6.8
+	"DuPage County, IL"	"17043"	"2003"	"2003"	"Homicide"	"3"	10	914078	Unreliable
+	"DuPage County, IL"	"17043"	"2004"	"2004"	"Unintentional"	"1"	212	913940	23.2
+	"DuPage County, IL"	"17043"	"2004"	"2004"	"Suicide"	"2"	61	913940	6.7
+	"DuPage County, IL"	"17043"	"2004"	"2004"	"Homicide"	"3"	12	913940	Unreliable
+	"DuPage County, IL"	"17043"	"2005"	"2005"	"Unintentional"	"1"	174	911378	19.1
+	"DuPage County, IL"	"17043"	"2005"	"2005"	"Suicide"	"2"	69	911378	7.6
+	"DuPage County, IL"	"17043"	"2005"	"2005"	"Homicide"	"3"	18	911378	Unreliable
+	"DuPage County, IL"	"17043"	"2006"	"2006"	"Unintentional"	"1"	195	908685	21.5
+	"DuPage County, IL"	"17043"	"2006"	"2006"	"Suicide"	"2"	65	908685	7.2
+	"DuPage County, IL"	"17043"	"2006"	"2006"	"Homicide"	"3"	11	908685	Unreliable
+	"DuPage County, IL"	"17043"	"2007"	"2007"	"Unintentional"	"1"	184	907426	20.3
+	"DuPage County, IL"	"17043"	"2007"	"2007"	"Suicide"	"2"	78	907426	8.6
+	"DuPage County, IL"	"17043"	"2007"	"2007"	"Homicide"	"3"	12	907426	Unreliable
+	"DuPage County, IL"	"17043"	"2008"	"2008"	"Unintentional"	"1"	200	909798	22.0
+	"DuPage County, IL"	"17043"	"2008"	"2008"	"Suicide"	"2"	69	909798	7.6
+	"DuPage County, IL"	"17043"	"2008"	"2008"	"Homicide"	"3"	13	909798	Unreliable
+	"DuPage County, IL"	"17043"	"2009"	"2009"	"Unintentional"	"1"	174	912732	19.1
+	"DuPage County, IL"	"17043"	"2009"	"2009"	"Suicide"	"2"	69	912732	7.6
+	"DuPage County, IL"	"17043"	"2009"	"2009"	"Homicide"	"3"	17	912732	Unreliable
+	"DuPage County, IL"	"17043"	"2010"	"2010"	"Unintentional"	"1"	195	916924	21.3
+	"DuPage County, IL"	"17043"	"2010"	"2010"	"Suicide"	"2"	94	916924	10.3
+	"DuPage County, IL"	"17043"	"2010"	"2010"	"Homicide"	"3"	12	916924	Unreliable
+	"DuPage County, IL"	"17043"	"2011"	"2011"	"Unintentional"	"1"	206	923222	22.3
+	"DuPage County, IL"	"17043"	"2011"	"2011"	"Suicide"	"2"	91	923222	9.9
+	"DuPage County, IL"	"17043"	"2011"	"2011"	"Homicide"	"3"	15	923222	Unreliable
+	"DuPage County, IL"	"17043"	"2012"	"2012"	"Unintentional"	"1"	211	927987	22.7
+	"DuPage County, IL"	"17043"	"2012"	"2012"	"Suicide"	"2"	76	927987	8.2
+	"DuPage County, IL"	"17043"	"2012"	"2012"	"Homicide"	"3"	20	927987	2.2
+	"DuPage County, IL"	"17043"	"2013"	"2013"	"Unintentional"	"1"	226	932126	24.2
+	"DuPage County, IL"	"17043"	"2013"	"2013"	"Suicide"	"2"	88	932126	9.4
+	"DuPage County, IL"	"17043"	"2013"	"2013"	"Homicide"	"3"	13	932126	Unreliable
+	"DuPage County, IL"	"17043"	"2013"	"2013"	"Undetermined "	"4"	10	932126	Unreliable
+	"DuPage County, IL"	"17043"	"2014"	"2014"	"Unintentional"	"1"	214	932708	22.9
+	"DuPage County, IL"	"17043"	"2014"	"2014"	"Suicide"	"2"	78	932708	8.4
+	"DuPage County, IL"	"17043"	"2014"	"2014"	"Homicide"	"3"	13	932708	Unreliable
+	"DuPage County, IL"	"17043"	"2015"	"2015"	"Unintentional"	"1"	240	933736	25.7
+	"DuPage County, IL"	"17043"	"2015"	"2015"	"Suicide"	"2"	90	933736	9.6
+	"DuPage County, IL"	"17043"	"2016"	"2016"	"Unintentional"	"1"	260	929368	28.0
+	"DuPage County, IL"	"17043"	"2016"	"2016"	"Suicide"	"2"	98	929368	10.5
+	"DuPage County, IL"	"17043"	"2017"	"2017"	"Unintentional"	"1"	295	930128	31.7
+	"DuPage County, IL"	"17043"	"2017"	"2017"	"Suicide"	"2"	89	930128	9.6
+	"DuPage County, IL"	"17043"	"2017"	"2017"	"Homicide"	"3"	19	930128	Unreliable
+	"DuPage County, IL"	"17043"	"2017"	"2017"	"Undetermined "	"4"	10	930128	Unreliable
+	"DuPage County, IL"	"17043"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	930128	Unreliable
+	"DuPage County, IL"	"17043"	"2018"	"2018"	"Unintentional"	"1"	286	928589	30.8
+	"DuPage County, IL"	"17043"	"2018"	"2018"	"Suicide"	"2"	111	928589	12.0
+	"DuPage County, IL"	"17043"	"2018"	"2018"	"Homicide"	"3"	18	928589	Unreliable
+	"Edgar County, IL"	"17045"	"2000"	"2000"	"Unintentional"	"1"	14	19704	Unreliable
+	"Edgar County, IL"	"17045"	"2011"	"2011"	"Unintentional"	"1"	11	18393	Unreliable
+	"Edgar County, IL"	"17045"	"2012"	"2012"	"Unintentional"	"1"	11	18191	Unreliable
+	"Edgar County, IL"	"17045"	"2016"	"2016"	"Unintentional"	"1"	12	17566	Unreliable
+	"Edgar County, IL"	"17045"	"2017"	"2017"	"Unintentional"	"1"	11	17328	Unreliable
+	"Effingham County, IL"	"17049"	"1999"	"1999"	"Unintentional"	"1"	31	34164	90.7
+	"Effingham County, IL"	"17049"	"2000"	"2000"	"Unintentional"	"1"	19	34264	Unreliable
+	"Effingham County, IL"	"17049"	"2001"	"2001"	"Unintentional"	"1"	10	34334	Unreliable
+	"Effingham County, IL"	"17049"	"2002"	"2002"	"Unintentional"	"1"	14	34281	Unreliable
+	"Effingham County, IL"	"17049"	"2003"	"2003"	"Unintentional"	"1"	16	34408	Unreliable
+	"Effingham County, IL"	"17049"	"2004"	"2004"	"Unintentional"	"1"	12	34497	Unreliable
+	"Effingham County, IL"	"17049"	"2005"	"2005"	"Unintentional"	"1"	10	34365	Unreliable
+	"Effingham County, IL"	"17049"	"2006"	"2006"	"Unintentional"	"1"	26	34289	75.8
+	"Effingham County, IL"	"17049"	"2007"	"2007"	"Unintentional"	"1"	22	34191	64.3
+	"Effingham County, IL"	"17049"	"2008"	"2008"	"Unintentional"	"1"	17	34173	Unreliable
+	"Effingham County, IL"	"17049"	"2009"	"2009"	"Unintentional"	"1"	22	34275	64.2
+	"Effingham County, IL"	"17049"	"2010"	"2010"	"Unintentional"	"1"	26	34242	75.9
+	"Effingham County, IL"	"17049"	"2011"	"2011"	"Unintentional"	"1"	23	34280	67.1
+	"Effingham County, IL"	"17049"	"2012"	"2012"	"Unintentional"	"1"	21	34353	61.1
+	"Effingham County, IL"	"17049"	"2013"	"2013"	"Unintentional"	"1"	20	34307	58.3
+	"Effingham County, IL"	"17049"	"2014"	"2014"	"Unintentional"	"1"	22	34320	64.1
+	"Effingham County, IL"	"17049"	"2015"	"2015"	"Unintentional"	"1"	22	34371	64.0
+	"Effingham County, IL"	"17049"	"2016"	"2016"	"Unintentional"	"1"	16	34386	Unreliable
+	"Effingham County, IL"	"17049"	"2017"	"2017"	"Unintentional"	"1"	13	34132	Unreliable
+	"Effingham County, IL"	"17049"	"2018"	"2018"	"Unintentional"	"1"	25	34208	73.1
+	"Fayette County, IL"	"17051"	"1999"	"1999"	"Unintentional"	"1"	18	21786	Unreliable
+	"Fayette County, IL"	"17051"	"2001"	"2001"	"Unintentional"	"1"	12	21695	Unreliable
+	"Fayette County, IL"	"17051"	"2002"	"2002"	"Unintentional"	"1"	13	21814	Unreliable
+	"Fayette County, IL"	"17051"	"2004"	"2004"	"Unintentional"	"1"	11	21056	Unreliable
+	"Fayette County, IL"	"17051"	"2006"	"2006"	"Unintentional"	"1"	11	21925	Unreliable
+	"Fayette County, IL"	"17051"	"2007"	"2007"	"Unintentional"	"1"	10	21890	Unreliable
+	"Fayette County, IL"	"17051"	"2009"	"2009"	"Unintentional"	"1"	11	22089	Unreliable
+	"Fayette County, IL"	"17051"	"2010"	"2010"	"Unintentional"	"1"	15	22140	Unreliable
+	"Fayette County, IL"	"17051"	"2011"	"2011"	"Unintentional"	"1"	11	22133	Unreliable
+	"Fayette County, IL"	"17051"	"2012"	"2012"	"Unintentional"	"1"	12	22014	Unreliable
+	"Fayette County, IL"	"17051"	"2013"	"2013"	"Unintentional"	"1"	13	22060	Unreliable
+	"Fayette County, IL"	"17051"	"2014"	"2014"	"Unintentional"	"1"	18	21870	Unreliable
+	"Fayette County, IL"	"17051"	"2015"	"2015"	"Unintentional"	"1"	12	22043	Unreliable
+	"Fayette County, IL"	"17051"	"2016"	"2016"	"Unintentional"	"1"	14	21789	Unreliable
+	"Fayette County, IL"	"17051"	"2017"	"2017"	"Unintentional"	"1"	10	21784	Unreliable
+	"Fayette County, IL"	"17051"	"2018"	"2018"	"Unintentional"	"1"	14	21416	Unreliable
+	"Ford County, IL"	"17053"	"2001"	"2001"	"Unintentional"	"1"	10	14148	Unreliable
+	"Ford County, IL"	"17053"	"2003"	"2003"	"Unintentional"	"1"	12	14095	Unreliable
+	"Ford County, IL"	"17053"	"2007"	"2007"	"Unintentional"	"1"	13	14213	Unreliable
+	"Ford County, IL"	"17053"	"2008"	"2008"	"Unintentional"	"1"	13	14095	Unreliable
+	"Ford County, IL"	"17053"	"2014"	"2014"	"Unintentional"	"1"	10	13688	Unreliable
+	"Franklin County, IL"	"17055"	"1999"	"1999"	"Unintentional"	"1"	21	39126	53.7
+	"Franklin County, IL"	"17055"	"2000"	"2000"	"Unintentional"	"1"	25	39018	64.1
+	"Franklin County, IL"	"17055"	"2001"	"2001"	"Unintentional"	"1"	23	38798	59.3
+	"Franklin County, IL"	"17055"	"2002"	"2002"	"Unintentional"	"1"	22	38893	56.6
+	"Franklin County, IL"	"17055"	"2003"	"2003"	"Unintentional"	"1"	18	39066	Unreliable
+	"Franklin County, IL"	"17055"	"2004"	"2004"	"Unintentional"	"1"	22	39298	56.0
+	"Franklin County, IL"	"17055"	"2004"	"2004"	"Suicide"	"2"	19	39298	Unreliable
+	"Franklin County, IL"	"17055"	"2005"	"2005"	"Unintentional"	"1"	21	39587	53.0
+	"Franklin County, IL"	"17055"	"2006"	"2006"	"Unintentional"	"1"	30	39560	75.8
+	"Franklin County, IL"	"17055"	"2007"	"2007"	"Unintentional"	"1"	29	39473	73.5
+	"Franklin County, IL"	"17055"	"2008"	"2008"	"Unintentional"	"1"	26	39546	65.7
+	"Franklin County, IL"	"17055"	"2009"	"2009"	"Unintentional"	"1"	23	39482	58.3
+	"Franklin County, IL"	"17055"	"2010"	"2010"	"Unintentional"	"1"	28	39561	70.8
+	"Franklin County, IL"	"17055"	"2011"	"2011"	"Unintentional"	"1"	25	39627	63.1
+	"Franklin County, IL"	"17055"	"2011"	"2011"	"Suicide"	"2"	11	39627	Unreliable
+	"Franklin County, IL"	"17055"	"2012"	"2012"	"Unintentional"	"1"	38	39407	96.4
+	"Franklin County, IL"	"17055"	"2013"	"2013"	"Unintentional"	"1"	32	39202	81.6
+	"Franklin County, IL"	"17055"	"2014"	"2014"	"Unintentional"	"1"	27	39411	68.5
+	"Franklin County, IL"	"17055"	"2015"	"2015"	"Unintentional"	"1"	41	39485	103.8
+	"Franklin County, IL"	"17055"	"2016"	"2016"	"Unintentional"	"1"	37	39156	94.5
+	"Franklin County, IL"	"17055"	"2017"	"2017"	"Unintentional"	"1"	32	39041	82.0
+	"Franklin County, IL"	"17055"	"2018"	"2018"	"Unintentional"	"1"	27	38701	69.8
+	"Fulton County, IL"	"17057"	"1999"	"1999"	"Unintentional"	"1"	21	38434	54.6
+	"Fulton County, IL"	"17057"	"2000"	"2000"	"Unintentional"	"1"	19	38250	Unreliable
+	"Fulton County, IL"	"17057"	"2001"	"2001"	"Unintentional"	"1"	16	37880	Unreliable
+	"Fulton County, IL"	"17057"	"2002"	"2002"	"Unintentional"	"1"	20	37587	53.2
+	"Fulton County, IL"	"17057"	"2003"	"2003"	"Unintentional"	"1"	13	37705	Unreliable
+	"Fulton County, IL"	"17057"	"2004"	"2004"	"Unintentional"	"1"	21	37630	55.8
+	"Fulton County, IL"	"17057"	"2005"	"2005"	"Unintentional"	"1"	22	37452	58.7
+	"Fulton County, IL"	"17057"	"2006"	"2006"	"Unintentional"	"1"	23	37387	61.5
+	"Fulton County, IL"	"17057"	"2007"	"2007"	"Unintentional"	"1"	14	37272	Unreliable
+	"Fulton County, IL"	"17057"	"2008"	"2008"	"Unintentional"	"1"	17	37224	Unreliable
+	"Fulton County, IL"	"17057"	"2009"	"2009"	"Unintentional"	"1"	16	37090	Unreliable
+	"Fulton County, IL"	"17057"	"2010"	"2010"	"Unintentional"	"1"	17	37069	Unreliable
+	"Fulton County, IL"	"17057"	"2011"	"2011"	"Unintentional"	"1"	26	36962	70.3
+	"Fulton County, IL"	"17057"	"2012"	"2012"	"Unintentional"	"1"	19	36651	Unreliable
+	"Fulton County, IL"	"17057"	"2013"	"2013"	"Unintentional"	"1"	21	36346	57.8
+	"Fulton County, IL"	"17057"	"2014"	"2014"	"Unintentional"	"1"	10	36007	Unreliable
+	"Fulton County, IL"	"17057"	"2015"	"2015"	"Unintentional"	"1"	21	35699	58.8
+	"Fulton County, IL"	"17057"	"2016"	"2016"	"Unintentional"	"1"	17	35536	Unreliable
+	"Fulton County, IL"	"17057"	"2017"	"2017"	"Unintentional"	"1"	26	35110	74.1
+	"Fulton County, IL"	"17057"	"2018"	"2018"	"Unintentional"	"1"	22	34844	63.1
+	"Gallatin County, IL"	"17059"	"2014"	"2014"	"Unintentional"	"1"	10	5291	Unreliable
+	"Greene County, IL"	"17061"	"2007"	"2007"	"Unintentional"	"1"	11	14001	Unreliable
+	"Greene County, IL"	"17061"	"2008"	"2008"	"Unintentional"	"1"	12	13956	Unreliable
+	"Greene County, IL"	"17061"	"2013"	"2013"	"Unintentional"	"1"	11	13629	Unreliable
+	"Greene County, IL"	"17061"	"2014"	"2014"	"Unintentional"	"1"	17	13434	Unreliable
+	"Greene County, IL"	"17061"	"2015"	"2015"	"Unintentional"	"1"	12	13241	Unreliable
+	"Greene County, IL"	"17061"	"2016"	"2016"	"Unintentional"	"1"	10	13093	Unreliable
+	"Greene County, IL"	"17061"	"2017"	"2017"	"Unintentional"	"1"	18	13174	Unreliable
+	"Grundy County, IL"	"17063"	"1999"	"1999"	"Unintentional"	"1"	11	37121	Unreliable
+	"Grundy County, IL"	"17063"	"2000"	"2000"	"Unintentional"	"1"	20	37535	53.3
+	"Grundy County, IL"	"17063"	"2001"	"2001"	"Unintentional"	"1"	11	38320	Unreliable
+	"Grundy County, IL"	"17063"	"2002"	"2002"	"Unintentional"	"1"	18	38865	Unreliable
+	"Grundy County, IL"	"17063"	"2003"	"2003"	"Unintentional"	"1"	13	39819	Unreliable
+	"Grundy County, IL"	"17063"	"2004"	"2004"	"Unintentional"	"1"	22	41410	53.1
+	"Grundy County, IL"	"17063"	"2005"	"2005"	"Unintentional"	"1"	18	44181	Unreliable
+	"Grundy County, IL"	"17063"	"2006"	"2006"	"Unintentional"	"1"	18	46534	Unreliable
+	"Grundy County, IL"	"17063"	"2007"	"2007"	"Unintentional"	"1"	19	48175	Unreliable
+	"Grundy County, IL"	"17063"	"2008"	"2008"	"Unintentional"	"1"	20	49166	40.7
+	"Grundy County, IL"	"17063"	"2009"	"2009"	"Unintentional"	"1"	25	49702	50.3
+	"Grundy County, IL"	"17063"	"2010"	"2010"	"Unintentional"	"1"	22	50063	43.9
+	"Grundy County, IL"	"17063"	"2011"	"2011"	"Unintentional"	"1"	22	50130	43.9
+	"Grundy County, IL"	"17063"	"2011"	"2011"	"Suicide"	"2"	10	50130	Unreliable
+	"Grundy County, IL"	"17063"	"2012"	"2012"	"Unintentional"	"1"	29	50281	57.7
+	"Grundy County, IL"	"17063"	"2013"	"2013"	"Unintentional"	"1"	19	50228	Unreliable
+	"Grundy County, IL"	"17063"	"2014"	"2014"	"Unintentional"	"1"	23	50425	45.6
+	"Grundy County, IL"	"17063"	"2015"	"2015"	"Unintentional"	"1"	19	50541	Unreliable
+	"Grundy County, IL"	"17063"	"2016"	"2016"	"Unintentional"	"1"	21	50437	41.6
+	"Grundy County, IL"	"17063"	"2017"	"2017"	"Unintentional"	"1"	15	50586	Unreliable
+	"Grundy County, IL"	"17063"	"2018"	"2018"	"Unintentional"	"1"	25	50972	49.0
+	"Hancock County, IL"	"17067"	"2005"	"2005"	"Unintentional"	"1"	13	19479	Unreliable
+	"Hancock County, IL"	"17067"	"2006"	"2006"	"Unintentional"	"1"	11	19412	Unreliable
+	"Hancock County, IL"	"17067"	"2007"	"2007"	"Unintentional"	"1"	12	19359	Unreliable
+	"Hancock County, IL"	"17067"	"2008"	"2008"	"Unintentional"	"1"	12	19192	Unreliable
+	"Hancock County, IL"	"17067"	"2009"	"2009"	"Unintentional"	"1"	12	19080	Unreliable
+	"Hancock County, IL"	"17067"	"2013"	"2013"	"Unintentional"	"1"	15	18618	Unreliable
+	"Hancock County, IL"	"17067"	"2016"	"2016"	"Unintentional"	"1"	12	18508	Unreliable
+	"Hancock County, IL"	"17067"	"2017"	"2017"	"Unintentional"	"1"	12	18020	Unreliable
+	"Hancock County, IL"	"17067"	"2018"	"2018"	"Unintentional"	"1"	16	17844	Unreliable
+	"Hardin County, IL"	"17069"	"2006"	"2006"	"Unintentional"	"1"	10	4508	Unreliable
+	"Henry County, IL"	"17073"	"1999"	"1999"	"Unintentional"	"1"	24	51004	47.1
+	"Henry County, IL"	"17073"	"2000"	"2000"	"Unintentional"	"1"	21	51020	41.2
+	"Henry County, IL"	"17073"	"2001"	"2001"	"Unintentional"	"1"	23	50714	45.4
+	"Henry County, IL"	"17073"	"2002"	"2002"	"Unintentional"	"1"	20	50454	39.6
+	"Henry County, IL"	"17073"	"2003"	"2003"	"Unintentional"	"1"	19	50714	Unreliable
+	"Henry County, IL"	"17073"	"2004"	"2004"	"Unintentional"	"1"	16	50509	Unreliable
+	"Henry County, IL"	"17073"	"2005"	"2005"	"Unintentional"	"1"	20	50572	39.5
+	"Henry County, IL"	"17073"	"2006"	"2006"	"Unintentional"	"1"	23	50392	45.6
+	"Henry County, IL"	"17073"	"2007"	"2007"	"Unintentional"	"1"	33	50528	65.3
+	"Henry County, IL"	"17073"	"2008"	"2008"	"Unintentional"	"1"	27	50492	53.5
+	"Henry County, IL"	"17073"	"2009"	"2009"	"Unintentional"	"1"	18	50536	Unreliable
+	"Henry County, IL"	"17073"	"2010"	"2010"	"Unintentional"	"1"	23	50486	45.6
+	"Henry County, IL"	"17073"	"2011"	"2011"	"Unintentional"	"1"	26	50328	51.7
+	"Henry County, IL"	"17073"	"2012"	"2012"	"Unintentional"	"1"	18	50155	Unreliable
+	"Henry County, IL"	"17073"	"2013"	"2013"	"Unintentional"	"1"	26	49860	52.1
+	"Henry County, IL"	"17073"	"2014"	"2014"	"Unintentional"	"1"	25	49635	50.4
+	"Henry County, IL"	"17073"	"2015"	"2015"	"Unintentional"	"1"	19	49489	Unreliable
+	"Henry County, IL"	"17073"	"2015"	"2015"	"Suicide"	"2"	10	49489	Unreliable
+	"Henry County, IL"	"17073"	"2016"	"2016"	"Unintentional"	"1"	23	49280	46.7
+	"Henry County, IL"	"17073"	"2017"	"2017"	"Unintentional"	"1"	18	49328	Unreliable
+	"Henry County, IL"	"17073"	"2018"	"2018"	"Unintentional"	"1"	25	49090	50.9
+	"Iroquois County, IL"	"17075"	"1999"	"1999"	"Unintentional"	"1"	13	31389	Unreliable
+	"Iroquois County, IL"	"17075"	"2000"	"2000"	"Unintentional"	"1"	19	31334	Unreliable
+	"Iroquois County, IL"	"17075"	"2001"	"2001"	"Unintentional"	"1"	19	31022	Unreliable
+	"Iroquois County, IL"	"17075"	"2002"	"2002"	"Unintentional"	"1"	14	30805	Unreliable
+	"Iroquois County, IL"	"17075"	"2003"	"2003"	"Unintentional"	"1"	22	30688	71.7
+	"Iroquois County, IL"	"17075"	"2004"	"2004"	"Unintentional"	"1"	19	30493	Unreliable
+	"Iroquois County, IL"	"17075"	"2005"	"2005"	"Unintentional"	"1"	21	30548	68.7
+	"Iroquois County, IL"	"17075"	"2006"	"2006"	"Unintentional"	"1"	18	30308	Unreliable
+	"Iroquois County, IL"	"17075"	"2007"	"2007"	"Unintentional"	"1"	20	30282	66.0
+	"Iroquois County, IL"	"17075"	"2009"	"2009"	"Unintentional"	"1"	10	29863	Unreliable
+	"Iroquois County, IL"	"17075"	"2010"	"2010"	"Unintentional"	"1"	13	29718	Unreliable
+	"Iroquois County, IL"	"17075"	"2011"	"2011"	"Unintentional"	"1"	14	29475	Unreliable
+	"Iroquois County, IL"	"17075"	"2012"	"2012"	"Unintentional"	"1"	21	29240	71.8
+	"Iroquois County, IL"	"17075"	"2013"	"2013"	"Unintentional"	"1"	18	28982	Unreliable
+	"Iroquois County, IL"	"17075"	"2013"	"2013"	"Suicide"	"2"	11	28982	Unreliable
+	"Iroquois County, IL"	"17075"	"2014"	"2014"	"Unintentional"	"1"	16	28879	Unreliable
+	"Iroquois County, IL"	"17075"	"2015"	"2015"	"Unintentional"	"1"	18	28672	Unreliable
+	"Iroquois County, IL"	"17075"	"2016"	"2016"	"Unintentional"	"1"	26	28334	91.8
+	"Iroquois County, IL"	"17075"	"2017"	"2017"	"Unintentional"	"1"	23	27876	82.5
+	"Iroquois County, IL"	"17075"	"2018"	"2018"	"Unintentional"	"1"	28	27604	101.4
+	"Jackson County, IL"	"17077"	"1999"	"1999"	"Unintentional"	"1"	18	60026	Unreliable
+	"Jackson County, IL"	"17077"	"2000"	"2000"	"Unintentional"	"1"	18	59612	Unreliable
+	"Jackson County, IL"	"17077"	"2001"	"2001"	"Unintentional"	"1"	23	59530	38.6
+	"Jackson County, IL"	"17077"	"2002"	"2002"	"Unintentional"	"1"	16	58949	Unreliable
+	"Jackson County, IL"	"17077"	"2003"	"2003"	"Unintentional"	"1"	16	59282	Unreliable
+	"Jackson County, IL"	"17077"	"2004"	"2004"	"Unintentional"	"1"	23	59462	38.7
+	"Jackson County, IL"	"17077"	"2004"	"2004"	"Suicide"	"2"	10	59462	Unreliable
+	"Jackson County, IL"	"17077"	"2005"	"2005"	"Unintentional"	"1"	31	60006	51.7
+	"Jackson County, IL"	"17077"	"2006"	"2006"	"Unintentional"	"1"	22	60170	36.6
+	"Jackson County, IL"	"17077"	"2007"	"2007"	"Unintentional"	"1"	27	59518	45.4
+	"Jackson County, IL"	"17077"	"2007"	"2007"	"Suicide"	"2"	12	59518	Unreliable
+	"Jackson County, IL"	"17077"	"2008"	"2008"	"Unintentional"	"1"	25	59605	41.9
+	"Jackson County, IL"	"17077"	"2009"	"2009"	"Unintentional"	"1"	24	59664	40.2
+	"Jackson County, IL"	"17077"	"2010"	"2010"	"Unintentional"	"1"	14	60218	Unreliable
+	"Jackson County, IL"	"17077"	"2011"	"2011"	"Unintentional"	"1"	25	60365	41.4
+	"Jackson County, IL"	"17077"	"2011"	"2011"	"Suicide"	"2"	10	60365	Unreliable
+	"Jackson County, IL"	"17077"	"2012"	"2012"	"Unintentional"	"1"	24	60071	40.0
+	"Jackson County, IL"	"17077"	"2012"	"2012"	"Suicide"	"2"	10	60071	Unreliable
+	"Jackson County, IL"	"17077"	"2013"	"2013"	"Unintentional"	"1"	25	59814	41.8
+	"Jackson County, IL"	"17077"	"2014"	"2014"	"Unintentional"	"1"	22	59677	36.9
+	"Jackson County, IL"	"17077"	"2015"	"2015"	"Unintentional"	"1"	34	59362	57.3
+	"Jackson County, IL"	"17077"	"2016"	"2016"	"Unintentional"	"1"	31	58870	52.7
+	"Jackson County, IL"	"17077"	"2017"	"2017"	"Unintentional"	"1"	35	58284	60.1
+	"Jackson County, IL"	"17077"	"2017"	"2017"	"Suicide"	"2"	13	58284	Unreliable
+	"Jackson County, IL"	"17077"	"2018"	"2018"	"Unintentional"	"1"	36	57419	62.7
+	"Jackson County, IL"	"17077"	"2018"	"2018"	"Undetermined "	"4"	10	57419	Unreliable
+	"Jasper County, IL"	"17079"	"2002"	"2002"	"Unintentional"	"1"	10	10015	Unreliable
+	"Jasper County, IL"	"17079"	"2016"	"2016"	"Unintentional"	"1"	12	9536	Unreliable
+	"Jefferson County, IL"	"17081"	"1999"	"1999"	"Unintentional"	"1"	15	39981	Unreliable
+	"Jefferson County, IL"	"17081"	"2000"	"2000"	"Unintentional"	"1"	20	40045	49.9
+	"Jefferson County, IL"	"17081"	"2001"	"2001"	"Unintentional"	"1"	15	39874	Unreliable
+	"Jefferson County, IL"	"17081"	"2002"	"2002"	"Unintentional"	"1"	21	39805	52.8
+	"Jefferson County, IL"	"17081"	"2003"	"2003"	"Unintentional"	"1"	15	39730	Unreliable
+	"Jefferson County, IL"	"17081"	"2004"	"2004"	"Unintentional"	"1"	17	39638	Unreliable
+	"Jefferson County, IL"	"17081"	"2005"	"2005"	"Unintentional"	"1"	27	39624	68.1
+	"Jefferson County, IL"	"17081"	"2006"	"2006"	"Unintentional"	"1"	29	39545	73.3
+	"Jefferson County, IL"	"17081"	"2007"	"2007"	"Unintentional"	"1"	22	39412	55.8
+	"Jefferson County, IL"	"17081"	"2008"	"2008"	"Unintentional"	"1"	24	39277	61.1
+	"Jefferson County, IL"	"17081"	"2009"	"2009"	"Unintentional"	"1"	18	38970	Unreliable
+	"Jefferson County, IL"	"17081"	"2010"	"2010"	"Unintentional"	"1"	18	38827	Unreliable
+	"Jefferson County, IL"	"17081"	"2011"	"2011"	"Unintentional"	"1"	24	38713	62.0
+	"Jefferson County, IL"	"17081"	"2012"	"2012"	"Unintentional"	"1"	23	38720	59.4
+	"Jefferson County, IL"	"17081"	"2013"	"2013"	"Unintentional"	"1"	22	38644	56.9
+	"Jefferson County, IL"	"17081"	"2014"	"2014"	"Unintentional"	"1"	18	38534	Unreliable
+	"Jefferson County, IL"	"17081"	"2015"	"2015"	"Unintentional"	"1"	30	38353	78.2
+	"Jefferson County, IL"	"17081"	"2016"	"2016"	"Unintentional"	"1"	26	38460	67.6
+	"Jefferson County, IL"	"17081"	"2017"	"2017"	"Unintentional"	"1"	29	38179	76.0
+	"Jefferson County, IL"	"17081"	"2018"	"2018"	"Unintentional"	"1"	35	37820	92.5
+	"Jersey County, IL"	"17083"	"1999"	"1999"	"Unintentional"	"1"	14	21659	Unreliable
+	"Jersey County, IL"	"17083"	"2001"	"2001"	"Unintentional"	"1"	17	21751	Unreliable
+	"Jersey County, IL"	"17083"	"2002"	"2002"	"Unintentional"	"1"	10	22001	Unreliable
+	"Jersey County, IL"	"17083"	"2004"	"2004"	"Unintentional"	"1"	19	22374	Unreliable
+	"Jersey County, IL"	"17083"	"2005"	"2005"	"Unintentional"	"1"	12	22500	Unreliable
+	"Jersey County, IL"	"17083"	"2006"	"2006"	"Unintentional"	"1"	15	22736	Unreliable
+	"Jersey County, IL"	"17083"	"2007"	"2007"	"Unintentional"	"1"	15	22838	Unreliable
+	"Jersey County, IL"	"17083"	"2009"	"2009"	"Unintentional"	"1"	10	23060	Unreliable
+	"Jersey County, IL"	"17083"	"2010"	"2010"	"Unintentional"	"1"	12	22985	Unreliable
+	"Jersey County, IL"	"17083"	"2011"	"2011"	"Unintentional"	"1"	13	22916	Unreliable
+	"Jersey County, IL"	"17083"	"2012"	"2012"	"Unintentional"	"1"	11	22742	Unreliable
+	"Jersey County, IL"	"17083"	"2013"	"2013"	"Unintentional"	"1"	15	22641	Unreliable
+	"Jersey County, IL"	"17083"	"2015"	"2015"	"Unintentional"	"1"	21	22372	93.9
+	"Jersey County, IL"	"17083"	"2016"	"2016"	"Unintentional"	"1"	13	22025	Unreliable
+	"Jersey County, IL"	"17083"	"2017"	"2017"	"Unintentional"	"1"	25	21941	113.9
+	"Jersey County, IL"	"17083"	"2018"	"2018"	"Unintentional"	"1"	23	21847	105.3
+	"Jo Daviess County, IL"	"17085"	"2000"	"2000"	"Unintentional"	"1"	12	22289	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2002"	"2002"	"Unintentional"	"1"	10	22480	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2006"	"2006"	"Unintentional"	"1"	10	22828	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2007"	"2007"	"Unintentional"	"1"	14	22758	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2008"	"2008"	"Unintentional"	"1"	13	22715	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2009"	"2009"	"Unintentional"	"1"	11	22685	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2011"	"2011"	"Unintentional"	"1"	15	22712	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2013"	"2013"	"Unintentional"	"1"	10	22407	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2014"	"2014"	"Unintentional"	"1"	14	22254	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2015"	"2015"	"Unintentional"	"1"	17	22086	Unreliable
+	"Jo Daviess County, IL"	"17085"	"2016"	"2016"	"Unintentional"	"1"	21	21770	96.5
+	"Jo Daviess County, IL"	"17085"	"2017"	"2017"	"Unintentional"	"1"	16	21594	Unreliable
+	"Johnson County, IL"	"17087"	"2018"	"2018"	"Unintentional"	"1"	11	12456	Unreliable
+	"Kane County, IL"	"17089"	"1999"	"1999"	"Unintentional"	"1"	81	396371	20.4
+	"Kane County, IL"	"17089"	"1999"	"1999"	"Suicide"	"2"	27	396371	6.8
+	"Kane County, IL"	"17089"	"1999"	"1999"	"Homicide"	"3"	27	396371	6.8
+	"Kane County, IL"	"17089"	"2000"	"2000"	"Unintentional"	"1"	97	404119	24.0
+	"Kane County, IL"	"17089"	"2000"	"2000"	"Suicide"	"2"	27	404119	6.7
+	"Kane County, IL"	"17089"	"2000"	"2000"	"Homicide"	"3"	19	404119	Unreliable
+	"Kane County, IL"	"17089"	"2001"	"2001"	"Unintentional"	"1"	107	423975	25.2
+	"Kane County, IL"	"17089"	"2001"	"2001"	"Suicide"	"2"	35	423975	8.3
+	"Kane County, IL"	"17089"	"2001"	"2001"	"Homicide"	"3"	19	423975	Unreliable
+	"Kane County, IL"	"17089"	"2002"	"2002"	"Unintentional"	"1"	112	440437	25.4
+	"Kane County, IL"	"17089"	"2002"	"2002"	"Suicide"	"2"	36	440437	8.2
+	"Kane County, IL"	"17089"	"2002"	"2002"	"Homicide"	"3"	22	440437	5.0
+	"Kane County, IL"	"17089"	"2003"	"2003"	"Unintentional"	"1"	99	453929	21.8
+	"Kane County, IL"	"17089"	"2003"	"2003"	"Suicide"	"2"	36	453929	7.9
+	"Kane County, IL"	"17089"	"2003"	"2003"	"Homicide"	"3"	19	453929	Unreliable
+	"Kane County, IL"	"17089"	"2004"	"2004"	"Unintentional"	"1"	111	466884	23.8
+	"Kane County, IL"	"17089"	"2004"	"2004"	"Suicide"	"2"	22	466884	4.7
+	"Kane County, IL"	"17089"	"2004"	"2004"	"Homicide"	"3"	22	466884	4.7
+	"Kane County, IL"	"17089"	"2005"	"2005"	"Unintentional"	"1"	127	475384	26.7
+	"Kane County, IL"	"17089"	"2005"	"2005"	"Suicide"	"2"	40	475384	8.4
+	"Kane County, IL"	"17089"	"2005"	"2005"	"Homicide"	"3"	13	475384	Unreliable
+	"Kane County, IL"	"17089"	"2006"	"2006"	"Unintentional"	"1"	106	485179	21.8
+	"Kane County, IL"	"17089"	"2006"	"2006"	"Suicide"	"2"	34	485179	7.0
+	"Kane County, IL"	"17089"	"2006"	"2006"	"Homicide"	"3"	15	485179	Unreliable
+	"Kane County, IL"	"17089"	"2007"	"2007"	"Unintentional"	"1"	113	495752	22.8
+	"Kane County, IL"	"17089"	"2007"	"2007"	"Suicide"	"2"	39	495752	7.9
+	"Kane County, IL"	"17089"	"2007"	"2007"	"Homicide"	"3"	17	495752	Unreliable
+	"Kane County, IL"	"17089"	"2008"	"2008"	"Unintentional"	"1"	102	504437	20.2
+	"Kane County, IL"	"17089"	"2008"	"2008"	"Suicide"	"2"	35	504437	6.9
+	"Kane County, IL"	"17089"	"2009"	"2009"	"Unintentional"	"1"	117	511273	22.9
+	"Kane County, IL"	"17089"	"2009"	"2009"	"Suicide"	"2"	32	511273	6.3
+	"Kane County, IL"	"17089"	"2010"	"2010"	"Unintentional"	"1"	101	515269	19.6
+	"Kane County, IL"	"17089"	"2010"	"2010"	"Suicide"	"2"	48	515269	9.3
+	"Kane County, IL"	"17089"	"2011"	"2011"	"Unintentional"	"1"	134	520271	25.8
+	"Kane County, IL"	"17089"	"2011"	"2011"	"Suicide"	"2"	40	520271	7.7
+	"Kane County, IL"	"17089"	"2012"	"2012"	"Unintentional"	"1"	129	522487	24.7
+	"Kane County, IL"	"17089"	"2012"	"2012"	"Suicide"	"2"	48	522487	9.2
+	"Kane County, IL"	"17089"	"2012"	"2012"	"Homicide"	"3"	12	522487	Unreliable
+	"Kane County, IL"	"17089"	"2013"	"2013"	"Unintentional"	"1"	134	523643	25.6
+	"Kane County, IL"	"17089"	"2013"	"2013"	"Suicide"	"2"	36	523643	6.9
+	"Kane County, IL"	"17089"	"2014"	"2014"	"Unintentional"	"1"	124	527306	23.5
+	"Kane County, IL"	"17089"	"2014"	"2014"	"Suicide"	"2"	46	527306	8.7
+	"Kane County, IL"	"17089"	"2014"	"2014"	"Homicide"	"3"	15	527306	Unreliable
+	"Kane County, IL"	"17089"	"2015"	"2015"	"Unintentional"	"1"	118	530847	22.2
+	"Kane County, IL"	"17089"	"2015"	"2015"	"Suicide"	"2"	44	530847	8.3
+	"Kane County, IL"	"17089"	"2015"	"2015"	"Homicide"	"3"	13	530847	Unreliable
+	"Kane County, IL"	"17089"	"2016"	"2016"	"Unintentional"	"1"	170	531715	32.0
+	"Kane County, IL"	"17089"	"2016"	"2016"	"Suicide"	"2"	48	531715	9.0
+	"Kane County, IL"	"17089"	"2016"	"2016"	"Homicide"	"3"	18	531715	Unreliable
+	"Kane County, IL"	"17089"	"2017"	"2017"	"Unintentional"	"1"	186	534667	34.8
+	"Kane County, IL"	"17089"	"2017"	"2017"	"Suicide"	"2"	45	534667	8.4
+	"Kane County, IL"	"17089"	"2017"	"2017"	"Homicide"	"3"	15	534667	Unreliable
+	"Kane County, IL"	"17089"	"2017"	"2017"	"Undetermined "	"4"	14	534667	Unreliable
+	"Kane County, IL"	"17089"	"2018"	"2018"	"Unintentional"	"1"	158	534216	29.6
+	"Kane County, IL"	"17089"	"2018"	"2018"	"Suicide"	"2"	46	534216	8.6
+	"Kane County, IL"	"17089"	"2018"	"2018"	"Undetermined "	"4"	20	534216	3.7
+	"Kankakee County, IL"	"17091"	"1999"	"1999"	"Unintentional"	"1"	51	103675	49.2
+	"Kankakee County, IL"	"17091"	"1999"	"1999"	"Suicide"	"2"	10	103675	Unreliable
+	"Kankakee County, IL"	"17091"	"2000"	"2000"	"Unintentional"	"1"	52	103833	50.1
+	"Kankakee County, IL"	"17091"	"2000"	"2000"	"Suicide"	"2"	10	103833	Unreliable
+	"Kankakee County, IL"	"17091"	"2001"	"2001"	"Unintentional"	"1"	54	104490	51.7
+	"Kankakee County, IL"	"17091"	"2001"	"2001"	"Suicide"	"2"	12	104490	Unreliable
+	"Kankakee County, IL"	"17091"	"2001"	"2001"	"Homicide"	"3"	11	104490	Unreliable
+	"Kankakee County, IL"	"17091"	"2002"	"2002"	"Unintentional"	"1"	48	104932	45.7
+	"Kankakee County, IL"	"17091"	"2003"	"2003"	"Unintentional"	"1"	52	105794	49.2
+	"Kankakee County, IL"	"17091"	"2003"	"2003"	"Suicide"	"2"	12	105794	Unreliable
+	"Kankakee County, IL"	"17091"	"2004"	"2004"	"Unintentional"	"1"	50	106744	46.8
+	"Kankakee County, IL"	"17091"	"2004"	"2004"	"Suicide"	"2"	11	106744	Unreliable
+	"Kankakee County, IL"	"17091"	"2005"	"2005"	"Unintentional"	"1"	49	107917	45.4
+	"Kankakee County, IL"	"17091"	"2005"	"2005"	"Suicide"	"2"	13	107917	Unreliable
+	"Kankakee County, IL"	"17091"	"2006"	"2006"	"Unintentional"	"1"	38	109735	34.6
+	"Kankakee County, IL"	"17091"	"2006"	"2006"	"Suicide"	"2"	10	109735	Unreliable
+	"Kankakee County, IL"	"17091"	"2007"	"2007"	"Unintentional"	"1"	39	111499	35.0
+	"Kankakee County, IL"	"17091"	"2008"	"2008"	"Unintentional"	"1"	45	112658	39.9
+	"Kankakee County, IL"	"17091"	"2008"	"2008"	"Suicide"	"2"	10	112658	Unreliable
+	"Kankakee County, IL"	"17091"	"2009"	"2009"	"Unintentional"	"1"	47	113107	41.6
+	"Kankakee County, IL"	"17091"	"2010"	"2010"	"Unintentional"	"1"	35	113449	30.9
+	"Kankakee County, IL"	"17091"	"2011"	"2011"	"Unintentional"	"1"	51	113698	44.9
+	"Kankakee County, IL"	"17091"	"2011"	"2011"	"Suicide"	"2"	13	113698	Unreliable
+	"Kankakee County, IL"	"17091"	"2012"	"2012"	"Unintentional"	"1"	37	113040	32.7
+	"Kankakee County, IL"	"17091"	"2012"	"2012"	"Suicide"	"2"	11	113040	Unreliable
+	"Kankakee County, IL"	"17091"	"2012"	"2012"	"Homicide"	"3"	10	113040	Unreliable
+	"Kankakee County, IL"	"17091"	"2013"	"2013"	"Unintentional"	"1"	52	112120	46.4
+	"Kankakee County, IL"	"17091"	"2014"	"2014"	"Unintentional"	"1"	59	111375	53.0
+	"Kankakee County, IL"	"17091"	"2014"	"2014"	"Suicide"	"2"	15	111375	Unreliable
+	"Kankakee County, IL"	"17091"	"2014"	"2014"	"Homicide"	"3"	11	111375	Unreliable
+	"Kankakee County, IL"	"17091"	"2015"	"2015"	"Unintentional"	"1"	41	110879	37.0
+	"Kankakee County, IL"	"17091"	"2016"	"2016"	"Unintentional"	"1"	57	110008	51.8
+	"Kankakee County, IL"	"17091"	"2016"	"2016"	"Suicide"	"2"	10	110008	Unreliable
+	"Kankakee County, IL"	"17091"	"2016"	"2016"	"Homicide"	"3"	10	110008	Unreliable
+	"Kankakee County, IL"	"17091"	"2017"	"2017"	"Unintentional"	"1"	76	109605	69.3
+	"Kankakee County, IL"	"17091"	"2017"	"2017"	"Suicide"	"2"	15	109605	Unreliable
+	"Kankakee County, IL"	"17091"	"2017"	"2017"	"Homicide"	"3"	11	109605	Unreliable
+	"Kankakee County, IL"	"17091"	"2018"	"2018"	"Unintentional"	"1"	70	110024	63.6
+	"Kankakee County, IL"	"17091"	"2018"	"2018"	"Suicide"	"2"	11	110024	Unreliable
+	"Kendall County, IL"	"17093"	"1999"	"1999"	"Unintentional"	"1"	13	52845	Unreliable
+	"Kendall County, IL"	"17093"	"2000"	"2000"	"Unintentional"	"1"	15	54544	Unreliable
+	"Kendall County, IL"	"17093"	"2001"	"2001"	"Unintentional"	"1"	12	58437	Unreliable
+	"Kendall County, IL"	"17093"	"2002"	"2002"	"Unintentional"	"1"	19	62523	Unreliable
+	"Kendall County, IL"	"17093"	"2003"	"2003"	"Unintentional"	"1"	19	67740	Unreliable
+	"Kendall County, IL"	"17093"	"2004"	"2004"	"Unintentional"	"1"	21	73723	28.5
+	"Kendall County, IL"	"17093"	"2005"	"2005"	"Unintentional"	"1"	21	81107	25.9
+	"Kendall County, IL"	"17093"	"2006"	"2006"	"Unintentional"	"1"	18	90740	Unreliable
+	"Kendall County, IL"	"17093"	"2007"	"2007"	"Unintentional"	"1"	27	100917	26.8
+	"Kendall County, IL"	"17093"	"2008"	"2008"	"Unintentional"	"1"	29	108559	26.7
+	"Kendall County, IL"	"17093"	"2008"	"2008"	"Suicide"	"2"	11	108559	Unreliable
+	"Kendall County, IL"	"17093"	"2009"	"2009"	"Unintentional"	"1"	25	112490	22.2
+	"Kendall County, IL"	"17093"	"2009"	"2009"	"Suicide"	"2"	13	112490	Unreliable
+	"Kendall County, IL"	"17093"	"2010"	"2010"	"Unintentional"	"1"	17	114736	Unreliable
+	"Kendall County, IL"	"17093"	"2011"	"2011"	"Unintentional"	"1"	21	116631	18.0
+	"Kendall County, IL"	"17093"	"2011"	"2011"	"Suicide"	"2"	11	116631	Unreliable
+	"Kendall County, IL"	"17093"	"2012"	"2012"	"Unintentional"	"1"	26	118105	22.0
+	"Kendall County, IL"	"17093"	"2012"	"2012"	"Suicide"	"2"	13	118105	Unreliable
+	"Kendall County, IL"	"17093"	"2013"	"2013"	"Unintentional"	"1"	30	119348	25.1
+	"Kendall County, IL"	"17093"	"2014"	"2014"	"Unintentional"	"1"	20	121350	16.5
+	"Kendall County, IL"	"17093"	"2014"	"2014"	"Suicide"	"2"	13	121350	Unreliable
+	"Kendall County, IL"	"17093"	"2015"	"2015"	"Unintentional"	"1"	24	123355	19.5
+	"Kendall County, IL"	"17093"	"2016"	"2016"	"Unintentional"	"1"	51	124695	40.9
+	"Kendall County, IL"	"17093"	"2016"	"2016"	"Suicide"	"2"	14	124695	Unreliable
+	"Kendall County, IL"	"17093"	"2017"	"2017"	"Unintentional"	"1"	43	126218	34.1
+	"Kendall County, IL"	"17093"	"2017"	"2017"	"Suicide"	"2"	10	126218	Unreliable
+	"Kendall County, IL"	"17093"	"2018"	"2018"	"Unintentional"	"1"	32	127915	25.0
+	"Kendall County, IL"	"17093"	"2018"	"2018"	"Suicide"	"2"	14	127915	Unreliable
+	"Knox County, IL"	"17095"	"1999"	"1999"	"Unintentional"	"1"	20	55987	35.7
+	"Knox County, IL"	"17095"	"2000"	"2000"	"Unintentional"	"1"	24	55836	43.0
+	"Knox County, IL"	"17095"	"2001"	"2001"	"Unintentional"	"1"	20	55329	36.1
+	"Knox County, IL"	"17095"	"2002"	"2002"	"Unintentional"	"1"	25	54963	45.5
+	"Knox County, IL"	"17095"	"2003"	"2003"	"Unintentional"	"1"	20	54425	36.7
+	"Knox County, IL"	"17095"	"2004"	"2004"	"Unintentional"	"1"	28	53909	51.9
+	"Knox County, IL"	"17095"	"2005"	"2005"	"Unintentional"	"1"	23	53513	43.0
+	"Knox County, IL"	"17095"	"2006"	"2006"	"Unintentional"	"1"	34	53196	63.9
+	"Knox County, IL"	"17095"	"2007"	"2007"	"Unintentional"	"1"	20	52894	37.8
+	"Knox County, IL"	"17095"	"2007"	"2007"	"Suicide"	"2"	10	52894	Unreliable
+	"Knox County, IL"	"17095"	"2008"	"2008"	"Unintentional"	"1"	36	52836	68.1
+	"Knox County, IL"	"17095"	"2009"	"2009"	"Unintentional"	"1"	24	52817	45.4
+	"Knox County, IL"	"17095"	"2010"	"2010"	"Unintentional"	"1"	31	52919	58.6
+	"Knox County, IL"	"17095"	"2011"	"2011"	"Unintentional"	"1"	21	52917	39.7
+	"Knox County, IL"	"17095"	"2012"	"2012"	"Unintentional"	"1"	21	52247	40.2
+	"Knox County, IL"	"17095"	"2013"	"2013"	"Unintentional"	"1"	32	52078	61.4
+	"Knox County, IL"	"17095"	"2013"	"2013"	"Suicide"	"2"	10	52078	Unreliable
+	"Knox County, IL"	"17095"	"2014"	"2014"	"Unintentional"	"1"	21	52069	40.3
+	"Knox County, IL"	"17095"	"2014"	"2014"	"Suicide"	"2"	10	52069	Unreliable
+	"Knox County, IL"	"17095"	"2015"	"2015"	"Unintentional"	"1"	25	51441	48.6
+	"Knox County, IL"	"17095"	"2015"	"2015"	"Suicide"	"2"	11	51441	Unreliable
+	"Knox County, IL"	"17095"	"2016"	"2016"	"Unintentional"	"1"	27	50938	53.0
+	"Knox County, IL"	"17095"	"2017"	"2017"	"Unintentional"	"1"	23	50638	45.4
+	"Knox County, IL"	"17095"	"2018"	"2018"	"Unintentional"	"1"	26	50112	51.9
+	"Knox County, IL"	"17095"	"2018"	"2018"	"Suicide"	"2"	11	50112	Unreliable
+	"Lake County, IL"	"17097"	"1999"	"1999"	"Unintentional"	"1"	146	633094	23.1
+	"Lake County, IL"	"17097"	"1999"	"1999"	"Suicide"	"2"	52	633094	8.2
+	"Lake County, IL"	"17097"	"1999"	"1999"	"Homicide"	"3"	10	633094	Unreliable
+	"Lake County, IL"	"17097"	"2000"	"2000"	"Unintentional"	"1"	158	644356	24.5
+	"Lake County, IL"	"17097"	"2000"	"2000"	"Suicide"	"2"	41	644356	6.4
+	"Lake County, IL"	"17097"	"2001"	"2001"	"Unintentional"	"1"	158	658986	24.0
+	"Lake County, IL"	"17097"	"2001"	"2001"	"Suicide"	"2"	46	658986	7.0
+	"Lake County, IL"	"17097"	"2001"	"2001"	"Homicide"	"3"	25	658986	3.8
+	"Lake County, IL"	"17097"	"2002"	"2002"	"Unintentional"	"1"	170	668022	25.4
+	"Lake County, IL"	"17097"	"2002"	"2002"	"Suicide"	"2"	41	668022	6.1
+	"Lake County, IL"	"17097"	"2002"	"2002"	"Homicide"	"3"	13	668022	Unreliable
+	"Lake County, IL"	"17097"	"2003"	"2003"	"Unintentional"	"1"	127	668760	19.0
+	"Lake County, IL"	"17097"	"2003"	"2003"	"Suicide"	"2"	59	668760	8.8
+	"Lake County, IL"	"17097"	"2003"	"2003"	"Homicide"	"3"	18	668760	Unreliable
+	"Lake County, IL"	"17097"	"2004"	"2004"	"Unintentional"	"1"	165	677735	24.3
+	"Lake County, IL"	"17097"	"2004"	"2004"	"Suicide"	"2"	51	677735	7.5
+	"Lake County, IL"	"17097"	"2004"	"2004"	"Homicide"	"3"	17	677735	Unreliable
+	"Lake County, IL"	"17097"	"2005"	"2005"	"Unintentional"	"1"	202	684419	29.5
+	"Lake County, IL"	"17097"	"2005"	"2005"	"Suicide"	"2"	50	684419	7.3
+	"Lake County, IL"	"17097"	"2005"	"2005"	"Homicide"	"3"	21	684419	3.1
+	"Lake County, IL"	"17097"	"2006"	"2006"	"Unintentional"	"1"	171	689891	24.8
+	"Lake County, IL"	"17097"	"2006"	"2006"	"Suicide"	"2"	61	689891	8.8
+	"Lake County, IL"	"17097"	"2006"	"2006"	"Homicide"	"3"	14	689891	Unreliable
+	"Lake County, IL"	"17097"	"2007"	"2007"	"Unintentional"	"1"	190	692995	27.4
+	"Lake County, IL"	"17097"	"2007"	"2007"	"Suicide"	"2"	51	692995	7.4
+	"Lake County, IL"	"17097"	"2007"	"2007"	"Homicide"	"3"	22	692995	3.2
+	"Lake County, IL"	"17097"	"2008"	"2008"	"Unintentional"	"1"	188	697369	27.0
+	"Lake County, IL"	"17097"	"2008"	"2008"	"Suicide"	"2"	75	697369	10.8
+	"Lake County, IL"	"17097"	"2008"	"2008"	"Homicide"	"3"	23	697369	3.3
+	"Lake County, IL"	"17097"	"2009"	"2009"	"Unintentional"	"1"	158	701042	22.5
+	"Lake County, IL"	"17097"	"2009"	"2009"	"Suicide"	"2"	63	701042	9.0
+	"Lake County, IL"	"17097"	"2009"	"2009"	"Homicide"	"3"	17	701042	Unreliable
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Unintentional"	"1"	189	703462	26.9
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Suicide"	"2"	67	703462	9.5
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Homicide"	"3"	19	703462	Unreliable
+	"Lake County, IL"	"17097"	"2011"	"2011"	"Unintentional"	"1"	162	706222	22.9
+	"Lake County, IL"	"17097"	"2011"	"2011"	"Suicide"	"2"	73	706222	10.3
+	"Lake County, IL"	"17097"	"2011"	"2011"	"Homicide"	"3"	17	706222	Unreliable
+	"Lake County, IL"	"17097"	"2012"	"2012"	"Unintentional"	"1"	169	702120	24.1
+	"Lake County, IL"	"17097"	"2012"	"2012"	"Suicide"	"2"	68	702120	9.7
+	"Lake County, IL"	"17097"	"2012"	"2012"	"Homicide"	"3"	17	702120	Unreliable
+	"Lake County, IL"	"17097"	"2013"	"2013"	"Unintentional"	"1"	156	703019	22.2
+	"Lake County, IL"	"17097"	"2013"	"2013"	"Suicide"	"2"	66	703019	9.4
+	"Lake County, IL"	"17097"	"2013"	"2013"	"Homicide"	"3"	20	703019	2.8
+	"Lake County, IL"	"17097"	"2014"	"2014"	"Unintentional"	"1"	209	705186	29.6
+	"Lake County, IL"	"17097"	"2014"	"2014"	"Suicide"	"2"	70	705186	9.9
+	"Lake County, IL"	"17097"	"2014"	"2014"	"Homicide"	"3"	25	705186	3.5
+	"Lake County, IL"	"17097"	"2015"	"2015"	"Unintentional"	"1"	198	703910	28.1
+	"Lake County, IL"	"17097"	"2015"	"2015"	"Suicide"	"2"	66	703910	9.4
+	"Lake County, IL"	"17097"	"2015"	"2015"	"Homicide"	"3"	17	703910	Unreliable
+	"Lake County, IL"	"17097"	"2016"	"2016"	"Unintentional"	"1"	223	703047	31.7
+	"Lake County, IL"	"17097"	"2016"	"2016"	"Suicide"	"2"	72	703047	10.2
+	"Lake County, IL"	"17097"	"2016"	"2016"	"Homicide"	"3"	21	703047	3.0
+	"Lake County, IL"	"17097"	"2017"	"2017"	"Unintentional"	"1"	235	703520	33.4
+	"Lake County, IL"	"17097"	"2017"	"2017"	"Suicide"	"2"	71	703520	10.1
+	"Lake County, IL"	"17097"	"2017"	"2017"	"Homicide"	"3"	20	703520	2.8
+	"Lake County, IL"	"17097"	"2018"	"2018"	"Unintentional"	"1"	255	700832	36.4
+	"Lake County, IL"	"17097"	"2018"	"2018"	"Suicide"	"2"	67	700832	9.6
+	"Lake County, IL"	"17097"	"2018"	"2018"	"Homicide"	"3"	21	700832	3.0
+	"LaSalle County, IL"	"17099"	"1999"	"1999"	"Unintentional"	"1"	41	111600	36.7
+	"LaSalle County, IL"	"17099"	"1999"	"1999"	"Suicide"	"2"	10	111600	Unreliable
+	"LaSalle County, IL"	"17099"	"2000"	"2000"	"Unintentional"	"1"	52	111509	46.6
+	"LaSalle County, IL"	"17099"	"2001"	"2001"	"Unintentional"	"1"	48	112212	42.8
+	"LaSalle County, IL"	"17099"	"2001"	"2001"	"Suicide"	"2"	16	112212	Unreliable
+	"LaSalle County, IL"	"17099"	"2002"	"2002"	"Unintentional"	"1"	53	111904	47.4
+	"LaSalle County, IL"	"17099"	"2003"	"2003"	"Unintentional"	"1"	54	110949	48.7
+	"LaSalle County, IL"	"17099"	"2003"	"2003"	"Suicide"	"2"	12	110949	Unreliable
+	"LaSalle County, IL"	"17099"	"2004"	"2004"	"Unintentional"	"1"	71	112135	63.3
+	"LaSalle County, IL"	"17099"	"2004"	"2004"	"Suicide"	"2"	11	112135	Unreliable
+	"LaSalle County, IL"	"17099"	"2005"	"2005"	"Unintentional"	"1"	63	112565	56.0
+	"LaSalle County, IL"	"17099"	"2005"	"2005"	"Suicide"	"2"	13	112565	Unreliable
+	"LaSalle County, IL"	"17099"	"2006"	"2006"	"Unintentional"	"1"	65	113139	57.5
+	"LaSalle County, IL"	"17099"	"2007"	"2007"	"Unintentional"	"1"	79	113794	69.4
+	"LaSalle County, IL"	"17099"	"2007"	"2007"	"Suicide"	"2"	13	113794	Unreliable
+	"LaSalle County, IL"	"17099"	"2008"	"2008"	"Unintentional"	"1"	56	114171	49.0
+	"LaSalle County, IL"	"17099"	"2009"	"2009"	"Unintentional"	"1"	73	113999	64.0
+	"LaSalle County, IL"	"17099"	"2009"	"2009"	"Suicide"	"2"	11	113999	Unreliable
+	"LaSalle County, IL"	"17099"	"2010"	"2010"	"Unintentional"	"1"	74	113924	65.0
+	"LaSalle County, IL"	"17099"	"2010"	"2010"	"Suicide"	"2"	15	113924	Unreliable
+	"LaSalle County, IL"	"17099"	"2011"	"2011"	"Unintentional"	"1"	71	113518	62.5
+	"LaSalle County, IL"	"17099"	"2011"	"2011"	"Suicide"	"2"	19	113518	Unreliable
+	"LaSalle County, IL"	"17099"	"2012"	"2012"	"Unintentional"	"1"	49	112973	43.4
+	"LaSalle County, IL"	"17099"	"2012"	"2012"	"Suicide"	"2"	11	112973	Unreliable
+	"LaSalle County, IL"	"17099"	"2013"	"2013"	"Unintentional"	"1"	57	112183	50.8
+	"LaSalle County, IL"	"17099"	"2013"	"2013"	"Suicide"	"2"	20	112183	17.8
+	"LaSalle County, IL"	"17099"	"2014"	"2014"	"Unintentional"	"1"	62	111241	55.7
+	"LaSalle County, IL"	"17099"	"2014"	"2014"	"Suicide"	"2"	23	111241	20.7
+	"LaSalle County, IL"	"17099"	"2015"	"2015"	"Unintentional"	"1"	69	111333	62.0
+	"LaSalle County, IL"	"17099"	"2015"	"2015"	"Suicide"	"2"	20	111333	18.0
+	"LaSalle County, IL"	"17099"	"2016"	"2016"	"Unintentional"	"1"	59	110642	53.3
+	"LaSalle County, IL"	"17099"	"2016"	"2016"	"Suicide"	"2"	25	110642	22.6
+	"LaSalle County, IL"	"17099"	"2017"	"2017"	"Unintentional"	"1"	94	110067	85.4
+	"LaSalle County, IL"	"17099"	"2017"	"2017"	"Suicide"	"2"	15	110067	Unreliable
+	"LaSalle County, IL"	"17099"	"2018"	"2018"	"Unintentional"	"1"	90	109430	82.2
+	"LaSalle County, IL"	"17099"	"2018"	"2018"	"Suicide"	"2"	24	109430	21.9
+	"Lawrence County, IL"	"17101"	"2000"	"2000"	"Unintentional"	"1"	10	15452	Unreliable
+	"Lawrence County, IL"	"17101"	"2001"	"2001"	"Unintentional"	"1"	10	15527	Unreliable
+	"Lawrence County, IL"	"17101"	"2002"	"2002"	"Unintentional"	"1"	15	16045	Unreliable
+	"Lawrence County, IL"	"17101"	"2003"	"2003"	"Unintentional"	"1"	12	16455	Unreliable
+	"Lawrence County, IL"	"17101"	"2007"	"2007"	"Unintentional"	"1"	14	16952	Unreliable
+	"Lawrence County, IL"	"17101"	"2008"	"2008"	"Unintentional"	"1"	13	16935	Unreliable
+	"Lawrence County, IL"	"17101"	"2009"	"2009"	"Unintentional"	"1"	10	16802	Unreliable
+	"Lawrence County, IL"	"17101"	"2011"	"2011"	"Unintentional"	"1"	12	16745	Unreliable
+	"Lawrence County, IL"	"17101"	"2012"	"2012"	"Unintentional"	"1"	11	16604	Unreliable
+	"Lawrence County, IL"	"17101"	"2014"	"2014"	"Unintentional"	"1"	13	16519	Unreliable
+	"Lawrence County, IL"	"17101"	"2018"	"2018"	"Unintentional"	"1"	14	15765	Unreliable
+	"Lee County, IL"	"17103"	"1999"	"1999"	"Unintentional"	"1"	18	36080	Unreliable
+	"Lee County, IL"	"17103"	"2000"	"2000"	"Unintentional"	"1"	11	36062	Unreliable
+	"Lee County, IL"	"17103"	"2000"	"2000"	"Suicide"	"2"	11	36062	Unreliable
+	"Lee County, IL"	"17103"	"2001"	"2001"	"Unintentional"	"1"	16	36100	Unreliable
+	"Lee County, IL"	"17103"	"2002"	"2002"	"Unintentional"	"1"	23	35825	64.2
+	"Lee County, IL"	"17103"	"2003"	"2003"	"Unintentional"	"1"	16	35586	Unreliable
+	"Lee County, IL"	"17103"	"2004"	"2004"	"Unintentional"	"1"	19	35704	Unreliable
+	"Lee County, IL"	"17103"	"2005"	"2005"	"Unintentional"	"1"	15	35635	Unreliable
+	"Lee County, IL"	"17103"	"2006"	"2006"	"Unintentional"	"1"	12	35905	Unreliable
+	"Lee County, IL"	"17103"	"2007"	"2007"	"Unintentional"	"1"	10	36191	Unreliable
+	"Lee County, IL"	"17103"	"2008"	"2008"	"Unintentional"	"1"	15	36272	Unreliable
+	"Lee County, IL"	"17103"	"2009"	"2009"	"Unintentional"	"1"	20	36189	55.3
+	"Lee County, IL"	"17103"	"2010"	"2010"	"Unintentional"	"1"	17	36031	Unreliable
+	"Lee County, IL"	"17103"	"2011"	"2011"	"Unintentional"	"1"	18	35467	Unreliable
+	"Lee County, IL"	"17103"	"2012"	"2012"	"Unintentional"	"1"	15	35037	Unreliable
+	"Lee County, IL"	"17103"	"2013"	"2013"	"Unintentional"	"1"	12	34858	Unreliable
+	"Lee County, IL"	"17103"	"2014"	"2014"	"Unintentional"	"1"	25	34735	72.0
+	"Lee County, IL"	"17103"	"2015"	"2015"	"Unintentional"	"1"	23	34584	66.5
+	"Lee County, IL"	"17103"	"2016"	"2016"	"Unintentional"	"1"	18	34251	Unreliable
+	"Lee County, IL"	"17103"	"2017"	"2017"	"Unintentional"	"1"	17	34406	Unreliable
+	"Lee County, IL"	"17103"	"2018"	"2018"	"Unintentional"	"1"	18	34223	Unreliable
+	"Livingston County, IL"	"17105"	"1999"	"1999"	"Unintentional"	"1"	13	39785	Unreliable
+	"Livingston County, IL"	"17105"	"2000"	"2000"	"Unintentional"	"1"	19	39678	Unreliable
+	"Livingston County, IL"	"17105"	"2001"	"2001"	"Unintentional"	"1"	16	39881	Unreliable
+	"Livingston County, IL"	"17105"	"2002"	"2002"	"Unintentional"	"1"	19	39519	Unreliable
+	"Livingston County, IL"	"17105"	"2003"	"2003"	"Unintentional"	"1"	22	39095	56.3
+	"Livingston County, IL"	"17105"	"2004"	"2004"	"Unintentional"	"1"	15	39145	Unreliable
+	"Livingston County, IL"	"17105"	"2005"	"2005"	"Unintentional"	"1"	24	39062	61.4
+	"Livingston County, IL"	"17105"	"2006"	"2006"	"Unintentional"	"1"	19	38978	Unreliable
+	"Livingston County, IL"	"17105"	"2007"	"2007"	"Unintentional"	"1"	27	39069	69.1
+	"Livingston County, IL"	"17105"	"2008"	"2008"	"Unintentional"	"1"	27	39071	69.1
+	"Livingston County, IL"	"17105"	"2009"	"2009"	"Unintentional"	"1"	14	39054	Unreliable
+	"Livingston County, IL"	"17105"	"2010"	"2010"	"Unintentional"	"1"	13	38950	Unreliable
+	"Livingston County, IL"	"17105"	"2011"	"2011"	"Unintentional"	"1"	23	38885	59.1
+	"Livingston County, IL"	"17105"	"2012"	"2012"	"Unintentional"	"1"	27	38647	69.9
+	"Livingston County, IL"	"17105"	"2013"	"2013"	"Unintentional"	"1"	14	38186	Unreliable
+	"Livingston County, IL"	"17105"	"2014"	"2014"	"Unintentional"	"1"	18	37903	Unreliable
+	"Livingston County, IL"	"17105"	"2015"	"2015"	"Unintentional"	"1"	22	36671	60.0
+	"Livingston County, IL"	"17105"	"2016"	"2016"	"Unintentional"	"1"	22	36526	60.2
+	"Livingston County, IL"	"17105"	"2017"	"2017"	"Unintentional"	"1"	25	36518	68.5
+	"Livingston County, IL"	"17105"	"2017"	"2017"	"Suicide"	"2"	10	36518	Unreliable
+	"Livingston County, IL"	"17105"	"2018"	"2018"	"Unintentional"	"1"	32	35761	89.5
+	"Livingston County, IL"	"17105"	"2018"	"2018"	"Suicide"	"2"	10	35761	Unreliable
+	"Logan County, IL"	"17107"	"1999"	"1999"	"Unintentional"	"1"	13	31264	Unreliable
+	"Logan County, IL"	"17107"	"2000"	"2000"	"Unintentional"	"1"	19	31183	Unreliable
+	"Logan County, IL"	"17107"	"2001"	"2001"	"Unintentional"	"1"	12	30934	Unreliable
+	"Logan County, IL"	"17107"	"2002"	"2002"	"Unintentional"	"1"	16	30873	Unreliable
+	"Logan County, IL"	"17107"	"2003"	"2003"	"Unintentional"	"1"	16	30958	Unreliable
+	"Logan County, IL"	"17107"	"2004"	"2004"	"Unintentional"	"1"	11	30981	Unreliable
+	"Logan County, IL"	"17107"	"2005"	"2005"	"Unintentional"	"1"	16	30795	Unreliable
+	"Logan County, IL"	"17107"	"2006"	"2006"	"Unintentional"	"1"	11	30562	Unreliable
+	"Logan County, IL"	"17107"	"2007"	"2007"	"Unintentional"	"1"	20	30498	65.6
+	"Logan County, IL"	"17107"	"2008"	"2008"	"Unintentional"	"1"	13	30513	Unreliable
+	"Logan County, IL"	"17107"	"2009"	"2009"	"Unintentional"	"1"	16	30342	Unreliable
+	"Logan County, IL"	"17107"	"2010"	"2010"	"Unintentional"	"1"	11	30305	Unreliable
+	"Logan County, IL"	"17107"	"2011"	"2011"	"Unintentional"	"1"	10	30140	Unreliable
+	"Logan County, IL"	"17107"	"2012"	"2012"	"Unintentional"	"1"	13	30013	Unreliable
+	"Logan County, IL"	"17107"	"2013"	"2013"	"Unintentional"	"1"	18	29964	Unreliable
+	"Logan County, IL"	"17107"	"2014"	"2014"	"Unintentional"	"1"	13	29746	Unreliable
+	"Logan County, IL"	"17107"	"2016"	"2016"	"Unintentional"	"1"	16	29527	Unreliable
+	"Logan County, IL"	"17107"	"2017"	"2017"	"Unintentional"	"1"	18	29245	Unreliable
+	"Logan County, IL"	"17107"	"2018"	"2018"	"Unintentional"	"1"	20	28925	69.1
+	"McDonough County, IL"	"17109"	"2002"	"2002"	"Unintentional"	"1"	13	32802	Unreliable
+	"McDonough County, IL"	"17109"	"2003"	"2003"	"Unintentional"	"1"	12	32971	Unreliable
+	"McDonough County, IL"	"17109"	"2005"	"2005"	"Unintentional"	"1"	10	32848	Unreliable
+	"McDonough County, IL"	"17109"	"2007"	"2007"	"Unintentional"	"1"	15	32945	Unreliable
+	"McDonough County, IL"	"17109"	"2011"	"2011"	"Unintentional"	"1"	16	32582	Unreliable
+	"McDonough County, IL"	"17109"	"2012"	"2012"	"Unintentional"	"1"	17	32537	Unreliable
+	"McDonough County, IL"	"17109"	"2013"	"2013"	"Unintentional"	"1"	16	32464	Unreliable
+	"McDonough County, IL"	"17109"	"2014"	"2014"	"Unintentional"	"1"	17	31880	Unreliable
+	"McDonough County, IL"	"17109"	"2015"	"2015"	"Unintentional"	"1"	12	31333	Unreliable
+	"McDonough County, IL"	"17109"	"2016"	"2016"	"Unintentional"	"1"	13	30996	Unreliable
+	"McDonough County, IL"	"17109"	"2017"	"2017"	"Unintentional"	"1"	15	30823	Unreliable
+	"McDonough County, IL"	"17109"	"2018"	"2018"	"Unintentional"	"1"	15	29955	Unreliable
+	"McHenry County, IL"	"17111"	"1999"	"1999"	"Unintentional"	"1"	76	255448	29.8
+	"McHenry County, IL"	"17111"	"1999"	"1999"	"Suicide"	"2"	14	255448	Unreliable
+	"McHenry County, IL"	"17111"	"2000"	"2000"	"Unintentional"	"1"	82	260077	31.5
+	"McHenry County, IL"	"17111"	"2000"	"2000"	"Suicide"	"2"	19	260077	Unreliable
+	"McHenry County, IL"	"17111"	"2001"	"2001"	"Unintentional"	"1"	75	267632	28.0
+	"McHenry County, IL"	"17111"	"2001"	"2001"	"Suicide"	"2"	21	267632	7.8
+	"McHenry County, IL"	"17111"	"2002"	"2002"	"Unintentional"	"1"	74	274441	27.0
+	"McHenry County, IL"	"17111"	"2002"	"2002"	"Suicide"	"2"	18	274441	Unreliable
+	"McHenry County, IL"	"17111"	"2003"	"2003"	"Unintentional"	"1"	72	281743	25.6
+	"McHenry County, IL"	"17111"	"2003"	"2003"	"Suicide"	"2"	14	281743	Unreliable
+	"McHenry County, IL"	"17111"	"2004"	"2004"	"Unintentional"	"1"	85	287997	29.5
+	"McHenry County, IL"	"17111"	"2004"	"2004"	"Suicide"	"2"	22	287997	7.6
+	"McHenry County, IL"	"17111"	"2005"	"2005"	"Unintentional"	"1"	87	294280	29.6
+	"McHenry County, IL"	"17111"	"2005"	"2005"	"Suicide"	"2"	25	294280	8.5
+	"McHenry County, IL"	"17111"	"2006"	"2006"	"Unintentional"	"1"	82	300630	27.3
+	"McHenry County, IL"	"17111"	"2006"	"2006"	"Suicide"	"2"	24	300630	8.0
+	"McHenry County, IL"	"17111"	"2007"	"2007"	"Unintentional"	"1"	92	305117	30.2
+	"McHenry County, IL"	"17111"	"2007"	"2007"	"Suicide"	"2"	31	305117	10.2
+	"McHenry County, IL"	"17111"	"2008"	"2008"	"Unintentional"	"1"	83	307246	27.0
+	"McHenry County, IL"	"17111"	"2008"	"2008"	"Suicide"	"2"	24	307246	7.8
+	"McHenry County, IL"	"17111"	"2009"	"2009"	"Unintentional"	"1"	87	308067	28.2
+	"McHenry County, IL"	"17111"	"2009"	"2009"	"Suicide"	"2"	36	308067	11.7
+	"McHenry County, IL"	"17111"	"2010"	"2010"	"Unintentional"	"1"	87	308760	28.2
+	"McHenry County, IL"	"17111"	"2010"	"2010"	"Suicide"	"2"	41	308760	13.3
+	"McHenry County, IL"	"17111"	"2011"	"2011"	"Unintentional"	"1"	87	308944	28.2
+	"McHenry County, IL"	"17111"	"2011"	"2011"	"Suicide"	"2"	30	308944	9.7
+	"McHenry County, IL"	"17111"	"2012"	"2012"	"Unintentional"	"1"	103	308145	33.4
+	"McHenry County, IL"	"17111"	"2012"	"2012"	"Suicide"	"2"	41	308145	13.3
+	"McHenry County, IL"	"17111"	"2013"	"2013"	"Unintentional"	"1"	87	307409	28.3
+	"McHenry County, IL"	"17111"	"2013"	"2013"	"Suicide"	"2"	36	307409	11.7
+	"McHenry County, IL"	"17111"	"2014"	"2014"	"Unintentional"	"1"	114	307283	37.1
+	"McHenry County, IL"	"17111"	"2014"	"2014"	"Suicide"	"2"	38	307283	12.4
+	"McHenry County, IL"	"17111"	"2015"	"2015"	"Unintentional"	"1"	111	307343	36.1
+	"McHenry County, IL"	"17111"	"2015"	"2015"	"Suicide"	"2"	40	307343	13.0
+	"McHenry County, IL"	"17111"	"2016"	"2016"	"Unintentional"	"1"	131	307004	42.7
+	"McHenry County, IL"	"17111"	"2016"	"2016"	"Suicide"	"2"	27	307004	8.8
+	"McHenry County, IL"	"17111"	"2017"	"2017"	"Unintentional"	"1"	185	309122	59.8
+	"McHenry County, IL"	"17111"	"2017"	"2017"	"Suicide"	"2"	38	309122	12.3
+	"McHenry County, IL"	"17111"	"2018"	"2018"	"Unintentional"	"1"	132	308570	42.8
+	"McHenry County, IL"	"17111"	"2018"	"2018"	"Suicide"	"2"	39	308570	12.6
+	"McLean County, IL"	"17113"	"1999"	"1999"	"Unintentional"	"1"	27	149135	18.1
+	"McLean County, IL"	"17113"	"1999"	"1999"	"Suicide"	"2"	13	149135	Unreliable
+	"McLean County, IL"	"17113"	"2000"	"2000"	"Unintentional"	"1"	34	150433	22.6
+	"McLean County, IL"	"17113"	"2001"	"2001"	"Unintentional"	"1"	35	152713	22.9
+	"McLean County, IL"	"17113"	"2001"	"2001"	"Suicide"	"2"	15	152713	Unreliable
+	"McLean County, IL"	"17113"	"2002"	"2002"	"Unintentional"	"1"	48	155882	30.8
+	"McLean County, IL"	"17113"	"2002"	"2002"	"Suicide"	"2"	16	155882	Unreliable
+	"McLean County, IL"	"17113"	"2003"	"2003"	"Unintentional"	"1"	50	157795	31.7
+	"McLean County, IL"	"17113"	"2003"	"2003"	"Suicide"	"2"	13	157795	Unreliable
+	"McLean County, IL"	"17113"	"2004"	"2004"	"Unintentional"	"1"	53	159096	33.3
+	"McLean County, IL"	"17113"	"2004"	"2004"	"Suicide"	"2"	14	159096	Unreliable
+	"McLean County, IL"	"17113"	"2005"	"2005"	"Unintentional"	"1"	40	160299	25.0
+	"McLean County, IL"	"17113"	"2005"	"2005"	"Suicide"	"2"	12	160299	Unreliable
+	"McLean County, IL"	"17113"	"2006"	"2006"	"Unintentional"	"1"	36	162925	22.1
+	"McLean County, IL"	"17113"	"2006"	"2006"	"Suicide"	"2"	13	162925	Unreliable
+	"McLean County, IL"	"17113"	"2007"	"2007"	"Unintentional"	"1"	57	165223	34.5
+	"McLean County, IL"	"17113"	"2007"	"2007"	"Suicide"	"2"	13	165223	Unreliable
+	"McLean County, IL"	"17113"	"2008"	"2008"	"Unintentional"	"1"	54	166825	32.4
+	"McLean County, IL"	"17113"	"2008"	"2008"	"Suicide"	"2"	19	166825	Unreliable
+	"McLean County, IL"	"17113"	"2009"	"2009"	"Unintentional"	"1"	61	168727	36.2
+	"McLean County, IL"	"17113"	"2009"	"2009"	"Suicide"	"2"	21	168727	12.4
+	"McLean County, IL"	"17113"	"2010"	"2010"	"Unintentional"	"1"	53	169572	31.3
+	"McLean County, IL"	"17113"	"2010"	"2010"	"Suicide"	"2"	17	169572	Unreliable
+	"McLean County, IL"	"17113"	"2011"	"2011"	"Unintentional"	"1"	30	170556	17.6
+	"McLean County, IL"	"17113"	"2011"	"2011"	"Suicide"	"2"	15	170556	Unreliable
+	"McLean County, IL"	"17113"	"2012"	"2012"	"Unintentional"	"1"	74	172281	43.0
+	"McLean County, IL"	"17113"	"2012"	"2012"	"Suicide"	"2"	19	172281	Unreliable
+	"McLean County, IL"	"17113"	"2013"	"2013"	"Unintentional"	"1"	45	174647	25.8
+	"McLean County, IL"	"17113"	"2013"	"2013"	"Suicide"	"2"	26	174647	14.9
+	"McLean County, IL"	"17113"	"2014"	"2014"	"Unintentional"	"1"	61	174061	35.0
+	"McLean County, IL"	"17113"	"2014"	"2014"	"Suicide"	"2"	19	174061	Unreliable
+	"McLean County, IL"	"17113"	"2015"	"2015"	"Unintentional"	"1"	79	173166	45.6
+	"McLean County, IL"	"17113"	"2015"	"2015"	"Suicide"	"2"	20	173166	11.5
+	"McLean County, IL"	"17113"	"2016"	"2016"	"Unintentional"	"1"	59	172418	34.2
+	"McLean County, IL"	"17113"	"2016"	"2016"	"Suicide"	"2"	24	172418	13.9
+	"McLean County, IL"	"17113"	"2017"	"2017"	"Unintentional"	"1"	80	172290	46.4
+	"McLean County, IL"	"17113"	"2017"	"2017"	"Suicide"	"2"	20	172290	11.6
+	"McLean County, IL"	"17113"	"2018"	"2018"	"Unintentional"	"1"	64	172828	37.0
+	"McLean County, IL"	"17113"	"2018"	"2018"	"Suicide"	"2"	20	172828	11.6
+	"McLean County, IL"	"17113"	"2018"	"2018"	"Homicide"	"3"	11	172828	Unreliable
+	"Macon County, IL"	"17115"	"1999"	"1999"	"Unintentional"	"1"	41	115142	35.6
+	"Macon County, IL"	"17115"	"1999"	"1999"	"Suicide"	"2"	12	115142	Unreliable
+	"Macon County, IL"	"17115"	"2000"	"2000"	"Unintentional"	"1"	47	114706	41.0
+	"Macon County, IL"	"17115"	"2000"	"2000"	"Suicide"	"2"	15	114706	Unreliable
+	"Macon County, IL"	"17115"	"2001"	"2001"	"Unintentional"	"1"	44	113604	38.7
+	"Macon County, IL"	"17115"	"2002"	"2002"	"Unintentional"	"1"	47	112564	41.8
+	"Macon County, IL"	"17115"	"2002"	"2002"	"Suicide"	"2"	13	112564	Unreliable
+	"Macon County, IL"	"17115"	"2003"	"2003"	"Unintentional"	"1"	41	111572	36.7
+	"Macon County, IL"	"17115"	"2004"	"2004"	"Unintentional"	"1"	55	111181	49.5
+	"Macon County, IL"	"17115"	"2004"	"2004"	"Suicide"	"2"	14	111181	Unreliable
+	"Macon County, IL"	"17115"	"2005"	"2005"	"Unintentional"	"1"	38	111083	34.2
+	"Macon County, IL"	"17115"	"2006"	"2006"	"Unintentional"	"1"	28	110808	25.3
+	"Macon County, IL"	"17115"	"2006"	"2006"	"Suicide"	"2"	10	110808	Unreliable
+	"Macon County, IL"	"17115"	"2006"	"2006"	"Homicide"	"3"	10	110808	Unreliable
+	"Macon County, IL"	"17115"	"2007"	"2007"	"Unintentional"	"1"	40	110751	36.1
+	"Macon County, IL"	"17115"	"2007"	"2007"	"Suicide"	"2"	17	110751	Unreliable
+	"Macon County, IL"	"17115"	"2008"	"2008"	"Unintentional"	"1"	34	110588	30.7
+	"Macon County, IL"	"17115"	"2008"	"2008"	"Suicide"	"2"	16	110588	Unreliable
+	"Macon County, IL"	"17115"	"2009"	"2009"	"Unintentional"	"1"	35	110732	31.6
+	"Macon County, IL"	"17115"	"2009"	"2009"	"Suicide"	"2"	18	110732	Unreliable
+	"Macon County, IL"	"17115"	"2010"	"2010"	"Unintentional"	"1"	32	110768	28.9
+	"Macon County, IL"	"17115"	"2011"	"2011"	"Unintentional"	"1"	45	110730	40.6
+	"Macon County, IL"	"17115"	"2011"	"2011"	"Homicide"	"3"	13	110730	Unreliable
+	"Macon County, IL"	"17115"	"2012"	"2012"	"Unintentional"	"1"	30	110122	27.2
+	"Macon County, IL"	"17115"	"2012"	"2012"	"Suicide"	"2"	15	110122	Unreliable
+	"Macon County, IL"	"17115"	"2013"	"2013"	"Unintentional"	"1"	34	109278	31.1
+	"Macon County, IL"	"17115"	"2013"	"2013"	"Suicide"	"2"	14	109278	Unreliable
+	"Macon County, IL"	"17115"	"2014"	"2014"	"Unintentional"	"1"	56	108350	51.7
+	"Macon County, IL"	"17115"	"2014"	"2014"	"Suicide"	"2"	13	108350	Unreliable
+	"Macon County, IL"	"17115"	"2015"	"2015"	"Unintentional"	"1"	55	107303	51.3
+	"Macon County, IL"	"17115"	"2015"	"2015"	"Suicide"	"2"	10	107303	Unreliable
+	"Macon County, IL"	"17115"	"2016"	"2016"	"Unintentional"	"1"	65	106550	61.0
+	"Macon County, IL"	"17115"	"2016"	"2016"	"Suicide"	"2"	17	106550	Unreliable
+	"Macon County, IL"	"17115"	"2017"	"2017"	"Unintentional"	"1"	54	105801	51.0
+	"Macon County, IL"	"17115"	"2017"	"2017"	"Suicide"	"2"	13	105801	Unreliable
+	"Macon County, IL"	"17115"	"2017"	"2017"	"Homicide"	"3"	10	105801	Unreliable
+	"Macon County, IL"	"17115"	"2018"	"2018"	"Unintentional"	"1"	59	104712	56.3
+	"Macon County, IL"	"17115"	"2018"	"2018"	"Suicide"	"2"	14	104712	Unreliable
+	"Macoupin County, IL"	"17117"	"1999"	"1999"	"Unintentional"	"1"	29	49005	59.2
+	"Macoupin County, IL"	"17117"	"2000"	"2000"	"Unintentional"	"1"	28	49019	57.1
+	"Macoupin County, IL"	"17117"	"2001"	"2001"	"Unintentional"	"1"	27	48788	55.3
+	"Macoupin County, IL"	"17117"	"2002"	"2002"	"Unintentional"	"1"	31	48719	63.6
+	"Macoupin County, IL"	"17117"	"2003"	"2003"	"Unintentional"	"1"	21	48690	43.1
+	"Macoupin County, IL"	"17117"	"2004"	"2004"	"Unintentional"	"1"	24	48612	49.4
+	"Macoupin County, IL"	"17117"	"2005"	"2005"	"Unintentional"	"1"	27	48418	55.8
+	"Macoupin County, IL"	"17117"	"2006"	"2006"	"Unintentional"	"1"	37	48176	76.8
+	"Macoupin County, IL"	"17117"	"2007"	"2007"	"Unintentional"	"1"	27	48195	56.0
+	"Macoupin County, IL"	"17117"	"2008"	"2008"	"Unintentional"	"1"	26	48092	54.1
+	"Macoupin County, IL"	"17117"	"2009"	"2009"	"Unintentional"	"1"	29	47630	60.9
+	"Macoupin County, IL"	"17117"	"2010"	"2010"	"Unintentional"	"1"	23	47765	48.2
+	"Macoupin County, IL"	"17117"	"2011"	"2011"	"Unintentional"	"1"	19	47687	Unreliable
+	"Macoupin County, IL"	"17117"	"2012"	"2012"	"Unintentional"	"1"	20	47231	42.3
+	"Macoupin County, IL"	"17117"	"2013"	"2013"	"Unintentional"	"1"	41	46880	87.5
+	"Macoupin County, IL"	"17117"	"2014"	"2014"	"Unintentional"	"1"	19	46453	Unreliable
+	"Macoupin County, IL"	"17117"	"2015"	"2015"	"Unintentional"	"1"	30	46045	65.2
+	"Macoupin County, IL"	"17117"	"2016"	"2016"	"Unintentional"	"1"	43	45908	93.7
+	"Macoupin County, IL"	"17117"	"2017"	"2017"	"Unintentional"	"1"	31	45446	68.2
+	"Macoupin County, IL"	"17117"	"2017"	"2017"	"Suicide"	"2"	10	45446	Unreliable
+	"Macoupin County, IL"	"17117"	"2018"	"2018"	"Unintentional"	"1"	31	45313	68.4
+	"Madison County, IL"	"17119"	"1999"	"1999"	"Unintentional"	"1"	108	258739	41.7
+	"Madison County, IL"	"17119"	"1999"	"1999"	"Suicide"	"2"	29	258739	11.2
+	"Madison County, IL"	"17119"	"1999"	"1999"	"Homicide"	"3"	13	258739	Unreliable
+	"Madison County, IL"	"17119"	"2000"	"2000"	"Unintentional"	"1"	100	258941	38.6
+	"Madison County, IL"	"17119"	"2000"	"2000"	"Suicide"	"2"	22	258941	8.5
+	"Madison County, IL"	"17119"	"2000"	"2000"	"Homicide"	"3"	11	258941	Unreliable
+	"Madison County, IL"	"17119"	"2001"	"2001"	"Unintentional"	"1"	110	260343	42.3
+	"Madison County, IL"	"17119"	"2001"	"2001"	"Suicide"	"2"	35	260343	13.4
+	"Madison County, IL"	"17119"	"2001"	"2001"	"Homicide"	"3"	14	260343	Unreliable
+	"Madison County, IL"	"17119"	"2002"	"2002"	"Unintentional"	"1"	117	261130	44.8
+	"Madison County, IL"	"17119"	"2002"	"2002"	"Suicide"	"2"	41	261130	15.7
+	"Madison County, IL"	"17119"	"2002"	"2002"	"Homicide"	"3"	11	261130	Unreliable
+	"Madison County, IL"	"17119"	"2003"	"2003"	"Unintentional"	"1"	107	262566	40.8
+	"Madison County, IL"	"17119"	"2003"	"2003"	"Suicide"	"2"	34	262566	12.9
+	"Madison County, IL"	"17119"	"2004"	"2004"	"Unintentional"	"1"	110	263722	41.7
+	"Madison County, IL"	"17119"	"2004"	"2004"	"Suicide"	"2"	22	263722	8.3
+	"Madison County, IL"	"17119"	"2004"	"2004"	"Homicide"	"3"	11	263722	Unreliable
+	"Madison County, IL"	"17119"	"2005"	"2005"	"Unintentional"	"1"	122	264759	46.1
+	"Madison County, IL"	"17119"	"2005"	"2005"	"Suicide"	"2"	26	264759	9.8
+	"Madison County, IL"	"17119"	"2005"	"2005"	"Homicide"	"3"	13	264759	Unreliable
+	"Madison County, IL"	"17119"	"2006"	"2006"	"Unintentional"	"1"	138	266164	51.8
+	"Madison County, IL"	"17119"	"2006"	"2006"	"Suicide"	"2"	35	266164	13.1
+	"Madison County, IL"	"17119"	"2006"	"2006"	"Homicide"	"3"	11	266164	Unreliable
+	"Madison County, IL"	"17119"	"2007"	"2007"	"Unintentional"	"1"	151	267382	56.5
+	"Madison County, IL"	"17119"	"2007"	"2007"	"Suicide"	"2"	28	267382	10.5
+	"Madison County, IL"	"17119"	"2007"	"2007"	"Homicide"	"3"	12	267382	Unreliable
+	"Madison County, IL"	"17119"	"2008"	"2008"	"Unintentional"	"1"	148	268232	55.2
+	"Madison County, IL"	"17119"	"2008"	"2008"	"Suicide"	"2"	35	268232	13.0
+	"Madison County, IL"	"17119"	"2008"	"2008"	"Homicide"	"3"	17	268232	Unreliable
+	"Madison County, IL"	"17119"	"2009"	"2009"	"Unintentional"	"1"	138	268978	51.3
+	"Madison County, IL"	"17119"	"2009"	"2009"	"Suicide"	"2"	39	268978	14.5
+	"Madison County, IL"	"17119"	"2009"	"2009"	"Homicide"	"3"	13	268978	Unreliable
+	"Madison County, IL"	"17119"	"2010"	"2010"	"Unintentional"	"1"	157	269282	58.3
+	"Madison County, IL"	"17119"	"2010"	"2010"	"Suicide"	"2"	29	269282	10.8
+	"Madison County, IL"	"17119"	"2010"	"2010"	"Homicide"	"3"	12	269282	Unreliable
+	"Madison County, IL"	"17119"	"2011"	"2011"	"Unintentional"	"1"	187	268459	69.7
+	"Madison County, IL"	"17119"	"2011"	"2011"	"Suicide"	"2"	34	268459	12.7
+	"Madison County, IL"	"17119"	"2011"	"2011"	"Homicide"	"3"	11	268459	Unreliable
+	"Madison County, IL"	"17119"	"2012"	"2012"	"Unintentional"	"1"	182	267883	67.9
+	"Madison County, IL"	"17119"	"2012"	"2012"	"Suicide"	"2"	43	267883	16.1
+	"Madison County, IL"	"17119"	"2013"	"2013"	"Unintentional"	"1"	155	267225	58.0
+	"Madison County, IL"	"17119"	"2013"	"2013"	"Suicide"	"2"	31	267225	11.6
+	"Madison County, IL"	"17119"	"2014"	"2014"	"Unintentional"	"1"	207	266560	77.7
+	"Madison County, IL"	"17119"	"2014"	"2014"	"Suicide"	"2"	40	266560	15.0
+	"Madison County, IL"	"17119"	"2014"	"2014"	"Homicide"	"3"	13	266560	Unreliable
+	"Madison County, IL"	"17119"	"2015"	"2015"	"Unintentional"	"1"	176	266209	66.1
+	"Madison County, IL"	"17119"	"2015"	"2015"	"Suicide"	"2"	38	266209	14.3
+	"Madison County, IL"	"17119"	"2015"	"2015"	"Homicide"	"3"	12	266209	Unreliable
+	"Madison County, IL"	"17119"	"2016"	"2016"	"Unintentional"	"1"	159	265759	59.8
+	"Madison County, IL"	"17119"	"2016"	"2016"	"Suicide"	"2"	52	265759	19.6
+	"Madison County, IL"	"17119"	"2016"	"2016"	"Homicide"	"3"	11	265759	Unreliable
+	"Madison County, IL"	"17119"	"2017"	"2017"	"Unintentional"	"1"	203	265428	76.5
+	"Madison County, IL"	"17119"	"2017"	"2017"	"Suicide"	"2"	52	265428	19.6
+	"Madison County, IL"	"17119"	"2018"	"2018"	"Unintentional"	"1"	211	264461	79.8
+	"Madison County, IL"	"17119"	"2018"	"2018"	"Suicide"	"2"	53	264461	20.0
+	"Madison County, IL"	"17119"	"2018"	"2018"	"Homicide"	"3"	17	264461	Unreliable
+	"Marion County, IL"	"17121"	"1999"	"1999"	"Unintentional"	"1"	19	41647	Unreliable
+	"Marion County, IL"	"17121"	"2000"	"2000"	"Unintentional"	"1"	17	41691	Unreliable
+	"Marion County, IL"	"17121"	"2001"	"2001"	"Unintentional"	"1"	16	41393	Unreliable
+	"Marion County, IL"	"17121"	"2002"	"2002"	"Unintentional"	"1"	19	40971	Unreliable
+	"Marion County, IL"	"17121"	"2002"	"2002"	"Suicide"	"2"	14	40971	Unreliable
+	"Marion County, IL"	"17121"	"2003"	"2003"	"Unintentional"	"1"	19	40602	Unreliable
+	"Marion County, IL"	"17121"	"2003"	"2003"	"Suicide"	"2"	10	40602	Unreliable
+	"Marion County, IL"	"17121"	"2004"	"2004"	"Unintentional"	"1"	27	40229	67.1
+	"Marion County, IL"	"17121"	"2005"	"2005"	"Unintentional"	"1"	25	39941	62.6
+	"Marion County, IL"	"17121"	"2006"	"2006"	"Unintentional"	"1"	21	40037	52.5
+	"Marion County, IL"	"17121"	"2007"	"2007"	"Unintentional"	"1"	23	39898	57.6
+	"Marion County, IL"	"17121"	"2008"	"2008"	"Unintentional"	"1"	23	39794	57.8
+	"Marion County, IL"	"17121"	"2009"	"2009"	"Unintentional"	"1"	26	39465	65.9
+	"Marion County, IL"	"17121"	"2010"	"2010"	"Unintentional"	"1"	25	39437	63.4
+	"Marion County, IL"	"17121"	"2011"	"2011"	"Unintentional"	"1"	12	39335	Unreliable
+	"Marion County, IL"	"17121"	"2011"	"2011"	"Suicide"	"2"	10	39335	Unreliable
+	"Marion County, IL"	"17121"	"2012"	"2012"	"Unintentional"	"1"	16	38894	Unreliable
+	"Marion County, IL"	"17121"	"2013"	"2013"	"Unintentional"	"1"	22	38622	57.0
+	"Marion County, IL"	"17121"	"2014"	"2014"	"Unintentional"	"1"	24	38571	62.2
+	"Marion County, IL"	"17121"	"2014"	"2014"	"Suicide"	"2"	11	38571	Unreliable
+	"Marion County, IL"	"17121"	"2015"	"2015"	"Unintentional"	"1"	24	38339	62.6
+	"Marion County, IL"	"17121"	"2015"	"2015"	"Suicide"	"2"	14	38339	Unreliable
+	"Marion County, IL"	"17121"	"2016"	"2016"	"Unintentional"	"1"	34	38140	89.1
+	"Marion County, IL"	"17121"	"2017"	"2017"	"Unintentional"	"1"	28	37902	73.9
+	"Marion County, IL"	"17121"	"2017"	"2017"	"Suicide"	"2"	10	37902	Unreliable
+	"Marion County, IL"	"17121"	"2018"	"2018"	"Unintentional"	"1"	25	37620	66.5
+	"Marshall County, IL"	"17123"	"1999"	"1999"	"Unintentional"	"1"	11	13182	Unreliable
+	"Marshall County, IL"	"17123"	"2006"	"2006"	"Unintentional"	"1"	10	12896	Unreliable
+	"Marshall County, IL"	"17123"	"2007"	"2007"	"Unintentional"	"1"	10	12896	Unreliable
+	"Marshall County, IL"	"17123"	"2008"	"2008"	"Unintentional"	"1"	13	12725	Unreliable
+	"Marshall County, IL"	"17123"	"2014"	"2014"	"Unintentional"	"1"	10	12014	Unreliable
+	"Mason County, IL"	"17125"	"1999"	"1999"	"Unintentional"	"1"	11	16082	Unreliable
+	"Mason County, IL"	"17125"	"2002"	"2002"	"Unintentional"	"1"	12	15847	Unreliable
+	"Mason County, IL"	"17125"	"2006"	"2006"	"Unintentional"	"1"	13	15153	Unreliable
+	"Mason County, IL"	"17125"	"2007"	"2007"	"Unintentional"	"1"	10	15078	Unreliable
+	"Mason County, IL"	"17125"	"2010"	"2010"	"Unintentional"	"1"	15	14666	Unreliable
+	"Mason County, IL"	"17125"	"2012"	"2012"	"Unintentional"	"1"	10	14327	Unreliable
+	"Mason County, IL"	"17125"	"2013"	"2013"	"Unintentional"	"1"	10	14248	Unreliable
+	"Mason County, IL"	"17125"	"2015"	"2015"	"Suicide"	"2"	12	13701	Unreliable
+	"Mason County, IL"	"17125"	"2017"	"2017"	"Unintentional"	"1"	10	13715	Unreliable
+	"Mason County, IL"	"17125"	"2018"	"2018"	"Unintentional"	"1"	10	13565	Unreliable
+	"Massac County, IL"	"17127"	"1999"	"1999"	"Unintentional"	"1"	10	15258	Unreliable
+	"Massac County, IL"	"17127"	"2003"	"2003"	"Unintentional"	"1"	17	15205	Unreliable
+	"Massac County, IL"	"17127"	"2004"	"2004"	"Unintentional"	"1"	11	15444	Unreliable
+	"Massac County, IL"	"17127"	"2005"	"2005"	"Unintentional"	"1"	12	15477	Unreliable
+	"Massac County, IL"	"17127"	"2009"	"2009"	"Unintentional"	"1"	11	15435	Unreliable
+	"Massac County, IL"	"17127"	"2011"	"2011"	"Unintentional"	"1"	11	15442	Unreliable
+	"Massac County, IL"	"17127"	"2012"	"2012"	"Unintentional"	"1"	10	15234	Unreliable
+	"Massac County, IL"	"17127"	"2013"	"2013"	"Unintentional"	"1"	10	15073	Unreliable
+	"Massac County, IL"	"17127"	"2016"	"2016"	"Unintentional"	"1"	13	14658	Unreliable
+	"Menard County, IL"	"17129"	"2001"	"2001"	"Unintentional"	"1"	10	12503	Unreliable
+	"Menard County, IL"	"17129"	"2004"	"2004"	"Unintentional"	"1"	14	12641	Unreliable
+	"Menard County, IL"	"17129"	"2016"	"2016"	"Unintentional"	"1"	14	12516	Unreliable
+	"Menard County, IL"	"17129"	"2018"	"2018"	"Unintentional"	"1"	10	12288	Unreliable
+	"Mercer County, IL"	"17131"	"2003"	"2003"	"Unintentional"	"1"	15	16829	Unreliable
+	"Mercer County, IL"	"17131"	"2005"	"2005"	"Unintentional"	"1"	10	16694	Unreliable
+	"Mercer County, IL"	"17131"	"2009"	"2009"	"Unintentional"	"1"	10	16438	Unreliable
+	"Mercer County, IL"	"17131"	"2013"	"2013"	"Unintentional"	"1"	13	16178	Unreliable
+	"Mercer County, IL"	"17131"	"2018"	"2018"	"Unintentional"	"1"	17	15601	Unreliable
+	"Monroe County, IL"	"17133"	"2001"	"2001"	"Unintentional"	"1"	12	28302	Unreliable
+	"Monroe County, IL"	"17133"	"2003"	"2003"	"Unintentional"	"1"	18	29771	Unreliable
+	"Monroe County, IL"	"17133"	"2004"	"2004"	"Unintentional"	"1"	14	30422	Unreliable
+	"Monroe County, IL"	"17133"	"2005"	"2005"	"Unintentional"	"1"	11	31007	Unreliable
+	"Monroe County, IL"	"17133"	"2006"	"2006"	"Unintentional"	"1"	19	31644	Unreliable
+	"Monroe County, IL"	"17133"	"2007"	"2007"	"Unintentional"	"1"	15	32139	Unreliable
+	"Monroe County, IL"	"17133"	"2008"	"2008"	"Unintentional"	"1"	10	32533	Unreliable
+	"Monroe County, IL"	"17133"	"2010"	"2010"	"Unintentional"	"1"	13	32957	Unreliable
+	"Monroe County, IL"	"17133"	"2011"	"2011"	"Unintentional"	"1"	17	33306	Unreliable
+	"Monroe County, IL"	"17133"	"2012"	"2012"	"Unintentional"	"1"	11	33357	Unreliable
+	"Monroe County, IL"	"17133"	"2013"	"2013"	"Unintentional"	"1"	16	33493	Unreliable
+	"Monroe County, IL"	"17133"	"2014"	"2014"	"Unintentional"	"1"	21	33722	62.3
+	"Monroe County, IL"	"17133"	"2015"	"2015"	"Unintentional"	"1"	12	33879	Unreliable
+	"Monroe County, IL"	"17133"	"2016"	"2016"	"Unintentional"	"1"	17	34068	Unreliable
+	"Monroe County, IL"	"17133"	"2017"	"2017"	"Unintentional"	"1"	10	34097	Unreliable
+	"Monroe County, IL"	"17133"	"2018"	"2018"	"Unintentional"	"1"	11	34335	Unreliable
+	"Montgomery County, IL"	"17135"	"1999"	"1999"	"Unintentional"	"1"	10	30748	Unreliable
+	"Montgomery County, IL"	"17135"	"2000"	"2000"	"Unintentional"	"1"	13	30652	Unreliable
+	"Montgomery County, IL"	"17135"	"2000"	"2000"	"Suicide"	"2"	11	30652	Unreliable
+	"Montgomery County, IL"	"17135"	"2001"	"2001"	"Unintentional"	"1"	18	30516	Unreliable
+	"Montgomery County, IL"	"17135"	"2002"	"2002"	"Unintentional"	"1"	17	30550	Unreliable
+	"Montgomery County, IL"	"17135"	"2005"	"2005"	"Unintentional"	"1"	21	30288	69.3
+	"Montgomery County, IL"	"17135"	"2006"	"2006"	"Unintentional"	"1"	16	30378	Unreliable
+	"Montgomery County, IL"	"17135"	"2007"	"2007"	"Unintentional"	"1"	20	30295	66.0
+	"Montgomery County, IL"	"17135"	"2008"	"2008"	"Unintentional"	"1"	16	30276	Unreliable
+	"Montgomery County, IL"	"17135"	"2009"	"2009"	"Unintentional"	"1"	21	30124	69.7
+	"Montgomery County, IL"	"17135"	"2010"	"2010"	"Unintentional"	"1"	13	30104	Unreliable
+	"Montgomery County, IL"	"17135"	"2011"	"2011"	"Unintentional"	"1"	15	29848	Unreliable
+	"Montgomery County, IL"	"17135"	"2012"	"2012"	"Unintentional"	"1"	19	29620	Unreliable
+	"Montgomery County, IL"	"17135"	"2013"	"2013"	"Unintentional"	"1"	21	29654	70.8
+	"Montgomery County, IL"	"17135"	"2014"	"2014"	"Unintentional"	"1"	20	29359	68.1
+	"Montgomery County, IL"	"17135"	"2015"	"2015"	"Unintentional"	"1"	12	28898	Unreliable
+	"Montgomery County, IL"	"17135"	"2016"	"2016"	"Unintentional"	"1"	20	28952	69.1
+	"Montgomery County, IL"	"17135"	"2017"	"2017"	"Unintentional"	"1"	20	28790	69.5
+	"Montgomery County, IL"	"17135"	"2018"	"2018"	"Unintentional"	"1"	30	28601	104.9
+	"Morgan County, IL"	"17137"	"1999"	"1999"	"Unintentional"	"1"	17	36546	Unreliable
+	"Morgan County, IL"	"17137"	"2000"	"2000"	"Unintentional"	"1"	10	36616	Unreliable
+	"Morgan County, IL"	"17137"	"2001"	"2001"	"Unintentional"	"1"	20	36403	54.9
+	"Morgan County, IL"	"17137"	"2002"	"2002"	"Unintentional"	"1"	16	36262	Unreliable
+	"Morgan County, IL"	"17137"	"2003"	"2003"	"Unintentional"	"1"	15	36241	Unreliable
+	"Morgan County, IL"	"17137"	"2004"	"2004"	"Unintentional"	"1"	13	36332	Unreliable
+	"Morgan County, IL"	"17137"	"2005"	"2005"	"Unintentional"	"1"	19	36101	Unreliable
+	"Morgan County, IL"	"17137"	"2006"	"2006"	"Unintentional"	"1"	20	35966	55.6
+	"Morgan County, IL"	"17137"	"2007"	"2007"	"Unintentional"	"1"	20	35936	55.7
+	"Morgan County, IL"	"17137"	"2008"	"2008"	"Unintentional"	"1"	25	35761	69.9
+	"Morgan County, IL"	"17137"	"2009"	"2009"	"Unintentional"	"1"	18	35602	Unreliable
+	"Morgan County, IL"	"17137"	"2010"	"2010"	"Unintentional"	"1"	22	35547	61.9
+	"Morgan County, IL"	"17137"	"2011"	"2011"	"Unintentional"	"1"	22	35543	61.9
+	"Morgan County, IL"	"17137"	"2012"	"2012"	"Unintentional"	"1"	25	35272	70.9
+	"Morgan County, IL"	"17137"	"2013"	"2013"	"Unintentional"	"1"	27	35067	77.0
+	"Morgan County, IL"	"17137"	"2014"	"2014"	"Unintentional"	"1"	15	34929	Unreliable
+	"Morgan County, IL"	"17137"	"2014"	"2014"	"Suicide"	"2"	13	34929	Unreliable
+	"Morgan County, IL"	"17137"	"2015"	"2015"	"Unintentional"	"1"	22	34828	63.2
+	"Morgan County, IL"	"17137"	"2016"	"2016"	"Unintentional"	"1"	18	34277	Unreliable
+	"Morgan County, IL"	"17137"	"2017"	"2017"	"Unintentional"	"1"	22	33798	65.1
+	"Morgan County, IL"	"17137"	"2018"	"2018"	"Unintentional"	"1"	25	33976	73.6
+	"Moultrie County, IL"	"17139"	"1999"	"1999"	"Unintentional"	"1"	10	14198	Unreliable
+	"Moultrie County, IL"	"17139"	"2001"	"2001"	"Unintentional"	"1"	10	14324	Unreliable
+	"Moultrie County, IL"	"17139"	"2015"	"2015"	"Unintentional"	"1"	11	14931	Unreliable
+	"Moultrie County, IL"	"17139"	"2018"	"2018"	"Unintentional"	"1"	11	14717	Unreliable
+	"Ogle County, IL"	"17141"	"1999"	"1999"	"Unintentional"	"1"	25	50751	49.3
+	"Ogle County, IL"	"17141"	"2000"	"2000"	"Unintentional"	"1"	17	51032	Unreliable
+	"Ogle County, IL"	"17141"	"2001"	"2001"	"Unintentional"	"1"	21	51468	40.8
+	"Ogle County, IL"	"17141"	"2001"	"2001"	"Suicide"	"2"	10	51468	Unreliable
+	"Ogle County, IL"	"17141"	"2002"	"2002"	"Unintentional"	"1"	19	51758	Unreliable
+	"Ogle County, IL"	"17141"	"2003"	"2003"	"Unintentional"	"1"	19	52227	Unreliable
+	"Ogle County, IL"	"17141"	"2004"	"2004"	"Unintentional"	"1"	20	52536	38.1
+	"Ogle County, IL"	"17141"	"2005"	"2005"	"Unintentional"	"1"	25	52893	47.3
+	"Ogle County, IL"	"17141"	"2006"	"2006"	"Unintentional"	"1"	32	53358	60.0
+	"Ogle County, IL"	"17141"	"2007"	"2007"	"Unintentional"	"1"	24	53634	44.7
+	"Ogle County, IL"	"17141"	"2008"	"2008"	"Unintentional"	"1"	18	53802	Unreliable
+	"Ogle County, IL"	"17141"	"2009"	"2009"	"Unintentional"	"1"	22	53621	41.0
+	"Ogle County, IL"	"17141"	"2010"	"2010"	"Unintentional"	"1"	25	53497	46.7
+	"Ogle County, IL"	"17141"	"2011"	"2011"	"Unintentional"	"1"	16	53115	Unreliable
+	"Ogle County, IL"	"17141"	"2011"	"2011"	"Suicide"	"2"	11	53115	Unreliable
+	"Ogle County, IL"	"17141"	"2012"	"2012"	"Unintentional"	"1"	29	52848	54.9
+	"Ogle County, IL"	"17141"	"2013"	"2013"	"Unintentional"	"1"	24	52385	45.8
+	"Ogle County, IL"	"17141"	"2013"	"2013"	"Suicide"	"2"	11	52385	Unreliable
+	"Ogle County, IL"	"17141"	"2014"	"2014"	"Unintentional"	"1"	29	52085	55.7
+	"Ogle County, IL"	"17141"	"2014"	"2014"	"Suicide"	"2"	10	52085	Unreliable
+	"Ogle County, IL"	"17141"	"2015"	"2015"	"Unintentional"	"1"	19	51659	Unreliable
+	"Ogle County, IL"	"17141"	"2016"	"2016"	"Unintentional"	"1"	26	51273	50.7
+	"Ogle County, IL"	"17141"	"2016"	"2016"	"Suicide"	"2"	10	51273	Unreliable
+	"Ogle County, IL"	"17141"	"2017"	"2017"	"Unintentional"	"1"	28	51063	54.8
+	"Ogle County, IL"	"17141"	"2018"	"2018"	"Unintentional"	"1"	18	50923	Unreliable
+	"Peoria County, IL"	"17143"	"1999"	"1999"	"Unintentional"	"1"	65	184042	35.3
+	"Peoria County, IL"	"17143"	"1999"	"1999"	"Suicide"	"2"	12	184042	Unreliable
+	"Peoria County, IL"	"17143"	"1999"	"1999"	"Homicide"	"3"	14	184042	Unreliable
+	"Peoria County, IL"	"17143"	"2000"	"2000"	"Unintentional"	"1"	58	183433	31.6
+	"Peoria County, IL"	"17143"	"2000"	"2000"	"Suicide"	"2"	17	183433	Unreliable
+	"Peoria County, IL"	"17143"	"2000"	"2000"	"Homicide"	"3"	10	183433	Unreliable
+	"Peoria County, IL"	"17143"	"2001"	"2001"	"Unintentional"	"1"	57	182348	31.3
+	"Peoria County, IL"	"17143"	"2001"	"2001"	"Suicide"	"2"	17	182348	Unreliable
+	"Peoria County, IL"	"17143"	"2001"	"2001"	"Homicide"	"3"	18	182348	Unreliable
+	"Peoria County, IL"	"17143"	"2002"	"2002"	"Unintentional"	"1"	58	182685	31.7
+	"Peoria County, IL"	"17143"	"2002"	"2002"	"Suicide"	"2"	21	182685	11.5
+	"Peoria County, IL"	"17143"	"2003"	"2003"	"Unintentional"	"1"	70	182338	38.4
+	"Peoria County, IL"	"17143"	"2003"	"2003"	"Suicide"	"2"	16	182338	Unreliable
+	"Peoria County, IL"	"17143"	"2004"	"2004"	"Unintentional"	"1"	80	182613	43.8
+	"Peoria County, IL"	"17143"	"2004"	"2004"	"Suicide"	"2"	22	182613	12.0
+	"Peoria County, IL"	"17143"	"2004"	"2004"	"Homicide"	"3"	18	182613	Unreliable
+	"Peoria County, IL"	"17143"	"2005"	"2005"	"Unintentional"	"1"	49	182868	26.8
+	"Peoria County, IL"	"17143"	"2005"	"2005"	"Suicide"	"2"	27	182868	14.8
+	"Peoria County, IL"	"17143"	"2005"	"2005"	"Homicide"	"3"	13	182868	Unreliable
+	"Peoria County, IL"	"17143"	"2006"	"2006"	"Unintentional"	"1"	65	183446	35.4
+	"Peoria County, IL"	"17143"	"2006"	"2006"	"Suicide"	"2"	19	183446	Unreliable
+	"Peoria County, IL"	"17143"	"2006"	"2006"	"Homicide"	"3"	15	183446	Unreliable
+	"Peoria County, IL"	"17143"	"2007"	"2007"	"Unintentional"	"1"	65	184048	35.3
+	"Peoria County, IL"	"17143"	"2007"	"2007"	"Suicide"	"2"	13	184048	Unreliable
+	"Peoria County, IL"	"17143"	"2007"	"2007"	"Homicide"	"3"	18	184048	Unreliable
+	"Peoria County, IL"	"17143"	"2008"	"2008"	"Unintentional"	"1"	66	184803	35.7
+	"Peoria County, IL"	"17143"	"2008"	"2008"	"Suicide"	"2"	23	184803	12.4
+	"Peoria County, IL"	"17143"	"2008"	"2008"	"Homicide"	"3"	11	184803	Unreliable
+	"Peoria County, IL"	"17143"	"2009"	"2009"	"Unintentional"	"1"	72	186930	38.5
+	"Peoria County, IL"	"17143"	"2009"	"2009"	"Suicide"	"2"	25	186930	13.4
+	"Peoria County, IL"	"17143"	"2009"	"2009"	"Homicide"	"3"	22	186930	11.8
+	"Peoria County, IL"	"17143"	"2010"	"2010"	"Unintentional"	"1"	65	186494	34.9
+	"Peoria County, IL"	"17143"	"2010"	"2010"	"Suicide"	"2"	19	186494	Unreliable
+	"Peoria County, IL"	"17143"	"2010"	"2010"	"Homicide"	"3"	20	186494	10.7
+	"Peoria County, IL"	"17143"	"2011"	"2011"	"Unintentional"	"1"	73	186834	39.1
+	"Peoria County, IL"	"17143"	"2011"	"2011"	"Suicide"	"2"	17	186834	Unreliable
+	"Peoria County, IL"	"17143"	"2011"	"2011"	"Homicide"	"3"	19	186834	Unreliable
+	"Peoria County, IL"	"17143"	"2012"	"2012"	"Unintentional"	"1"	80	187254	42.7
+	"Peoria County, IL"	"17143"	"2012"	"2012"	"Suicide"	"2"	23	187254	12.3
+	"Peoria County, IL"	"17143"	"2012"	"2012"	"Homicide"	"3"	20	187254	10.7
+	"Peoria County, IL"	"17143"	"2013"	"2013"	"Unintentional"	"1"	81	188429	43.0
+	"Peoria County, IL"	"17143"	"2013"	"2013"	"Suicide"	"2"	28	188429	14.9
+	"Peoria County, IL"	"17143"	"2013"	"2013"	"Homicide"	"3"	20	188429	10.6
+	"Peoria County, IL"	"17143"	"2014"	"2014"	"Unintentional"	"1"	92	187319	49.1
+	"Peoria County, IL"	"17143"	"2014"	"2014"	"Suicide"	"2"	18	187319	Unreliable
+	"Peoria County, IL"	"17143"	"2015"	"2015"	"Unintentional"	"1"	83	186221	44.6
+	"Peoria County, IL"	"17143"	"2015"	"2015"	"Suicide"	"2"	19	186221	Unreliable
+	"Peoria County, IL"	"17143"	"2015"	"2015"	"Homicide"	"3"	18	186221	Unreliable
+	"Peoria County, IL"	"17143"	"2016"	"2016"	"Unintentional"	"1"	90	185006	48.6
+	"Peoria County, IL"	"17143"	"2016"	"2016"	"Suicide"	"2"	29	185006	15.7
+	"Peoria County, IL"	"17143"	"2016"	"2016"	"Homicide"	"3"	13	185006	Unreliable
+	"Peoria County, IL"	"17143"	"2017"	"2017"	"Unintentional"	"1"	118	183011	64.5
+	"Peoria County, IL"	"17143"	"2017"	"2017"	"Suicide"	"2"	33	183011	18.0
+	"Peoria County, IL"	"17143"	"2017"	"2017"	"Homicide"	"3"	14	183011	Unreliable
+	"Peoria County, IL"	"17143"	"2018"	"2018"	"Unintentional"	"1"	106	180621	58.7
+	"Peoria County, IL"	"17143"	"2018"	"2018"	"Suicide"	"2"	27	180621	14.9
+	"Peoria County, IL"	"17143"	"2018"	"2018"	"Homicide"	"3"	28	180621	15.5
+	"Perry County, IL"	"17145"	"2000"	"2000"	"Unintentional"	"1"	10	23094	Unreliable
+	"Perry County, IL"	"17145"	"2003"	"2003"	"Unintentional"	"1"	11	22631	Unreliable
+	"Perry County, IL"	"17145"	"2005"	"2005"	"Unintentional"	"1"	10	22608	Unreliable
+	"Perry County, IL"	"17145"	"2006"	"2006"	"Unintentional"	"1"	13	22692	Unreliable
+	"Perry County, IL"	"17145"	"2007"	"2007"	"Unintentional"	"1"	20	22596	88.5
+	"Perry County, IL"	"17145"	"2008"	"2008"	"Unintentional"	"1"	13	22434	Unreliable
+	"Perry County, IL"	"17145"	"2010"	"2010"	"Unintentional"	"1"	10	22350	Unreliable
+	"Perry County, IL"	"17145"	"2011"	"2011"	"Unintentional"	"1"	10	22264	Unreliable
+	"Perry County, IL"	"17145"	"2013"	"2013"	"Unintentional"	"1"	10	21887	Unreliable
+	"Perry County, IL"	"17145"	"2014"	"2014"	"Unintentional"	"1"	15	21672	Unreliable
+	"Perry County, IL"	"17145"	"2016"	"2016"	"Unintentional"	"1"	16	21357	Unreliable
+	"Perry County, IL"	"17145"	"2017"	"2017"	"Unintentional"	"1"	12	21285	Unreliable
+	"Piatt County, IL"	"17147"	"2000"	"2000"	"Unintentional"	"1"	10	16365	Unreliable
+	"Piatt County, IL"	"17147"	"2002"	"2002"	"Unintentional"	"1"	10	16216	Unreliable
+	"Piatt County, IL"	"17147"	"2013"	"2013"	"Unintentional"	"1"	12	16433	Unreliable
+	"Piatt County, IL"	"17147"	"2014"	"2014"	"Unintentional"	"1"	13	16431	Unreliable
+	"Piatt County, IL"	"17147"	"2016"	"2016"	"Unintentional"	"1"	10	16560	Unreliable
+	"Piatt County, IL"	"17147"	"2017"	"2017"	"Unintentional"	"1"	12	16445	Unreliable
+	"Pike County, IL"	"17149"	"1999"	"1999"	"Unintentional"	"1"	16	17490	Unreliable
+	"Pike County, IL"	"17149"	"2002"	"2002"	"Unintentional"	"1"	10	17031	Unreliable
+	"Pike County, IL"	"17149"	"2004"	"2004"	"Unintentional"	"1"	11	16910	Unreliable
+	"Pike County, IL"	"17149"	"2005"	"2005"	"Unintentional"	"1"	16	16862	Unreliable
+	"Pike County, IL"	"17149"	"2006"	"2006"	"Unintentional"	"1"	13	16632	Unreliable
+	"Pike County, IL"	"17149"	"2007"	"2007"	"Unintentional"	"1"	15	16772	Unreliable
+	"Pike County, IL"	"17149"	"2009"	"2009"	"Unintentional"	"1"	10	16473	Unreliable
+	"Pike County, IL"	"17149"	"2010"	"2010"	"Unintentional"	"1"	10	16430	Unreliable
+	"Pike County, IL"	"17149"	"2011"	"2011"	"Unintentional"	"1"	11	16398	Unreliable
+	"Pike County, IL"	"17149"	"2012"	"2012"	"Unintentional"	"1"	12	16308	Unreliable
+	"Pike County, IL"	"17149"	"2015"	"2015"	"Unintentional"	"1"	12	15989	Unreliable
+	"Pike County, IL"	"17149"	"2016"	"2016"	"Unintentional"	"1"	11	15950	Unreliable
+	"Pike County, IL"	"17149"	"2017"	"2017"	"Unintentional"	"1"	10	15821	Unreliable
+	"Randolph County, IL"	"17157"	"1999"	"1999"	"Unintentional"	"1"	16	33899	Unreliable
+	"Randolph County, IL"	"17157"	"2000"	"2000"	"Unintentional"	"1"	19	33893	Unreliable
+	"Randolph County, IL"	"17157"	"2001"	"2001"	"Unintentional"	"1"	22	34127	64.5
+	"Randolph County, IL"	"17157"	"2002"	"2002"	"Unintentional"	"1"	24	33512	71.6
+	"Randolph County, IL"	"17157"	"2003"	"2003"	"Unintentional"	"1"	17	33410	Unreliable
+	"Randolph County, IL"	"17157"	"2003"	"2003"	"Suicide"	"2"	10	33410	Unreliable
+	"Randolph County, IL"	"17157"	"2004"	"2004"	"Unintentional"	"1"	23	33714	68.2
+	"Randolph County, IL"	"17157"	"2005"	"2005"	"Unintentional"	"1"	15	33588	Unreliable
+	"Randolph County, IL"	"17157"	"2006"	"2006"	"Unintentional"	"1"	17	33688	Unreliable
+	"Randolph County, IL"	"17157"	"2007"	"2007"	"Unintentional"	"1"	17	33598	Unreliable
+	"Randolph County, IL"	"17157"	"2008"	"2008"	"Unintentional"	"1"	13	33584	Unreliable
+	"Randolph County, IL"	"17157"	"2009"	"2009"	"Unintentional"	"1"	19	33528	Unreliable
+	"Randolph County, IL"	"17157"	"2010"	"2010"	"Unintentional"	"1"	21	33476	62.7
+	"Randolph County, IL"	"17157"	"2011"	"2011"	"Unintentional"	"1"	37	33361	110.9
+	"Randolph County, IL"	"17157"	"2012"	"2012"	"Unintentional"	"1"	29	32956	88.0
+	"Randolph County, IL"	"17157"	"2013"	"2013"	"Unintentional"	"1"	33	32890	100.3
+	"Randolph County, IL"	"17157"	"2014"	"2014"	"Unintentional"	"1"	24	32869	73.0
+	"Randolph County, IL"	"17157"	"2015"	"2015"	"Unintentional"	"1"	28	32852	85.2
+	"Randolph County, IL"	"17157"	"2016"	"2016"	"Unintentional"	"1"	24	32621	73.6
+	"Randolph County, IL"	"17157"	"2017"	"2017"	"Unintentional"	"1"	22	32423	67.9
+	"Randolph County, IL"	"17157"	"2018"	"2018"	"Unintentional"	"1"	32	32106	99.7
+	"Richland County, IL"	"17159"	"1999"	"1999"	"Unintentional"	"1"	10	16212	Unreliable
+	"Richland County, IL"	"17159"	"2000"	"2000"	"Unintentional"	"1"	10	16149	Unreliable
+	"Richland County, IL"	"17159"	"2002"	"2002"	"Unintentional"	"1"	12	16326	Unreliable
+	"Richland County, IL"	"17159"	"2005"	"2005"	"Unintentional"	"1"	14	16258	Unreliable
+	"Richland County, IL"	"17159"	"2007"	"2007"	"Unintentional"	"1"	10	16153	Unreliable
+	"Richland County, IL"	"17159"	"2008"	"2008"	"Unintentional"	"1"	13	16061	Unreliable
+	"Richland County, IL"	"17159"	"2009"	"2009"	"Unintentional"	"1"	12	16229	Unreliable
+	"Richland County, IL"	"17159"	"2012"	"2012"	"Unintentional"	"1"	10	16176	Unreliable
+	"Richland County, IL"	"17159"	"2014"	"2014"	"Unintentional"	"1"	16	16061	Unreliable
+	"Richland County, IL"	"17159"	"2015"	"2015"	"Unintentional"	"1"	12	16029	Unreliable
+	"Richland County, IL"	"17159"	"2016"	"2016"	"Unintentional"	"1"	12	15930	Unreliable
+	"Rock Island County, IL"	"17161"	"1999"	"1999"	"Unintentional"	"1"	51	149961	34.0
+	"Rock Island County, IL"	"17161"	"1999"	"1999"	"Suicide"	"2"	25	149961	16.7
+	"Rock Island County, IL"	"17161"	"2000"	"2000"	"Unintentional"	"1"	49	149374	32.8
+	"Rock Island County, IL"	"17161"	"2000"	"2000"	"Suicide"	"2"	11	149374	Unreliable
+	"Rock Island County, IL"	"17161"	"2001"	"2001"	"Unintentional"	"1"	45	148734	30.3
+	"Rock Island County, IL"	"17161"	"2001"	"2001"	"Suicide"	"2"	22	148734	14.8
+	"Rock Island County, IL"	"17161"	"2002"	"2002"	"Unintentional"	"1"	44	148286	29.7
+	"Rock Island County, IL"	"17161"	"2002"	"2002"	"Suicide"	"2"	20	148286	13.5
+	"Rock Island County, IL"	"17161"	"2003"	"2003"	"Unintentional"	"1"	44	147384	29.9
+	"Rock Island County, IL"	"17161"	"2003"	"2003"	"Suicide"	"2"	12	147384	Unreliable
+	"Rock Island County, IL"	"17161"	"2004"	"2004"	"Unintentional"	"1"	42	147291	28.5
+	"Rock Island County, IL"	"17161"	"2004"	"2004"	"Suicide"	"2"	17	147291	Unreliable
+	"Rock Island County, IL"	"17161"	"2005"	"2005"	"Unintentional"	"1"	36	147067	24.5
+	"Rock Island County, IL"	"17161"	"2005"	"2005"	"Suicide"	"2"	12	147067	Unreliable
+	"Rock Island County, IL"	"17161"	"2006"	"2006"	"Unintentional"	"1"	39	147131	26.5
+	"Rock Island County, IL"	"17161"	"2006"	"2006"	"Suicide"	"2"	19	147131	Unreliable
+	"Rock Island County, IL"	"17161"	"2006"	"2006"	"Homicide"	"3"	10	147131	Unreliable
+	"Rock Island County, IL"	"17161"	"2007"	"2007"	"Unintentional"	"1"	67	147918	45.3
+	"Rock Island County, IL"	"17161"	"2007"	"2007"	"Suicide"	"2"	18	147918	Unreliable
+	"Rock Island County, IL"	"17161"	"2008"	"2008"	"Unintentional"	"1"	50	147501	33.9
+	"Rock Island County, IL"	"17161"	"2008"	"2008"	"Suicide"	"2"	23	147501	15.6
+	"Rock Island County, IL"	"17161"	"2009"	"2009"	"Unintentional"	"1"	51	147552	34.6
+	"Rock Island County, IL"	"17161"	"2009"	"2009"	"Suicide"	"2"	13	147552	Unreliable
+	"Rock Island County, IL"	"17161"	"2010"	"2010"	"Unintentional"	"1"	48	147546	32.5
+	"Rock Island County, IL"	"17161"	"2010"	"2010"	"Suicide"	"2"	14	147546	Unreliable
+	"Rock Island County, IL"	"17161"	"2011"	"2011"	"Unintentional"	"1"	48	147556	32.5
+	"Rock Island County, IL"	"17161"	"2011"	"2011"	"Suicide"	"2"	23	147556	15.6
+	"Rock Island County, IL"	"17161"	"2012"	"2012"	"Unintentional"	"1"	62	147457	42.0
+	"Rock Island County, IL"	"17161"	"2012"	"2012"	"Suicide"	"2"	15	147457	Unreliable
+	"Rock Island County, IL"	"17161"	"2013"	"2013"	"Unintentional"	"1"	64	147258	43.5
+	"Rock Island County, IL"	"17161"	"2013"	"2013"	"Suicide"	"2"	20	147258	13.6
+	"Rock Island County, IL"	"17161"	"2014"	"2014"	"Unintentional"	"1"	52	146063	35.6
+	"Rock Island County, IL"	"17161"	"2014"	"2014"	"Suicide"	"2"	28	146063	19.2
+	"Rock Island County, IL"	"17161"	"2015"	"2015"	"Unintentional"	"1"	63	146133	43.1
+	"Rock Island County, IL"	"17161"	"2015"	"2015"	"Suicide"	"2"	21	146133	14.4
+	"Rock Island County, IL"	"17161"	"2016"	"2016"	"Unintentional"	"1"	57	144784	39.4
+	"Rock Island County, IL"	"17161"	"2016"	"2016"	"Suicide"	"2"	22	144784	15.2
+	"Rock Island County, IL"	"17161"	"2016"	"2016"	"Homicide"	"3"	10	144784	Unreliable
+	"Rock Island County, IL"	"17161"	"2017"	"2017"	"Unintentional"	"1"	73	144808	50.4
+	"Rock Island County, IL"	"17161"	"2017"	"2017"	"Suicide"	"2"	18	144808	Unreliable
+	"Rock Island County, IL"	"17161"	"2017"	"2017"	"Homicide"	"3"	20	144808	13.8
+	"Rock Island County, IL"	"17161"	"2018"	"2018"	"Unintentional"	"1"	78	143477	54.4
+	"Rock Island County, IL"	"17161"	"2018"	"2018"	"Suicide"	"2"	25	143477	17.4
+	"St. Clair County, IL"	"17163"	"1999"	"1999"	"Unintentional"	"1"	117	256201	45.7
+	"St. Clair County, IL"	"17163"	"1999"	"1999"	"Suicide"	"2"	36	256201	14.1
+	"St. Clair County, IL"	"17163"	"1999"	"1999"	"Homicide"	"3"	36	256201	14.1
+	"St. Clair County, IL"	"17163"	"2000"	"2000"	"Unintentional"	"1"	107	256082	41.8
+	"St. Clair County, IL"	"17163"	"2000"	"2000"	"Suicide"	"2"	18	256082	Unreliable
+	"St. Clair County, IL"	"17163"	"2000"	"2000"	"Homicide"	"3"	30	256082	11.7
+	"St. Clair County, IL"	"17163"	"2001"	"2001"	"Unintentional"	"1"	117	256540	45.6
+	"St. Clair County, IL"	"17163"	"2001"	"2001"	"Suicide"	"2"	36	256540	14.0
+	"St. Clair County, IL"	"17163"	"2001"	"2001"	"Homicide"	"3"	38	256540	14.8
+	"St. Clair County, IL"	"17163"	"2002"	"2002"	"Unintentional"	"1"	99	257952	38.4
+	"St. Clair County, IL"	"17163"	"2002"	"2002"	"Suicide"	"2"	23	257952	8.9
+	"St. Clair County, IL"	"17163"	"2002"	"2002"	"Homicide"	"3"	35	257952	13.6
+	"St. Clair County, IL"	"17163"	"2003"	"2003"	"Unintentional"	"1"	87	258448	33.7
+	"St. Clair County, IL"	"17163"	"2003"	"2003"	"Suicide"	"2"	12	258448	Unreliable
+	"St. Clair County, IL"	"17163"	"2003"	"2003"	"Homicide"	"3"	24	258448	9.3
+	"St. Clair County, IL"	"17163"	"2004"	"2004"	"Unintentional"	"1"	105	260214	40.4
+	"St. Clair County, IL"	"17163"	"2004"	"2004"	"Suicide"	"2"	32	260214	12.3
+	"St. Clair County, IL"	"17163"	"2004"	"2004"	"Homicide"	"3"	32	260214	12.3
+	"St. Clair County, IL"	"17163"	"2005"	"2005"	"Unintentional"	"1"	100	261255	38.3
+	"St. Clair County, IL"	"17163"	"2005"	"2005"	"Suicide"	"2"	41	261255	15.7
+	"St. Clair County, IL"	"17163"	"2005"	"2005"	"Homicide"	"3"	32	261255	12.2
+	"St. Clair County, IL"	"17163"	"2006"	"2006"	"Unintentional"	"1"	111	263445	42.1
+	"St. Clair County, IL"	"17163"	"2006"	"2006"	"Suicide"	"2"	26	263445	9.9
+	"St. Clair County, IL"	"17163"	"2006"	"2006"	"Homicide"	"3"	39	263445	14.8
+	"St. Clair County, IL"	"17163"	"2007"	"2007"	"Unintentional"	"1"	109	264764	41.2
+	"St. Clair County, IL"	"17163"	"2007"	"2007"	"Suicide"	"2"	32	264764	12.1
+	"St. Clair County, IL"	"17163"	"2007"	"2007"	"Homicide"	"3"	58	264764	21.9
+	"St. Clair County, IL"	"17163"	"2008"	"2008"	"Unintentional"	"1"	111	266518	41.6
+	"St. Clair County, IL"	"17163"	"2008"	"2008"	"Suicide"	"2"	31	266518	11.6
+	"St. Clair County, IL"	"17163"	"2008"	"2008"	"Homicide"	"3"	35	266518	13.1
+	"St. Clair County, IL"	"17163"	"2009"	"2009"	"Unintentional"	"1"	112	268489	41.7
+	"St. Clair County, IL"	"17163"	"2009"	"2009"	"Suicide"	"2"	25	268489	9.3
+	"St. Clair County, IL"	"17163"	"2009"	"2009"	"Homicide"	"3"	51	268489	19.0
+	"St. Clair County, IL"	"17163"	"2010"	"2010"	"Unintentional"	"1"	93	270056	34.4
+	"St. Clair County, IL"	"17163"	"2010"	"2010"	"Suicide"	"2"	28	270056	10.4
+	"St. Clair County, IL"	"17163"	"2010"	"2010"	"Homicide"	"3"	33	270056	12.2
+	"St. Clair County, IL"	"17163"	"2011"	"2011"	"Unintentional"	"1"	122	270259	45.1
+	"St. Clair County, IL"	"17163"	"2011"	"2011"	"Suicide"	"2"	43	270259	15.9
+	"St. Clair County, IL"	"17163"	"2011"	"2011"	"Homicide"	"3"	49	270259	18.1
+	"St. Clair County, IL"	"17163"	"2012"	"2012"	"Unintentional"	"1"	146	268858	54.3
+	"St. Clair County, IL"	"17163"	"2012"	"2012"	"Suicide"	"2"	23	268858	8.6
+	"St. Clair County, IL"	"17163"	"2012"	"2012"	"Homicide"	"3"	34	268858	12.6
+	"St. Clair County, IL"	"17163"	"2013"	"2013"	"Unintentional"	"1"	143	266955	53.6
+	"St. Clair County, IL"	"17163"	"2013"	"2013"	"Suicide"	"2"	28	266955	10.5
+	"St. Clair County, IL"	"17163"	"2013"	"2013"	"Homicide"	"3"	37	266955	13.9
+	"St. Clair County, IL"	"17163"	"2014"	"2014"	"Unintentional"	"1"	142	265729	53.4
+	"St. Clair County, IL"	"17163"	"2014"	"2014"	"Suicide"	"2"	33	265729	12.4
+	"St. Clair County, IL"	"17163"	"2014"	"2014"	"Homicide"	"3"	37	265729	13.9
+	"St. Clair County, IL"	"17163"	"2015"	"2015"	"Unintentional"	"1"	122	264052	46.2
+	"St. Clair County, IL"	"17163"	"2015"	"2015"	"Suicide"	"2"	19	264052	Unreliable
+	"St. Clair County, IL"	"17163"	"2015"	"2015"	"Homicide"	"3"	32	264052	12.1
+	"St. Clair County, IL"	"17163"	"2016"	"2016"	"Unintentional"	"1"	129	262759	49.1
+	"St. Clair County, IL"	"17163"	"2016"	"2016"	"Suicide"	"2"	27	262759	10.3
+	"St. Clair County, IL"	"17163"	"2016"	"2016"	"Homicide"	"3"	38	262759	14.5
+	"St. Clair County, IL"	"17163"	"2017"	"2017"	"Unintentional"	"1"	161	262479	61.3
+	"St. Clair County, IL"	"17163"	"2017"	"2017"	"Suicide"	"2"	42	262479	16.0
+	"St. Clair County, IL"	"17163"	"2017"	"2017"	"Homicide"	"3"	47	262479	17.9
+	"St. Clair County, IL"	"17163"	"2018"	"2018"	"Unintentional"	"1"	163	261059	62.4
+	"St. Clair County, IL"	"17163"	"2018"	"2018"	"Suicide"	"2"	32	261059	12.3
+	"St. Clair County, IL"	"17163"	"2018"	"2018"	"Homicide"	"3"	36	261059	13.8
+	"Saline County, IL"	"17165"	"1999"	"1999"	"Unintentional"	"1"	19	26878	Unreliable
+	"Saline County, IL"	"17165"	"2000"	"2000"	"Unintentional"	"1"	16	26733	Unreliable
+	"Saline County, IL"	"17165"	"2001"	"2001"	"Unintentional"	"1"	13	26249	Unreliable
+	"Saline County, IL"	"17165"	"2003"	"2003"	"Unintentional"	"1"	18	25832	Unreliable
+	"Saline County, IL"	"17165"	"2004"	"2004"	"Unintentional"	"1"	14	25763	Unreliable
+	"Saline County, IL"	"17165"	"2005"	"2005"	"Unintentional"	"1"	17	25526	Unreliable
+	"Saline County, IL"	"17165"	"2006"	"2006"	"Unintentional"	"1"	19	25482	Unreliable
+	"Saline County, IL"	"17165"	"2007"	"2007"	"Unintentional"	"1"	20	25390	78.8
+	"Saline County, IL"	"17165"	"2008"	"2008"	"Unintentional"	"1"	12	25140	Unreliable
+	"Saline County, IL"	"17165"	"2009"	"2009"	"Unintentional"	"1"	10	24911	Unreliable
+	"Saline County, IL"	"17165"	"2010"	"2010"	"Unintentional"	"1"	15	24913	Unreliable
+	"Saline County, IL"	"17165"	"2011"	"2011"	"Unintentional"	"1"	11	24981	Unreliable
+	"Saline County, IL"	"17165"	"2012"	"2012"	"Unintentional"	"1"	20	24946	80.2
+	"Saline County, IL"	"17165"	"2013"	"2013"	"Unintentional"	"1"	22	24939	88.2
+	"Saline County, IL"	"17165"	"2014"	"2014"	"Unintentional"	"1"	15	24612	Unreliable
+	"Saline County, IL"	"17165"	"2015"	"2015"	"Unintentional"	"1"	20	24548	81.5
+	"Saline County, IL"	"17165"	"2016"	"2016"	"Unintentional"	"1"	17	24307	Unreliable
+	"Saline County, IL"	"17165"	"2017"	"2017"	"Unintentional"	"1"	18	24102	Unreliable
+	"Saline County, IL"	"17165"	"2018"	"2018"	"Unintentional"	"1"	17	23906	Unreliable
+	"Sangamon County, IL"	"17167"	"1999"	"1999"	"Unintentional"	"1"	60	188957	31.8
+	"Sangamon County, IL"	"17167"	"1999"	"1999"	"Suicide"	"2"	23	188957	12.2
+	"Sangamon County, IL"	"17167"	"1999"	"1999"	"Homicide"	"3"	12	188957	Unreliable
+	"Sangamon County, IL"	"17167"	"2000"	"2000"	"Unintentional"	"1"	65	188951	34.4
+	"Sangamon County, IL"	"17167"	"2000"	"2000"	"Suicide"	"2"	20	188951	10.6
+	"Sangamon County, IL"	"17167"	"2001"	"2001"	"Unintentional"	"1"	62	189924	32.6
+	"Sangamon County, IL"	"17167"	"2001"	"2001"	"Suicide"	"2"	20	189924	10.5
+	"Sangamon County, IL"	"17167"	"2001"	"2001"	"Homicide"	"3"	18	189924	Unreliable
+	"Sangamon County, IL"	"17167"	"2002"	"2002"	"Unintentional"	"1"	60	190756	31.5
+	"Sangamon County, IL"	"17167"	"2002"	"2002"	"Suicide"	"2"	14	190756	Unreliable
+	"Sangamon County, IL"	"17167"	"2003"	"2003"	"Unintentional"	"1"	63	191339	32.9
+	"Sangamon County, IL"	"17167"	"2003"	"2003"	"Suicide"	"2"	29	191339	15.2
+	"Sangamon County, IL"	"17167"	"2003"	"2003"	"Homicide"	"3"	14	191339	Unreliable
+	"Sangamon County, IL"	"17167"	"2004"	"2004"	"Unintentional"	"1"	70	191885	36.5
+	"Sangamon County, IL"	"17167"	"2004"	"2004"	"Suicide"	"2"	14	191885	Unreliable
+	"Sangamon County, IL"	"17167"	"2004"	"2004"	"Homicide"	"3"	11	191885	Unreliable
+	"Sangamon County, IL"	"17167"	"2005"	"2005"	"Unintentional"	"1"	71	192432	36.9
+	"Sangamon County, IL"	"17167"	"2005"	"2005"	"Suicide"	"2"	17	192432	Unreliable
+	"Sangamon County, IL"	"17167"	"2006"	"2006"	"Unintentional"	"1"	78	193317	40.3
+	"Sangamon County, IL"	"17167"	"2006"	"2006"	"Suicide"	"2"	28	193317	14.5
+	"Sangamon County, IL"	"17167"	"2006"	"2006"	"Homicide"	"3"	13	193317	Unreliable
+	"Sangamon County, IL"	"17167"	"2007"	"2007"	"Unintentional"	"1"	99	194025	51.0
+	"Sangamon County, IL"	"17167"	"2007"	"2007"	"Suicide"	"2"	19	194025	Unreliable
+	"Sangamon County, IL"	"17167"	"2007"	"2007"	"Homicide"	"3"	10	194025	Unreliable
+	"Sangamon County, IL"	"17167"	"2008"	"2008"	"Unintentional"	"1"	87	195094	44.6
+	"Sangamon County, IL"	"17167"	"2008"	"2008"	"Suicide"	"2"	14	195094	Unreliable
+	"Sangamon County, IL"	"17167"	"2009"	"2009"	"Unintentional"	"1"	86	196180	43.8
+	"Sangamon County, IL"	"17167"	"2009"	"2009"	"Suicide"	"2"	25	196180	12.7
+	"Sangamon County, IL"	"17167"	"2009"	"2009"	"Homicide"	"3"	15	196180	Unreliable
+	"Sangamon County, IL"	"17167"	"2010"	"2010"	"Unintentional"	"1"	101	197465	51.1
+	"Sangamon County, IL"	"17167"	"2010"	"2010"	"Suicide"	"2"	28	197465	14.2
+	"Sangamon County, IL"	"17167"	"2010"	"2010"	"Homicide"	"3"	10	197465	Unreliable
+	"Sangamon County, IL"	"17167"	"2011"	"2011"	"Unintentional"	"1"	97	198844	48.8
+	"Sangamon County, IL"	"17167"	"2011"	"2011"	"Suicide"	"2"	18	198844	Unreliable
+	"Sangamon County, IL"	"17167"	"2011"	"2011"	"Homicide"	"3"	14	198844	Unreliable
+	"Sangamon County, IL"	"17167"	"2012"	"2012"	"Unintentional"	"1"	116	199271	58.2
+	"Sangamon County, IL"	"17167"	"2012"	"2012"	"Suicide"	"2"	28	199271	14.1
+	"Sangamon County, IL"	"17167"	"2012"	"2012"	"Homicide"	"3"	15	199271	Unreliable
+	"Sangamon County, IL"	"17167"	"2013"	"2013"	"Unintentional"	"1"	94	199145	47.2
+	"Sangamon County, IL"	"17167"	"2013"	"2013"	"Suicide"	"2"	31	199145	15.6
+	"Sangamon County, IL"	"17167"	"2014"	"2014"	"Unintentional"	"1"	101	198997	50.8
+	"Sangamon County, IL"	"17167"	"2014"	"2014"	"Suicide"	"2"	22	198997	11.1
+	"Sangamon County, IL"	"17167"	"2015"	"2015"	"Unintentional"	"1"	110	198712	55.4
+	"Sangamon County, IL"	"17167"	"2015"	"2015"	"Suicide"	"2"	30	198712	15.1
+	"Sangamon County, IL"	"17167"	"2015"	"2015"	"Homicide"	"3"	11	198712	Unreliable
+	"Sangamon County, IL"	"17167"	"2016"	"2016"	"Unintentional"	"1"	96	197499	48.6
+	"Sangamon County, IL"	"17167"	"2016"	"2016"	"Suicide"	"2"	34	197499	17.2
+	"Sangamon County, IL"	"17167"	"2016"	"2016"	"Homicide"	"3"	10	197499	Unreliable
+	"Sangamon County, IL"	"17167"	"2017"	"2017"	"Unintentional"	"1"	122	196452	62.1
+	"Sangamon County, IL"	"17167"	"2017"	"2017"	"Suicide"	"2"	39	196452	19.9
+	"Sangamon County, IL"	"17167"	"2017"	"2017"	"Homicide"	"3"	13	196452	Unreliable
+	"Sangamon County, IL"	"17167"	"2018"	"2018"	"Unintentional"	"1"	110	195348	56.3
+	"Sangamon County, IL"	"17167"	"2018"	"2018"	"Suicide"	"2"	21	195348	10.8
+	"Sangamon County, IL"	"17167"	"2018"	"2018"	"Homicide"	"3"	13	195348	Unreliable
+	"Shelby County, IL"	"17173"	"2000"	"2000"	"Unintentional"	"1"	13	22893	Unreliable
+	"Shelby County, IL"	"17173"	"2001"	"2001"	"Unintentional"	"1"	13	22702	Unreliable
+	"Shelby County, IL"	"17173"	"2002"	"2002"	"Unintentional"	"1"	10	22656	Unreliable
+	"Shelby County, IL"	"17173"	"2003"	"2003"	"Unintentional"	"1"	10	22625	Unreliable
+	"Shelby County, IL"	"17173"	"2004"	"2004"	"Unintentional"	"1"	10	22484	Unreliable
+	"Shelby County, IL"	"17173"	"2005"	"2005"	"Unintentional"	"1"	14	22445	Unreliable
+	"Shelby County, IL"	"17173"	"2007"	"2007"	"Unintentional"	"1"	12	22314	Unreliable
+	"Shelby County, IL"	"17173"	"2008"	"2008"	"Unintentional"	"1"	15	22398	Unreliable
+	"Shelby County, IL"	"17173"	"2009"	"2009"	"Unintentional"	"1"	13	22386	Unreliable
+	"Shelby County, IL"	"17173"	"2011"	"2011"	"Unintentional"	"1"	10	22212	Unreliable
+	"Shelby County, IL"	"17173"	"2012"	"2012"	"Unintentional"	"1"	13	22196	Unreliable
+	"Shelby County, IL"	"17173"	"2013"	"2013"	"Unintentional"	"1"	10	22119	Unreliable
+	"Shelby County, IL"	"17173"	"2014"	"2014"	"Unintentional"	"1"	10	22048	Unreliable
+	"Shelby County, IL"	"17173"	"2015"	"2015"	"Unintentional"	"1"	16	21775	Unreliable
+	"Shelby County, IL"	"17173"	"2017"	"2017"	"Unintentional"	"1"	11	21719	Unreliable
+	"Shelby County, IL"	"17173"	"2018"	"2018"	"Unintentional"	"1"	13	21741	Unreliable
+	"Stephenson County, IL"	"17177"	"1999"	"1999"	"Unintentional"	"1"	14	49194	Unreliable
+	"Stephenson County, IL"	"17177"	"2000"	"2000"	"Unintentional"	"1"	21	48979	42.9
+	"Stephenson County, IL"	"17177"	"2001"	"2001"	"Unintentional"	"1"	12	48625	Unreliable
+	"Stephenson County, IL"	"17177"	"2002"	"2002"	"Unintentional"	"1"	28	48367	57.9
+	"Stephenson County, IL"	"17177"	"2003"	"2003"	"Unintentional"	"1"	15	48503	Unreliable
+	"Stephenson County, IL"	"17177"	"2004"	"2004"	"Unintentional"	"1"	22	48479	45.4
+	"Stephenson County, IL"	"17177"	"2005"	"2005"	"Unintentional"	"1"	22	48105	45.7
+	"Stephenson County, IL"	"17177"	"2006"	"2006"	"Unintentional"	"1"	18	47917	Unreliable
+	"Stephenson County, IL"	"17177"	"2007"	"2007"	"Unintentional"	"1"	20	47794	41.8
+	"Stephenson County, IL"	"17177"	"2008"	"2008"	"Unintentional"	"1"	21	47805	43.9
+	"Stephenson County, IL"	"17177"	"2009"	"2009"	"Unintentional"	"1"	20	47792	41.8
+	"Stephenson County, IL"	"17177"	"2010"	"2010"	"Unintentional"	"1"	20	47711	41.9
+	"Stephenson County, IL"	"17177"	"2010"	"2010"	"Undetermined "	"4"	10	47711	Unreliable
+	"Stephenson County, IL"	"17177"	"2011"	"2011"	"Unintentional"	"1"	26	47563	54.7
+	"Stephenson County, IL"	"17177"	"2012"	"2012"	"Unintentional"	"1"	17	46959	Unreliable
+	"Stephenson County, IL"	"17177"	"2013"	"2013"	"Unintentional"	"1"	28	46740	59.9
+	"Stephenson County, IL"	"17177"	"2014"	"2014"	"Unintentional"	"1"	21	46435	45.2
+	"Stephenson County, IL"	"17177"	"2015"	"2015"	"Unintentional"	"1"	21	45749	45.9
+	"Stephenson County, IL"	"17177"	"2016"	"2016"	"Unintentional"	"1"	33	45624	72.3
+	"Stephenson County, IL"	"17177"	"2017"	"2017"	"Unintentional"	"1"	37	45054	82.1
+	"Stephenson County, IL"	"17177"	"2018"	"2018"	"Unintentional"	"1"	52	44753	116.2
+	"Tazewell County, IL"	"17179"	"1999"	"1999"	"Unintentional"	"1"	28	128540	21.8
+	"Tazewell County, IL"	"17179"	"2000"	"2000"	"Unintentional"	"1"	39	128485	30.4
+	"Tazewell County, IL"	"17179"	"2000"	"2000"	"Suicide"	"2"	18	128485	Unreliable
+	"Tazewell County, IL"	"17179"	"2001"	"2001"	"Unintentional"	"1"	29	128468	22.6
+	"Tazewell County, IL"	"17179"	"2001"	"2001"	"Suicide"	"2"	24	128468	18.7
+	"Tazewell County, IL"	"17179"	"2002"	"2002"	"Unintentional"	"1"	49	128722	38.1
+	"Tazewell County, IL"	"17179"	"2002"	"2002"	"Suicide"	"2"	16	128722	Unreliable
+	"Tazewell County, IL"	"17179"	"2003"	"2003"	"Unintentional"	"1"	32	128770	24.9
+	"Tazewell County, IL"	"17179"	"2003"	"2003"	"Suicide"	"2"	20	128770	15.5
+	"Tazewell County, IL"	"17179"	"2004"	"2004"	"Unintentional"	"1"	51	129656	39.3
+	"Tazewell County, IL"	"17179"	"2005"	"2005"	"Unintentional"	"1"	41	130784	31.3
+	"Tazewell County, IL"	"17179"	"2005"	"2005"	"Suicide"	"2"	17	130784	Unreliable
+	"Tazewell County, IL"	"17179"	"2006"	"2006"	"Unintentional"	"1"	52	131804	39.5
+	"Tazewell County, IL"	"17179"	"2006"	"2006"	"Suicide"	"2"	13	131804	Unreliable
+	"Tazewell County, IL"	"17179"	"2007"	"2007"	"Unintentional"	"1"	69	133131	51.8
+	"Tazewell County, IL"	"17179"	"2007"	"2007"	"Suicide"	"2"	19	133131	Unreliable
+	"Tazewell County, IL"	"17179"	"2008"	"2008"	"Unintentional"	"1"	57	133893	42.6
+	"Tazewell County, IL"	"17179"	"2008"	"2008"	"Suicide"	"2"	13	133893	Unreliable
+	"Tazewell County, IL"	"17179"	"2009"	"2009"	"Unintentional"	"1"	40	135054	29.6
+	"Tazewell County, IL"	"17179"	"2009"	"2009"	"Suicide"	"2"	11	135054	Unreliable
+	"Tazewell County, IL"	"17179"	"2010"	"2010"	"Unintentional"	"1"	41	135394	30.3
+	"Tazewell County, IL"	"17179"	"2010"	"2010"	"Suicide"	"2"	18	135394	Unreliable
+	"Tazewell County, IL"	"17179"	"2011"	"2011"	"Unintentional"	"1"	54	135661	39.8
+	"Tazewell County, IL"	"17179"	"2011"	"2011"	"Suicide"	"2"	13	135661	Unreliable
+	"Tazewell County, IL"	"17179"	"2012"	"2012"	"Unintentional"	"1"	67	135949	49.3
+	"Tazewell County, IL"	"17179"	"2012"	"2012"	"Suicide"	"2"	21	135949	15.4
+	"Tazewell County, IL"	"17179"	"2013"	"2013"	"Unintentional"	"1"	48	136352	35.2
+	"Tazewell County, IL"	"17179"	"2013"	"2013"	"Suicide"	"2"	19	136352	Unreliable
+	"Tazewell County, IL"	"17179"	"2014"	"2014"	"Unintentional"	"1"	60	135707	44.2
+	"Tazewell County, IL"	"17179"	"2014"	"2014"	"Suicide"	"2"	14	135707	Unreliable
+	"Tazewell County, IL"	"17179"	"2015"	"2015"	"Unintentional"	"1"	74	134800	54.9
+	"Tazewell County, IL"	"17179"	"2015"	"2015"	"Suicide"	"2"	23	134800	17.1
+	"Tazewell County, IL"	"17179"	"2016"	"2016"	"Unintentional"	"1"	59	134385	43.9
+	"Tazewell County, IL"	"17179"	"2016"	"2016"	"Suicide"	"2"	16	134385	Unreliable
+	"Tazewell County, IL"	"17179"	"2017"	"2017"	"Unintentional"	"1"	68	133526	50.9
+	"Tazewell County, IL"	"17179"	"2017"	"2017"	"Suicide"	"2"	19	133526	Unreliable
+	"Tazewell County, IL"	"17179"	"2018"	"2018"	"Unintentional"	"1"	64	132328	48.4
+	"Tazewell County, IL"	"17179"	"2018"	"2018"	"Suicide"	"2"	22	132328	16.6
+	"Union County, IL"	"17181"	"2000"	"2000"	"Unintentional"	"1"	13	18293	Unreliable
+	"Union County, IL"	"17181"	"2002"	"2002"	"Unintentional"	"1"	12	18092	Unreliable
+	"Union County, IL"	"17181"	"2003"	"2003"	"Unintentional"	"1"	10	18116	Unreliable
+	"Union County, IL"	"17181"	"2004"	"2004"	"Unintentional"	"1"	13	18048	Unreliable
+	"Union County, IL"	"17181"	"2005"	"2005"	"Unintentional"	"1"	10	18071	Unreliable
+	"Union County, IL"	"17181"	"2006"	"2006"	"Unintentional"	"1"	11	18082	Unreliable
+	"Union County, IL"	"17181"	"2011"	"2011"	"Unintentional"	"1"	12	17708	Unreliable
+	"Union County, IL"	"17181"	"2013"	"2013"	"Unintentional"	"1"	11	17583	Unreliable
+	"Union County, IL"	"17181"	"2014"	"2014"	"Unintentional"	"1"	11	17447	Unreliable
+	"Union County, IL"	"17181"	"2016"	"2016"	"Unintentional"	"1"	11	17212	Unreliable
+	"Vermilion County, IL"	"17183"	"1999"	"1999"	"Unintentional"	"1"	45	84276	53.4
+	"Vermilion County, IL"	"17183"	"2000"	"2000"	"Unintentional"	"1"	25	83919	29.8
+	"Vermilion County, IL"	"17183"	"2000"	"2000"	"Suicide"	"2"	13	83919	Unreliable
+	"Vermilion County, IL"	"17183"	"2001"	"2001"	"Unintentional"	"1"	38	83646	45.4
+	"Vermilion County, IL"	"17183"	"2002"	"2002"	"Unintentional"	"1"	36	83299	43.2
+	"Vermilion County, IL"	"17183"	"2003"	"2003"	"Unintentional"	"1"	44	82996	53.0
+	"Vermilion County, IL"	"17183"	"2003"	"2003"	"Suicide"	"2"	11	82996	Unreliable
+	"Vermilion County, IL"	"17183"	"2004"	"2004"	"Unintentional"	"1"	40	82955	48.2
+	"Vermilion County, IL"	"17183"	"2004"	"2004"	"Suicide"	"2"	10	82955	Unreliable
+	"Vermilion County, IL"	"17183"	"2005"	"2005"	"Unintentional"	"1"	39	82728	47.1
+	"Vermilion County, IL"	"17183"	"2005"	"2005"	"Suicide"	"2"	10	82728	Unreliable
+	"Vermilion County, IL"	"17183"	"2006"	"2006"	"Unintentional"	"1"	36	82715	43.5
+	"Vermilion County, IL"	"17183"	"2007"	"2007"	"Unintentional"	"1"	49	82258	59.6
+	"Vermilion County, IL"	"17183"	"2008"	"2008"	"Unintentional"	"1"	44	81930	53.7
+	"Vermilion County, IL"	"17183"	"2009"	"2009"	"Unintentional"	"1"	44	81710	53.8
+	"Vermilion County, IL"	"17183"	"2009"	"2009"	"Suicide"	"2"	10	81710	Unreliable
+	"Vermilion County, IL"	"17183"	"2010"	"2010"	"Unintentional"	"1"	36	81625	44.1
+	"Vermilion County, IL"	"17183"	"2011"	"2011"	"Unintentional"	"1"	36	81509	44.2
+	"Vermilion County, IL"	"17183"	"2011"	"2011"	"Suicide"	"2"	13	81509	Unreliable
+	"Vermilion County, IL"	"17183"	"2012"	"2012"	"Unintentional"	"1"	50	80727	61.9
+	"Vermilion County, IL"	"17183"	"2012"	"2012"	"Suicide"	"2"	11	80727	Unreliable
+	"Vermilion County, IL"	"17183"	"2013"	"2013"	"Unintentional"	"1"	41	80329	51.0
+	"Vermilion County, IL"	"17183"	"2014"	"2014"	"Unintentional"	"1"	52	79728	65.2
+	"Vermilion County, IL"	"17183"	"2014"	"2014"	"Suicide"	"2"	13	79728	Unreliable
+	"Vermilion County, IL"	"17183"	"2015"	"2015"	"Unintentional"	"1"	47	79282	59.3
+	"Vermilion County, IL"	"17183"	"2015"	"2015"	"Suicide"	"2"	14	79282	Unreliable
+	"Vermilion County, IL"	"17183"	"2016"	"2016"	"Unintentional"	"1"	45	78111	57.6
+	"Vermilion County, IL"	"17183"	"2016"	"2016"	"Suicide"	"2"	13	78111	Unreliable
+	"Vermilion County, IL"	"17183"	"2017"	"2017"	"Unintentional"	"1"	62	77909	79.6
+	"Vermilion County, IL"	"17183"	"2017"	"2017"	"Homicide"	"3"	10	77909	Unreliable
+	"Vermilion County, IL"	"17183"	"2018"	"2018"	"Unintentional"	"1"	52	76806	67.7
+	"Vermilion County, IL"	"17183"	"2018"	"2018"	"Suicide"	"2"	12	76806	Unreliable
+	"Vermilion County, IL"	"17183"	"2018"	"2018"	"Homicide"	"3"	16	76806	Unreliable
+	"Wabash County, IL"	"17185"	"2010"	"2010"	"Unintentional"	"1"	15	11947	Unreliable
+	"Wabash County, IL"	"17185"	"2013"	"2013"	"Unintentional"	"1"	11	11665	Unreliable
+	"Warren County, IL"	"17187"	"2006"	"2006"	"Unintentional"	"1"	12	17839	Unreliable
+	"Warren County, IL"	"17187"	"2007"	"2007"	"Unintentional"	"1"	10	17828	Unreliable
+	"Warren County, IL"	"17187"	"2008"	"2008"	"Unintentional"	"1"	13	17665	Unreliable
+	"Warren County, IL"	"17187"	"2012"	"2012"	"Unintentional"	"1"	10	17731	Unreliable
+	"Warren County, IL"	"17187"	"2013"	"2013"	"Unintentional"	"1"	11	17726	Unreliable
+	"Washington County, IL"	"17189"	"1999"	"1999"	"Unintentional"	"1"	16	15143	Unreliable
+	"Washington County, IL"	"17189"	"2002"	"2002"	"Unintentional"	"1"	12	15129	Unreliable
+	"Washington County, IL"	"17189"	"2005"	"2005"	"Unintentional"	"1"	14	14950	Unreliable
+	"Washington County, IL"	"17189"	"2008"	"2008"	"Unintentional"	"1"	13	14855	Unreliable
+	"Washington County, IL"	"17189"	"2011"	"2011"	"Unintentional"	"1"	13	14533	Unreliable
+	"Washington County, IL"	"17189"	"2013"	"2013"	"Unintentional"	"1"	12	14448	Unreliable
+	"Washington County, IL"	"17189"	"2015"	"2015"	"Unintentional"	"1"	22	14270	154.2
+	"Washington County, IL"	"17189"	"2016"	"2016"	"Unintentional"	"1"	14	14154	Unreliable
+	"Wayne County, IL"	"17191"	"2001"	"2001"	"Unintentional"	"1"	11	17068	Unreliable
+	"Wayne County, IL"	"17191"	"2004"	"2004"	"Unintentional"	"1"	10	16881	Unreliable
+	"Wayne County, IL"	"17191"	"2005"	"2005"	"Unintentional"	"1"	10	16910	Unreliable
+	"Wayne County, IL"	"17191"	"2006"	"2006"	"Unintentional"	"1"	12	16829	Unreliable
+	"Wayne County, IL"	"17191"	"2013"	"2013"	"Unintentional"	"1"	10	16612	Unreliable
+	"Wayne County, IL"	"17191"	"2016"	"2016"	"Unintentional"	"1"	13	16396	Unreliable
+	"Wayne County, IL"	"17191"	"2017"	"2017"	"Unintentional"	"1"	13	16495	Unreliable
+	"Wayne County, IL"	"17191"	"2018"	"2018"	"Unintentional"	"1"	16	16332	Unreliable
+	"White County, IL"	"17193"	"2001"	"2001"	"Unintentional"	"1"	10	15286	Unreliable
+	"White County, IL"	"17193"	"2002"	"2002"	"Unintentional"	"1"	10	15138	Unreliable
+	"White County, IL"	"17193"	"2004"	"2004"	"Unintentional"	"1"	12	15089	Unreliable
+	"White County, IL"	"17193"	"2006"	"2006"	"Unintentional"	"1"	10	14942	Unreliable
+	"White County, IL"	"17193"	"2007"	"2007"	"Unintentional"	"1"	14	14796	Unreliable
+	"White County, IL"	"17193"	"2010"	"2010"	"Unintentional"	"1"	11	14665	Unreliable
+	"White County, IL"	"17193"	"2012"	"2012"	"Unintentional"	"1"	14	14568	Unreliable
+	"White County, IL"	"17193"	"2013"	"2013"	"Unintentional"	"1"	14	14549	Unreliable
+	"Whiteside County, IL"	"17195"	"1999"	"1999"	"Unintentional"	"1"	22	60658	36.3
+	"Whiteside County, IL"	"17195"	"2000"	"2000"	"Unintentional"	"1"	20	60653	33.0
+	"Whiteside County, IL"	"17195"	"2001"	"2001"	"Unintentional"	"1"	23	60511	38.0
+	"Whiteside County, IL"	"17195"	"2002"	"2002"	"Unintentional"	"1"	19	60022	Unreliable
+	"Whiteside County, IL"	"17195"	"2003"	"2003"	"Unintentional"	"1"	19	59489	Unreliable
+	"Whiteside County, IL"	"17195"	"2004"	"2004"	"Unintentional"	"1"	26	59352	43.8
+	"Whiteside County, IL"	"17195"	"2005"	"2005"	"Unintentional"	"1"	14	59094	Unreliable
+	"Whiteside County, IL"	"17195"	"2005"	"2005"	"Suicide"	"2"	10	59094	Unreliable
+	"Whiteside County, IL"	"17195"	"2006"	"2006"	"Unintentional"	"1"	15	59033	Unreliable
+	"Whiteside County, IL"	"17195"	"2007"	"2007"	"Unintentional"	"1"	24	58819	40.8
+	"Whiteside County, IL"	"17195"	"2008"	"2008"	"Unintentional"	"1"	31	58784	52.7
+	"Whiteside County, IL"	"17195"	"2009"	"2009"	"Unintentional"	"1"	23	58667	39.2
+	"Whiteside County, IL"	"17195"	"2010"	"2010"	"Unintentional"	"1"	19	58498	Unreliable
+	"Whiteside County, IL"	"17195"	"2011"	"2011"	"Unintentional"	"1"	29	58388	49.7
+	"Whiteside County, IL"	"17195"	"2012"	"2012"	"Unintentional"	"1"	16	57846	Unreliable
+	"Whiteside County, IL"	"17195"	"2013"	"2013"	"Unintentional"	"1"	26	57557	45.2
+	"Whiteside County, IL"	"17195"	"2014"	"2014"	"Unintentional"	"1"	23	56876	40.4
+	"Whiteside County, IL"	"17195"	"2014"	"2014"	"Suicide"	"2"	12	56876	Unreliable
+	"Whiteside County, IL"	"17195"	"2015"	"2015"	"Unintentional"	"1"	29	57079	50.8
+	"Whiteside County, IL"	"17195"	"2016"	"2016"	"Unintentional"	"1"	28	56536	49.5
+	"Whiteside County, IL"	"17195"	"2016"	"2016"	"Suicide"	"2"	12	56536	Unreliable
+	"Whiteside County, IL"	"17195"	"2017"	"2017"	"Unintentional"	"1"	20	56118	35.6
+	"Whiteside County, IL"	"17195"	"2018"	"2018"	"Unintentional"	"1"	27	55626	48.5
+	"Whiteside County, IL"	"17195"	"2018"	"2018"	"Suicide"	"2"	11	55626	Unreliable
+	"Will County, IL"	"17197"	"1999"	"1999"	"Unintentional"	"1"	103	486207	21.2
+	"Will County, IL"	"17197"	"1999"	"1999"	"Suicide"	"2"	47	486207	9.7
+	"Will County, IL"	"17197"	"1999"	"1999"	"Homicide"	"3"	16	486207	Unreliable
+	"Will County, IL"	"17197"	"2000"	"2000"	"Unintentional"	"1"	108	502266	21.5
+	"Will County, IL"	"17197"	"2000"	"2000"	"Suicide"	"2"	42	502266	8.4
+	"Will County, IL"	"17197"	"2000"	"2000"	"Homicide"	"3"	18	502266	Unreliable
+	"Will County, IL"	"17197"	"2001"	"2001"	"Unintentional"	"1"	137	530086	25.8
+	"Will County, IL"	"17197"	"2001"	"2001"	"Suicide"	"2"	54	530086	10.2
+	"Will County, IL"	"17197"	"2002"	"2002"	"Unintentional"	"1"	151	553714	27.3
+	"Will County, IL"	"17197"	"2002"	"2002"	"Suicide"	"2"	55	553714	9.9
+	"Will County, IL"	"17197"	"2002"	"2002"	"Homicide"	"3"	21	553714	3.8
+	"Will County, IL"	"17197"	"2003"	"2003"	"Unintentional"	"1"	144	579547	24.8
+	"Will County, IL"	"17197"	"2003"	"2003"	"Suicide"	"2"	41	579547	7.1
+	"Will County, IL"	"17197"	"2003"	"2003"	"Homicide"	"3"	19	579547	Unreliable
+	"Will County, IL"	"17197"	"2004"	"2004"	"Unintentional"	"1"	173	605934	28.6
+	"Will County, IL"	"17197"	"2004"	"2004"	"Suicide"	"2"	50	605934	8.3
+	"Will County, IL"	"17197"	"2004"	"2004"	"Homicide"	"3"	22	605934	3.6
+	"Will County, IL"	"17197"	"2005"	"2005"	"Unintentional"	"1"	171	627610	27.2
+	"Will County, IL"	"17197"	"2005"	"2005"	"Suicide"	"2"	56	627610	8.9
+	"Will County, IL"	"17197"	"2005"	"2005"	"Homicide"	"3"	27	627610	4.3
+	"Will County, IL"	"17197"	"2006"	"2006"	"Unintentional"	"1"	172	650779	26.4
+	"Will County, IL"	"17197"	"2006"	"2006"	"Suicide"	"2"	51	650779	7.8
+	"Will County, IL"	"17197"	"2006"	"2006"	"Homicide"	"3"	25	650779	3.8
+	"Will County, IL"	"17197"	"2007"	"2007"	"Unintentional"	"1"	152	664048	22.9
+	"Will County, IL"	"17197"	"2007"	"2007"	"Suicide"	"2"	59	664048	8.9
+	"Will County, IL"	"17197"	"2007"	"2007"	"Homicide"	"3"	19	664048	Unreliable
+	"Will County, IL"	"17197"	"2008"	"2008"	"Unintentional"	"1"	169	671392	25.2
+	"Will County, IL"	"17197"	"2008"	"2008"	"Suicide"	"2"	47	671392	7.0
+	"Will County, IL"	"17197"	"2008"	"2008"	"Homicide"	"3"	19	671392	Unreliable
+	"Will County, IL"	"17197"	"2008"	"2008"	"Undetermined "	"4"	13	671392	Unreliable
+	"Will County, IL"	"17197"	"2009"	"2009"	"Unintentional"	"1"	159	674970	23.6
+	"Will County, IL"	"17197"	"2009"	"2009"	"Suicide"	"2"	42	674970	6.2
+	"Will County, IL"	"17197"	"2009"	"2009"	"Homicide"	"3"	32	674970	4.7
+	"Will County, IL"	"17197"	"2010"	"2010"	"Unintentional"	"1"	176	677560	26.0
+	"Will County, IL"	"17197"	"2010"	"2010"	"Suicide"	"2"	55	677560	8.1
+	"Will County, IL"	"17197"	"2010"	"2010"	"Homicide"	"3"	20	677560	3.0
+	"Will County, IL"	"17197"	"2011"	"2011"	"Unintentional"	"1"	182	681545	26.7
+	"Will County, IL"	"17197"	"2011"	"2011"	"Suicide"	"2"	65	681545	9.5
+	"Will County, IL"	"17197"	"2011"	"2011"	"Homicide"	"3"	19	681545	Unreliable
+	"Will County, IL"	"17197"	"2012"	"2012"	"Unintentional"	"1"	188	682518	27.5
+	"Will County, IL"	"17197"	"2012"	"2012"	"Suicide"	"2"	68	682518	10.0
+	"Will County, IL"	"17197"	"2012"	"2012"	"Homicide"	"3"	32	682518	4.7
+	"Will County, IL"	"17197"	"2012"	"2012"	"Undetermined "	"4"	12	682518	Unreliable
+	"Will County, IL"	"17197"	"2013"	"2013"	"Unintentional"	"1"	178	682829	26.1
+	"Will County, IL"	"17197"	"2013"	"2013"	"Suicide"	"2"	69	682829	10.1
+	"Will County, IL"	"17197"	"2013"	"2013"	"Homicide"	"3"	21	682829	3.1
+	"Will County, IL"	"17197"	"2014"	"2014"	"Unintentional"	"1"	198	685419	28.9
+	"Will County, IL"	"17197"	"2014"	"2014"	"Suicide"	"2"	57	685419	8.3
+	"Will County, IL"	"17197"	"2014"	"2014"	"Homicide"	"3"	19	685419	Unreliable
+	"Will County, IL"	"17197"	"2015"	"2015"	"Unintentional"	"1"	211	687263	30.7
+	"Will County, IL"	"17197"	"2015"	"2015"	"Suicide"	"2"	70	687263	10.2
+	"Will County, IL"	"17197"	"2015"	"2015"	"Homicide"	"3"	22	687263	3.2
+	"Will County, IL"	"17197"	"2015"	"2015"	"Undetermined "	"4"	12	687263	Unreliable
+	"Will County, IL"	"17197"	"2016"	"2016"	"Unintentional"	"1"	260	689529	37.7
+	"Will County, IL"	"17197"	"2016"	"2016"	"Suicide"	"2"	75	689529	10.9
+	"Will County, IL"	"17197"	"2016"	"2016"	"Homicide"	"3"	27	689529	3.9
+	"Will County, IL"	"17197"	"2017"	"2017"	"Unintentional"	"1"	254	692661	36.7
+	"Will County, IL"	"17197"	"2017"	"2017"	"Suicide"	"2"	92	692661	13.3
+	"Will County, IL"	"17197"	"2017"	"2017"	"Homicide"	"3"	24	692661	3.5
+	"Will County, IL"	"17197"	"2018"	"2018"	"Unintentional"	"1"	251	692310	36.3
+	"Will County, IL"	"17197"	"2018"	"2018"	"Suicide"	"2"	75	692310	10.8
+	"Will County, IL"	"17197"	"2018"	"2018"	"Homicide"	"3"	19	692310	Unreliable
+	"Will County, IL"	"17197"	"2018"	"2018"	"Undetermined "	"4"	10	692310	Unreliable
+	"Williamson County, IL"	"17199"	"1999"	"1999"	"Unintentional"	"1"	33	61476	53.7
+	"Williamson County, IL"	"17199"	"2000"	"2000"	"Unintentional"	"1"	23	61296	37.5
+	"Williamson County, IL"	"17199"	"2001"	"2001"	"Unintentional"	"1"	22	61737	35.6
+	"Williamson County, IL"	"17199"	"2001"	"2001"	"Suicide"	"2"	11	61737	Unreliable
+	"Williamson County, IL"	"17199"	"2002"	"2002"	"Unintentional"	"1"	31	62137	49.9
+	"Williamson County, IL"	"17199"	"2002"	"2002"	"Suicide"	"2"	10	62137	Unreliable
+	"Williamson County, IL"	"17199"	"2003"	"2003"	"Unintentional"	"1"	28	62510	44.8
+	"Williamson County, IL"	"17199"	"2004"	"2004"	"Unintentional"	"1"	30	63379	47.3
+	"Williamson County, IL"	"17199"	"2005"	"2005"	"Unintentional"	"1"	38	63875	59.5
+	"Williamson County, IL"	"17199"	"2006"	"2006"	"Unintentional"	"1"	30	64424	46.6
+	"Williamson County, IL"	"17199"	"2007"	"2007"	"Unintentional"	"1"	48	65201	73.6
+	"Williamson County, IL"	"17199"	"2007"	"2007"	"Suicide"	"2"	11	65201	Unreliable
+	"Williamson County, IL"	"17199"	"2008"	"2008"	"Unintentional"	"1"	37	65674	56.3
+	"Williamson County, IL"	"17199"	"2008"	"2008"	"Suicide"	"2"	13	65674	Unreliable
+	"Williamson County, IL"	"17199"	"2009"	"2009"	"Unintentional"	"1"	23	66229	34.7
+	"Williamson County, IL"	"17199"	"2009"	"2009"	"Suicide"	"2"	12	66229	Unreliable
+	"Williamson County, IL"	"17199"	"2010"	"2010"	"Unintentional"	"1"	32	66357	48.2
+	"Williamson County, IL"	"17199"	"2011"	"2011"	"Unintentional"	"1"	40	66622	60.0
+	"Williamson County, IL"	"17199"	"2012"	"2012"	"Unintentional"	"1"	41	66674	61.5
+	"Williamson County, IL"	"17199"	"2012"	"2012"	"Suicide"	"2"	11	66674	Unreliable
+	"Williamson County, IL"	"17199"	"2013"	"2013"	"Unintentional"	"1"	31	66924	46.3
+	"Williamson County, IL"	"17199"	"2013"	"2013"	"Suicide"	"2"	12	66924	Unreliable
+	"Williamson County, IL"	"17199"	"2014"	"2014"	"Unintentional"	"1"	45	67008	67.2
+	"Williamson County, IL"	"17199"	"2014"	"2014"	"Suicide"	"2"	21	67008	31.3
+	"Williamson County, IL"	"17199"	"2015"	"2015"	"Unintentional"	"1"	48	67466	71.1
+	"Williamson County, IL"	"17199"	"2015"	"2015"	"Suicide"	"2"	16	67466	Unreliable
+	"Williamson County, IL"	"17199"	"2016"	"2016"	"Unintentional"	"1"	38	67560	56.2
+	"Williamson County, IL"	"17199"	"2016"	"2016"	"Suicide"	"2"	11	67560	Unreliable
+	"Williamson County, IL"	"17199"	"2017"	"2017"	"Unintentional"	"1"	41	67328	60.9
+	"Williamson County, IL"	"17199"	"2018"	"2018"	"Unintentional"	"1"	36	67056	53.7
+	"Williamson County, IL"	"17199"	"2018"	"2018"	"Suicide"	"2"	15	67056	Unreliable
+	"Winnebago County, IL"	"17201"	"1999"	"1999"	"Unintentional"	"1"	101	276752	36.5
+	"Winnebago County, IL"	"17201"	"1999"	"1999"	"Suicide"	"2"	26	276752	9.4
+	"Winnebago County, IL"	"17201"	"1999"	"1999"	"Homicide"	"3"	20	276752	7.2
+	"Winnebago County, IL"	"17201"	"2000"	"2000"	"Unintentional"	"1"	102	278418	36.6
+	"Winnebago County, IL"	"17201"	"2000"	"2000"	"Suicide"	"2"	31	278418	11.1
+	"Winnebago County, IL"	"17201"	"2000"	"2000"	"Homicide"	"3"	16	278418	Unreliable
+	"Winnebago County, IL"	"17201"	"2001"	"2001"	"Unintentional"	"1"	111	280009	39.6
+	"Winnebago County, IL"	"17201"	"2001"	"2001"	"Suicide"	"2"	33	280009	11.8
+	"Winnebago County, IL"	"17201"	"2001"	"2001"	"Homicide"	"3"	16	280009	Unreliable
+	"Winnebago County, IL"	"17201"	"2002"	"2002"	"Unintentional"	"1"	83	281162	29.5
+	"Winnebago County, IL"	"17201"	"2002"	"2002"	"Suicide"	"2"	28	281162	10.0
+	"Winnebago County, IL"	"17201"	"2002"	"2002"	"Homicide"	"3"	20	281162	7.1
+	"Winnebago County, IL"	"17201"	"2003"	"2003"	"Unintentional"	"1"	123	283230	43.4
+	"Winnebago County, IL"	"17201"	"2003"	"2003"	"Suicide"	"2"	25	283230	8.8
+	"Winnebago County, IL"	"17201"	"2003"	"2003"	"Homicide"	"3"	10	283230	Unreliable
+	"Winnebago County, IL"	"17201"	"2004"	"2004"	"Unintentional"	"1"	120	284337	42.2
+	"Winnebago County, IL"	"17201"	"2004"	"2004"	"Suicide"	"2"	29	284337	10.2
+	"Winnebago County, IL"	"17201"	"2004"	"2004"	"Homicide"	"3"	13	284337	Unreliable
+	"Winnebago County, IL"	"17201"	"2005"	"2005"	"Unintentional"	"1"	124	286178	43.3
+	"Winnebago County, IL"	"17201"	"2005"	"2005"	"Suicide"	"2"	33	286178	11.5
+	"Winnebago County, IL"	"17201"	"2005"	"2005"	"Homicide"	"3"	29	286178	10.1
+	"Winnebago County, IL"	"17201"	"2006"	"2006"	"Unintentional"	"1"	107	289405	37.0
+	"Winnebago County, IL"	"17201"	"2006"	"2006"	"Suicide"	"2"	32	289405	11.1
+	"Winnebago County, IL"	"17201"	"2006"	"2006"	"Homicide"	"3"	16	289405	Unreliable
+	"Winnebago County, IL"	"17201"	"2007"	"2007"	"Unintentional"	"1"	124	293991	42.2
+	"Winnebago County, IL"	"17201"	"2007"	"2007"	"Suicide"	"2"	24	293991	8.2
+	"Winnebago County, IL"	"17201"	"2007"	"2007"	"Homicide"	"3"	22	293991	7.5
+	"Winnebago County, IL"	"17201"	"2008"	"2008"	"Unintentional"	"1"	144	295726	48.7
+	"Winnebago County, IL"	"17201"	"2008"	"2008"	"Suicide"	"2"	25	295726	8.5
+	"Winnebago County, IL"	"17201"	"2008"	"2008"	"Homicide"	"3"	19	295726	Unreliable
+	"Winnebago County, IL"	"17201"	"2009"	"2009"	"Unintentional"	"1"	140	295612	47.4
+	"Winnebago County, IL"	"17201"	"2009"	"2009"	"Suicide"	"2"	34	295612	11.5
+	"Winnebago County, IL"	"17201"	"2009"	"2009"	"Homicide"	"3"	19	295612	Unreliable
+	"Winnebago County, IL"	"17201"	"2010"	"2010"	"Unintentional"	"1"	133	295266	45.0
+	"Winnebago County, IL"	"17201"	"2010"	"2010"	"Suicide"	"2"	33	295266	11.2
+	"Winnebago County, IL"	"17201"	"2010"	"2010"	"Homicide"	"3"	19	295266	Unreliable
+	"Winnebago County, IL"	"17201"	"2011"	"2011"	"Unintentional"	"1"	125	293993	42.5
+	"Winnebago County, IL"	"17201"	"2011"	"2011"	"Suicide"	"2"	27	293993	9.2
+	"Winnebago County, IL"	"17201"	"2011"	"2011"	"Homicide"	"3"	19	293993	Unreliable
+	"Winnebago County, IL"	"17201"	"2012"	"2012"	"Unintentional"	"1"	177	292069	60.6
+	"Winnebago County, IL"	"17201"	"2012"	"2012"	"Suicide"	"2"	39	292069	13.4
+	"Winnebago County, IL"	"17201"	"2012"	"2012"	"Homicide"	"3"	14	292069	Unreliable
+	"Winnebago County, IL"	"17201"	"2013"	"2013"	"Unintentional"	"1"	192	290666	66.1
+	"Winnebago County, IL"	"17201"	"2013"	"2013"	"Suicide"	"2"	38	290666	13.1
+	"Winnebago County, IL"	"17201"	"2013"	"2013"	"Homicide"	"3"	24	290666	8.3
+	"Winnebago County, IL"	"17201"	"2014"	"2014"	"Unintentional"	"1"	167	288542	57.9
+	"Winnebago County, IL"	"17201"	"2014"	"2014"	"Suicide"	"2"	42	288542	14.6
+	"Winnebago County, IL"	"17201"	"2014"	"2014"	"Homicide"	"3"	24	288542	8.3
+	"Winnebago County, IL"	"17201"	"2015"	"2015"	"Unintentional"	"1"	191	287078	66.5
+	"Winnebago County, IL"	"17201"	"2015"	"2015"	"Suicide"	"2"	40	287078	13.9
+	"Winnebago County, IL"	"17201"	"2015"	"2015"	"Homicide"	"3"	26	287078	9.1
+	"Winnebago County, IL"	"17201"	"2016"	"2016"	"Unintentional"	"1"	209	285873	73.1
+	"Winnebago County, IL"	"17201"	"2016"	"2016"	"Suicide"	"2"	43	285873	15.0
+	"Winnebago County, IL"	"17201"	"2016"	"2016"	"Homicide"	"3"	28	285873	9.8
+	"Winnebago County, IL"	"17201"	"2017"	"2017"	"Unintentional"	"1"	196	284778	68.8
+	"Winnebago County, IL"	"17201"	"2017"	"2017"	"Suicide"	"2"	36	284778	12.6
+	"Winnebago County, IL"	"17201"	"2017"	"2017"	"Homicide"	"3"	20	284778	7.0
+	"Winnebago County, IL"	"17201"	"2018"	"2018"	"Unintentional"	"1"	242	284081	85.2
+	"Winnebago County, IL"	"17201"	"2018"	"2018"	"Suicide"	"2"	47	284081	16.5
+	"Winnebago County, IL"	"17201"	"2018"	"2018"	"Homicide"	"3"	31	284081	10.9
+	"Woodford County, IL"	"17203"	"1999"	"1999"	"Unintentional"	"1"	17	35449	Unreliable
+	"Woodford County, IL"	"17203"	"2001"	"2001"	"Unintentional"	"1"	13	35559	Unreliable
+	"Woodford County, IL"	"17203"	"2004"	"2004"	"Unintentional"	"1"	15	36514	Unreliable
+	"Woodford County, IL"	"17203"	"2008"	"2008"	"Unintentional"	"1"	15	38452	Unreliable
+	"Woodford County, IL"	"17203"	"2009"	"2009"	"Unintentional"	"1"	16	38675	Unreliable
+	"Woodford County, IL"	"17203"	"2010"	"2010"	"Unintentional"	"1"	14	38664	Unreliable
+	"Woodford County, IL"	"17203"	"2011"	"2011"	"Unintentional"	"1"	11	38861	Unreliable
+	"Woodford County, IL"	"17203"	"2012"	"2012"	"Unintentional"	"1"	14	38971	Unreliable
+	"Woodford County, IL"	"17203"	"2013"	"2013"	"Unintentional"	"1"	16	39273	Unreliable
+	"Woodford County, IL"	"17203"	"2014"	"2014"	"Unintentional"	"1"	22	39187	56.1
+	"Woodford County, IL"	"17203"	"2015"	"2015"	"Unintentional"	"1"	16	39227	Unreliable
+	"Woodford County, IL"	"17203"	"2015"	"2015"	"Suicide"	"2"	13	39227	Unreliable
+	"Woodford County, IL"	"17203"	"2016"	"2016"	"Suicide"	"2"	12	39140	Unreliable
+	"Woodford County, IL"	"17203"	"2017"	"2017"	"Unintentional"	"1"	16	38726	Unreliable
+	"Woodford County, IL"	"17203"	"2018"	"2018"	"Unintentional"	"1"	18	38463	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Illinois"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Illinois (17)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:34:19 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:34:19 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

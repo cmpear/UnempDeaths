@@ -1,0 +1,1323 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Arkansas County, AR"	"05001"	"2000"	"2000"	"Unintentional"	"1"	10	20749	Unreliable
+	"Arkansas County, AR"	"05001"	"2001"	"2001"	"Unintentional"	"1"	20	20593	97.1
+	"Arkansas County, AR"	"05001"	"2003"	"2003"	"Unintentional"	"1"	17	19981	Unreliable
+	"Arkansas County, AR"	"05001"	"2005"	"2005"	"Unintentional"	"1"	17	19954	Unreliable
+	"Arkansas County, AR"	"05001"	"2009"	"2009"	"Unintentional"	"1"	14	19134	Unreliable
+	"Arkansas County, AR"	"05001"	"2010"	"2010"	"Unintentional"	"1"	19	19019	Unreliable
+	"Arkansas County, AR"	"05001"	"2011"	"2011"	"Unintentional"	"1"	12	18892	Unreliable
+	"Arkansas County, AR"	"05001"	"2012"	"2012"	"Unintentional"	"1"	12	18892	Unreliable
+	"Arkansas County, AR"	"05001"	"2014"	"2014"	"Unintentional"	"1"	12	18594	Unreliable
+	"Arkansas County, AR"	"05001"	"2015"	"2015"	"Unintentional"	"1"	17	18433	Unreliable
+	"Arkansas County, AR"	"05001"	"2016"	"2016"	"Unintentional"	"1"	14	18214	Unreliable
+	"Arkansas County, AR"	"05001"	"2017"	"2017"	"Unintentional"	"1"	14	17967	Unreliable
+	"Arkansas County, AR"	"05001"	"2018"	"2018"	"Unintentional"	"1"	10	17769	Unreliable
+	"Ashley County, AR"	"05003"	"1999"	"1999"	"Unintentional"	"1"	12	24261	Unreliable
+	"Ashley County, AR"	"05003"	"2000"	"2000"	"Unintentional"	"1"	14	24209	Unreliable
+	"Ashley County, AR"	"05003"	"2001"	"2001"	"Unintentional"	"1"	23	23824	96.5
+	"Ashley County, AR"	"05003"	"2002"	"2002"	"Unintentional"	"1"	13	23745	Unreliable
+	"Ashley County, AR"	"05003"	"2004"	"2004"	"Unintentional"	"1"	15	23156	Unreliable
+	"Ashley County, AR"	"05003"	"2005"	"2005"	"Unintentional"	"1"	11	22770	Unreliable
+	"Ashley County, AR"	"05003"	"2006"	"2006"	"Unintentional"	"1"	15	22501	Unreliable
+	"Ashley County, AR"	"05003"	"2007"	"2007"	"Unintentional"	"1"	16	22229	Unreliable
+	"Ashley County, AR"	"05003"	"2008"	"2008"	"Unintentional"	"1"	18	22148	Unreliable
+	"Ashley County, AR"	"05003"	"2009"	"2009"	"Unintentional"	"1"	16	21920	Unreliable
+	"Ashley County, AR"	"05003"	"2010"	"2010"	"Unintentional"	"1"	15	21853	Unreliable
+	"Ashley County, AR"	"05003"	"2011"	"2011"	"Unintentional"	"1"	18	21692	Unreliable
+	"Ashley County, AR"	"05003"	"2012"	"2012"	"Unintentional"	"1"	14	21524	Unreliable
+	"Ashley County, AR"	"05003"	"2013"	"2013"	"Unintentional"	"1"	12	21283	Unreliable
+	"Ashley County, AR"	"05003"	"2015"	"2015"	"Unintentional"	"1"	17	20838	Unreliable
+	"Ashley County, AR"	"05003"	"2018"	"2018"	"Unintentional"	"1"	17	20046	Unreliable
+	"Baxter County, AR"	"05005"	"1999"	"1999"	"Unintentional"	"1"	25	38055	65.7
+	"Baxter County, AR"	"05005"	"2000"	"2000"	"Unintentional"	"1"	27	38386	70.3
+	"Baxter County, AR"	"05005"	"2001"	"2001"	"Unintentional"	"1"	20	38331	52.2
+	"Baxter County, AR"	"05005"	"2001"	"2001"	"Suicide"	"2"	11	38331	Unreliable
+	"Baxter County, AR"	"05005"	"2002"	"2002"	"Unintentional"	"1"	21	38506	54.5
+	"Baxter County, AR"	"05005"	"2002"	"2002"	"Suicide"	"2"	11	38506	Unreliable
+	"Baxter County, AR"	"05005"	"2003"	"2003"	"Unintentional"	"1"	27	38772	69.6
+	"Baxter County, AR"	"05005"	"2004"	"2004"	"Unintentional"	"1"	31	39334	78.8
+	"Baxter County, AR"	"05005"	"2005"	"2005"	"Unintentional"	"1"	31	39992	77.5
+	"Baxter County, AR"	"05005"	"2005"	"2005"	"Suicide"	"2"	10	39992	Unreliable
+	"Baxter County, AR"	"05005"	"2006"	"2006"	"Unintentional"	"1"	34	40867	83.2
+	"Baxter County, AR"	"05005"	"2007"	"2007"	"Unintentional"	"1"	22	41491	53.0
+	"Baxter County, AR"	"05005"	"2007"	"2007"	"Suicide"	"2"	11	41491	Unreliable
+	"Baxter County, AR"	"05005"	"2008"	"2008"	"Unintentional"	"1"	28	41519	67.4
+	"Baxter County, AR"	"05005"	"2009"	"2009"	"Unintentional"	"1"	33	41561	79.4
+	"Baxter County, AR"	"05005"	"2009"	"2009"	"Suicide"	"2"	12	41561	Unreliable
+	"Baxter County, AR"	"05005"	"2010"	"2010"	"Unintentional"	"1"	20	41513	48.2
+	"Baxter County, AR"	"05005"	"2010"	"2010"	"Suicide"	"2"	15	41513	Unreliable
+	"Baxter County, AR"	"05005"	"2011"	"2011"	"Unintentional"	"1"	33	41536	79.4
+	"Baxter County, AR"	"05005"	"2012"	"2012"	"Unintentional"	"1"	28	41048	68.2
+	"Baxter County, AR"	"05005"	"2012"	"2012"	"Suicide"	"2"	13	41048	Unreliable
+	"Baxter County, AR"	"05005"	"2013"	"2013"	"Unintentional"	"1"	22	40957	53.7
+	"Baxter County, AR"	"05005"	"2013"	"2013"	"Suicide"	"2"	16	40957	Unreliable
+	"Baxter County, AR"	"05005"	"2014"	"2014"	"Unintentional"	"1"	24	40857	58.7
+	"Baxter County, AR"	"05005"	"2015"	"2015"	"Unintentional"	"1"	33	41053	80.4
+	"Baxter County, AR"	"05005"	"2015"	"2015"	"Suicide"	"2"	17	41053	Unreliable
+	"Baxter County, AR"	"05005"	"2016"	"2016"	"Unintentional"	"1"	28	41062	68.2
+	"Baxter County, AR"	"05005"	"2016"	"2016"	"Suicide"	"2"	15	41062	Unreliable
+	"Baxter County, AR"	"05005"	"2017"	"2017"	"Unintentional"	"1"	20	41355	48.4
+	"Baxter County, AR"	"05005"	"2018"	"2018"	"Unintentional"	"1"	23	41619	55.3
+	"Baxter County, AR"	"05005"	"2018"	"2018"	"Suicide"	"2"	14	41619	Unreliable
+	"Benton County, AR"	"05007"	"1999"	"1999"	"Unintentional"	"1"	52	148636	35.0
+	"Benton County, AR"	"05007"	"1999"	"1999"	"Suicide"	"2"	20	148636	13.5
+	"Benton County, AR"	"05007"	"2000"	"2000"	"Unintentional"	"1"	52	153406	33.9
+	"Benton County, AR"	"05007"	"2000"	"2000"	"Suicide"	"2"	19	153406	Unreliable
+	"Benton County, AR"	"05007"	"2001"	"2001"	"Unintentional"	"1"	69	159258	43.3
+	"Benton County, AR"	"05007"	"2001"	"2001"	"Suicide"	"2"	24	159258	15.1
+	"Benton County, AR"	"05007"	"2002"	"2002"	"Unintentional"	"1"	54	164926	32.7
+	"Benton County, AR"	"05007"	"2002"	"2002"	"Suicide"	"2"	19	164926	Unreliable
+	"Benton County, AR"	"05007"	"2003"	"2003"	"Unintentional"	"1"	61	171742	35.5
+	"Benton County, AR"	"05007"	"2003"	"2003"	"Suicide"	"2"	21	171742	12.2
+	"Benton County, AR"	"05007"	"2004"	"2004"	"Unintentional"	"1"	49	179010	27.4
+	"Benton County, AR"	"05007"	"2004"	"2004"	"Suicide"	"2"	16	179010	Unreliable
+	"Benton County, AR"	"05007"	"2005"	"2005"	"Unintentional"	"1"	49	186756	26.2
+	"Benton County, AR"	"05007"	"2005"	"2005"	"Suicide"	"2"	28	186756	15.0
+	"Benton County, AR"	"05007"	"2006"	"2006"	"Unintentional"	"1"	75	195569	38.3
+	"Benton County, AR"	"05007"	"2006"	"2006"	"Suicide"	"2"	22	195569	11.2
+	"Benton County, AR"	"05007"	"2007"	"2007"	"Unintentional"	"1"	83	203664	40.8
+	"Benton County, AR"	"05007"	"2007"	"2007"	"Suicide"	"2"	26	203664	12.8
+	"Benton County, AR"	"05007"	"2008"	"2008"	"Unintentional"	"1"	79	210807	37.5
+	"Benton County, AR"	"05007"	"2008"	"2008"	"Suicide"	"2"	32	210807	15.2
+	"Benton County, AR"	"05007"	"2009"	"2009"	"Unintentional"	"1"	79	216620	36.5
+	"Benton County, AR"	"05007"	"2009"	"2009"	"Suicide"	"2"	29	216620	13.4
+	"Benton County, AR"	"05007"	"2010"	"2010"	"Unintentional"	"1"	96	221339	43.4
+	"Benton County, AR"	"05007"	"2010"	"2010"	"Suicide"	"2"	32	221339	14.5
+	"Benton County, AR"	"05007"	"2010"	"2010"	"Undetermined "	"4"	10	221339	Unreliable
+	"Benton County, AR"	"05007"	"2011"	"2011"	"Unintentional"	"1"	91	227556	40.0
+	"Benton County, AR"	"05007"	"2011"	"2011"	"Suicide"	"2"	34	227556	14.9
+	"Benton County, AR"	"05007"	"2012"	"2012"	"Unintentional"	"1"	95	232268	40.9
+	"Benton County, AR"	"05007"	"2012"	"2012"	"Suicide"	"2"	29	232268	12.5
+	"Benton County, AR"	"05007"	"2013"	"2013"	"Unintentional"	"1"	74	237297	31.2
+	"Benton County, AR"	"05007"	"2013"	"2013"	"Suicide"	"2"	34	237297	14.3
+	"Benton County, AR"	"05007"	"2014"	"2014"	"Unintentional"	"1"	102	242321	42.1
+	"Benton County, AR"	"05007"	"2014"	"2014"	"Suicide"	"2"	37	242321	15.3
+	"Benton County, AR"	"05007"	"2015"	"2015"	"Unintentional"	"1"	94	249672	37.6
+	"Benton County, AR"	"05007"	"2015"	"2015"	"Suicide"	"2"	49	249672	19.6
+	"Benton County, AR"	"05007"	"2015"	"2015"	"Undetermined "	"4"	10	249672	Unreliable
+	"Benton County, AR"	"05007"	"2016"	"2016"	"Unintentional"	"1"	111	258291	43.0
+	"Benton County, AR"	"05007"	"2016"	"2016"	"Suicide"	"2"	42	258291	16.3
+	"Benton County, AR"	"05007"	"2017"	"2017"	"Unintentional"	"1"	99	266300	37.2
+	"Benton County, AR"	"05007"	"2017"	"2017"	"Suicide"	"2"	63	266300	23.7
+	"Benton County, AR"	"05007"	"2018"	"2018"	"Unintentional"	"1"	91	272608	33.4
+	"Benton County, AR"	"05007"	"2018"	"2018"	"Suicide"	"2"	35	272608	12.8
+	"Boone County, AR"	"05009"	"1999"	"1999"	"Unintentional"	"1"	11	33436	Unreliable
+	"Boone County, AR"	"05009"	"2000"	"2000"	"Unintentional"	"1"	22	33948	64.8
+	"Boone County, AR"	"05009"	"2001"	"2001"	"Unintentional"	"1"	13	34258	Unreliable
+	"Boone County, AR"	"05009"	"2002"	"2002"	"Unintentional"	"1"	15	34448	Unreliable
+	"Boone County, AR"	"05009"	"2003"	"2003"	"Unintentional"	"1"	22	34554	63.7
+	"Boone County, AR"	"05009"	"2004"	"2004"	"Unintentional"	"1"	19	34900	Unreliable
+	"Boone County, AR"	"05009"	"2005"	"2005"	"Unintentional"	"1"	17	35492	Unreliable
+	"Boone County, AR"	"05009"	"2006"	"2006"	"Unintentional"	"1"	24	36056	66.6
+	"Boone County, AR"	"05009"	"2006"	"2006"	"Suicide"	"2"	11	36056	Unreliable
+	"Boone County, AR"	"05009"	"2007"	"2007"	"Unintentional"	"1"	12	36759	Unreliable
+	"Boone County, AR"	"05009"	"2008"	"2008"	"Unintentional"	"1"	23	36974	62.2
+	"Boone County, AR"	"05009"	"2009"	"2009"	"Unintentional"	"1"	21	36844	57.0
+	"Boone County, AR"	"05009"	"2010"	"2010"	"Unintentional"	"1"	15	36903	Unreliable
+	"Boone County, AR"	"05009"	"2011"	"2011"	"Unintentional"	"1"	17	37051	Unreliable
+	"Boone County, AR"	"05009"	"2012"	"2012"	"Unintentional"	"1"	22	37327	58.9
+	"Boone County, AR"	"05009"	"2013"	"2013"	"Unintentional"	"1"	13	37396	Unreliable
+	"Boone County, AR"	"05009"	"2013"	"2013"	"Suicide"	"2"	15	37396	Unreliable
+	"Boone County, AR"	"05009"	"2014"	"2014"	"Unintentional"	"1"	16	37196	Unreliable
+	"Boone County, AR"	"05009"	"2015"	"2015"	"Unintentional"	"1"	28	37222	75.2
+	"Boone County, AR"	"05009"	"2016"	"2016"	"Unintentional"	"1"	16	37304	Unreliable
+	"Boone County, AR"	"05009"	"2017"	"2017"	"Unintentional"	"1"	13	37381	Unreliable
+	"Boone County, AR"	"05009"	"2017"	"2017"	"Suicide"	"2"	13	37381	Unreliable
+	"Boone County, AR"	"05009"	"2018"	"2018"	"Unintentional"	"1"	22	37480	58.7
+	"Bradley County, AR"	"05011"	"1999"	"1999"	"Unintentional"	"1"	10	12518	Unreliable
+	"Bradley County, AR"	"05011"	"2001"	"2001"	"Unintentional"	"1"	16	12427	Unreliable
+	"Bradley County, AR"	"05011"	"2004"	"2004"	"Unintentional"	"1"	11	12107	Unreliable
+	"Bradley County, AR"	"05011"	"2007"	"2007"	"Unintentional"	"1"	10	11737	Unreliable
+	"Bradley County, AR"	"05011"	"2013"	"2013"	"Unintentional"	"1"	11	11249	Unreliable
+	"Bradley County, AR"	"05011"	"2014"	"2014"	"Unintentional"	"1"	10	11148	Unreliable
+	"Carroll County, AR"	"05015"	"1999"	"1999"	"Unintentional"	"1"	16	25062	Unreliable
+	"Carroll County, AR"	"05015"	"2000"	"2000"	"Unintentional"	"1"	15	25357	Unreliable
+	"Carroll County, AR"	"05015"	"2002"	"2002"	"Unintentional"	"1"	14	25796	Unreliable
+	"Carroll County, AR"	"05015"	"2003"	"2003"	"Unintentional"	"1"	15	26033	Unreliable
+	"Carroll County, AR"	"05015"	"2004"	"2004"	"Unintentional"	"1"	16	26052	Unreliable
+	"Carroll County, AR"	"05015"	"2005"	"2005"	"Unintentional"	"1"	12	26435	Unreliable
+	"Carroll County, AR"	"05015"	"2006"	"2006"	"Unintentional"	"1"	22	26615	82.7
+	"Carroll County, AR"	"05015"	"2007"	"2007"	"Unintentional"	"1"	12	26699	Unreliable
+	"Carroll County, AR"	"05015"	"2008"	"2008"	"Unintentional"	"1"	22	26822	82.0
+	"Carroll County, AR"	"05015"	"2009"	"2009"	"Unintentional"	"1"	21	27158	77.3
+	"Carroll County, AR"	"05015"	"2010"	"2010"	"Unintentional"	"1"	24	27446	87.4
+	"Carroll County, AR"	"05015"	"2011"	"2011"	"Unintentional"	"1"	28	27512	101.8
+	"Carroll County, AR"	"05015"	"2012"	"2012"	"Unintentional"	"1"	14	27610	Unreliable
+	"Carroll County, AR"	"05015"	"2013"	"2013"	"Unintentional"	"1"	17	27808	Unreliable
+	"Carroll County, AR"	"05015"	"2015"	"2015"	"Unintentional"	"1"	31	27704	111.9
+	"Carroll County, AR"	"05015"	"2016"	"2016"	"Unintentional"	"1"	19	27646	Unreliable
+	"Carroll County, AR"	"05015"	"2017"	"2017"	"Unintentional"	"1"	18	27944	Unreliable
+	"Carroll County, AR"	"05015"	"2018"	"2018"	"Unintentional"	"1"	25	28223	88.6
+	"Chicot County, AR"	"05017"	"1999"	"1999"	"Unintentional"	"1"	10	14265	Unreliable
+	"Chicot County, AR"	"05017"	"2002"	"2002"	"Unintentional"	"1"	12	13382	Unreliable
+	"Chicot County, AR"	"05017"	"2003"	"2003"	"Unintentional"	"1"	13	13173	Unreliable
+	"Chicot County, AR"	"05017"	"2005"	"2005"	"Unintentional"	"1"	11	12729	Unreliable
+	"Chicot County, AR"	"05017"	"2008"	"2008"	"Unintentional"	"1"	11	12050	Unreliable
+	"Chicot County, AR"	"05017"	"2009"	"2009"	"Unintentional"	"1"	13	11851	Unreliable
+	"Chicot County, AR"	"05017"	"2015"	"2015"	"Unintentional"	"1"	14	11027	Unreliable
+	"Clark County, AR"	"05019"	"1999"	"1999"	"Unintentional"	"1"	19	23490	Unreliable
+	"Clark County, AR"	"05019"	"2000"	"2000"	"Unintentional"	"1"	18	23546	Unreliable
+	"Clark County, AR"	"05019"	"2002"	"2002"	"Unintentional"	"1"	17	23334	Unreliable
+	"Clark County, AR"	"05019"	"2003"	"2003"	"Unintentional"	"1"	11	23032	Unreliable
+	"Clark County, AR"	"05019"	"2004"	"2004"	"Unintentional"	"1"	15	22904	Unreliable
+	"Clark County, AR"	"05019"	"2006"	"2006"	"Unintentional"	"1"	13	22924	Unreliable
+	"Clark County, AR"	"05019"	"2007"	"2007"	"Unintentional"	"1"	10	23139	Unreliable
+	"Clark County, AR"	"05019"	"2008"	"2008"	"Unintentional"	"1"	13	23272	Unreliable
+	"Clark County, AR"	"05019"	"2009"	"2009"	"Unintentional"	"1"	13	23100	Unreliable
+	"Clark County, AR"	"05019"	"2011"	"2011"	"Unintentional"	"1"	15	22858	Unreliable
+	"Clark County, AR"	"05019"	"2012"	"2012"	"Unintentional"	"1"	12	22936	Unreliable
+	"Clark County, AR"	"05019"	"2013"	"2013"	"Unintentional"	"1"	12	22743	Unreliable
+	"Clark County, AR"	"05019"	"2015"	"2015"	"Unintentional"	"1"	13	22633	Unreliable
+	"Clark County, AR"	"05019"	"2016"	"2016"	"Unintentional"	"1"	11	22657	Unreliable
+	"Clark County, AR"	"05019"	"2017"	"2017"	"Unintentional"	"1"	14	22293	Unreliable
+	"Clay County, AR"	"05021"	"2000"	"2000"	"Unintentional"	"1"	22	17609	124.9
+	"Clay County, AR"	"05021"	"2001"	"2001"	"Unintentional"	"1"	12	17307	Unreliable
+	"Clay County, AR"	"05021"	"2002"	"2002"	"Unintentional"	"1"	14	17083	Unreliable
+	"Clay County, AR"	"05021"	"2003"	"2003"	"Unintentional"	"1"	13	16951	Unreliable
+	"Clay County, AR"	"05021"	"2004"	"2004"	"Unintentional"	"1"	14	16827	Unreliable
+	"Clay County, AR"	"05021"	"2005"	"2005"	"Unintentional"	"1"	14	16790	Unreliable
+	"Clay County, AR"	"05021"	"2006"	"2006"	"Unintentional"	"1"	10	16679	Unreliable
+	"Clay County, AR"	"05021"	"2007"	"2007"	"Unintentional"	"1"	12	16464	Unreliable
+	"Clay County, AR"	"05021"	"2008"	"2008"	"Unintentional"	"1"	10	16209	Unreliable
+	"Clay County, AR"	"05021"	"2011"	"2011"	"Unintentional"	"1"	15	15880	Unreliable
+	"Clay County, AR"	"05021"	"2012"	"2012"	"Unintentional"	"1"	10	15684	Unreliable
+	"Clay County, AR"	"05021"	"2015"	"2015"	"Unintentional"	"1"	20	15109	132.4
+	"Clay County, AR"	"05021"	"2017"	"2017"	"Unintentional"	"1"	17	14920	Unreliable
+	"Clay County, AR"	"05021"	"2018"	"2018"	"Unintentional"	"1"	16	14847	Unreliable
+	"Cleburne County, AR"	"05023"	"1999"	"1999"	"Unintentional"	"1"	12	23806	Unreliable
+	"Cleburne County, AR"	"05023"	"2000"	"2000"	"Unintentional"	"1"	12	24046	Unreliable
+	"Cleburne County, AR"	"05023"	"2001"	"2001"	"Unintentional"	"1"	12	24204	Unreliable
+	"Cleburne County, AR"	"05023"	"2002"	"2002"	"Unintentional"	"1"	16	24375	Unreliable
+	"Cleburne County, AR"	"05023"	"2003"	"2003"	"Unintentional"	"1"	17	24711	Unreliable
+	"Cleburne County, AR"	"05023"	"2004"	"2004"	"Unintentional"	"1"	10	25018	Unreliable
+	"Cleburne County, AR"	"05023"	"2005"	"2005"	"Unintentional"	"1"	16	25274	Unreliable
+	"Cleburne County, AR"	"05023"	"2006"	"2006"	"Unintentional"	"1"	21	25430	82.6
+	"Cleburne County, AR"	"05023"	"2007"	"2007"	"Unintentional"	"1"	12	25545	Unreliable
+	"Cleburne County, AR"	"05023"	"2008"	"2008"	"Unintentional"	"1"	17	25623	Unreliable
+	"Cleburne County, AR"	"05023"	"2010"	"2010"	"Unintentional"	"1"	20	25970	77.0
+	"Cleburne County, AR"	"05023"	"2011"	"2011"	"Unintentional"	"1"	24	25901	92.7
+	"Cleburne County, AR"	"05023"	"2012"	"2012"	"Unintentional"	"1"	17	25808	Unreliable
+	"Cleburne County, AR"	"05023"	"2013"	"2013"	"Unintentional"	"1"	23	25686	89.5
+	"Cleburne County, AR"	"05023"	"2014"	"2014"	"Unintentional"	"1"	13	25634	Unreliable
+	"Cleburne County, AR"	"05023"	"2015"	"2015"	"Unintentional"	"1"	20	25467	78.5
+	"Cleburne County, AR"	"05023"	"2016"	"2016"	"Unintentional"	"1"	13	25264	Unreliable
+	"Cleburne County, AR"	"05023"	"2017"	"2017"	"Unintentional"	"1"	22	25048	87.8
+	"Cleburne County, AR"	"05023"	"2018"	"2018"	"Unintentional"	"1"	18	24965	Unreliable
+	"Columbia County, AR"	"05027"	"1999"	"1999"	"Unintentional"	"1"	17	25614	Unreliable
+	"Columbia County, AR"	"05027"	"2000"	"2000"	"Unintentional"	"1"	18	25603	Unreliable
+	"Columbia County, AR"	"05027"	"2002"	"2002"	"Unintentional"	"1"	16	25362	Unreliable
+	"Columbia County, AR"	"05027"	"2003"	"2003"	"Unintentional"	"1"	17	25106	Unreliable
+	"Columbia County, AR"	"05027"	"2004"	"2004"	"Unintentional"	"1"	13	25154	Unreliable
+	"Columbia County, AR"	"05027"	"2005"	"2005"	"Unintentional"	"1"	11	25025	Unreliable
+	"Columbia County, AR"	"05027"	"2006"	"2006"	"Unintentional"	"1"	10	25133	Unreliable
+	"Columbia County, AR"	"05027"	"2008"	"2008"	"Unintentional"	"1"	14	24666	Unreliable
+	"Columbia County, AR"	"05027"	"2009"	"2009"	"Unintentional"	"1"	11	24622	Unreliable
+	"Columbia County, AR"	"05027"	"2010"	"2010"	"Unintentional"	"1"	16	24552	Unreliable
+	"Columbia County, AR"	"05027"	"2011"	"2011"	"Unintentional"	"1"	11	24401	Unreliable
+	"Columbia County, AR"	"05027"	"2012"	"2012"	"Unintentional"	"1"	18	24473	Unreliable
+	"Columbia County, AR"	"05027"	"2013"	"2013"	"Unintentional"	"1"	16	24164	Unreliable
+	"Columbia County, AR"	"05027"	"2014"	"2014"	"Unintentional"	"1"	16	23933	Unreliable
+	"Columbia County, AR"	"05027"	"2015"	"2015"	"Unintentional"	"1"	19	24114	Unreliable
+	"Columbia County, AR"	"05027"	"2016"	"2016"	"Unintentional"	"1"	12	23901	Unreliable
+	"Conway County, AR"	"05029"	"1999"	"1999"	"Unintentional"	"1"	12	20275	Unreliable
+	"Conway County, AR"	"05029"	"2000"	"2000"	"Unintentional"	"1"	16	20336	Unreliable
+	"Conway County, AR"	"05029"	"2003"	"2003"	"Unintentional"	"1"	11	20461	Unreliable
+	"Conway County, AR"	"05029"	"2004"	"2004"	"Unintentional"	"1"	14	20519	Unreliable
+	"Conway County, AR"	"05029"	"2005"	"2005"	"Unintentional"	"1"	10	20683	Unreliable
+	"Conway County, AR"	"05029"	"2006"	"2006"	"Unintentional"	"1"	10	20753	Unreliable
+	"Conway County, AR"	"05029"	"2007"	"2007"	"Unintentional"	"1"	12	20992	Unreliable
+	"Conway County, AR"	"05029"	"2008"	"2008"	"Unintentional"	"1"	19	21025	Unreliable
+	"Conway County, AR"	"05029"	"2009"	"2009"	"Unintentional"	"1"	17	21257	Unreliable
+	"Conway County, AR"	"05029"	"2010"	"2010"	"Unintentional"	"1"	21	21273	98.7
+	"Conway County, AR"	"05029"	"2011"	"2011"	"Unintentional"	"1"	11	21270	Unreliable
+	"Conway County, AR"	"05029"	"2012"	"2012"	"Unintentional"	"1"	22	21287	103.3
+	"Conway County, AR"	"05029"	"2013"	"2013"	"Unintentional"	"1"	13	21245	Unreliable
+	"Conway County, AR"	"05029"	"2014"	"2014"	"Unintentional"	"1"	15	21083	Unreliable
+	"Conway County, AR"	"05029"	"2015"	"2015"	"Unintentional"	"1"	15	21019	Unreliable
+	"Conway County, AR"	"05029"	"2015"	"2015"	"Suicide"	"2"	11	21019	Unreliable
+	"Conway County, AR"	"05029"	"2016"	"2016"	"Unintentional"	"1"	15	20937	Unreliable
+	"Conway County, AR"	"05029"	"2017"	"2017"	"Unintentional"	"1"	10	20916	Unreliable
+	"Conway County, AR"	"05029"	"2018"	"2018"	"Unintentional"	"1"	11	20891	Unreliable
+	"Craighead County, AR"	"05031"	"1999"	"1999"	"Unintentional"	"1"	41	81038	50.6
+	"Craighead County, AR"	"05031"	"2000"	"2000"	"Unintentional"	"1"	31	82148	37.7
+	"Craighead County, AR"	"05031"	"2000"	"2000"	"Suicide"	"2"	11	82148	Unreliable
+	"Craighead County, AR"	"05031"	"2001"	"2001"	"Unintentional"	"1"	29	83276	34.8
+	"Craighead County, AR"	"05031"	"2001"	"2001"	"Suicide"	"2"	13	83276	Unreliable
+	"Craighead County, AR"	"05031"	"2002"	"2002"	"Unintentional"	"1"	37	83978	44.1
+	"Craighead County, AR"	"05031"	"2002"	"2002"	"Suicide"	"2"	15	83978	Unreliable
+	"Craighead County, AR"	"05031"	"2003"	"2003"	"Unintentional"	"1"	34	85000	40.0
+	"Craighead County, AR"	"05031"	"2004"	"2004"	"Unintentional"	"1"	47	86331	54.4
+	"Craighead County, AR"	"05031"	"2004"	"2004"	"Suicide"	"2"	11	86331	Unreliable
+	"Craighead County, AR"	"05031"	"2005"	"2005"	"Unintentional"	"1"	38	87512	43.4
+	"Craighead County, AR"	"05031"	"2005"	"2005"	"Suicide"	"2"	10	87512	Unreliable
+	"Craighead County, AR"	"05031"	"2006"	"2006"	"Unintentional"	"1"	55	89725	61.3
+	"Craighead County, AR"	"05031"	"2006"	"2006"	"Suicide"	"2"	21	89725	23.4
+	"Craighead County, AR"	"05031"	"2007"	"2007"	"Unintentional"	"1"	50	91350	54.7
+	"Craighead County, AR"	"05031"	"2008"	"2008"	"Unintentional"	"1"	65	93316	69.7
+	"Craighead County, AR"	"05031"	"2008"	"2008"	"Suicide"	"2"	11	93316	Unreliable
+	"Craighead County, AR"	"05031"	"2009"	"2009"	"Unintentional"	"1"	57	95482	59.7
+	"Craighead County, AR"	"05031"	"2009"	"2009"	"Suicide"	"2"	11	95482	Unreliable
+	"Craighead County, AR"	"05031"	"2010"	"2010"	"Unintentional"	"1"	53	96443	55.0
+	"Craighead County, AR"	"05031"	"2010"	"2010"	"Suicide"	"2"	11	96443	Unreliable
+	"Craighead County, AR"	"05031"	"2011"	"2011"	"Unintentional"	"1"	46	98315	46.8
+	"Craighead County, AR"	"05031"	"2011"	"2011"	"Suicide"	"2"	12	98315	Unreliable
+	"Craighead County, AR"	"05031"	"2012"	"2012"	"Unintentional"	"1"	45	99735	45.1
+	"Craighead County, AR"	"05031"	"2013"	"2013"	"Unintentional"	"1"	38	101488	37.4
+	"Craighead County, AR"	"05031"	"2013"	"2013"	"Suicide"	"2"	23	101488	22.7
+	"Craighead County, AR"	"05031"	"2014"	"2014"	"Unintentional"	"1"	45	102518	43.9
+	"Craighead County, AR"	"05031"	"2014"	"2014"	"Suicide"	"2"	16	102518	Unreliable
+	"Craighead County, AR"	"05031"	"2015"	"2015"	"Unintentional"	"1"	48	104354	46.0
+	"Craighead County, AR"	"05031"	"2015"	"2015"	"Suicide"	"2"	18	104354	Unreliable
+	"Craighead County, AR"	"05031"	"2016"	"2016"	"Unintentional"	"1"	50	105835	47.2
+	"Craighead County, AR"	"05031"	"2016"	"2016"	"Suicide"	"2"	20	105835	18.9
+	"Craighead County, AR"	"05031"	"2017"	"2017"	"Unintentional"	"1"	49	107115	45.7
+	"Craighead County, AR"	"05031"	"2017"	"2017"	"Suicide"	"2"	18	107115	Unreliable
+	"Craighead County, AR"	"05031"	"2018"	"2018"	"Unintentional"	"1"	49	108558	45.1
+	"Craighead County, AR"	"05031"	"2018"	"2018"	"Suicide"	"2"	16	108558	Unreliable
+	"Crawford County, AR"	"05033"	"1999"	"1999"	"Unintentional"	"1"	30	52708	56.9
+	"Crawford County, AR"	"05033"	"2000"	"2000"	"Unintentional"	"1"	23	53247	43.2
+	"Crawford County, AR"	"05033"	"2001"	"2001"	"Unintentional"	"1"	16	54273	Unreliable
+	"Crawford County, AR"	"05033"	"2002"	"2002"	"Unintentional"	"1"	12	55026	Unreliable
+	"Crawford County, AR"	"05033"	"2002"	"2002"	"Suicide"	"2"	16	55026	Unreliable
+	"Crawford County, AR"	"05033"	"2003"	"2003"	"Unintentional"	"1"	17	55836	Unreliable
+	"Crawford County, AR"	"05033"	"2004"	"2004"	"Unintentional"	"1"	26	56832	45.7
+	"Crawford County, AR"	"05033"	"2005"	"2005"	"Unintentional"	"1"	37	57779	64.0
+	"Crawford County, AR"	"05033"	"2006"	"2006"	"Unintentional"	"1"	26	59126	44.0
+	"Crawford County, AR"	"05033"	"2007"	"2007"	"Unintentional"	"1"	22	60210	36.5
+	"Crawford County, AR"	"05033"	"2008"	"2008"	"Unintentional"	"1"	30	60933	49.2
+	"Crawford County, AR"	"05033"	"2009"	"2009"	"Unintentional"	"1"	26	61595	42.2
+	"Crawford County, AR"	"05033"	"2010"	"2010"	"Unintentional"	"1"	29	61948	46.8
+	"Crawford County, AR"	"05033"	"2011"	"2011"	"Unintentional"	"1"	37	61944	59.7
+	"Crawford County, AR"	"05033"	"2011"	"2011"	"Suicide"	"2"	14	61944	Unreliable
+	"Crawford County, AR"	"05033"	"2012"	"2012"	"Unintentional"	"1"	33	61946	53.3
+	"Crawford County, AR"	"05033"	"2012"	"2012"	"Suicide"	"2"	11	61946	Unreliable
+	"Crawford County, AR"	"05033"	"2013"	"2013"	"Unintentional"	"1"	25	61640	40.6
+	"Crawford County, AR"	"05033"	"2013"	"2013"	"Suicide"	"2"	13	61640	Unreliable
+	"Crawford County, AR"	"05033"	"2014"	"2014"	"Unintentional"	"1"	19	61697	Unreliable
+	"Crawford County, AR"	"05033"	"2014"	"2014"	"Suicide"	"2"	11	61697	Unreliable
+	"Crawford County, AR"	"05033"	"2015"	"2015"	"Unintentional"	"1"	27	61703	43.8
+	"Crawford County, AR"	"05033"	"2015"	"2015"	"Suicide"	"2"	18	61703	Unreliable
+	"Crawford County, AR"	"05033"	"2016"	"2016"	"Unintentional"	"1"	23	62267	36.9
+	"Crawford County, AR"	"05033"	"2016"	"2016"	"Suicide"	"2"	11	62267	Unreliable
+	"Crawford County, AR"	"05033"	"2017"	"2017"	"Unintentional"	"1"	30	62996	47.6
+	"Crawford County, AR"	"05033"	"2017"	"2017"	"Suicide"	"2"	15	62996	Unreliable
+	"Crawford County, AR"	"05033"	"2018"	"2018"	"Unintentional"	"1"	27	63406	42.6
+	"Crawford County, AR"	"05033"	"2018"	"2018"	"Suicide"	"2"	16	63406	Unreliable
+	"Crittenden County, AR"	"05035"	"1999"	"1999"	"Unintentional"	"1"	31	50530	61.3
+	"Crittenden County, AR"	"05035"	"2000"	"2000"	"Unintentional"	"1"	25	50866	49.1
+	"Crittenden County, AR"	"05035"	"2000"	"2000"	"Homicide"	"3"	11	50866	Unreliable
+	"Crittenden County, AR"	"05035"	"2001"	"2001"	"Unintentional"	"1"	26	50919	51.1
+	"Crittenden County, AR"	"05035"	"2001"	"2001"	"Suicide"	"2"	11	50919	Unreliable
+	"Crittenden County, AR"	"05035"	"2002"	"2002"	"Unintentional"	"1"	23	50622	45.4
+	"Crittenden County, AR"	"05035"	"2003"	"2003"	"Unintentional"	"1"	27	50252	53.7
+	"Crittenden County, AR"	"05035"	"2004"	"2004"	"Unintentional"	"1"	18	50266	Unreliable
+	"Crittenden County, AR"	"05035"	"2005"	"2005"	"Unintentional"	"1"	19	50244	Unreliable
+	"Crittenden County, AR"	"05035"	"2005"	"2005"	"Suicide"	"2"	10	50244	Unreliable
+	"Crittenden County, AR"	"05035"	"2005"	"2005"	"Homicide"	"3"	13	50244	Unreliable
+	"Crittenden County, AR"	"05035"	"2006"	"2006"	"Unintentional"	"1"	25	50360	49.6
+	"Crittenden County, AR"	"05035"	"2007"	"2007"	"Unintentional"	"1"	25	50438	49.6
+	"Crittenden County, AR"	"05035"	"2007"	"2007"	"Homicide"	"3"	10	50438	Unreliable
+	"Crittenden County, AR"	"05035"	"2008"	"2008"	"Unintentional"	"1"	15	50699	Unreliable
+	"Crittenden County, AR"	"05035"	"2009"	"2009"	"Unintentional"	"1"	18	50929	Unreliable
+	"Crittenden County, AR"	"05035"	"2010"	"2010"	"Unintentional"	"1"	19	50902	Unreliable
+	"Crittenden County, AR"	"05035"	"2011"	"2011"	"Unintentional"	"1"	22	50525	43.5
+	"Crittenden County, AR"	"05035"	"2012"	"2012"	"Unintentional"	"1"	24	50021	48.0
+	"Crittenden County, AR"	"05035"	"2013"	"2013"	"Unintentional"	"1"	21	49746	42.2
+	"Crittenden County, AR"	"05035"	"2014"	"2014"	"Unintentional"	"1"	20	49548	40.4
+	"Crittenden County, AR"	"05035"	"2015"	"2015"	"Unintentional"	"1"	21	48963	42.9
+	"Crittenden County, AR"	"05035"	"2016"	"2016"	"Unintentional"	"1"	26	49235	52.8
+	"Crittenden County, AR"	"05035"	"2016"	"2016"	"Homicide"	"3"	16	49235	Unreliable
+	"Crittenden County, AR"	"05035"	"2017"	"2017"	"Unintentional"	"1"	39	48750	80.0
+	"Crittenden County, AR"	"05035"	"2018"	"2018"	"Unintentional"	"1"	38	48342	78.6
+	"Crittenden County, AR"	"05035"	"2018"	"2018"	"Homicide"	"3"	17	48342	Unreliable
+	"Cross County, AR"	"05037"	"2000"	"2000"	"Unintentional"	"1"	11	19526	Unreliable
+	"Cross County, AR"	"05037"	"2001"	"2001"	"Unintentional"	"1"	13	19382	Unreliable
+	"Cross County, AR"	"05037"	"2002"	"2002"	"Unintentional"	"1"	22	19106	115.1
+	"Cross County, AR"	"05037"	"2005"	"2005"	"Unintentional"	"1"	15	18883	Unreliable
+	"Cross County, AR"	"05037"	"2007"	"2007"	"Unintentional"	"1"	12	18172	Unreliable
+	"Cross County, AR"	"05037"	"2008"	"2008"	"Unintentional"	"1"	13	18200	Unreliable
+	"Cross County, AR"	"05037"	"2009"	"2009"	"Unintentional"	"1"	12	17971	Unreliable
+	"Cross County, AR"	"05037"	"2011"	"2011"	"Unintentional"	"1"	10	17781	Unreliable
+	"Cross County, AR"	"05037"	"2012"	"2012"	"Unintentional"	"1"	13	17683	Unreliable
+	"Cross County, AR"	"05037"	"2013"	"2013"	"Unintentional"	"1"	11	17548	Unreliable
+	"Cross County, AR"	"05037"	"2014"	"2014"	"Unintentional"	"1"	10	17227	Unreliable
+	"Cross County, AR"	"05037"	"2017"	"2017"	"Unintentional"	"1"	14	16863	Unreliable
+	"Cross County, AR"	"05037"	"2018"	"2018"	"Unintentional"	"1"	14	16676	Unreliable
+	"Dallas County, AR"	"05039"	"2006"	"2006"	"Unintentional"	"1"	12	8477	Unreliable
+	"Desha County, AR"	"05041"	"2002"	"2002"	"Unintentional"	"1"	12	14583	Unreliable
+	"Desha County, AR"	"05041"	"2003"	"2003"	"Unintentional"	"1"	10	14405	Unreliable
+	"Desha County, AR"	"05041"	"2009"	"2009"	"Unintentional"	"1"	12	13108	Unreliable
+	"Desha County, AR"	"05041"	"2012"	"2012"	"Unintentional"	"1"	16	12545	Unreliable
+	"Drew County, AR"	"05043"	"1999"	"1999"	"Unintentional"	"1"	11	18683	Unreliable
+	"Drew County, AR"	"05043"	"2000"	"2000"	"Unintentional"	"1"	12	18723	Unreliable
+	"Drew County, AR"	"05043"	"2002"	"2002"	"Unintentional"	"1"	14	18410	Unreliable
+	"Drew County, AR"	"05043"	"2003"	"2003"	"Unintentional"	"1"	11	18537	Unreliable
+	"Drew County, AR"	"05043"	"2005"	"2005"	"Unintentional"	"1"	14	18618	Unreliable
+	"Drew County, AR"	"05043"	"2007"	"2007"	"Unintentional"	"1"	14	18535	Unreliable
+	"Drew County, AR"	"05043"	"2008"	"2008"	"Unintentional"	"1"	10	18481	Unreliable
+	"Drew County, AR"	"05043"	"2010"	"2010"	"Unintentional"	"1"	10	18509	Unreliable
+	"Drew County, AR"	"05043"	"2013"	"2013"	"Unintentional"	"1"	11	18785	Unreliable
+	"Drew County, AR"	"05043"	"2014"	"2014"	"Unintentional"	"1"	10	18622	Unreliable
+	"Faulkner County, AR"	"05045"	"1999"	"1999"	"Unintentional"	"1"	29	84633	34.3
+	"Faulkner County, AR"	"05045"	"2000"	"2000"	"Unintentional"	"1"	30	86014	34.9
+	"Faulkner County, AR"	"05045"	"2000"	"2000"	"Suicide"	"2"	10	86014	Unreliable
+	"Faulkner County, AR"	"05045"	"2001"	"2001"	"Unintentional"	"1"	26	88830	29.3
+	"Faulkner County, AR"	"05045"	"2002"	"2002"	"Unintentional"	"1"	35	90624	38.6
+	"Faulkner County, AR"	"05045"	"2003"	"2003"	"Unintentional"	"1"	45	93618	48.1
+	"Faulkner County, AR"	"05045"	"2003"	"2003"	"Suicide"	"2"	11	93618	Unreliable
+	"Faulkner County, AR"	"05045"	"2004"	"2004"	"Unintentional"	"1"	40	96162	41.6
+	"Faulkner County, AR"	"05045"	"2004"	"2004"	"Suicide"	"2"	14	96162	Unreliable
+	"Faulkner County, AR"	"05045"	"2005"	"2005"	"Unintentional"	"1"	37	99192	37.3
+	"Faulkner County, AR"	"05045"	"2005"	"2005"	"Suicide"	"2"	16	99192	Unreliable
+	"Faulkner County, AR"	"05045"	"2006"	"2006"	"Unintentional"	"1"	46	102969	44.7
+	"Faulkner County, AR"	"05045"	"2006"	"2006"	"Suicide"	"2"	12	102969	Unreliable
+	"Faulkner County, AR"	"05045"	"2007"	"2007"	"Unintentional"	"1"	44	105637	41.7
+	"Faulkner County, AR"	"05045"	"2008"	"2008"	"Unintentional"	"1"	47	108477	43.3
+	"Faulkner County, AR"	"05045"	"2008"	"2008"	"Suicide"	"2"	18	108477	Unreliable
+	"Faulkner County, AR"	"05045"	"2009"	"2009"	"Unintentional"	"1"	32	110813	28.9
+	"Faulkner County, AR"	"05045"	"2009"	"2009"	"Suicide"	"2"	13	110813	Unreliable
+	"Faulkner County, AR"	"05045"	"2010"	"2010"	"Unintentional"	"1"	57	113237	50.3
+	"Faulkner County, AR"	"05045"	"2010"	"2010"	"Suicide"	"2"	14	113237	Unreliable
+	"Faulkner County, AR"	"05045"	"2011"	"2011"	"Unintentional"	"1"	47	116342	40.4
+	"Faulkner County, AR"	"05045"	"2011"	"2011"	"Suicide"	"2"	15	116342	Unreliable
+	"Faulkner County, AR"	"05045"	"2012"	"2012"	"Unintentional"	"1"	48	118704	40.4
+	"Faulkner County, AR"	"05045"	"2012"	"2012"	"Suicide"	"2"	13	118704	Unreliable
+	"Faulkner County, AR"	"05045"	"2013"	"2013"	"Unintentional"	"1"	44	119580	36.8
+	"Faulkner County, AR"	"05045"	"2013"	"2013"	"Suicide"	"2"	16	119580	Unreliable
+	"Faulkner County, AR"	"05045"	"2014"	"2014"	"Unintentional"	"1"	62	120768	51.3
+	"Faulkner County, AR"	"05045"	"2014"	"2014"	"Suicide"	"2"	18	120768	Unreliable
+	"Faulkner County, AR"	"05045"	"2015"	"2015"	"Unintentional"	"1"	50	121552	41.1
+	"Faulkner County, AR"	"05045"	"2015"	"2015"	"Suicide"	"2"	20	121552	16.5
+	"Faulkner County, AR"	"05045"	"2016"	"2016"	"Unintentional"	"1"	49	122227	40.1
+	"Faulkner County, AR"	"05045"	"2016"	"2016"	"Suicide"	"2"	23	122227	18.8
+	"Faulkner County, AR"	"05045"	"2017"	"2017"	"Unintentional"	"1"	46	123654	37.2
+	"Faulkner County, AR"	"05045"	"2017"	"2017"	"Suicide"	"2"	18	123654	Unreliable
+	"Faulkner County, AR"	"05045"	"2018"	"2018"	"Unintentional"	"1"	60	124806	48.1
+	"Faulkner County, AR"	"05045"	"2018"	"2018"	"Suicide"	"2"	26	124806	20.8
+	"Franklin County, AR"	"05047"	"1999"	"1999"	"Unintentional"	"1"	19	17779	Unreliable
+	"Franklin County, AR"	"05047"	"2002"	"2002"	"Unintentional"	"1"	10	17856	Unreliable
+	"Franklin County, AR"	"05047"	"2008"	"2008"	"Unintentional"	"1"	12	18229	Unreliable
+	"Franklin County, AR"	"05047"	"2011"	"2011"	"Unintentional"	"1"	21	18047	116.4
+	"Franklin County, AR"	"05047"	"2011"	"2011"	"Suicide"	"2"	10	18047	Unreliable
+	"Franklin County, AR"	"05047"	"2012"	"2012"	"Unintentional"	"1"	18	18045	Unreliable
+	"Franklin County, AR"	"05047"	"2014"	"2014"	"Unintentional"	"1"	19	17805	Unreliable
+	"Franklin County, AR"	"05047"	"2016"	"2016"	"Unintentional"	"1"	13	17626	Unreliable
+	"Fulton County, AR"	"05049"	"2001"	"2001"	"Unintentional"	"1"	12	11676	Unreliable
+	"Fulton County, AR"	"05049"	"2007"	"2007"	"Unintentional"	"1"	13	12354	Unreliable
+	"Fulton County, AR"	"05049"	"2012"	"2012"	"Unintentional"	"1"	11	12318	Unreliable
+	"Fulton County, AR"	"05049"	"2017"	"2017"	"Unintentional"	"1"	11	12055	Unreliable
+	"Garland County, AR"	"05051"	"1999"	"1999"	"Unintentional"	"1"	56	87177	64.2
+	"Garland County, AR"	"05051"	"1999"	"1999"	"Suicide"	"2"	16	87177	Unreliable
+	"Garland County, AR"	"05051"	"2000"	"2000"	"Unintentional"	"1"	29	88068	32.9
+	"Garland County, AR"	"05051"	"2000"	"2000"	"Suicide"	"2"	17	88068	Unreliable
+	"Garland County, AR"	"05051"	"2001"	"2001"	"Unintentional"	"1"	59	89032	66.3
+	"Garland County, AR"	"05051"	"2001"	"2001"	"Suicide"	"2"	15	89032	Unreliable
+	"Garland County, AR"	"05051"	"2002"	"2002"	"Unintentional"	"1"	49	89630	54.7
+	"Garland County, AR"	"05051"	"2002"	"2002"	"Suicide"	"2"	17	89630	Unreliable
+	"Garland County, AR"	"05051"	"2003"	"2003"	"Unintentional"	"1"	65	90483	71.8
+	"Garland County, AR"	"05051"	"2003"	"2003"	"Suicide"	"2"	24	90483	26.5
+	"Garland County, AR"	"05051"	"2004"	"2004"	"Unintentional"	"1"	61	91084	67.0
+	"Garland County, AR"	"05051"	"2004"	"2004"	"Suicide"	"2"	14	91084	Unreliable
+	"Garland County, AR"	"05051"	"2004"	"2004"	"Homicide"	"3"	11	91084	Unreliable
+	"Garland County, AR"	"05051"	"2005"	"2005"	"Unintentional"	"1"	77	92096	83.6
+	"Garland County, AR"	"05051"	"2005"	"2005"	"Suicide"	"2"	30	92096	32.6
+	"Garland County, AR"	"05051"	"2005"	"2005"	"Homicide"	"3"	10	92096	Unreliable
+	"Garland County, AR"	"05051"	"2006"	"2006"	"Unintentional"	"1"	44	94077	46.8
+	"Garland County, AR"	"05051"	"2006"	"2006"	"Suicide"	"2"	18	94077	Unreliable
+	"Garland County, AR"	"05051"	"2006"	"2006"	"Undetermined "	"4"	10	94077	Unreliable
+	"Garland County, AR"	"05051"	"2007"	"2007"	"Unintentional"	"1"	62	94753	65.4
+	"Garland County, AR"	"05051"	"2007"	"2007"	"Suicide"	"2"	21	94753	22.2
+	"Garland County, AR"	"05051"	"2007"	"2007"	"Homicide"	"3"	11	94753	Unreliable
+	"Garland County, AR"	"05051"	"2007"	"2007"	"Undetermined "	"4"	16	94753	Unreliable
+	"Garland County, AR"	"05051"	"2008"	"2008"	"Unintentional"	"1"	52	95636	54.4
+	"Garland County, AR"	"05051"	"2008"	"2008"	"Suicide"	"2"	26	95636	27.2
+	"Garland County, AR"	"05051"	"2008"	"2008"	"Undetermined "	"4"	12	95636	Unreliable
+	"Garland County, AR"	"05051"	"2009"	"2009"	"Unintentional"	"1"	59	95840	61.6
+	"Garland County, AR"	"05051"	"2009"	"2009"	"Suicide"	"2"	29	95840	30.3
+	"Garland County, AR"	"05051"	"2009"	"2009"	"Homicide"	"3"	13	95840	Unreliable
+	"Garland County, AR"	"05051"	"2009"	"2009"	"Undetermined "	"4"	15	95840	Unreliable
+	"Garland County, AR"	"05051"	"2010"	"2010"	"Unintentional"	"1"	62	96024	64.6
+	"Garland County, AR"	"05051"	"2010"	"2010"	"Suicide"	"2"	25	96024	26.0
+	"Garland County, AR"	"05051"	"2010"	"2010"	"Homicide"	"3"	11	96024	Unreliable
+	"Garland County, AR"	"05051"	"2010"	"2010"	"Undetermined "	"4"	14	96024	Unreliable
+	"Garland County, AR"	"05051"	"2011"	"2011"	"Unintentional"	"1"	75	97124	77.2
+	"Garland County, AR"	"05051"	"2011"	"2011"	"Suicide"	"2"	22	97124	22.7
+	"Garland County, AR"	"05051"	"2011"	"2011"	"Undetermined "	"4"	12	97124	Unreliable
+	"Garland County, AR"	"05051"	"2012"	"2012"	"Unintentional"	"1"	68	96903	70.2
+	"Garland County, AR"	"05051"	"2012"	"2012"	"Suicide"	"2"	26	96903	26.8
+	"Garland County, AR"	"05051"	"2012"	"2012"	"Homicide"	"3"	11	96903	Unreliable
+	"Garland County, AR"	"05051"	"2012"	"2012"	"Undetermined "	"4"	11	96903	Unreliable
+	"Garland County, AR"	"05051"	"2013"	"2013"	"Unintentional"	"1"	74	97173	76.2
+	"Garland County, AR"	"05051"	"2013"	"2013"	"Suicide"	"2"	23	97173	23.7
+	"Garland County, AR"	"05051"	"2013"	"2013"	"Homicide"	"3"	10	97173	Unreliable
+	"Garland County, AR"	"05051"	"2014"	"2014"	"Unintentional"	"1"	77	97322	79.1
+	"Garland County, AR"	"05051"	"2014"	"2014"	"Suicide"	"2"	37	97322	38.0
+	"Garland County, AR"	"05051"	"2015"	"2015"	"Unintentional"	"1"	82	97177	84.4
+	"Garland County, AR"	"05051"	"2015"	"2015"	"Suicide"	"2"	36	97177	37.0
+	"Garland County, AR"	"05051"	"2016"	"2016"	"Unintentional"	"1"	81	97477	83.1
+	"Garland County, AR"	"05051"	"2016"	"2016"	"Suicide"	"2"	18	97477	Unreliable
+	"Garland County, AR"	"05051"	"2017"	"2017"	"Unintentional"	"1"	89	98658	90.2
+	"Garland County, AR"	"05051"	"2017"	"2017"	"Suicide"	"2"	33	98658	33.4
+	"Garland County, AR"	"05051"	"2017"	"2017"	"Homicide"	"3"	11	98658	Unreliable
+	"Garland County, AR"	"05051"	"2018"	"2018"	"Unintentional"	"1"	68	99154	68.6
+	"Garland County, AR"	"05051"	"2018"	"2018"	"Suicide"	"2"	23	99154	23.2
+	"Grant County, AR"	"05053"	"2010"	"2010"	"Unintentional"	"1"	18	17853	Unreliable
+	"Grant County, AR"	"05053"	"2011"	"2011"	"Unintentional"	"1"	10	17988	Unreliable
+	"Grant County, AR"	"05053"	"2013"	"2013"	"Unintentional"	"1"	13	18019	Unreliable
+	"Grant County, AR"	"05053"	"2014"	"2014"	"Unintentional"	"1"	11	18144	Unreliable
+	"Grant County, AR"	"05053"	"2016"	"2016"	"Unintentional"	"1"	11	18082	Unreliable
+	"Grant County, AR"	"05053"	"2017"	"2017"	"Unintentional"	"1"	11	18165	Unreliable
+	"Greene County, AR"	"05055"	"1999"	"1999"	"Suicide"	"2"	10	36881	Unreliable
+	"Greene County, AR"	"05055"	"2000"	"2000"	"Unintentional"	"1"	24	37331	64.3
+	"Greene County, AR"	"05055"	"2001"	"2001"	"Unintentional"	"1"	26	37934	68.5
+	"Greene County, AR"	"05055"	"2002"	"2002"	"Unintentional"	"1"	24	38229	62.8
+	"Greene County, AR"	"05055"	"2003"	"2003"	"Unintentional"	"1"	16	38604	Unreliable
+	"Greene County, AR"	"05055"	"2003"	"2003"	"Suicide"	"2"	10	38604	Unreliable
+	"Greene County, AR"	"05055"	"2004"	"2004"	"Unintentional"	"1"	20	39046	51.2
+	"Greene County, AR"	"05055"	"2005"	"2005"	"Unintentional"	"1"	25	39599	63.1
+	"Greene County, AR"	"05055"	"2006"	"2006"	"Unintentional"	"1"	23	40469	56.8
+	"Greene County, AR"	"05055"	"2007"	"2007"	"Unintentional"	"1"	28	40918	68.4
+	"Greene County, AR"	"05055"	"2008"	"2008"	"Unintentional"	"1"	26	41286	63.0
+	"Greene County, AR"	"05055"	"2009"	"2009"	"Unintentional"	"1"	24	41723	57.5
+	"Greene County, AR"	"05055"	"2010"	"2010"	"Unintentional"	"1"	17	42090	Unreliable
+	"Greene County, AR"	"05055"	"2011"	"2011"	"Unintentional"	"1"	26	42720	60.9
+	"Greene County, AR"	"05055"	"2012"	"2012"	"Unintentional"	"1"	33	43163	76.5
+	"Greene County, AR"	"05055"	"2012"	"2012"	"Suicide"	"2"	14	43163	Unreliable
+	"Greene County, AR"	"05055"	"2013"	"2013"	"Unintentional"	"1"	25	43097	58.0
+	"Greene County, AR"	"05055"	"2013"	"2013"	"Suicide"	"2"	12	43097	Unreliable
+	"Greene County, AR"	"05055"	"2014"	"2014"	"Unintentional"	"1"	27	43694	61.8
+	"Greene County, AR"	"05055"	"2015"	"2015"	"Unintentional"	"1"	31	44196	70.1
+	"Greene County, AR"	"05055"	"2015"	"2015"	"Suicide"	"2"	13	44196	Unreliable
+	"Greene County, AR"	"05055"	"2016"	"2016"	"Unintentional"	"1"	17	44598	Unreliable
+	"Greene County, AR"	"05055"	"2016"	"2016"	"Suicide"	"2"	14	44598	Unreliable
+	"Greene County, AR"	"05055"	"2017"	"2017"	"Unintentional"	"1"	28	45053	62.1
+	"Greene County, AR"	"05055"	"2017"	"2017"	"Suicide"	"2"	14	45053	Unreliable
+	"Greene County, AR"	"05055"	"2018"	"2018"	"Unintentional"	"1"	24	45325	53.0
+	"Greene County, AR"	"05055"	"2018"	"2018"	"Suicide"	"2"	14	45325	Unreliable
+	"Hempstead County, AR"	"05057"	"2000"	"2000"	"Unintentional"	"1"	16	23587	Unreliable
+	"Hempstead County, AR"	"05057"	"2001"	"2001"	"Unintentional"	"1"	20	23318	85.8
+	"Hempstead County, AR"	"05057"	"2002"	"2002"	"Unintentional"	"1"	17	23199	Unreliable
+	"Hempstead County, AR"	"05057"	"2003"	"2003"	"Unintentional"	"1"	18	23090	Unreliable
+	"Hempstead County, AR"	"05057"	"2004"	"2004"	"Unintentional"	"1"	15	22971	Unreliable
+	"Hempstead County, AR"	"05057"	"2006"	"2006"	"Unintentional"	"1"	10	22957	Unreliable
+	"Hempstead County, AR"	"05057"	"2007"	"2007"	"Unintentional"	"1"	18	22918	Unreliable
+	"Hempstead County, AR"	"05057"	"2008"	"2008"	"Unintentional"	"1"	16	22624	Unreliable
+	"Hempstead County, AR"	"05057"	"2010"	"2010"	"Unintentional"	"1"	13	22609	Unreliable
+	"Hempstead County, AR"	"05057"	"2011"	"2011"	"Unintentional"	"1"	14	22541	Unreliable
+	"Hempstead County, AR"	"05057"	"2012"	"2012"	"Unintentional"	"1"	21	22373	93.9
+	"Hempstead County, AR"	"05057"	"2013"	"2013"	"Unintentional"	"1"	16	22474	Unreliable
+	"Hempstead County, AR"	"05057"	"2014"	"2014"	"Unintentional"	"1"	11	22327	Unreliable
+	"Hempstead County, AR"	"05057"	"2015"	"2015"	"Unintentional"	"1"	13	22084	Unreliable
+	"Hempstead County, AR"	"05057"	"2018"	"2018"	"Unintentional"	"1"	12	21741	Unreliable
+	"Hot Spring County, AR"	"05059"	"1999"	"1999"	"Unintentional"	"1"	15	30155	Unreliable
+	"Hot Spring County, AR"	"05059"	"2000"	"2000"	"Unintentional"	"1"	14	30353	Unreliable
+	"Hot Spring County, AR"	"05059"	"2001"	"2001"	"Unintentional"	"1"	21	30615	68.6
+	"Hot Spring County, AR"	"05059"	"2002"	"2002"	"Unintentional"	"1"	19	30877	Unreliable
+	"Hot Spring County, AR"	"05059"	"2003"	"2003"	"Unintentional"	"1"	12	30821	Unreliable
+	"Hot Spring County, AR"	"05059"	"2004"	"2004"	"Unintentional"	"1"	13	31071	Unreliable
+	"Hot Spring County, AR"	"05059"	"2005"	"2005"	"Unintentional"	"1"	20	31565	63.4
+	"Hot Spring County, AR"	"05059"	"2006"	"2006"	"Unintentional"	"1"	20	32248	62.0
+	"Hot Spring County, AR"	"05059"	"2007"	"2007"	"Unintentional"	"1"	19	32631	Unreliable
+	"Hot Spring County, AR"	"05059"	"2008"	"2008"	"Unintentional"	"1"	27	32737	82.5
+	"Hot Spring County, AR"	"05059"	"2009"	"2009"	"Unintentional"	"1"	16	32797	Unreliable
+	"Hot Spring County, AR"	"05059"	"2010"	"2010"	"Unintentional"	"1"	22	32923	66.8
+	"Hot Spring County, AR"	"05059"	"2011"	"2011"	"Unintentional"	"1"	13	32881	Unreliable
+	"Hot Spring County, AR"	"05059"	"2012"	"2012"	"Unintentional"	"1"	26	33394	77.9
+	"Hot Spring County, AR"	"05059"	"2013"	"2013"	"Unintentional"	"1"	22	33500	65.7
+	"Hot Spring County, AR"	"05059"	"2013"	"2013"	"Suicide"	"2"	10	33500	Unreliable
+	"Hot Spring County, AR"	"05059"	"2014"	"2014"	"Unintentional"	"1"	21	33368	62.9
+	"Hot Spring County, AR"	"05059"	"2015"	"2015"	"Unintentional"	"1"	29	33426	86.8
+	"Hot Spring County, AR"	"05059"	"2015"	"2015"	"Suicide"	"2"	11	33426	Unreliable
+	"Hot Spring County, AR"	"05059"	"2016"	"2016"	"Unintentional"	"1"	23	33374	68.9
+	"Hot Spring County, AR"	"05059"	"2017"	"2017"	"Unintentional"	"1"	30	33574	89.4
+	"Hot Spring County, AR"	"05059"	"2017"	"2017"	"Suicide"	"2"	15	33574	Unreliable
+	"Hot Spring County, AR"	"05059"	"2018"	"2018"	"Unintentional"	"1"	18	33701	Unreliable
+	"Hot Spring County, AR"	"05059"	"2018"	"2018"	"Suicide"	"2"	10	33701	Unreliable
+	"Howard County, AR"	"05061"	"1999"	"1999"	"Unintentional"	"1"	13	14371	Unreliable
+	"Howard County, AR"	"05061"	"2001"	"2001"	"Unintentional"	"1"	10	14146	Unreliable
+	"Howard County, AR"	"05061"	"2003"	"2003"	"Unintentional"	"1"	12	14098	Unreliable
+	"Howard County, AR"	"05061"	"2004"	"2004"	"Unintentional"	"1"	12	13991	Unreliable
+	"Howard County, AR"	"05061"	"2011"	"2011"	"Unintentional"	"1"	14	13886	Unreliable
+	"Howard County, AR"	"05061"	"2017"	"2017"	"Unintentional"	"1"	10	13478	Unreliable
+	"Independence County, AR"	"05063"	"1999"	"1999"	"Unintentional"	"1"	23	33951	67.7
+	"Independence County, AR"	"05063"	"1999"	"1999"	"Suicide"	"2"	11	33951	Unreliable
+	"Independence County, AR"	"05063"	"2000"	"2000"	"Unintentional"	"1"	21	34233	61.3
+	"Independence County, AR"	"05063"	"2001"	"2001"	"Unintentional"	"1"	10	34374	Unreliable
+	"Independence County, AR"	"05063"	"2003"	"2003"	"Unintentional"	"1"	22	34652	63.5
+	"Independence County, AR"	"05063"	"2004"	"2004"	"Unintentional"	"1"	22	34989	62.9
+	"Independence County, AR"	"05063"	"2005"	"2005"	"Unintentional"	"1"	14	35155	Unreliable
+	"Independence County, AR"	"05063"	"2006"	"2006"	"Unintentional"	"1"	19	35426	Unreliable
+	"Independence County, AR"	"05063"	"2007"	"2007"	"Unintentional"	"1"	27	35690	75.7
+	"Independence County, AR"	"05063"	"2008"	"2008"	"Unintentional"	"1"	27	35859	75.3
+	"Independence County, AR"	"05063"	"2009"	"2009"	"Unintentional"	"1"	34	36259	93.8
+	"Independence County, AR"	"05063"	"2010"	"2010"	"Unintentional"	"1"	24	36647	65.5
+	"Independence County, AR"	"05063"	"2011"	"2011"	"Unintentional"	"1"	16	36861	Unreliable
+	"Independence County, AR"	"05063"	"2012"	"2012"	"Unintentional"	"1"	17	37025	Unreliable
+	"Independence County, AR"	"05063"	"2013"	"2013"	"Unintentional"	"1"	20	36997	54.1
+	"Independence County, AR"	"05063"	"2014"	"2014"	"Unintentional"	"1"	27	36959	73.1
+	"Independence County, AR"	"05063"	"2015"	"2015"	"Unintentional"	"1"	17	37052	Unreliable
+	"Independence County, AR"	"05063"	"2016"	"2016"	"Unintentional"	"1"	18	37168	Unreliable
+	"Independence County, AR"	"05063"	"2017"	"2017"	"Unintentional"	"1"	21	37504	56.0
+	"Independence County, AR"	"05063"	"2017"	"2017"	"Suicide"	"2"	11	37504	Unreliable
+	"Independence County, AR"	"05063"	"2018"	"2018"	"Unintentional"	"1"	15	37678	Unreliable
+	"Izard County, AR"	"05065"	"1999"	"1999"	"Unintentional"	"1"	10	13145	Unreliable
+	"Izard County, AR"	"05065"	"2003"	"2003"	"Unintentional"	"1"	13	13467	Unreliable
+	"Izard County, AR"	"05065"	"2008"	"2008"	"Unintentional"	"1"	16	13681	Unreliable
+	"Izard County, AR"	"05065"	"2009"	"2009"	"Unintentional"	"1"	10	13679	Unreliable
+	"Izard County, AR"	"05065"	"2012"	"2012"	"Unintentional"	"1"	10	13474	Unreliable
+	"Izard County, AR"	"05065"	"2013"	"2013"	"Unintentional"	"1"	12	13368	Unreliable
+	"Izard County, AR"	"05065"	"2014"	"2014"	"Unintentional"	"1"	10	13486	Unreliable
+	"Izard County, AR"	"05065"	"2015"	"2015"	"Unintentional"	"1"	13	13445	Unreliable
+	"Izard County, AR"	"05065"	"2016"	"2016"	"Unintentional"	"1"	10	13433	Unreliable
+	"Jackson County, AR"	"05067"	"1999"	"1999"	"Unintentional"	"1"	11	18617	Unreliable
+	"Jackson County, AR"	"05067"	"2000"	"2000"	"Unintentional"	"1"	10	18418	Unreliable
+	"Jackson County, AR"	"05067"	"2001"	"2001"	"Unintentional"	"1"	11	18029	Unreliable
+	"Jackson County, AR"	"05067"	"2003"	"2003"	"Unintentional"	"1"	11	17914	Unreliable
+	"Jackson County, AR"	"05067"	"2004"	"2004"	"Unintentional"	"1"	12	18159	Unreliable
+	"Jackson County, AR"	"05067"	"2006"	"2006"	"Unintentional"	"1"	18	18092	Unreliable
+	"Jackson County, AR"	"05067"	"2007"	"2007"	"Unintentional"	"1"	17	18098	Unreliable
+	"Jackson County, AR"	"05067"	"2008"	"2008"	"Unintentional"	"1"	12	17966	Unreliable
+	"Jackson County, AR"	"05067"	"2009"	"2009"	"Unintentional"	"1"	10	17945	Unreliable
+	"Jackson County, AR"	"05067"	"2010"	"2010"	"Unintentional"	"1"	12	17997	Unreliable
+	"Jackson County, AR"	"05067"	"2011"	"2011"	"Unintentional"	"1"	17	17866	Unreliable
+	"Jackson County, AR"	"05067"	"2012"	"2012"	"Unintentional"	"1"	16	17600	Unreliable
+	"Jackson County, AR"	"05067"	"2016"	"2016"	"Unintentional"	"1"	11	17221	Unreliable
+	"Jackson County, AR"	"05067"	"2018"	"2018"	"Unintentional"	"1"	11	16811	Unreliable
+	"Jefferson County, AR"	"05069"	"1999"	"1999"	"Unintentional"	"1"	36	84178	42.8
+	"Jefferson County, AR"	"05069"	"1999"	"1999"	"Suicide"	"2"	11	84178	Unreliable
+	"Jefferson County, AR"	"05069"	"2000"	"2000"	"Unintentional"	"1"	37	84278	43.9
+	"Jefferson County, AR"	"05069"	"2000"	"2000"	"Homicide"	"3"	16	84278	Unreliable
+	"Jefferson County, AR"	"05069"	"2001"	"2001"	"Unintentional"	"1"	39	83322	46.8
+	"Jefferson County, AR"	"05069"	"2002"	"2002"	"Unintentional"	"1"	47	82760	56.8
+	"Jefferson County, AR"	"05069"	"2002"	"2002"	"Homicide"	"3"	10	82760	Unreliable
+	"Jefferson County, AR"	"05069"	"2003"	"2003"	"Unintentional"	"1"	38	82193	46.2
+	"Jefferson County, AR"	"05069"	"2003"	"2003"	"Homicide"	"3"	19	82193	Unreliable
+	"Jefferson County, AR"	"05069"	"2004"	"2004"	"Unintentional"	"1"	46	81455	56.5
+	"Jefferson County, AR"	"05069"	"2004"	"2004"	"Homicide"	"3"	12	81455	Unreliable
+	"Jefferson County, AR"	"05069"	"2005"	"2005"	"Unintentional"	"1"	24	80562	29.8
+	"Jefferson County, AR"	"05069"	"2005"	"2005"	"Homicide"	"3"	18	80562	Unreliable
+	"Jefferson County, AR"	"05069"	"2006"	"2006"	"Unintentional"	"1"	33	79977	41.3
+	"Jefferson County, AR"	"05069"	"2006"	"2006"	"Homicide"	"3"	16	79977	Unreliable
+	"Jefferson County, AR"	"05069"	"2007"	"2007"	"Unintentional"	"1"	34	78788	43.2
+	"Jefferson County, AR"	"05069"	"2007"	"2007"	"Homicide"	"3"	18	78788	Unreliable
+	"Jefferson County, AR"	"05069"	"2008"	"2008"	"Unintentional"	"1"	33	78354	42.1
+	"Jefferson County, AR"	"05069"	"2008"	"2008"	"Homicide"	"3"	17	78354	Unreliable
+	"Jefferson County, AR"	"05069"	"2009"	"2009"	"Unintentional"	"1"	34	77759	43.7
+	"Jefferson County, AR"	"05069"	"2009"	"2009"	"Homicide"	"3"	18	77759	Unreliable
+	"Jefferson County, AR"	"05069"	"2010"	"2010"	"Unintentional"	"1"	24	77435	31.0
+	"Jefferson County, AR"	"05069"	"2010"	"2010"	"Suicide"	"2"	12	77435	Unreliable
+	"Jefferson County, AR"	"05069"	"2010"	"2010"	"Homicide"	"3"	11	77435	Unreliable
+	"Jefferson County, AR"	"05069"	"2011"	"2011"	"Unintentional"	"1"	29	76246	38.0
+	"Jefferson County, AR"	"05069"	"2011"	"2011"	"Homicide"	"3"	19	76246	Unreliable
+	"Jefferson County, AR"	"05069"	"2012"	"2012"	"Unintentional"	"1"	42	74723	56.2
+	"Jefferson County, AR"	"05069"	"2012"	"2012"	"Suicide"	"2"	15	74723	Unreliable
+	"Jefferson County, AR"	"05069"	"2012"	"2012"	"Homicide"	"3"	20	74723	26.8
+	"Jefferson County, AR"	"05069"	"2013"	"2013"	"Unintentional"	"1"	32	73191	43.7
+	"Jefferson County, AR"	"05069"	"2013"	"2013"	"Homicide"	"3"	18	73191	Unreliable
+	"Jefferson County, AR"	"05069"	"2014"	"2014"	"Unintentional"	"1"	31	72297	42.9
+	"Jefferson County, AR"	"05069"	"2014"	"2014"	"Suicide"	"2"	10	72297	Unreliable
+	"Jefferson County, AR"	"05069"	"2014"	"2014"	"Homicide"	"3"	17	72297	Unreliable
+	"Jefferson County, AR"	"05069"	"2015"	"2015"	"Unintentional"	"1"	28	71565	39.1
+	"Jefferson County, AR"	"05069"	"2015"	"2015"	"Suicide"	"2"	10	71565	Unreliable
+	"Jefferson County, AR"	"05069"	"2015"	"2015"	"Homicide"	"3"	13	71565	Unreliable
+	"Jefferson County, AR"	"05069"	"2016"	"2016"	"Unintentional"	"1"	34	70016	48.6
+	"Jefferson County, AR"	"05069"	"2016"	"2016"	"Suicide"	"2"	12	70016	Unreliable
+	"Jefferson County, AR"	"05069"	"2016"	"2016"	"Homicide"	"3"	13	70016	Unreliable
+	"Jefferson County, AR"	"05069"	"2017"	"2017"	"Unintentional"	"1"	46	69115	66.6
+	"Jefferson County, AR"	"05069"	"2017"	"2017"	"Homicide"	"3"	29	69115	42.0
+	"Jefferson County, AR"	"05069"	"2018"	"2018"	"Unintentional"	"1"	37	68114	54.3
+	"Jefferson County, AR"	"05069"	"2018"	"2018"	"Homicide"	"3"	21	68114	30.8
+	"Johnson County, AR"	"05071"	"1999"	"1999"	"Unintentional"	"1"	12	22656	Unreliable
+	"Johnson County, AR"	"05071"	"2000"	"2000"	"Unintentional"	"1"	14	22781	Unreliable
+	"Johnson County, AR"	"05071"	"2002"	"2002"	"Unintentional"	"1"	11	23293	Unreliable
+	"Johnson County, AR"	"05071"	"2003"	"2003"	"Unintentional"	"1"	12	23587	Unreliable
+	"Johnson County, AR"	"05071"	"2004"	"2004"	"Unintentional"	"1"	10	23850	Unreliable
+	"Johnson County, AR"	"05071"	"2005"	"2005"	"Unintentional"	"1"	13	24173	Unreliable
+	"Johnson County, AR"	"05071"	"2006"	"2006"	"Unintentional"	"1"	13	24596	Unreliable
+	"Johnson County, AR"	"05071"	"2008"	"2008"	"Unintentional"	"1"	18	25236	Unreliable
+	"Johnson County, AR"	"05071"	"2009"	"2009"	"Unintentional"	"1"	15	25374	Unreliable
+	"Johnson County, AR"	"05071"	"2010"	"2010"	"Unintentional"	"1"	12	25540	Unreliable
+	"Johnson County, AR"	"05071"	"2011"	"2011"	"Unintentional"	"1"	21	25742	81.6
+	"Johnson County, AR"	"05071"	"2012"	"2012"	"Unintentional"	"1"	17	25901	Unreliable
+	"Johnson County, AR"	"05071"	"2013"	"2013"	"Unintentional"	"1"	11	25846	Unreliable
+	"Johnson County, AR"	"05071"	"2016"	"2016"	"Unintentional"	"1"	13	26176	Unreliable
+	"Johnson County, AR"	"05071"	"2017"	"2017"	"Unintentional"	"1"	17	26552	Unreliable
+	"Johnson County, AR"	"05071"	"2018"	"2018"	"Unintentional"	"1"	16	26742	Unreliable
+	"Lafayette County, AR"	"05073"	"2010"	"2010"	"Unintentional"	"1"	10	7645	Unreliable
+	"Lafayette County, AR"	"05073"	"2011"	"2011"	"Unintentional"	"1"	10	7516	Unreliable
+	"Lawrence County, AR"	"05075"	"2000"	"2000"	"Unintentional"	"1"	10	17774	Unreliable
+	"Lawrence County, AR"	"05075"	"2001"	"2001"	"Unintentional"	"1"	12	17749	Unreliable
+	"Lawrence County, AR"	"05075"	"2002"	"2002"	"Unintentional"	"1"	14	17688	Unreliable
+	"Lawrence County, AR"	"05075"	"2003"	"2003"	"Unintentional"	"1"	11	17605	Unreliable
+	"Lawrence County, AR"	"05075"	"2004"	"2004"	"Unintentional"	"1"	15	17541	Unreliable
+	"Lawrence County, AR"	"05075"	"2005"	"2005"	"Unintentional"	"1"	14	17343	Unreliable
+	"Lawrence County, AR"	"05075"	"2006"	"2006"	"Unintentional"	"1"	16	17193	Unreliable
+	"Lawrence County, AR"	"05075"	"2007"	"2007"	"Unintentional"	"1"	12	17286	Unreliable
+	"Lawrence County, AR"	"05075"	"2009"	"2009"	"Unintentional"	"1"	16	17336	Unreliable
+	"Lawrence County, AR"	"05075"	"2010"	"2010"	"Unintentional"	"1"	11	17415	Unreliable
+	"Lawrence County, AR"	"05075"	"2012"	"2012"	"Unintentional"	"1"	17	17012	Unreliable
+	"Lawrence County, AR"	"05075"	"2013"	"2013"	"Unintentional"	"1"	10	17011	Unreliable
+	"Lawrence County, AR"	"05075"	"2014"	"2014"	"Unintentional"	"1"	14	16931	Unreliable
+	"Lawrence County, AR"	"05075"	"2015"	"2015"	"Unintentional"	"1"	14	16779	Unreliable
+	"Lawrence County, AR"	"05075"	"2016"	"2016"	"Unintentional"	"1"	19	16735	Unreliable
+	"Lawrence County, AR"	"05075"	"2017"	"2017"	"Unintentional"	"1"	15	16525	Unreliable
+	"Lawrence County, AR"	"05075"	"2018"	"2018"	"Unintentional"	"1"	14	16434	Unreliable
+	"Lee County, AR"	"05077"	"2008"	"2008"	"Unintentional"	"1"	12	10786	Unreliable
+	"Lincoln County, AR"	"05079"	"2000"	"2000"	"Unintentional"	"1"	10	14492	Unreliable
+	"Lincoln County, AR"	"05079"	"2017"	"2017"	"Unintentional"	"1"	12	13646	Unreliable
+	"Lincoln County, AR"	"05079"	"2018"	"2018"	"Unintentional"	"1"	16	13383	Unreliable
+	"Little River County, AR"	"05081"	"2000"	"2000"	"Unintentional"	"1"	10	13628	Unreliable
+	"Little River County, AR"	"05081"	"2006"	"2006"	"Unintentional"	"1"	11	13147	Unreliable
+	"Little River County, AR"	"05081"	"2009"	"2009"	"Unintentional"	"1"	11	13228	Unreliable
+	"Little River County, AR"	"05081"	"2010"	"2010"	"Unintentional"	"1"	12	13171	Unreliable
+	"Little River County, AR"	"05081"	"2016"	"2016"	"Unintentional"	"1"	11	12451	Unreliable
+	"Logan County, AR"	"05083"	"2001"	"2001"	"Unintentional"	"1"	16	22385	Unreliable
+	"Logan County, AR"	"05083"	"2002"	"2002"	"Unintentional"	"1"	14	22454	Unreliable
+	"Logan County, AR"	"05083"	"2005"	"2005"	"Unintentional"	"1"	14	22661	Unreliable
+	"Logan County, AR"	"05083"	"2006"	"2006"	"Unintentional"	"1"	19	22689	Unreliable
+	"Logan County, AR"	"05083"	"2007"	"2007"	"Unintentional"	"1"	15	22758	Unreliable
+	"Logan County, AR"	"05083"	"2008"	"2008"	"Unintentional"	"1"	14	22699	Unreliable
+	"Logan County, AR"	"05083"	"2009"	"2009"	"Unintentional"	"1"	15	22429	Unreliable
+	"Logan County, AR"	"05083"	"2010"	"2010"	"Unintentional"	"1"	16	22353	Unreliable
+	"Logan County, AR"	"05083"	"2011"	"2011"	"Unintentional"	"1"	17	22290	Unreliable
+	"Logan County, AR"	"05083"	"2012"	"2012"	"Unintentional"	"1"	16	21983	Unreliable
+	"Logan County, AR"	"05083"	"2013"	"2013"	"Unintentional"	"1"	13	22082	Unreliable
+	"Logan County, AR"	"05083"	"2014"	"2014"	"Unintentional"	"1"	13	21958	Unreliable
+	"Logan County, AR"	"05083"	"2015"	"2015"	"Unintentional"	"1"	11	21714	Unreliable
+	"Logan County, AR"	"05083"	"2017"	"2017"	"Unintentional"	"1"	11	21722	Unreliable
+	"Logan County, AR"	"05083"	"2017"	"2017"	"Suicide"	"2"	10	21722	Unreliable
+	"Logan County, AR"	"05083"	"2018"	"2018"	"Unintentional"	"1"	15	21737	Unreliable
+	"Lonoke County, AR"	"05085"	"1999"	"1999"	"Unintentional"	"1"	22	51807	42.5
+	"Lonoke County, AR"	"05085"	"2000"	"2000"	"Unintentional"	"1"	20	52828	37.9
+	"Lonoke County, AR"	"05085"	"2001"	"2001"	"Unintentional"	"1"	27	54043	50.0
+	"Lonoke County, AR"	"05085"	"2002"	"2002"	"Unintentional"	"1"	27	55184	48.9
+	"Lonoke County, AR"	"05085"	"2003"	"2003"	"Unintentional"	"1"	24	56452	42.5
+	"Lonoke County, AR"	"05085"	"2004"	"2004"	"Unintentional"	"1"	29	58449	49.6
+	"Lonoke County, AR"	"05085"	"2005"	"2005"	"Unintentional"	"1"	30	60225	49.8
+	"Lonoke County, AR"	"05085"	"2006"	"2006"	"Unintentional"	"1"	31	62648	49.5
+	"Lonoke County, AR"	"05085"	"2007"	"2007"	"Unintentional"	"1"	29	64379	45.0
+	"Lonoke County, AR"	"05085"	"2008"	"2008"	"Unintentional"	"1"	33	66086	49.9
+	"Lonoke County, AR"	"05085"	"2009"	"2009"	"Unintentional"	"1"	23	67481	34.1
+	"Lonoke County, AR"	"05085"	"2009"	"2009"	"Suicide"	"2"	11	67481	Unreliable
+	"Lonoke County, AR"	"05085"	"2010"	"2010"	"Unintentional"	"1"	41	68356	60.0
+	"Lonoke County, AR"	"05085"	"2010"	"2010"	"Suicide"	"2"	14	68356	Unreliable
+	"Lonoke County, AR"	"05085"	"2011"	"2011"	"Unintentional"	"1"	34	69341	49.0
+	"Lonoke County, AR"	"05085"	"2011"	"2011"	"Suicide"	"2"	13	69341	Unreliable
+	"Lonoke County, AR"	"05085"	"2012"	"2012"	"Unintentional"	"1"	29	69839	41.5
+	"Lonoke County, AR"	"05085"	"2013"	"2013"	"Unintentional"	"1"	38	70753	53.7
+	"Lonoke County, AR"	"05085"	"2014"	"2014"	"Unintentional"	"1"	39	71557	54.5
+	"Lonoke County, AR"	"05085"	"2015"	"2015"	"Unintentional"	"1"	38	71645	53.0
+	"Lonoke County, AR"	"05085"	"2015"	"2015"	"Suicide"	"2"	20	71645	27.9
+	"Lonoke County, AR"	"05085"	"2016"	"2016"	"Unintentional"	"1"	57	72228	78.9
+	"Lonoke County, AR"	"05085"	"2016"	"2016"	"Suicide"	"2"	14	72228	Unreliable
+	"Lonoke County, AR"	"05085"	"2017"	"2017"	"Unintentional"	"1"	25	72898	34.3
+	"Lonoke County, AR"	"05085"	"2017"	"2017"	"Suicide"	"2"	18	72898	Unreliable
+	"Lonoke County, AR"	"05085"	"2018"	"2018"	"Unintentional"	"1"	46	73657	62.5
+	"Lonoke County, AR"	"05085"	"2018"	"2018"	"Suicide"	"2"	22	73657	29.9
+	"Madison County, AR"	"05087"	"2002"	"2002"	"Unintentional"	"1"	10	14137	Unreliable
+	"Madison County, AR"	"05087"	"2003"	"2003"	"Unintentional"	"1"	11	14186	Unreliable
+	"Madison County, AR"	"05087"	"2004"	"2004"	"Unintentional"	"1"	14	14437	Unreliable
+	"Madison County, AR"	"05087"	"2005"	"2005"	"Unintentional"	"1"	14	14714	Unreliable
+	"Madison County, AR"	"05087"	"2006"	"2006"	"Unintentional"	"1"	16	15156	Unreliable
+	"Madison County, AR"	"05087"	"2007"	"2007"	"Unintentional"	"1"	11	15353	Unreliable
+	"Madison County, AR"	"05087"	"2009"	"2009"	"Unintentional"	"1"	15	15673	Unreliable
+	"Madison County, AR"	"05087"	"2010"	"2010"	"Unintentional"	"1"	11	15717	Unreliable
+	"Madison County, AR"	"05087"	"2011"	"2011"	"Unintentional"	"1"	11	15776	Unreliable
+	"Madison County, AR"	"05087"	"2015"	"2015"	"Unintentional"	"1"	11	15767	Unreliable
+	"Madison County, AR"	"05087"	"2016"	"2016"	"Unintentional"	"1"	15	16072	Unreliable
+	"Madison County, AR"	"05087"	"2017"	"2017"	"Unintentional"	"1"	17	16339	Unreliable
+	"Marion County, AR"	"05089"	"2001"	"2001"	"Unintentional"	"1"	11	16232	Unreliable
+	"Marion County, AR"	"05089"	"2002"	"2002"	"Unintentional"	"1"	10	16149	Unreliable
+	"Marion County, AR"	"05089"	"2005"	"2005"	"Unintentional"	"1"	10	16464	Unreliable
+	"Marion County, AR"	"05089"	"2007"	"2007"	"Unintentional"	"1"	10	16795	Unreliable
+	"Marion County, AR"	"05089"	"2008"	"2008"	"Unintentional"	"1"	12	16996	Unreliable
+	"Marion County, AR"	"05089"	"2010"	"2010"	"Unintentional"	"1"	10	16653	Unreliable
+	"Marion County, AR"	"05089"	"2011"	"2011"	"Unintentional"	"1"	12	16573	Unreliable
+	"Marion County, AR"	"05089"	"2013"	"2013"	"Unintentional"	"1"	12	16430	Unreliable
+	"Marion County, AR"	"05089"	"2015"	"2015"	"Unintentional"	"1"	14	16185	Unreliable
+	"Marion County, AR"	"05089"	"2016"	"2016"	"Unintentional"	"1"	11	16325	Unreliable
+	"Marion County, AR"	"05089"	"2017"	"2017"	"Suicide"	"2"	12	16428	Unreliable
+	"Marion County, AR"	"05089"	"2018"	"2018"	"Unintentional"	"1"	15	16722	Unreliable
+	"Miller County, AR"	"05091"	"1999"	"1999"	"Unintentional"	"1"	10	40391	Unreliable
+	"Miller County, AR"	"05091"	"2000"	"2000"	"Unintentional"	"1"	17	40443	Unreliable
+	"Miller County, AR"	"05091"	"2002"	"2002"	"Unintentional"	"1"	20	40923	48.9
+	"Miller County, AR"	"05091"	"2003"	"2003"	"Unintentional"	"1"	13	41382	Unreliable
+	"Miller County, AR"	"05091"	"2004"	"2004"	"Unintentional"	"1"	23	41765	55.1
+	"Miller County, AR"	"05091"	"2005"	"2005"	"Unintentional"	"1"	19	42181	Unreliable
+	"Miller County, AR"	"05091"	"2006"	"2006"	"Unintentional"	"1"	18	42669	Unreliable
+	"Miller County, AR"	"05091"	"2007"	"2007"	"Unintentional"	"1"	16	42710	Unreliable
+	"Miller County, AR"	"05091"	"2008"	"2008"	"Unintentional"	"1"	17	43047	Unreliable
+	"Miller County, AR"	"05091"	"2009"	"2009"	"Unintentional"	"1"	21	43284	48.5
+	"Miller County, AR"	"05091"	"2010"	"2010"	"Unintentional"	"1"	17	43462	Unreliable
+	"Miller County, AR"	"05091"	"2011"	"2011"	"Unintentional"	"1"	34	43759	77.7
+	"Miller County, AR"	"05091"	"2012"	"2012"	"Unintentional"	"1"	10	43634	Unreliable
+	"Miller County, AR"	"05091"	"2012"	"2012"	"Suicide"	"2"	10	43634	Unreliable
+	"Miller County, AR"	"05091"	"2013"	"2013"	"Unintentional"	"1"	19	43402	Unreliable
+	"Miller County, AR"	"05091"	"2014"	"2014"	"Unintentional"	"1"	19	43428	Unreliable
+	"Miller County, AR"	"05091"	"2015"	"2015"	"Unintentional"	"1"	18	43908	Unreliable
+	"Miller County, AR"	"05091"	"2016"	"2016"	"Unintentional"	"1"	23	43787	52.5
+	"Miller County, AR"	"05091"	"2017"	"2017"	"Unintentional"	"1"	24	43984	54.6
+	"Miller County, AR"	"05091"	"2017"	"2017"	"Suicide"	"2"	15	43984	Unreliable
+	"Miller County, AR"	"05091"	"2018"	"2018"	"Unintentional"	"1"	19	43592	Unreliable
+	"Mississippi County, AR"	"05093"	"1999"	"1999"	"Unintentional"	"1"	33	52034	63.4
+	"Mississippi County, AR"	"05093"	"2000"	"2000"	"Unintentional"	"1"	20	51979	38.5
+	"Mississippi County, AR"	"05093"	"2001"	"2001"	"Unintentional"	"1"	22	51017	43.1
+	"Mississippi County, AR"	"05093"	"2002"	"2002"	"Unintentional"	"1"	28	49957	56.0
+	"Mississippi County, AR"	"05093"	"2002"	"2002"	"Suicide"	"2"	11	49957	Unreliable
+	"Mississippi County, AR"	"05093"	"2003"	"2003"	"Unintentional"	"1"	33	48554	68.0
+	"Mississippi County, AR"	"05093"	"2004"	"2004"	"Unintentional"	"1"	26	47777	54.4
+	"Mississippi County, AR"	"05093"	"2005"	"2005"	"Unintentional"	"1"	19	47399	Unreliable
+	"Mississippi County, AR"	"05093"	"2006"	"2006"	"Unintentional"	"1"	29	46983	61.7
+	"Mississippi County, AR"	"05093"	"2007"	"2007"	"Unintentional"	"1"	31	46850	66.2
+	"Mississippi County, AR"	"05093"	"2008"	"2008"	"Unintentional"	"1"	19	47037	Unreliable
+	"Mississippi County, AR"	"05093"	"2009"	"2009"	"Unintentional"	"1"	34	46857	72.6
+	"Mississippi County, AR"	"05093"	"2010"	"2010"	"Unintentional"	"1"	27	46480	58.1
+	"Mississippi County, AR"	"05093"	"2010"	"2010"	"Homicide"	"3"	12	46480	Unreliable
+	"Mississippi County, AR"	"05093"	"2011"	"2011"	"Unintentional"	"1"	20	45966	43.5
+	"Mississippi County, AR"	"05093"	"2012"	"2012"	"Unintentional"	"1"	19	45562	Unreliable
+	"Mississippi County, AR"	"05093"	"2013"	"2013"	"Unintentional"	"1"	30	44765	67.0
+	"Mississippi County, AR"	"05093"	"2014"	"2014"	"Unintentional"	"1"	17	44235	Unreliable
+	"Mississippi County, AR"	"05093"	"2015"	"2015"	"Unintentional"	"1"	23	43738	52.6
+	"Mississippi County, AR"	"05093"	"2015"	"2015"	"Homicide"	"3"	10	43738	Unreliable
+	"Mississippi County, AR"	"05093"	"2016"	"2016"	"Unintentional"	"1"	43	42835	100.4
+	"Mississippi County, AR"	"05093"	"2016"	"2016"	"Homicide"	"3"	13	42835	Unreliable
+	"Mississippi County, AR"	"05093"	"2017"	"2017"	"Unintentional"	"1"	35	42159	83.0
+	"Mississippi County, AR"	"05093"	"2017"	"2017"	"Homicide"	"3"	11	42159	Unreliable
+	"Mississippi County, AR"	"05093"	"2018"	"2018"	"Unintentional"	"1"	23	41239	55.8
+	"Monroe County, AR"	"05095"	"1999"	"1999"	"Unintentional"	"1"	12	10387	Unreliable
+	"Monroe County, AR"	"05095"	"2009"	"2009"	"Unintentional"	"1"	10	8286	Unreliable
+	"Monroe County, AR"	"05095"	"2016"	"2016"	"Unintentional"	"1"	10	7169	Unreliable
+	"Montgomery County, AR"	"05097"	"2005"	"2005"	"Unintentional"	"1"	11	9358	Unreliable
+	"Montgomery County, AR"	"05097"	"2008"	"2008"	"Unintentional"	"1"	10	9573	Unreliable
+	"Montgomery County, AR"	"05097"	"2012"	"2012"	"Unintentional"	"1"	12	9340	Unreliable
+	"Nevada County, AR"	"05099"	"2000"	"2000"	"Unintentional"	"1"	15	9955	Unreliable
+	"Nevada County, AR"	"05099"	"2006"	"2006"	"Unintentional"	"1"	12	9383	Unreliable
+	"Nevada County, AR"	"05099"	"2016"	"2016"	"Unintentional"	"1"	10	8398	Unreliable
+	"Newton County, AR"	"05101"	"2018"	"2018"	"Unintentional"	"1"	10	7805	Unreliable
+	"Ouachita County, AR"	"05103"	"1999"	"1999"	"Unintentional"	"1"	23	28954	79.4
+	"Ouachita County, AR"	"05103"	"2000"	"2000"	"Unintentional"	"1"	16	28790	Unreliable
+	"Ouachita County, AR"	"05103"	"2001"	"2001"	"Unintentional"	"1"	17	28088	Unreliable
+	"Ouachita County, AR"	"05103"	"2002"	"2002"	"Unintentional"	"1"	14	27701	Unreliable
+	"Ouachita County, AR"	"05103"	"2003"	"2003"	"Unintentional"	"1"	22	27488	80.0
+	"Ouachita County, AR"	"05103"	"2004"	"2004"	"Unintentional"	"1"	14	27107	Unreliable
+	"Ouachita County, AR"	"05103"	"2005"	"2005"	"Unintentional"	"1"	11	26934	Unreliable
+	"Ouachita County, AR"	"05103"	"2006"	"2006"	"Unintentional"	"1"	17	26656	Unreliable
+	"Ouachita County, AR"	"05103"	"2007"	"2007"	"Unintentional"	"1"	16	26448	Unreliable
+	"Ouachita County, AR"	"05103"	"2008"	"2008"	"Unintentional"	"1"	17	26202	Unreliable
+	"Ouachita County, AR"	"05103"	"2009"	"2009"	"Unintentional"	"1"	16	26024	Unreliable
+	"Ouachita County, AR"	"05103"	"2010"	"2010"	"Unintentional"	"1"	21	26120	80.4
+	"Ouachita County, AR"	"05103"	"2011"	"2011"	"Unintentional"	"1"	17	25880	Unreliable
+	"Ouachita County, AR"	"05103"	"2012"	"2012"	"Unintentional"	"1"	10	25396	Unreliable
+	"Ouachita County, AR"	"05103"	"2013"	"2013"	"Unintentional"	"1"	14	25002	Unreliable
+	"Ouachita County, AR"	"05103"	"2014"	"2014"	"Unintentional"	"1"	12	24828	Unreliable
+	"Ouachita County, AR"	"05103"	"2015"	"2015"	"Unintentional"	"1"	14	24358	Unreliable
+	"Ouachita County, AR"	"05103"	"2016"	"2016"	"Unintentional"	"1"	13	24098	Unreliable
+	"Ouachita County, AR"	"05103"	"2017"	"2017"	"Unintentional"	"1"	16	23868	Unreliable
+	"Ouachita County, AR"	"05103"	"2018"	"2018"	"Unintentional"	"1"	11	23606	Unreliable
+	"Perry County, AR"	"05105"	"2002"	"2002"	"Unintentional"	"1"	10	10363	Unreliable
+	"Perry County, AR"	"05105"	"2006"	"2006"	"Unintentional"	"1"	10	10352	Unreliable
+	"Perry County, AR"	"05105"	"2012"	"2012"	"Unintentional"	"1"	10	10339	Unreliable
+	"Perry County, AR"	"05105"	"2017"	"2017"	"Unintentional"	"1"	11	10348	Unreliable
+	"Phillips County, AR"	"05107"	"1999"	"1999"	"Unintentional"	"1"	21	26817	78.3
+	"Phillips County, AR"	"05107"	"2000"	"2000"	"Unintentional"	"1"	17	26445	Unreliable
+	"Phillips County, AR"	"05107"	"2001"	"2001"	"Unintentional"	"1"	13	25821	Unreliable
+	"Phillips County, AR"	"05107"	"2002"	"2002"	"Unintentional"	"1"	20	25067	79.8
+	"Phillips County, AR"	"05107"	"2003"	"2003"	"Unintentional"	"1"	14	24520	Unreliable
+	"Phillips County, AR"	"05107"	"2004"	"2004"	"Unintentional"	"1"	14	24174	Unreliable
+	"Phillips County, AR"	"05107"	"2004"	"2004"	"Homicide"	"3"	10	24174	Unreliable
+	"Phillips County, AR"	"05107"	"2005"	"2005"	"Unintentional"	"1"	16	23946	Unreliable
+	"Phillips County, AR"	"05107"	"2006"	"2006"	"Unintentional"	"1"	14	23244	Unreliable
+	"Phillips County, AR"	"05107"	"2007"	"2007"	"Unintentional"	"1"	19	22775	Unreliable
+	"Phillips County, AR"	"05107"	"2008"	"2008"	"Unintentional"	"1"	19	22411	Unreliable
+	"Phillips County, AR"	"05107"	"2009"	"2009"	"Homicide"	"3"	10	21976	Unreliable
+	"Phillips County, AR"	"05107"	"2010"	"2010"	"Unintentional"	"1"	11	21757	Unreliable
+	"Phillips County, AR"	"05107"	"2011"	"2011"	"Unintentional"	"1"	15	21442	Unreliable
+	"Phillips County, AR"	"05107"	"2011"	"2011"	"Homicide"	"3"	12	21442	Unreliable
+	"Phillips County, AR"	"05107"	"2013"	"2013"	"Unintentional"	"1"	10	20399	Unreliable
+	"Phillips County, AR"	"05107"	"2014"	"2014"	"Unintentional"	"1"	16	19930	Unreliable
+	"Phillips County, AR"	"05107"	"2015"	"2015"	"Unintentional"	"1"	12	19513	Unreliable
+	"Phillips County, AR"	"05107"	"2016"	"2016"	"Unintentional"	"1"	14	18975	Unreliable
+	"Phillips County, AR"	"05107"	"2017"	"2017"	"Unintentional"	"1"	11	18572	Unreliable
+	"Phillips County, AR"	"05107"	"2018"	"2018"	"Unintentional"	"1"	12	18029	Unreliable
+	"Phillips County, AR"	"05107"	"2018"	"2018"	"Homicide"	"3"	11	18029	Unreliable
+	"Pike County, AR"	"05109"	"2018"	"2018"	"Unintentional"	"1"	10	10673	Unreliable
+	"Poinsett County, AR"	"05111"	"1999"	"1999"	"Unintentional"	"1"	14	25525	Unreliable
+	"Poinsett County, AR"	"05111"	"2000"	"2000"	"Unintentional"	"1"	11	25614	Unreliable
+	"Poinsett County, AR"	"05111"	"2001"	"2001"	"Unintentional"	"1"	14	25498	Unreliable
+	"Poinsett County, AR"	"05111"	"2002"	"2002"	"Unintentional"	"1"	17	25213	Unreliable
+	"Poinsett County, AR"	"05111"	"2003"	"2003"	"Unintentional"	"1"	15	25177	Unreliable
+	"Poinsett County, AR"	"05111"	"2004"	"2004"	"Unintentional"	"1"	17	25039	Unreliable
+	"Poinsett County, AR"	"05111"	"2005"	"2005"	"Unintentional"	"1"	22	25058	87.8
+	"Poinsett County, AR"	"05111"	"2006"	"2006"	"Unintentional"	"1"	15	24904	Unreliable
+	"Poinsett County, AR"	"05111"	"2007"	"2007"	"Unintentional"	"1"	24	24813	96.7
+	"Poinsett County, AR"	"05111"	"2008"	"2008"	"Unintentional"	"1"	17	24599	Unreliable
+	"Poinsett County, AR"	"05111"	"2009"	"2009"	"Unintentional"	"1"	23	24632	93.4
+	"Poinsett County, AR"	"05111"	"2010"	"2010"	"Unintentional"	"1"	17	24583	Unreliable
+	"Poinsett County, AR"	"05111"	"2011"	"2011"	"Unintentional"	"1"	13	24514	Unreliable
+	"Poinsett County, AR"	"05111"	"2012"	"2012"	"Unintentional"	"1"	14	24307	Unreliable
+	"Poinsett County, AR"	"05111"	"2013"	"2013"	"Unintentional"	"1"	10	24145	Unreliable
+	"Poinsett County, AR"	"05111"	"2014"	"2014"	"Unintentional"	"1"	14	24246	Unreliable
+	"Poinsett County, AR"	"05111"	"2014"	"2014"	"Suicide"	"2"	10	24246	Unreliable
+	"Poinsett County, AR"	"05111"	"2015"	"2015"	"Unintentional"	"1"	17	24040	Unreliable
+	"Poinsett County, AR"	"05111"	"2016"	"2016"	"Unintentional"	"1"	25	24023	104.1
+	"Poinsett County, AR"	"05111"	"2017"	"2017"	"Unintentional"	"1"	14	24154	Unreliable
+	"Poinsett County, AR"	"05111"	"2018"	"2018"	"Unintentional"	"1"	21	23974	87.6
+	"Polk County, AR"	"05113"	"1999"	"1999"	"Unintentional"	"1"	11	20079	Unreliable
+	"Polk County, AR"	"05113"	"2000"	"2000"	"Unintentional"	"1"	16	20229	Unreliable
+	"Polk County, AR"	"05113"	"2001"	"2001"	"Unintentional"	"1"	13	20189	Unreliable
+	"Polk County, AR"	"05113"	"2003"	"2003"	"Unintentional"	"1"	11	20199	Unreliable
+	"Polk County, AR"	"05113"	"2004"	"2004"	"Unintentional"	"1"	12	20057	Unreliable
+	"Polk County, AR"	"05113"	"2006"	"2006"	"Unintentional"	"1"	13	20422	Unreliable
+	"Polk County, AR"	"05113"	"2007"	"2007"	"Unintentional"	"1"	12	20377	Unreliable
+	"Polk County, AR"	"05113"	"2008"	"2008"	"Unintentional"	"1"	14	20388	Unreliable
+	"Polk County, AR"	"05113"	"2009"	"2009"	"Unintentional"	"1"	16	20583	Unreliable
+	"Polk County, AR"	"05113"	"2010"	"2010"	"Unintentional"	"1"	16	20662	Unreliable
+	"Polk County, AR"	"05113"	"2012"	"2012"	"Unintentional"	"1"	19	20471	Unreliable
+	"Polk County, AR"	"05113"	"2013"	"2013"	"Unintentional"	"1"	10	20406	Unreliable
+	"Polk County, AR"	"05113"	"2014"	"2014"	"Unintentional"	"1"	10	20225	Unreliable
+	"Polk County, AR"	"05113"	"2015"	"2015"	"Unintentional"	"1"	18	20216	Unreliable
+	"Polk County, AR"	"05113"	"2016"	"2016"	"Unintentional"	"1"	18	20173	Unreliable
+	"Polk County, AR"	"05113"	"2018"	"2018"	"Unintentional"	"1"	10	20049	Unreliable
+	"Pope County, AR"	"05115"	"1999"	"1999"	"Unintentional"	"1"	35	54300	64.5
+	"Pope County, AR"	"05115"	"2000"	"2000"	"Unintentional"	"1"	20	54469	36.7
+	"Pope County, AR"	"05115"	"2001"	"2001"	"Unintentional"	"1"	25	54986	45.5
+	"Pope County, AR"	"05115"	"2002"	"2002"	"Unintentional"	"1"	26	55405	46.9
+	"Pope County, AR"	"05115"	"2002"	"2002"	"Suicide"	"2"	10	55405	Unreliable
+	"Pope County, AR"	"05115"	"2003"	"2003"	"Unintentional"	"1"	29	55622	52.1
+	"Pope County, AR"	"05115"	"2004"	"2004"	"Unintentional"	"1"	25	56606	44.2
+	"Pope County, AR"	"05115"	"2005"	"2005"	"Unintentional"	"1"	33	57535	57.4
+	"Pope County, AR"	"05115"	"2006"	"2006"	"Unintentional"	"1"	21	58809	35.7
+	"Pope County, AR"	"05115"	"2007"	"2007"	"Unintentional"	"1"	20	59793	33.4
+	"Pope County, AR"	"05115"	"2007"	"2007"	"Suicide"	"2"	10	59793	Unreliable
+	"Pope County, AR"	"05115"	"2008"	"2008"	"Unintentional"	"1"	32	60528	52.9
+	"Pope County, AR"	"05115"	"2008"	"2008"	"Suicide"	"2"	12	60528	Unreliable
+	"Pope County, AR"	"05115"	"2009"	"2009"	"Unintentional"	"1"	30	61302	48.9
+	"Pope County, AR"	"05115"	"2010"	"2010"	"Unintentional"	"1"	36	61754	58.3
+	"Pope County, AR"	"05115"	"2011"	"2011"	"Unintentional"	"1"	34	62331	54.5
+	"Pope County, AR"	"05115"	"2012"	"2012"	"Unintentional"	"1"	37	62765	59.0
+	"Pope County, AR"	"05115"	"2012"	"2012"	"Suicide"	"2"	10	62765	Unreliable
+	"Pope County, AR"	"05115"	"2013"	"2013"	"Unintentional"	"1"	23	62547	36.8
+	"Pope County, AR"	"05115"	"2014"	"2014"	"Unintentional"	"1"	22	63201	34.8
+	"Pope County, AR"	"05115"	"2014"	"2014"	"Suicide"	"2"	11	63201	Unreliable
+	"Pope County, AR"	"05115"	"2015"	"2015"	"Unintentional"	"1"	34	63390	53.6
+	"Pope County, AR"	"05115"	"2015"	"2015"	"Suicide"	"2"	12	63390	Unreliable
+	"Pope County, AR"	"05115"	"2016"	"2016"	"Unintentional"	"1"	33	63779	51.7
+	"Pope County, AR"	"05115"	"2017"	"2017"	"Unintentional"	"1"	28	63835	43.9
+	"Pope County, AR"	"05115"	"2017"	"2017"	"Suicide"	"2"	12	63835	Unreliable
+	"Pope County, AR"	"05115"	"2018"	"2018"	"Unintentional"	"1"	24	64000	37.5
+	"Pope County, AR"	"05115"	"2018"	"2018"	"Suicide"	"2"	12	64000	Unreliable
+	"Pulaski County, AR"	"05119"	"1999"	"1999"	"Unintentional"	"1"	131	360312	36.4
+	"Pulaski County, AR"	"05119"	"1999"	"1999"	"Suicide"	"2"	46	360312	12.8
+	"Pulaski County, AR"	"05119"	"1999"	"1999"	"Homicide"	"3"	47	360312	13.0
+	"Pulaski County, AR"	"05119"	"1999"	"1999"	"Undetermined "	"4"	11	360312	Unreliable
+	"Pulaski County, AR"	"05119"	"2000"	"2000"	"Unintentional"	"1"	142	361474	39.3
+	"Pulaski County, AR"	"05119"	"2000"	"2000"	"Suicide"	"2"	41	361474	11.3
+	"Pulaski County, AR"	"05119"	"2000"	"2000"	"Homicide"	"3"	51	361474	14.1
+	"Pulaski County, AR"	"05119"	"2001"	"2001"	"Unintentional"	"1"	154	362866	42.4
+	"Pulaski County, AR"	"05119"	"2001"	"2001"	"Suicide"	"2"	44	362866	12.1
+	"Pulaski County, AR"	"05119"	"2001"	"2001"	"Homicide"	"3"	49	362866	13.5
+	"Pulaski County, AR"	"05119"	"2002"	"2002"	"Unintentional"	"1"	124	364327	34.0
+	"Pulaski County, AR"	"05119"	"2002"	"2002"	"Suicide"	"2"	47	364327	12.9
+	"Pulaski County, AR"	"05119"	"2002"	"2002"	"Homicide"	"3"	54	364327	14.8
+	"Pulaski County, AR"	"05119"	"2002"	"2002"	"Undetermined "	"4"	24	364327	6.6
+	"Pulaski County, AR"	"05119"	"2003"	"2003"	"Unintentional"	"1"	116	365258	31.8
+	"Pulaski County, AR"	"05119"	"2003"	"2003"	"Suicide"	"2"	46	365258	12.6
+	"Pulaski County, AR"	"05119"	"2003"	"2003"	"Homicide"	"3"	59	365258	16.2
+	"Pulaski County, AR"	"05119"	"2003"	"2003"	"Undetermined "	"4"	24	365258	6.6
+	"Pulaski County, AR"	"05119"	"2004"	"2004"	"Unintentional"	"1"	157	366608	42.8
+	"Pulaski County, AR"	"05119"	"2004"	"2004"	"Suicide"	"2"	49	366608	13.4
+	"Pulaski County, AR"	"05119"	"2004"	"2004"	"Homicide"	"3"	54	366608	14.7
+	"Pulaski County, AR"	"05119"	"2004"	"2004"	"Undetermined "	"4"	24	366608	6.5
+	"Pulaski County, AR"	"05119"	"2005"	"2005"	"Unintentional"	"1"	144	368274	39.1
+	"Pulaski County, AR"	"05119"	"2005"	"2005"	"Suicide"	"2"	48	368274	13.0
+	"Pulaski County, AR"	"05119"	"2005"	"2005"	"Homicide"	"3"	52	368274	14.1
+	"Pulaski County, AR"	"05119"	"2005"	"2005"	"Undetermined "	"4"	33	368274	9.0
+	"Pulaski County, AR"	"05119"	"2006"	"2006"	"Unintentional"	"1"	148	371647	39.8
+	"Pulaski County, AR"	"05119"	"2006"	"2006"	"Suicide"	"2"	52	371647	14.0
+	"Pulaski County, AR"	"05119"	"2006"	"2006"	"Homicide"	"3"	80	371647	21.5
+	"Pulaski County, AR"	"05119"	"2006"	"2006"	"Undetermined "	"4"	27	371647	7.3
+	"Pulaski County, AR"	"05119"	"2007"	"2007"	"Unintentional"	"1"	154	373403	41.2
+	"Pulaski County, AR"	"05119"	"2007"	"2007"	"Suicide"	"2"	49	373403	13.1
+	"Pulaski County, AR"	"05119"	"2007"	"2007"	"Homicide"	"3"	79	373403	21.2
+	"Pulaski County, AR"	"05119"	"2007"	"2007"	"Undetermined "	"4"	19	373403	Unreliable
+	"Pulaski County, AR"	"05119"	"2008"	"2008"	"Unintentional"	"1"	152	376567	40.4
+	"Pulaski County, AR"	"05119"	"2008"	"2008"	"Suicide"	"2"	55	376567	14.6
+	"Pulaski County, AR"	"05119"	"2008"	"2008"	"Homicide"	"3"	61	376567	16.2
+	"Pulaski County, AR"	"05119"	"2008"	"2008"	"Undetermined "	"4"	14	376567	Unreliable
+	"Pulaski County, AR"	"05119"	"2009"	"2009"	"Unintentional"	"1"	171	380053	45.0
+	"Pulaski County, AR"	"05119"	"2009"	"2009"	"Suicide"	"2"	39	380053	10.3
+	"Pulaski County, AR"	"05119"	"2009"	"2009"	"Homicide"	"3"	48	380053	12.6
+	"Pulaski County, AR"	"05119"	"2009"	"2009"	"Undetermined "	"4"	17	380053	Unreliable
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Unintentional"	"1"	155	382748	40.5
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Suicide"	"2"	66	382748	17.2
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Homicide"	"3"	40	382748	10.5
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Undetermined "	"4"	15	382748	Unreliable
+	"Pulaski County, AR"	"05119"	"2011"	"2011"	"Unintentional"	"1"	165	386299	42.7
+	"Pulaski County, AR"	"05119"	"2011"	"2011"	"Suicide"	"2"	46	386299	11.9
+	"Pulaski County, AR"	"05119"	"2011"	"2011"	"Homicide"	"3"	59	386299	15.3
+	"Pulaski County, AR"	"05119"	"2012"	"2012"	"Unintentional"	"1"	166	388953	42.7
+	"Pulaski County, AR"	"05119"	"2012"	"2012"	"Suicide"	"2"	70	388953	18.0
+	"Pulaski County, AR"	"05119"	"2012"	"2012"	"Homicide"	"3"	59	388953	15.2
+	"Pulaski County, AR"	"05119"	"2012"	"2012"	"Undetermined "	"4"	12	388953	Unreliable
+	"Pulaski County, AR"	"05119"	"2013"	"2013"	"Unintentional"	"1"	173	391284	44.2
+	"Pulaski County, AR"	"05119"	"2013"	"2013"	"Suicide"	"2"	64	391284	16.4
+	"Pulaski County, AR"	"05119"	"2013"	"2013"	"Homicide"	"3"	53	391284	13.5
+	"Pulaski County, AR"	"05119"	"2013"	"2013"	"Undetermined "	"4"	19	391284	Unreliable
+	"Pulaski County, AR"	"05119"	"2014"	"2014"	"Unintentional"	"1"	182	392702	46.3
+	"Pulaski County, AR"	"05119"	"2014"	"2014"	"Suicide"	"2"	64	392702	16.3
+	"Pulaski County, AR"	"05119"	"2014"	"2014"	"Homicide"	"3"	64	392702	16.3
+	"Pulaski County, AR"	"05119"	"2014"	"2014"	"Undetermined "	"4"	13	392702	Unreliable
+	"Pulaski County, AR"	"05119"	"2015"	"2015"	"Unintentional"	"1"	172	392664	43.8
+	"Pulaski County, AR"	"05119"	"2015"	"2015"	"Suicide"	"2"	56	392664	14.3
+	"Pulaski County, AR"	"05119"	"2015"	"2015"	"Homicide"	"3"	56	392664	14.3
+	"Pulaski County, AR"	"05119"	"2015"	"2015"	"Undetermined "	"4"	10	392664	Unreliable
+	"Pulaski County, AR"	"05119"	"2016"	"2016"	"Unintentional"	"1"	192	393250	48.8
+	"Pulaski County, AR"	"05119"	"2016"	"2016"	"Suicide"	"2"	74	393250	18.8
+	"Pulaski County, AR"	"05119"	"2016"	"2016"	"Homicide"	"3"	64	393250	16.3
+	"Pulaski County, AR"	"05119"	"2016"	"2016"	"Undetermined "	"4"	15	393250	Unreliable
+	"Pulaski County, AR"	"05119"	"2017"	"2017"	"Unintentional"	"1"	176	393956	44.7
+	"Pulaski County, AR"	"05119"	"2017"	"2017"	"Suicide"	"2"	67	393956	17.0
+	"Pulaski County, AR"	"05119"	"2017"	"2017"	"Homicide"	"3"	71	393956	18.0
+	"Pulaski County, AR"	"05119"	"2017"	"2017"	"Undetermined "	"4"	15	393956	Unreliable
+	"Pulaski County, AR"	"05119"	"2018"	"2018"	"Unintentional"	"1"	199	392680	50.7
+	"Pulaski County, AR"	"05119"	"2018"	"2018"	"Suicide"	"2"	68	392680	17.3
+	"Pulaski County, AR"	"05119"	"2018"	"2018"	"Homicide"	"3"	62	392680	15.8
+	"Pulaski County, AR"	"05119"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	10	392680	Unreliable
+	"Randolph County, AR"	"05121"	"2000"	"2000"	"Unintentional"	"1"	11	18195	Unreliable
+	"Randolph County, AR"	"05121"	"2001"	"2001"	"Unintentional"	"1"	11	18177	Unreliable
+	"Randolph County, AR"	"05121"	"2002"	"2002"	"Unintentional"	"1"	13	18115	Unreliable
+	"Randolph County, AR"	"05121"	"2004"	"2004"	"Unintentional"	"1"	19	18207	Unreliable
+	"Randolph County, AR"	"05121"	"2005"	"2005"	"Unintentional"	"1"	12	18086	Unreliable
+	"Randolph County, AR"	"05121"	"2008"	"2008"	"Unintentional"	"1"	15	18072	Unreliable
+	"Randolph County, AR"	"05121"	"2009"	"2009"	"Unintentional"	"1"	13	17964	Unreliable
+	"Randolph County, AR"	"05121"	"2010"	"2010"	"Unintentional"	"1"	14	17969	Unreliable
+	"Randolph County, AR"	"05121"	"2011"	"2011"	"Unintentional"	"1"	14	18017	Unreliable
+	"Randolph County, AR"	"05121"	"2012"	"2012"	"Unintentional"	"1"	10	17930	Unreliable
+	"Randolph County, AR"	"05121"	"2014"	"2014"	"Unintentional"	"1"	15	17571	Unreliable
+	"Randolph County, AR"	"05121"	"2016"	"2016"	"Unintentional"	"1"	16	17448	Unreliable
+	"Randolph County, AR"	"05121"	"2017"	"2017"	"Unintentional"	"1"	14	17557	Unreliable
+	"Randolph County, AR"	"05121"	"2018"	"2018"	"Unintentional"	"1"	13	17948	Unreliable
+	"St. Francis County, AR"	"05123"	"1999"	"1999"	"Unintentional"	"1"	25	29353	85.2
+	"St. Francis County, AR"	"05123"	"2001"	"2001"	"Unintentional"	"1"	11	29072	Unreliable
+	"St. Francis County, AR"	"05123"	"2002"	"2002"	"Unintentional"	"1"	10	29023	Unreliable
+	"St. Francis County, AR"	"05123"	"2003"	"2003"	"Unintentional"	"1"	14	29170	Unreliable
+	"St. Francis County, AR"	"05123"	"2004"	"2004"	"Unintentional"	"1"	14	28905	Unreliable
+	"St. Francis County, AR"	"05123"	"2005"	"2005"	"Unintentional"	"1"	15	28639	Unreliable
+	"St. Francis County, AR"	"05123"	"2006"	"2006"	"Unintentional"	"1"	12	28496	Unreliable
+	"St. Francis County, AR"	"05123"	"2007"	"2007"	"Unintentional"	"1"	10	28394	Unreliable
+	"St. Francis County, AR"	"05123"	"2008"	"2008"	"Unintentional"	"1"	13	28110	Unreliable
+	"St. Francis County, AR"	"05123"	"2009"	"2009"	"Unintentional"	"1"	22	28336	77.6
+	"St. Francis County, AR"	"05123"	"2010"	"2010"	"Unintentional"	"1"	14	28258	Unreliable
+	"St. Francis County, AR"	"05123"	"2011"	"2011"	"Unintentional"	"1"	13	27970	Unreliable
+	"St. Francis County, AR"	"05123"	"2012"	"2012"	"Unintentional"	"1"	16	27858	Unreliable
+	"St. Francis County, AR"	"05123"	"2013"	"2013"	"Unintentional"	"1"	13	27260	Unreliable
+	"St. Francis County, AR"	"05123"	"2014"	"2014"	"Unintentional"	"1"	10	26899	Unreliable
+	"St. Francis County, AR"	"05123"	"2015"	"2015"	"Unintentional"	"1"	10	26589	Unreliable
+	"St. Francis County, AR"	"05123"	"2016"	"2016"	"Unintentional"	"1"	12	26196	Unreliable
+	"St. Francis County, AR"	"05123"	"2017"	"2017"	"Unintentional"	"1"	19	25930	Unreliable
+	"St. Francis County, AR"	"05123"	"2018"	"2018"	"Unintentional"	"1"	14	25439	Unreliable
+	"Saline County, AR"	"05125"	"1999"	"1999"	"Unintentional"	"1"	31	82130	37.7
+	"Saline County, AR"	"05125"	"1999"	"1999"	"Suicide"	"2"	13	82130	Unreliable
+	"Saline County, AR"	"05125"	"2000"	"2000"	"Unintentional"	"1"	32	83529	38.3
+	"Saline County, AR"	"05125"	"2000"	"2000"	"Suicide"	"2"	10	83529	Unreliable
+	"Saline County, AR"	"05125"	"2001"	"2001"	"Unintentional"	"1"	32	85473	37.4
+	"Saline County, AR"	"05125"	"2001"	"2001"	"Suicide"	"2"	15	85473	Unreliable
+	"Saline County, AR"	"05125"	"2002"	"2002"	"Unintentional"	"1"	35	87031	40.2
+	"Saline County, AR"	"05125"	"2002"	"2002"	"Suicide"	"2"	12	87031	Unreliable
+	"Saline County, AR"	"05125"	"2003"	"2003"	"Unintentional"	"1"	36	88627	40.6
+	"Saline County, AR"	"05125"	"2004"	"2004"	"Unintentional"	"1"	36	90961	39.6
+	"Saline County, AR"	"05125"	"2004"	"2004"	"Suicide"	"2"	12	90961	Unreliable
+	"Saline County, AR"	"05125"	"2005"	"2005"	"Unintentional"	"1"	44	93493	47.1
+	"Saline County, AR"	"05125"	"2005"	"2005"	"Suicide"	"2"	18	93493	Unreliable
+	"Saline County, AR"	"05125"	"2005"	"2005"	"Undetermined "	"4"	10	93493	Unreliable
+	"Saline County, AR"	"05125"	"2006"	"2006"	"Unintentional"	"1"	42	96661	43.5
+	"Saline County, AR"	"05125"	"2006"	"2006"	"Suicide"	"2"	11	96661	Unreliable
+	"Saline County, AR"	"05125"	"2006"	"2006"	"Undetermined "	"4"	11	96661	Unreliable
+	"Saline County, AR"	"05125"	"2007"	"2007"	"Unintentional"	"1"	27	100043	27.0
+	"Saline County, AR"	"05125"	"2007"	"2007"	"Suicide"	"2"	13	100043	Unreliable
+	"Saline County, AR"	"05125"	"2008"	"2008"	"Unintentional"	"1"	47	102599	45.8
+	"Saline County, AR"	"05125"	"2008"	"2008"	"Suicide"	"2"	16	102599	Unreliable
+	"Saline County, AR"	"05125"	"2009"	"2009"	"Unintentional"	"1"	33	105362	31.3
+	"Saline County, AR"	"05125"	"2009"	"2009"	"Suicide"	"2"	18	105362	Unreliable
+	"Saline County, AR"	"05125"	"2010"	"2010"	"Unintentional"	"1"	38	107118	35.5
+	"Saline County, AR"	"05125"	"2010"	"2010"	"Suicide"	"2"	15	107118	Unreliable
+	"Saline County, AR"	"05125"	"2011"	"2011"	"Unintentional"	"1"	40	109526	36.5
+	"Saline County, AR"	"05125"	"2011"	"2011"	"Suicide"	"2"	15	109526	Unreliable
+	"Saline County, AR"	"05125"	"2012"	"2012"	"Unintentional"	"1"	40	111845	35.8
+	"Saline County, AR"	"05125"	"2012"	"2012"	"Suicide"	"2"	12	111845	Unreliable
+	"Saline County, AR"	"05125"	"2013"	"2013"	"Unintentional"	"1"	46	114404	40.2
+	"Saline County, AR"	"05125"	"2013"	"2013"	"Suicide"	"2"	13	114404	Unreliable
+	"Saline County, AR"	"05125"	"2014"	"2014"	"Unintentional"	"1"	59	115719	51.0
+	"Saline County, AR"	"05125"	"2014"	"2014"	"Suicide"	"2"	16	115719	Unreliable
+	"Saline County, AR"	"05125"	"2015"	"2015"	"Unintentional"	"1"	48	117460	40.9
+	"Saline County, AR"	"05125"	"2015"	"2015"	"Suicide"	"2"	22	117460	18.7
+	"Saline County, AR"	"05125"	"2016"	"2016"	"Unintentional"	"1"	52	118703	43.8
+	"Saline County, AR"	"05125"	"2016"	"2016"	"Suicide"	"2"	18	118703	Unreliable
+	"Saline County, AR"	"05125"	"2017"	"2017"	"Unintentional"	"1"	81	119323	67.9
+	"Saline County, AR"	"05125"	"2017"	"2017"	"Suicide"	"2"	24	119323	20.1
+	"Saline County, AR"	"05125"	"2018"	"2018"	"Unintentional"	"1"	61	121421	50.2
+	"Saline County, AR"	"05125"	"2018"	"2018"	"Suicide"	"2"	27	121421	22.2
+	"Scott County, AR"	"05127"	"2001"	"2001"	"Unintentional"	"1"	10	10950	Unreliable
+	"Scott County, AR"	"05127"	"2013"	"2013"	"Unintentional"	"1"	11	10950	Unreliable
+	"Scott County, AR"	"05127"	"2015"	"2015"	"Unintentional"	"1"	10	10513	Unreliable
+	"Scott County, AR"	"05127"	"2016"	"2016"	"Unintentional"	"1"	11	10277	Unreliable
+	"Scott County, AR"	"05127"	"2018"	"2018"	"Unintentional"	"1"	12	10319	Unreliable
+	"Searcy County, AR"	"05129"	"2000"	"2000"	"Unintentional"	"1"	10	8261	Unreliable
+	"Searcy County, AR"	"05129"	"2016"	"2016"	"Unintentional"	"1"	13	7967	Unreliable
+	"Sebastian County, AR"	"05131"	"1999"	"1999"	"Unintentional"	"1"	41	113302	36.2
+	"Sebastian County, AR"	"05131"	"1999"	"1999"	"Suicide"	"2"	15	113302	Unreliable
+	"Sebastian County, AR"	"05131"	"2000"	"2000"	"Unintentional"	"1"	42	115071	36.5
+	"Sebastian County, AR"	"05131"	"2000"	"2000"	"Suicide"	"2"	14	115071	Unreliable
+	"Sebastian County, AR"	"05131"	"2001"	"2001"	"Unintentional"	"1"	38	116488	32.6
+	"Sebastian County, AR"	"05131"	"2001"	"2001"	"Suicide"	"2"	20	116488	17.2
+	"Sebastian County, AR"	"05131"	"2001"	"2001"	"Homicide"	"3"	12	116488	Unreliable
+	"Sebastian County, AR"	"05131"	"2002"	"2002"	"Unintentional"	"1"	46	117200	39.2
+	"Sebastian County, AR"	"05131"	"2002"	"2002"	"Suicide"	"2"	11	117200	Unreliable
+	"Sebastian County, AR"	"05131"	"2003"	"2003"	"Unintentional"	"1"	27	117725	22.9
+	"Sebastian County, AR"	"05131"	"2003"	"2003"	"Suicide"	"2"	21	117725	17.8
+	"Sebastian County, AR"	"05131"	"2003"	"2003"	"Homicide"	"3"	11	117725	Unreliable
+	"Sebastian County, AR"	"05131"	"2004"	"2004"	"Unintentional"	"1"	56	118168	47.4
+	"Sebastian County, AR"	"05131"	"2004"	"2004"	"Suicide"	"2"	23	118168	19.5
+	"Sebastian County, AR"	"05131"	"2005"	"2005"	"Unintentional"	"1"	43	119426	36.0
+	"Sebastian County, AR"	"05131"	"2005"	"2005"	"Suicide"	"2"	12	119426	Unreliable
+	"Sebastian County, AR"	"05131"	"2005"	"2005"	"Undetermined "	"4"	10	119426	Unreliable
+	"Sebastian County, AR"	"05131"	"2006"	"2006"	"Unintentional"	"1"	47	121492	38.7
+	"Sebastian County, AR"	"05131"	"2006"	"2006"	"Suicide"	"2"	21	121492	17.3
+	"Sebastian County, AR"	"05131"	"2007"	"2007"	"Unintentional"	"1"	54	122946	43.9
+	"Sebastian County, AR"	"05131"	"2007"	"2007"	"Suicide"	"2"	15	122946	Unreliable
+	"Sebastian County, AR"	"05131"	"2007"	"2007"	"Undetermined "	"4"	17	122946	Unreliable
+	"Sebastian County, AR"	"05131"	"2008"	"2008"	"Unintentional"	"1"	62	123762	50.1
+	"Sebastian County, AR"	"05131"	"2008"	"2008"	"Suicide"	"2"	18	123762	Unreliable
+	"Sebastian County, AR"	"05131"	"2009"	"2009"	"Unintentional"	"1"	54	125116	43.2
+	"Sebastian County, AR"	"05131"	"2009"	"2009"	"Suicide"	"2"	14	125116	Unreliable
+	"Sebastian County, AR"	"05131"	"2010"	"2010"	"Unintentional"	"1"	46	125744	36.6
+	"Sebastian County, AR"	"05131"	"2010"	"2010"	"Suicide"	"2"	15	125744	Unreliable
+	"Sebastian County, AR"	"05131"	"2011"	"2011"	"Unintentional"	"1"	50	127127	39.3
+	"Sebastian County, AR"	"05131"	"2011"	"2011"	"Suicide"	"2"	20	127127	15.7
+	"Sebastian County, AR"	"05131"	"2012"	"2012"	"Unintentional"	"1"	48	127304	37.7
+	"Sebastian County, AR"	"05131"	"2012"	"2012"	"Suicide"	"2"	19	127304	Unreliable
+	"Sebastian County, AR"	"05131"	"2013"	"2013"	"Unintentional"	"1"	35	127342	27.5
+	"Sebastian County, AR"	"05131"	"2013"	"2013"	"Suicide"	"2"	21	127342	16.5
+	"Sebastian County, AR"	"05131"	"2014"	"2014"	"Unintentional"	"1"	51	126776	40.2
+	"Sebastian County, AR"	"05131"	"2014"	"2014"	"Suicide"	"2"	17	126776	Unreliable
+	"Sebastian County, AR"	"05131"	"2015"	"2015"	"Unintentional"	"1"	45	127780	35.2
+	"Sebastian County, AR"	"05131"	"2015"	"2015"	"Suicide"	"2"	24	127780	18.8
+	"Sebastian County, AR"	"05131"	"2016"	"2016"	"Unintentional"	"1"	61	127793	47.7
+	"Sebastian County, AR"	"05131"	"2016"	"2016"	"Suicide"	"2"	21	127793	16.4
+	"Sebastian County, AR"	"05131"	"2017"	"2017"	"Unintentional"	"1"	57	128107	44.5
+	"Sebastian County, AR"	"05131"	"2017"	"2017"	"Suicide"	"2"	24	128107	18.7
+	"Sebastian County, AR"	"05131"	"2017"	"2017"	"Homicide"	"3"	11	128107	Unreliable
+	"Sebastian County, AR"	"05131"	"2018"	"2018"	"Unintentional"	"1"	54	127753	42.3
+	"Sebastian County, AR"	"05131"	"2018"	"2018"	"Suicide"	"2"	24	127753	18.8
+	"Sevier County, AR"	"05133"	"2000"	"2000"	"Unintentional"	"1"	11	15757	Unreliable
+	"Sevier County, AR"	"05133"	"2003"	"2003"	"Unintentional"	"1"	12	15824	Unreliable
+	"Sevier County, AR"	"05133"	"2004"	"2004"	"Unintentional"	"1"	18	16041	Unreliable
+	"Sevier County, AR"	"05133"	"2005"	"2005"	"Unintentional"	"1"	14	16298	Unreliable
+	"Sevier County, AR"	"05133"	"2010"	"2010"	"Unintentional"	"1"	10	17058	Unreliable
+	"Sevier County, AR"	"05133"	"2015"	"2015"	"Unintentional"	"1"	14	17290	Unreliable
+	"Sharp County, AR"	"05135"	"1999"	"1999"	"Unintentional"	"1"	11	16878	Unreliable
+	"Sharp County, AR"	"05135"	"2000"	"2000"	"Unintentional"	"1"	12	17119	Unreliable
+	"Sharp County, AR"	"05135"	"2001"	"2001"	"Unintentional"	"1"	10	17244	Unreliable
+	"Sharp County, AR"	"05135"	"2002"	"2002"	"Unintentional"	"1"	13	17276	Unreliable
+	"Sharp County, AR"	"05135"	"2003"	"2003"	"Unintentional"	"1"	12	17381	Unreliable
+	"Sharp County, AR"	"05135"	"2004"	"2004"	"Unintentional"	"1"	17	17353	Unreliable
+	"Sharp County, AR"	"05135"	"2006"	"2006"	"Unintentional"	"1"	11	17629	Unreliable
+	"Sharp County, AR"	"05135"	"2007"	"2007"	"Unintentional"	"1"	16	17506	Unreliable
+	"Sharp County, AR"	"05135"	"2009"	"2009"	"Unintentional"	"1"	14	17373	Unreliable
+	"Sharp County, AR"	"05135"	"2010"	"2010"	"Unintentional"	"1"	10	17264	Unreliable
+	"Sharp County, AR"	"05135"	"2012"	"2012"	"Unintentional"	"1"	14	17054	Unreliable
+	"Sharp County, AR"	"05135"	"2013"	"2013"	"Unintentional"	"1"	10	17049	Unreliable
+	"Sharp County, AR"	"05135"	"2014"	"2014"	"Unintentional"	"1"	10	16906	Unreliable
+	"Sharp County, AR"	"05135"	"2016"	"2016"	"Unintentional"	"1"	19	17157	Unreliable
+	"Sharp County, AR"	"05135"	"2017"	"2017"	"Unintentional"	"1"	22	17393	126.5
+	"Stone County, AR"	"05137"	"1999"	"1999"	"Unintentional"	"1"	10	11391	Unreliable
+	"Stone County, AR"	"05137"	"2003"	"2003"	"Unintentional"	"1"	11	11704	Unreliable
+	"Stone County, AR"	"05137"	"2013"	"2013"	"Unintentional"	"1"	10	12581	Unreliable
+	"Stone County, AR"	"05137"	"2016"	"2016"	"Unintentional"	"1"	10	12539	Unreliable
+	"Union County, AR"	"05139"	"1999"	"1999"	"Unintentional"	"1"	24	45706	52.5
+	"Union County, AR"	"05139"	"2000"	"2000"	"Unintentional"	"1"	25	45629	54.8
+	"Union County, AR"	"05139"	"2001"	"2001"	"Unintentional"	"1"	28	44894	62.4
+	"Union County, AR"	"05139"	"2002"	"2002"	"Unintentional"	"1"	27	44769	60.3
+	"Union County, AR"	"05139"	"2002"	"2002"	"Suicide"	"2"	10	44769	Unreliable
+	"Union County, AR"	"05139"	"2003"	"2003"	"Unintentional"	"1"	29	44281	65.5
+	"Union County, AR"	"05139"	"2003"	"2003"	"Suicide"	"2"	10	44281	Unreliable
+	"Union County, AR"	"05139"	"2004"	"2004"	"Unintentional"	"1"	36	43747	82.3
+	"Union County, AR"	"05139"	"2005"	"2005"	"Unintentional"	"1"	37	43134	85.8
+	"Union County, AR"	"05139"	"2005"	"2005"	"Homicide"	"3"	11	43134	Unreliable
+	"Union County, AR"	"05139"	"2006"	"2006"	"Unintentional"	"1"	28	42914	65.2
+	"Union County, AR"	"05139"	"2007"	"2007"	"Unintentional"	"1"	26	42267	61.5
+	"Union County, AR"	"05139"	"2008"	"2008"	"Unintentional"	"1"	20	42222	47.4
+	"Union County, AR"	"05139"	"2008"	"2008"	"Suicide"	"2"	11	42222	Unreliable
+	"Union County, AR"	"05139"	"2009"	"2009"	"Unintentional"	"1"	29	41944	69.1
+	"Union County, AR"	"05139"	"2010"	"2010"	"Unintentional"	"1"	24	41639	57.6
+	"Union County, AR"	"05139"	"2011"	"2011"	"Unintentional"	"1"	23	41427	55.5
+	"Union County, AR"	"05139"	"2012"	"2012"	"Unintentional"	"1"	27	40867	66.1
+	"Union County, AR"	"05139"	"2013"	"2013"	"Unintentional"	"1"	20	40694	49.1
+	"Union County, AR"	"05139"	"2014"	"2014"	"Unintentional"	"1"	20	40227	49.7
+	"Union County, AR"	"05139"	"2015"	"2015"	"Unintentional"	"1"	21	40144	52.3
+	"Union County, AR"	"05139"	"2016"	"2016"	"Unintentional"	"1"	19	39887	Unreliable
+	"Union County, AR"	"05139"	"2016"	"2016"	"Suicide"	"2"	10	39887	Unreliable
+	"Union County, AR"	"05139"	"2017"	"2017"	"Unintentional"	"1"	24	39449	60.8
+	"Union County, AR"	"05139"	"2018"	"2018"	"Unintentional"	"1"	29	39126	74.1
+	"Van Buren County, AR"	"05141"	"2000"	"2000"	"Unintentional"	"1"	17	16192	Unreliable
+	"Van Buren County, AR"	"05141"	"2001"	"2001"	"Unintentional"	"1"	12	16332	Unreliable
+	"Van Buren County, AR"	"05141"	"2002"	"2002"	"Unintentional"	"1"	11	16322	Unreliable
+	"Van Buren County, AR"	"05141"	"2004"	"2004"	"Unintentional"	"1"	18	16664	Unreliable
+	"Van Buren County, AR"	"05141"	"2005"	"2005"	"Unintentional"	"1"	13	16869	Unreliable
+	"Van Buren County, AR"	"05141"	"2006"	"2006"	"Unintentional"	"1"	12	17027	Unreliable
+	"Van Buren County, AR"	"05141"	"2007"	"2007"	"Unintentional"	"1"	11	17226	Unreliable
+	"Van Buren County, AR"	"05141"	"2008"	"2008"	"Unintentional"	"1"	17	17373	Unreliable
+	"Van Buren County, AR"	"05141"	"2009"	"2009"	"Unintentional"	"1"	11	17293	Unreliable
+	"Van Buren County, AR"	"05141"	"2010"	"2010"	"Unintentional"	"1"	12	17295	Unreliable
+	"Van Buren County, AR"	"05141"	"2011"	"2011"	"Unintentional"	"1"	14	17083	Unreliable
+	"Van Buren County, AR"	"05141"	"2013"	"2013"	"Unintentional"	"1"	10	16932	Unreliable
+	"Van Buren County, AR"	"05141"	"2014"	"2014"	"Unintentional"	"1"	16	16851	Unreliable
+	"Van Buren County, AR"	"05141"	"2015"	"2015"	"Unintentional"	"1"	16	16771	Unreliable
+	"Van Buren County, AR"	"05141"	"2017"	"2017"	"Unintentional"	"1"	22	16506	133.3
+	"Van Buren County, AR"	"05141"	"2018"	"2018"	"Unintentional"	"1"	12	16603	Unreliable
+	"Washington County, AR"	"05143"	"1999"	"1999"	"Unintentional"	"1"	43	154627	27.8
+	"Washington County, AR"	"05143"	"1999"	"1999"	"Suicide"	"2"	12	154627	Unreliable
+	"Washington County, AR"	"05143"	"2000"	"2000"	"Unintentional"	"1"	62	157715	39.3
+	"Washington County, AR"	"05143"	"2000"	"2000"	"Suicide"	"2"	21	157715	13.3
+	"Washington County, AR"	"05143"	"2001"	"2001"	"Unintentional"	"1"	67	163151	41.1
+	"Washington County, AR"	"05143"	"2001"	"2001"	"Suicide"	"2"	20	163151	12.3
+	"Washington County, AR"	"05143"	"2002"	"2002"	"Unintentional"	"1"	68	166859	40.8
+	"Washington County, AR"	"05143"	"2002"	"2002"	"Suicide"	"2"	23	166859	13.8
+	"Washington County, AR"	"05143"	"2003"	"2003"	"Unintentional"	"1"	62	171424	36.2
+	"Washington County, AR"	"05143"	"2003"	"2003"	"Suicide"	"2"	18	171424	Unreliable
+	"Washington County, AR"	"05143"	"2004"	"2004"	"Unintentional"	"1"	68	176837	38.5
+	"Washington County, AR"	"05143"	"2004"	"2004"	"Suicide"	"2"	20	176837	11.3
+	"Washington County, AR"	"05143"	"2004"	"2004"	"Homicide"	"3"	12	176837	Unreliable
+	"Washington County, AR"	"05143"	"2005"	"2005"	"Unintentional"	"1"	49	183799	26.7
+	"Washington County, AR"	"05143"	"2005"	"2005"	"Suicide"	"2"	21	183799	11.4
+	"Washington County, AR"	"05143"	"2006"	"2006"	"Unintentional"	"1"	75	190314	39.4
+	"Washington County, AR"	"05143"	"2006"	"2006"	"Suicide"	"2"	19	190314	Unreliable
+	"Washington County, AR"	"05143"	"2006"	"2006"	"Undetermined "	"4"	12	190314	Unreliable
+	"Washington County, AR"	"05143"	"2007"	"2007"	"Unintentional"	"1"	54	194526	27.8
+	"Washington County, AR"	"05143"	"2007"	"2007"	"Suicide"	"2"	28	194526	14.4
+	"Washington County, AR"	"05143"	"2008"	"2008"	"Unintentional"	"1"	59	197223	29.9
+	"Washington County, AR"	"05143"	"2008"	"2008"	"Suicide"	"2"	23	197223	11.7
+	"Washington County, AR"	"05143"	"2009"	"2009"	"Unintentional"	"1"	70	199774	35.0
+	"Washington County, AR"	"05143"	"2009"	"2009"	"Suicide"	"2"	31	199774	15.5
+	"Washington County, AR"	"05143"	"2010"	"2010"	"Unintentional"	"1"	65	203065	32.0
+	"Washington County, AR"	"05143"	"2010"	"2010"	"Suicide"	"2"	22	203065	10.8
+	"Washington County, AR"	"05143"	"2011"	"2011"	"Unintentional"	"1"	67	207521	32.3
+	"Washington County, AR"	"05143"	"2011"	"2011"	"Suicide"	"2"	28	207521	13.5
+	"Washington County, AR"	"05143"	"2012"	"2012"	"Unintentional"	"1"	70	211411	33.1
+	"Washington County, AR"	"05143"	"2012"	"2012"	"Suicide"	"2"	27	211411	12.8
+	"Washington County, AR"	"05143"	"2013"	"2013"	"Unintentional"	"1"	67	216410	31.0
+	"Washington County, AR"	"05143"	"2013"	"2013"	"Suicide"	"2"	28	216410	12.9
+	"Washington County, AR"	"05143"	"2014"	"2014"	"Unintentional"	"1"	79	220792	35.8
+	"Washington County, AR"	"05143"	"2014"	"2014"	"Suicide"	"2"	33	220792	14.9
+	"Washington County, AR"	"05143"	"2015"	"2015"	"Unintentional"	"1"	76	225477	33.7
+	"Washington County, AR"	"05143"	"2015"	"2015"	"Suicide"	"2"	35	225477	15.5
+	"Washington County, AR"	"05143"	"2015"	"2015"	"Homicide"	"3"	12	225477	Unreliable
+	"Washington County, AR"	"05143"	"2016"	"2016"	"Unintentional"	"1"	74	228049	32.4
+	"Washington County, AR"	"05143"	"2016"	"2016"	"Suicide"	"2"	39	228049	17.1
+	"Washington County, AR"	"05143"	"2017"	"2017"	"Unintentional"	"1"	69	231996	29.7
+	"Washington County, AR"	"05143"	"2017"	"2017"	"Suicide"	"2"	46	231996	19.8
+	"Washington County, AR"	"05143"	"2018"	"2018"	"Unintentional"	"1"	55	236961	23.2
+	"Washington County, AR"	"05143"	"2018"	"2018"	"Suicide"	"2"	38	236961	16.0
+	"White County, AR"	"05145"	"1999"	"1999"	"Unintentional"	"1"	41	66359	61.8
+	"White County, AR"	"05145"	"2000"	"2000"	"Unintentional"	"1"	28	67165	41.7
+	"White County, AR"	"05145"	"2000"	"2000"	"Suicide"	"2"	17	67165	Unreliable
+	"White County, AR"	"05145"	"2001"	"2001"	"Unintentional"	"1"	26	68273	38.1
+	"White County, AR"	"05145"	"2002"	"2002"	"Unintentional"	"1"	38	68796	55.2
+	"White County, AR"	"05145"	"2003"	"2003"	"Unintentional"	"1"	33	69389	47.6
+	"White County, AR"	"05145"	"2003"	"2003"	"Suicide"	"2"	13	69389	Unreliable
+	"White County, AR"	"05145"	"2004"	"2004"	"Unintentional"	"1"	36	70403	51.1
+	"White County, AR"	"05145"	"2005"	"2005"	"Unintentional"	"1"	37	71355	51.9
+	"White County, AR"	"05145"	"2006"	"2006"	"Unintentional"	"1"	33	72728	45.4
+	"White County, AR"	"05145"	"2007"	"2007"	"Unintentional"	"1"	42	73573	57.1
+	"White County, AR"	"05145"	"2007"	"2007"	"Suicide"	"2"	11	73573	Unreliable
+	"White County, AR"	"05145"	"2008"	"2008"	"Unintentional"	"1"	42	74848	56.1
+	"White County, AR"	"05145"	"2008"	"2008"	"Suicide"	"2"	10	74848	Unreliable
+	"White County, AR"	"05145"	"2009"	"2009"	"Unintentional"	"1"	40	76284	52.4
+	"White County, AR"	"05145"	"2009"	"2009"	"Suicide"	"2"	20	76284	26.2
+	"White County, AR"	"05145"	"2010"	"2010"	"Unintentional"	"1"	33	77076	42.8
+	"White County, AR"	"05145"	"2011"	"2011"	"Unintentional"	"1"	38	78167	48.6
+	"White County, AR"	"05145"	"2011"	"2011"	"Suicide"	"2"	11	78167	Unreliable
+	"White County, AR"	"05145"	"2012"	"2012"	"Unintentional"	"1"	46	78493	58.6
+	"White County, AR"	"05145"	"2013"	"2013"	"Unintentional"	"1"	48	78483	61.2
+	"White County, AR"	"05145"	"2013"	"2013"	"Suicide"	"2"	18	78483	Unreliable
+	"White County, AR"	"05145"	"2014"	"2014"	"Unintentional"	"1"	43	78592	54.7
+	"White County, AR"	"05145"	"2014"	"2014"	"Suicide"	"2"	15	78592	Unreliable
+	"White County, AR"	"05145"	"2015"	"2015"	"Unintentional"	"1"	30	79161	37.9
+	"White County, AR"	"05145"	"2015"	"2015"	"Suicide"	"2"	10	79161	Unreliable
+	"White County, AR"	"05145"	"2015"	"2015"	"Undetermined "	"4"	10	79161	Unreliable
+	"White County, AR"	"05145"	"2016"	"2016"	"Unintentional"	"1"	49	79263	61.8
+	"White County, AR"	"05145"	"2016"	"2016"	"Suicide"	"2"	14	79263	Unreliable
+	"White County, AR"	"05145"	"2017"	"2017"	"Unintentional"	"1"	53	79016	67.1
+	"White County, AR"	"05145"	"2017"	"2017"	"Suicide"	"2"	15	79016	Unreliable
+	"White County, AR"	"05145"	"2018"	"2018"	"Unintentional"	"1"	32	78727	40.6
+	"White County, AR"	"05145"	"2018"	"2018"	"Suicide"	"2"	20	78727	25.4
+	"Yell County, AR"	"05149"	"1999"	"1999"	"Unintentional"	"1"	13	20918	Unreliable
+	"Yell County, AR"	"05149"	"2000"	"2000"	"Unintentional"	"1"	10	21139	Unreliable
+	"Yell County, AR"	"05149"	"2001"	"2001"	"Unintentional"	"1"	12	21145	Unreliable
+	"Yell County, AR"	"05149"	"2002"	"2002"	"Unintentional"	"1"	12	21147	Unreliable
+	"Yell County, AR"	"05149"	"2004"	"2004"	"Unintentional"	"1"	10	21074	Unreliable
+	"Yell County, AR"	"05149"	"2005"	"2005"	"Unintentional"	"1"	17	21141	Unreliable
+	"Yell County, AR"	"05149"	"2006"	"2006"	"Unintentional"	"1"	19	21556	Unreliable
+	"Yell County, AR"	"05149"	"2007"	"2007"	"Unintentional"	"1"	22	21633	101.7
+	"Yell County, AR"	"05149"	"2008"	"2008"	"Unintentional"	"1"	11	21935	Unreliable
+	"Yell County, AR"	"05149"	"2010"	"2010"	"Unintentional"	"1"	18	22185	Unreliable
+	"Yell County, AR"	"05149"	"2011"	"2011"	"Unintentional"	"1"	14	22060	Unreliable
+	"Yell County, AR"	"05149"	"2012"	"2012"	"Unintentional"	"1"	19	21932	Unreliable
+	"Yell County, AR"	"05149"	"2014"	"2014"	"Unintentional"	"1"	14	21951	Unreliable
+	"Yell County, AR"	"05149"	"2015"	"2015"	"Unintentional"	"1"	11	21713	Unreliable
+	"Yell County, AR"	"05149"	"2016"	"2016"	"Unintentional"	"1"	12	21552	Unreliable
+	"Yell County, AR"	"05149"	"2017"	"2017"	"Unintentional"	"1"	12	21523	Unreliable
+	"Yell County, AR"	"05149"	"2018"	"2018"	"Unintentional"	"1"	15	21535	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Arkansas"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Arkansas (05)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:52:44 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:52:44 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,1214 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adams County, WA"	"53001"	"2001"	"2001"	"Unintentional"	"1"	17	16259	Unreliable
+	"Adams County, WA"	"53001"	"2002"	"2002"	"Unintentional"	"1"	11	16445	Unreliable
+	"Adams County, WA"	"53001"	"2003"	"2003"	"Unintentional"	"1"	10	16612	Unreliable
+	"Adams County, WA"	"53001"	"2008"	"2008"	"Unintentional"	"1"	11	17782	Unreliable
+	"Adams County, WA"	"53001"	"2010"	"2010"	"Unintentional"	"1"	10	18728	Unreliable
+	"Adams County, WA"	"53001"	"2016"	"2016"	"Unintentional"	"1"	11	19238	Unreliable
+	"Asotin County, WA"	"53003"	"1999"	"1999"	"Unintentional"	"1"	13	20560	Unreliable
+	"Asotin County, WA"	"53003"	"2000"	"2000"	"Unintentional"	"1"	11	20551	Unreliable
+	"Asotin County, WA"	"53003"	"2002"	"2002"	"Unintentional"	"1"	13	20490	Unreliable
+	"Asotin County, WA"	"53003"	"2003"	"2003"	"Unintentional"	"1"	11	20487	Unreliable
+	"Asotin County, WA"	"53003"	"2006"	"2006"	"Unintentional"	"1"	14	21133	Unreliable
+	"Asotin County, WA"	"53003"	"2007"	"2007"	"Unintentional"	"1"	12	21188	Unreliable
+	"Asotin County, WA"	"53003"	"2009"	"2009"	"Unintentional"	"1"	15	21415	Unreliable
+	"Asotin County, WA"	"53003"	"2010"	"2010"	"Unintentional"	"1"	12	21623	Unreliable
+	"Asotin County, WA"	"53003"	"2011"	"2011"	"Unintentional"	"1"	14	21933	Unreliable
+	"Asotin County, WA"	"53003"	"2012"	"2012"	"Unintentional"	"1"	16	21888	Unreliable
+	"Asotin County, WA"	"53003"	"2013"	"2013"	"Unintentional"	"1"	10	22110	Unreliable
+	"Asotin County, WA"	"53003"	"2014"	"2014"	"Unintentional"	"1"	12	22189	Unreliable
+	"Asotin County, WA"	"53003"	"2016"	"2016"	"Unintentional"	"1"	10	22306	Unreliable
+	"Asotin County, WA"	"53003"	"2017"	"2017"	"Unintentional"	"1"	14	22535	Unreliable
+	"Asotin County, WA"	"53003"	"2018"	"2018"	"Unintentional"	"1"	15	22610	Unreliable
+	"Benton County, WA"	"53005"	"1999"	"1999"	"Unintentional"	"1"	34	140629	24.2
+	"Benton County, WA"	"53005"	"1999"	"1999"	"Suicide"	"2"	19	140629	Unreliable
+	"Benton County, WA"	"53005"	"2000"	"2000"	"Unintentional"	"1"	54	142475	37.9
+	"Benton County, WA"	"53005"	"2000"	"2000"	"Suicide"	"2"	14	142475	Unreliable
+	"Benton County, WA"	"53005"	"2001"	"2001"	"Unintentional"	"1"	53	145909	36.3
+	"Benton County, WA"	"53005"	"2001"	"2001"	"Suicide"	"2"	18	145909	Unreliable
+	"Benton County, WA"	"53005"	"2002"	"2002"	"Unintentional"	"1"	52	150323	34.6
+	"Benton County, WA"	"53005"	"2002"	"2002"	"Suicide"	"2"	15	150323	Unreliable
+	"Benton County, WA"	"53005"	"2003"	"2003"	"Unintentional"	"1"	48	153596	31.3
+	"Benton County, WA"	"53005"	"2003"	"2003"	"Suicide"	"2"	23	153596	15.0
+	"Benton County, WA"	"53005"	"2004"	"2004"	"Unintentional"	"1"	59	155689	37.9
+	"Benton County, WA"	"53005"	"2004"	"2004"	"Suicide"	"2"	23	155689	14.8
+	"Benton County, WA"	"53005"	"2005"	"2005"	"Unintentional"	"1"	45	157726	28.5
+	"Benton County, WA"	"53005"	"2005"	"2005"	"Suicide"	"2"	10	157726	Unreliable
+	"Benton County, WA"	"53005"	"2005"	"2005"	"Homicide"	"3"	10	157726	Unreliable
+	"Benton County, WA"	"53005"	"2006"	"2006"	"Unintentional"	"1"	67	159564	42.0
+	"Benton County, WA"	"53005"	"2006"	"2006"	"Suicide"	"2"	19	159564	Unreliable
+	"Benton County, WA"	"53005"	"2007"	"2007"	"Unintentional"	"1"	60	161669	37.1
+	"Benton County, WA"	"53005"	"2007"	"2007"	"Suicide"	"2"	19	161669	Unreliable
+	"Benton County, WA"	"53005"	"2008"	"2008"	"Unintentional"	"1"	43	166573	25.8
+	"Benton County, WA"	"53005"	"2008"	"2008"	"Suicide"	"2"	22	166573	13.2
+	"Benton County, WA"	"53005"	"2009"	"2009"	"Unintentional"	"1"	67	171122	39.2
+	"Benton County, WA"	"53005"	"2009"	"2009"	"Suicide"	"2"	26	171122	15.2
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Unintentional"	"1"	56	175177	32.0
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Suicide"	"2"	17	175177	Unreliable
+	"Benton County, WA"	"53005"	"2011"	"2011"	"Unintentional"	"1"	51	180678	28.2
+	"Benton County, WA"	"53005"	"2011"	"2011"	"Suicide"	"2"	26	180678	14.4
+	"Benton County, WA"	"53005"	"2012"	"2012"	"Unintentional"	"1"	50	182398	27.4
+	"Benton County, WA"	"53005"	"2012"	"2012"	"Suicide"	"2"	30	182398	16.4
+	"Benton County, WA"	"53005"	"2013"	"2013"	"Unintentional"	"1"	61	184486	33.1
+	"Benton County, WA"	"53005"	"2013"	"2013"	"Suicide"	"2"	18	184486	Unreliable
+	"Benton County, WA"	"53005"	"2013"	"2013"	"Homicide"	"3"	10	184486	Unreliable
+	"Benton County, WA"	"53005"	"2014"	"2014"	"Unintentional"	"1"	73	186486	39.1
+	"Benton County, WA"	"53005"	"2014"	"2014"	"Suicide"	"2"	26	186486	13.9
+	"Benton County, WA"	"53005"	"2015"	"2015"	"Unintentional"	"1"	92	190309	48.3
+	"Benton County, WA"	"53005"	"2015"	"2015"	"Suicide"	"2"	41	190309	21.5
+	"Benton County, WA"	"53005"	"2016"	"2016"	"Unintentional"	"1"	76	193686	39.2
+	"Benton County, WA"	"53005"	"2016"	"2016"	"Suicide"	"2"	26	193686	13.4
+	"Benton County, WA"	"53005"	"2017"	"2017"	"Unintentional"	"1"	79	198171	39.9
+	"Benton County, WA"	"53005"	"2017"	"2017"	"Suicide"	"2"	44	198171	22.2
+	"Benton County, WA"	"53005"	"2018"	"2018"	"Unintentional"	"1"	75	201877	37.2
+	"Benton County, WA"	"53005"	"2018"	"2018"	"Suicide"	"2"	29	201877	14.4
+	"Chelan County, WA"	"53007"	"1999"	"1999"	"Unintentional"	"1"	29	65764	44.1
+	"Chelan County, WA"	"53007"	"2000"	"2000"	"Unintentional"	"1"	22	66616	33.0
+	"Chelan County, WA"	"53007"	"2001"	"2001"	"Unintentional"	"1"	25	66574	37.6
+	"Chelan County, WA"	"53007"	"2002"	"2002"	"Unintentional"	"1"	29	66742	43.5
+	"Chelan County, WA"	"53007"	"2003"	"2003"	"Unintentional"	"1"	36	67173	53.6
+	"Chelan County, WA"	"53007"	"2003"	"2003"	"Suicide"	"2"	10	67173	Unreliable
+	"Chelan County, WA"	"53007"	"2004"	"2004"	"Unintentional"	"1"	30	67882	44.2
+	"Chelan County, WA"	"53007"	"2005"	"2005"	"Unintentional"	"1"	24	68747	34.9
+	"Chelan County, WA"	"53007"	"2005"	"2005"	"Suicide"	"2"	11	68747	Unreliable
+	"Chelan County, WA"	"53007"	"2006"	"2006"	"Unintentional"	"1"	32	69536	46.0
+	"Chelan County, WA"	"53007"	"2006"	"2006"	"Suicide"	"2"	12	69536	Unreliable
+	"Chelan County, WA"	"53007"	"2007"	"2007"	"Unintentional"	"1"	31	70214	44.2
+	"Chelan County, WA"	"53007"	"2008"	"2008"	"Unintentional"	"1"	33	70813	46.6
+	"Chelan County, WA"	"53007"	"2008"	"2008"	"Suicide"	"2"	10	70813	Unreliable
+	"Chelan County, WA"	"53007"	"2009"	"2009"	"Unintentional"	"1"	33	71679	46.0
+	"Chelan County, WA"	"53007"	"2010"	"2010"	"Unintentional"	"1"	38	72453	52.4
+	"Chelan County, WA"	"53007"	"2010"	"2010"	"Suicide"	"2"	13	72453	Unreliable
+	"Chelan County, WA"	"53007"	"2011"	"2011"	"Unintentional"	"1"	37	73477	50.4
+	"Chelan County, WA"	"53007"	"2011"	"2011"	"Suicide"	"2"	18	73477	Unreliable
+	"Chelan County, WA"	"53007"	"2012"	"2012"	"Unintentional"	"1"	43	73687	58.4
+	"Chelan County, WA"	"53007"	"2012"	"2012"	"Suicide"	"2"	22	73687	29.9
+	"Chelan County, WA"	"53007"	"2013"	"2013"	"Unintentional"	"1"	38	73967	51.4
+	"Chelan County, WA"	"53007"	"2013"	"2013"	"Suicide"	"2"	10	73967	Unreliable
+	"Chelan County, WA"	"53007"	"2014"	"2014"	"Unintentional"	"1"	34	74588	45.6
+	"Chelan County, WA"	"53007"	"2015"	"2015"	"Unintentional"	"1"	38	75644	50.2
+	"Chelan County, WA"	"53007"	"2015"	"2015"	"Suicide"	"2"	15	75644	Unreliable
+	"Chelan County, WA"	"53007"	"2016"	"2016"	"Unintentional"	"1"	41	76338	53.7
+	"Chelan County, WA"	"53007"	"2016"	"2016"	"Suicide"	"2"	14	76338	Unreliable
+	"Chelan County, WA"	"53007"	"2017"	"2017"	"Unintentional"	"1"	46	76533	60.1
+	"Chelan County, WA"	"53007"	"2018"	"2018"	"Unintentional"	"1"	32	77036	41.5
+	"Chelan County, WA"	"53007"	"2018"	"2018"	"Suicide"	"2"	13	77036	Unreliable
+	"Clallam County, WA"	"53009"	"1999"	"1999"	"Unintentional"	"1"	15	64252	Unreliable
+	"Clallam County, WA"	"53009"	"1999"	"1999"	"Suicide"	"2"	12	64252	Unreliable
+	"Clallam County, WA"	"53009"	"2000"	"2000"	"Unintentional"	"1"	34	64525	52.7
+	"Clallam County, WA"	"53009"	"2000"	"2000"	"Suicide"	"2"	11	64525	Unreliable
+	"Clallam County, WA"	"53009"	"2001"	"2001"	"Unintentional"	"1"	37	64756	57.1
+	"Clallam County, WA"	"53009"	"2001"	"2001"	"Suicide"	"2"	12	64756	Unreliable
+	"Clallam County, WA"	"53009"	"2002"	"2002"	"Unintentional"	"1"	39	65777	59.3
+	"Clallam County, WA"	"53009"	"2002"	"2002"	"Suicide"	"2"	11	65777	Unreliable
+	"Clallam County, WA"	"53009"	"2003"	"2003"	"Unintentional"	"1"	37	66301	55.8
+	"Clallam County, WA"	"53009"	"2003"	"2003"	"Suicide"	"2"	19	66301	Unreliable
+	"Clallam County, WA"	"53009"	"2004"	"2004"	"Unintentional"	"1"	42	67411	62.3
+	"Clallam County, WA"	"53009"	"2004"	"2004"	"Suicide"	"2"	16	67411	Unreliable
+	"Clallam County, WA"	"53009"	"2005"	"2005"	"Unintentional"	"1"	48	68720	69.8
+	"Clallam County, WA"	"53009"	"2005"	"2005"	"Suicide"	"2"	16	68720	Unreliable
+	"Clallam County, WA"	"53009"	"2006"	"2006"	"Unintentional"	"1"	58	69642	83.3
+	"Clallam County, WA"	"53009"	"2006"	"2006"	"Suicide"	"2"	16	69642	Unreliable
+	"Clallam County, WA"	"53009"	"2007"	"2007"	"Unintentional"	"1"	69	70186	98.3
+	"Clallam County, WA"	"53009"	"2007"	"2007"	"Suicide"	"2"	20	70186	28.5
+	"Clallam County, WA"	"53009"	"2008"	"2008"	"Unintentional"	"1"	52	70769	73.5
+	"Clallam County, WA"	"53009"	"2008"	"2008"	"Suicide"	"2"	18	70769	Unreliable
+	"Clallam County, WA"	"53009"	"2009"	"2009"	"Unintentional"	"1"	47	71077	66.1
+	"Clallam County, WA"	"53009"	"2009"	"2009"	"Suicide"	"2"	17	71077	Unreliable
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Unintentional"	"1"	45	71404	63.0
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Suicide"	"2"	17	71404	Unreliable
+	"Clallam County, WA"	"53009"	"2011"	"2011"	"Unintentional"	"1"	44	71838	61.2
+	"Clallam County, WA"	"53009"	"2011"	"2011"	"Suicide"	"2"	24	71838	33.4
+	"Clallam County, WA"	"53009"	"2012"	"2012"	"Unintentional"	"1"	42	71863	58.4
+	"Clallam County, WA"	"53009"	"2012"	"2012"	"Suicide"	"2"	15	71863	Unreliable
+	"Clallam County, WA"	"53009"	"2013"	"2013"	"Unintentional"	"1"	53	72312	73.3
+	"Clallam County, WA"	"53009"	"2013"	"2013"	"Suicide"	"2"	14	72312	Unreliable
+	"Clallam County, WA"	"53009"	"2014"	"2014"	"Unintentional"	"1"	42	72715	57.8
+	"Clallam County, WA"	"53009"	"2014"	"2014"	"Suicide"	"2"	25	72715	34.4
+	"Clallam County, WA"	"53009"	"2015"	"2015"	"Unintentional"	"1"	43	73486	58.5
+	"Clallam County, WA"	"53009"	"2015"	"2015"	"Suicide"	"2"	23	73486	31.3
+	"Clallam County, WA"	"53009"	"2016"	"2016"	"Unintentional"	"1"	55	74570	73.8
+	"Clallam County, WA"	"53009"	"2016"	"2016"	"Suicide"	"2"	13	74570	Unreliable
+	"Clallam County, WA"	"53009"	"2017"	"2017"	"Unintentional"	"1"	61	75474	80.8
+	"Clallam County, WA"	"53009"	"2017"	"2017"	"Suicide"	"2"	24	75474	31.8
+	"Clallam County, WA"	"53009"	"2018"	"2018"	"Unintentional"	"1"	54	76737	70.4
+	"Clallam County, WA"	"53009"	"2018"	"2018"	"Suicide"	"2"	31	76737	40.4
+	"Clark County, WA"	"53011"	"1999"	"1999"	"Unintentional"	"1"	101	339541	29.7
+	"Clark County, WA"	"53011"	"1999"	"1999"	"Suicide"	"2"	44	339541	13.0
+	"Clark County, WA"	"53011"	"2000"	"2000"	"Unintentional"	"1"	92	345238	26.6
+	"Clark County, WA"	"53011"	"2000"	"2000"	"Suicide"	"2"	59	345238	17.1
+	"Clark County, WA"	"53011"	"2000"	"2000"	"Homicide"	"3"	10	345238	Unreliable
+	"Clark County, WA"	"53011"	"2001"	"2001"	"Unintentional"	"1"	86	357211	24.1
+	"Clark County, WA"	"53011"	"2001"	"2001"	"Suicide"	"2"	51	357211	14.3
+	"Clark County, WA"	"53011"	"2001"	"2001"	"Homicide"	"3"	13	357211	Unreliable
+	"Clark County, WA"	"53011"	"2002"	"2002"	"Unintentional"	"1"	126	366405	34.4
+	"Clark County, WA"	"53011"	"2002"	"2002"	"Suicide"	"2"	54	366405	14.7
+	"Clark County, WA"	"53011"	"2003"	"2003"	"Unintentional"	"1"	107	374098	28.6
+	"Clark County, WA"	"53011"	"2003"	"2003"	"Suicide"	"2"	44	374098	11.8
+	"Clark County, WA"	"53011"	"2004"	"2004"	"Unintentional"	"1"	123	384931	32.0
+	"Clark County, WA"	"53011"	"2004"	"2004"	"Suicide"	"2"	49	384931	12.7
+	"Clark County, WA"	"53011"	"2004"	"2004"	"Homicide"	"3"	15	384931	Unreliable
+	"Clark County, WA"	"53011"	"2005"	"2005"	"Unintentional"	"1"	128	394277	32.5
+	"Clark County, WA"	"53011"	"2005"	"2005"	"Suicide"	"2"	50	394277	12.7
+	"Clark County, WA"	"53011"	"2005"	"2005"	"Homicide"	"3"	17	394277	Unreliable
+	"Clark County, WA"	"53011"	"2006"	"2006"	"Unintentional"	"1"	134	401698	33.4
+	"Clark County, WA"	"53011"	"2006"	"2006"	"Suicide"	"2"	50	401698	12.4
+	"Clark County, WA"	"53011"	"2007"	"2007"	"Unintentional"	"1"	143	408820	35.0
+	"Clark County, WA"	"53011"	"2007"	"2007"	"Suicide"	"2"	66	408820	16.1
+	"Clark County, WA"	"53011"	"2007"	"2007"	"Homicide"	"3"	15	408820	Unreliable
+	"Clark County, WA"	"53011"	"2008"	"2008"	"Unintentional"	"1"	124	415282	29.9
+	"Clark County, WA"	"53011"	"2008"	"2008"	"Suicide"	"2"	61	415282	14.7
+	"Clark County, WA"	"53011"	"2009"	"2009"	"Unintentional"	"1"	160	421236	38.0
+	"Clark County, WA"	"53011"	"2009"	"2009"	"Suicide"	"2"	57	421236	13.5
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Unintentional"	"1"	165	425363	38.8
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Suicide"	"2"	78	425363	18.3
+	"Clark County, WA"	"53011"	"2011"	"2011"	"Unintentional"	"1"	176	433418	40.6
+	"Clark County, WA"	"53011"	"2011"	"2011"	"Suicide"	"2"	70	433418	16.2
+	"Clark County, WA"	"53011"	"2011"	"2011"	"Homicide"	"3"	13	433418	Unreliable
+	"Clark County, WA"	"53011"	"2012"	"2012"	"Unintentional"	"1"	190	438287	43.4
+	"Clark County, WA"	"53011"	"2012"	"2012"	"Suicide"	"2"	73	438287	16.7
+	"Clark County, WA"	"53011"	"2012"	"2012"	"Homicide"	"3"	13	438287	Unreliable
+	"Clark County, WA"	"53011"	"2013"	"2013"	"Unintentional"	"1"	172	443817	38.8
+	"Clark County, WA"	"53011"	"2013"	"2013"	"Suicide"	"2"	65	443817	14.6
+	"Clark County, WA"	"53011"	"2014"	"2014"	"Unintentional"	"1"	224	451008	49.7
+	"Clark County, WA"	"53011"	"2014"	"2014"	"Suicide"	"2"	77	451008	17.1
+	"Clark County, WA"	"53011"	"2014"	"2014"	"Homicide"	"3"	15	451008	Unreliable
+	"Clark County, WA"	"53011"	"2015"	"2015"	"Unintentional"	"1"	210	459495	45.7
+	"Clark County, WA"	"53011"	"2015"	"2015"	"Suicide"	"2"	77	459495	16.8
+	"Clark County, WA"	"53011"	"2016"	"2016"	"Unintentional"	"1"	213	467018	45.6
+	"Clark County, WA"	"53011"	"2016"	"2016"	"Suicide"	"2"	73	467018	15.6
+	"Clark County, WA"	"53011"	"2016"	"2016"	"Homicide"	"3"	13	467018	Unreliable
+	"Clark County, WA"	"53011"	"2017"	"2017"	"Unintentional"	"1"	222	474643	46.8
+	"Clark County, WA"	"53011"	"2017"	"2017"	"Suicide"	"2"	88	474643	18.5
+	"Clark County, WA"	"53011"	"2017"	"2017"	"Homicide"	"3"	16	474643	Unreliable
+	"Clark County, WA"	"53011"	"2018"	"2018"	"Unintentional"	"1"	208	481857	43.2
+	"Clark County, WA"	"53011"	"2018"	"2018"	"Suicide"	"2"	79	481857	16.4
+	"Clark County, WA"	"53011"	"2018"	"2018"	"Homicide"	"3"	15	481857	Unreliable
+	"Cowlitz County, WA"	"53015"	"1999"	"1999"	"Unintentional"	"1"	38	92820	40.9
+	"Cowlitz County, WA"	"53015"	"1999"	"1999"	"Suicide"	"2"	17	92820	Unreliable
+	"Cowlitz County, WA"	"53015"	"2000"	"2000"	"Unintentional"	"1"	57	92948	61.3
+	"Cowlitz County, WA"	"53015"	"2000"	"2000"	"Suicide"	"2"	18	92948	Unreliable
+	"Cowlitz County, WA"	"53015"	"2001"	"2001"	"Unintentional"	"1"	39	93608	41.7
+	"Cowlitz County, WA"	"53015"	"2002"	"2002"	"Unintentional"	"1"	35	94325	37.1
+	"Cowlitz County, WA"	"53015"	"2002"	"2002"	"Suicide"	"2"	11	94325	Unreliable
+	"Cowlitz County, WA"	"53015"	"2003"	"2003"	"Unintentional"	"1"	39	94516	41.3
+	"Cowlitz County, WA"	"53015"	"2003"	"2003"	"Suicide"	"2"	13	94516	Unreliable
+	"Cowlitz County, WA"	"53015"	"2004"	"2004"	"Unintentional"	"1"	54	95541	56.5
+	"Cowlitz County, WA"	"53015"	"2004"	"2004"	"Suicide"	"2"	15	95541	Unreliable
+	"Cowlitz County, WA"	"53015"	"2005"	"2005"	"Unintentional"	"1"	74	96536	76.7
+	"Cowlitz County, WA"	"53015"	"2005"	"2005"	"Suicide"	"2"	19	96536	Unreliable
+	"Cowlitz County, WA"	"53015"	"2006"	"2006"	"Unintentional"	"1"	65	99162	65.5
+	"Cowlitz County, WA"	"53015"	"2006"	"2006"	"Suicide"	"2"	17	99162	Unreliable
+	"Cowlitz County, WA"	"53015"	"2007"	"2007"	"Unintentional"	"1"	64	100744	63.5
+	"Cowlitz County, WA"	"53015"	"2007"	"2007"	"Suicide"	"2"	17	100744	Unreliable
+	"Cowlitz County, WA"	"53015"	"2008"	"2008"	"Unintentional"	"1"	54	101688	53.1
+	"Cowlitz County, WA"	"53015"	"2008"	"2008"	"Suicide"	"2"	10	101688	Unreliable
+	"Cowlitz County, WA"	"53015"	"2009"	"2009"	"Unintentional"	"1"	67	102126	65.6
+	"Cowlitz County, WA"	"53015"	"2009"	"2009"	"Suicide"	"2"	12	102126	Unreliable
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Unintentional"	"1"	54	102410	52.7
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Suicide"	"2"	14	102410	Unreliable
+	"Cowlitz County, WA"	"53015"	"2011"	"2011"	"Unintentional"	"1"	55	102478	53.7
+	"Cowlitz County, WA"	"53015"	"2011"	"2011"	"Suicide"	"2"	15	102478	Unreliable
+	"Cowlitz County, WA"	"53015"	"2012"	"2012"	"Unintentional"	"1"	55	101996	53.9
+	"Cowlitz County, WA"	"53015"	"2012"	"2012"	"Suicide"	"2"	15	101996	Unreliable
+	"Cowlitz County, WA"	"53015"	"2013"	"2013"	"Unintentional"	"1"	79	101860	77.6
+	"Cowlitz County, WA"	"53015"	"2013"	"2013"	"Suicide"	"2"	19	101860	Unreliable
+	"Cowlitz County, WA"	"53015"	"2014"	"2014"	"Unintentional"	"1"	67	102133	65.6
+	"Cowlitz County, WA"	"53015"	"2014"	"2014"	"Suicide"	"2"	19	102133	Unreliable
+	"Cowlitz County, WA"	"53015"	"2015"	"2015"	"Unintentional"	"1"	50	103468	48.3
+	"Cowlitz County, WA"	"53015"	"2015"	"2015"	"Suicide"	"2"	23	103468	22.2
+	"Cowlitz County, WA"	"53015"	"2016"	"2016"	"Unintentional"	"1"	50	105160	47.5
+	"Cowlitz County, WA"	"53015"	"2016"	"2016"	"Suicide"	"2"	21	105160	20.0
+	"Cowlitz County, WA"	"53015"	"2017"	"2017"	"Unintentional"	"1"	83	106910	77.6
+	"Cowlitz County, WA"	"53015"	"2017"	"2017"	"Suicide"	"2"	28	106910	26.2
+	"Cowlitz County, WA"	"53015"	"2018"	"2018"	"Unintentional"	"1"	75	108987	68.8
+	"Cowlitz County, WA"	"53015"	"2018"	"2018"	"Suicide"	"2"	18	108987	Unreliable
+	"Douglas County, WA"	"53017"	"2000"	"2000"	"Unintentional"	"1"	14	32603	Unreliable
+	"Douglas County, WA"	"53017"	"2001"	"2001"	"Unintentional"	"1"	12	32787	Unreliable
+	"Douglas County, WA"	"53017"	"2002"	"2002"	"Unintentional"	"1"	24	33044	72.6
+	"Douglas County, WA"	"53017"	"2003"	"2003"	"Unintentional"	"1"	21	33481	62.7
+	"Douglas County, WA"	"53017"	"2004"	"2004"	"Unintentional"	"1"	15	34086	Unreliable
+	"Douglas County, WA"	"53017"	"2006"	"2006"	"Unintentional"	"1"	21	35558	59.1
+	"Douglas County, WA"	"53017"	"2007"	"2007"	"Unintentional"	"1"	16	36503	Unreliable
+	"Douglas County, WA"	"53017"	"2008"	"2008"	"Unintentional"	"1"	13	37216	Unreliable
+	"Douglas County, WA"	"53017"	"2010"	"2010"	"Unintentional"	"1"	15	38431	Unreliable
+	"Douglas County, WA"	"53017"	"2011"	"2011"	"Unintentional"	"1"	10	38971	Unreliable
+	"Douglas County, WA"	"53017"	"2012"	"2012"	"Unintentional"	"1"	19	39350	Unreliable
+	"Douglas County, WA"	"53017"	"2013"	"2013"	"Unintentional"	"1"	20	39471	50.7
+	"Douglas County, WA"	"53017"	"2014"	"2014"	"Unintentional"	"1"	14	39804	Unreliable
+	"Douglas County, WA"	"53017"	"2015"	"2015"	"Unintentional"	"1"	22	40534	54.3
+	"Douglas County, WA"	"53017"	"2016"	"2016"	"Unintentional"	"1"	17	41327	Unreliable
+	"Douglas County, WA"	"53017"	"2018"	"2018"	"Unintentional"	"1"	14	42907	Unreliable
+	"Ferry County, WA"	"53019"	"2003"	"2003"	"Unintentional"	"1"	14	7424	Unreliable
+	"Ferry County, WA"	"53019"	"2005"	"2005"	"Unintentional"	"1"	12	7495	Unreliable
+	"Ferry County, WA"	"53019"	"2009"	"2009"	"Unintentional"	"1"	14	7538	Unreliable
+	"Ferry County, WA"	"53019"	"2011"	"2011"	"Unintentional"	"1"	10	7689	Unreliable
+	"Franklin County, WA"	"53021"	"1999"	"1999"	"Unintentional"	"1"	20	48396	41.3
+	"Franklin County, WA"	"53021"	"2000"	"2000"	"Unintentional"	"1"	20	49347	40.5
+	"Franklin County, WA"	"53021"	"2001"	"2001"	"Unintentional"	"1"	16	50511	Unreliable
+	"Franklin County, WA"	"53021"	"2002"	"2002"	"Unintentional"	"1"	18	52365	Unreliable
+	"Franklin County, WA"	"53021"	"2003"	"2003"	"Unintentional"	"1"	13	55447	Unreliable
+	"Franklin County, WA"	"53021"	"2004"	"2004"	"Unintentional"	"1"	16	58165	Unreliable
+	"Franklin County, WA"	"53021"	"2005"	"2005"	"Unintentional"	"1"	15	61360	Unreliable
+	"Franklin County, WA"	"53021"	"2006"	"2006"	"Unintentional"	"1"	14	64585	Unreliable
+	"Franklin County, WA"	"53021"	"2007"	"2007"	"Unintentional"	"1"	16	67586	Unreliable
+	"Franklin County, WA"	"53021"	"2008"	"2008"	"Unintentional"	"1"	19	70775	Unreliable
+	"Franklin County, WA"	"53021"	"2009"	"2009"	"Unintentional"	"1"	27	74478	36.3
+	"Franklin County, WA"	"53021"	"2010"	"2010"	"Unintentional"	"1"	21	78163	26.9
+	"Franklin County, WA"	"53021"	"2011"	"2011"	"Unintentional"	"1"	19	83455	Unreliable
+	"Franklin County, WA"	"53021"	"2011"	"2011"	"Suicide"	"2"	14	83455	Unreliable
+	"Franklin County, WA"	"53021"	"2012"	"2012"	"Unintentional"	"1"	13	85845	Unreliable
+	"Franklin County, WA"	"53021"	"2013"	"2013"	"Unintentional"	"1"	20	86638	23.1
+	"Franklin County, WA"	"53021"	"2014"	"2014"	"Unintentional"	"1"	26	87809	29.6
+	"Franklin County, WA"	"53021"	"2015"	"2015"	"Unintentional"	"1"	22	88807	24.8
+	"Franklin County, WA"	"53021"	"2015"	"2015"	"Suicide"	"2"	10	88807	Unreliable
+	"Franklin County, WA"	"53021"	"2016"	"2016"	"Unintentional"	"1"	23	90160	25.5
+	"Franklin County, WA"	"53021"	"2017"	"2017"	"Unintentional"	"1"	31	92125	33.6
+	"Franklin County, WA"	"53021"	"2017"	"2017"	"Suicide"	"2"	10	92125	Unreliable
+	"Franklin County, WA"	"53021"	"2018"	"2018"	"Unintentional"	"1"	23	94347	24.4
+	"Franklin County, WA"	"53021"	"2018"	"2018"	"Suicide"	"2"	14	94347	Unreliable
+	"Grant County, WA"	"53025"	"1999"	"1999"	"Unintentional"	"1"	51	73928	69.0
+	"Grant County, WA"	"53025"	"2000"	"2000"	"Unintentional"	"1"	38	74698	50.9
+	"Grant County, WA"	"53025"	"2001"	"2001"	"Unintentional"	"1"	48	76044	63.1
+	"Grant County, WA"	"53025"	"2002"	"2002"	"Unintentional"	"1"	31	76944	40.3
+	"Grant County, WA"	"53025"	"2003"	"2003"	"Unintentional"	"1"	45	77955	57.7
+	"Grant County, WA"	"53025"	"2004"	"2004"	"Unintentional"	"1"	38	78734	48.3
+	"Grant County, WA"	"53025"	"2005"	"2005"	"Unintentional"	"1"	61	79531	76.7
+	"Grant County, WA"	"53025"	"2006"	"2006"	"Unintentional"	"1"	51	81036	62.9
+	"Grant County, WA"	"53025"	"2006"	"2006"	"Suicide"	"2"	11	81036	Unreliable
+	"Grant County, WA"	"53025"	"2007"	"2007"	"Unintentional"	"1"	41	82645	49.6
+	"Grant County, WA"	"53025"	"2007"	"2007"	"Suicide"	"2"	12	82645	Unreliable
+	"Grant County, WA"	"53025"	"2008"	"2008"	"Unintentional"	"1"	40	84944	47.1
+	"Grant County, WA"	"53025"	"2008"	"2008"	"Suicide"	"2"	13	84944	Unreliable
+	"Grant County, WA"	"53025"	"2009"	"2009"	"Unintentional"	"1"	61	87340	69.8
+	"Grant County, WA"	"53025"	"2009"	"2009"	"Homicide"	"3"	10	87340	Unreliable
+	"Grant County, WA"	"53025"	"2010"	"2010"	"Unintentional"	"1"	38	89120	42.6
+	"Grant County, WA"	"53025"	"2011"	"2011"	"Unintentional"	"1"	32	91265	35.1
+	"Grant County, WA"	"53025"	"2011"	"2011"	"Suicide"	"2"	11	91265	Unreliable
+	"Grant County, WA"	"53025"	"2012"	"2012"	"Unintentional"	"1"	39	91723	42.5
+	"Grant County, WA"	"53025"	"2012"	"2012"	"Suicide"	"2"	10	91723	Unreliable
+	"Grant County, WA"	"53025"	"2013"	"2013"	"Unintentional"	"1"	44	91878	47.9
+	"Grant County, WA"	"53025"	"2013"	"2013"	"Suicide"	"2"	15	91878	Unreliable
+	"Grant County, WA"	"53025"	"2014"	"2014"	"Unintentional"	"1"	35	93147	37.6
+	"Grant County, WA"	"53025"	"2015"	"2015"	"Unintentional"	"1"	41	93259	44.0
+	"Grant County, WA"	"53025"	"2016"	"2016"	"Unintentional"	"1"	39	93546	41.7
+	"Grant County, WA"	"53025"	"2017"	"2017"	"Unintentional"	"1"	56	95158	58.8
+	"Grant County, WA"	"53025"	"2017"	"2017"	"Suicide"	"2"	13	95158	Unreliable
+	"Grant County, WA"	"53025"	"2018"	"2018"	"Unintentional"	"1"	47	97331	48.3
+	"Grant County, WA"	"53025"	"2018"	"2018"	"Suicide"	"2"	18	97331	Unreliable
+	"Grays Harbor County, WA"	"53027"	"1999"	"1999"	"Unintentional"	"1"	35	67265	52.0
+	"Grays Harbor County, WA"	"53027"	"1999"	"1999"	"Suicide"	"2"	18	67265	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2000"	"2000"	"Unintentional"	"1"	22	67194	32.7
+	"Grays Harbor County, WA"	"53027"	"2001"	"2001"	"Unintentional"	"1"	38	67896	56.0
+	"Grays Harbor County, WA"	"53027"	"2001"	"2001"	"Suicide"	"2"	12	67896	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2002"	"2002"	"Unintentional"	"1"	41	68264	60.1
+	"Grays Harbor County, WA"	"53027"	"2002"	"2002"	"Suicide"	"2"	17	68264	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2003"	"2003"	"Unintentional"	"1"	35	69065	50.7
+	"Grays Harbor County, WA"	"53027"	"2004"	"2004"	"Unintentional"	"1"	41	69775	58.8
+	"Grays Harbor County, WA"	"53027"	"2004"	"2004"	"Suicide"	"2"	12	69775	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2005"	"2005"	"Unintentional"	"1"	41	70423	58.2
+	"Grays Harbor County, WA"	"53027"	"2005"	"2005"	"Suicide"	"2"	13	70423	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2006"	"2006"	"Unintentional"	"1"	44	71256	61.7
+	"Grays Harbor County, WA"	"53027"	"2006"	"2006"	"Suicide"	"2"	13	71256	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2007"	"2007"	"Unintentional"	"1"	41	71827	57.1
+	"Grays Harbor County, WA"	"53027"	"2008"	"2008"	"Unintentional"	"1"	31	72027	43.0
+	"Grays Harbor County, WA"	"53027"	"2008"	"2008"	"Suicide"	"2"	11	72027	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2009"	"2009"	"Unintentional"	"1"	52	72468	71.8
+	"Grays Harbor County, WA"	"53027"	"2009"	"2009"	"Suicide"	"2"	13	72468	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2010"	"2010"	"Unintentional"	"1"	35	72797	48.1
+	"Grays Harbor County, WA"	"53027"	"2010"	"2010"	"Suicide"	"2"	11	72797	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2011"	"2011"	"Unintentional"	"1"	32	72546	44.1
+	"Grays Harbor County, WA"	"53027"	"2011"	"2011"	"Suicide"	"2"	10	72546	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2012"	"2012"	"Unintentional"	"1"	38	71692	53.0
+	"Grays Harbor County, WA"	"53027"	"2012"	"2012"	"Suicide"	"2"	23	71692	32.1
+	"Grays Harbor County, WA"	"53027"	"2013"	"2013"	"Unintentional"	"1"	45	71078	63.3
+	"Grays Harbor County, WA"	"53027"	"2013"	"2013"	"Suicide"	"2"	12	71078	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2014"	"2014"	"Unintentional"	"1"	42	70818	59.3
+	"Grays Harbor County, WA"	"53027"	"2014"	"2014"	"Suicide"	"2"	16	70818	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2015"	"2015"	"Unintentional"	"1"	47	71122	66.1
+	"Grays Harbor County, WA"	"53027"	"2015"	"2015"	"Suicide"	"2"	15	71122	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2016"	"2016"	"Unintentional"	"1"	53	71628	74.0
+	"Grays Harbor County, WA"	"53027"	"2016"	"2016"	"Suicide"	"2"	19	71628	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2017"	"2017"	"Unintentional"	"1"	50	72697	68.8
+	"Grays Harbor County, WA"	"53027"	"2017"	"2017"	"Suicide"	"2"	10	72697	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2018"	"2018"	"Unintentional"	"1"	44	73901	59.5
+	"Grays Harbor County, WA"	"53027"	"2018"	"2018"	"Suicide"	"2"	21	73901	28.4
+	"Island County, WA"	"53029"	"1999"	"1999"	"Unintentional"	"1"	17	70440	Unreliable
+	"Island County, WA"	"53029"	"2000"	"2000"	"Unintentional"	"1"	18	71558	Unreliable
+	"Island County, WA"	"53029"	"2001"	"2001"	"Unintentional"	"1"	26	73884	35.2
+	"Island County, WA"	"53029"	"2002"	"2002"	"Unintentional"	"1"	22	74840	29.4
+	"Island County, WA"	"53029"	"2002"	"2002"	"Suicide"	"2"	14	74840	Unreliable
+	"Island County, WA"	"53029"	"2003"	"2003"	"Unintentional"	"1"	26	74670	34.8
+	"Island County, WA"	"53029"	"2004"	"2004"	"Unintentional"	"1"	29	77667	37.3
+	"Island County, WA"	"53029"	"2005"	"2005"	"Unintentional"	"1"	37	77589	47.7
+	"Island County, WA"	"53029"	"2006"	"2006"	"Unintentional"	"1"	41	79136	51.8
+	"Island County, WA"	"53029"	"2007"	"2007"	"Unintentional"	"1"	34	78726	43.2
+	"Island County, WA"	"53029"	"2007"	"2007"	"Suicide"	"2"	12	78726	Unreliable
+	"Island County, WA"	"53029"	"2008"	"2008"	"Unintentional"	"1"	37	78375	47.2
+	"Island County, WA"	"53029"	"2008"	"2008"	"Suicide"	"2"	17	78375	Unreliable
+	"Island County, WA"	"53029"	"2009"	"2009"	"Unintentional"	"1"	20	78248	25.6
+	"Island County, WA"	"53029"	"2010"	"2010"	"Unintentional"	"1"	29	78506	36.9
+	"Island County, WA"	"53029"	"2010"	"2010"	"Suicide"	"2"	12	78506	Unreliable
+	"Island County, WA"	"53029"	"2011"	"2011"	"Unintentional"	"1"	33	78971	41.8
+	"Island County, WA"	"53029"	"2011"	"2011"	"Suicide"	"2"	13	78971	Unreliable
+	"Island County, WA"	"53029"	"2012"	"2012"	"Unintentional"	"1"	43	79177	54.3
+	"Island County, WA"	"53029"	"2012"	"2012"	"Suicide"	"2"	15	79177	Unreliable
+	"Island County, WA"	"53029"	"2013"	"2013"	"Unintentional"	"1"	42	78801	53.3
+	"Island County, WA"	"53029"	"2013"	"2013"	"Suicide"	"2"	17	78801	Unreliable
+	"Island County, WA"	"53029"	"2014"	"2014"	"Unintentional"	"1"	42	79275	53.0
+	"Island County, WA"	"53029"	"2014"	"2014"	"Suicide"	"2"	11	79275	Unreliable
+	"Island County, WA"	"53029"	"2015"	"2015"	"Unintentional"	"1"	41	80593	50.9
+	"Island County, WA"	"53029"	"2015"	"2015"	"Suicide"	"2"	16	80593	Unreliable
+	"Island County, WA"	"53029"	"2016"	"2016"	"Unintentional"	"1"	37	82636	44.8
+	"Island County, WA"	"53029"	"2016"	"2016"	"Suicide"	"2"	16	82636	Unreliable
+	"Island County, WA"	"53029"	"2017"	"2017"	"Unintentional"	"1"	39	83159	46.9
+	"Island County, WA"	"53029"	"2017"	"2017"	"Suicide"	"2"	15	83159	Unreliable
+	"Island County, WA"	"53029"	"2018"	"2018"	"Unintentional"	"1"	45	84460	53.3
+	"Jefferson County, WA"	"53031"	"1999"	"1999"	"Unintentional"	"1"	10	25646	Unreliable
+	"Jefferson County, WA"	"53031"	"2000"	"2000"	"Unintentional"	"1"	13	25953	Unreliable
+	"Jefferson County, WA"	"53031"	"2002"	"2002"	"Unintentional"	"1"	13	27201	Unreliable
+	"Jefferson County, WA"	"53031"	"2003"	"2003"	"Unintentional"	"1"	15	27588	Unreliable
+	"Jefferson County, WA"	"53031"	"2004"	"2004"	"Unintentional"	"1"	12	27949	Unreliable
+	"Jefferson County, WA"	"53031"	"2005"	"2005"	"Unintentional"	"1"	18	28506	Unreliable
+	"Jefferson County, WA"	"53031"	"2006"	"2006"	"Unintentional"	"1"	16	29239	Unreliable
+	"Jefferson County, WA"	"53031"	"2007"	"2007"	"Unintentional"	"1"	18	29346	Unreliable
+	"Jefferson County, WA"	"53031"	"2008"	"2008"	"Unintentional"	"1"	24	29648	80.9
+	"Jefferson County, WA"	"53031"	"2009"	"2009"	"Unintentional"	"1"	15	29714	Unreliable
+	"Jefferson County, WA"	"53031"	"2010"	"2010"	"Unintentional"	"1"	21	29872	70.3
+	"Jefferson County, WA"	"53031"	"2011"	"2011"	"Unintentional"	"1"	22	29924	73.5
+	"Jefferson County, WA"	"53031"	"2012"	"2012"	"Unintentional"	"1"	17	29854	Unreliable
+	"Jefferson County, WA"	"53031"	"2013"	"2013"	"Unintentional"	"1"	15	30076	Unreliable
+	"Jefferson County, WA"	"53031"	"2014"	"2014"	"Unintentional"	"1"	19	30228	Unreliable
+	"Jefferson County, WA"	"53031"	"2015"	"2015"	"Unintentional"	"1"	24	30466	78.8
+	"Jefferson County, WA"	"53031"	"2016"	"2016"	"Unintentional"	"1"	18	31139	Unreliable
+	"Jefferson County, WA"	"53031"	"2016"	"2016"	"Suicide"	"2"	17	31139	Unreliable
+	"Jefferson County, WA"	"53031"	"2017"	"2017"	"Unintentional"	"1"	18	31234	Unreliable
+	"Jefferson County, WA"	"53031"	"2017"	"2017"	"Suicide"	"2"	11	31234	Unreliable
+	"Jefferson County, WA"	"53031"	"2018"	"2018"	"Unintentional"	"1"	26	31729	81.9
+	"Jefferson County, WA"	"53031"	"2018"	"2018"	"Suicide"	"2"	11	31729	Unreliable
+	"King County, WA"	"53033"	"1999"	"1999"	"Unintentional"	"1"	481	1729058	27.8
+	"King County, WA"	"53033"	"1999"	"1999"	"Suicide"	"2"	216	1729058	12.5
+	"King County, WA"	"53033"	"1999"	"1999"	"Homicide"	"3"	80	1729058	4.6
+	"King County, WA"	"53033"	"1999"	"1999"	"Undetermined "	"4"	28	1729058	1.6
+	"King County, WA"	"53033"	"2000"	"2000"	"Unintentional"	"1"	510	1737034	29.4
+	"King County, WA"	"53033"	"2000"	"2000"	"Suicide"	"2"	177	1737034	10.2
+	"King County, WA"	"53033"	"2000"	"2000"	"Homicide"	"3"	59	1737034	3.4
+	"King County, WA"	"53033"	"2000"	"2000"	"Undetermined "	"4"	50	1737034	2.9
+	"King County, WA"	"53033"	"2001"	"2001"	"Unintentional"	"1"	476	1754090	27.1
+	"King County, WA"	"53033"	"2001"	"2001"	"Suicide"	"2"	181	1754090	10.3
+	"King County, WA"	"53033"	"2001"	"2001"	"Homicide"	"3"	61	1754090	3.5
+	"King County, WA"	"53033"	"2001"	"2001"	"Undetermined "	"4"	38	1754090	2.2
+	"King County, WA"	"53033"	"2002"	"2002"	"Unintentional"	"1"	497	1758685	28.3
+	"King County, WA"	"53033"	"2002"	"2002"	"Suicide"	"2"	186	1758685	10.6
+	"King County, WA"	"53033"	"2002"	"2002"	"Homicide"	"3"	77	1758685	4.4
+	"King County, WA"	"53033"	"2002"	"2002"	"Undetermined "	"4"	32	1758685	1.8
+	"King County, WA"	"53033"	"2003"	"2003"	"Unintentional"	"1"	487	1763440	27.6
+	"King County, WA"	"53033"	"2003"	"2003"	"Suicide"	"2"	215	1763440	12.2
+	"King County, WA"	"53033"	"2003"	"2003"	"Homicide"	"3"	78	1763440	4.4
+	"King County, WA"	"53033"	"2003"	"2003"	"Undetermined "	"4"	42	1763440	2.4
+	"King County, WA"	"53033"	"2004"	"2004"	"Unintentional"	"1"	581	1775297	32.7
+	"King County, WA"	"53033"	"2004"	"2004"	"Suicide"	"2"	214	1775297	12.1
+	"King County, WA"	"53033"	"2004"	"2004"	"Homicide"	"3"	68	1775297	3.8
+	"King County, WA"	"53033"	"2004"	"2004"	"Undetermined "	"4"	35	1775297	2.0
+	"King County, WA"	"53033"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	15	1775297	Unreliable
+	"King County, WA"	"53033"	"2005"	"2005"	"Unintentional"	"1"	631	1795268	35.1
+	"King County, WA"	"53033"	"2005"	"2005"	"Suicide"	"2"	219	1795268	12.2
+	"King County, WA"	"53033"	"2005"	"2005"	"Homicide"	"3"	65	1795268	3.6
+	"King County, WA"	"53033"	"2005"	"2005"	"Undetermined "	"4"	17	1795268	Unreliable
+	"King County, WA"	"53033"	"2006"	"2006"	"Unintentional"	"1"	670	1822967	36.8
+	"King County, WA"	"53033"	"2006"	"2006"	"Suicide"	"2"	212	1822967	11.6
+	"King County, WA"	"53033"	"2006"	"2006"	"Homicide"	"3"	78	1822967	4.3
+	"King County, WA"	"53033"	"2006"	"2006"	"Undetermined "	"4"	22	1822967	1.2
+	"King County, WA"	"53033"	"2007"	"2007"	"Unintentional"	"1"	605	1847986	32.7
+	"King County, WA"	"53033"	"2007"	"2007"	"Suicide"	"2"	218	1847986	11.8
+	"King County, WA"	"53033"	"2007"	"2007"	"Homicide"	"3"	69	1847986	3.7
+	"King County, WA"	"53033"	"2007"	"2007"	"Undetermined "	"4"	29	1847986	1.6
+	"King County, WA"	"53033"	"2008"	"2008"	"Unintentional"	"1"	645	1875020	34.4
+	"King County, WA"	"53033"	"2008"	"2008"	"Suicide"	"2"	204	1875020	10.9
+	"King County, WA"	"53033"	"2008"	"2008"	"Homicide"	"3"	74	1875020	3.9
+	"King County, WA"	"53033"	"2008"	"2008"	"Undetermined "	"4"	20	1875020	1.1
+	"King County, WA"	"53033"	"2009"	"2009"	"Unintentional"	"1"	608	1912012	31.8
+	"King County, WA"	"53033"	"2009"	"2009"	"Suicide"	"2"	227	1912012	11.9
+	"King County, WA"	"53033"	"2009"	"2009"	"Homicide"	"3"	45	1912012	2.4
+	"King County, WA"	"53033"	"2009"	"2009"	"Undetermined "	"4"	29	1912012	1.5
+	"King County, WA"	"53033"	"2010"	"2010"	"Unintentional"	"1"	585	1931249	30.3
+	"King County, WA"	"53033"	"2010"	"2010"	"Suicide"	"2"	228	1931249	11.8
+	"King County, WA"	"53033"	"2010"	"2010"	"Homicide"	"3"	49	1931249	2.5
+	"King County, WA"	"53033"	"2010"	"2010"	"Undetermined "	"4"	31	1931249	1.6
+	"King County, WA"	"53033"	"2011"	"2011"	"Unintentional"	"1"	585	1969722	29.7
+	"King County, WA"	"53033"	"2011"	"2011"	"Suicide"	"2"	248	1969722	12.6
+	"King County, WA"	"53033"	"2011"	"2011"	"Homicide"	"3"	38	1969722	1.9
+	"King County, WA"	"53033"	"2011"	"2011"	"Undetermined "	"4"	30	1969722	1.5
+	"King County, WA"	"53033"	"2012"	"2012"	"Unintentional"	"1"	660	2007440	32.9
+	"King County, WA"	"53033"	"2012"	"2012"	"Suicide"	"2"	271	2007440	13.5
+	"King County, WA"	"53033"	"2012"	"2012"	"Homicide"	"3"	61	2007440	3.0
+	"King County, WA"	"53033"	"2012"	"2012"	"Undetermined "	"4"	27	2007440	1.3
+	"King County, WA"	"53033"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	15	2007440	Unreliable
+	"King County, WA"	"53033"	"2013"	"2013"	"Unintentional"	"1"	652	2044449	31.9
+	"King County, WA"	"53033"	"2013"	"2013"	"Suicide"	"2"	255	2044449	12.5
+	"King County, WA"	"53033"	"2013"	"2013"	"Homicide"	"3"	54	2044449	2.6
+	"King County, WA"	"53033"	"2013"	"2013"	"Undetermined "	"4"	26	2044449	1.3
+	"King County, WA"	"53033"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	10	2044449	Unreliable
+	"King County, WA"	"53033"	"2014"	"2014"	"Unintentional"	"1"	703	2079967	33.8
+	"King County, WA"	"53033"	"2014"	"2014"	"Suicide"	"2"	268	2079967	12.9
+	"King County, WA"	"53033"	"2014"	"2014"	"Homicide"	"3"	57	2079967	2.7
+	"King County, WA"	"53033"	"2014"	"2014"	"Undetermined "	"4"	29	2079967	1.4
+	"King County, WA"	"53033"	"2015"	"2015"	"Unintentional"	"1"	725	2117125	34.2
+	"King County, WA"	"53033"	"2015"	"2015"	"Suicide"	"2"	252	2117125	11.9
+	"King County, WA"	"53033"	"2015"	"2015"	"Homicide"	"3"	59	2117125	2.8
+	"King County, WA"	"53033"	"2015"	"2015"	"Undetermined "	"4"	29	2117125	1.4
+	"King County, WA"	"53033"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	14	2117125	Unreliable
+	"King County, WA"	"53033"	"2016"	"2016"	"Unintentional"	"1"	771	2149970	35.9
+	"King County, WA"	"53033"	"2016"	"2016"	"Suicide"	"2"	264	2149970	12.3
+	"King County, WA"	"53033"	"2016"	"2016"	"Homicide"	"3"	53	2149970	2.5
+	"King County, WA"	"53033"	"2016"	"2016"	"Undetermined "	"4"	25	2149970	1.2
+	"King County, WA"	"53033"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	20	2149970	0.9
+	"King County, WA"	"53033"	"2017"	"2017"	"Unintentional"	"1"	822	2188649	37.6
+	"King County, WA"	"53033"	"2017"	"2017"	"Suicide"	"2"	269	2188649	12.3
+	"King County, WA"	"53033"	"2017"	"2017"	"Homicide"	"3"	72	2188649	3.3
+	"King County, WA"	"53033"	"2017"	"2017"	"Undetermined "	"4"	27	2188649	1.2
+	"King County, WA"	"53033"	"2017"	"2017"	"Legal Intervention / Operations of War"	"5"	12	2188649	Unreliable
+	"King County, WA"	"53033"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	34	2188649	1.6
+	"King County, WA"	"53033"	"2018"	"2018"	"Unintentional"	"1"	841	2233163	37.7
+	"King County, WA"	"53033"	"2018"	"2018"	"Suicide"	"2"	309	2233163	13.8
+	"King County, WA"	"53033"	"2018"	"2018"	"Homicide"	"3"	86	2233163	3.9
+	"King County, WA"	"53033"	"2018"	"2018"	"Undetermined "	"4"	20	2233163	0.9
+	"King County, WA"	"53033"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	44	2233163	2.0
+	"Kitsap County, WA"	"53035"	"1999"	"1999"	"Unintentional"	"1"	63	229393	27.5
+	"Kitsap County, WA"	"53035"	"1999"	"1999"	"Suicide"	"2"	45	229393	19.6
+	"Kitsap County, WA"	"53035"	"1999"	"1999"	"Undetermined "	"4"	10	229393	Unreliable
+	"Kitsap County, WA"	"53035"	"2000"	"2000"	"Unintentional"	"1"	70	231969	30.2
+	"Kitsap County, WA"	"53035"	"2000"	"2000"	"Suicide"	"2"	31	231969	13.4
+	"Kitsap County, WA"	"53035"	"2001"	"2001"	"Unintentional"	"1"	63	234513	26.9
+	"Kitsap County, WA"	"53035"	"2001"	"2001"	"Suicide"	"2"	25	234513	10.7
+	"Kitsap County, WA"	"53035"	"2002"	"2002"	"Unintentional"	"1"	69	238129	29.0
+	"Kitsap County, WA"	"53035"	"2002"	"2002"	"Suicide"	"2"	28	238129	11.8
+	"Kitsap County, WA"	"53035"	"2003"	"2003"	"Unintentional"	"1"	82	239758	34.2
+	"Kitsap County, WA"	"53035"	"2003"	"2003"	"Suicide"	"2"	30	239758	12.5
+	"Kitsap County, WA"	"53035"	"2004"	"2004"	"Unintentional"	"1"	81	241960	33.5
+	"Kitsap County, WA"	"53035"	"2004"	"2004"	"Suicide"	"2"	19	241960	Unreliable
+	"Kitsap County, WA"	"53035"	"2005"	"2005"	"Unintentional"	"1"	85	239806	35.4
+	"Kitsap County, WA"	"53035"	"2005"	"2005"	"Suicide"	"2"	39	239806	16.3
+	"Kitsap County, WA"	"53035"	"2005"	"2005"	"Homicide"	"3"	10	239806	Unreliable
+	"Kitsap County, WA"	"53035"	"2006"	"2006"	"Unintentional"	"1"	82	245054	33.5
+	"Kitsap County, WA"	"53035"	"2006"	"2006"	"Suicide"	"2"	30	245054	12.2
+	"Kitsap County, WA"	"53035"	"2007"	"2007"	"Unintentional"	"1"	99	244105	40.6
+	"Kitsap County, WA"	"53035"	"2007"	"2007"	"Suicide"	"2"	46	244105	18.8
+	"Kitsap County, WA"	"53035"	"2008"	"2008"	"Unintentional"	"1"	81	246912	32.8
+	"Kitsap County, WA"	"53035"	"2008"	"2008"	"Suicide"	"2"	28	246912	11.3
+	"Kitsap County, WA"	"53035"	"2009"	"2009"	"Unintentional"	"1"	97	248800	39.0
+	"Kitsap County, WA"	"53035"	"2009"	"2009"	"Suicide"	"2"	28	248800	11.3
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Unintentional"	"1"	97	251133	38.6
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Suicide"	"2"	40	251133	15.9
+	"Kitsap County, WA"	"53035"	"2011"	"2011"	"Unintentional"	"1"	97	254633	38.1
+	"Kitsap County, WA"	"53035"	"2011"	"2011"	"Suicide"	"2"	32	254633	12.6
+	"Kitsap County, WA"	"53035"	"2012"	"2012"	"Unintentional"	"1"	85	254991	33.3
+	"Kitsap County, WA"	"53035"	"2012"	"2012"	"Suicide"	"2"	36	254991	14.1
+	"Kitsap County, WA"	"53035"	"2013"	"2013"	"Unintentional"	"1"	87	253968	34.3
+	"Kitsap County, WA"	"53035"	"2013"	"2013"	"Suicide"	"2"	35	253968	13.8
+	"Kitsap County, WA"	"53035"	"2014"	"2014"	"Unintentional"	"1"	117	254183	46.0
+	"Kitsap County, WA"	"53035"	"2014"	"2014"	"Suicide"	"2"	38	254183	14.9
+	"Kitsap County, WA"	"53035"	"2015"	"2015"	"Unintentional"	"1"	121	260131	46.5
+	"Kitsap County, WA"	"53035"	"2015"	"2015"	"Suicide"	"2"	55	260131	21.1
+	"Kitsap County, WA"	"53035"	"2015"	"2015"	"Homicide"	"3"	11	260131	Unreliable
+	"Kitsap County, WA"	"53035"	"2016"	"2016"	"Unintentional"	"1"	120	264811	45.3
+	"Kitsap County, WA"	"53035"	"2016"	"2016"	"Suicide"	"2"	46	264811	17.4
+	"Kitsap County, WA"	"53035"	"2017"	"2017"	"Unintentional"	"1"	120	266414	45.0
+	"Kitsap County, WA"	"53035"	"2017"	"2017"	"Suicide"	"2"	45	266414	16.9
+	"Kitsap County, WA"	"53035"	"2017"	"2017"	"Homicide"	"3"	10	266414	Unreliable
+	"Kitsap County, WA"	"53035"	"2018"	"2018"	"Unintentional"	"1"	114	269805	42.3
+	"Kitsap County, WA"	"53035"	"2018"	"2018"	"Suicide"	"2"	41	269805	15.2
+	"Kitsap County, WA"	"53035"	"2018"	"2018"	"Undetermined "	"4"	11	269805	Unreliable
+	"Kittitas County, WA"	"53037"	"2001"	"2001"	"Unintentional"	"1"	17	34000	Unreliable
+	"Kittitas County, WA"	"53037"	"2003"	"2003"	"Unintentional"	"1"	13	35726	Unreliable
+	"Kittitas County, WA"	"53037"	"2004"	"2004"	"Unintentional"	"1"	14	36921	Unreliable
+	"Kittitas County, WA"	"53037"	"2005"	"2005"	"Unintentional"	"1"	13	37537	Unreliable
+	"Kittitas County, WA"	"53037"	"2007"	"2007"	"Unintentional"	"1"	10	39158	Unreliable
+	"Kittitas County, WA"	"53037"	"2008"	"2008"	"Unintentional"	"1"	20	40015	50.0
+	"Kittitas County, WA"	"53037"	"2010"	"2010"	"Unintentional"	"1"	19	40915	Unreliable
+	"Kittitas County, WA"	"53037"	"2011"	"2011"	"Unintentional"	"1"	19	41629	Unreliable
+	"Kittitas County, WA"	"53037"	"2011"	"2011"	"Suicide"	"2"	10	41629	Unreliable
+	"Kittitas County, WA"	"53037"	"2012"	"2012"	"Unintentional"	"1"	18	41672	Unreliable
+	"Kittitas County, WA"	"53037"	"2013"	"2013"	"Unintentional"	"1"	24	41765	57.5
+	"Kittitas County, WA"	"53037"	"2014"	"2014"	"Unintentional"	"1"	13	42522	Unreliable
+	"Kittitas County, WA"	"53037"	"2015"	"2015"	"Unintentional"	"1"	20	43269	46.2
+	"Kittitas County, WA"	"53037"	"2016"	"2016"	"Unintentional"	"1"	20	44866	44.6
+	"Kittitas County, WA"	"53037"	"2017"	"2017"	"Unintentional"	"1"	25	46205	54.1
+	"Kittitas County, WA"	"53037"	"2017"	"2017"	"Suicide"	"2"	11	46205	Unreliable
+	"Kittitas County, WA"	"53037"	"2018"	"2018"	"Unintentional"	"1"	11	47364	Unreliable
+	"Kittitas County, WA"	"53037"	"2018"	"2018"	"Suicide"	"2"	12	47364	Unreliable
+	"Klickitat County, WA"	"53039"	"1999"	"1999"	"Unintentional"	"1"	13	18929	Unreliable
+	"Klickitat County, WA"	"53039"	"2000"	"2000"	"Unintentional"	"1"	12	19161	Unreliable
+	"Klickitat County, WA"	"53039"	"2001"	"2001"	"Unintentional"	"1"	15	19161	Unreliable
+	"Klickitat County, WA"	"53039"	"2004"	"2004"	"Unintentional"	"1"	12	19232	Unreliable
+	"Klickitat County, WA"	"53039"	"2005"	"2005"	"Unintentional"	"1"	10	19279	Unreliable
+	"Klickitat County, WA"	"53039"	"2007"	"2007"	"Unintentional"	"1"	17	19898	Unreliable
+	"Klickitat County, WA"	"53039"	"2008"	"2008"	"Unintentional"	"1"	10	20135	Unreliable
+	"Klickitat County, WA"	"53039"	"2009"	"2009"	"Unintentional"	"1"	14	20164	Unreliable
+	"Klickitat County, WA"	"53039"	"2010"	"2010"	"Unintentional"	"1"	12	20318	Unreliable
+	"Klickitat County, WA"	"53039"	"2011"	"2011"	"Unintentional"	"1"	12	20697	Unreliable
+	"Klickitat County, WA"	"53039"	"2012"	"2012"	"Unintentional"	"1"	14	20699	Unreliable
+	"Klickitat County, WA"	"53039"	"2013"	"2013"	"Unintentional"	"1"	17	20866	Unreliable
+	"Klickitat County, WA"	"53039"	"2014"	"2014"	"Unintentional"	"1"	12	20861	Unreliable
+	"Klickitat County, WA"	"53039"	"2016"	"2016"	"Unintentional"	"1"	12	21301	Unreliable
+	"Klickitat County, WA"	"53039"	"2017"	"2017"	"Unintentional"	"1"	10	21811	Unreliable
+	"Klickitat County, WA"	"53039"	"2018"	"2018"	"Unintentional"	"1"	12	22107	Unreliable
+	"Lewis County, WA"	"53041"	"1999"	"1999"	"Unintentional"	"1"	26	68345	38.0
+	"Lewis County, WA"	"53041"	"1999"	"1999"	"Suicide"	"2"	10	68345	Unreliable
+	"Lewis County, WA"	"53041"	"2000"	"2000"	"Unintentional"	"1"	32	68600	46.6
+	"Lewis County, WA"	"53041"	"2000"	"2000"	"Suicide"	"2"	10	68600	Unreliable
+	"Lewis County, WA"	"53041"	"2001"	"2001"	"Unintentional"	"1"	39	68934	56.6
+	"Lewis County, WA"	"53041"	"2001"	"2001"	"Suicide"	"2"	12	68934	Unreliable
+	"Lewis County, WA"	"53041"	"2002"	"2002"	"Unintentional"	"1"	41	69452	59.0
+	"Lewis County, WA"	"53041"	"2002"	"2002"	"Suicide"	"2"	17	69452	Unreliable
+	"Lewis County, WA"	"53041"	"2003"	"2003"	"Unintentional"	"1"	33	70366	46.9
+	"Lewis County, WA"	"53041"	"2003"	"2003"	"Suicide"	"2"	18	70366	Unreliable
+	"Lewis County, WA"	"53041"	"2004"	"2004"	"Unintentional"	"1"	42	71021	59.1
+	"Lewis County, WA"	"53041"	"2004"	"2004"	"Suicide"	"2"	16	71021	Unreliable
+	"Lewis County, WA"	"53041"	"2005"	"2005"	"Unintentional"	"1"	38	72060	52.7
+	"Lewis County, WA"	"53041"	"2005"	"2005"	"Suicide"	"2"	13	72060	Unreliable
+	"Lewis County, WA"	"53041"	"2006"	"2006"	"Unintentional"	"1"	42	73318	57.3
+	"Lewis County, WA"	"53041"	"2006"	"2006"	"Suicide"	"2"	13	73318	Unreliable
+	"Lewis County, WA"	"53041"	"2007"	"2007"	"Unintentional"	"1"	41	74229	55.2
+	"Lewis County, WA"	"53041"	"2007"	"2007"	"Suicide"	"2"	15	74229	Unreliable
+	"Lewis County, WA"	"53041"	"2008"	"2008"	"Unintentional"	"1"	42	74899	56.1
+	"Lewis County, WA"	"53041"	"2008"	"2008"	"Suicide"	"2"	14	74899	Unreliable
+	"Lewis County, WA"	"53041"	"2009"	"2009"	"Unintentional"	"1"	57	75316	75.7
+	"Lewis County, WA"	"53041"	"2009"	"2009"	"Suicide"	"2"	17	75316	Unreliable
+	"Lewis County, WA"	"53041"	"2010"	"2010"	"Unintentional"	"1"	37	75455	49.0
+	"Lewis County, WA"	"53041"	"2010"	"2010"	"Suicide"	"2"	10	75455	Unreliable
+	"Lewis County, WA"	"53041"	"2011"	"2011"	"Unintentional"	"1"	49	75901	64.6
+	"Lewis County, WA"	"53041"	"2012"	"2012"	"Unintentional"	"1"	29	75621	38.3
+	"Lewis County, WA"	"53041"	"2012"	"2012"	"Suicide"	"2"	13	75621	Unreliable
+	"Lewis County, WA"	"53041"	"2013"	"2013"	"Unintentional"	"1"	29	75081	38.6
+	"Lewis County, WA"	"53041"	"2013"	"2013"	"Suicide"	"2"	10	75081	Unreliable
+	"Lewis County, WA"	"53041"	"2014"	"2014"	"Unintentional"	"1"	40	75128	53.2
+	"Lewis County, WA"	"53041"	"2014"	"2014"	"Suicide"	"2"	14	75128	Unreliable
+	"Lewis County, WA"	"53041"	"2015"	"2015"	"Unintentional"	"1"	45	75882	59.3
+	"Lewis County, WA"	"53041"	"2015"	"2015"	"Suicide"	"2"	14	75882	Unreliable
+	"Lewis County, WA"	"53041"	"2016"	"2016"	"Unintentional"	"1"	46	77066	59.7
+	"Lewis County, WA"	"53041"	"2016"	"2016"	"Suicide"	"2"	15	77066	Unreliable
+	"Lewis County, WA"	"53041"	"2016"	"2016"	"Undetermined "	"4"	10	77066	Unreliable
+	"Lewis County, WA"	"53041"	"2017"	"2017"	"Unintentional"	"1"	43	78200	55.0
+	"Lewis County, WA"	"53041"	"2017"	"2017"	"Suicide"	"2"	26	78200	33.2
+	"Lewis County, WA"	"53041"	"2018"	"2018"	"Unintentional"	"1"	40	79604	50.2
+	"Lewis County, WA"	"53041"	"2018"	"2018"	"Suicide"	"2"	15	79604	Unreliable
+	"Lincoln County, WA"	"53043"	"2008"	"2008"	"Unintentional"	"1"	10	10608	Unreliable
+	"Lincoln County, WA"	"53043"	"2009"	"2009"	"Unintentional"	"1"	11	10570	Unreliable
+	"Lincoln County, WA"	"53043"	"2016"	"2016"	"Unintentional"	"1"	13	10350	Unreliable
+	"Lincoln County, WA"	"53043"	"2018"	"2018"	"Unintentional"	"1"	10	10740	Unreliable
+	"Mason County, WA"	"53045"	"1999"	"1999"	"Unintentional"	"1"	28	48753	57.4
+	"Mason County, WA"	"53045"	"2000"	"2000"	"Unintentional"	"1"	24	49405	48.6
+	"Mason County, WA"	"53045"	"2001"	"2001"	"Unintentional"	"1"	28	50298	55.7
+	"Mason County, WA"	"53045"	"2001"	"2001"	"Suicide"	"2"	11	50298	Unreliable
+	"Mason County, WA"	"53045"	"2002"	"2002"	"Unintentional"	"1"	25	51215	48.8
+	"Mason County, WA"	"53045"	"2003"	"2003"	"Unintentional"	"1"	35	52351	66.9
+	"Mason County, WA"	"53045"	"2004"	"2004"	"Unintentional"	"1"	29	53819	53.9
+	"Mason County, WA"	"53045"	"2005"	"2005"	"Unintentional"	"1"	38	55198	68.8
+	"Mason County, WA"	"53045"	"2005"	"2005"	"Suicide"	"2"	13	55198	Unreliable
+	"Mason County, WA"	"53045"	"2006"	"2006"	"Unintentional"	"1"	39	56872	68.6
+	"Mason County, WA"	"53045"	"2007"	"2007"	"Unintentional"	"1"	34	58679	57.9
+	"Mason County, WA"	"53045"	"2007"	"2007"	"Suicide"	"2"	11	58679	Unreliable
+	"Mason County, WA"	"53045"	"2008"	"2008"	"Unintentional"	"1"	30	59785	50.2
+	"Mason County, WA"	"53045"	"2009"	"2009"	"Unintentional"	"1"	23	60333	38.1
+	"Mason County, WA"	"53045"	"2009"	"2009"	"Suicide"	"2"	13	60333	Unreliable
+	"Mason County, WA"	"53045"	"2010"	"2010"	"Unintentional"	"1"	24	60699	39.5
+	"Mason County, WA"	"53045"	"2010"	"2010"	"Suicide"	"2"	12	60699	Unreliable
+	"Mason County, WA"	"53045"	"2011"	"2011"	"Unintentional"	"1"	33	61019	54.1
+	"Mason County, WA"	"53045"	"2012"	"2012"	"Unintentional"	"1"	38	60832	62.5
+	"Mason County, WA"	"53045"	"2012"	"2012"	"Suicide"	"2"	13	60832	Unreliable
+	"Mason County, WA"	"53045"	"2013"	"2013"	"Unintentional"	"1"	37	60497	61.2
+	"Mason County, WA"	"53045"	"2013"	"2013"	"Suicide"	"2"	11	60497	Unreliable
+	"Mason County, WA"	"53045"	"2014"	"2014"	"Unintentional"	"1"	35	60711	57.7
+	"Mason County, WA"	"53045"	"2014"	"2014"	"Suicide"	"2"	16	60711	Unreliable
+	"Mason County, WA"	"53045"	"2015"	"2015"	"Unintentional"	"1"	41	61023	67.2
+	"Mason County, WA"	"53045"	"2015"	"2015"	"Suicide"	"2"	13	61023	Unreliable
+	"Mason County, WA"	"53045"	"2016"	"2016"	"Unintentional"	"1"	38	62198	61.1
+	"Mason County, WA"	"53045"	"2016"	"2016"	"Suicide"	"2"	11	62198	Unreliable
+	"Mason County, WA"	"53045"	"2017"	"2017"	"Unintentional"	"1"	48	63710	75.3
+	"Mason County, WA"	"53045"	"2017"	"2017"	"Suicide"	"2"	17	63710	Unreliable
+	"Mason County, WA"	"53045"	"2018"	"2018"	"Unintentional"	"1"	32	65507	48.8
+	"Mason County, WA"	"53045"	"2018"	"2018"	"Suicide"	"2"	20	65507	30.5
+	"Okanogan County, WA"	"53047"	"1999"	"1999"	"Unintentional"	"1"	32	39394	81.2
+	"Okanogan County, WA"	"53047"	"2000"	"2000"	"Unintentional"	"1"	25	39564	63.2
+	"Okanogan County, WA"	"53047"	"2001"	"2001"	"Unintentional"	"1"	25	39126	63.9
+	"Okanogan County, WA"	"53047"	"2002"	"2002"	"Unintentional"	"1"	42	38865	108.1
+	"Okanogan County, WA"	"53047"	"2003"	"2003"	"Unintentional"	"1"	29	38575	75.2
+	"Okanogan County, WA"	"53047"	"2004"	"2004"	"Unintentional"	"1"	34	38847	87.5
+	"Okanogan County, WA"	"53047"	"2004"	"2004"	"Suicide"	"2"	10	38847	Unreliable
+	"Okanogan County, WA"	"53047"	"2005"	"2005"	"Unintentional"	"1"	30	39143	76.6
+	"Okanogan County, WA"	"53047"	"2005"	"2005"	"Suicide"	"2"	11	39143	Unreliable
+	"Okanogan County, WA"	"53047"	"2006"	"2006"	"Unintentional"	"1"	32	39322	81.4
+	"Okanogan County, WA"	"53047"	"2006"	"2006"	"Suicide"	"2"	11	39322	Unreliable
+	"Okanogan County, WA"	"53047"	"2007"	"2007"	"Unintentional"	"1"	28	39676	70.6
+	"Okanogan County, WA"	"53047"	"2008"	"2008"	"Unintentional"	"1"	18	40235	Unreliable
+	"Okanogan County, WA"	"53047"	"2008"	"2008"	"Suicide"	"2"	13	40235	Unreliable
+	"Okanogan County, WA"	"53047"	"2009"	"2009"	"Unintentional"	"1"	32	40699	78.6
+	"Okanogan County, WA"	"53047"	"2010"	"2010"	"Unintentional"	"1"	25	41120	60.8
+	"Okanogan County, WA"	"53047"	"2011"	"2011"	"Unintentional"	"1"	30	41411	72.4
+	"Okanogan County, WA"	"53047"	"2011"	"2011"	"Suicide"	"2"	16	41411	Unreliable
+	"Okanogan County, WA"	"53047"	"2012"	"2012"	"Unintentional"	"1"	32	41275	77.5
+	"Okanogan County, WA"	"53047"	"2013"	"2013"	"Unintentional"	"1"	22	41193	53.4
+	"Okanogan County, WA"	"53047"	"2014"	"2014"	"Unintentional"	"1"	22	41290	53.3
+	"Okanogan County, WA"	"53047"	"2014"	"2014"	"Suicide"	"2"	10	41290	Unreliable
+	"Okanogan County, WA"	"53047"	"2015"	"2015"	"Unintentional"	"1"	33	41516	79.5
+	"Okanogan County, WA"	"53047"	"2016"	"2016"	"Unintentional"	"1"	24	41554	57.8
+	"Okanogan County, WA"	"53047"	"2017"	"2017"	"Unintentional"	"1"	21	41742	50.3
+	"Okanogan County, WA"	"53047"	"2017"	"2017"	"Suicide"	"2"	11	41742	Unreliable
+	"Okanogan County, WA"	"53047"	"2018"	"2018"	"Unintentional"	"1"	30	42132	71.2
+	"Okanogan County, WA"	"53047"	"2018"	"2018"	"Suicide"	"2"	10	42132	Unreliable
+	"Pacific County, WA"	"53049"	"2000"	"2000"	"Unintentional"	"1"	13	20984	Unreliable
+	"Pacific County, WA"	"53049"	"2001"	"2001"	"Unintentional"	"1"	14	20631	Unreliable
+	"Pacific County, WA"	"53049"	"2002"	"2002"	"Unintentional"	"1"	15	20514	Unreliable
+	"Pacific County, WA"	"53049"	"2003"	"2003"	"Unintentional"	"1"	16	20885	Unreliable
+	"Pacific County, WA"	"53049"	"2005"	"2005"	"Unintentional"	"1"	14	21228	Unreliable
+	"Pacific County, WA"	"53049"	"2006"	"2006"	"Unintentional"	"1"	16	21326	Unreliable
+	"Pacific County, WA"	"53049"	"2007"	"2007"	"Unintentional"	"1"	11	21415	Unreliable
+	"Pacific County, WA"	"53049"	"2008"	"2008"	"Unintentional"	"1"	14	21305	Unreliable
+	"Pacific County, WA"	"53049"	"2009"	"2009"	"Unintentional"	"1"	11	21026	Unreliable
+	"Pacific County, WA"	"53049"	"2010"	"2010"	"Unintentional"	"1"	13	20920	Unreliable
+	"Pacific County, WA"	"53049"	"2011"	"2011"	"Unintentional"	"1"	12	20930	Unreliable
+	"Pacific County, WA"	"53049"	"2012"	"2012"	"Unintentional"	"1"	16	20575	Unreliable
+	"Pacific County, WA"	"53049"	"2013"	"2013"	"Unintentional"	"1"	13	20498	Unreliable
+	"Pacific County, WA"	"53049"	"2016"	"2016"	"Unintentional"	"1"	13	21249	Unreliable
+	"Pacific County, WA"	"53049"	"2017"	"2017"	"Unintentional"	"1"	14	21626	Unreliable
+	"Pacific County, WA"	"53049"	"2018"	"2018"	"Unintentional"	"1"	17	22036	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2005"	"2005"	"Unintentional"	"1"	11	12357	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2010"	"2010"	"Unintentional"	"1"	10	13001	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2011"	"2011"	"Unintentional"	"1"	11	12936	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2012"	"2012"	"Unintentional"	"1"	10	12980	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2014"	"2014"	"Unintentional"	"1"	14	12985	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2015"	"2015"	"Unintentional"	"1"	11	13088	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2016"	"2016"	"Unintentional"	"1"	10	13123	Unreliable
+	"Pend Oreille County, WA"	"53051"	"2018"	"2018"	"Unintentional"	"1"	10	13602	Unreliable
+	"Pierce County, WA"	"53053"	"1999"	"1999"	"Unintentional"	"1"	227	692662	32.8
+	"Pierce County, WA"	"53053"	"1999"	"1999"	"Suicide"	"2"	109	692662	15.7
+	"Pierce County, WA"	"53053"	"1999"	"1999"	"Homicide"	"3"	24	692662	3.5
+	"Pierce County, WA"	"53053"	"1999"	"1999"	"Undetermined "	"4"	13	692662	Unreliable
+	"Pierce County, WA"	"53053"	"2000"	"2000"	"Unintentional"	"1"	243	700820	34.7
+	"Pierce County, WA"	"53053"	"2000"	"2000"	"Suicide"	"2"	91	700820	13.0
+	"Pierce County, WA"	"53053"	"2000"	"2000"	"Homicide"	"3"	35	700820	5.0
+	"Pierce County, WA"	"53053"	"2000"	"2000"	"Undetermined "	"4"	14	700820	Unreliable
+	"Pierce County, WA"	"53053"	"2001"	"2001"	"Unintentional"	"1"	265	716447	37.0
+	"Pierce County, WA"	"53053"	"2001"	"2001"	"Suicide"	"2"	93	716447	13.0
+	"Pierce County, WA"	"53053"	"2001"	"2001"	"Homicide"	"3"	35	716447	4.9
+	"Pierce County, WA"	"53053"	"2001"	"2001"	"Undetermined "	"4"	10	716447	Unreliable
+	"Pierce County, WA"	"53053"	"2002"	"2002"	"Unintentional"	"1"	246	728091	33.8
+	"Pierce County, WA"	"53053"	"2002"	"2002"	"Suicide"	"2"	94	728091	12.9
+	"Pierce County, WA"	"53053"	"2002"	"2002"	"Homicide"	"3"	35	728091	4.8
+	"Pierce County, WA"	"53053"	"2002"	"2002"	"Undetermined "	"4"	12	728091	Unreliable
+	"Pierce County, WA"	"53053"	"2003"	"2003"	"Unintentional"	"1"	277	733969	37.7
+	"Pierce County, WA"	"53053"	"2003"	"2003"	"Suicide"	"2"	99	733969	13.5
+	"Pierce County, WA"	"53053"	"2003"	"2003"	"Homicide"	"3"	34	733969	4.6
+	"Pierce County, WA"	"53053"	"2004"	"2004"	"Unintentional"	"1"	257	740137	34.7
+	"Pierce County, WA"	"53053"	"2004"	"2004"	"Suicide"	"2"	84	740137	11.3
+	"Pierce County, WA"	"53053"	"2004"	"2004"	"Homicide"	"3"	38	740137	5.1
+	"Pierce County, WA"	"53053"	"2004"	"2004"	"Undetermined "	"4"	11	740137	Unreliable
+	"Pierce County, WA"	"53053"	"2005"	"2005"	"Unintentional"	"1"	264	748148	35.3
+	"Pierce County, WA"	"53053"	"2005"	"2005"	"Suicide"	"2"	94	748148	12.6
+	"Pierce County, WA"	"53053"	"2005"	"2005"	"Homicide"	"3"	32	748148	4.3
+	"Pierce County, WA"	"53053"	"2005"	"2005"	"Undetermined "	"4"	13	748148	Unreliable
+	"Pierce County, WA"	"53053"	"2006"	"2006"	"Unintentional"	"1"	288	763408	37.7
+	"Pierce County, WA"	"53053"	"2006"	"2006"	"Suicide"	"2"	97	763408	12.7
+	"Pierce County, WA"	"53053"	"2006"	"2006"	"Homicide"	"3"	33	763408	4.3
+	"Pierce County, WA"	"53053"	"2006"	"2006"	"Undetermined "	"4"	11	763408	Unreliable
+	"Pierce County, WA"	"53053"	"2007"	"2007"	"Unintentional"	"1"	272	772484	35.2
+	"Pierce County, WA"	"53053"	"2007"	"2007"	"Suicide"	"2"	94	772484	12.2
+	"Pierce County, WA"	"53053"	"2007"	"2007"	"Homicide"	"3"	32	772484	4.1
+	"Pierce County, WA"	"53053"	"2007"	"2007"	"Undetermined "	"4"	24	772484	3.1
+	"Pierce County, WA"	"53053"	"2008"	"2008"	"Unintentional"	"1"	362	785400	46.1
+	"Pierce County, WA"	"53053"	"2008"	"2008"	"Suicide"	"2"	124	785400	15.8
+	"Pierce County, WA"	"53053"	"2008"	"2008"	"Homicide"	"3"	35	785400	4.5
+	"Pierce County, WA"	"53053"	"2008"	"2008"	"Undetermined "	"4"	13	785400	Unreliable
+	"Pierce County, WA"	"53053"	"2009"	"2009"	"Unintentional"	"1"	266	796483	33.4
+	"Pierce County, WA"	"53053"	"2009"	"2009"	"Suicide"	"2"	106	796483	13.3
+	"Pierce County, WA"	"53053"	"2009"	"2009"	"Homicide"	"3"	30	796483	3.8
+	"Pierce County, WA"	"53053"	"2009"	"2009"	"Undetermined "	"4"	12	796483	Unreliable
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Unintentional"	"1"	296	795225	37.2
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Suicide"	"2"	133	795225	16.7
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Homicide"	"3"	21	795225	2.6
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Undetermined "	"4"	13	795225	Unreliable
+	"Pierce County, WA"	"53053"	"2011"	"2011"	"Unintentional"	"1"	289	807904	35.8
+	"Pierce County, WA"	"53053"	"2011"	"2011"	"Suicide"	"2"	148	807904	18.3
+	"Pierce County, WA"	"53053"	"2011"	"2011"	"Homicide"	"3"	28	807904	3.5
+	"Pierce County, WA"	"53053"	"2012"	"2012"	"Unintentional"	"1"	297	811681	36.6
+	"Pierce County, WA"	"53053"	"2012"	"2012"	"Suicide"	"2"	139	811681	17.1
+	"Pierce County, WA"	"53053"	"2012"	"2012"	"Homicide"	"3"	40	811681	4.9
+	"Pierce County, WA"	"53053"	"2013"	"2013"	"Unintentional"	"1"	305	819743	37.2
+	"Pierce County, WA"	"53053"	"2013"	"2013"	"Suicide"	"2"	137	819743	16.7
+	"Pierce County, WA"	"53053"	"2013"	"2013"	"Homicide"	"3"	23	819743	2.8
+	"Pierce County, WA"	"53053"	"2014"	"2014"	"Unintentional"	"1"	330	831928	39.7
+	"Pierce County, WA"	"53053"	"2014"	"2014"	"Suicide"	"2"	151	831928	18.2
+	"Pierce County, WA"	"53053"	"2014"	"2014"	"Homicide"	"3"	33	831928	4.0
+	"Pierce County, WA"	"53053"	"2015"	"2015"	"Unintentional"	"1"	377	843954	44.7
+	"Pierce County, WA"	"53053"	"2015"	"2015"	"Suicide"	"2"	143	843954	16.9
+	"Pierce County, WA"	"53053"	"2015"	"2015"	"Homicide"	"3"	40	843954	4.7
+	"Pierce County, WA"	"53053"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	14	843954	Unreliable
+	"Pierce County, WA"	"53053"	"2016"	"2016"	"Unintentional"	"1"	386	861312	44.8
+	"Pierce County, WA"	"53053"	"2016"	"2016"	"Suicide"	"2"	175	861312	20.3
+	"Pierce County, WA"	"53053"	"2016"	"2016"	"Homicide"	"3"	36	861312	4.2
+	"Pierce County, WA"	"53053"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	15	861312	Unreliable
+	"Pierce County, WA"	"53053"	"2017"	"2017"	"Unintentional"	"1"	391	876764	44.6
+	"Pierce County, WA"	"53053"	"2017"	"2017"	"Suicide"	"2"	191	876764	21.8
+	"Pierce County, WA"	"53053"	"2017"	"2017"	"Homicide"	"3"	33	876764	3.8
+	"Pierce County, WA"	"53053"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	20	876764	2.3
+	"Pierce County, WA"	"53053"	"2018"	"2018"	"Unintentional"	"1"	374	891299	42.0
+	"Pierce County, WA"	"53053"	"2018"	"2018"	"Suicide"	"2"	161	891299	18.1
+	"Pierce County, WA"	"53053"	"2018"	"2018"	"Homicide"	"3"	43	891299	4.8
+	"Pierce County, WA"	"53053"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	16	891299	Unreliable
+	"San Juan County, WA"	"53055"	"2003"	"2003"	"Unintentional"	"1"	10	14787	Unreliable
+	"San Juan County, WA"	"53055"	"2007"	"2007"	"Unintentional"	"1"	11	15400	Unreliable
+	"San Juan County, WA"	"53055"	"2014"	"2014"	"Unintentional"	"1"	16	16015	Unreliable
+	"San Juan County, WA"	"53055"	"2017"	"2017"	"Unintentional"	"1"	10	16715	Unreliable
+	"San Juan County, WA"	"53055"	"2018"	"2018"	"Unintentional"	"1"	10	17128	Unreliable
+	"Skagit County, WA"	"53057"	"1999"	"1999"	"Unintentional"	"1"	45	101701	44.2
+	"Skagit County, WA"	"53057"	"1999"	"1999"	"Suicide"	"2"	13	101701	Unreliable
+	"Skagit County, WA"	"53057"	"2000"	"2000"	"Unintentional"	"1"	42	102979	40.8
+	"Skagit County, WA"	"53057"	"2000"	"2000"	"Suicide"	"2"	15	102979	Unreliable
+	"Skagit County, WA"	"53057"	"2001"	"2001"	"Unintentional"	"1"	48	104534	45.9
+	"Skagit County, WA"	"53057"	"2001"	"2001"	"Suicide"	"2"	15	104534	Unreliable
+	"Skagit County, WA"	"53057"	"2002"	"2002"	"Unintentional"	"1"	42	105563	39.8
+	"Skagit County, WA"	"53057"	"2002"	"2002"	"Suicide"	"2"	29	105563	27.5
+	"Skagit County, WA"	"53057"	"2003"	"2003"	"Unintentional"	"1"	57	107369	53.1
+	"Skagit County, WA"	"53057"	"2003"	"2003"	"Suicide"	"2"	17	107369	Unreliable
+	"Skagit County, WA"	"53057"	"2004"	"2004"	"Unintentional"	"1"	58	109030	53.2
+	"Skagit County, WA"	"53057"	"2004"	"2004"	"Suicide"	"2"	11	109030	Unreliable
+	"Skagit County, WA"	"53057"	"2005"	"2005"	"Unintentional"	"1"	69	110683	62.3
+	"Skagit County, WA"	"53057"	"2005"	"2005"	"Suicide"	"2"	15	110683	Unreliable
+	"Skagit County, WA"	"53057"	"2006"	"2006"	"Unintentional"	"1"	62	112621	55.1
+	"Skagit County, WA"	"53057"	"2007"	"2007"	"Unintentional"	"1"	53	114066	46.5
+	"Skagit County, WA"	"53057"	"2007"	"2007"	"Suicide"	"2"	18	114066	Unreliable
+	"Skagit County, WA"	"53057"	"2008"	"2008"	"Unintentional"	"1"	57	115808	49.2
+	"Skagit County, WA"	"53057"	"2008"	"2008"	"Suicide"	"2"	11	115808	Unreliable
+	"Skagit County, WA"	"53057"	"2008"	"2008"	"Homicide"	"3"	10	115808	Unreliable
+	"Skagit County, WA"	"53057"	"2009"	"2009"	"Unintentional"	"1"	73	116557	62.6
+	"Skagit County, WA"	"53057"	"2009"	"2009"	"Suicide"	"2"	17	116557	Unreliable
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Unintentional"	"1"	63	116901	53.9
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Suicide"	"2"	19	116901	Unreliable
+	"Skagit County, WA"	"53057"	"2011"	"2011"	"Unintentional"	"1"	64	118109	54.2
+	"Skagit County, WA"	"53057"	"2011"	"2011"	"Suicide"	"2"	20	118109	16.9
+	"Skagit County, WA"	"53057"	"2012"	"2012"	"Unintentional"	"1"	56	118222	47.4
+	"Skagit County, WA"	"53057"	"2012"	"2012"	"Suicide"	"2"	13	118222	Unreliable
+	"Skagit County, WA"	"53057"	"2013"	"2013"	"Unintentional"	"1"	67	118837	56.4
+	"Skagit County, WA"	"53057"	"2013"	"2013"	"Suicide"	"2"	23	118837	19.4
+	"Skagit County, WA"	"53057"	"2014"	"2014"	"Unintentional"	"1"	54	120365	44.9
+	"Skagit County, WA"	"53057"	"2014"	"2014"	"Suicide"	"2"	22	120365	18.3
+	"Skagit County, WA"	"53057"	"2015"	"2015"	"Unintentional"	"1"	64	121846	52.5
+	"Skagit County, WA"	"53057"	"2015"	"2015"	"Suicide"	"2"	17	121846	Unreliable
+	"Skagit County, WA"	"53057"	"2016"	"2016"	"Unintentional"	"1"	48	123681	38.8
+	"Skagit County, WA"	"53057"	"2016"	"2016"	"Suicide"	"2"	18	123681	Unreliable
+	"Skagit County, WA"	"53057"	"2017"	"2017"	"Unintentional"	"1"	52	125619	41.4
+	"Skagit County, WA"	"53057"	"2017"	"2017"	"Suicide"	"2"	28	125619	22.3
+	"Skagit County, WA"	"53057"	"2017"	"2017"	"Homicide"	"3"	10	125619	Unreliable
+	"Skagit County, WA"	"53057"	"2018"	"2018"	"Unintentional"	"1"	61	128206	47.6
+	"Skagit County, WA"	"53057"	"2018"	"2018"	"Suicide"	"2"	24	128206	18.7
+	"Snohomish County, WA"	"53061"	"1999"	"1999"	"Unintentional"	"1"	177	597931	29.6
+	"Snohomish County, WA"	"53061"	"1999"	"1999"	"Suicide"	"2"	74	597931	12.4
+	"Snohomish County, WA"	"53061"	"1999"	"1999"	"Homicide"	"3"	12	597931	Unreliable
+	"Snohomish County, WA"	"53061"	"2000"	"2000"	"Unintentional"	"1"	185	606024	30.5
+	"Snohomish County, WA"	"53061"	"2000"	"2000"	"Suicide"	"2"	84	606024	13.9
+	"Snohomish County, WA"	"53061"	"2000"	"2000"	"Homicide"	"3"	16	606024	Unreliable
+	"Snohomish County, WA"	"53061"	"2000"	"2000"	"Undetermined "	"4"	13	606024	Unreliable
+	"Snohomish County, WA"	"53061"	"2001"	"2001"	"Unintentional"	"1"	166	622390	26.7
+	"Snohomish County, WA"	"53061"	"2001"	"2001"	"Suicide"	"2"	70	622390	11.2
+	"Snohomish County, WA"	"53061"	"2001"	"2001"	"Homicide"	"3"	15	622390	Unreliable
+	"Snohomish County, WA"	"53061"	"2001"	"2001"	"Undetermined "	"4"	15	622390	Unreliable
+	"Snohomish County, WA"	"53061"	"2002"	"2002"	"Unintentional"	"1"	226	631526	35.8
+	"Snohomish County, WA"	"53061"	"2002"	"2002"	"Suicide"	"2"	80	631526	12.7
+	"Snohomish County, WA"	"53061"	"2002"	"2002"	"Homicide"	"3"	11	631526	Unreliable
+	"Snohomish County, WA"	"53061"	"2002"	"2002"	"Undetermined "	"4"	10	631526	Unreliable
+	"Snohomish County, WA"	"53061"	"2003"	"2003"	"Unintentional"	"1"	230	635612	36.2
+	"Snohomish County, WA"	"53061"	"2003"	"2003"	"Suicide"	"2"	78	635612	12.3
+	"Snohomish County, WA"	"53061"	"2003"	"2003"	"Homicide"	"3"	17	635612	Unreliable
+	"Snohomish County, WA"	"53061"	"2003"	"2003"	"Undetermined "	"4"	17	635612	Unreliable
+	"Snohomish County, WA"	"53061"	"2004"	"2004"	"Unintentional"	"1"	215	643533	33.4
+	"Snohomish County, WA"	"53061"	"2004"	"2004"	"Suicide"	"2"	86	643533	13.4
+	"Snohomish County, WA"	"53061"	"2004"	"2004"	"Homicide"	"3"	17	643533	Unreliable
+	"Snohomish County, WA"	"53061"	"2004"	"2004"	"Undetermined "	"4"	14	643533	Unreliable
+	"Snohomish County, WA"	"53061"	"2005"	"2005"	"Unintentional"	"1"	251	654849	38.3
+	"Snohomish County, WA"	"53061"	"2005"	"2005"	"Suicide"	"2"	82	654849	12.5
+	"Snohomish County, WA"	"53061"	"2005"	"2005"	"Homicide"	"3"	17	654849	Unreliable
+	"Snohomish County, WA"	"53061"	"2006"	"2006"	"Unintentional"	"1"	271	670706	40.4
+	"Snohomish County, WA"	"53061"	"2006"	"2006"	"Suicide"	"2"	70	670706	10.4
+	"Snohomish County, WA"	"53061"	"2006"	"2006"	"Homicide"	"3"	13	670706	Unreliable
+	"Snohomish County, WA"	"53061"	"2007"	"2007"	"Unintentional"	"1"	264	683997	38.6
+	"Snohomish County, WA"	"53061"	"2007"	"2007"	"Suicide"	"2"	71	683997	10.4
+	"Snohomish County, WA"	"53061"	"2007"	"2007"	"Homicide"	"3"	19	683997	Unreliable
+	"Snohomish County, WA"	"53061"	"2008"	"2008"	"Unintentional"	"1"	302	694622	43.5
+	"Snohomish County, WA"	"53061"	"2008"	"2008"	"Suicide"	"2"	67	694622	9.6
+	"Snohomish County, WA"	"53061"	"2008"	"2008"	"Homicide"	"3"	12	694622	Unreliable
+	"Snohomish County, WA"	"53061"	"2009"	"2009"	"Unintentional"	"1"	266	706302	37.7
+	"Snohomish County, WA"	"53061"	"2009"	"2009"	"Suicide"	"2"	108	706302	15.3
+	"Snohomish County, WA"	"53061"	"2009"	"2009"	"Homicide"	"3"	20	706302	2.8
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Unintentional"	"1"	243	713335	34.1
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Suicide"	"2"	108	713335	15.1
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Homicide"	"3"	13	713335	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Undetermined "	"4"	10	713335	Unreliable
+	"Snohomish County, WA"	"53061"	"2011"	"2011"	"Unintentional"	"1"	342	722400	47.3
+	"Snohomish County, WA"	"53061"	"2011"	"2011"	"Suicide"	"2"	97	722400	13.4
+	"Snohomish County, WA"	"53061"	"2011"	"2011"	"Undetermined "	"4"	11	722400	Unreliable
+	"Snohomish County, WA"	"53061"	"2012"	"2012"	"Unintentional"	"1"	274	733036	37.4
+	"Snohomish County, WA"	"53061"	"2012"	"2012"	"Suicide"	"2"	99	733036	13.5
+	"Snohomish County, WA"	"53061"	"2012"	"2012"	"Homicide"	"3"	15	733036	Unreliable
+	"Snohomish County, WA"	"53061"	"2013"	"2013"	"Unintentional"	"1"	296	745913	39.7
+	"Snohomish County, WA"	"53061"	"2013"	"2013"	"Suicide"	"2"	92	745913	12.3
+	"Snohomish County, WA"	"53061"	"2013"	"2013"	"Homicide"	"3"	18	745913	Unreliable
+	"Snohomish County, WA"	"53061"	"2013"	"2013"	"Undetermined "	"4"	10	745913	Unreliable
+	"Snohomish County, WA"	"53061"	"2014"	"2014"	"Unintentional"	"1"	330	759583	43.4
+	"Snohomish County, WA"	"53061"	"2014"	"2014"	"Suicide"	"2"	128	759583	16.9
+	"Snohomish County, WA"	"53061"	"2014"	"2014"	"Homicide"	"3"	15	759583	Unreliable
+	"Snohomish County, WA"	"53061"	"2015"	"2015"	"Unintentional"	"1"	323	772501	41.8
+	"Snohomish County, WA"	"53061"	"2015"	"2015"	"Suicide"	"2"	115	772501	14.9
+	"Snohomish County, WA"	"53061"	"2015"	"2015"	"Homicide"	"3"	18	772501	Unreliable
+	"Snohomish County, WA"	"53061"	"2016"	"2016"	"Unintentional"	"1"	307	787620	39.0
+	"Snohomish County, WA"	"53061"	"2016"	"2016"	"Suicide"	"2"	116	787620	14.7
+	"Snohomish County, WA"	"53061"	"2016"	"2016"	"Homicide"	"3"	21	787620	2.7
+	"Snohomish County, WA"	"53061"	"2017"	"2017"	"Unintentional"	"1"	343	801633	42.8
+	"Snohomish County, WA"	"53061"	"2017"	"2017"	"Suicide"	"2"	129	801633	16.1
+	"Snohomish County, WA"	"53061"	"2017"	"2017"	"Homicide"	"3"	18	801633	Unreliable
+	"Snohomish County, WA"	"53061"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	13	801633	Unreliable
+	"Snohomish County, WA"	"53061"	"2018"	"2018"	"Unintentional"	"1"	400	814901	49.1
+	"Snohomish County, WA"	"53061"	"2018"	"2018"	"Suicide"	"2"	129	814901	15.8
+	"Snohomish County, WA"	"53061"	"2018"	"2018"	"Homicide"	"3"	23	814901	2.8
+	"Snohomish County, WA"	"53061"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	15	814901	Unreliable
+	"Spokane County, WA"	"53063"	"1999"	"1999"	"Unintentional"	"1"	137	415426	33.0
+	"Spokane County, WA"	"53063"	"1999"	"1999"	"Suicide"	"2"	59	415426	14.2
+	"Spokane County, WA"	"53063"	"1999"	"1999"	"Homicide"	"3"	16	415426	Unreliable
+	"Spokane County, WA"	"53063"	"1999"	"1999"	"Undetermined "	"4"	14	415426	Unreliable
+	"Spokane County, WA"	"53063"	"2000"	"2000"	"Unintentional"	"1"	202	417939	48.3
+	"Spokane County, WA"	"53063"	"2000"	"2000"	"Suicide"	"2"	57	417939	13.6
+	"Spokane County, WA"	"53063"	"2000"	"2000"	"Homicide"	"3"	11	417939	Unreliable
+	"Spokane County, WA"	"53063"	"2000"	"2000"	"Undetermined "	"4"	19	417939	Unreliable
+	"Spokane County, WA"	"53063"	"2001"	"2001"	"Unintentional"	"1"	199	422922	47.1
+	"Spokane County, WA"	"53063"	"2001"	"2001"	"Suicide"	"2"	59	422922	14.0
+	"Spokane County, WA"	"53063"	"2001"	"2001"	"Homicide"	"3"	15	422922	Unreliable
+	"Spokane County, WA"	"53063"	"2001"	"2001"	"Undetermined "	"4"	10	422922	Unreliable
+	"Spokane County, WA"	"53063"	"2002"	"2002"	"Unintentional"	"1"	195	427107	45.7
+	"Spokane County, WA"	"53063"	"2002"	"2002"	"Suicide"	"2"	64	427107	15.0
+	"Spokane County, WA"	"53063"	"2002"	"2002"	"Homicide"	"3"	24	427107	5.6
+	"Spokane County, WA"	"53063"	"2003"	"2003"	"Unintentional"	"1"	202	430710	46.9
+	"Spokane County, WA"	"53063"	"2003"	"2003"	"Suicide"	"2"	64	430710	14.9
+	"Spokane County, WA"	"53063"	"2003"	"2003"	"Homicide"	"3"	19	430710	Unreliable
+	"Spokane County, WA"	"53063"	"2004"	"2004"	"Unintentional"	"1"	218	435268	50.1
+	"Spokane County, WA"	"53063"	"2004"	"2004"	"Suicide"	"2"	93	435268	21.4
+	"Spokane County, WA"	"53063"	"2004"	"2004"	"Homicide"	"3"	14	435268	Unreliable
+	"Spokane County, WA"	"53063"	"2004"	"2004"	"Undetermined "	"4"	10	435268	Unreliable
+	"Spokane County, WA"	"53063"	"2005"	"2005"	"Unintentional"	"1"	214	440439	48.6
+	"Spokane County, WA"	"53063"	"2005"	"2005"	"Suicide"	"2"	64	440439	14.5
+	"Spokane County, WA"	"53063"	"2005"	"2005"	"Homicide"	"3"	15	440439	Unreliable
+	"Spokane County, WA"	"53063"	"2006"	"2006"	"Unintentional"	"1"	237	447517	53.0
+	"Spokane County, WA"	"53063"	"2006"	"2006"	"Suicide"	"2"	71	447517	15.9
+	"Spokane County, WA"	"53063"	"2006"	"2006"	"Homicide"	"3"	18	447517	Unreliable
+	"Spokane County, WA"	"53063"	"2007"	"2007"	"Unintentional"	"1"	253	456150	55.5
+	"Spokane County, WA"	"53063"	"2007"	"2007"	"Suicide"	"2"	76	456150	16.7
+	"Spokane County, WA"	"53063"	"2007"	"2007"	"Homicide"	"3"	14	456150	Unreliable
+	"Spokane County, WA"	"53063"	"2008"	"2008"	"Unintentional"	"1"	306	462263	66.2
+	"Spokane County, WA"	"53063"	"2008"	"2008"	"Suicide"	"2"	94	462263	20.3
+	"Spokane County, WA"	"53063"	"2008"	"2008"	"Homicide"	"3"	20	462263	4.3
+	"Spokane County, WA"	"53063"	"2008"	"2008"	"Undetermined "	"4"	11	462263	Unreliable
+	"Spokane County, WA"	"53063"	"2009"	"2009"	"Unintentional"	"1"	265	468235	56.6
+	"Spokane County, WA"	"53063"	"2009"	"2009"	"Suicide"	"2"	64	468235	13.7
+	"Spokane County, WA"	"53063"	"2009"	"2009"	"Homicide"	"3"	13	468235	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Unintentional"	"1"	297	471221	63.0
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Suicide"	"2"	67	471221	14.2
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Homicide"	"3"	10	471221	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Undetermined "	"4"	11	471221	Unreliable
+	"Spokane County, WA"	"53063"	"2011"	"2011"	"Unintentional"	"1"	286	473761	60.4
+	"Spokane County, WA"	"53063"	"2011"	"2011"	"Suicide"	"2"	65	473761	13.7
+	"Spokane County, WA"	"53063"	"2012"	"2012"	"Unintentional"	"1"	317	475735	66.6
+	"Spokane County, WA"	"53063"	"2012"	"2012"	"Suicide"	"2"	74	475735	15.6
+	"Spokane County, WA"	"53063"	"2012"	"2012"	"Homicide"	"3"	17	475735	Unreliable
+	"Spokane County, WA"	"53063"	"2013"	"2013"	"Unintentional"	"1"	280	479398	58.4
+	"Spokane County, WA"	"53063"	"2013"	"2013"	"Suicide"	"2"	97	479398	20.2
+	"Spokane County, WA"	"53063"	"2013"	"2013"	"Homicide"	"3"	24	479398	5.0
+	"Spokane County, WA"	"53063"	"2014"	"2014"	"Unintentional"	"1"	270	484318	55.7
+	"Spokane County, WA"	"53063"	"2014"	"2014"	"Suicide"	"2"	90	484318	18.6
+	"Spokane County, WA"	"53063"	"2014"	"2014"	"Homicide"	"3"	20	484318	4.1
+	"Spokane County, WA"	"53063"	"2015"	"2015"	"Unintentional"	"1"	345	490945	70.3
+	"Spokane County, WA"	"53063"	"2015"	"2015"	"Suicide"	"2"	100	490945	20.4
+	"Spokane County, WA"	"53063"	"2015"	"2015"	"Homicide"	"3"	18	490945	Unreliable
+	"Spokane County, WA"	"53063"	"2015"	"2015"	"Undetermined "	"4"	11	490945	Unreliable
+	"Spokane County, WA"	"53063"	"2016"	"2016"	"Unintentional"	"1"	355	499072	71.1
+	"Spokane County, WA"	"53063"	"2016"	"2016"	"Suicide"	"2"	90	499072	18.0
+	"Spokane County, WA"	"53063"	"2016"	"2016"	"Homicide"	"3"	18	499072	Unreliable
+	"Spokane County, WA"	"53063"	"2016"	"2016"	"Undetermined "	"4"	15	499072	Unreliable
+	"Spokane County, WA"	"53063"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	11	499072	Unreliable
+	"Spokane County, WA"	"53063"	"2017"	"2017"	"Unintentional"	"1"	359	506152	70.9
+	"Spokane County, WA"	"53063"	"2017"	"2017"	"Suicide"	"2"	113	506152	22.3
+	"Spokane County, WA"	"53063"	"2017"	"2017"	"Homicide"	"3"	18	506152	Unreliable
+	"Spokane County, WA"	"53063"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	14	506152	Unreliable
+	"Spokane County, WA"	"53063"	"2018"	"2018"	"Unintentional"	"1"	335	514631	65.1
+	"Spokane County, WA"	"53063"	"2018"	"2018"	"Suicide"	"2"	105	514631	20.4
+	"Spokane County, WA"	"53063"	"2018"	"2018"	"Homicide"	"3"	17	514631	Unreliable
+	"Stevens County, WA"	"53065"	"1999"	"1999"	"Unintentional"	"1"	27	39524	68.3
+	"Stevens County, WA"	"53065"	"2000"	"2000"	"Unintentional"	"1"	19	40066	Unreliable
+	"Stevens County, WA"	"53065"	"2001"	"2001"	"Unintentional"	"1"	11	40204	Unreliable
+	"Stevens County, WA"	"53065"	"2002"	"2002"	"Unintentional"	"1"	24	40334	59.5
+	"Stevens County, WA"	"53065"	"2003"	"2003"	"Unintentional"	"1"	30	40589	73.9
+	"Stevens County, WA"	"53065"	"2004"	"2004"	"Unintentional"	"1"	31	41022	75.6
+	"Stevens County, WA"	"53065"	"2004"	"2004"	"Suicide"	"2"	10	41022	Unreliable
+	"Stevens County, WA"	"53065"	"2005"	"2005"	"Unintentional"	"1"	35	41612	84.1
+	"Stevens County, WA"	"53065"	"2006"	"2006"	"Unintentional"	"1"	37	42366	87.3
+	"Stevens County, WA"	"53065"	"2007"	"2007"	"Unintentional"	"1"	32	43059	74.3
+	"Stevens County, WA"	"53065"	"2007"	"2007"	"Suicide"	"2"	10	43059	Unreliable
+	"Stevens County, WA"	"53065"	"2008"	"2008"	"Unintentional"	"1"	33	43398	76.0
+	"Stevens County, WA"	"53065"	"2009"	"2009"	"Unintentional"	"1"	33	43548	75.8
+	"Stevens County, WA"	"53065"	"2009"	"2009"	"Suicide"	"2"	12	43548	Unreliable
+	"Stevens County, WA"	"53065"	"2010"	"2010"	"Unintentional"	"1"	25	43531	57.4
+	"Stevens County, WA"	"53065"	"2011"	"2011"	"Unintentional"	"1"	33	43496	75.9
+	"Stevens County, WA"	"53065"	"2011"	"2011"	"Suicide"	"2"	12	43496	Unreliable
+	"Stevens County, WA"	"53065"	"2012"	"2012"	"Unintentional"	"1"	27	43538	62.0
+	"Stevens County, WA"	"53065"	"2012"	"2012"	"Suicide"	"2"	14	43538	Unreliable
+	"Stevens County, WA"	"53065"	"2013"	"2013"	"Unintentional"	"1"	31	43430	71.4
+	"Stevens County, WA"	"53065"	"2013"	"2013"	"Suicide"	"2"	11	43430	Unreliable
+	"Stevens County, WA"	"53065"	"2014"	"2014"	"Unintentional"	"1"	31	43650	71.0
+	"Stevens County, WA"	"53065"	"2015"	"2015"	"Unintentional"	"1"	35	43791	79.9
+	"Stevens County, WA"	"53065"	"2015"	"2015"	"Suicide"	"2"	12	43791	Unreliable
+	"Stevens County, WA"	"53065"	"2016"	"2016"	"Unintentional"	"1"	41	44439	92.3
+	"Stevens County, WA"	"53065"	"2017"	"2017"	"Unintentional"	"1"	26	44730	58.1
+	"Stevens County, WA"	"53065"	"2017"	"2017"	"Suicide"	"2"	13	44730	Unreliable
+	"Stevens County, WA"	"53065"	"2018"	"2018"	"Unintentional"	"1"	37	45260	81.7
+	"Stevens County, WA"	"53065"	"2018"	"2018"	"Suicide"	"2"	12	45260	Unreliable
+	"Thurston County, WA"	"53067"	"1999"	"1999"	"Unintentional"	"1"	69	204873	33.7
+	"Thurston County, WA"	"53067"	"1999"	"1999"	"Suicide"	"2"	33	204873	16.1
+	"Thurston County, WA"	"53067"	"2000"	"2000"	"Unintentional"	"1"	73	207355	35.2
+	"Thurston County, WA"	"53067"	"2000"	"2000"	"Suicide"	"2"	29	207355	14.0
+	"Thurston County, WA"	"53067"	"2001"	"2001"	"Unintentional"	"1"	70	212421	33.0
+	"Thurston County, WA"	"53067"	"2001"	"2001"	"Suicide"	"2"	21	212421	9.9
+	"Thurston County, WA"	"53067"	"2002"	"2002"	"Unintentional"	"1"	78	216313	36.1
+	"Thurston County, WA"	"53067"	"2002"	"2002"	"Suicide"	"2"	29	216313	13.4
+	"Thurston County, WA"	"53067"	"2003"	"2003"	"Unintentional"	"1"	78	219499	35.5
+	"Thurston County, WA"	"53067"	"2003"	"2003"	"Suicide"	"2"	37	219499	16.9
+	"Thurston County, WA"	"53067"	"2004"	"2004"	"Unintentional"	"1"	74	222985	33.2
+	"Thurston County, WA"	"53067"	"2004"	"2004"	"Suicide"	"2"	35	222985	15.7
+	"Thurston County, WA"	"53067"	"2005"	"2005"	"Unintentional"	"1"	94	227023	41.4
+	"Thurston County, WA"	"53067"	"2005"	"2005"	"Suicide"	"2"	26	227023	11.5
+	"Thurston County, WA"	"53067"	"2006"	"2006"	"Unintentional"	"1"	86	232688	37.0
+	"Thurston County, WA"	"53067"	"2006"	"2006"	"Suicide"	"2"	32	232688	13.8
+	"Thurston County, WA"	"53067"	"2006"	"2006"	"Undetermined "	"4"	10	232688	Unreliable
+	"Thurston County, WA"	"53067"	"2007"	"2007"	"Unintentional"	"1"	106	237772	44.6
+	"Thurston County, WA"	"53067"	"2007"	"2007"	"Suicide"	"2"	31	237772	13.0
+	"Thurston County, WA"	"53067"	"2008"	"2008"	"Unintentional"	"1"	90	244332	36.8
+	"Thurston County, WA"	"53067"	"2008"	"2008"	"Suicide"	"2"	44	244332	18.0
+	"Thurston County, WA"	"53067"	"2009"	"2009"	"Unintentional"	"1"	107	249936	42.8
+	"Thurston County, WA"	"53067"	"2009"	"2009"	"Suicide"	"2"	39	249936	15.6
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Unintentional"	"1"	89	252264	35.3
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Suicide"	"2"	26	252264	10.3
+	"Thurston County, WA"	"53067"	"2011"	"2011"	"Unintentional"	"1"	113	256591	44.0
+	"Thurston County, WA"	"53067"	"2011"	"2011"	"Suicide"	"2"	42	256591	16.4
+	"Thurston County, WA"	"53067"	"2012"	"2012"	"Unintentional"	"1"	97	258332	37.5
+	"Thurston County, WA"	"53067"	"2012"	"2012"	"Suicide"	"2"	45	258332	17.4
+	"Thurston County, WA"	"53067"	"2013"	"2013"	"Unintentional"	"1"	115	262388	43.8
+	"Thurston County, WA"	"53067"	"2013"	"2013"	"Suicide"	"2"	46	262388	17.5
+	"Thurston County, WA"	"53067"	"2014"	"2014"	"Unintentional"	"1"	111	265851	41.8
+	"Thurston County, WA"	"53067"	"2014"	"2014"	"Suicide"	"2"	43	265851	16.2
+	"Thurston County, WA"	"53067"	"2015"	"2015"	"Unintentional"	"1"	120	269536	44.5
+	"Thurston County, WA"	"53067"	"2015"	"2015"	"Suicide"	"2"	48	269536	17.8
+	"Thurston County, WA"	"53067"	"2016"	"2016"	"Unintentional"	"1"	120	275222	43.6
+	"Thurston County, WA"	"53067"	"2016"	"2016"	"Suicide"	"2"	53	275222	19.3
+	"Thurston County, WA"	"53067"	"2017"	"2017"	"Unintentional"	"1"	141	280588	50.3
+	"Thurston County, WA"	"53067"	"2017"	"2017"	"Suicide"	"2"	61	280588	21.7
+	"Thurston County, WA"	"53067"	"2018"	"2018"	"Unintentional"	"1"	139	286419	48.5
+	"Thurston County, WA"	"53067"	"2018"	"2018"	"Suicide"	"2"	44	286419	15.4
+	"Walla Walla County, WA"	"53071"	"1999"	"1999"	"Unintentional"	"1"	21	54806	38.3
+	"Walla Walla County, WA"	"53071"	"1999"	"1999"	"Suicide"	"2"	10	54806	Unreliable
+	"Walla Walla County, WA"	"53071"	"2000"	"2000"	"Unintentional"	"1"	17	55180	Unreliable
+	"Walla Walla County, WA"	"53071"	"2001"	"2001"	"Unintentional"	"1"	24	55072	43.6
+	"Walla Walla County, WA"	"53071"	"2001"	"2001"	"Suicide"	"2"	11	55072	Unreliable
+	"Walla Walla County, WA"	"53071"	"2002"	"2002"	"Unintentional"	"1"	19	55666	Unreliable
+	"Walla Walla County, WA"	"53071"	"2003"	"2003"	"Unintentional"	"1"	30	56108	53.5
+	"Walla Walla County, WA"	"53071"	"2004"	"2004"	"Unintentional"	"1"	28	56652	49.4
+	"Walla Walla County, WA"	"53071"	"2004"	"2004"	"Suicide"	"2"	10	56652	Unreliable
+	"Walla Walla County, WA"	"53071"	"2005"	"2005"	"Unintentional"	"1"	23	56569	40.7
+	"Walla Walla County, WA"	"53071"	"2006"	"2006"	"Unintentional"	"1"	29	56705	51.1
+	"Walla Walla County, WA"	"53071"	"2007"	"2007"	"Unintentional"	"1"	43	56840	75.7
+	"Walla Walla County, WA"	"53071"	"2007"	"2007"	"Suicide"	"2"	11	56840	Unreliable
+	"Walla Walla County, WA"	"53071"	"2008"	"2008"	"Unintentional"	"1"	28	57315	48.9
+	"Walla Walla County, WA"	"53071"	"2008"	"2008"	"Suicide"	"2"	12	57315	Unreliable
+	"Walla Walla County, WA"	"53071"	"2009"	"2009"	"Unintentional"	"1"	46	58103	79.2
+	"Walla Walla County, WA"	"53071"	"2009"	"2009"	"Suicide"	"2"	11	58103	Unreliable
+	"Walla Walla County, WA"	"53071"	"2010"	"2010"	"Unintentional"	"1"	34	58781	57.8
+	"Walla Walla County, WA"	"53071"	"2011"	"2011"	"Unintentional"	"1"	22	59588	36.9
+	"Walla Walla County, WA"	"53071"	"2011"	"2011"	"Suicide"	"2"	10	59588	Unreliable
+	"Walla Walla County, WA"	"53071"	"2012"	"2012"	"Unintentional"	"1"	26	59404	43.8
+	"Walla Walla County, WA"	"53071"	"2013"	"2013"	"Unintentional"	"1"	34	59530	57.1
+	"Walla Walla County, WA"	"53071"	"2014"	"2014"	"Unintentional"	"1"	35	59844	58.5
+	"Walla Walla County, WA"	"53071"	"2014"	"2014"	"Suicide"	"2"	13	59844	Unreliable
+	"Walla Walla County, WA"	"53071"	"2015"	"2015"	"Unintentional"	"1"	37	60338	61.3
+	"Walla Walla County, WA"	"53071"	"2016"	"2016"	"Unintentional"	"1"	35	60340	58.0
+	"Walla Walla County, WA"	"53071"	"2016"	"2016"	"Suicide"	"2"	10	60340	Unreliable
+	"Walla Walla County, WA"	"53071"	"2017"	"2017"	"Unintentional"	"1"	43	60567	71.0
+	"Walla Walla County, WA"	"53071"	"2017"	"2017"	"Suicide"	"2"	12	60567	Unreliable
+	"Walla Walla County, WA"	"53071"	"2018"	"2018"	"Unintentional"	"1"	34	60922	55.8
+	"Whatcom County, WA"	"53073"	"1999"	"1999"	"Unintentional"	"1"	47	164566	28.6
+	"Whatcom County, WA"	"53073"	"1999"	"1999"	"Suicide"	"2"	17	164566	Unreliable
+	"Whatcom County, WA"	"53073"	"2000"	"2000"	"Unintentional"	"1"	56	166814	33.6
+	"Whatcom County, WA"	"53073"	"2000"	"2000"	"Suicide"	"2"	22	166814	13.2
+	"Whatcom County, WA"	"53073"	"2001"	"2001"	"Unintentional"	"1"	73	171172	42.6
+	"Whatcom County, WA"	"53073"	"2001"	"2001"	"Suicide"	"2"	23	171172	13.4
+	"Whatcom County, WA"	"53073"	"2002"	"2002"	"Unintentional"	"1"	67	174904	38.3
+	"Whatcom County, WA"	"53073"	"2002"	"2002"	"Suicide"	"2"	28	174904	16.0
+	"Whatcom County, WA"	"53073"	"2003"	"2003"	"Unintentional"	"1"	51	177851	28.7
+	"Whatcom County, WA"	"53073"	"2003"	"2003"	"Suicide"	"2"	29	177851	16.3
+	"Whatcom County, WA"	"53073"	"2004"	"2004"	"Unintentional"	"1"	53	181756	29.2
+	"Whatcom County, WA"	"53073"	"2004"	"2004"	"Suicide"	"2"	22	181756	12.1
+	"Whatcom County, WA"	"53073"	"2005"	"2005"	"Unintentional"	"1"	61	185450	32.9
+	"Whatcom County, WA"	"53073"	"2005"	"2005"	"Suicide"	"2"	30	185450	16.2
+	"Whatcom County, WA"	"53073"	"2006"	"2006"	"Unintentional"	"1"	65	188926	34.4
+	"Whatcom County, WA"	"53073"	"2006"	"2006"	"Suicide"	"2"	23	188926	12.2
+	"Whatcom County, WA"	"53073"	"2007"	"2007"	"Unintentional"	"1"	63	192837	32.7
+	"Whatcom County, WA"	"53073"	"2007"	"2007"	"Suicide"	"2"	20	192837	10.4
+	"Whatcom County, WA"	"53073"	"2008"	"2008"	"Unintentional"	"1"	64	196708	32.5
+	"Whatcom County, WA"	"53073"	"2008"	"2008"	"Suicide"	"2"	33	196708	16.8
+	"Whatcom County, WA"	"53073"	"2009"	"2009"	"Unintentional"	"1"	60	199865	30.0
+	"Whatcom County, WA"	"53073"	"2009"	"2009"	"Suicide"	"2"	35	199865	17.5
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Unintentional"	"1"	46	201140	22.9
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Suicide"	"2"	24	201140	11.9
+	"Whatcom County, WA"	"53073"	"2011"	"2011"	"Unintentional"	"1"	49	203663	24.1
+	"Whatcom County, WA"	"53073"	"2011"	"2011"	"Suicide"	"2"	29	203663	14.2
+	"Whatcom County, WA"	"53073"	"2012"	"2012"	"Unintentional"	"1"	54	205262	26.3
+	"Whatcom County, WA"	"53073"	"2012"	"2012"	"Suicide"	"2"	20	205262	9.7
+	"Whatcom County, WA"	"53073"	"2013"	"2013"	"Unintentional"	"1"	60	206353	29.1
+	"Whatcom County, WA"	"53073"	"2013"	"2013"	"Suicide"	"2"	43	206353	20.8
+	"Whatcom County, WA"	"53073"	"2014"	"2014"	"Unintentional"	"1"	70	208351	33.6
+	"Whatcom County, WA"	"53073"	"2014"	"2014"	"Suicide"	"2"	32	208351	15.4
+	"Whatcom County, WA"	"53073"	"2015"	"2015"	"Unintentional"	"1"	71	212284	33.4
+	"Whatcom County, WA"	"53073"	"2015"	"2015"	"Suicide"	"2"	33	212284	15.5
+	"Whatcom County, WA"	"53073"	"2016"	"2016"	"Unintentional"	"1"	71	216800	32.7
+	"Whatcom County, WA"	"53073"	"2016"	"2016"	"Suicide"	"2"	30	216800	13.8
+	"Whatcom County, WA"	"53073"	"2017"	"2017"	"Unintentional"	"1"	79	221404	35.7
+	"Whatcom County, WA"	"53073"	"2017"	"2017"	"Suicide"	"2"	43	221404	19.4
+	"Whatcom County, WA"	"53073"	"2018"	"2018"	"Unintentional"	"1"	70	225685	31.0
+	"Whatcom County, WA"	"53073"	"2018"	"2018"	"Suicide"	"2"	45	225685	19.9
+	"Whitman County, WA"	"53075"	"1999"	"1999"	"Unintentional"	"1"	12	40886	Unreliable
+	"Whitman County, WA"	"53075"	"2000"	"2000"	"Unintentional"	"1"	11	40740	Unreliable
+	"Whitman County, WA"	"53075"	"2002"	"2002"	"Unintentional"	"1"	12	41484	Unreliable
+	"Whitman County, WA"	"53075"	"2006"	"2006"	"Unintentional"	"1"	13	42827	Unreliable
+	"Whitman County, WA"	"53075"	"2007"	"2007"	"Unintentional"	"1"	11	42608	Unreliable
+	"Whitman County, WA"	"53075"	"2008"	"2008"	"Unintentional"	"1"	15	43802	Unreliable
+	"Whitman County, WA"	"53075"	"2009"	"2009"	"Unintentional"	"1"	23	44705	51.4
+	"Whitman County, WA"	"53075"	"2010"	"2010"	"Unintentional"	"1"	19	44776	Unreliable
+	"Whitman County, WA"	"53075"	"2011"	"2011"	"Unintentional"	"1"	10	45077	Unreliable
+	"Whitman County, WA"	"53075"	"2012"	"2012"	"Unintentional"	"1"	10	46606	Unreliable
+	"Whitman County, WA"	"53075"	"2013"	"2013"	"Unintentional"	"1"	22	46570	47.2
+	"Whitman County, WA"	"53075"	"2014"	"2014"	"Unintentional"	"1"	17	46827	Unreliable
+	"Whitman County, WA"	"53075"	"2015"	"2015"	"Unintentional"	"1"	17	48177	Unreliable
+	"Whitman County, WA"	"53075"	"2016"	"2016"	"Unintentional"	"1"	17	48851	Unreliable
+	"Whitman County, WA"	"53075"	"2017"	"2017"	"Unintentional"	"1"	18	49046	Unreliable
+	"Whitman County, WA"	"53075"	"2017"	"2017"	"Suicide"	"2"	10	49046	Unreliable
+	"Whitman County, WA"	"53075"	"2018"	"2018"	"Unintentional"	"1"	19	49791	Unreliable
+	"Yakima County, WA"	"53077"	"1999"	"1999"	"Unintentional"	"1"	81	221573	36.6
+	"Yakima County, WA"	"53077"	"1999"	"1999"	"Suicide"	"2"	27	221573	12.2
+	"Yakima County, WA"	"53077"	"1999"	"1999"	"Homicide"	"3"	15	221573	Unreliable
+	"Yakima County, WA"	"53077"	"2000"	"2000"	"Unintentional"	"1"	80	222581	35.9
+	"Yakima County, WA"	"53077"	"2000"	"2000"	"Suicide"	"2"	30	222581	13.5
+	"Yakima County, WA"	"53077"	"2000"	"2000"	"Homicide"	"3"	12	222581	Unreliable
+	"Yakima County, WA"	"53077"	"2001"	"2001"	"Unintentional"	"1"	88	222757	39.5
+	"Yakima County, WA"	"53077"	"2001"	"2001"	"Suicide"	"2"	25	222757	11.2
+	"Yakima County, WA"	"53077"	"2001"	"2001"	"Homicide"	"3"	10	222757	Unreliable
+	"Yakima County, WA"	"53077"	"2002"	"2002"	"Unintentional"	"1"	110	223402	49.2
+	"Yakima County, WA"	"53077"	"2002"	"2002"	"Suicide"	"2"	35	223402	15.7
+	"Yakima County, WA"	"53077"	"2002"	"2002"	"Homicide"	"3"	12	223402	Unreliable
+	"Yakima County, WA"	"53077"	"2003"	"2003"	"Unintentional"	"1"	84	225161	37.3
+	"Yakima County, WA"	"53077"	"2003"	"2003"	"Suicide"	"2"	20	225161	8.9
+	"Yakima County, WA"	"53077"	"2003"	"2003"	"Homicide"	"3"	14	225161	Unreliable
+	"Yakima County, WA"	"53077"	"2004"	"2004"	"Unintentional"	"1"	101	227280	44.4
+	"Yakima County, WA"	"53077"	"2004"	"2004"	"Suicide"	"2"	19	227280	Unreliable
+	"Yakima County, WA"	"53077"	"2004"	"2004"	"Homicide"	"3"	13	227280	Unreliable
+	"Yakima County, WA"	"53077"	"2005"	"2005"	"Unintentional"	"1"	102	228570	44.6
+	"Yakima County, WA"	"53077"	"2005"	"2005"	"Suicide"	"2"	24	228570	10.5
+	"Yakima County, WA"	"53077"	"2005"	"2005"	"Homicide"	"3"	18	228570	Unreliable
+	"Yakima County, WA"	"53077"	"2006"	"2006"	"Unintentional"	"1"	88	230617	38.2
+	"Yakima County, WA"	"53077"	"2006"	"2006"	"Suicide"	"2"	31	230617	13.4
+	"Yakima County, WA"	"53077"	"2006"	"2006"	"Homicide"	"3"	16	230617	Unreliable
+	"Yakima County, WA"	"53077"	"2007"	"2007"	"Unintentional"	"1"	108	232733	46.4
+	"Yakima County, WA"	"53077"	"2007"	"2007"	"Suicide"	"2"	31	232733	13.3
+	"Yakima County, WA"	"53077"	"2007"	"2007"	"Homicide"	"3"	15	232733	Unreliable
+	"Yakima County, WA"	"53077"	"2008"	"2008"	"Unintentional"	"1"	86	235272	36.6
+	"Yakima County, WA"	"53077"	"2008"	"2008"	"Suicide"	"2"	25	235272	10.6
+	"Yakima County, WA"	"53077"	"2008"	"2008"	"Homicide"	"3"	17	235272	Unreliable
+	"Yakima County, WA"	"53077"	"2009"	"2009"	"Unintentional"	"1"	83	239604	34.6
+	"Yakima County, WA"	"53077"	"2009"	"2009"	"Suicide"	"2"	35	239604	14.6
+	"Yakima County, WA"	"53077"	"2009"	"2009"	"Homicide"	"3"	24	239604	10.0
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Unintentional"	"1"	114	243231	46.9
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Suicide"	"2"	33	243231	13.6
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Homicide"	"3"	25	243231	10.3
+	"Yakima County, WA"	"53077"	"2011"	"2011"	"Unintentional"	"1"	84	247141	34.0
+	"Yakima County, WA"	"53077"	"2011"	"2011"	"Suicide"	"2"	28	247141	11.3
+	"Yakima County, WA"	"53077"	"2011"	"2011"	"Homicide"	"3"	20	247141	8.1
+	"Yakima County, WA"	"53077"	"2012"	"2012"	"Unintentional"	"1"	101	246977	40.9
+	"Yakima County, WA"	"53077"	"2012"	"2012"	"Suicide"	"2"	35	246977	14.2
+	"Yakima County, WA"	"53077"	"2012"	"2012"	"Homicide"	"3"	17	246977	Unreliable
+	"Yakima County, WA"	"53077"	"2013"	"2013"	"Unintentional"	"1"	92	247044	37.2
+	"Yakima County, WA"	"53077"	"2013"	"2013"	"Suicide"	"2"	27	247044	10.9
+	"Yakima County, WA"	"53077"	"2013"	"2013"	"Homicide"	"3"	21	247044	8.5
+	"Yakima County, WA"	"53077"	"2014"	"2014"	"Unintentional"	"1"	112	247687	45.2
+	"Yakima County, WA"	"53077"	"2014"	"2014"	"Suicide"	"2"	39	247687	15.7
+	"Yakima County, WA"	"53077"	"2014"	"2014"	"Homicide"	"3"	14	247687	Unreliable
+	"Yakima County, WA"	"53077"	"2015"	"2015"	"Unintentional"	"1"	117	248830	47.0
+	"Yakima County, WA"	"53077"	"2015"	"2015"	"Suicide"	"2"	38	248830	15.3
+	"Yakima County, WA"	"53077"	"2015"	"2015"	"Homicide"	"3"	18	248830	Unreliable
+	"Yakima County, WA"	"53077"	"2016"	"2016"	"Unintentional"	"1"	104	249636	41.7
+	"Yakima County, WA"	"53077"	"2016"	"2016"	"Suicide"	"2"	33	249636	13.2
+	"Yakima County, WA"	"53077"	"2016"	"2016"	"Homicide"	"3"	19	249636	Unreliable
+	"Yakima County, WA"	"53077"	"2017"	"2017"	"Unintentional"	"1"	138	250193	55.2
+	"Yakima County, WA"	"53077"	"2017"	"2017"	"Suicide"	"2"	27	250193	10.8
+	"Yakima County, WA"	"53077"	"2017"	"2017"	"Homicide"	"3"	29	250193	11.6
+	"Yakima County, WA"	"53077"	"2018"	"2018"	"Unintentional"	"1"	115	251446	45.7
+	"Yakima County, WA"	"53077"	"2018"	"2018"	"Suicide"	"2"	37	251446	14.7
+	"Yakima County, WA"	"53077"	"2018"	"2018"	"Homicide"	"3"	32	251446	12.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Washington"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Washington (53)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 8:53:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 8:53:58 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

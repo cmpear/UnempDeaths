@@ -1,0 +1,302 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Beadle County, SD"	"46005"	"2013"	"2013"	"Unintentional"	"1"	12	18080	Unreliable
+	"Beadle County, SD"	"46005"	"2015"	"2015"	"Unintentional"	"1"	12	18372	Unreliable
+	"Beadle County, SD"	"46005"	"2017"	"2017"	"Unintentional"	"1"	12	18157	Unreliable
+	"Brookings County, SD"	"46011"	"1999"	"1999"	"Unintentional"	"1"	10	27921	Unreliable
+	"Brookings County, SD"	"46011"	"2001"	"2001"	"Unintentional"	"1"	15	28565	Unreliable
+	"Brookings County, SD"	"46011"	"2002"	"2002"	"Unintentional"	"1"	13	28913	Unreliable
+	"Brookings County, SD"	"46011"	"2006"	"2006"	"Unintentional"	"1"	12	30323	Unreliable
+	"Brookings County, SD"	"46011"	"2007"	"2007"	"Unintentional"	"1"	10	30831	Unreliable
+	"Brookings County, SD"	"46011"	"2008"	"2008"	"Unintentional"	"1"	14	31363	Unreliable
+	"Brookings County, SD"	"46011"	"2013"	"2013"	"Unintentional"	"1"	11	32968	Unreliable
+	"Brookings County, SD"	"46011"	"2014"	"2014"	"Unintentional"	"1"	12	33314	Unreliable
+	"Brookings County, SD"	"46011"	"2016"	"2016"	"Unintentional"	"1"	17	34135	Unreliable
+	"Brookings County, SD"	"46011"	"2017"	"2017"	"Unintentional"	"1"	12	34255	Unreliable
+	"Brookings County, SD"	"46011"	"2018"	"2018"	"Unintentional"	"1"	15	35232	Unreliable
+	"Brown County, SD"	"46013"	"1999"	"1999"	"Unintentional"	"1"	15	35705	Unreliable
+	"Brown County, SD"	"46013"	"2001"	"2001"	"Unintentional"	"1"	15	35303	Unreliable
+	"Brown County, SD"	"46013"	"2002"	"2002"	"Unintentional"	"1"	14	35187	Unreliable
+	"Brown County, SD"	"46013"	"2003"	"2003"	"Unintentional"	"1"	17	35223	Unreliable
+	"Brown County, SD"	"46013"	"2004"	"2004"	"Unintentional"	"1"	12	35329	Unreliable
+	"Brown County, SD"	"46013"	"2005"	"2005"	"Unintentional"	"1"	10	35441	Unreliable
+	"Brown County, SD"	"46013"	"2006"	"2006"	"Unintentional"	"1"	14	35561	Unreliable
+	"Brown County, SD"	"46013"	"2008"	"2008"	"Unintentional"	"1"	12	35865	Unreliable
+	"Brown County, SD"	"46013"	"2009"	"2009"	"Unintentional"	"1"	11	36181	Unreliable
+	"Brown County, SD"	"46013"	"2010"	"2010"	"Unintentional"	"1"	15	36531	Unreliable
+	"Brown County, SD"	"46013"	"2011"	"2011"	"Unintentional"	"1"	17	36822	Unreliable
+	"Brown County, SD"	"46013"	"2012"	"2012"	"Unintentional"	"1"	17	37331	Unreliable
+	"Brown County, SD"	"46013"	"2013"	"2013"	"Unintentional"	"1"	16	37907	Unreliable
+	"Brown County, SD"	"46013"	"2014"	"2014"	"Unintentional"	"1"	18	38408	Unreliable
+	"Brown County, SD"	"46013"	"2015"	"2015"	"Unintentional"	"1"	19	38785	Unreliable
+	"Brown County, SD"	"46013"	"2016"	"2016"	"Unintentional"	"1"	24	39128	61.3
+	"Brown County, SD"	"46013"	"2017"	"2017"	"Unintentional"	"1"	19	39178	Unreliable
+	"Brown County, SD"	"46013"	"2018"	"2018"	"Unintentional"	"1"	16	39316	Unreliable
+	"Butte County, SD"	"46019"	"2014"	"2014"	"Unintentional"	"1"	10	10298	Unreliable
+	"Charles Mix County, SD"	"46023"	"2004"	"2004"	"Unintentional"	"1"	10	9055	Unreliable
+	"Charles Mix County, SD"	"46023"	"2016"	"2016"	"Unintentional"	"1"	11	9396	Unreliable
+	"Codington County, SD"	"46029"	"1999"	"1999"	"Unintentional"	"1"	10	25864	Unreliable
+	"Codington County, SD"	"46029"	"2001"	"2001"	"Unintentional"	"1"	15	26033	Unreliable
+	"Codington County, SD"	"46029"	"2004"	"2004"	"Unintentional"	"1"	13	26254	Unreliable
+	"Codington County, SD"	"46029"	"2005"	"2005"	"Unintentional"	"1"	12	26364	Unreliable
+	"Codington County, SD"	"46029"	"2006"	"2006"	"Unintentional"	"1"	12	26754	Unreliable
+	"Codington County, SD"	"46029"	"2007"	"2007"	"Unintentional"	"1"	10	27036	Unreliable
+	"Codington County, SD"	"46029"	"2008"	"2008"	"Unintentional"	"1"	11	27043	Unreliable
+	"Codington County, SD"	"46029"	"2010"	"2010"	"Unintentional"	"1"	15	27227	Unreliable
+	"Codington County, SD"	"46029"	"2011"	"2011"	"Unintentional"	"1"	17	27442	Unreliable
+	"Codington County, SD"	"46029"	"2013"	"2013"	"Unintentional"	"1"	12	27853	Unreliable
+	"Codington County, SD"	"46029"	"2015"	"2015"	"Unintentional"	"1"	12	27939	Unreliable
+	"Codington County, SD"	"46029"	"2016"	"2016"	"Unintentional"	"1"	12	28063	Unreliable
+	"Codington County, SD"	"46029"	"2017"	"2017"	"Unintentional"	"1"	19	28099	Unreliable
+	"Corson County, SD"	"46031"	"2004"	"2004"	"Unintentional"	"1"	13	4256	Unreliable
+	"Custer County, SD"	"46033"	"2016"	"2016"	"Unintentional"	"1"	14	8596	Unreliable
+	"Custer County, SD"	"46033"	"2017"	"2017"	"Unintentional"	"1"	11	8691	Unreliable
+	"Davison County, SD"	"46035"	"1999"	"1999"	"Unintentional"	"1"	10	18720	Unreliable
+	"Davison County, SD"	"46035"	"2001"	"2001"	"Unintentional"	"1"	10	18868	Unreliable
+	"Davison County, SD"	"46035"	"2003"	"2003"	"Unintentional"	"1"	14	18907	Unreliable
+	"Davison County, SD"	"46035"	"2004"	"2004"	"Unintentional"	"1"	10	19104	Unreliable
+	"Davison County, SD"	"46035"	"2005"	"2005"	"Unintentional"	"1"	10	19126	Unreliable
+	"Davison County, SD"	"46035"	"2011"	"2011"	"Unintentional"	"1"	12	19651	Unreliable
+	"Davison County, SD"	"46035"	"2014"	"2014"	"Unintentional"	"1"	11	19885	Unreliable
+	"Davison County, SD"	"46035"	"2015"	"2015"	"Unintentional"	"1"	14	19858	Unreliable
+	"Davison County, SD"	"46035"	"2017"	"2017"	"Unintentional"	"1"	12	19704	Unreliable
+	"Davison County, SD"	"46035"	"2018"	"2018"	"Unintentional"	"1"	14	19790	Unreliable
+	"Day County, SD"	"46037"	"2003"	"2003"	"Unintentional"	"1"	10	5929	Unreliable
+	"Dewey County, SD"	"46041"	"2005"	"2005"	"Unintentional"	"1"	13	5667	Unreliable
+	"Dewey County, SD"	"46041"	"2013"	"2013"	"Unintentional"	"1"	11	5586	Unreliable
+	"Dewey County, SD"	"46041"	"2014"	"2014"	"Unintentional"	"1"	12	5662	Unreliable
+	"Dewey County, SD"	"46041"	"2017"	"2017"	"Unintentional"	"1"	10	5835	Unreliable
+	"Fall River County, SD"	"46047"	"2013"	"2013"	"Unintentional"	"1"	10	6839	Unreliable
+	"Hughes County, SD"	"46065"	"2005"	"2005"	"Unintentional"	"1"	10	16682	Unreliable
+	"Hughes County, SD"	"46065"	"2012"	"2012"	"Unintentional"	"1"	10	17450	Unreliable
+	"Hughes County, SD"	"46065"	"2017"	"2017"	"Unintentional"	"1"	14	17666	Unreliable
+	"Hutchinson County, SD"	"46067"	"2004"	"2004"	"Unintentional"	"1"	10	7660	Unreliable
+	"Hutchinson County, SD"	"46067"	"2017"	"2017"	"Unintentional"	"1"	13	7358	Unreliable
+	"Kingsbury County, SD"	"46077"	"2004"	"2004"	"Unintentional"	"1"	10	5311	Unreliable
+	"Lake County, SD"	"46079"	"2001"	"2001"	"Unintentional"	"1"	11	11143	Unreliable
+	"Lawrence County, SD"	"46081"	"1999"	"1999"	"Unintentional"	"1"	11	21839	Unreliable
+	"Lawrence County, SD"	"46081"	"2003"	"2003"	"Unintentional"	"1"	12	22135	Unreliable
+	"Lawrence County, SD"	"46081"	"2005"	"2005"	"Unintentional"	"1"	13	22889	Unreliable
+	"Lawrence County, SD"	"46081"	"2006"	"2006"	"Unintentional"	"1"	12	23172	Unreliable
+	"Lawrence County, SD"	"46081"	"2007"	"2007"	"Unintentional"	"1"	11	23543	Unreliable
+	"Lawrence County, SD"	"46081"	"2012"	"2012"	"Unintentional"	"1"	13	24397	Unreliable
+	"Lawrence County, SD"	"46081"	"2014"	"2014"	"Unintentional"	"1"	16	24657	Unreliable
+	"Lawrence County, SD"	"46081"	"2015"	"2015"	"Unintentional"	"1"	12	24827	Unreliable
+	"Lawrence County, SD"	"46081"	"2016"	"2016"	"Unintentional"	"1"	18	25281	Unreliable
+	"Lawrence County, SD"	"46081"	"2017"	"2017"	"Unintentional"	"1"	20	25429	78.7
+	"Lawrence County, SD"	"46081"	"2017"	"2017"	"Suicide"	"2"	11	25429	Unreliable
+	"Lincoln County, SD"	"46083"	"2000"	"2000"	"Unintentional"	"1"	10	24131	Unreliable
+	"Lincoln County, SD"	"46083"	"2004"	"2004"	"Unintentional"	"1"	10	32343	Unreliable
+	"Lincoln County, SD"	"46083"	"2006"	"2006"	"Unintentional"	"1"	15	36885	Unreliable
+	"Lincoln County, SD"	"46083"	"2007"	"2007"	"Unintentional"	"1"	12	39260	Unreliable
+	"Lincoln County, SD"	"46083"	"2008"	"2008"	"Unintentional"	"1"	13	41590	Unreliable
+	"Lincoln County, SD"	"46083"	"2010"	"2010"	"Unintentional"	"1"	12	44828	Unreliable
+	"Lincoln County, SD"	"46083"	"2011"	"2011"	"Unintentional"	"1"	13	46793	Unreliable
+	"Lincoln County, SD"	"46083"	"2012"	"2012"	"Unintentional"	"1"	12	48296	Unreliable
+	"Lincoln County, SD"	"46083"	"2013"	"2013"	"Unintentional"	"1"	11	49858	Unreliable
+	"Lincoln County, SD"	"46083"	"2014"	"2014"	"Unintentional"	"1"	10	51548	Unreliable
+	"Lincoln County, SD"	"46083"	"2016"	"2016"	"Unintentional"	"1"	20	54469	36.7
+	"Lincoln County, SD"	"46083"	"2017"	"2017"	"Unintentional"	"1"	13	56664	Unreliable
+	"Lincoln County, SD"	"46083"	"2018"	"2018"	"Unintentional"	"1"	16	58807	Unreliable
+	"Meade County, SD"	"46093"	"2001"	"2001"	"Unintentional"	"1"	12	24371	Unreliable
+	"Meade County, SD"	"46093"	"2003"	"2003"	"Unintentional"	"1"	14	24573	Unreliable
+	"Meade County, SD"	"46093"	"2004"	"2004"	"Unintentional"	"1"	12	25064	Unreliable
+	"Meade County, SD"	"46093"	"2005"	"2005"	"Unintentional"	"1"	15	25089	Unreliable
+	"Meade County, SD"	"46093"	"2006"	"2006"	"Unintentional"	"1"	18	25085	Unreliable
+	"Meade County, SD"	"46093"	"2007"	"2007"	"Unintentional"	"1"	22	24995	88.0
+	"Meade County, SD"	"46093"	"2008"	"2008"	"Unintentional"	"1"	18	24931	Unreliable
+	"Meade County, SD"	"46093"	"2011"	"2011"	"Unintentional"	"1"	13	25546	Unreliable
+	"Meade County, SD"	"46093"	"2013"	"2013"	"Unintentional"	"1"	15	27202	Unreliable
+	"Meade County, SD"	"46093"	"2013"	"2013"	"Suicide"	"2"	13	27202	Unreliable
+	"Meade County, SD"	"46093"	"2014"	"2014"	"Unintentional"	"1"	12	26951	Unreliable
+	"Meade County, SD"	"46093"	"2017"	"2017"	"Unintentional"	"1"	14	28018	Unreliable
+	"Meade County, SD"	"46093"	"2018"	"2018"	"Unintentional"	"1"	10	28294	Unreliable
+	"Minnehaha County, SD"	"46099"	"1999"	"1999"	"Unintentional"	"1"	38	145631	26.1
+	"Minnehaha County, SD"	"46099"	"1999"	"1999"	"Suicide"	"2"	18	145631	Unreliable
+	"Minnehaha County, SD"	"46099"	"2000"	"2000"	"Unintentional"	"1"	44	148281	29.7
+	"Minnehaha County, SD"	"46099"	"2000"	"2000"	"Suicide"	"2"	22	148281	14.8
+	"Minnehaha County, SD"	"46099"	"2001"	"2001"	"Unintentional"	"1"	61	150775	40.5
+	"Minnehaha County, SD"	"46099"	"2001"	"2001"	"Suicide"	"2"	29	150775	19.2
+	"Minnehaha County, SD"	"46099"	"2002"	"2002"	"Unintentional"	"1"	47	152062	30.9
+	"Minnehaha County, SD"	"46099"	"2002"	"2002"	"Suicide"	"2"	19	152062	Unreliable
+	"Minnehaha County, SD"	"46099"	"2003"	"2003"	"Unintentional"	"1"	63	153740	41.0
+	"Minnehaha County, SD"	"46099"	"2003"	"2003"	"Suicide"	"2"	26	153740	16.9
+	"Minnehaha County, SD"	"46099"	"2004"	"2004"	"Unintentional"	"1"	47	155648	30.2
+	"Minnehaha County, SD"	"46099"	"2004"	"2004"	"Suicide"	"2"	25	155648	16.1
+	"Minnehaha County, SD"	"46099"	"2005"	"2005"	"Unintentional"	"1"	62	157778	39.3
+	"Minnehaha County, SD"	"46099"	"2005"	"2005"	"Suicide"	"2"	25	157778	15.8
+	"Minnehaha County, SD"	"46099"	"2006"	"2006"	"Unintentional"	"1"	73	160630	45.4
+	"Minnehaha County, SD"	"46099"	"2006"	"2006"	"Suicide"	"2"	18	160630	Unreliable
+	"Minnehaha County, SD"	"46099"	"2007"	"2007"	"Unintentional"	"1"	61	163577	37.3
+	"Minnehaha County, SD"	"46099"	"2007"	"2007"	"Suicide"	"2"	24	163577	14.7
+	"Minnehaha County, SD"	"46099"	"2008"	"2008"	"Unintentional"	"1"	61	166320	36.7
+	"Minnehaha County, SD"	"46099"	"2008"	"2008"	"Suicide"	"2"	19	166320	Unreliable
+	"Minnehaha County, SD"	"46099"	"2009"	"2009"	"Unintentional"	"1"	51	168482	30.3
+	"Minnehaha County, SD"	"46099"	"2009"	"2009"	"Suicide"	"2"	21	168482	12.5
+	"Minnehaha County, SD"	"46099"	"2010"	"2010"	"Unintentional"	"1"	60	169468	35.4
+	"Minnehaha County, SD"	"46099"	"2010"	"2010"	"Suicide"	"2"	26	169468	15.3
+	"Minnehaha County, SD"	"46099"	"2010"	"2010"	"Undetermined "	"4"	13	169468	Unreliable
+	"Minnehaha County, SD"	"46099"	"2011"	"2011"	"Unintentional"	"1"	63	171752	36.7
+	"Minnehaha County, SD"	"46099"	"2011"	"2011"	"Suicide"	"2"	33	171752	19.2
+	"Minnehaha County, SD"	"46099"	"2012"	"2012"	"Unintentional"	"1"	70	175037	40.0
+	"Minnehaha County, SD"	"46099"	"2012"	"2012"	"Suicide"	"2"	30	175037	17.1
+	"Minnehaha County, SD"	"46099"	"2013"	"2013"	"Unintentional"	"1"	82	179640	45.6
+	"Minnehaha County, SD"	"46099"	"2013"	"2013"	"Suicide"	"2"	29	179640	16.1
+	"Minnehaha County, SD"	"46099"	"2014"	"2014"	"Unintentional"	"1"	86	182882	47.0
+	"Minnehaha County, SD"	"46099"	"2014"	"2014"	"Suicide"	"2"	30	182882	16.4
+	"Minnehaha County, SD"	"46099"	"2015"	"2015"	"Unintentional"	"1"	84	185197	45.4
+	"Minnehaha County, SD"	"46099"	"2015"	"2015"	"Suicide"	"2"	34	185197	18.4
+	"Minnehaha County, SD"	"46099"	"2016"	"2016"	"Unintentional"	"1"	79	187318	42.2
+	"Minnehaha County, SD"	"46099"	"2016"	"2016"	"Suicide"	"2"	32	187318	17.1
+	"Minnehaha County, SD"	"46099"	"2017"	"2017"	"Unintentional"	"1"	82	188616	43.5
+	"Minnehaha County, SD"	"46099"	"2017"	"2017"	"Suicide"	"2"	46	188616	24.4
+	"Minnehaha County, SD"	"46099"	"2018"	"2018"	"Unintentional"	"1"	92	192876	47.7
+	"Minnehaha County, SD"	"46099"	"2018"	"2018"	"Suicide"	"2"	34	192876	17.6
+	"Pennington County, SD"	"46103"	"1999"	"1999"	"Unintentional"	"1"	44	88047	50.0
+	"Pennington County, SD"	"46103"	"2000"	"2000"	"Unintentional"	"1"	37	88565	41.8
+	"Pennington County, SD"	"46103"	"2001"	"2001"	"Unintentional"	"1"	28	89953	31.1
+	"Pennington County, SD"	"46103"	"2001"	"2001"	"Suicide"	"2"	13	89953	Unreliable
+	"Pennington County, SD"	"46103"	"2002"	"2002"	"Unintentional"	"1"	43	90677	47.4
+	"Pennington County, SD"	"46103"	"2002"	"2002"	"Suicide"	"2"	15	90677	Unreliable
+	"Pennington County, SD"	"46103"	"2003"	"2003"	"Unintentional"	"1"	35	91117	38.4
+	"Pennington County, SD"	"46103"	"2003"	"2003"	"Suicide"	"2"	10	91117	Unreliable
+	"Pennington County, SD"	"46103"	"2004"	"2004"	"Unintentional"	"1"	36	92560	38.9
+	"Pennington County, SD"	"46103"	"2004"	"2004"	"Suicide"	"2"	11	92560	Unreliable
+	"Pennington County, SD"	"46103"	"2005"	"2005"	"Unintentional"	"1"	26	93099	27.9
+	"Pennington County, SD"	"46103"	"2005"	"2005"	"Suicide"	"2"	15	93099	Unreliable
+	"Pennington County, SD"	"46103"	"2006"	"2006"	"Unintentional"	"1"	34	94394	36.0
+	"Pennington County, SD"	"46103"	"2006"	"2006"	"Suicide"	"2"	21	94394	22.2
+	"Pennington County, SD"	"46103"	"2007"	"2007"	"Unintentional"	"1"	30	95895	31.3
+	"Pennington County, SD"	"46103"	"2007"	"2007"	"Suicide"	"2"	10	95895	Unreliable
+	"Pennington County, SD"	"46103"	"2008"	"2008"	"Unintentional"	"1"	44	98128	44.8
+	"Pennington County, SD"	"46103"	"2008"	"2008"	"Suicide"	"2"	22	98128	22.4
+	"Pennington County, SD"	"46103"	"2009"	"2009"	"Unintentional"	"1"	43	99845	43.1
+	"Pennington County, SD"	"46103"	"2009"	"2009"	"Suicide"	"2"	21	99845	21.0
+	"Pennington County, SD"	"46103"	"2010"	"2010"	"Unintentional"	"1"	45	100948	44.6
+	"Pennington County, SD"	"46103"	"2010"	"2010"	"Suicide"	"2"	21	100948	20.8
+	"Pennington County, SD"	"46103"	"2011"	"2011"	"Unintentional"	"1"	56	102815	54.5
+	"Pennington County, SD"	"46103"	"2011"	"2011"	"Suicide"	"2"	17	102815	Unreliable
+	"Pennington County, SD"	"46103"	"2012"	"2012"	"Unintentional"	"1"	58	104347	55.6
+	"Pennington County, SD"	"46103"	"2012"	"2012"	"Suicide"	"2"	20	104347	19.2
+	"Pennington County, SD"	"46103"	"2013"	"2013"	"Unintentional"	"1"	44	105761	41.6
+	"Pennington County, SD"	"46103"	"2013"	"2013"	"Suicide"	"2"	12	105761	Unreliable
+	"Pennington County, SD"	"46103"	"2014"	"2014"	"Unintentional"	"1"	48	108242	44.3
+	"Pennington County, SD"	"46103"	"2014"	"2014"	"Suicide"	"2"	19	108242	Unreliable
+	"Pennington County, SD"	"46103"	"2015"	"2015"	"Unintentional"	"1"	56	108702	51.5
+	"Pennington County, SD"	"46103"	"2015"	"2015"	"Suicide"	"2"	25	108702	23.0
+	"Pennington County, SD"	"46103"	"2016"	"2016"	"Unintentional"	"1"	64	109372	58.5
+	"Pennington County, SD"	"46103"	"2016"	"2016"	"Suicide"	"2"	25	109372	22.9
+	"Pennington County, SD"	"46103"	"2017"	"2017"	"Unintentional"	"1"	54	110141	49.0
+	"Pennington County, SD"	"46103"	"2017"	"2017"	"Suicide"	"2"	26	110141	23.6
+	"Pennington County, SD"	"46103"	"2018"	"2018"	"Unintentional"	"1"	60	111729	53.7
+	"Pennington County, SD"	"46103"	"2018"	"2018"	"Suicide"	"2"	31	111729	27.7
+	"Roberts County, SD"	"46109"	"1999"	"1999"	"Unintentional"	"1"	11	10027	Unreliable
+	"Roberts County, SD"	"46109"	"2002"	"2002"	"Unintentional"	"1"	10	9855	Unreliable
+	"Roberts County, SD"	"46109"	"2012"	"2012"	"Unintentional"	"1"	16	10303	Unreliable
+	"Roberts County, SD"	"46109"	"2017"	"2017"	"Unintentional"	"1"	15	10278	Unreliable
+	"Shannon County, SD"	"46113"	"1999"	"1999"	"Unintentional"	"1"	18	12269	Unreliable
+	"Shannon County, SD"	"46113"	"2000"	"2000"	"Unintentional"	"1"	22	12466	176.5
+	"Shannon County, SD"	"46113"	"2001"	"2001"	"Unintentional"	"1"	13	12602	Unreliable
+	"Shannon County, SD"	"46113"	"2002"	"2002"	"Unintentional"	"1"	24	12872	186.5
+	"Shannon County, SD"	"46113"	"2003"	"2003"	"Unintentional"	"1"	27	12993	207.8
+	"Shannon County, SD"	"46113"	"2004"	"2004"	"Unintentional"	"1"	18	12983	Unreliable
+	"Shannon County, SD"	"46113"	"2005"	"2005"	"Unintentional"	"1"	25	13150	190.1
+	"Shannon County, SD"	"46113"	"2006"	"2006"	"Unintentional"	"1"	32	13404	238.7
+	"Shannon County, SD"	"46113"	"2007"	"2007"	"Unintentional"	"1"	20	13345	149.9
+	"Shannon County, SD"	"46113"	"2008"	"2008"	"Unintentional"	"1"	11	13368	Unreliable
+	"Shannon County, SD"	"46113"	"2009"	"2009"	"Unintentional"	"1"	18	13425	Unreliable
+	"Shannon County, SD"	"46113"	"2010"	"2010"	"Unintentional"	"1"	23	13586	169.3
+	"Shannon County, SD"	"46113"	"2011"	"2011"	"Unintentional"	"1"	19	13928	Unreliable
+	"Shannon County, SD"	"46113"	"2012"	"2012"	"Unintentional"	"1"	14	14059	Unreliable
+	"Shannon County, SD"	"46113"	"2013"	"2013"	"Unintentional"	"1"	15	14118	Unreliable
+	"Shannon County, SD"	"46113"	"2014"	"2014"	"Unintentional"	"1"	16	14218	Unreliable
+	"Shannon County, SD"	"46113"	"2015"	"2015"	"Unintentional"	"1"	20	14373	139.1
+	"Shannon County, SD"	"46113"	"2015"	"2015"	"Suicide"	"2"	13	14373	Unreliable
+	"Shannon County, SD"	"46113"	"2016"	"2016"	"Unintentional"	"1"	29	14415	201.2
+	"Shannon County, SD"	"46113"	"2017"	"2017"	"Unintentional"	"1"	26	14354	181.1
+	"Shannon County, SD"	"46113"	"2018"	"2018"	"Unintentional"	"1"	28	14309	195.7
+	"Todd County, SD"	"46121"	"1999"	"1999"	"Unintentional"	"1"	11	8946	Unreliable
+	"Todd County, SD"	"46121"	"2000"	"2000"	"Unintentional"	"1"	17	9050	Unreliable
+	"Todd County, SD"	"46121"	"2002"	"2002"	"Unintentional"	"1"	13	9233	Unreliable
+	"Todd County, SD"	"46121"	"2003"	"2003"	"Unintentional"	"1"	16	9260	Unreliable
+	"Todd County, SD"	"46121"	"2004"	"2004"	"Unintentional"	"1"	21	9452	222.2
+	"Todd County, SD"	"46121"	"2005"	"2005"	"Unintentional"	"1"	14	9484	Unreliable
+	"Todd County, SD"	"46121"	"2006"	"2006"	"Unintentional"	"1"	19	9505	Unreliable
+	"Todd County, SD"	"46121"	"2007"	"2007"	"Unintentional"	"1"	12	9631	Unreliable
+	"Todd County, SD"	"46121"	"2007"	"2007"	"Suicide"	"2"	14	9631	Unreliable
+	"Todd County, SD"	"46121"	"2009"	"2009"	"Unintentional"	"1"	16	9521	Unreliable
+	"Todd County, SD"	"46121"	"2010"	"2010"	"Unintentional"	"1"	11	9612	Unreliable
+	"Todd County, SD"	"46121"	"2011"	"2011"	"Unintentional"	"1"	10	9822	Unreliable
+	"Todd County, SD"	"46121"	"2012"	"2012"	"Unintentional"	"1"	13	9942	Unreliable
+	"Todd County, SD"	"46121"	"2013"	"2013"	"Unintentional"	"1"	13	9982	Unreliable
+	"Todd County, SD"	"46121"	"2015"	"2015"	"Unintentional"	"1"	14	9959	Unreliable
+	"Todd County, SD"	"46121"	"2016"	"2016"	"Unintentional"	"1"	15	10155	Unreliable
+	"Todd County, SD"	"46121"	"2016"	"2016"	"Suicide"	"2"	10	10155	Unreliable
+	"Todd County, SD"	"46121"	"2017"	"2017"	"Unintentional"	"1"	12	10065	Unreliable
+	"Todd County, SD"	"46121"	"2018"	"2018"	"Unintentional"	"1"	13	10283	Unreliable
+	"Turner County, SD"	"46125"	"2001"	"2001"	"Unintentional"	"1"	10	8742	Unreliable
+	"Turner County, SD"	"46125"	"2014"	"2014"	"Unintentional"	"1"	10	8272	Unreliable
+	"Union County, SD"	"46127"	"2008"	"2008"	"Unintentional"	"1"	13	13825	Unreliable
+	"Yankton County, SD"	"46135"	"2002"	"2002"	"Unintentional"	"1"	16	21576	Unreliable
+	"Yankton County, SD"	"46135"	"2005"	"2005"	"Unintentional"	"1"	12	21871	Unreliable
+	"Yankton County, SD"	"46135"	"2009"	"2009"	"Unintentional"	"1"	10	22331	Unreliable
+	"Yankton County, SD"	"46135"	"2010"	"2010"	"Unintentional"	"1"	11	22438	Unreliable
+	"Yankton County, SD"	"46135"	"2011"	"2011"	"Unintentional"	"1"	14	22612	Unreliable
+	"Yankton County, SD"	"46135"	"2012"	"2012"	"Unintentional"	"1"	11	22603	Unreliable
+	"Yankton County, SD"	"46135"	"2014"	"2014"	"Unintentional"	"1"	20	22684	88.2
+	"Yankton County, SD"	"46135"	"2015"	"2015"	"Unintentional"	"1"	16	22702	Unreliable
+	"Yankton County, SD"	"46135"	"2016"	"2016"	"Unintentional"	"1"	20	22616	88.4
+	"Yankton County, SD"	"46135"	"2017"	"2017"	"Unintentional"	"1"	14	22662	Unreliable
+	"Yankton County, SD"	"46135"	"2018"	"2018"	"Unintentional"	"1"	20	22869	87.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: South_Dakota"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: South Dakota (46)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 7:04:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 7:04:58 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,1211 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Allegany County, MD"	"24001"	"1999"	"1999"	"Unintentional"	"1"	23	75288	30.5
+	"Allegany County, MD"	"24001"	"2000"	"2000"	"Unintentional"	"1"	22	74930	29.4
+	"Allegany County, MD"	"24001"	"2000"	"2000"	"Suicide"	"2"	11	74930	Unreliable
+	"Allegany County, MD"	"24001"	"2001"	"2001"	"Unintentional"	"1"	26	74525	34.9
+	"Allegany County, MD"	"24001"	"2002"	"2002"	"Unintentional"	"1"	21	74204	28.3
+	"Allegany County, MD"	"24001"	"2003"	"2003"	"Unintentional"	"1"	19	74076	Unreliable
+	"Allegany County, MD"	"24001"	"2003"	"2003"	"Undetermined "	"4"	15	74076	Unreliable
+	"Allegany County, MD"	"24001"	"2004"	"2004"	"Unintentional"	"1"	18	74408	Unreliable
+	"Allegany County, MD"	"24001"	"2004"	"2004"	"Suicide"	"2"	15	74408	Unreliable
+	"Allegany County, MD"	"24001"	"2005"	"2005"	"Unintentional"	"1"	26	73979	35.1
+	"Allegany County, MD"	"24001"	"2005"	"2005"	"Suicide"	"2"	13	73979	Unreliable
+	"Allegany County, MD"	"24001"	"2006"	"2006"	"Unintentional"	"1"	27	73980	36.5
+	"Allegany County, MD"	"24001"	"2006"	"2006"	"Suicide"	"2"	11	73980	Unreliable
+	"Allegany County, MD"	"24001"	"2006"	"2006"	"Undetermined "	"4"	14	73980	Unreliable
+	"Allegany County, MD"	"24001"	"2007"	"2007"	"Unintentional"	"1"	28	74449	37.6
+	"Allegany County, MD"	"24001"	"2007"	"2007"	"Undetermined "	"4"	10	74449	Unreliable
+	"Allegany County, MD"	"24001"	"2008"	"2008"	"Unintentional"	"1"	24	74638	32.2
+	"Allegany County, MD"	"24001"	"2008"	"2008"	"Suicide"	"2"	11	74638	Unreliable
+	"Allegany County, MD"	"24001"	"2009"	"2009"	"Unintentional"	"1"	40	75101	53.3
+	"Allegany County, MD"	"24001"	"2010"	"2010"	"Unintentional"	"1"	34	75087	45.3
+	"Allegany County, MD"	"24001"	"2011"	"2011"	"Unintentional"	"1"	44	74692	58.9
+	"Allegany County, MD"	"24001"	"2011"	"2011"	"Suicide"	"2"	14	74692	Unreliable
+	"Allegany County, MD"	"24001"	"2011"	"2011"	"Undetermined "	"4"	10	74692	Unreliable
+	"Allegany County, MD"	"24001"	"2012"	"2012"	"Unintentional"	"1"	39	74012	52.7
+	"Allegany County, MD"	"24001"	"2012"	"2012"	"Suicide"	"2"	11	74012	Unreliable
+	"Allegany County, MD"	"24001"	"2013"	"2013"	"Unintentional"	"1"	24	73521	32.6
+	"Allegany County, MD"	"24001"	"2013"	"2013"	"Undetermined "	"4"	10	73521	Unreliable
+	"Allegany County, MD"	"24001"	"2014"	"2014"	"Unintentional"	"1"	27	72952	37.0
+	"Allegany County, MD"	"24001"	"2015"	"2015"	"Unintentional"	"1"	27	72528	37.2
+	"Allegany County, MD"	"24001"	"2015"	"2015"	"Suicide"	"2"	13	72528	Unreliable
+	"Allegany County, MD"	"24001"	"2015"	"2015"	"Undetermined "	"4"	13	72528	Unreliable
+	"Allegany County, MD"	"24001"	"2016"	"2016"	"Unintentional"	"1"	42	72130	58.2
+	"Allegany County, MD"	"24001"	"2016"	"2016"	"Suicide"	"2"	12	72130	Unreliable
+	"Allegany County, MD"	"24001"	"2016"	"2016"	"Undetermined "	"4"	37	72130	51.3
+	"Allegany County, MD"	"24001"	"2017"	"2017"	"Unintentional"	"1"	41	71615	57.3
+	"Allegany County, MD"	"24001"	"2017"	"2017"	"Suicide"	"2"	15	71615	Unreliable
+	"Allegany County, MD"	"24001"	"2017"	"2017"	"Undetermined "	"4"	27	71615	37.7
+	"Allegany County, MD"	"24001"	"2018"	"2018"	"Unintentional"	"1"	34	70975	47.9
+	"Allegany County, MD"	"24001"	"2018"	"2018"	"Suicide"	"2"	18	70975	Unreliable
+	"Allegany County, MD"	"24001"	"2018"	"2018"	"Undetermined "	"4"	22	70975	31.0
+	"Anne Arundel County, MD"	"24003"	"1999"	"1999"	"Unintentional"	"1"	101	484800	20.8
+	"Anne Arundel County, MD"	"24003"	"1999"	"1999"	"Suicide"	"2"	38	484800	7.8
+	"Anne Arundel County, MD"	"24003"	"1999"	"1999"	"Homicide"	"3"	10	484800	Unreliable
+	"Anne Arundel County, MD"	"24003"	"1999"	"1999"	"Undetermined "	"4"	34	484800	7.0
+	"Anne Arundel County, MD"	"24003"	"2000"	"2000"	"Unintentional"	"1"	86	489656	17.6
+	"Anne Arundel County, MD"	"24003"	"2000"	"2000"	"Suicide"	"2"	57	489656	11.6
+	"Anne Arundel County, MD"	"24003"	"2000"	"2000"	"Homicide"	"3"	16	489656	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2000"	"2000"	"Undetermined "	"4"	39	489656	8.0
+	"Anne Arundel County, MD"	"24003"	"2001"	"2001"	"Unintentional"	"1"	110	498559	22.1
+	"Anne Arundel County, MD"	"24003"	"2001"	"2001"	"Suicide"	"2"	47	498559	9.4
+	"Anne Arundel County, MD"	"24003"	"2001"	"2001"	"Homicide"	"3"	25	498559	5.0
+	"Anne Arundel County, MD"	"24003"	"2001"	"2001"	"Undetermined "	"4"	43	498559	8.6
+	"Anne Arundel County, MD"	"24003"	"2002"	"2002"	"Unintentional"	"1"	107	504884	21.2
+	"Anne Arundel County, MD"	"24003"	"2002"	"2002"	"Suicide"	"2"	44	504884	8.7
+	"Anne Arundel County, MD"	"24003"	"2002"	"2002"	"Homicide"	"3"	24	504884	4.8
+	"Anne Arundel County, MD"	"24003"	"2002"	"2002"	"Undetermined "	"4"	56	504884	11.1
+	"Anne Arundel County, MD"	"24003"	"2003"	"2003"	"Unintentional"	"1"	117	507769	23.0
+	"Anne Arundel County, MD"	"24003"	"2003"	"2003"	"Suicide"	"2"	49	507769	9.7
+	"Anne Arundel County, MD"	"24003"	"2003"	"2003"	"Homicide"	"3"	23	507769	4.5
+	"Anne Arundel County, MD"	"24003"	"2003"	"2003"	"Undetermined "	"4"	46	507769	9.1
+	"Anne Arundel County, MD"	"24003"	"2004"	"2004"	"Unintentional"	"1"	115	513259	22.4
+	"Anne Arundel County, MD"	"24003"	"2004"	"2004"	"Suicide"	"2"	47	513259	9.2
+	"Anne Arundel County, MD"	"24003"	"2004"	"2004"	"Homicide"	"3"	22	513259	4.3
+	"Anne Arundel County, MD"	"24003"	"2004"	"2004"	"Undetermined "	"4"	57	513259	11.1
+	"Anne Arundel County, MD"	"24003"	"2005"	"2005"	"Unintentional"	"1"	117	516171	22.7
+	"Anne Arundel County, MD"	"24003"	"2005"	"2005"	"Suicide"	"2"	51	516171	9.9
+	"Anne Arundel County, MD"	"24003"	"2005"	"2005"	"Homicide"	"3"	26	516171	5.0
+	"Anne Arundel County, MD"	"24003"	"2005"	"2005"	"Undetermined "	"4"	61	516171	11.8
+	"Anne Arundel County, MD"	"24003"	"2006"	"2006"	"Unintentional"	"1"	111	517698	21.4
+	"Anne Arundel County, MD"	"24003"	"2006"	"2006"	"Suicide"	"2"	58	517698	11.2
+	"Anne Arundel County, MD"	"24003"	"2006"	"2006"	"Homicide"	"3"	29	517698	5.6
+	"Anne Arundel County, MD"	"24003"	"2006"	"2006"	"Undetermined "	"4"	65	517698	12.6
+	"Anne Arundel County, MD"	"24003"	"2007"	"2007"	"Unintentional"	"1"	126	520503	24.2
+	"Anne Arundel County, MD"	"24003"	"2007"	"2007"	"Suicide"	"2"	55	520503	10.6
+	"Anne Arundel County, MD"	"24003"	"2007"	"2007"	"Homicide"	"3"	22	520503	4.2
+	"Anne Arundel County, MD"	"24003"	"2007"	"2007"	"Undetermined "	"4"	76	520503	14.6
+	"Anne Arundel County, MD"	"24003"	"2008"	"2008"	"Unintentional"	"1"	135	525304	25.7
+	"Anne Arundel County, MD"	"24003"	"2008"	"2008"	"Suicide"	"2"	48	525304	9.1
+	"Anne Arundel County, MD"	"24003"	"2008"	"2008"	"Homicide"	"3"	22	525304	4.2
+	"Anne Arundel County, MD"	"24003"	"2008"	"2008"	"Undetermined "	"4"	73	525304	13.9
+	"Anne Arundel County, MD"	"24003"	"2009"	"2009"	"Unintentional"	"1"	115	532395	21.6
+	"Anne Arundel County, MD"	"24003"	"2009"	"2009"	"Suicide"	"2"	55	532395	10.3
+	"Anne Arundel County, MD"	"24003"	"2009"	"2009"	"Homicide"	"3"	18	532395	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2009"	"2009"	"Undetermined "	"4"	67	532395	12.6
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Unintentional"	"1"	98	537656	18.2
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Suicide"	"2"	61	537656	11.3
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Homicide"	"3"	15	537656	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Undetermined "	"4"	55	537656	10.2
+	"Anne Arundel County, MD"	"24003"	"2011"	"2011"	"Unintentional"	"1"	133	544403	24.4
+	"Anne Arundel County, MD"	"24003"	"2011"	"2011"	"Suicide"	"2"	58	544403	10.7
+	"Anne Arundel County, MD"	"24003"	"2011"	"2011"	"Homicide"	"3"	22	544403	4.0
+	"Anne Arundel County, MD"	"24003"	"2011"	"2011"	"Undetermined "	"4"	74	544403	13.6
+	"Anne Arundel County, MD"	"24003"	"2012"	"2012"	"Unintentional"	"1"	145	550488	26.3
+	"Anne Arundel County, MD"	"24003"	"2012"	"2012"	"Suicide"	"2"	64	550488	11.6
+	"Anne Arundel County, MD"	"24003"	"2012"	"2012"	"Homicide"	"3"	12	550488	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2012"	"2012"	"Undetermined "	"4"	65	550488	11.8
+	"Anne Arundel County, MD"	"24003"	"2013"	"2013"	"Unintentional"	"1"	140	555743	25.2
+	"Anne Arundel County, MD"	"24003"	"2013"	"2013"	"Suicide"	"2"	69	555743	12.4
+	"Anne Arundel County, MD"	"24003"	"2013"	"2013"	"Homicide"	"3"	15	555743	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2013"	"2013"	"Undetermined "	"4"	62	555743	11.2
+	"Anne Arundel County, MD"	"24003"	"2014"	"2014"	"Unintentional"	"1"	166	560133	29.6
+	"Anne Arundel County, MD"	"24003"	"2014"	"2014"	"Suicide"	"2"	73	560133	13.0
+	"Anne Arundel County, MD"	"24003"	"2014"	"2014"	"Homicide"	"3"	16	560133	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2014"	"2014"	"Undetermined "	"4"	86	560133	15.4
+	"Anne Arundel County, MD"	"24003"	"2015"	"2015"	"Unintentional"	"1"	144	564195	25.5
+	"Anne Arundel County, MD"	"24003"	"2015"	"2015"	"Suicide"	"2"	68	564195	12.1
+	"Anne Arundel County, MD"	"24003"	"2015"	"2015"	"Homicide"	"3"	21	564195	3.7
+	"Anne Arundel County, MD"	"24003"	"2015"	"2015"	"Undetermined "	"4"	93	564195	16.5
+	"Anne Arundel County, MD"	"24003"	"2016"	"2016"	"Unintentional"	"1"	210	568346	36.9
+	"Anne Arundel County, MD"	"24003"	"2016"	"2016"	"Suicide"	"2"	53	568346	9.3
+	"Anne Arundel County, MD"	"24003"	"2016"	"2016"	"Homicide"	"3"	25	568346	4.4
+	"Anne Arundel County, MD"	"24003"	"2016"	"2016"	"Undetermined "	"4"	148	568346	26.0
+	"Anne Arundel County, MD"	"24003"	"2017"	"2017"	"Unintentional"	"1"	214	573235	37.3
+	"Anne Arundel County, MD"	"24003"	"2017"	"2017"	"Suicide"	"2"	95	573235	16.6
+	"Anne Arundel County, MD"	"24003"	"2017"	"2017"	"Homicide"	"3"	22	573235	3.8
+	"Anne Arundel County, MD"	"24003"	"2017"	"2017"	"Undetermined "	"4"	188	573235	32.8
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	"Unintentional"	"1"	222	576031	38.5
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	"Suicide"	"2"	79	576031	13.7
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	"Homicide"	"3"	31	576031	5.4
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	"Undetermined "	"4"	174	576031	30.2
+	"Baltimore County, MD"	"24005"	"1999"	"1999"	"Unintentional"	"1"	184	749425	24.6
+	"Baltimore County, MD"	"24005"	"1999"	"1999"	"Suicide"	"2"	74	749425	9.9
+	"Baltimore County, MD"	"24005"	"1999"	"1999"	"Homicide"	"3"	35	749425	4.7
+	"Baltimore County, MD"	"24005"	"1999"	"1999"	"Undetermined "	"4"	94	749425	12.5
+	"Baltimore County, MD"	"24005"	"2000"	"2000"	"Unintentional"	"1"	163	754292	21.6
+	"Baltimore County, MD"	"24005"	"2000"	"2000"	"Suicide"	"2"	76	754292	10.1
+	"Baltimore County, MD"	"24005"	"2000"	"2000"	"Homicide"	"3"	54	754292	7.2
+	"Baltimore County, MD"	"24005"	"2000"	"2000"	"Undetermined "	"4"	100	754292	13.3
+	"Baltimore County, MD"	"24005"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	10	754292	Unreliable
+	"Baltimore County, MD"	"24005"	"2001"	"2001"	"Unintentional"	"1"	168	762925	22.0
+	"Baltimore County, MD"	"24005"	"2001"	"2001"	"Suicide"	"2"	64	762925	8.4
+	"Baltimore County, MD"	"24005"	"2001"	"2001"	"Homicide"	"3"	53	762925	6.9
+	"Baltimore County, MD"	"24005"	"2001"	"2001"	"Undetermined "	"4"	116	762925	15.2
+	"Baltimore County, MD"	"24005"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	762925	Unreliable
+	"Baltimore County, MD"	"24005"	"2002"	"2002"	"Unintentional"	"1"	190	770147	24.7
+	"Baltimore County, MD"	"24005"	"2002"	"2002"	"Suicide"	"2"	74	770147	9.6
+	"Baltimore County, MD"	"24005"	"2002"	"2002"	"Homicide"	"3"	50	770147	6.5
+	"Baltimore County, MD"	"24005"	"2002"	"2002"	"Undetermined "	"4"	138	770147	17.9
+	"Baltimore County, MD"	"24005"	"2003"	"2003"	"Unintentional"	"1"	182	777756	23.4
+	"Baltimore County, MD"	"24005"	"2003"	"2003"	"Suicide"	"2"	74	777756	9.5
+	"Baltimore County, MD"	"24005"	"2003"	"2003"	"Homicide"	"3"	48	777756	6.2
+	"Baltimore County, MD"	"24005"	"2003"	"2003"	"Undetermined "	"4"	140	777756	18.0
+	"Baltimore County, MD"	"24005"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	12	777756	Unreliable
+	"Baltimore County, MD"	"24005"	"2004"	"2004"	"Unintentional"	"1"	189	784371	24.1
+	"Baltimore County, MD"	"24005"	"2004"	"2004"	"Suicide"	"2"	94	784371	12.0
+	"Baltimore County, MD"	"24005"	"2004"	"2004"	"Homicide"	"3"	41	784371	5.2
+	"Baltimore County, MD"	"24005"	"2004"	"2004"	"Undetermined "	"4"	95	784371	12.1
+	"Baltimore County, MD"	"24005"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	13	784371	Unreliable
+	"Baltimore County, MD"	"24005"	"2005"	"2005"	"Unintentional"	"1"	198	789110	25.1
+	"Baltimore County, MD"	"24005"	"2005"	"2005"	"Suicide"	"2"	70	789110	8.9
+	"Baltimore County, MD"	"24005"	"2005"	"2005"	"Homicide"	"3"	62	789110	7.9
+	"Baltimore County, MD"	"24005"	"2005"	"2005"	"Undetermined "	"4"	108	789110	13.7
+	"Baltimore County, MD"	"24005"	"2006"	"2006"	"Unintentional"	"1"	197	793733	24.8
+	"Baltimore County, MD"	"24005"	"2006"	"2006"	"Suicide"	"2"	79	793733	10.0
+	"Baltimore County, MD"	"24005"	"2006"	"2006"	"Homicide"	"3"	54	793733	6.8
+	"Baltimore County, MD"	"24005"	"2006"	"2006"	"Undetermined "	"4"	131	793733	16.5
+	"Baltimore County, MD"	"24005"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	11	793733	Unreliable
+	"Baltimore County, MD"	"24005"	"2007"	"2007"	"Unintentional"	"1"	229	796073	28.8
+	"Baltimore County, MD"	"24005"	"2007"	"2007"	"Suicide"	"2"	81	796073	10.2
+	"Baltimore County, MD"	"24005"	"2007"	"2007"	"Homicide"	"3"	49	796073	6.2
+	"Baltimore County, MD"	"24005"	"2007"	"2007"	"Undetermined "	"4"	133	796073	16.7
+	"Baltimore County, MD"	"24005"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	14	796073	Unreliable
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Unintentional"	"1"	229	798651	28.7
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Suicide"	"2"	77	798651	9.6
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Homicide"	"3"	53	798651	6.6
+	"Baltimore County, MD"	"24005"	"2008"	"2008"	"Undetermined "	"4"	130	798651	16.3
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Unintentional"	"1"	231	801808	28.8
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Suicide"	"2"	89	801808	11.1
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Homicide"	"3"	51	801808	6.4
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Undetermined "	"4"	115	801808	14.3
+	"Baltimore County, MD"	"24005"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	19	801808	Unreliable
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Unintentional"	"1"	227	805029	28.2
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Suicide"	"2"	73	805029	9.1
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Homicide"	"3"	41	805029	5.1
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Undetermined "	"4"	112	805029	13.9
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	10	805029	Unreliable
+	"Baltimore County, MD"	"24005"	"2011"	"2011"	"Unintentional"	"1"	267	809941	33.0
+	"Baltimore County, MD"	"24005"	"2011"	"2011"	"Suicide"	"2"	93	809941	11.5
+	"Baltimore County, MD"	"24005"	"2011"	"2011"	"Homicide"	"3"	43	809941	5.3
+	"Baltimore County, MD"	"24005"	"2011"	"2011"	"Undetermined "	"4"	101	809941	12.5
+	"Baltimore County, MD"	"24005"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	809941	Unreliable
+	"Baltimore County, MD"	"24005"	"2012"	"2012"	"Unintentional"	"1"	300	817455	36.7
+	"Baltimore County, MD"	"24005"	"2012"	"2012"	"Suicide"	"2"	97	817455	11.9
+	"Baltimore County, MD"	"24005"	"2012"	"2012"	"Homicide"	"3"	45	817455	5.5
+	"Baltimore County, MD"	"24005"	"2012"	"2012"	"Undetermined "	"4"	116	817455	14.2
+	"Baltimore County, MD"	"24005"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	10	817455	Unreliable
+	"Baltimore County, MD"	"24005"	"2013"	"2013"	"Unintentional"	"1"	287	823015	34.9
+	"Baltimore County, MD"	"24005"	"2013"	"2013"	"Suicide"	"2"	81	823015	9.8
+	"Baltimore County, MD"	"24005"	"2013"	"2013"	"Homicide"	"3"	45	823015	5.5
+	"Baltimore County, MD"	"24005"	"2013"	"2013"	"Undetermined "	"4"	108	823015	13.1
+	"Baltimore County, MD"	"24005"	"2014"	"2014"	"Unintentional"	"1"	281	826925	34.0
+	"Baltimore County, MD"	"24005"	"2014"	"2014"	"Suicide"	"2"	87	826925	10.5
+	"Baltimore County, MD"	"24005"	"2014"	"2014"	"Homicide"	"3"	49	826925	5.9
+	"Baltimore County, MD"	"24005"	"2014"	"2014"	"Undetermined "	"4"	149	826925	18.0
+	"Baltimore County, MD"	"24005"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	826925	Unreliable
+	"Baltimore County, MD"	"24005"	"2015"	"2015"	"Unintentional"	"1"	360	831128	43.3
+	"Baltimore County, MD"	"24005"	"2015"	"2015"	"Suicide"	"2"	86	831128	10.3
+	"Baltimore County, MD"	"24005"	"2015"	"2015"	"Homicide"	"3"	70	831128	8.4
+	"Baltimore County, MD"	"24005"	"2015"	"2015"	"Undetermined "	"4"	176	831128	21.2
+	"Baltimore County, MD"	"24005"	"2016"	"2016"	"Unintentional"	"1"	381	831026	45.8
+	"Baltimore County, MD"	"24005"	"2016"	"2016"	"Suicide"	"2"	91	831026	11.0
+	"Baltimore County, MD"	"24005"	"2016"	"2016"	"Homicide"	"3"	74	831026	8.9
+	"Baltimore County, MD"	"24005"	"2016"	"2016"	"Undetermined "	"4"	279	831026	33.6
+	"Baltimore County, MD"	"24005"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	16	831026	Unreliable
+	"Baltimore County, MD"	"24005"	"2017"	"2017"	"Unintentional"	"1"	419	832468	50.3
+	"Baltimore County, MD"	"24005"	"2017"	"2017"	"Suicide"	"2"	86	832468	10.3
+	"Baltimore County, MD"	"24005"	"2017"	"2017"	"Homicide"	"3"	81	832468	9.7
+	"Baltimore County, MD"	"24005"	"2017"	"2017"	"Undetermined "	"4"	315	832468	37.8
+	"Baltimore County, MD"	"24005"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	12	832468	Unreliable
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	"Unintentional"	"1"	436	828431	52.6
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	"Suicide"	"2"	88	828431	10.6
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	"Homicide"	"3"	71	828431	8.6
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	"Undetermined "	"4"	341	828431	41.2
+	"Calvert County, MD"	"24009"	"1999"	"1999"	"Unintentional"	"1"	20	72858	27.5
+	"Calvert County, MD"	"24009"	"2000"	"2000"	"Unintentional"	"1"	23	74563	30.8
+	"Calvert County, MD"	"24009"	"2001"	"2001"	"Unintentional"	"1"	19	77218	Unreliable
+	"Calvert County, MD"	"24009"	"2002"	"2002"	"Unintentional"	"1"	19	80153	Unreliable
+	"Calvert County, MD"	"24009"	"2003"	"2003"	"Unintentional"	"1"	30	83007	36.1
+	"Calvert County, MD"	"24009"	"2003"	"2003"	"Suicide"	"2"	10	83007	Unreliable
+	"Calvert County, MD"	"24009"	"2004"	"2004"	"Unintentional"	"1"	37	84928	43.6
+	"Calvert County, MD"	"24009"	"2004"	"2004"	"Suicide"	"2"	13	84928	Unreliable
+	"Calvert County, MD"	"24009"	"2005"	"2005"	"Unintentional"	"1"	24	86294	27.8
+	"Calvert County, MD"	"24009"	"2006"	"2006"	"Unintentional"	"1"	41	87043	47.1
+	"Calvert County, MD"	"24009"	"2007"	"2007"	"Unintentional"	"1"	28	87445	32.0
+	"Calvert County, MD"	"24009"	"2007"	"2007"	"Undetermined "	"4"	14	87445	Unreliable
+	"Calvert County, MD"	"24009"	"2008"	"2008"	"Unintentional"	"1"	17	87788	Unreliable
+	"Calvert County, MD"	"24009"	"2008"	"2008"	"Suicide"	"2"	12	87788	Unreliable
+	"Calvert County, MD"	"24009"	"2009"	"2009"	"Unintentional"	"1"	27	88244	30.6
+	"Calvert County, MD"	"24009"	"2010"	"2010"	"Unintentional"	"1"	20	88737	22.5
+	"Calvert County, MD"	"24009"	"2010"	"2010"	"Suicide"	"2"	12	88737	Unreliable
+	"Calvert County, MD"	"24009"	"2011"	"2011"	"Unintentional"	"1"	27	89256	30.3
+	"Calvert County, MD"	"24009"	"2011"	"2011"	"Suicide"	"2"	12	89256	Unreliable
+	"Calvert County, MD"	"24009"	"2011"	"2011"	"Undetermined "	"4"	10	89256	Unreliable
+	"Calvert County, MD"	"24009"	"2012"	"2012"	"Unintentional"	"1"	23	89628	25.7
+	"Calvert County, MD"	"24009"	"2012"	"2012"	"Suicide"	"2"	18	89628	Unreliable
+	"Calvert County, MD"	"24009"	"2012"	"2012"	"Undetermined "	"4"	10	89628	Unreliable
+	"Calvert County, MD"	"24009"	"2013"	"2013"	"Unintentional"	"1"	34	90484	37.6
+	"Calvert County, MD"	"24009"	"2013"	"2013"	"Suicide"	"2"	13	90484	Unreliable
+	"Calvert County, MD"	"24009"	"2013"	"2013"	"Undetermined "	"4"	10	90484	Unreliable
+	"Calvert County, MD"	"24009"	"2014"	"2014"	"Unintentional"	"1"	23	90613	25.4
+	"Calvert County, MD"	"24009"	"2014"	"2014"	"Suicide"	"2"	17	90613	Unreliable
+	"Calvert County, MD"	"24009"	"2014"	"2014"	"Undetermined "	"4"	12	90613	Unreliable
+	"Calvert County, MD"	"24009"	"2015"	"2015"	"Unintentional"	"1"	35	90595	38.6
+	"Calvert County, MD"	"24009"	"2015"	"2015"	"Suicide"	"2"	15	90595	Unreliable
+	"Calvert County, MD"	"24009"	"2015"	"2015"	"Undetermined "	"4"	14	90595	Unreliable
+	"Calvert County, MD"	"24009"	"2016"	"2016"	"Unintentional"	"1"	41	91251	44.9
+	"Calvert County, MD"	"24009"	"2016"	"2016"	"Suicide"	"2"	13	91251	Unreliable
+	"Calvert County, MD"	"24009"	"2016"	"2016"	"Undetermined "	"4"	20	91251	21.9
+	"Calvert County, MD"	"24009"	"2017"	"2017"	"Unintentional"	"1"	38	91502	41.5
+	"Calvert County, MD"	"24009"	"2017"	"2017"	"Suicide"	"2"	11	91502	Unreliable
+	"Calvert County, MD"	"24009"	"2017"	"2017"	"Undetermined "	"4"	28	91502	30.6
+	"Calvert County, MD"	"24009"	"2018"	"2018"	"Unintentional"	"1"	39	92003	42.4
+	"Calvert County, MD"	"24009"	"2018"	"2018"	"Undetermined "	"4"	26	92003	28.3
+	"Caroline County, MD"	"24011"	"1999"	"1999"	"Unintentional"	"1"	14	29610	Unreliable
+	"Caroline County, MD"	"24011"	"2000"	"2000"	"Unintentional"	"1"	10	29772	Unreliable
+	"Caroline County, MD"	"24011"	"2001"	"2001"	"Unintentional"	"1"	17	29814	Unreliable
+	"Caroline County, MD"	"24011"	"2002"	"2002"	"Unintentional"	"1"	17	30054	Unreliable
+	"Caroline County, MD"	"24011"	"2003"	"2003"	"Unintentional"	"1"	12	30553	Unreliable
+	"Caroline County, MD"	"24011"	"2004"	"2004"	"Unintentional"	"1"	25	30653	81.6
+	"Caroline County, MD"	"24011"	"2005"	"2005"	"Unintentional"	"1"	11	31416	Unreliable
+	"Caroline County, MD"	"24011"	"2006"	"2006"	"Unintentional"	"1"	23	32214	71.4
+	"Caroline County, MD"	"24011"	"2007"	"2007"	"Unintentional"	"1"	11	32720	Unreliable
+	"Caroline County, MD"	"24011"	"2008"	"2008"	"Unintentional"	"1"	21	32983	63.7
+	"Caroline County, MD"	"24011"	"2009"	"2009"	"Unintentional"	"1"	18	33013	Unreliable
+	"Caroline County, MD"	"24011"	"2010"	"2010"	"Unintentional"	"1"	22	33066	66.5
+	"Caroline County, MD"	"24011"	"2011"	"2011"	"Unintentional"	"1"	18	32985	Unreliable
+	"Caroline County, MD"	"24011"	"2011"	"2011"	"Undetermined "	"4"	11	32985	Unreliable
+	"Caroline County, MD"	"24011"	"2012"	"2012"	"Unintentional"	"1"	25	32718	76.4
+	"Caroline County, MD"	"24011"	"2013"	"2013"	"Unintentional"	"1"	20	32693	61.2
+	"Caroline County, MD"	"24011"	"2014"	"2014"	"Unintentional"	"1"	19	32538	Unreliable
+	"Caroline County, MD"	"24011"	"2015"	"2015"	"Unintentional"	"1"	13	32579	Unreliable
+	"Caroline County, MD"	"24011"	"2016"	"2016"	"Unintentional"	"1"	14	32850	Unreliable
+	"Caroline County, MD"	"24011"	"2016"	"2016"	"Undetermined "	"4"	10	32850	Unreliable
+	"Caroline County, MD"	"24011"	"2017"	"2017"	"Unintentional"	"1"	20	33193	60.3
+	"Caroline County, MD"	"24011"	"2018"	"2018"	"Unintentional"	"1"	16	33304	Unreliable
+	"Carroll County, MD"	"24013"	"1999"	"1999"	"Unintentional"	"1"	44	149149	29.5
+	"Carroll County, MD"	"24013"	"1999"	"1999"	"Suicide"	"2"	16	149149	Unreliable
+	"Carroll County, MD"	"24013"	"1999"	"1999"	"Undetermined "	"4"	12	149149	Unreliable
+	"Carroll County, MD"	"24013"	"2000"	"2000"	"Unintentional"	"1"	24	150897	15.9
+	"Carroll County, MD"	"24013"	"2000"	"2000"	"Suicide"	"2"	19	150897	Unreliable
+	"Carroll County, MD"	"24013"	"2001"	"2001"	"Unintentional"	"1"	37	154037	24.0
+	"Carroll County, MD"	"24013"	"2001"	"2001"	"Suicide"	"2"	14	154037	Unreliable
+	"Carroll County, MD"	"24013"	"2001"	"2001"	"Undetermined "	"4"	19	154037	Unreliable
+	"Carroll County, MD"	"24013"	"2002"	"2002"	"Unintentional"	"1"	30	157930	19.0
+	"Carroll County, MD"	"24013"	"2002"	"2002"	"Suicide"	"2"	17	157930	Unreliable
+	"Carroll County, MD"	"24013"	"2002"	"2002"	"Undetermined "	"4"	19	157930	Unreliable
+	"Carroll County, MD"	"24013"	"2003"	"2003"	"Unintentional"	"1"	44	161389	27.3
+	"Carroll County, MD"	"24013"	"2003"	"2003"	"Suicide"	"2"	20	161389	12.4
+	"Carroll County, MD"	"24013"	"2003"	"2003"	"Undetermined "	"4"	23	161389	14.3
+	"Carroll County, MD"	"24013"	"2004"	"2004"	"Unintentional"	"1"	49	163915	29.9
+	"Carroll County, MD"	"24013"	"2004"	"2004"	"Suicide"	"2"	21	163915	12.8
+	"Carroll County, MD"	"24013"	"2004"	"2004"	"Undetermined "	"4"	16	163915	Unreliable
+	"Carroll County, MD"	"24013"	"2005"	"2005"	"Unintentional"	"1"	49	165519	29.6
+	"Carroll County, MD"	"24013"	"2005"	"2005"	"Suicide"	"2"	21	165519	12.7
+	"Carroll County, MD"	"24013"	"2005"	"2005"	"Undetermined "	"4"	18	165519	Unreliable
+	"Carroll County, MD"	"24013"	"2006"	"2006"	"Unintentional"	"1"	52	166950	31.1
+	"Carroll County, MD"	"24013"	"2006"	"2006"	"Suicide"	"2"	14	166950	Unreliable
+	"Carroll County, MD"	"24013"	"2006"	"2006"	"Undetermined "	"4"	13	166950	Unreliable
+	"Carroll County, MD"	"24013"	"2007"	"2007"	"Unintentional"	"1"	37	167390	22.1
+	"Carroll County, MD"	"24013"	"2007"	"2007"	"Suicide"	"2"	22	167390	13.1
+	"Carroll County, MD"	"24013"	"2007"	"2007"	"Undetermined "	"4"	17	167390	Unreliable
+	"Carroll County, MD"	"24013"	"2008"	"2008"	"Unintentional"	"1"	53	167433	31.7
+	"Carroll County, MD"	"24013"	"2008"	"2008"	"Suicide"	"2"	16	167433	Unreliable
+	"Carroll County, MD"	"24013"	"2008"	"2008"	"Undetermined "	"4"	16	167433	Unreliable
+	"Carroll County, MD"	"24013"	"2009"	"2009"	"Unintentional"	"1"	41	167028	24.5
+	"Carroll County, MD"	"24013"	"2009"	"2009"	"Suicide"	"2"	18	167028	Unreliable
+	"Carroll County, MD"	"24013"	"2009"	"2009"	"Undetermined "	"4"	21	167028	12.6
+	"Carroll County, MD"	"24013"	"2010"	"2010"	"Unintentional"	"1"	45	167134	26.9
+	"Carroll County, MD"	"24013"	"2010"	"2010"	"Suicide"	"2"	17	167134	Unreliable
+	"Carroll County, MD"	"24013"	"2010"	"2010"	"Undetermined "	"4"	14	167134	Unreliable
+	"Carroll County, MD"	"24013"	"2011"	"2011"	"Unintentional"	"1"	53	167288	31.7
+	"Carroll County, MD"	"24013"	"2011"	"2011"	"Suicide"	"2"	16	167288	Unreliable
+	"Carroll County, MD"	"24013"	"2011"	"2011"	"Undetermined "	"4"	11	167288	Unreliable
+	"Carroll County, MD"	"24013"	"2012"	"2012"	"Unintentional"	"1"	66	167217	39.5
+	"Carroll County, MD"	"24013"	"2012"	"2012"	"Suicide"	"2"	20	167217	12.0
+	"Carroll County, MD"	"24013"	"2012"	"2012"	"Undetermined "	"4"	22	167217	13.2
+	"Carroll County, MD"	"24013"	"2013"	"2013"	"Unintentional"	"1"	62	167564	37.0
+	"Carroll County, MD"	"24013"	"2013"	"2013"	"Suicide"	"2"	25	167564	14.9
+	"Carroll County, MD"	"24013"	"2013"	"2013"	"Undetermined "	"4"	22	167564	13.1
+	"Carroll County, MD"	"24013"	"2014"	"2014"	"Unintentional"	"1"	72	167830	42.9
+	"Carroll County, MD"	"24013"	"2014"	"2014"	"Suicide"	"2"	32	167830	19.1
+	"Carroll County, MD"	"24013"	"2014"	"2014"	"Undetermined "	"4"	26	167830	15.5
+	"Carroll County, MD"	"24013"	"2015"	"2015"	"Unintentional"	"1"	76	167627	45.3
+	"Carroll County, MD"	"24013"	"2015"	"2015"	"Suicide"	"2"	19	167627	Unreliable
+	"Carroll County, MD"	"24013"	"2015"	"2015"	"Undetermined "	"4"	27	167627	16.1
+	"Carroll County, MD"	"24013"	"2016"	"2016"	"Unintentional"	"1"	83	167656	49.5
+	"Carroll County, MD"	"24013"	"2016"	"2016"	"Suicide"	"2"	21	167656	12.5
+	"Carroll County, MD"	"24013"	"2016"	"2016"	"Undetermined "	"4"	42	167656	25.1
+	"Carroll County, MD"	"24013"	"2017"	"2017"	"Unintentional"	"1"	86	167781	51.3
+	"Carroll County, MD"	"24013"	"2017"	"2017"	"Suicide"	"2"	24	167781	14.3
+	"Carroll County, MD"	"24013"	"2017"	"2017"	"Undetermined "	"4"	39	167781	23.2
+	"Carroll County, MD"	"24013"	"2018"	"2018"	"Unintentional"	"1"	67	168429	39.8
+	"Carroll County, MD"	"24013"	"2018"	"2018"	"Suicide"	"2"	25	168429	14.8
+	"Carroll County, MD"	"24013"	"2018"	"2018"	"Undetermined "	"4"	57	168429	33.8
+	"Cecil County, MD"	"24015"	"1999"	"1999"	"Unintentional"	"1"	43	84591	50.8
+	"Cecil County, MD"	"24015"	"2000"	"2000"	"Unintentional"	"1"	25	85951	29.1
+	"Cecil County, MD"	"24015"	"2000"	"2000"	"Suicide"	"2"	14	85951	Unreliable
+	"Cecil County, MD"	"24015"	"2001"	"2001"	"Unintentional"	"1"	31	88228	35.1
+	"Cecil County, MD"	"24015"	"2001"	"2001"	"Suicide"	"2"	10	88228	Unreliable
+	"Cecil County, MD"	"24015"	"2002"	"2002"	"Unintentional"	"1"	37	90061	41.1
+	"Cecil County, MD"	"24015"	"2002"	"2002"	"Undetermined "	"4"	12	90061	Unreliable
+	"Cecil County, MD"	"24015"	"2003"	"2003"	"Unintentional"	"1"	45	92444	48.7
+	"Cecil County, MD"	"24015"	"2003"	"2003"	"Suicide"	"2"	16	92444	Unreliable
+	"Cecil County, MD"	"24015"	"2003"	"2003"	"Undetermined "	"4"	13	92444	Unreliable
+	"Cecil County, MD"	"24015"	"2004"	"2004"	"Unintentional"	"1"	35	94809	36.9
+	"Cecil County, MD"	"24015"	"2004"	"2004"	"Suicide"	"2"	16	94809	Unreliable
+	"Cecil County, MD"	"24015"	"2004"	"2004"	"Undetermined "	"4"	17	94809	Unreliable
+	"Cecil County, MD"	"24015"	"2005"	"2005"	"Unintentional"	"1"	30	96836	31.0
+	"Cecil County, MD"	"24015"	"2005"	"2005"	"Suicide"	"2"	16	96836	Unreliable
+	"Cecil County, MD"	"24015"	"2005"	"2005"	"Undetermined "	"4"	13	96836	Unreliable
+	"Cecil County, MD"	"24015"	"2006"	"2006"	"Unintentional"	"1"	49	98821	49.6
+	"Cecil County, MD"	"24015"	"2006"	"2006"	"Suicide"	"2"	14	98821	Unreliable
+	"Cecil County, MD"	"24015"	"2006"	"2006"	"Undetermined "	"4"	20	98821	20.2
+	"Cecil County, MD"	"24015"	"2007"	"2007"	"Unintentional"	"1"	49	99628	49.2
+	"Cecil County, MD"	"24015"	"2007"	"2007"	"Suicide"	"2"	12	99628	Unreliable
+	"Cecil County, MD"	"24015"	"2007"	"2007"	"Undetermined "	"4"	26	99628	26.1
+	"Cecil County, MD"	"24015"	"2008"	"2008"	"Unintentional"	"1"	28	100232	27.9
+	"Cecil County, MD"	"24015"	"2008"	"2008"	"Undetermined "	"4"	12	100232	Unreliable
+	"Cecil County, MD"	"24015"	"2009"	"2009"	"Unintentional"	"1"	37	100816	36.7
+	"Cecil County, MD"	"24015"	"2009"	"2009"	"Suicide"	"2"	21	100816	20.8
+	"Cecil County, MD"	"24015"	"2009"	"2009"	"Undetermined "	"4"	18	100816	Unreliable
+	"Cecil County, MD"	"24015"	"2010"	"2010"	"Unintentional"	"1"	41	101108	40.6
+	"Cecil County, MD"	"24015"	"2010"	"2010"	"Suicide"	"2"	10	101108	Unreliable
+	"Cecil County, MD"	"24015"	"2010"	"2010"	"Undetermined "	"4"	23	101108	22.7
+	"Cecil County, MD"	"24015"	"2011"	"2011"	"Unintentional"	"1"	42	101694	41.3
+	"Cecil County, MD"	"24015"	"2011"	"2011"	"Suicide"	"2"	22	101694	21.6
+	"Cecil County, MD"	"24015"	"2011"	"2011"	"Undetermined "	"4"	21	101694	20.7
+	"Cecil County, MD"	"24015"	"2012"	"2012"	"Unintentional"	"1"	40	101696	39.3
+	"Cecil County, MD"	"24015"	"2012"	"2012"	"Suicide"	"2"	13	101696	Unreliable
+	"Cecil County, MD"	"24015"	"2012"	"2012"	"Undetermined "	"4"	17	101696	Unreliable
+	"Cecil County, MD"	"24015"	"2013"	"2013"	"Unintentional"	"1"	38	101913	37.3
+	"Cecil County, MD"	"24015"	"2013"	"2013"	"Suicide"	"2"	13	101913	Unreliable
+	"Cecil County, MD"	"24015"	"2013"	"2013"	"Undetermined "	"4"	16	101913	Unreliable
+	"Cecil County, MD"	"24015"	"2014"	"2014"	"Unintentional"	"1"	36	102383	35.2
+	"Cecil County, MD"	"24015"	"2014"	"2014"	"Suicide"	"2"	16	102383	Unreliable
+	"Cecil County, MD"	"24015"	"2014"	"2014"	"Undetermined "	"4"	21	102383	20.5
+	"Cecil County, MD"	"24015"	"2015"	"2015"	"Unintentional"	"1"	46	102382	44.9
+	"Cecil County, MD"	"24015"	"2015"	"2015"	"Suicide"	"2"	16	102382	Unreliable
+	"Cecil County, MD"	"24015"	"2015"	"2015"	"Undetermined "	"4"	19	102382	Unreliable
+	"Cecil County, MD"	"24015"	"2016"	"2016"	"Unintentional"	"1"	53	102603	51.7
+	"Cecil County, MD"	"24015"	"2016"	"2016"	"Suicide"	"2"	16	102603	Unreliable
+	"Cecil County, MD"	"24015"	"2016"	"2016"	"Undetermined "	"4"	23	102603	22.4
+	"Cecil County, MD"	"24015"	"2017"	"2017"	"Unintentional"	"1"	55	102746	53.5
+	"Cecil County, MD"	"24015"	"2017"	"2017"	"Suicide"	"2"	23	102746	22.4
+	"Cecil County, MD"	"24015"	"2017"	"2017"	"Undetermined "	"4"	50	102746	48.7
+	"Cecil County, MD"	"24015"	"2018"	"2018"	"Unintentional"	"1"	56	102826	54.5
+	"Cecil County, MD"	"24015"	"2018"	"2018"	"Suicide"	"2"	14	102826	Unreliable
+	"Cecil County, MD"	"24015"	"2018"	"2018"	"Undetermined "	"4"	47	102826	45.7
+	"Charles County, MD"	"24017"	"1999"	"1999"	"Unintentional"	"1"	47	118571	39.6
+	"Charles County, MD"	"24017"	"1999"	"1999"	"Suicide"	"2"	14	118571	Unreliable
+	"Charles County, MD"	"24017"	"2000"	"2000"	"Unintentional"	"1"	26	120546	21.6
+	"Charles County, MD"	"24017"	"2000"	"2000"	"Suicide"	"2"	10	120546	Unreliable
+	"Charles County, MD"	"24017"	"2001"	"2001"	"Unintentional"	"1"	29	124745	23.2
+	"Charles County, MD"	"24017"	"2001"	"2001"	"Suicide"	"2"	12	124745	Unreliable
+	"Charles County, MD"	"24017"	"2002"	"2002"	"Unintentional"	"1"	50	128079	39.0
+	"Charles County, MD"	"24017"	"2002"	"2002"	"Suicide"	"2"	18	128079	Unreliable
+	"Charles County, MD"	"24017"	"2002"	"2002"	"Undetermined "	"4"	11	128079	Unreliable
+	"Charles County, MD"	"24017"	"2003"	"2003"	"Unintentional"	"1"	31	131942	23.5
+	"Charles County, MD"	"24017"	"2003"	"2003"	"Suicide"	"2"	13	131942	Unreliable
+	"Charles County, MD"	"24017"	"2004"	"2004"	"Unintentional"	"1"	32	135601	23.6
+	"Charles County, MD"	"24017"	"2004"	"2004"	"Suicide"	"2"	12	135601	Unreliable
+	"Charles County, MD"	"24017"	"2005"	"2005"	"Unintentional"	"1"	46	138560	33.2
+	"Charles County, MD"	"24017"	"2005"	"2005"	"Suicide"	"2"	15	138560	Unreliable
+	"Charles County, MD"	"24017"	"2005"	"2005"	"Undetermined "	"4"	10	138560	Unreliable
+	"Charles County, MD"	"24017"	"2006"	"2006"	"Unintentional"	"1"	45	141164	31.9
+	"Charles County, MD"	"24017"	"2006"	"2006"	"Suicide"	"2"	13	141164	Unreliable
+	"Charles County, MD"	"24017"	"2007"	"2007"	"Unintentional"	"1"	40	142721	28.0
+	"Charles County, MD"	"24017"	"2007"	"2007"	"Suicide"	"2"	16	142721	Unreliable
+	"Charles County, MD"	"24017"	"2007"	"2007"	"Undetermined "	"4"	11	142721	Unreliable
+	"Charles County, MD"	"24017"	"2008"	"2008"	"Unintentional"	"1"	42	143783	29.2
+	"Charles County, MD"	"24017"	"2008"	"2008"	"Suicide"	"2"	22	143783	15.3
+	"Charles County, MD"	"24017"	"2008"	"2008"	"Homicide"	"3"	12	143783	Unreliable
+	"Charles County, MD"	"24017"	"2008"	"2008"	"Undetermined "	"4"	13	143783	Unreliable
+	"Charles County, MD"	"24017"	"2009"	"2009"	"Unintentional"	"1"	34	144804	23.5
+	"Charles County, MD"	"24017"	"2009"	"2009"	"Suicide"	"2"	17	144804	Unreliable
+	"Charles County, MD"	"24017"	"2009"	"2009"	"Homicide"	"3"	11	144804	Unreliable
+	"Charles County, MD"	"24017"	"2009"	"2009"	"Undetermined "	"4"	13	144804	Unreliable
+	"Charles County, MD"	"24017"	"2010"	"2010"	"Unintentional"	"1"	34	146551	23.2
+	"Charles County, MD"	"24017"	"2010"	"2010"	"Suicide"	"2"	12	146551	Unreliable
+	"Charles County, MD"	"24017"	"2010"	"2010"	"Undetermined "	"4"	14	146551	Unreliable
+	"Charles County, MD"	"24017"	"2011"	"2011"	"Unintentional"	"1"	58	149130	38.9
+	"Charles County, MD"	"24017"	"2011"	"2011"	"Suicide"	"2"	20	149130	13.4
+	"Charles County, MD"	"24017"	"2011"	"2011"	"Undetermined "	"4"	10	149130	Unreliable
+	"Charles County, MD"	"24017"	"2012"	"2012"	"Unintentional"	"1"	39	150592	25.9
+	"Charles County, MD"	"24017"	"2012"	"2012"	"Suicide"	"2"	15	150592	Unreliable
+	"Charles County, MD"	"24017"	"2012"	"2012"	"Undetermined "	"4"	11	150592	Unreliable
+	"Charles County, MD"	"24017"	"2013"	"2013"	"Unintentional"	"1"	48	152864	31.4
+	"Charles County, MD"	"24017"	"2013"	"2013"	"Suicide"	"2"	19	152864	Unreliable
+	"Charles County, MD"	"24017"	"2014"	"2014"	"Unintentional"	"1"	30	154747	19.4
+	"Charles County, MD"	"24017"	"2014"	"2014"	"Suicide"	"2"	17	154747	Unreliable
+	"Charles County, MD"	"24017"	"2014"	"2014"	"Undetermined "	"4"	19	154747	Unreliable
+	"Charles County, MD"	"24017"	"2015"	"2015"	"Unintentional"	"1"	52	156118	33.3
+	"Charles County, MD"	"24017"	"2015"	"2015"	"Suicide"	"2"	19	156118	Unreliable
+	"Charles County, MD"	"24017"	"2015"	"2015"	"Undetermined "	"4"	17	156118	Unreliable
+	"Charles County, MD"	"24017"	"2016"	"2016"	"Unintentional"	"1"	63	157705	39.9
+	"Charles County, MD"	"24017"	"2016"	"2016"	"Suicide"	"2"	20	157705	12.7
+	"Charles County, MD"	"24017"	"2016"	"2016"	"Undetermined "	"4"	28	157705	17.8
+	"Charles County, MD"	"24017"	"2017"	"2017"	"Unintentional"	"1"	64	159700	40.1
+	"Charles County, MD"	"24017"	"2017"	"2017"	"Suicide"	"2"	18	159700	Unreliable
+	"Charles County, MD"	"24017"	"2017"	"2017"	"Homicide"	"3"	11	159700	Unreliable
+	"Charles County, MD"	"24017"	"2017"	"2017"	"Undetermined "	"4"	29	159700	18.2
+	"Charles County, MD"	"24017"	"2018"	"2018"	"Unintentional"	"1"	48	161503	29.7
+	"Charles County, MD"	"24017"	"2018"	"2018"	"Suicide"	"2"	18	161503	Unreliable
+	"Charles County, MD"	"24017"	"2018"	"2018"	"Homicide"	"3"	14	161503	Unreliable
+	"Charles County, MD"	"24017"	"2018"	"2018"	"Undetermined "	"4"	27	161503	16.7
+	"Dorchester County, MD"	"24019"	"1999"	"1999"	"Unintentional"	"1"	17	30783	Unreliable
+	"Dorchester County, MD"	"24019"	"2001"	"2001"	"Unintentional"	"1"	14	30647	Unreliable
+	"Dorchester County, MD"	"24019"	"2003"	"2003"	"Unintentional"	"1"	13	30628	Unreliable
+	"Dorchester County, MD"	"24019"	"2004"	"2004"	"Unintentional"	"1"	14	31086	Unreliable
+	"Dorchester County, MD"	"24019"	"2005"	"2005"	"Unintentional"	"1"	12	31422	Unreliable
+	"Dorchester County, MD"	"24019"	"2006"	"2006"	"Unintentional"	"1"	18	31677	Unreliable
+	"Dorchester County, MD"	"24019"	"2007"	"2007"	"Unintentional"	"1"	11	32172	Unreliable
+	"Dorchester County, MD"	"24019"	"2009"	"2009"	"Unintentional"	"1"	15	32470	Unreliable
+	"Dorchester County, MD"	"24019"	"2010"	"2010"	"Unintentional"	"1"	11	32618	Unreliable
+	"Dorchester County, MD"	"24019"	"2011"	"2011"	"Unintentional"	"1"	11	32640	Unreliable
+	"Dorchester County, MD"	"24019"	"2012"	"2012"	"Unintentional"	"1"	14	32551	Unreliable
+	"Dorchester County, MD"	"24019"	"2013"	"2013"	"Unintentional"	"1"	17	32660	Unreliable
+	"Dorchester County, MD"	"24019"	"2014"	"2014"	"Unintentional"	"1"	10	32578	Unreliable
+	"Dorchester County, MD"	"24019"	"2015"	"2015"	"Unintentional"	"1"	14	32384	Unreliable
+	"Dorchester County, MD"	"24019"	"2016"	"2016"	"Unintentional"	"1"	13	32258	Unreliable
+	"Dorchester County, MD"	"24019"	"2017"	"2017"	"Unintentional"	"1"	19	32162	Unreliable
+	"Dorchester County, MD"	"24019"	"2018"	"2018"	"Unintentional"	"1"	13	31998	Unreliable
+	"Frederick County, MD"	"24021"	"1999"	"1999"	"Unintentional"	"1"	44	191606	23.0
+	"Frederick County, MD"	"24021"	"1999"	"1999"	"Suicide"	"2"	13	191606	Unreliable
+	"Frederick County, MD"	"24021"	"2000"	"2000"	"Unintentional"	"1"	44	195277	22.5
+	"Frederick County, MD"	"24021"	"2000"	"2000"	"Suicide"	"2"	16	195277	Unreliable
+	"Frederick County, MD"	"24021"	"2001"	"2001"	"Unintentional"	"1"	56	202315	27.7
+	"Frederick County, MD"	"24021"	"2001"	"2001"	"Suicide"	"2"	17	202315	Unreliable
+	"Frederick County, MD"	"24021"	"2001"	"2001"	"Undetermined "	"4"	13	202315	Unreliable
+	"Frederick County, MD"	"24021"	"2002"	"2002"	"Unintentional"	"1"	39	209194	18.6
+	"Frederick County, MD"	"24021"	"2002"	"2002"	"Suicide"	"2"	29	209194	13.9
+	"Frederick County, MD"	"24021"	"2002"	"2002"	"Undetermined "	"4"	11	209194	Unreliable
+	"Frederick County, MD"	"24021"	"2003"	"2003"	"Unintentional"	"1"	55	213827	25.7
+	"Frederick County, MD"	"24021"	"2003"	"2003"	"Suicide"	"2"	26	213827	12.2
+	"Frederick County, MD"	"24021"	"2003"	"2003"	"Undetermined "	"4"	10	213827	Unreliable
+	"Frederick County, MD"	"24021"	"2004"	"2004"	"Unintentional"	"1"	53	217776	24.3
+	"Frederick County, MD"	"24021"	"2004"	"2004"	"Suicide"	"2"	13	217776	Unreliable
+	"Frederick County, MD"	"24021"	"2004"	"2004"	"Undetermined "	"4"	13	217776	Unreliable
+	"Frederick County, MD"	"24021"	"2005"	"2005"	"Unintentional"	"1"	50	221201	22.6
+	"Frederick County, MD"	"24021"	"2005"	"2005"	"Suicide"	"2"	20	221201	9.0
+	"Frederick County, MD"	"24021"	"2005"	"2005"	"Undetermined "	"4"	14	221201	Unreliable
+	"Frederick County, MD"	"24021"	"2006"	"2006"	"Unintentional"	"1"	61	224211	27.2
+	"Frederick County, MD"	"24021"	"2006"	"2006"	"Suicide"	"2"	20	224211	8.9
+	"Frederick County, MD"	"24021"	"2006"	"2006"	"Undetermined "	"4"	23	224211	10.3
+	"Frederick County, MD"	"24021"	"2007"	"2007"	"Unintentional"	"1"	45	227463	19.8
+	"Frederick County, MD"	"24021"	"2007"	"2007"	"Suicide"	"2"	20	227463	8.8
+	"Frederick County, MD"	"24021"	"2007"	"2007"	"Undetermined "	"4"	21	227463	9.2
+	"Frederick County, MD"	"24021"	"2008"	"2008"	"Unintentional"	"1"	57	229286	24.9
+	"Frederick County, MD"	"24021"	"2008"	"2008"	"Suicide"	"2"	29	229286	12.6
+	"Frederick County, MD"	"24021"	"2008"	"2008"	"Undetermined "	"4"	19	229286	Unreliable
+	"Frederick County, MD"	"24021"	"2009"	"2009"	"Unintentional"	"1"	51	230942	22.1
+	"Frederick County, MD"	"24021"	"2009"	"2009"	"Suicide"	"2"	32	230942	13.9
+	"Frederick County, MD"	"24021"	"2009"	"2009"	"Homicide"	"3"	10	230942	Unreliable
+	"Frederick County, MD"	"24021"	"2009"	"2009"	"Undetermined "	"4"	23	230942	10.0
+	"Frederick County, MD"	"24021"	"2010"	"2010"	"Unintentional"	"1"	66	233385	28.3
+	"Frederick County, MD"	"24021"	"2010"	"2010"	"Suicide"	"2"	21	233385	9.0
+	"Frederick County, MD"	"24021"	"2010"	"2010"	"Undetermined "	"4"	13	233385	Unreliable
+	"Frederick County, MD"	"24021"	"2011"	"2011"	"Unintentional"	"1"	47	236745	19.9
+	"Frederick County, MD"	"24021"	"2011"	"2011"	"Suicide"	"2"	18	236745	Unreliable
+	"Frederick County, MD"	"24021"	"2011"	"2011"	"Undetermined "	"4"	20	236745	8.4
+	"Frederick County, MD"	"24021"	"2012"	"2012"	"Unintentional"	"1"	50	239582	20.9
+	"Frederick County, MD"	"24021"	"2012"	"2012"	"Suicide"	"2"	27	239582	11.3
+	"Frederick County, MD"	"24021"	"2012"	"2012"	"Undetermined "	"4"	21	239582	8.8
+	"Frederick County, MD"	"24021"	"2013"	"2013"	"Unintentional"	"1"	70	241409	29.0
+	"Frederick County, MD"	"24021"	"2013"	"2013"	"Suicide"	"2"	33	241409	13.7
+	"Frederick County, MD"	"24021"	"2013"	"2013"	"Undetermined "	"4"	25	241409	10.4
+	"Frederick County, MD"	"24021"	"2014"	"2014"	"Unintentional"	"1"	52	243675	21.3
+	"Frederick County, MD"	"24021"	"2014"	"2014"	"Suicide"	"2"	21	243675	8.6
+	"Frederick County, MD"	"24021"	"2014"	"2014"	"Undetermined "	"4"	33	243675	13.5
+	"Frederick County, MD"	"24021"	"2015"	"2015"	"Unintentional"	"1"	62	245322	25.3
+	"Frederick County, MD"	"24021"	"2015"	"2015"	"Suicide"	"2"	25	245322	10.2
+	"Frederick County, MD"	"24021"	"2015"	"2015"	"Undetermined "	"4"	25	245322	10.2
+	"Frederick County, MD"	"24021"	"2016"	"2016"	"Unintentional"	"1"	98	247591	39.6
+	"Frederick County, MD"	"24021"	"2016"	"2016"	"Suicide"	"2"	29	247591	11.7
+	"Frederick County, MD"	"24021"	"2016"	"2016"	"Undetermined "	"4"	68	247591	27.5
+	"Frederick County, MD"	"24021"	"2017"	"2017"	"Unintentional"	"1"	83	252022	32.9
+	"Frederick County, MD"	"24021"	"2017"	"2017"	"Suicide"	"2"	28	252022	11.1
+	"Frederick County, MD"	"24021"	"2017"	"2017"	"Undetermined "	"4"	59	252022	23.4
+	"Frederick County, MD"	"24021"	"2018"	"2018"	"Unintentional"	"1"	81	255648	31.7
+	"Frederick County, MD"	"24021"	"2018"	"2018"	"Suicide"	"2"	37	255648	14.5
+	"Frederick County, MD"	"24021"	"2018"	"2018"	"Undetermined "	"4"	57	255648	22.3
+	"Garrett County, MD"	"24023"	"1999"	"1999"	"Unintentional"	"1"	18	29834	Unreliable
+	"Garrett County, MD"	"24023"	"2000"	"2000"	"Unintentional"	"1"	13	29846	Unreliable
+	"Garrett County, MD"	"24023"	"2001"	"2001"	"Unintentional"	"1"	17	29812	Unreliable
+	"Garrett County, MD"	"24023"	"2003"	"2003"	"Unintentional"	"1"	15	30182	Unreliable
+	"Garrett County, MD"	"24023"	"2005"	"2005"	"Unintentional"	"1"	12	30083	Unreliable
+	"Garrett County, MD"	"24023"	"2006"	"2006"	"Unintentional"	"1"	12	30147	Unreliable
+	"Garrett County, MD"	"24023"	"2007"	"2007"	"Unintentional"	"1"	15	30148	Unreliable
+	"Garrett County, MD"	"24023"	"2008"	"2008"	"Unintentional"	"1"	13	30222	Unreliable
+	"Garrett County, MD"	"24023"	"2009"	"2009"	"Unintentional"	"1"	10	30145	Unreliable
+	"Garrett County, MD"	"24023"	"2010"	"2010"	"Unintentional"	"1"	11	30097	Unreliable
+	"Garrett County, MD"	"24023"	"2011"	"2011"	"Unintentional"	"1"	11	30051	Unreliable
+	"Garrett County, MD"	"24023"	"2012"	"2012"	"Unintentional"	"1"	14	29854	Unreliable
+	"Garrett County, MD"	"24023"	"2013"	"2013"	"Unintentional"	"1"	10	29889	Unreliable
+	"Garrett County, MD"	"24023"	"2014"	"2014"	"Unintentional"	"1"	14	29679	Unreliable
+	"Garrett County, MD"	"24023"	"2015"	"2015"	"Unintentional"	"1"	18	29460	Unreliable
+	"Garrett County, MD"	"24023"	"2016"	"2016"	"Unintentional"	"1"	18	29425	Unreliable
+	"Garrett County, MD"	"24023"	"2017"	"2017"	"Unintentional"	"1"	12	29233	Unreliable
+	"Harford County, MD"	"24025"	"1999"	"1999"	"Unintentional"	"1"	56	216408	25.9
+	"Harford County, MD"	"24025"	"1999"	"1999"	"Suicide"	"2"	21	216408	9.7
+	"Harford County, MD"	"24025"	"1999"	"1999"	"Undetermined "	"4"	15	216408	Unreliable
+	"Harford County, MD"	"24025"	"2000"	"2000"	"Unintentional"	"1"	49	218590	22.4
+	"Harford County, MD"	"24025"	"2000"	"2000"	"Suicide"	"2"	14	218590	Unreliable
+	"Harford County, MD"	"24025"	"2000"	"2000"	"Undetermined "	"4"	19	218590	Unreliable
+	"Harford County, MD"	"24025"	"2001"	"2001"	"Unintentional"	"1"	51	222753	22.9
+	"Harford County, MD"	"24025"	"2001"	"2001"	"Suicide"	"2"	22	222753	9.9
+	"Harford County, MD"	"24025"	"2001"	"2001"	"Undetermined "	"4"	29	222753	13.0
+	"Harford County, MD"	"24025"	"2002"	"2002"	"Unintentional"	"1"	53	227369	23.3
+	"Harford County, MD"	"24025"	"2002"	"2002"	"Suicide"	"2"	25	227369	11.0
+	"Harford County, MD"	"24025"	"2002"	"2002"	"Undetermined "	"4"	26	227369	11.4
+	"Harford County, MD"	"24025"	"2003"	"2003"	"Unintentional"	"1"	60	231411	25.9
+	"Harford County, MD"	"24025"	"2003"	"2003"	"Suicide"	"2"	31	231411	13.4
+	"Harford County, MD"	"24025"	"2003"	"2003"	"Undetermined "	"4"	38	231411	16.4
+	"Harford County, MD"	"24025"	"2004"	"2004"	"Unintentional"	"1"	55	234849	23.4
+	"Harford County, MD"	"24025"	"2004"	"2004"	"Suicide"	"2"	23	234849	9.8
+	"Harford County, MD"	"24025"	"2004"	"2004"	"Undetermined "	"4"	25	234849	10.6
+	"Harford County, MD"	"24025"	"2005"	"2005"	"Unintentional"	"1"	54	238402	22.7
+	"Harford County, MD"	"24025"	"2005"	"2005"	"Suicide"	"2"	22	238402	9.2
+	"Harford County, MD"	"24025"	"2005"	"2005"	"Undetermined "	"4"	27	238402	11.3
+	"Harford County, MD"	"24025"	"2006"	"2006"	"Unintentional"	"1"	65	241163	27.0
+	"Harford County, MD"	"24025"	"2006"	"2006"	"Suicide"	"2"	22	241163	9.1
+	"Harford County, MD"	"24025"	"2006"	"2006"	"Homicide"	"3"	11	241163	Unreliable
+	"Harford County, MD"	"24025"	"2006"	"2006"	"Undetermined "	"4"	37	241163	15.3
+	"Harford County, MD"	"24025"	"2007"	"2007"	"Unintentional"	"1"	80	241634	33.1
+	"Harford County, MD"	"24025"	"2007"	"2007"	"Suicide"	"2"	25	241634	10.3
+	"Harford County, MD"	"24025"	"2007"	"2007"	"Undetermined "	"4"	33	241634	13.7
+	"Harford County, MD"	"24025"	"2008"	"2008"	"Unintentional"	"1"	52	242779	21.4
+	"Harford County, MD"	"24025"	"2008"	"2008"	"Suicide"	"2"	31	242779	12.8
+	"Harford County, MD"	"24025"	"2008"	"2008"	"Homicide"	"3"	12	242779	Unreliable
+	"Harford County, MD"	"24025"	"2008"	"2008"	"Undetermined "	"4"	35	242779	14.4
+	"Harford County, MD"	"24025"	"2009"	"2009"	"Unintentional"	"1"	59	243685	24.2
+	"Harford County, MD"	"24025"	"2009"	"2009"	"Suicide"	"2"	30	243685	12.3
+	"Harford County, MD"	"24025"	"2009"	"2009"	"Undetermined "	"4"	31	243685	12.7
+	"Harford County, MD"	"24025"	"2010"	"2010"	"Unintentional"	"1"	79	244826	32.3
+	"Harford County, MD"	"24025"	"2010"	"2010"	"Suicide"	"2"	30	244826	12.3
+	"Harford County, MD"	"24025"	"2010"	"2010"	"Undetermined "	"4"	32	244826	13.1
+	"Harford County, MD"	"24025"	"2011"	"2011"	"Unintentional"	"1"	78	246489	31.6
+	"Harford County, MD"	"24025"	"2011"	"2011"	"Suicide"	"2"	28	246489	11.4
+	"Harford County, MD"	"24025"	"2011"	"2011"	"Undetermined "	"4"	29	246489	11.8
+	"Harford County, MD"	"24025"	"2012"	"2012"	"Unintentional"	"1"	84	248622	33.8
+	"Harford County, MD"	"24025"	"2012"	"2012"	"Suicide"	"2"	34	248622	13.7
+	"Harford County, MD"	"24025"	"2012"	"2012"	"Undetermined "	"4"	34	248622	13.7
+	"Harford County, MD"	"24025"	"2013"	"2013"	"Unintentional"	"1"	86	249215	34.5
+	"Harford County, MD"	"24025"	"2013"	"2013"	"Suicide"	"2"	27	249215	10.8
+	"Harford County, MD"	"24025"	"2013"	"2013"	"Undetermined "	"4"	28	249215	11.2
+	"Harford County, MD"	"24025"	"2014"	"2014"	"Unintentional"	"1"	77	250105	30.8
+	"Harford County, MD"	"24025"	"2014"	"2014"	"Suicide"	"2"	33	250105	13.2
+	"Harford County, MD"	"24025"	"2014"	"2014"	"Undetermined "	"4"	29	250105	11.6
+	"Harford County, MD"	"24025"	"2015"	"2015"	"Unintentional"	"1"	80	250290	32.0
+	"Harford County, MD"	"24025"	"2015"	"2015"	"Suicide"	"2"	32	250290	12.8
+	"Harford County, MD"	"24025"	"2015"	"2015"	"Homicide"	"3"	11	250290	Unreliable
+	"Harford County, MD"	"24025"	"2015"	"2015"	"Undetermined "	"4"	42	250290	16.8
+	"Harford County, MD"	"24025"	"2016"	"2016"	"Unintentional"	"1"	93	251032	37.0
+	"Harford County, MD"	"24025"	"2016"	"2016"	"Suicide"	"2"	31	251032	12.3
+	"Harford County, MD"	"24025"	"2016"	"2016"	"Homicide"	"3"	11	251032	Unreliable
+	"Harford County, MD"	"24025"	"2016"	"2016"	"Undetermined "	"4"	67	251032	26.7
+	"Harford County, MD"	"24025"	"2017"	"2017"	"Unintentional"	"1"	100	252160	39.7
+	"Harford County, MD"	"24025"	"2017"	"2017"	"Suicide"	"2"	22	252160	8.7
+	"Harford County, MD"	"24025"	"2017"	"2017"	"Homicide"	"3"	14	252160	Unreliable
+	"Harford County, MD"	"24025"	"2017"	"2017"	"Undetermined "	"4"	83	252160	32.9
+	"Harford County, MD"	"24025"	"2018"	"2018"	"Unintentional"	"1"	86	253956	33.9
+	"Harford County, MD"	"24025"	"2018"	"2018"	"Suicide"	"2"	44	253956	17.3
+	"Harford County, MD"	"24025"	"2018"	"2018"	"Undetermined "	"4"	77	253956	30.3
+	"Howard County, MD"	"24027"	"1999"	"1999"	"Unintentional"	"1"	26	243007	10.7
+	"Howard County, MD"	"24027"	"1999"	"1999"	"Suicide"	"2"	19	243007	Unreliable
+	"Howard County, MD"	"24027"	"1999"	"1999"	"Undetermined "	"4"	12	243007	Unreliable
+	"Howard County, MD"	"24027"	"2000"	"2000"	"Unintentional"	"1"	32	247842	12.9
+	"Howard County, MD"	"24027"	"2000"	"2000"	"Suicide"	"2"	18	247842	Unreliable
+	"Howard County, MD"	"24027"	"2000"	"2000"	"Undetermined "	"4"	13	247842	Unreliable
+	"Howard County, MD"	"24027"	"2001"	"2001"	"Unintentional"	"1"	37	255211	14.5
+	"Howard County, MD"	"24027"	"2001"	"2001"	"Suicide"	"2"	11	255211	Unreliable
+	"Howard County, MD"	"24027"	"2001"	"2001"	"Undetermined "	"4"	10	255211	Unreliable
+	"Howard County, MD"	"24027"	"2002"	"2002"	"Unintentional"	"1"	25	259532	9.6
+	"Howard County, MD"	"24027"	"2002"	"2002"	"Suicide"	"2"	14	259532	Unreliable
+	"Howard County, MD"	"24027"	"2002"	"2002"	"Undetermined "	"4"	12	259532	Unreliable
+	"Howard County, MD"	"24027"	"2003"	"2003"	"Unintentional"	"1"	31	263186	11.8
+	"Howard County, MD"	"24027"	"2003"	"2003"	"Suicide"	"2"	26	263186	9.9
+	"Howard County, MD"	"24027"	"2003"	"2003"	"Undetermined "	"4"	18	263186	Unreliable
+	"Howard County, MD"	"24027"	"2004"	"2004"	"Unintentional"	"1"	47	265919	17.7
+	"Howard County, MD"	"24027"	"2004"	"2004"	"Suicide"	"2"	16	265919	Unreliable
+	"Howard County, MD"	"24027"	"2004"	"2004"	"Undetermined "	"4"	12	265919	Unreliable
+	"Howard County, MD"	"24027"	"2005"	"2005"	"Unintentional"	"1"	31	268590	11.5
+	"Howard County, MD"	"24027"	"2005"	"2005"	"Suicide"	"2"	15	268590	Unreliable
+	"Howard County, MD"	"24027"	"2006"	"2006"	"Unintentional"	"1"	44	271793	16.2
+	"Howard County, MD"	"24027"	"2006"	"2006"	"Suicide"	"2"	21	271793	7.7
+	"Howard County, MD"	"24027"	"2006"	"2006"	"Undetermined "	"4"	13	271793	Unreliable
+	"Howard County, MD"	"24027"	"2007"	"2007"	"Unintentional"	"1"	43	275196	15.6
+	"Howard County, MD"	"24027"	"2007"	"2007"	"Suicide"	"2"	19	275196	Unreliable
+	"Howard County, MD"	"24027"	"2007"	"2007"	"Homicide"	"3"	13	275196	Unreliable
+	"Howard County, MD"	"24027"	"2007"	"2007"	"Undetermined "	"4"	15	275196	Unreliable
+	"Howard County, MD"	"24027"	"2008"	"2008"	"Unintentional"	"1"	42	278405	15.1
+	"Howard County, MD"	"24027"	"2008"	"2008"	"Suicide"	"2"	21	278405	7.5
+	"Howard County, MD"	"24027"	"2008"	"2008"	"Undetermined "	"4"	14	278405	Unreliable
+	"Howard County, MD"	"24027"	"2009"	"2009"	"Unintentional"	"1"	50	283061	17.7
+	"Howard County, MD"	"24027"	"2009"	"2009"	"Suicide"	"2"	22	283061	7.8
+	"Howard County, MD"	"24027"	"2009"	"2009"	"Undetermined "	"4"	16	283061	Unreliable
+	"Howard County, MD"	"24027"	"2010"	"2010"	"Unintentional"	"1"	53	287085	18.5
+	"Howard County, MD"	"24027"	"2010"	"2010"	"Suicide"	"2"	24	287085	8.4
+	"Howard County, MD"	"24027"	"2010"	"2010"	"Undetermined "	"4"	10	287085	Unreliable
+	"Howard County, MD"	"24027"	"2011"	"2011"	"Unintentional"	"1"	48	293142	16.4
+	"Howard County, MD"	"24027"	"2011"	"2011"	"Suicide"	"2"	25	293142	8.5
+	"Howard County, MD"	"24027"	"2011"	"2011"	"Undetermined "	"4"	15	293142	Unreliable
+	"Howard County, MD"	"24027"	"2012"	"2012"	"Unintentional"	"1"	47	299430	15.7
+	"Howard County, MD"	"24027"	"2012"	"2012"	"Suicide"	"2"	30	299430	10.0
+	"Howard County, MD"	"24027"	"2012"	"2012"	"Undetermined "	"4"	19	299430	Unreliable
+	"Howard County, MD"	"24027"	"2013"	"2013"	"Unintentional"	"1"	45	304580	14.8
+	"Howard County, MD"	"24027"	"2013"	"2013"	"Suicide"	"2"	26	304580	8.5
+	"Howard County, MD"	"24027"	"2013"	"2013"	"Undetermined "	"4"	20	304580	6.6
+	"Howard County, MD"	"24027"	"2014"	"2014"	"Unintentional"	"1"	49	309284	15.8
+	"Howard County, MD"	"24027"	"2014"	"2014"	"Suicide"	"2"	19	309284	Unreliable
+	"Howard County, MD"	"24027"	"2014"	"2014"	"Undetermined "	"4"	15	309284	Unreliable
+	"Howard County, MD"	"24027"	"2015"	"2015"	"Unintentional"	"1"	58	313414	18.5
+	"Howard County, MD"	"24027"	"2015"	"2015"	"Suicide"	"2"	29	313414	9.3
+	"Howard County, MD"	"24027"	"2015"	"2015"	"Undetermined "	"4"	29	313414	9.3
+	"Howard County, MD"	"24027"	"2016"	"2016"	"Unintentional"	"1"	92	317233	29.0
+	"Howard County, MD"	"24027"	"2016"	"2016"	"Suicide"	"2"	23	317233	7.3
+	"Howard County, MD"	"24027"	"2016"	"2016"	"Undetermined "	"4"	39	317233	12.3
+	"Howard County, MD"	"24027"	"2017"	"2017"	"Unintentional"	"1"	70	321113	21.8
+	"Howard County, MD"	"24027"	"2017"	"2017"	"Suicide"	"2"	27	321113	8.4
+	"Howard County, MD"	"24027"	"2017"	"2017"	"Undetermined "	"4"	48	321113	14.9
+	"Howard County, MD"	"24027"	"2018"	"2018"	"Unintentional"	"1"	81	323196	25.1
+	"Howard County, MD"	"24027"	"2018"	"2018"	"Suicide"	"2"	20	323196	6.2
+	"Howard County, MD"	"24027"	"2018"	"2018"	"Undetermined "	"4"	32	323196	9.9
+	"Kent County, MD"	"24029"	"2001"	"2001"	"Unintentional"	"1"	10	19330	Unreliable
+	"Kent County, MD"	"24029"	"2004"	"2004"	"Unintentional"	"1"	12	19513	Unreliable
+	"Kent County, MD"	"24029"	"2006"	"2006"	"Unintentional"	"1"	13	19786	Unreliable
+	"Kent County, MD"	"24029"	"2010"	"2010"	"Unintentional"	"1"	11	20197	Unreliable
+	"Kent County, MD"	"24029"	"2013"	"2013"	"Unintentional"	"1"	13	19944	Unreliable
+	"Kent County, MD"	"24029"	"2014"	"2014"	"Unintentional"	"1"	13	19820	Unreliable
+	"Kent County, MD"	"24029"	"2016"	"2016"	"Unintentional"	"1"	17	19730	Unreliable
+	"Kent County, MD"	"24029"	"2017"	"2017"	"Unintentional"	"1"	10	19384	Unreliable
+	"Montgomery County, MD"	"24031"	"1999"	"1999"	"Unintentional"	"1"	148	862350	17.2
+	"Montgomery County, MD"	"24031"	"1999"	"1999"	"Suicide"	"2"	46	862350	5.3
+	"Montgomery County, MD"	"24031"	"1999"	"1999"	"Homicide"	"3"	27	862350	3.1
+	"Montgomery County, MD"	"24031"	"1999"	"1999"	"Undetermined "	"4"	25	862350	2.9
+	"Montgomery County, MD"	"24031"	"2000"	"2000"	"Unintentional"	"1"	133	873341	15.2
+	"Montgomery County, MD"	"24031"	"2000"	"2000"	"Suicide"	"2"	61	873341	7.0
+	"Montgomery County, MD"	"24031"	"2000"	"2000"	"Homicide"	"3"	17	873341	Unreliable
+	"Montgomery County, MD"	"24031"	"2000"	"2000"	"Undetermined "	"4"	28	873341	3.2
+	"Montgomery County, MD"	"24031"	"2001"	"2001"	"Unintentional"	"1"	139	891764	15.6
+	"Montgomery County, MD"	"24031"	"2001"	"2001"	"Suicide"	"2"	56	891764	6.3
+	"Montgomery County, MD"	"24031"	"2001"	"2001"	"Homicide"	"3"	22	891764	2.5
+	"Montgomery County, MD"	"24031"	"2001"	"2001"	"Undetermined "	"4"	18	891764	Unreliable
+	"Montgomery County, MD"	"24031"	"2002"	"2002"	"Unintentional"	"1"	153	903140	16.9
+	"Montgomery County, MD"	"24031"	"2002"	"2002"	"Suicide"	"2"	52	903140	5.8
+	"Montgomery County, MD"	"24031"	"2002"	"2002"	"Homicide"	"3"	32	903140	3.5
+	"Montgomery County, MD"	"24031"	"2002"	"2002"	"Undetermined "	"4"	13	903140	Unreliable
+	"Montgomery County, MD"	"24031"	"2003"	"2003"	"Unintentional"	"1"	151	910498	16.6
+	"Montgomery County, MD"	"24031"	"2003"	"2003"	"Suicide"	"2"	44	910498	4.8
+	"Montgomery County, MD"	"24031"	"2003"	"2003"	"Homicide"	"3"	28	910498	3.1
+	"Montgomery County, MD"	"24031"	"2003"	"2003"	"Undetermined "	"4"	33	910498	3.6
+	"Montgomery County, MD"	"24031"	"2004"	"2004"	"Unintentional"	"1"	167	914991	18.3
+	"Montgomery County, MD"	"24031"	"2004"	"2004"	"Suicide"	"2"	60	914991	6.6
+	"Montgomery County, MD"	"24031"	"2004"	"2004"	"Homicide"	"3"	24	914991	2.6
+	"Montgomery County, MD"	"24031"	"2004"	"2004"	"Undetermined "	"4"	33	914991	3.6
+	"Montgomery County, MD"	"24031"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	12	914991	Unreliable
+	"Montgomery County, MD"	"24031"	"2005"	"2005"	"Unintentional"	"1"	145	921531	15.7
+	"Montgomery County, MD"	"24031"	"2005"	"2005"	"Suicide"	"2"	57	921531	6.2
+	"Montgomery County, MD"	"24031"	"2005"	"2005"	"Homicide"	"3"	35	921531	3.8
+	"Montgomery County, MD"	"24031"	"2005"	"2005"	"Undetermined "	"4"	32	921531	3.5
+	"Montgomery County, MD"	"24031"	"2006"	"2006"	"Unintentional"	"1"	160	926492	17.3
+	"Montgomery County, MD"	"24031"	"2006"	"2006"	"Suicide"	"2"	52	926492	5.6
+	"Montgomery County, MD"	"24031"	"2006"	"2006"	"Homicide"	"3"	26	926492	2.8
+	"Montgomery County, MD"	"24031"	"2006"	"2006"	"Undetermined "	"4"	43	926492	4.6
+	"Montgomery County, MD"	"24031"	"2007"	"2007"	"Unintentional"	"1"	159	931694	17.1
+	"Montgomery County, MD"	"24031"	"2007"	"2007"	"Suicide"	"2"	63	931694	6.8
+	"Montgomery County, MD"	"24031"	"2007"	"2007"	"Homicide"	"3"	21	931694	2.3
+	"Montgomery County, MD"	"24031"	"2007"	"2007"	"Undetermined "	"4"	54	931694	5.8
+	"Montgomery County, MD"	"24031"	"2008"	"2008"	"Unintentional"	"1"	185	942748	19.6
+	"Montgomery County, MD"	"24031"	"2008"	"2008"	"Suicide"	"2"	74	942748	7.8
+	"Montgomery County, MD"	"24031"	"2008"	"2008"	"Homicide"	"3"	33	942748	3.5
+	"Montgomery County, MD"	"24031"	"2008"	"2008"	"Undetermined "	"4"	43	942748	4.6
+	"Montgomery County, MD"	"24031"	"2009"	"2009"	"Unintentional"	"1"	166	959013	17.3
+	"Montgomery County, MD"	"24031"	"2009"	"2009"	"Suicide"	"2"	62	959013	6.5
+	"Montgomery County, MD"	"24031"	"2009"	"2009"	"Homicide"	"3"	21	959013	2.2
+	"Montgomery County, MD"	"24031"	"2009"	"2009"	"Undetermined "	"4"	35	959013	3.6
+	"Montgomery County, MD"	"24031"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	10	959013	Unreliable
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Unintentional"	"1"	156	971777	16.1
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Suicide"	"2"	59	971777	6.1
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Homicide"	"3"	17	971777	Unreliable
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Undetermined "	"4"	22	971777	2.3
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	"Unintentional"	"1"	177	989794	17.9
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	"Suicide"	"2"	79	989794	8.0
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	"Homicide"	"3"	22	989794	2.2
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	"Undetermined "	"4"	25	989794	2.5
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	989794	Unreliable
+	"Montgomery County, MD"	"24031"	"2012"	"2012"	"Unintentional"	"1"	184	1004709	18.3
+	"Montgomery County, MD"	"24031"	"2012"	"2012"	"Suicide"	"2"	59	1004709	5.9
+	"Montgomery County, MD"	"24031"	"2012"	"2012"	"Homicide"	"3"	17	1004709	Unreliable
+	"Montgomery County, MD"	"24031"	"2012"	"2012"	"Undetermined "	"4"	35	1004709	3.5
+	"Montgomery County, MD"	"24031"	"2013"	"2013"	"Unintentional"	"1"	176	1016677	17.3
+	"Montgomery County, MD"	"24031"	"2013"	"2013"	"Suicide"	"2"	71	1016677	7.0
+	"Montgomery County, MD"	"24031"	"2013"	"2013"	"Homicide"	"3"	14	1016677	Unreliable
+	"Montgomery County, MD"	"24031"	"2013"	"2013"	"Undetermined "	"4"	31	1016677	3.0
+	"Montgomery County, MD"	"24031"	"2014"	"2014"	"Unintentional"	"1"	196	1030447	19.0
+	"Montgomery County, MD"	"24031"	"2014"	"2014"	"Suicide"	"2"	80	1030447	7.8
+	"Montgomery County, MD"	"24031"	"2014"	"2014"	"Homicide"	"3"	29	1030447	2.8
+	"Montgomery County, MD"	"24031"	"2014"	"2014"	"Undetermined "	"4"	47	1030447	4.6
+	"Montgomery County, MD"	"24031"	"2015"	"2015"	"Unintentional"	"1"	213	1040116	20.5
+	"Montgomery County, MD"	"24031"	"2015"	"2015"	"Suicide"	"2"	72	1040116	6.9
+	"Montgomery County, MD"	"24031"	"2015"	"2015"	"Homicide"	"3"	30	1040116	2.9
+	"Montgomery County, MD"	"24031"	"2015"	"2015"	"Undetermined "	"4"	62	1040116	6.0
+	"Montgomery County, MD"	"24031"	"2016"	"2016"	"Unintentional"	"1"	213	1043863	20.4
+	"Montgomery County, MD"	"24031"	"2016"	"2016"	"Suicide"	"2"	84	1043863	8.0
+	"Montgomery County, MD"	"24031"	"2016"	"2016"	"Homicide"	"3"	16	1043863	Unreliable
+	"Montgomery County, MD"	"24031"	"2016"	"2016"	"Undetermined "	"4"	76	1043863	7.3
+	"Montgomery County, MD"	"24031"	"2017"	"2017"	"Unintentional"	"1"	285	1058810	26.9
+	"Montgomery County, MD"	"24031"	"2017"	"2017"	"Suicide"	"2"	66	1058810	6.2
+	"Montgomery County, MD"	"24031"	"2017"	"2017"	"Homicide"	"3"	24	1058810	2.3
+	"Montgomery County, MD"	"24031"	"2017"	"2017"	"Undetermined "	"4"	85	1058810	8.0
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	"Unintentional"	"1"	232	1052567	22.0
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	"Suicide"	"2"	100	1052567	9.5
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	"Homicide"	"3"	26	1052567	2.5
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	"Undetermined "	"4"	58	1052567	5.5
+	"Prince George's County, MD"	"24033"	"1999"	"1999"	"Unintentional"	"1"	175	795048	22.0
+	"Prince George's County, MD"	"24033"	"1999"	"1999"	"Suicide"	"2"	50	795048	6.3
+	"Prince George's County, MD"	"24033"	"1999"	"1999"	"Homicide"	"3"	119	795048	15.0
+	"Prince George's County, MD"	"24033"	"1999"	"1999"	"Undetermined "	"4"	34	795048	4.3
+	"Prince George's County, MD"	"24033"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	11	795048	Unreliable
+	"Prince George's County, MD"	"24033"	"2000"	"2000"	"Unintentional"	"1"	200	801515	25.0
+	"Prince George's County, MD"	"24033"	"2000"	"2000"	"Suicide"	"2"	54	801515	6.7
+	"Prince George's County, MD"	"24033"	"2000"	"2000"	"Homicide"	"3"	120	801515	15.0
+	"Prince George's County, MD"	"24033"	"2000"	"2000"	"Undetermined "	"4"	29	801515	3.6
+	"Prince George's County, MD"	"24033"	"2001"	"2001"	"Unintentional"	"1"	241	817360	29.5
+	"Prince George's County, MD"	"24033"	"2001"	"2001"	"Suicide"	"2"	47	817360	5.8
+	"Prince George's County, MD"	"24033"	"2001"	"2001"	"Homicide"	"3"	146	817360	17.9
+	"Prince George's County, MD"	"24033"	"2001"	"2001"	"Undetermined "	"4"	26	817360	3.2
+	"Prince George's County, MD"	"24033"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	16	817360	Unreliable
+	"Prince George's County, MD"	"24033"	"2002"	"2002"	"Unintentional"	"1"	225	828893	27.1
+	"Prince George's County, MD"	"24033"	"2002"	"2002"	"Suicide"	"2"	66	828893	8.0
+	"Prince George's County, MD"	"24033"	"2002"	"2002"	"Homicide"	"3"	151	828893	18.2
+	"Prince George's County, MD"	"24033"	"2002"	"2002"	"Undetermined "	"4"	42	828893	5.1
+	"Prince George's County, MD"	"24033"	"2003"	"2003"	"Unintentional"	"1"	236	837648	28.2
+	"Prince George's County, MD"	"24033"	"2003"	"2003"	"Suicide"	"2"	66	837648	7.9
+	"Prince George's County, MD"	"24033"	"2003"	"2003"	"Homicide"	"3"	170	837648	20.3
+	"Prince George's County, MD"	"24033"	"2003"	"2003"	"Undetermined "	"4"	44	837648	5.3
+	"Prince George's County, MD"	"24033"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	13	837648	Unreliable
+	"Prince George's County, MD"	"24033"	"2004"	"2004"	"Unintentional"	"1"	243	845950	28.7
+	"Prince George's County, MD"	"24033"	"2004"	"2004"	"Suicide"	"2"	59	845950	7.0
+	"Prince George's County, MD"	"24033"	"2004"	"2004"	"Homicide"	"3"	139	845950	16.4
+	"Prince George's County, MD"	"24033"	"2004"	"2004"	"Undetermined "	"4"	49	845950	5.8
+	"Prince George's County, MD"	"24033"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	14	845950	Unreliable
+	"Prince George's County, MD"	"24033"	"2005"	"2005"	"Unintentional"	"1"	238	853271	27.9
+	"Prince George's County, MD"	"24033"	"2005"	"2005"	"Suicide"	"2"	54	853271	6.3
+	"Prince George's County, MD"	"24033"	"2005"	"2005"	"Homicide"	"3"	161	853271	18.9
+	"Prince George's County, MD"	"24033"	"2005"	"2005"	"Undetermined "	"4"	39	853271	4.6
+	"Prince George's County, MD"	"24033"	"2006"	"2006"	"Unintentional"	"1"	221	852097	25.9
+	"Prince George's County, MD"	"24033"	"2006"	"2006"	"Suicide"	"2"	53	852097	6.2
+	"Prince George's County, MD"	"24033"	"2006"	"2006"	"Homicide"	"3"	147	852097	17.3
+	"Prince George's County, MD"	"24033"	"2006"	"2006"	"Undetermined "	"4"	36	852097	4.2
+	"Prince George's County, MD"	"24033"	"2007"	"2007"	"Unintentional"	"1"	209	849916	24.6
+	"Prince George's County, MD"	"24033"	"2007"	"2007"	"Suicide"	"2"	60	849916	7.1
+	"Prince George's County, MD"	"24033"	"2007"	"2007"	"Homicide"	"3"	149	849916	17.5
+	"Prince George's County, MD"	"24033"	"2007"	"2007"	"Undetermined "	"4"	47	849916	5.5
+	"Prince George's County, MD"	"24033"	"2008"	"2008"	"Unintentional"	"1"	228	850167	26.8
+	"Prince George's County, MD"	"24033"	"2008"	"2008"	"Suicide"	"2"	45	850167	5.3
+	"Prince George's County, MD"	"24033"	"2008"	"2008"	"Homicide"	"3"	125	850167	14.7
+	"Prince George's County, MD"	"24033"	"2008"	"2008"	"Undetermined "	"4"	48	850167	5.6
+	"Prince George's County, MD"	"24033"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	850167	Unreliable
+	"Prince George's County, MD"	"24033"	"2009"	"2009"	"Unintentional"	"1"	204	856161	23.8
+	"Prince George's County, MD"	"24033"	"2009"	"2009"	"Suicide"	"2"	64	856161	7.5
+	"Prince George's County, MD"	"24033"	"2009"	"2009"	"Homicide"	"3"	104	856161	12.1
+	"Prince George's County, MD"	"24033"	"2009"	"2009"	"Undetermined "	"4"	59	856161	6.9
+	"Prince George's County, MD"	"24033"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	11	856161	Unreliable
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Unintentional"	"1"	194	863420	22.5
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Suicide"	"2"	52	863420	6.0
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Homicide"	"3"	108	863420	12.5
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Undetermined "	"4"	46	863420	5.3
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	11	863420	Unreliable
+	"Prince George's County, MD"	"24033"	"2011"	"2011"	"Unintentional"	"1"	211	871233	24.2
+	"Prince George's County, MD"	"24033"	"2011"	"2011"	"Suicide"	"2"	55	871233	6.3
+	"Prince George's County, MD"	"24033"	"2011"	"2011"	"Homicide"	"3"	97	871233	11.1
+	"Prince George's County, MD"	"24033"	"2011"	"2011"	"Undetermined "	"4"	37	871233	4.2
+	"Prince George's County, MD"	"24033"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	871233	Unreliable
+	"Prince George's County, MD"	"24033"	"2012"	"2012"	"Unintentional"	"1"	217	881138	24.6
+	"Prince George's County, MD"	"24033"	"2012"	"2012"	"Suicide"	"2"	52	881138	5.9
+	"Prince George's County, MD"	"24033"	"2012"	"2012"	"Homicide"	"3"	78	881138	8.9
+	"Prince George's County, MD"	"24033"	"2012"	"2012"	"Undetermined "	"4"	38	881138	4.3
+	"Prince George's County, MD"	"24033"	"2013"	"2013"	"Unintentional"	"1"	241	890081	27.1
+	"Prince George's County, MD"	"24033"	"2013"	"2013"	"Suicide"	"2"	54	890081	6.1
+	"Prince George's County, MD"	"24033"	"2013"	"2013"	"Homicide"	"3"	69	890081	7.8
+	"Prince George's County, MD"	"24033"	"2013"	"2013"	"Undetermined "	"4"	31	890081	3.5
+	"Prince George's County, MD"	"24033"	"2014"	"2014"	"Unintentional"	"1"	209	904430	23.1
+	"Prince George's County, MD"	"24033"	"2014"	"2014"	"Suicide"	"2"	57	904430	6.3
+	"Prince George's County, MD"	"24033"	"2014"	"2014"	"Homicide"	"3"	66	904430	7.3
+	"Prince George's County, MD"	"24033"	"2014"	"2014"	"Undetermined "	"4"	44	904430	4.9
+	"Prince George's County, MD"	"24033"	"2015"	"2015"	"Unintentional"	"1"	224	909535	24.6
+	"Prince George's County, MD"	"24033"	"2015"	"2015"	"Suicide"	"2"	43	909535	4.7
+	"Prince George's County, MD"	"24033"	"2015"	"2015"	"Homicide"	"3"	102	909535	11.2
+	"Prince George's County, MD"	"24033"	"2015"	"2015"	"Undetermined "	"4"	38	909535	4.2
+	"Prince George's County, MD"	"24033"	"2016"	"2016"	"Unintentional"	"1"	292	908049	32.2
+	"Prince George's County, MD"	"24033"	"2016"	"2016"	"Suicide"	"2"	54	908049	5.9
+	"Prince George's County, MD"	"24033"	"2016"	"2016"	"Homicide"	"3"	122	908049	13.4
+	"Prince George's County, MD"	"24033"	"2016"	"2016"	"Undetermined "	"4"	82	908049	9.0
+	"Prince George's County, MD"	"24033"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	10	908049	Unreliable
+	"Prince George's County, MD"	"24033"	"2017"	"2017"	"Unintentional"	"1"	283	912756	31.0
+	"Prince George's County, MD"	"24033"	"2017"	"2017"	"Suicide"	"2"	62	912756	6.8
+	"Prince George's County, MD"	"24033"	"2017"	"2017"	"Homicide"	"3"	94	912756	10.3
+	"Prince George's County, MD"	"24033"	"2017"	"2017"	"Undetermined "	"4"	87	912756	9.5
+	"Prince George's County, MD"	"24033"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	12	912756	Unreliable
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	"Unintentional"	"1"	252	909308	27.7
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	"Suicide"	"2"	57	909308	6.3
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	"Homicide"	"3"	92	909308	10.1
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	"Undetermined "	"4"	91	909308	10.0
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	17	909308	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2001"	"2001"	"Unintentional"	"1"	24	41253	58.2
+	"Queen Anne's County, MD"	"24035"	"2002"	"2002"	"Unintentional"	"1"	14	42524	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2003"	"2003"	"Unintentional"	"1"	17	43688	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2004"	"2004"	"Unintentional"	"1"	16	44411	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2005"	"2005"	"Unintentional"	"1"	10	44879	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2007"	"2007"	"Unintentional"	"1"	16	46517	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2008"	"2008"	"Unintentional"	"1"	13	47063	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2009"	"2009"	"Unintentional"	"1"	13	47532	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2010"	"2010"	"Unintentional"	"1"	14	47798	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2011"	"2011"	"Unintentional"	"1"	17	48354	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2012"	"2012"	"Unintentional"	"1"	12	48595	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2013"	"2013"	"Unintentional"	"1"	14	48517	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2013"	"2013"	"Suicide"	"2"	12	48517	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2014"	"2014"	"Unintentional"	"1"	18	48804	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2015"	"2015"	"Unintentional"	"1"	21	48904	42.9
+	"Queen Anne's County, MD"	"24035"	"2016"	"2016"	"Unintentional"	"1"	28	48929	57.2
+	"Queen Anne's County, MD"	"24035"	"2017"	"2017"	"Unintentional"	"1"	23	49770	46.2
+	"Queen Anne's County, MD"	"24035"	"2018"	"2018"	"Unintentional"	"1"	14	50251	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2018"	"2018"	"Suicide"	"2"	10	50251	Unreliable
+	"Queen Anne's County, MD"	"24035"	"2018"	"2018"	"Undetermined "	"4"	20	50251	39.8
+	"St. Mary's County, MD"	"24037"	"1999"	"1999"	"Unintentional"	"1"	20	85627	23.4
+	"St. Mary's County, MD"	"24037"	"1999"	"1999"	"Suicide"	"2"	10	85627	Unreliable
+	"St. Mary's County, MD"	"24037"	"2000"	"2000"	"Unintentional"	"1"	25	86211	29.0
+	"St. Mary's County, MD"	"24037"	"2001"	"2001"	"Unintentional"	"1"	15	87455	Unreliable
+	"St. Mary's County, MD"	"24037"	"2001"	"2001"	"Suicide"	"2"	11	87455	Unreliable
+	"St. Mary's County, MD"	"24037"	"2002"	"2002"	"Unintentional"	"1"	32	89819	35.6
+	"St. Mary's County, MD"	"24037"	"2002"	"2002"	"Suicide"	"2"	10	89819	Unreliable
+	"St. Mary's County, MD"	"24037"	"2003"	"2003"	"Unintentional"	"1"	40	92333	43.3
+	"St. Mary's County, MD"	"24037"	"2004"	"2004"	"Unintentional"	"1"	14	94900	Unreliable
+	"St. Mary's County, MD"	"24037"	"2005"	"2005"	"Unintentional"	"1"	28	96871	28.9
+	"St. Mary's County, MD"	"24037"	"2005"	"2005"	"Suicide"	"2"	10	96871	Unreliable
+	"St. Mary's County, MD"	"24037"	"2005"	"2005"	"Undetermined "	"4"	10	96871	Unreliable
+	"St. Mary's County, MD"	"24037"	"2006"	"2006"	"Unintentional"	"1"	29	98849	29.3
+	"St. Mary's County, MD"	"24037"	"2006"	"2006"	"Suicide"	"2"	10	98849	Unreliable
+	"St. Mary's County, MD"	"24037"	"2007"	"2007"	"Unintentional"	"1"	21	100599	20.9
+	"St. Mary's County, MD"	"24037"	"2007"	"2007"	"Suicide"	"2"	11	100599	Unreliable
+	"St. Mary's County, MD"	"24037"	"2008"	"2008"	"Unintentional"	"1"	33	101921	32.4
+	"St. Mary's County, MD"	"24037"	"2008"	"2008"	"Suicide"	"2"	10	101921	Unreliable
+	"St. Mary's County, MD"	"24037"	"2008"	"2008"	"Undetermined "	"4"	12	101921	Unreliable
+	"St. Mary's County, MD"	"24037"	"2009"	"2009"	"Unintentional"	"1"	25	103273	24.2
+	"St. Mary's County, MD"	"24037"	"2009"	"2009"	"Suicide"	"2"	15	103273	Unreliable
+	"St. Mary's County, MD"	"24037"	"2010"	"2010"	"Unintentional"	"1"	27	105151	25.7
+	"St. Mary's County, MD"	"24037"	"2010"	"2010"	"Suicide"	"2"	13	105151	Unreliable
+	"St. Mary's County, MD"	"24037"	"2010"	"2010"	"Undetermined "	"4"	13	105151	Unreliable
+	"St. Mary's County, MD"	"24037"	"2011"	"2011"	"Unintentional"	"1"	22	107484	20.5
+	"St. Mary's County, MD"	"24037"	"2012"	"2012"	"Unintentional"	"1"	32	108987	29.4
+	"St. Mary's County, MD"	"24037"	"2012"	"2012"	"Suicide"	"2"	20	108987	18.4
+	"St. Mary's County, MD"	"24037"	"2013"	"2013"	"Unintentional"	"1"	27	109633	24.6
+	"St. Mary's County, MD"	"24037"	"2013"	"2013"	"Suicide"	"2"	10	109633	Unreliable
+	"St. Mary's County, MD"	"24037"	"2014"	"2014"	"Unintentional"	"1"	23	110382	20.8
+	"St. Mary's County, MD"	"24037"	"2014"	"2014"	"Suicide"	"2"	13	110382	Unreliable
+	"St. Mary's County, MD"	"24037"	"2015"	"2015"	"Unintentional"	"1"	41	111413	36.8
+	"St. Mary's County, MD"	"24037"	"2015"	"2015"	"Suicide"	"2"	15	111413	Unreliable
+	"St. Mary's County, MD"	"24037"	"2015"	"2015"	"Undetermined "	"4"	11	111413	Unreliable
+	"St. Mary's County, MD"	"24037"	"2016"	"2016"	"Unintentional"	"1"	36	112587	32.0
+	"St. Mary's County, MD"	"24037"	"2016"	"2016"	"Undetermined "	"4"	15	112587	Unreliable
+	"St. Mary's County, MD"	"24037"	"2017"	"2017"	"Unintentional"	"1"	47	112667	41.7
+	"St. Mary's County, MD"	"24037"	"2017"	"2017"	"Suicide"	"2"	18	112667	Unreliable
+	"St. Mary's County, MD"	"24037"	"2017"	"2017"	"Undetermined "	"4"	27	112667	24.0
+	"St. Mary's County, MD"	"24037"	"2018"	"2018"	"Unintentional"	"1"	43	112664	38.2
+	"St. Mary's County, MD"	"24037"	"2018"	"2018"	"Suicide"	"2"	14	112664	Unreliable
+	"St. Mary's County, MD"	"24037"	"2018"	"2018"	"Undetermined "	"4"	23	112664	20.4
+	"Somerset County, MD"	"24039"	"2000"	"2000"	"Unintentional"	"1"	13	24747	Unreliable
+	"Somerset County, MD"	"24039"	"2006"	"2006"	"Unintentional"	"1"	10	26139	Unreliable
+	"Somerset County, MD"	"24039"	"2012"	"2012"	"Unintentional"	"1"	11	26253	Unreliable
+	"Somerset County, MD"	"24039"	"2014"	"2014"	"Unintentional"	"1"	11	25859	Unreliable
+	"Somerset County, MD"	"24039"	"2015"	"2015"	"Unintentional"	"1"	17	25768	Unreliable
+	"Somerset County, MD"	"24039"	"2016"	"2016"	"Unintentional"	"1"	12	25928	Unreliable
+	"Somerset County, MD"	"24039"	"2017"	"2017"	"Unintentional"	"1"	17	25918	Unreliable
+	"Talbot County, MD"	"24041"	"1999"	"1999"	"Unintentional"	"1"	23	33656	68.3
+	"Talbot County, MD"	"24041"	"2000"	"2000"	"Unintentional"	"1"	17	33812	Unreliable
+	"Talbot County, MD"	"24041"	"2001"	"2001"	"Unintentional"	"1"	14	34231	Unreliable
+	"Talbot County, MD"	"24041"	"2002"	"2002"	"Unintentional"	"1"	14	34628	Unreliable
+	"Talbot County, MD"	"24041"	"2003"	"2003"	"Unintentional"	"1"	10	34994	Unreliable
+	"Talbot County, MD"	"24041"	"2004"	"2004"	"Unintentional"	"1"	11	35793	Unreliable
+	"Talbot County, MD"	"24041"	"2005"	"2005"	"Unintentional"	"1"	15	36423	Unreliable
+	"Talbot County, MD"	"24041"	"2006"	"2006"	"Unintentional"	"1"	12	37000	Unreliable
+	"Talbot County, MD"	"24041"	"2007"	"2007"	"Unintentional"	"1"	17	37167	Unreliable
+	"Talbot County, MD"	"24041"	"2008"	"2008"	"Unintentional"	"1"	16	37307	Unreliable
+	"Talbot County, MD"	"24041"	"2009"	"2009"	"Unintentional"	"1"	14	37496	Unreliable
+	"Talbot County, MD"	"24041"	"2010"	"2010"	"Unintentional"	"1"	12	37782	Unreliable
+	"Talbot County, MD"	"24041"	"2011"	"2011"	"Unintentional"	"1"	15	38025	Unreliable
+	"Talbot County, MD"	"24041"	"2013"	"2013"	"Unintentional"	"1"	13	37931	Unreliable
+	"Talbot County, MD"	"24041"	"2014"	"2014"	"Unintentional"	"1"	11	37643	Unreliable
+	"Talbot County, MD"	"24041"	"2015"	"2015"	"Unintentional"	"1"	15	37512	Unreliable
+	"Talbot County, MD"	"24041"	"2017"	"2017"	"Unintentional"	"1"	16	37103	Unreliable
+	"Talbot County, MD"	"24041"	"2018"	"2018"	"Unintentional"	"1"	17	36968	Unreliable
+	"Washington County, MD"	"24043"	"1999"	"1999"	"Unintentional"	"1"	32	131178	24.4
+	"Washington County, MD"	"24043"	"1999"	"1999"	"Suicide"	"2"	11	131178	Unreliable
+	"Washington County, MD"	"24043"	"2000"	"2000"	"Unintentional"	"1"	31	131923	23.5
+	"Washington County, MD"	"24043"	"2000"	"2000"	"Suicide"	"2"	16	131923	Unreliable
+	"Washington County, MD"	"24043"	"2001"	"2001"	"Unintentional"	"1"	29	133093	21.8
+	"Washington County, MD"	"24043"	"2001"	"2001"	"Suicide"	"2"	13	133093	Unreliable
+	"Washington County, MD"	"24043"	"2002"	"2002"	"Unintentional"	"1"	39	134831	28.9
+	"Washington County, MD"	"24043"	"2002"	"2002"	"Suicide"	"2"	17	134831	Unreliable
+	"Washington County, MD"	"24043"	"2003"	"2003"	"Unintentional"	"1"	46	136872	33.6
+	"Washington County, MD"	"24043"	"2003"	"2003"	"Suicide"	"2"	19	136872	Unreliable
+	"Washington County, MD"	"24043"	"2004"	"2004"	"Unintentional"	"1"	41	139423	29.4
+	"Washington County, MD"	"24043"	"2004"	"2004"	"Suicide"	"2"	18	139423	Unreliable
+	"Washington County, MD"	"24043"	"2005"	"2005"	"Unintentional"	"1"	44	142084	31.0
+	"Washington County, MD"	"24043"	"2005"	"2005"	"Suicide"	"2"	18	142084	Unreliable
+	"Washington County, MD"	"24043"	"2005"	"2005"	"Undetermined "	"4"	11	142084	Unreliable
+	"Washington County, MD"	"24043"	"2006"	"2006"	"Unintentional"	"1"	44	144286	30.5
+	"Washington County, MD"	"24043"	"2006"	"2006"	"Suicide"	"2"	14	144286	Unreliable
+	"Washington County, MD"	"24043"	"2006"	"2006"	"Undetermined "	"4"	16	144286	Unreliable
+	"Washington County, MD"	"24043"	"2007"	"2007"	"Unintentional"	"1"	47	146173	32.2
+	"Washington County, MD"	"24043"	"2007"	"2007"	"Suicide"	"2"	19	146173	Unreliable
+	"Washington County, MD"	"24043"	"2007"	"2007"	"Undetermined "	"4"	17	146173	Unreliable
+	"Washington County, MD"	"24043"	"2008"	"2008"	"Unintentional"	"1"	40	146674	27.3
+	"Washington County, MD"	"24043"	"2008"	"2008"	"Suicide"	"2"	18	146674	Unreliable
+	"Washington County, MD"	"24043"	"2008"	"2008"	"Undetermined "	"4"	25	146674	17.0
+	"Washington County, MD"	"24043"	"2009"	"2009"	"Unintentional"	"1"	44	146953	29.9
+	"Washington County, MD"	"24043"	"2009"	"2009"	"Suicide"	"2"	20	146953	13.6
+	"Washington County, MD"	"24043"	"2009"	"2009"	"Undetermined "	"4"	15	146953	Unreliable
+	"Washington County, MD"	"24043"	"2010"	"2010"	"Unintentional"	"1"	53	147430	35.9
+	"Washington County, MD"	"24043"	"2010"	"2010"	"Suicide"	"2"	12	147430	Unreliable
+	"Washington County, MD"	"24043"	"2010"	"2010"	"Undetermined "	"4"	17	147430	Unreliable
+	"Washington County, MD"	"24043"	"2011"	"2011"	"Unintentional"	"1"	39	148203	26.3
+	"Washington County, MD"	"24043"	"2011"	"2011"	"Suicide"	"2"	24	148203	16.2
+	"Washington County, MD"	"24043"	"2011"	"2011"	"Undetermined "	"4"	18	148203	Unreliable
+	"Washington County, MD"	"24043"	"2012"	"2012"	"Unintentional"	"1"	66	149180	44.2
+	"Washington County, MD"	"24043"	"2012"	"2012"	"Suicide"	"2"	24	149180	16.1
+	"Washington County, MD"	"24043"	"2012"	"2012"	"Undetermined "	"4"	20	149180	13.4
+	"Washington County, MD"	"24043"	"2013"	"2013"	"Unintentional"	"1"	54	149588	36.1
+	"Washington County, MD"	"24043"	"2013"	"2013"	"Suicide"	"2"	24	149588	16.0
+	"Washington County, MD"	"24043"	"2013"	"2013"	"Undetermined "	"4"	23	149588	15.4
+	"Washington County, MD"	"24043"	"2014"	"2014"	"Unintentional"	"1"	64	149573	42.8
+	"Washington County, MD"	"24043"	"2014"	"2014"	"Suicide"	"2"	20	149573	13.4
+	"Washington County, MD"	"24043"	"2014"	"2014"	"Undetermined "	"4"	34	149573	22.7
+	"Washington County, MD"	"24043"	"2015"	"2015"	"Unintentional"	"1"	60	149585	40.1
+	"Washington County, MD"	"24043"	"2015"	"2015"	"Suicide"	"2"	22	149585	14.7
+	"Washington County, MD"	"24043"	"2015"	"2015"	"Homicide"	"3"	10	149585	Unreliable
+	"Washington County, MD"	"24043"	"2015"	"2015"	"Undetermined "	"4"	42	149585	28.1
+	"Washington County, MD"	"24043"	"2016"	"2016"	"Unintentional"	"1"	59	150292	39.3
+	"Washington County, MD"	"24043"	"2016"	"2016"	"Suicide"	"2"	25	150292	16.6
+	"Washington County, MD"	"24043"	"2016"	"2016"	"Undetermined "	"4"	48	150292	31.9
+	"Washington County, MD"	"24043"	"2017"	"2017"	"Unintentional"	"1"	85	150578	56.4
+	"Washington County, MD"	"24043"	"2017"	"2017"	"Suicide"	"2"	23	150578	15.3
+	"Washington County, MD"	"24043"	"2017"	"2017"	"Undetermined "	"4"	35	150578	23.2
+	"Washington County, MD"	"24043"	"2018"	"2018"	"Unintentional"	"1"	86	150926	57.0
+	"Washington County, MD"	"24043"	"2018"	"2018"	"Suicide"	"2"	18	150926	Unreliable
+	"Washington County, MD"	"24043"	"2018"	"2018"	"Undetermined "	"4"	66	150926	43.7
+	"Wicomico County, MD"	"24045"	"1999"	"1999"	"Unintentional"	"1"	22	83714	26.3
+	"Wicomico County, MD"	"24045"	"2000"	"2000"	"Unintentional"	"1"	20	84644	23.6
+	"Wicomico County, MD"	"24045"	"2001"	"2001"	"Unintentional"	"1"	34	85637	39.7
+	"Wicomico County, MD"	"24045"	"2001"	"2001"	"Suicide"	"2"	16	85637	Unreliable
+	"Wicomico County, MD"	"24045"	"2002"	"2002"	"Unintentional"	"1"	28	86679	32.3
+	"Wicomico County, MD"	"24045"	"2003"	"2003"	"Unintentional"	"1"	31	88463	35.0
+	"Wicomico County, MD"	"24045"	"2003"	"2003"	"Suicide"	"2"	12	88463	Unreliable
+	"Wicomico County, MD"	"24045"	"2004"	"2004"	"Unintentional"	"1"	25	90210	27.7
+	"Wicomico County, MD"	"24045"	"2004"	"2004"	"Suicide"	"2"	11	90210	Unreliable
+	"Wicomico County, MD"	"24045"	"2005"	"2005"	"Unintentional"	"1"	27	92508	29.2
+	"Wicomico County, MD"	"24045"	"2005"	"2005"	"Suicide"	"2"	12	92508	Unreliable
+	"Wicomico County, MD"	"24045"	"2005"	"2005"	"Undetermined "	"4"	10	92508	Unreliable
+	"Wicomico County, MD"	"24045"	"2006"	"2006"	"Unintentional"	"1"	28	94621	29.6
+	"Wicomico County, MD"	"24045"	"2006"	"2006"	"Suicide"	"2"	11	94621	Unreliable
+	"Wicomico County, MD"	"24045"	"2006"	"2006"	"Homicide"	"3"	11	94621	Unreliable
+	"Wicomico County, MD"	"24045"	"2006"	"2006"	"Undetermined "	"4"	17	94621	Unreliable
+	"Wicomico County, MD"	"24045"	"2007"	"2007"	"Unintentional"	"1"	35	96110	36.4
+	"Wicomico County, MD"	"24045"	"2007"	"2007"	"Suicide"	"2"	12	96110	Unreliable
+	"Wicomico County, MD"	"24045"	"2007"	"2007"	"Undetermined "	"4"	10	96110	Unreliable
+	"Wicomico County, MD"	"24045"	"2008"	"2008"	"Unintentional"	"1"	30	97111	30.9
+	"Wicomico County, MD"	"24045"	"2008"	"2008"	"Suicide"	"2"	10	97111	Unreliable
+	"Wicomico County, MD"	"24045"	"2008"	"2008"	"Undetermined "	"4"	11	97111	Unreliable
+	"Wicomico County, MD"	"24045"	"2009"	"2009"	"Unintentional"	"1"	29	98069	29.6
+	"Wicomico County, MD"	"24045"	"2009"	"2009"	"Suicide"	"2"	11	98069	Unreliable
+	"Wicomico County, MD"	"24045"	"2009"	"2009"	"Undetermined "	"4"	14	98069	Unreliable
+	"Wicomico County, MD"	"24045"	"2010"	"2010"	"Unintentional"	"1"	26	98733	26.3
+	"Wicomico County, MD"	"24045"	"2010"	"2010"	"Suicide"	"2"	10	98733	Unreliable
+	"Wicomico County, MD"	"24045"	"2010"	"2010"	"Homicide"	"3"	10	98733	Unreliable
+	"Wicomico County, MD"	"24045"	"2011"	"2011"	"Unintentional"	"1"	23	99190	23.2
+	"Wicomico County, MD"	"24045"	"2011"	"2011"	"Undetermined "	"4"	13	99190	Unreliable
+	"Wicomico County, MD"	"24045"	"2012"	"2012"	"Unintentional"	"1"	32	100647	31.8
+	"Wicomico County, MD"	"24045"	"2012"	"2012"	"Suicide"	"2"	11	100647	Unreliable
+	"Wicomico County, MD"	"24045"	"2012"	"2012"	"Undetermined "	"4"	15	100647	Unreliable
+	"Wicomico County, MD"	"24045"	"2013"	"2013"	"Unintentional"	"1"	36	100896	35.7
+	"Wicomico County, MD"	"24045"	"2013"	"2013"	"Suicide"	"2"	13	100896	Unreliable
+	"Wicomico County, MD"	"24045"	"2013"	"2013"	"Undetermined "	"4"	11	100896	Unreliable
+	"Wicomico County, MD"	"24045"	"2014"	"2014"	"Unintentional"	"1"	33	101539	32.5
+	"Wicomico County, MD"	"24045"	"2014"	"2014"	"Suicide"	"2"	13	101539	Unreliable
+	"Wicomico County, MD"	"24045"	"2014"	"2014"	"Undetermined "	"4"	10	101539	Unreliable
+	"Wicomico County, MD"	"24045"	"2015"	"2015"	"Unintentional"	"1"	43	102370	42.0
+	"Wicomico County, MD"	"24045"	"2016"	"2016"	"Unintentional"	"1"	45	102577	43.9
+	"Wicomico County, MD"	"24045"	"2016"	"2016"	"Suicide"	"2"	10	102577	Unreliable
+	"Wicomico County, MD"	"24045"	"2016"	"2016"	"Undetermined "	"4"	28	102577	27.3
+	"Wicomico County, MD"	"24045"	"2017"	"2017"	"Unintentional"	"1"	53	102923	51.5
+	"Wicomico County, MD"	"24045"	"2017"	"2017"	"Suicide"	"2"	12	102923	Unreliable
+	"Wicomico County, MD"	"24045"	"2017"	"2017"	"Undetermined "	"4"	17	102923	Unreliable
+	"Wicomico County, MD"	"24045"	"2018"	"2018"	"Unintentional"	"1"	32	103195	31.0
+	"Wicomico County, MD"	"24045"	"2018"	"2018"	"Suicide"	"2"	13	103195	Unreliable
+	"Wicomico County, MD"	"24045"	"2018"	"2018"	"Undetermined "	"4"	27	103195	26.2
+	"Worcester County, MD"	"24047"	"1999"	"1999"	"Unintentional"	"1"	14	45707	Unreliable
+	"Worcester County, MD"	"24047"	"2000"	"2000"	"Unintentional"	"1"	21	46543	45.1
+	"Worcester County, MD"	"24047"	"2001"	"2001"	"Unintentional"	"1"	21	47889	43.9
+	"Worcester County, MD"	"24047"	"2002"	"2002"	"Unintentional"	"1"	12	48752	Unreliable
+	"Worcester County, MD"	"24047"	"2003"	"2003"	"Unintentional"	"1"	17	49524	Unreliable
+	"Worcester County, MD"	"24047"	"2004"	"2004"	"Unintentional"	"1"	11	49994	Unreliable
+	"Worcester County, MD"	"24047"	"2005"	"2005"	"Unintentional"	"1"	10	50181	Unreliable
+	"Worcester County, MD"	"24047"	"2006"	"2006"	"Unintentional"	"1"	14	50678	Unreliable
+	"Worcester County, MD"	"24047"	"2006"	"2006"	"Undetermined "	"4"	13	50678	Unreliable
+	"Worcester County, MD"	"24047"	"2007"	"2007"	"Unintentional"	"1"	21	51049	41.1
+	"Worcester County, MD"	"24047"	"2008"	"2008"	"Unintentional"	"1"	20	51196	39.1
+	"Worcester County, MD"	"24047"	"2009"	"2009"	"Unintentional"	"1"	14	51313	Unreliable
+	"Worcester County, MD"	"24047"	"2010"	"2010"	"Unintentional"	"1"	14	51454	Unreliable
+	"Worcester County, MD"	"24047"	"2011"	"2011"	"Unintentional"	"1"	16	51514	Unreliable
+	"Worcester County, MD"	"24047"	"2012"	"2012"	"Unintentional"	"1"	18	51578	Unreliable
+	"Worcester County, MD"	"24047"	"2013"	"2013"	"Unintentional"	"1"	17	51620	Unreliable
+	"Worcester County, MD"	"24047"	"2014"	"2014"	"Unintentional"	"1"	16	51675	Unreliable
+	"Worcester County, MD"	"24047"	"2014"	"2014"	"Undetermined "	"4"	10	51675	Unreliable
+	"Worcester County, MD"	"24047"	"2015"	"2015"	"Unintentional"	"1"	21	51540	40.7
+	"Worcester County, MD"	"24047"	"2015"	"2015"	"Undetermined "	"4"	13	51540	Unreliable
+	"Worcester County, MD"	"24047"	"2016"	"2016"	"Unintentional"	"1"	27	51444	52.5
+	"Worcester County, MD"	"24047"	"2016"	"2016"	"Suicide"	"2"	10	51444	Unreliable
+	"Worcester County, MD"	"24047"	"2016"	"2016"	"Undetermined "	"4"	14	51444	Unreliable
+	"Worcester County, MD"	"24047"	"2017"	"2017"	"Unintentional"	"1"	19	51690	Unreliable
+	"Worcester County, MD"	"24047"	"2017"	"2017"	"Undetermined "	"4"	15	51690	Unreliable
+	"Worcester County, MD"	"24047"	"2018"	"2018"	"Unintentional"	"1"	22	51823	42.5
+	"Worcester County, MD"	"24047"	"2018"	"2018"	"Undetermined "	"4"	13	51823	Unreliable
+	"Baltimore city, MD"	"24510"	"1999"	"1999"	"Unintentional"	"1"	206	657441	31.3
+	"Baltimore city, MD"	"24510"	"1999"	"1999"	"Suicide"	"2"	62	657441	9.4
+	"Baltimore city, MD"	"24510"	"1999"	"1999"	"Homicide"	"3"	281	657441	42.7
+	"Baltimore city, MD"	"24510"	"1999"	"1999"	"Undetermined "	"4"	321	657441	48.8
+	"Baltimore city, MD"	"24510"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	11	657441	Unreliable
+	"Baltimore city, MD"	"24510"	"2000"	"2000"	"Unintentional"	"1"	181	651154	27.8
+	"Baltimore city, MD"	"24510"	"2000"	"2000"	"Suicide"	"2"	61	651154	9.4
+	"Baltimore city, MD"	"24510"	"2000"	"2000"	"Homicide"	"3"	236	651154	36.2
+	"Baltimore city, MD"	"24510"	"2000"	"2000"	"Undetermined "	"4"	284	651154	43.6
+	"Baltimore city, MD"	"24510"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	19	651154	Unreliable
+	"Baltimore city, MD"	"24510"	"2001"	"2001"	"Unintentional"	"1"	192	640733	30.0
+	"Baltimore city, MD"	"24510"	"2001"	"2001"	"Suicide"	"2"	63	640733	9.8
+	"Baltimore city, MD"	"24510"	"2001"	"2001"	"Homicide"	"3"	217	640733	33.9
+	"Baltimore city, MD"	"24510"	"2001"	"2001"	"Undetermined "	"4"	254	640733	39.6
+	"Baltimore city, MD"	"24510"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	640733	Unreliable
+	"Baltimore city, MD"	"24510"	"2002"	"2002"	"Unintentional"	"1"	202	634115	31.9
+	"Baltimore city, MD"	"24510"	"2002"	"2002"	"Suicide"	"2"	51	634115	8.0
+	"Baltimore city, MD"	"24510"	"2002"	"2002"	"Homicide"	"3"	228	634115	36.0
+	"Baltimore city, MD"	"24510"	"2002"	"2002"	"Undetermined "	"4"	287	634115	45.3
+	"Baltimore city, MD"	"24510"	"2003"	"2003"	"Unintentional"	"1"	213	629033	33.9
+	"Baltimore city, MD"	"24510"	"2003"	"2003"	"Suicide"	"2"	45	629033	7.2
+	"Baltimore city, MD"	"24510"	"2003"	"2003"	"Homicide"	"3"	241	629033	38.3
+	"Baltimore city, MD"	"24510"	"2003"	"2003"	"Undetermined "	"4"	271	629033	43.1
+	"Baltimore city, MD"	"24510"	"2004"	"2004"	"Unintentional"	"1"	190	624222	30.4
+	"Baltimore city, MD"	"24510"	"2004"	"2004"	"Suicide"	"2"	36	624222	5.8
+	"Baltimore city, MD"	"24510"	"2004"	"2004"	"Homicide"	"3"	265	624222	42.5
+	"Baltimore city, MD"	"24510"	"2004"	"2004"	"Undetermined "	"4"	238	624222	38.1
+	"Baltimore city, MD"	"24510"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	14	624222	Unreliable
+	"Baltimore city, MD"	"24510"	"2005"	"2005"	"Unintentional"	"1"	187	621560	30.1
+	"Baltimore city, MD"	"24510"	"2005"	"2005"	"Suicide"	"2"	41	621560	6.6
+	"Baltimore city, MD"	"24510"	"2005"	"2005"	"Homicide"	"3"	242	621560	38.9
+	"Baltimore city, MD"	"24510"	"2005"	"2005"	"Undetermined "	"4"	217	621560	34.9
+	"Baltimore city, MD"	"24510"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	17	621560	Unreliable
+	"Baltimore city, MD"	"24510"	"2006"	"2006"	"Unintentional"	"1"	172	621109	27.7
+	"Baltimore city, MD"	"24510"	"2006"	"2006"	"Suicide"	"2"	67	621109	10.8
+	"Baltimore city, MD"	"24510"	"2006"	"2006"	"Homicide"	"3"	250	621109	40.3
+	"Baltimore city, MD"	"24510"	"2006"	"2006"	"Undetermined "	"4"	241	621109	38.8
+	"Baltimore city, MD"	"24510"	"2007"	"2007"	"Unintentional"	"1"	199	620306	32.1
+	"Baltimore city, MD"	"24510"	"2007"	"2007"	"Suicide"	"2"	57	620306	9.2
+	"Baltimore city, MD"	"24510"	"2007"	"2007"	"Homicide"	"3"	266	620306	42.9
+	"Baltimore city, MD"	"24510"	"2007"	"2007"	"Undetermined "	"4"	262	620306	42.2
+	"Baltimore city, MD"	"24510"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	18	620306	Unreliable
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Unintentional"	"1"	170	620184	27.4
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Suicide"	"2"	45	620184	7.3
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Homicide"	"3"	213	620184	34.3
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Undetermined "	"4"	162	620184	26.1
+	"Baltimore city, MD"	"24510"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	620184	Unreliable
+	"Baltimore city, MD"	"24510"	"2009"	"2009"	"Unintentional"	"1"	167	620509	26.9
+	"Baltimore city, MD"	"24510"	"2009"	"2009"	"Suicide"	"2"	50	620509	8.1
+	"Baltimore city, MD"	"24510"	"2009"	"2009"	"Homicide"	"3"	215	620509	34.6
+	"Baltimore city, MD"	"24510"	"2009"	"2009"	"Undetermined "	"4"	194	620509	31.3
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Unintentional"	"1"	189	620961	30.4
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Suicide"	"2"	58	620961	9.3
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Homicide"	"3"	190	620961	30.6
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Undetermined "	"4"	138	620961	22.2
+	"Baltimore city, MD"	"24510"	"2011"	"2011"	"Unintentional"	"1"	202	619493	32.6
+	"Baltimore city, MD"	"24510"	"2011"	"2011"	"Suicide"	"2"	49	619493	7.9
+	"Baltimore city, MD"	"24510"	"2011"	"2011"	"Homicide"	"3"	180	619493	29.1
+	"Baltimore city, MD"	"24510"	"2011"	"2011"	"Undetermined "	"4"	128	619493	20.7
+	"Baltimore city, MD"	"24510"	"2012"	"2012"	"Unintentional"	"1"	224	621342	36.1
+	"Baltimore city, MD"	"24510"	"2012"	"2012"	"Suicide"	"2"	55	621342	8.9
+	"Baltimore city, MD"	"24510"	"2012"	"2012"	"Homicide"	"3"	202	621342	32.5
+	"Baltimore city, MD"	"24510"	"2012"	"2012"	"Undetermined "	"4"	140	621342	22.5
+	"Baltimore city, MD"	"24510"	"2012"	"2012"	"Legal Intervention / Operations of War"	"5"	11	621342	Unreliable
+	"Baltimore city, MD"	"24510"	"2013"	"2013"	"Unintentional"	"1"	253	622104	40.7
+	"Baltimore city, MD"	"24510"	"2013"	"2013"	"Suicide"	"2"	46	622104	7.4
+	"Baltimore city, MD"	"24510"	"2013"	"2013"	"Homicide"	"3"	215	622104	34.6
+	"Baltimore city, MD"	"24510"	"2013"	"2013"	"Undetermined "	"4"	161	622104	25.9
+	"Baltimore city, MD"	"24510"	"2014"	"2014"	"Unintentional"	"1"	224	622793	36.0
+	"Baltimore city, MD"	"24510"	"2014"	"2014"	"Suicide"	"2"	66	622793	10.6
+	"Baltimore city, MD"	"24510"	"2014"	"2014"	"Homicide"	"3"	178	622793	28.6
+	"Baltimore city, MD"	"24510"	"2014"	"2014"	"Undetermined "	"4"	220	622793	35.3
+	"Baltimore city, MD"	"24510"	"2015"	"2015"	"Unintentional"	"1"	254	621849	40.8
+	"Baltimore city, MD"	"24510"	"2015"	"2015"	"Suicide"	"2"	42	621849	6.8
+	"Baltimore city, MD"	"24510"	"2015"	"2015"	"Homicide"	"3"	300	621849	48.2
+	"Baltimore city, MD"	"24510"	"2015"	"2015"	"Undetermined "	"4"	253	621849	40.7
+	"Baltimore city, MD"	"24510"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	10	621849	Unreliable
+	"Baltimore city, MD"	"24510"	"2016"	"2016"	"Unintentional"	"1"	335	614664	54.5
+	"Baltimore city, MD"	"24510"	"2016"	"2016"	"Suicide"	"2"	52	614664	8.5
+	"Baltimore city, MD"	"24510"	"2016"	"2016"	"Homicide"	"3"	273	614664	44.4
+	"Baltimore city, MD"	"24510"	"2016"	"2016"	"Undetermined "	"4"	394	614664	64.1
+	"Baltimore city, MD"	"24510"	"2017"	"2017"	"Unintentional"	"1"	349	611648	57.1
+	"Baltimore city, MD"	"24510"	"2017"	"2017"	"Suicide"	"2"	61	611648	10.0
+	"Baltimore city, MD"	"24510"	"2017"	"2017"	"Homicide"	"3"	293	611648	47.9
+	"Baltimore city, MD"	"24510"	"2017"	"2017"	"Undetermined "	"4"	411	611648	67.2
+	"Baltimore city, MD"	"24510"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	18	611648	Unreliable
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	"Unintentional"	"1"	407	602495	67.6
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	"Suicide"	"2"	56	602495	9.3
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	"Homicide"	"3"	260	602495	43.2
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	"Undetermined "	"4"	488	602495	81.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Maryland"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Maryland (24)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:45:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:45:27 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

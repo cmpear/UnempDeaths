@@ -1,0 +1,1061 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adams County, CO"	"08001"	"1999"	"1999"	"Unintentional"	"1"	95	354146	26.8
+	"Adams County, CO"	"08001"	"1999"	"1999"	"Suicide"	"2"	35	354146	9.9
+	"Adams County, CO"	"08001"	"1999"	"1999"	"Homicide"	"3"	18	354146	Unreliable
+	"Adams County, CO"	"08001"	"2000"	"2000"	"Unintentional"	"1"	145	363857	39.9
+	"Adams County, CO"	"08001"	"2000"	"2000"	"Suicide"	"2"	50	363857	13.7
+	"Adams County, CO"	"08001"	"2000"	"2000"	"Homicide"	"3"	23	363857	6.3
+	"Adams County, CO"	"08001"	"2001"	"2001"	"Unintentional"	"1"	134	376115	35.6
+	"Adams County, CO"	"08001"	"2001"	"2001"	"Suicide"	"2"	67	376115	17.8
+	"Adams County, CO"	"08001"	"2001"	"2001"	"Homicide"	"3"	13	376115	Unreliable
+	"Adams County, CO"	"08001"	"2001"	"2001"	"Undetermined "	"4"	15	376115	Unreliable
+	"Adams County, CO"	"08001"	"2002"	"2002"	"Unintentional"	"1"	152	387339	39.2
+	"Adams County, CO"	"08001"	"2002"	"2002"	"Suicide"	"2"	68	387339	17.6
+	"Adams County, CO"	"08001"	"2002"	"2002"	"Homicide"	"3"	18	387339	Unreliable
+	"Adams County, CO"	"08001"	"2003"	"2003"	"Unintentional"	"1"	137	377464	36.3
+	"Adams County, CO"	"08001"	"2003"	"2003"	"Suicide"	"2"	58	377464	15.4
+	"Adams County, CO"	"08001"	"2003"	"2003"	"Homicide"	"3"	26	377464	6.9
+	"Adams County, CO"	"08001"	"2004"	"2004"	"Unintentional"	"1"	146	384809	37.9
+	"Adams County, CO"	"08001"	"2004"	"2004"	"Suicide"	"2"	74	384809	19.2
+	"Adams County, CO"	"08001"	"2004"	"2004"	"Homicide"	"3"	22	384809	5.7
+	"Adams County, CO"	"08001"	"2005"	"2005"	"Unintentional"	"1"	184	395146	46.6
+	"Adams County, CO"	"08001"	"2005"	"2005"	"Suicide"	"2"	77	395146	19.5
+	"Adams County, CO"	"08001"	"2005"	"2005"	"Homicide"	"3"	26	395146	6.6
+	"Adams County, CO"	"08001"	"2005"	"2005"	"Undetermined "	"4"	11	395146	Unreliable
+	"Adams County, CO"	"08001"	"2006"	"2006"	"Unintentional"	"1"	185	406575	45.5
+	"Adams County, CO"	"08001"	"2006"	"2006"	"Suicide"	"2"	62	406575	15.2
+	"Adams County, CO"	"08001"	"2006"	"2006"	"Homicide"	"3"	19	406575	Unreliable
+	"Adams County, CO"	"08001"	"2007"	"2007"	"Unintentional"	"1"	163	415746	39.2
+	"Adams County, CO"	"08001"	"2007"	"2007"	"Suicide"	"2"	72	415746	17.3
+	"Adams County, CO"	"08001"	"2007"	"2007"	"Homicide"	"3"	13	415746	Unreliable
+	"Adams County, CO"	"08001"	"2007"	"2007"	"Undetermined "	"4"	10	415746	Unreliable
+	"Adams County, CO"	"08001"	"2008"	"2008"	"Unintentional"	"1"	175	424913	41.2
+	"Adams County, CO"	"08001"	"2008"	"2008"	"Suicide"	"2"	69	424913	16.2
+	"Adams County, CO"	"08001"	"2008"	"2008"	"Homicide"	"3"	22	424913	5.2
+	"Adams County, CO"	"08001"	"2008"	"2008"	"Undetermined "	"4"	10	424913	Unreliable
+	"Adams County, CO"	"08001"	"2009"	"2009"	"Unintentional"	"1"	156	435700	35.8
+	"Adams County, CO"	"08001"	"2009"	"2009"	"Suicide"	"2"	71	435700	16.3
+	"Adams County, CO"	"08001"	"2009"	"2009"	"Homicide"	"3"	24	435700	5.5
+	"Adams County, CO"	"08001"	"2010"	"2010"	"Unintentional"	"1"	151	441603	34.2
+	"Adams County, CO"	"08001"	"2010"	"2010"	"Suicide"	"2"	51	441603	11.5
+	"Adams County, CO"	"08001"	"2010"	"2010"	"Homicide"	"3"	13	441603	Unreliable
+	"Adams County, CO"	"08001"	"2011"	"2011"	"Unintentional"	"1"	182	451443	40.3
+	"Adams County, CO"	"08001"	"2011"	"2011"	"Suicide"	"2"	66	451443	14.6
+	"Adams County, CO"	"08001"	"2011"	"2011"	"Homicide"	"3"	19	451443	Unreliable
+	"Adams County, CO"	"08001"	"2011"	"2011"	"Undetermined "	"4"	12	451443	Unreliable
+	"Adams County, CO"	"08001"	"2012"	"2012"	"Unintentional"	"1"	233	459598	50.7
+	"Adams County, CO"	"08001"	"2012"	"2012"	"Suicide"	"2"	86	459598	18.7
+	"Adams County, CO"	"08001"	"2012"	"2012"	"Homicide"	"3"	27	459598	5.9
+	"Adams County, CO"	"08001"	"2012"	"2012"	"Undetermined "	"4"	10	459598	Unreliable
+	"Adams County, CO"	"08001"	"2013"	"2013"	"Unintentional"	"1"	207	469193	44.1
+	"Adams County, CO"	"08001"	"2013"	"2013"	"Suicide"	"2"	71	469193	15.1
+	"Adams County, CO"	"08001"	"2013"	"2013"	"Homicide"	"3"	23	469193	4.9
+	"Adams County, CO"	"08001"	"2013"	"2013"	"Undetermined "	"4"	12	469193	Unreliable
+	"Adams County, CO"	"08001"	"2014"	"2014"	"Unintentional"	"1"	230	480718	47.8
+	"Adams County, CO"	"08001"	"2014"	"2014"	"Suicide"	"2"	84	480718	17.5
+	"Adams County, CO"	"08001"	"2014"	"2014"	"Homicide"	"3"	16	480718	Unreliable
+	"Adams County, CO"	"08001"	"2014"	"2014"	"Undetermined "	"4"	17	480718	Unreliable
+	"Adams County, CO"	"08001"	"2015"	"2015"	"Unintentional"	"1"	226	491337	46.0
+	"Adams County, CO"	"08001"	"2015"	"2015"	"Suicide"	"2"	86	491337	17.5
+	"Adams County, CO"	"08001"	"2015"	"2015"	"Homicide"	"3"	27	491337	5.5
+	"Adams County, CO"	"08001"	"2016"	"2016"	"Unintentional"	"1"	265	498187	53.2
+	"Adams County, CO"	"08001"	"2016"	"2016"	"Suicide"	"2"	84	498187	16.9
+	"Adams County, CO"	"08001"	"2016"	"2016"	"Homicide"	"3"	28	498187	5.6
+	"Adams County, CO"	"08001"	"2017"	"2017"	"Unintentional"	"1"	265	503167	52.7
+	"Adams County, CO"	"08001"	"2017"	"2017"	"Suicide"	"2"	108	503167	21.5
+	"Adams County, CO"	"08001"	"2017"	"2017"	"Homicide"	"3"	29	503167	5.8
+	"Adams County, CO"	"08001"	"2018"	"2018"	"Unintentional"	"1"	268	511868	52.4
+	"Adams County, CO"	"08001"	"2018"	"2018"	"Suicide"	"2"	111	511868	21.7
+	"Adams County, CO"	"08001"	"2018"	"2018"	"Homicide"	"3"	34	511868	6.6
+	"Alamosa County, CO"	"08003"	"2002"	"2002"	"Unintentional"	"1"	11	15114	Unreliable
+	"Alamosa County, CO"	"08003"	"2003"	"2003"	"Unintentional"	"1"	13	15067	Unreliable
+	"Alamosa County, CO"	"08003"	"2007"	"2007"	"Unintentional"	"1"	11	15180	Unreliable
+	"Alamosa County, CO"	"08003"	"2012"	"2012"	"Unintentional"	"1"	13	16148	Unreliable
+	"Alamosa County, CO"	"08003"	"2013"	"2013"	"Unintentional"	"1"	14	16253	Unreliable
+	"Alamosa County, CO"	"08003"	"2014"	"2014"	"Unintentional"	"1"	15	16177	Unreliable
+	"Alamosa County, CO"	"08003"	"2016"	"2016"	"Unintentional"	"1"	11	16654	Unreliable
+	"Arapahoe County, CO"	"08005"	"1999"	"1999"	"Unintentional"	"1"	121	482262	25.1
+	"Arapahoe County, CO"	"08005"	"1999"	"1999"	"Suicide"	"2"	63	482262	13.1
+	"Arapahoe County, CO"	"08005"	"1999"	"1999"	"Homicide"	"3"	20	482262	4.1
+	"Arapahoe County, CO"	"08005"	"1999"	"1999"	"Undetermined "	"4"	10	482262	Unreliable
+	"Arapahoe County, CO"	"08005"	"2000"	"2000"	"Unintentional"	"1"	159	487967	32.6
+	"Arapahoe County, CO"	"08005"	"2000"	"2000"	"Suicide"	"2"	52	487967	10.7
+	"Arapahoe County, CO"	"08005"	"2000"	"2000"	"Homicide"	"3"	18	487967	Unreliable
+	"Arapahoe County, CO"	"08005"	"2001"	"2001"	"Unintentional"	"1"	168	502393	33.4
+	"Arapahoe County, CO"	"08005"	"2001"	"2001"	"Suicide"	"2"	88	502393	17.5
+	"Arapahoe County, CO"	"08005"	"2001"	"2001"	"Homicide"	"3"	20	502393	4.0
+	"Arapahoe County, CO"	"08005"	"2002"	"2002"	"Unintentional"	"1"	161	508936	31.6
+	"Arapahoe County, CO"	"08005"	"2002"	"2002"	"Suicide"	"2"	84	508936	16.5
+	"Arapahoe County, CO"	"08005"	"2002"	"2002"	"Homicide"	"3"	23	508936	4.5
+	"Arapahoe County, CO"	"08005"	"2003"	"2003"	"Unintentional"	"1"	169	513690	32.9
+	"Arapahoe County, CO"	"08005"	"2003"	"2003"	"Suicide"	"2"	78	513690	15.2
+	"Arapahoe County, CO"	"08005"	"2003"	"2003"	"Homicide"	"3"	24	513690	4.7
+	"Arapahoe County, CO"	"08005"	"2004"	"2004"	"Unintentional"	"1"	201	518971	38.7
+	"Arapahoe County, CO"	"08005"	"2004"	"2004"	"Suicide"	"2"	85	518971	16.4
+	"Arapahoe County, CO"	"08005"	"2004"	"2004"	"Homicide"	"3"	28	518971	5.4
+	"Arapahoe County, CO"	"08005"	"2005"	"2005"	"Unintentional"	"1"	177	524466	33.7
+	"Arapahoe County, CO"	"08005"	"2005"	"2005"	"Suicide"	"2"	76	524466	14.5
+	"Arapahoe County, CO"	"08005"	"2005"	"2005"	"Homicide"	"3"	27	524466	5.1
+	"Arapahoe County, CO"	"08005"	"2006"	"2006"	"Unintentional"	"1"	161	531619	30.3
+	"Arapahoe County, CO"	"08005"	"2006"	"2006"	"Suicide"	"2"	79	531619	14.9
+	"Arapahoe County, CO"	"08005"	"2006"	"2006"	"Homicide"	"3"	25	531619	4.7
+	"Arapahoe County, CO"	"08005"	"2006"	"2006"	"Undetermined "	"4"	10	531619	Unreliable
+	"Arapahoe County, CO"	"08005"	"2007"	"2007"	"Unintentional"	"1"	208	542039	38.4
+	"Arapahoe County, CO"	"08005"	"2007"	"2007"	"Suicide"	"2"	91	542039	16.8
+	"Arapahoe County, CO"	"08005"	"2007"	"2007"	"Homicide"	"3"	16	542039	Unreliable
+	"Arapahoe County, CO"	"08005"	"2007"	"2007"	"Undetermined "	"4"	12	542039	Unreliable
+	"Arapahoe County, CO"	"08005"	"2008"	"2008"	"Unintentional"	"1"	213	552461	38.6
+	"Arapahoe County, CO"	"08005"	"2008"	"2008"	"Suicide"	"2"	86	552461	15.6
+	"Arapahoe County, CO"	"08005"	"2008"	"2008"	"Homicide"	"3"	14	552461	Unreliable
+	"Arapahoe County, CO"	"08005"	"2009"	"2009"	"Unintentional"	"1"	225	563161	40.0
+	"Arapahoe County, CO"	"08005"	"2009"	"2009"	"Suicide"	"2"	102	563161	18.1
+	"Arapahoe County, CO"	"08005"	"2009"	"2009"	"Homicide"	"3"	20	563161	3.6
+	"Arapahoe County, CO"	"08005"	"2009"	"2009"	"Undetermined "	"4"	16	563161	Unreliable
+	"Arapahoe County, CO"	"08005"	"2010"	"2010"	"Unintentional"	"1"	212	572003	37.1
+	"Arapahoe County, CO"	"08005"	"2010"	"2010"	"Suicide"	"2"	70	572003	12.2
+	"Arapahoe County, CO"	"08005"	"2010"	"2010"	"Homicide"	"3"	27	572003	4.7
+	"Arapahoe County, CO"	"08005"	"2011"	"2011"	"Unintentional"	"1"	207	584948	35.4
+	"Arapahoe County, CO"	"08005"	"2011"	"2011"	"Suicide"	"2"	103	584948	17.6
+	"Arapahoe County, CO"	"08005"	"2011"	"2011"	"Homicide"	"3"	23	584948	3.9
+	"Arapahoe County, CO"	"08005"	"2011"	"2011"	"Undetermined "	"4"	12	584948	Unreliable
+	"Arapahoe County, CO"	"08005"	"2012"	"2012"	"Unintentional"	"1"	212	595546	35.6
+	"Arapahoe County, CO"	"08005"	"2012"	"2012"	"Suicide"	"2"	100	595546	16.8
+	"Arapahoe County, CO"	"08005"	"2012"	"2012"	"Homicide"	"3"	26	595546	4.4
+	"Arapahoe County, CO"	"08005"	"2012"	"2012"	"Undetermined "	"4"	10	595546	Unreliable
+	"Arapahoe County, CO"	"08005"	"2013"	"2013"	"Unintentional"	"1"	235	607070	38.7
+	"Arapahoe County, CO"	"08005"	"2013"	"2013"	"Suicide"	"2"	111	607070	18.3
+	"Arapahoe County, CO"	"08005"	"2013"	"2013"	"Homicide"	"3"	28	607070	4.6
+	"Arapahoe County, CO"	"08005"	"2014"	"2014"	"Unintentional"	"1"	249	618821	40.2
+	"Arapahoe County, CO"	"08005"	"2014"	"2014"	"Suicide"	"2"	115	618821	18.6
+	"Arapahoe County, CO"	"08005"	"2014"	"2014"	"Homicide"	"3"	19	618821	Unreliable
+	"Arapahoe County, CO"	"08005"	"2015"	"2015"	"Unintentional"	"1"	279	631096	44.2
+	"Arapahoe County, CO"	"08005"	"2015"	"2015"	"Suicide"	"2"	106	631096	16.8
+	"Arapahoe County, CO"	"08005"	"2015"	"2015"	"Homicide"	"3"	28	631096	4.4
+	"Arapahoe County, CO"	"08005"	"2015"	"2015"	"Undetermined "	"4"	10	631096	Unreliable
+	"Arapahoe County, CO"	"08005"	"2016"	"2016"	"Unintentional"	"1"	273	637068	42.9
+	"Arapahoe County, CO"	"08005"	"2016"	"2016"	"Suicide"	"2"	119	637068	18.7
+	"Arapahoe County, CO"	"08005"	"2016"	"2016"	"Homicide"	"3"	35	637068	5.5
+	"Arapahoe County, CO"	"08005"	"2017"	"2017"	"Unintentional"	"1"	274	643052	42.6
+	"Arapahoe County, CO"	"08005"	"2017"	"2017"	"Suicide"	"2"	116	643052	18.0
+	"Arapahoe County, CO"	"08005"	"2017"	"2017"	"Homicide"	"3"	36	643052	5.6
+	"Arapahoe County, CO"	"08005"	"2018"	"2018"	"Unintentional"	"1"	292	651215	44.8
+	"Arapahoe County, CO"	"08005"	"2018"	"2018"	"Suicide"	"2"	114	651215	17.5
+	"Arapahoe County, CO"	"08005"	"2018"	"2018"	"Homicide"	"3"	28	651215	4.3
+	"Archuleta County, CO"	"08007"	"2002"	"2002"	"Unintentional"	"1"	12	10885	Unreliable
+	"Archuleta County, CO"	"08007"	"2003"	"2003"	"Unintentional"	"1"	10	11089	Unreliable
+	"Boulder County, CO"	"08013"	"1999"	"1999"	"Unintentional"	"1"	77	285901	26.9
+	"Boulder County, CO"	"08013"	"1999"	"1999"	"Suicide"	"2"	30	285901	10.5
+	"Boulder County, CO"	"08013"	"2000"	"2000"	"Unintentional"	"1"	91	291288	31.2
+	"Boulder County, CO"	"08013"	"2000"	"2000"	"Suicide"	"2"	47	291288	16.1
+	"Boulder County, CO"	"08013"	"2001"	"2001"	"Unintentional"	"1"	93	300727	30.9
+	"Boulder County, CO"	"08013"	"2001"	"2001"	"Suicide"	"2"	44	300727	14.6
+	"Boulder County, CO"	"08013"	"2002"	"2002"	"Unintentional"	"1"	108	303035	35.6
+	"Boulder County, CO"	"08013"	"2002"	"2002"	"Suicide"	"2"	38	303035	12.5
+	"Boulder County, CO"	"08013"	"2003"	"2003"	"Unintentional"	"1"	125	278768	44.8
+	"Boulder County, CO"	"08013"	"2003"	"2003"	"Suicide"	"2"	38	278768	13.6
+	"Boulder County, CO"	"08013"	"2004"	"2004"	"Unintentional"	"1"	111	279728	39.7
+	"Boulder County, CO"	"08013"	"2004"	"2004"	"Suicide"	"2"	40	279728	14.3
+	"Boulder County, CO"	"08013"	"2005"	"2005"	"Unintentional"	"1"	115	280241	41.0
+	"Boulder County, CO"	"08013"	"2005"	"2005"	"Suicide"	"2"	49	280241	17.5
+	"Boulder County, CO"	"08013"	"2006"	"2006"	"Unintentional"	"1"	124	284243	43.6
+	"Boulder County, CO"	"08013"	"2006"	"2006"	"Suicide"	"2"	48	284243	16.9
+	"Boulder County, CO"	"08013"	"2007"	"2007"	"Unintentional"	"1"	129	287428	44.9
+	"Boulder County, CO"	"08013"	"2007"	"2007"	"Suicide"	"2"	43	287428	15.0
+	"Boulder County, CO"	"08013"	"2008"	"2008"	"Unintentional"	"1"	144	290859	49.5
+	"Boulder County, CO"	"08013"	"2008"	"2008"	"Suicide"	"2"	46	290859	15.8
+	"Boulder County, CO"	"08013"	"2009"	"2009"	"Unintentional"	"1"	114	293190	38.9
+	"Boulder County, CO"	"08013"	"2009"	"2009"	"Suicide"	"2"	61	293190	20.8
+	"Boulder County, CO"	"08013"	"2010"	"2010"	"Unintentional"	"1"	104	294567	35.3
+	"Boulder County, CO"	"08013"	"2010"	"2010"	"Suicide"	"2"	60	294567	20.4
+	"Boulder County, CO"	"08013"	"2011"	"2011"	"Unintentional"	"1"	133	299378	44.4
+	"Boulder County, CO"	"08013"	"2011"	"2011"	"Suicide"	"2"	53	299378	17.7
+	"Boulder County, CO"	"08013"	"2012"	"2012"	"Unintentional"	"1"	125	305318	40.9
+	"Boulder County, CO"	"08013"	"2012"	"2012"	"Suicide"	"2"	59	305318	19.3
+	"Boulder County, CO"	"08013"	"2013"	"2013"	"Unintentional"	"1"	171	310048	55.2
+	"Boulder County, CO"	"08013"	"2013"	"2013"	"Suicide"	"2"	56	310048	18.1
+	"Boulder County, CO"	"08013"	"2014"	"2014"	"Unintentional"	"1"	128	313333	40.9
+	"Boulder County, CO"	"08013"	"2014"	"2014"	"Suicide"	"2"	51	313333	16.3
+	"Boulder County, CO"	"08013"	"2014"	"2014"	"Undetermined "	"4"	12	313333	Unreliable
+	"Boulder County, CO"	"08013"	"2015"	"2015"	"Unintentional"	"1"	139	319372	43.5
+	"Boulder County, CO"	"08013"	"2015"	"2015"	"Suicide"	"2"	59	319372	18.5
+	"Boulder County, CO"	"08013"	"2016"	"2016"	"Unintentional"	"1"	166	322226	51.5
+	"Boulder County, CO"	"08013"	"2016"	"2016"	"Suicide"	"2"	53	322226	16.4
+	"Boulder County, CO"	"08013"	"2017"	"2017"	"Unintentional"	"1"	146	322514	45.3
+	"Boulder County, CO"	"08013"	"2017"	"2017"	"Suicide"	"2"	63	322514	19.5
+	"Boulder County, CO"	"08013"	"2018"	"2018"	"Unintentional"	"1"	158	326078	48.5
+	"Boulder County, CO"	"08013"	"2018"	"2018"	"Suicide"	"2"	64	326078	19.6
+	"Broomfield County, CO"	"08014"	"2003"	"2003"	"Unintentional"	"1"	15	43805	Unreliable
+	"Broomfield County, CO"	"08014"	"2004"	"2004"	"Unintentional"	"1"	16	44867	Unreliable
+	"Broomfield County, CO"	"08014"	"2005"	"2005"	"Unintentional"	"1"	12	46313	Unreliable
+	"Broomfield County, CO"	"08014"	"2005"	"2005"	"Suicide"	"2"	12	46313	Unreliable
+	"Broomfield County, CO"	"08014"	"2006"	"2006"	"Unintentional"	"1"	17	48729	Unreliable
+	"Broomfield County, CO"	"08014"	"2006"	"2006"	"Suicide"	"2"	10	48729	Unreliable
+	"Broomfield County, CO"	"08014"	"2007"	"2007"	"Unintentional"	"1"	17	51526	Unreliable
+	"Broomfield County, CO"	"08014"	"2007"	"2007"	"Suicide"	"2"	12	51526	Unreliable
+	"Broomfield County, CO"	"08014"	"2008"	"2008"	"Unintentional"	"1"	12	53181	Unreliable
+	"Broomfield County, CO"	"08014"	"2009"	"2009"	"Unintentional"	"1"	12	54789	Unreliable
+	"Broomfield County, CO"	"08014"	"2010"	"2010"	"Unintentional"	"1"	15	55889	Unreliable
+	"Broomfield County, CO"	"08014"	"2010"	"2010"	"Suicide"	"2"	11	55889	Unreliable
+	"Broomfield County, CO"	"08014"	"2011"	"2011"	"Unintentional"	"1"	16	57352	Unreliable
+	"Broomfield County, CO"	"08014"	"2011"	"2011"	"Suicide"	"2"	10	57352	Unreliable
+	"Broomfield County, CO"	"08014"	"2012"	"2012"	"Unintentional"	"1"	21	58298	36.0
+	"Broomfield County, CO"	"08014"	"2012"	"2012"	"Suicide"	"2"	11	58298	Unreliable
+	"Broomfield County, CO"	"08014"	"2013"	"2013"	"Unintentional"	"1"	19	59471	Unreliable
+	"Broomfield County, CO"	"08014"	"2014"	"2014"	"Unintentional"	"1"	18	62138	Unreliable
+	"Broomfield County, CO"	"08014"	"2014"	"2014"	"Suicide"	"2"	11	62138	Unreliable
+	"Broomfield County, CO"	"08014"	"2015"	"2015"	"Unintentional"	"1"	33	65065	50.7
+	"Broomfield County, CO"	"08014"	"2015"	"2015"	"Suicide"	"2"	11	65065	Unreliable
+	"Broomfield County, CO"	"08014"	"2016"	"2016"	"Unintentional"	"1"	26	66529	39.1
+	"Broomfield County, CO"	"08014"	"2016"	"2016"	"Suicide"	"2"	16	66529	Unreliable
+	"Broomfield County, CO"	"08014"	"2017"	"2017"	"Unintentional"	"1"	25	68341	36.6
+	"Broomfield County, CO"	"08014"	"2018"	"2018"	"Unintentional"	"1"	26	69267	37.5
+	"Broomfield County, CO"	"08014"	"2018"	"2018"	"Suicide"	"2"	13	69267	Unreliable
+	"Chaffee County, CO"	"08015"	"2001"	"2001"	"Unintentional"	"1"	12	16488	Unreliable
+	"Chaffee County, CO"	"08015"	"2002"	"2002"	"Unintentional"	"1"	10	16844	Unreliable
+	"Chaffee County, CO"	"08015"	"2003"	"2003"	"Unintentional"	"1"	12	16921	Unreliable
+	"Chaffee County, CO"	"08015"	"2006"	"2006"	"Unintentional"	"1"	15	17087	Unreliable
+	"Chaffee County, CO"	"08015"	"2007"	"2007"	"Unintentional"	"1"	10	17377	Unreliable
+	"Chaffee County, CO"	"08015"	"2008"	"2008"	"Unintentional"	"1"	13	17573	Unreliable
+	"Chaffee County, CO"	"08015"	"2009"	"2009"	"Unintentional"	"1"	16	17852	Unreliable
+	"Chaffee County, CO"	"08015"	"2010"	"2010"	"Unintentional"	"1"	13	17809	Unreliable
+	"Chaffee County, CO"	"08015"	"2013"	"2013"	"Unintentional"	"1"	12	18510	Unreliable
+	"Chaffee County, CO"	"08015"	"2015"	"2015"	"Unintentional"	"1"	11	18658	Unreliable
+	"Chaffee County, CO"	"08015"	"2016"	"2016"	"Unintentional"	"1"	16	19058	Unreliable
+	"Chaffee County, CO"	"08015"	"2017"	"2017"	"Unintentional"	"1"	14	19638	Unreliable
+	"Delta County, CO"	"08029"	"1999"	"1999"	"Unintentional"	"1"	17	27586	Unreliable
+	"Delta County, CO"	"08029"	"2000"	"2000"	"Unintentional"	"1"	13	27834	Unreliable
+	"Delta County, CO"	"08029"	"2001"	"2001"	"Unintentional"	"1"	10	28069	Unreliable
+	"Delta County, CO"	"08029"	"2002"	"2002"	"Unintentional"	"1"	16	28677	Unreliable
+	"Delta County, CO"	"08029"	"2003"	"2003"	"Unintentional"	"1"	20	28929	69.1
+	"Delta County, CO"	"08029"	"2004"	"2004"	"Unintentional"	"1"	15	29305	Unreliable
+	"Delta County, CO"	"08029"	"2005"	"2005"	"Unintentional"	"1"	18	29389	Unreliable
+	"Delta County, CO"	"08029"	"2006"	"2006"	"Unintentional"	"1"	20	29789	67.1
+	"Delta County, CO"	"08029"	"2007"	"2007"	"Unintentional"	"1"	22	30121	73.0
+	"Delta County, CO"	"08029"	"2008"	"2008"	"Unintentional"	"1"	21	30712	68.4
+	"Delta County, CO"	"08029"	"2009"	"2009"	"Unintentional"	"1"	28	31156	89.9
+	"Delta County, CO"	"08029"	"2010"	"2010"	"Unintentional"	"1"	18	30952	Unreliable
+	"Delta County, CO"	"08029"	"2011"	"2011"	"Unintentional"	"1"	18	30451	Unreliable
+	"Delta County, CO"	"08029"	"2012"	"2012"	"Unintentional"	"1"	26	30432	85.4
+	"Delta County, CO"	"08029"	"2013"	"2013"	"Unintentional"	"1"	20	30483	65.6
+	"Delta County, CO"	"08029"	"2013"	"2013"	"Suicide"	"2"	12	30483	Unreliable
+	"Delta County, CO"	"08029"	"2014"	"2014"	"Unintentional"	"1"	15	29870	Unreliable
+	"Delta County, CO"	"08029"	"2015"	"2015"	"Unintentional"	"1"	13	29979	Unreliable
+	"Delta County, CO"	"08029"	"2016"	"2016"	"Unintentional"	"1"	20	30442	65.7
+	"Delta County, CO"	"08029"	"2016"	"2016"	"Suicide"	"2"	13	30442	Unreliable
+	"Delta County, CO"	"08029"	"2017"	"2017"	"Unintentional"	"1"	33	30568	108.0
+	"Delta County, CO"	"08029"	"2018"	"2018"	"Unintentional"	"1"	27	30953	87.2
+	"Denver County, CO"	"08031"	"1999"	"1999"	"Unintentional"	"1"	285	548848	51.9
+	"Denver County, CO"	"08031"	"1999"	"1999"	"Suicide"	"2"	69	548848	12.6
+	"Denver County, CO"	"08031"	"1999"	"1999"	"Homicide"	"3"	51	548848	9.3
+	"Denver County, CO"	"08031"	"1999"	"1999"	"Undetermined "	"4"	19	548848	Unreliable
+	"Denver County, CO"	"08031"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	12	548848	Unreliable
+	"Denver County, CO"	"08031"	"2000"	"2000"	"Unintentional"	"1"	304	554636	54.8
+	"Denver County, CO"	"08031"	"2000"	"2000"	"Suicide"	"2"	90	554636	16.2
+	"Denver County, CO"	"08031"	"2000"	"2000"	"Homicide"	"3"	33	554636	5.9
+	"Denver County, CO"	"08031"	"2000"	"2000"	"Undetermined "	"4"	20	554636	3.6
+	"Denver County, CO"	"08031"	"2001"	"2001"	"Unintentional"	"1"	304	561976	54.1
+	"Denver County, CO"	"08031"	"2001"	"2001"	"Suicide"	"2"	74	561976	13.2
+	"Denver County, CO"	"08031"	"2001"	"2001"	"Homicide"	"3"	41	561976	7.3
+	"Denver County, CO"	"08031"	"2001"	"2001"	"Undetermined "	"4"	27	561976	4.8
+	"Denver County, CO"	"08031"	"2002"	"2002"	"Unintentional"	"1"	291	556790	52.3
+	"Denver County, CO"	"08031"	"2002"	"2002"	"Suicide"	"2"	85	556790	15.3
+	"Denver County, CO"	"08031"	"2002"	"2002"	"Homicide"	"3"	48	556790	8.6
+	"Denver County, CO"	"08031"	"2002"	"2002"	"Undetermined "	"4"	20	556790	3.6
+	"Denver County, CO"	"08031"	"2003"	"2003"	"Unintentional"	"1"	304	552588	55.0
+	"Denver County, CO"	"08031"	"2003"	"2003"	"Suicide"	"2"	79	552588	14.3
+	"Denver County, CO"	"08031"	"2003"	"2003"	"Homicide"	"3"	56	552588	10.1
+	"Denver County, CO"	"08031"	"2003"	"2003"	"Undetermined "	"4"	20	552588	3.6
+	"Denver County, CO"	"08031"	"2004"	"2004"	"Unintentional"	"1"	295	550756	53.6
+	"Denver County, CO"	"08031"	"2004"	"2004"	"Suicide"	"2"	94	550756	17.1
+	"Denver County, CO"	"08031"	"2004"	"2004"	"Homicide"	"3"	83	550756	15.1
+	"Denver County, CO"	"08031"	"2004"	"2004"	"Undetermined "	"4"	14	550756	Unreliable
+	"Denver County, CO"	"08031"	"2005"	"2005"	"Unintentional"	"1"	292	551691	52.9
+	"Denver County, CO"	"08031"	"2005"	"2005"	"Suicide"	"2"	98	551691	17.8
+	"Denver County, CO"	"08031"	"2005"	"2005"	"Homicide"	"3"	47	551691	8.5
+	"Denver County, CO"	"08031"	"2005"	"2005"	"Undetermined "	"4"	23	551691	4.2
+	"Denver County, CO"	"08031"	"2006"	"2006"	"Unintentional"	"1"	311	556895	55.8
+	"Denver County, CO"	"08031"	"2006"	"2006"	"Suicide"	"2"	79	556895	14.2
+	"Denver County, CO"	"08031"	"2006"	"2006"	"Homicide"	"3"	57	556895	10.2
+	"Denver County, CO"	"08031"	"2006"	"2006"	"Undetermined "	"4"	35	556895	6.3
+	"Denver County, CO"	"08031"	"2007"	"2007"	"Unintentional"	"1"	343	564395	60.8
+	"Denver County, CO"	"08031"	"2007"	"2007"	"Suicide"	"2"	100	564395	17.7
+	"Denver County, CO"	"08031"	"2007"	"2007"	"Homicide"	"3"	52	564395	9.2
+	"Denver County, CO"	"08031"	"2007"	"2007"	"Undetermined "	"4"	30	564395	5.3
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Unintentional"	"1"	342	575721	59.4
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Suicide"	"2"	96	575721	16.7
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Homicide"	"3"	47	575721	8.2
+	"Denver County, CO"	"08031"	"2008"	"2008"	"Undetermined "	"4"	29	575721	5.0
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Unintentional"	"1"	340	589011	57.7
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Suicide"	"2"	103	589011	17.5
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Homicide"	"3"	44	589011	7.5
+	"Denver County, CO"	"08031"	"2009"	"2009"	"Undetermined "	"4"	15	589011	Unreliable
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Unintentional"	"1"	333	600158	55.5
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Suicide"	"2"	104	600158	17.3
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Homicide"	"3"	37	600158	6.2
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Undetermined "	"4"	12	600158	Unreliable
+	"Denver County, CO"	"08031"	"2011"	"2011"	"Unintentional"	"1"	354	619968	57.1
+	"Denver County, CO"	"08031"	"2011"	"2011"	"Suicide"	"2"	97	619968	15.6
+	"Denver County, CO"	"08031"	"2011"	"2011"	"Homicide"	"3"	44	619968	7.1
+	"Denver County, CO"	"08031"	"2011"	"2011"	"Undetermined "	"4"	20	619968	3.2
+	"Denver County, CO"	"08031"	"2012"	"2012"	"Unintentional"	"1"	333	634265	52.5
+	"Denver County, CO"	"08031"	"2012"	"2012"	"Suicide"	"2"	119	634265	18.8
+	"Denver County, CO"	"08031"	"2012"	"2012"	"Homicide"	"3"	43	634265	6.8
+	"Denver County, CO"	"08031"	"2012"	"2012"	"Undetermined "	"4"	18	634265	Unreliable
+	"Denver County, CO"	"08031"	"2013"	"2013"	"Unintentional"	"1"	315	649495	48.5
+	"Denver County, CO"	"08031"	"2013"	"2013"	"Suicide"	"2"	97	649495	14.9
+	"Denver County, CO"	"08031"	"2013"	"2013"	"Homicide"	"3"	34	649495	5.2
+	"Denver County, CO"	"08031"	"2013"	"2013"	"Undetermined "	"4"	10	649495	Unreliable
+	"Denver County, CO"	"08031"	"2014"	"2014"	"Unintentional"	"1"	348	663862	52.4
+	"Denver County, CO"	"08031"	"2014"	"2014"	"Suicide"	"2"	97	663862	14.6
+	"Denver County, CO"	"08031"	"2014"	"2014"	"Homicide"	"3"	32	663862	4.8
+	"Denver County, CO"	"08031"	"2014"	"2014"	"Undetermined "	"4"	11	663862	Unreliable
+	"Denver County, CO"	"08031"	"2015"	"2015"	"Unintentional"	"1"	349	682545	51.1
+	"Denver County, CO"	"08031"	"2015"	"2015"	"Suicide"	"2"	97	682545	14.2
+	"Denver County, CO"	"08031"	"2015"	"2015"	"Homicide"	"3"	47	682545	6.9
+	"Denver County, CO"	"08031"	"2016"	"2016"	"Unintentional"	"1"	346	693060	49.9
+	"Denver County, CO"	"08031"	"2016"	"2016"	"Suicide"	"2"	120	693060	17.3
+	"Denver County, CO"	"08031"	"2016"	"2016"	"Homicide"	"3"	49	693060	7.1
+	"Denver County, CO"	"08031"	"2016"	"2016"	"Undetermined "	"4"	13	693060	Unreliable
+	"Denver County, CO"	"08031"	"2017"	"2017"	"Unintentional"	"1"	343	704621	48.7
+	"Denver County, CO"	"08031"	"2017"	"2017"	"Suicide"	"2"	132	704621	18.7
+	"Denver County, CO"	"08031"	"2017"	"2017"	"Homicide"	"3"	48	704621	6.8
+	"Denver County, CO"	"08031"	"2017"	"2017"	"Undetermined "	"4"	11	704621	Unreliable
+	"Denver County, CO"	"08031"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	704621	Unreliable
+	"Denver County, CO"	"08031"	"2018"	"2018"	"Unintentional"	"1"	342	716492	47.7
+	"Denver County, CO"	"08031"	"2018"	"2018"	"Suicide"	"2"	161	716492	22.5
+	"Denver County, CO"	"08031"	"2018"	"2018"	"Homicide"	"3"	53	716492	7.4
+	"Douglas County, CO"	"08035"	"1999"	"1999"	"Unintentional"	"1"	31	162866	19.0
+	"Douglas County, CO"	"08035"	"1999"	"1999"	"Suicide"	"2"	10	162866	Unreliable
+	"Douglas County, CO"	"08035"	"2000"	"2000"	"Unintentional"	"1"	31	175766	17.6
+	"Douglas County, CO"	"08035"	"2000"	"2000"	"Suicide"	"2"	15	175766	Unreliable
+	"Douglas County, CO"	"08035"	"2001"	"2001"	"Unintentional"	"1"	39	196783	19.8
+	"Douglas County, CO"	"08035"	"2001"	"2001"	"Suicide"	"2"	23	196783	11.7
+	"Douglas County, CO"	"08035"	"2002"	"2002"	"Unintentional"	"1"	39	208911	18.7
+	"Douglas County, CO"	"08035"	"2002"	"2002"	"Suicide"	"2"	19	208911	Unreliable
+	"Douglas County, CO"	"08035"	"2003"	"2003"	"Unintentional"	"1"	42	220352	19.1
+	"Douglas County, CO"	"08035"	"2003"	"2003"	"Suicide"	"2"	16	220352	Unreliable
+	"Douglas County, CO"	"08035"	"2004"	"2004"	"Unintentional"	"1"	43	232508	18.5
+	"Douglas County, CO"	"08035"	"2004"	"2004"	"Suicide"	"2"	27	232508	11.6
+	"Douglas County, CO"	"08035"	"2005"	"2005"	"Unintentional"	"1"	49	243112	20.2
+	"Douglas County, CO"	"08035"	"2005"	"2005"	"Suicide"	"2"	15	243112	Unreliable
+	"Douglas County, CO"	"08035"	"2006"	"2006"	"Unintentional"	"1"	65	256136	25.4
+	"Douglas County, CO"	"08035"	"2006"	"2006"	"Suicide"	"2"	28	256136	10.9
+	"Douglas County, CO"	"08035"	"2007"	"2007"	"Unintentional"	"1"	45	267177	16.8
+	"Douglas County, CO"	"08035"	"2007"	"2007"	"Suicide"	"2"	31	267177	11.6
+	"Douglas County, CO"	"08035"	"2008"	"2008"	"Unintentional"	"1"	53	275500	19.2
+	"Douglas County, CO"	"08035"	"2008"	"2008"	"Suicide"	"2"	33	275500	12.0
+	"Douglas County, CO"	"08035"	"2009"	"2009"	"Unintentional"	"1"	58	281386	20.6
+	"Douglas County, CO"	"08035"	"2009"	"2009"	"Suicide"	"2"	34	281386	12.1
+	"Douglas County, CO"	"08035"	"2010"	"2010"	"Unintentional"	"1"	50	285465	17.5
+	"Douglas County, CO"	"08035"	"2010"	"2010"	"Suicide"	"2"	33	285465	11.6
+	"Douglas County, CO"	"08035"	"2011"	"2011"	"Unintentional"	"1"	59	292167	20.2
+	"Douglas County, CO"	"08035"	"2011"	"2011"	"Suicide"	"2"	46	292167	15.7
+	"Douglas County, CO"	"08035"	"2012"	"2012"	"Unintentional"	"1"	74	298215	24.8
+	"Douglas County, CO"	"08035"	"2012"	"2012"	"Suicide"	"2"	46	298215	15.4
+	"Douglas County, CO"	"08035"	"2013"	"2013"	"Unintentional"	"1"	83	305963	27.1
+	"Douglas County, CO"	"08035"	"2013"	"2013"	"Suicide"	"2"	61	305963	19.9
+	"Douglas County, CO"	"08035"	"2014"	"2014"	"Unintentional"	"1"	79	314638	25.1
+	"Douglas County, CO"	"08035"	"2014"	"2014"	"Suicide"	"2"	53	314638	16.8
+	"Douglas County, CO"	"08035"	"2015"	"2015"	"Unintentional"	"1"	85	322387	26.4
+	"Douglas County, CO"	"08035"	"2015"	"2015"	"Suicide"	"2"	51	322387	15.8
+	"Douglas County, CO"	"08035"	"2016"	"2016"	"Unintentional"	"1"	120	328632	36.5
+	"Douglas County, CO"	"08035"	"2016"	"2016"	"Suicide"	"2"	59	328632	18.0
+	"Douglas County, CO"	"08035"	"2017"	"2017"	"Unintentional"	"1"	144	335299	42.9
+	"Douglas County, CO"	"08035"	"2017"	"2017"	"Suicide"	"2"	51	335299	15.2
+	"Douglas County, CO"	"08035"	"2018"	"2018"	"Unintentional"	"1"	105	342776	30.6
+	"Douglas County, CO"	"08035"	"2018"	"2018"	"Suicide"	"2"	59	342776	17.2
+	"Eagle County, CO"	"08037"	"1999"	"1999"	"Unintentional"	"1"	18	40443	Unreliable
+	"Eagle County, CO"	"08037"	"2000"	"2000"	"Unintentional"	"1"	13	41659	Unreliable
+	"Eagle County, CO"	"08037"	"2001"	"2001"	"Unintentional"	"1"	15	43238	Unreliable
+	"Eagle County, CO"	"08037"	"2002"	"2002"	"Unintentional"	"1"	20	44227	45.2
+	"Eagle County, CO"	"08037"	"2003"	"2003"	"Unintentional"	"1"	20	44995	44.4
+	"Eagle County, CO"	"08037"	"2004"	"2004"	"Unintentional"	"1"	12	45893	Unreliable
+	"Eagle County, CO"	"08037"	"2005"	"2005"	"Unintentional"	"1"	15	47205	Unreliable
+	"Eagle County, CO"	"08037"	"2006"	"2006"	"Unintentional"	"1"	11	48476	Unreliable
+	"Eagle County, CO"	"08037"	"2007"	"2007"	"Unintentional"	"1"	17	49803	Unreliable
+	"Eagle County, CO"	"08037"	"2008"	"2008"	"Unintentional"	"1"	18	51049	Unreliable
+	"Eagle County, CO"	"08037"	"2009"	"2009"	"Unintentional"	"1"	15	52513	Unreliable
+	"Eagle County, CO"	"08037"	"2012"	"2012"	"Unintentional"	"1"	13	51874	Unreliable
+	"Eagle County, CO"	"08037"	"2013"	"2013"	"Unintentional"	"1"	21	52460	40.0
+	"Eagle County, CO"	"08037"	"2014"	"2014"	"Unintentional"	"1"	19	52921	Unreliable
+	"Eagle County, CO"	"08037"	"2015"	"2015"	"Unintentional"	"1"	15	53605	Unreliable
+	"Eagle County, CO"	"08037"	"2016"	"2016"	"Unintentional"	"1"	11	53989	Unreliable
+	"Eagle County, CO"	"08037"	"2017"	"2017"	"Unintentional"	"1"	18	54772	Unreliable
+	"Eagle County, CO"	"08037"	"2017"	"2017"	"Suicide"	"2"	13	54772	Unreliable
+	"Eagle County, CO"	"08037"	"2018"	"2018"	"Unintentional"	"1"	15	54993	Unreliable
+	"Eagle County, CO"	"08037"	"2018"	"2018"	"Suicide"	"2"	14	54993	Unreliable
+	"Elbert County, CO"	"08039"	"2002"	"2002"	"Unintentional"	"1"	12	21678	Unreliable
+	"Elbert County, CO"	"08039"	"2003"	"2003"	"Unintentional"	"1"	10	21834	Unreliable
+	"Elbert County, CO"	"08039"	"2004"	"2004"	"Unintentional"	"1"	13	21977	Unreliable
+	"Elbert County, CO"	"08039"	"2005"	"2005"	"Unintentional"	"1"	12	22182	Unreliable
+	"Elbert County, CO"	"08039"	"2008"	"2008"	"Unintentional"	"1"	11	22634	Unreliable
+	"Elbert County, CO"	"08039"	"2011"	"2011"	"Unintentional"	"1"	12	23174	Unreliable
+	"Elbert County, CO"	"08039"	"2012"	"2012"	"Unintentional"	"1"	10	23383	Unreliable
+	"Elbert County, CO"	"08039"	"2016"	"2016"	"Unintentional"	"1"	12	25231	Unreliable
+	"Elbert County, CO"	"08039"	"2017"	"2017"	"Unintentional"	"1"	12	25642	Unreliable
+	"El Paso County, CO"	"08041"	"1999"	"1999"	"Unintentional"	"1"	153	509044	30.1
+	"El Paso County, CO"	"08041"	"1999"	"1999"	"Suicide"	"2"	65	509044	12.8
+	"El Paso County, CO"	"08041"	"1999"	"1999"	"Homicide"	"3"	27	509044	5.3
+	"El Paso County, CO"	"08041"	"1999"	"1999"	"Undetermined "	"4"	35	509044	6.9
+	"El Paso County, CO"	"08041"	"2000"	"2000"	"Unintentional"	"1"	148	516929	28.6
+	"El Paso County, CO"	"08041"	"2000"	"2000"	"Suicide"	"2"	74	516929	14.3
+	"El Paso County, CO"	"08041"	"2000"	"2000"	"Homicide"	"3"	23	516929	4.4
+	"El Paso County, CO"	"08041"	"2000"	"2000"	"Undetermined "	"4"	22	516929	4.3
+	"El Paso County, CO"	"08041"	"2001"	"2001"	"Unintentional"	"1"	165	535864	30.8
+	"El Paso County, CO"	"08041"	"2001"	"2001"	"Suicide"	"2"	100	535864	18.7
+	"El Paso County, CO"	"08041"	"2001"	"2001"	"Homicide"	"3"	23	535864	4.3
+	"El Paso County, CO"	"08041"	"2001"	"2001"	"Undetermined "	"4"	18	535864	Unreliable
+	"El Paso County, CO"	"08041"	"2002"	"2002"	"Unintentional"	"1"	172	544145	31.6
+	"El Paso County, CO"	"08041"	"2002"	"2002"	"Suicide"	"2"	88	544145	16.2
+	"El Paso County, CO"	"08041"	"2002"	"2002"	"Homicide"	"3"	34	544145	6.2
+	"El Paso County, CO"	"08041"	"2002"	"2002"	"Undetermined "	"4"	16	544145	Unreliable
+	"El Paso County, CO"	"08041"	"2003"	"2003"	"Unintentional"	"1"	178	547549	32.5
+	"El Paso County, CO"	"08041"	"2003"	"2003"	"Suicide"	"2"	86	547549	15.7
+	"El Paso County, CO"	"08041"	"2003"	"2003"	"Homicide"	"3"	29	547549	5.3
+	"El Paso County, CO"	"08041"	"2003"	"2003"	"Undetermined "	"4"	13	547549	Unreliable
+	"El Paso County, CO"	"08041"	"2004"	"2004"	"Unintentional"	"1"	166	556667	29.8
+	"El Paso County, CO"	"08041"	"2004"	"2004"	"Suicide"	"2"	120	556667	21.6
+	"El Paso County, CO"	"08041"	"2004"	"2004"	"Homicide"	"3"	21	556667	3.8
+	"El Paso County, CO"	"08041"	"2005"	"2005"	"Unintentional"	"1"	222	565800	39.2
+	"El Paso County, CO"	"08041"	"2005"	"2005"	"Suicide"	"2"	106	565800	18.7
+	"El Paso County, CO"	"08041"	"2005"	"2005"	"Homicide"	"3"	17	565800	Unreliable
+	"El Paso County, CO"	"08041"	"2006"	"2006"	"Unintentional"	"1"	183	580251	31.5
+	"El Paso County, CO"	"08041"	"2006"	"2006"	"Suicide"	"2"	69	580251	11.9
+	"El Paso County, CO"	"08041"	"2006"	"2006"	"Homicide"	"3"	19	580251	Unreliable
+	"El Paso County, CO"	"08041"	"2006"	"2006"	"Undetermined "	"4"	17	580251	Unreliable
+	"El Paso County, CO"	"08041"	"2007"	"2007"	"Unintentional"	"1"	222	586783	37.8
+	"El Paso County, CO"	"08041"	"2007"	"2007"	"Suicide"	"2"	98	586783	16.7
+	"El Paso County, CO"	"08041"	"2007"	"2007"	"Homicide"	"3"	28	586783	4.8
+	"El Paso County, CO"	"08041"	"2008"	"2008"	"Unintentional"	"1"	231	597919	38.6
+	"El Paso County, CO"	"08041"	"2008"	"2008"	"Suicide"	"2"	106	597919	17.7
+	"El Paso County, CO"	"08041"	"2008"	"2008"	"Homicide"	"3"	32	597919	5.4
+	"El Paso County, CO"	"08041"	"2008"	"2008"	"Undetermined "	"4"	17	597919	Unreliable
+	"El Paso County, CO"	"08041"	"2009"	"2009"	"Unintentional"	"1"	251	608061	41.3
+	"El Paso County, CO"	"08041"	"2009"	"2009"	"Suicide"	"2"	132	608061	21.7
+	"El Paso County, CO"	"08041"	"2009"	"2009"	"Homicide"	"3"	26	608061	4.3
+	"El Paso County, CO"	"08041"	"2010"	"2010"	"Unintentional"	"1"	289	622263	46.4
+	"El Paso County, CO"	"08041"	"2010"	"2010"	"Suicide"	"2"	114	622263	18.3
+	"El Paso County, CO"	"08041"	"2010"	"2010"	"Homicide"	"3"	30	622263	4.8
+	"El Paso County, CO"	"08041"	"2011"	"2011"	"Unintentional"	"1"	282	636963	44.3
+	"El Paso County, CO"	"08041"	"2011"	"2011"	"Suicide"	"2"	112	636963	17.6
+	"El Paso County, CO"	"08041"	"2011"	"2011"	"Homicide"	"3"	34	636963	5.3
+	"El Paso County, CO"	"08041"	"2012"	"2012"	"Unintentional"	"1"	283	644964	43.9
+	"El Paso County, CO"	"08041"	"2012"	"2012"	"Suicide"	"2"	149	644964	23.1
+	"El Paso County, CO"	"08041"	"2012"	"2012"	"Homicide"	"3"	30	644964	4.7
+	"El Paso County, CO"	"08041"	"2013"	"2013"	"Unintentional"	"1"	303	655044	46.3
+	"El Paso County, CO"	"08041"	"2013"	"2013"	"Suicide"	"2"	151	655044	23.1
+	"El Paso County, CO"	"08041"	"2013"	"2013"	"Homicide"	"3"	42	655044	6.4
+	"El Paso County, CO"	"08041"	"2014"	"2014"	"Unintentional"	"1"	307	663519	46.3
+	"El Paso County, CO"	"08041"	"2014"	"2014"	"Suicide"	"2"	148	663519	22.3
+	"El Paso County, CO"	"08041"	"2014"	"2014"	"Homicide"	"3"	27	663519	4.1
+	"El Paso County, CO"	"08041"	"2015"	"2015"	"Unintentional"	"1"	335	674471	49.7
+	"El Paso County, CO"	"08041"	"2015"	"2015"	"Suicide"	"2"	172	674471	25.5
+	"El Paso County, CO"	"08041"	"2015"	"2015"	"Homicide"	"3"	33	674471	4.9
+	"El Paso County, CO"	"08041"	"2016"	"2016"	"Unintentional"	"1"	384	688284	55.8
+	"El Paso County, CO"	"08041"	"2016"	"2016"	"Suicide"	"2"	194	688284	28.2
+	"El Paso County, CO"	"08041"	"2016"	"2016"	"Homicide"	"3"	41	688284	6.0
+	"El Paso County, CO"	"08041"	"2017"	"2017"	"Unintentional"	"1"	448	699232	64.1
+	"El Paso County, CO"	"08041"	"2017"	"2017"	"Suicide"	"2"	178	699232	25.5
+	"El Paso County, CO"	"08041"	"2017"	"2017"	"Homicide"	"3"	46	699232	6.6
+	"El Paso County, CO"	"08041"	"2018"	"2018"	"Unintentional"	"1"	489	713856	68.5
+	"El Paso County, CO"	"08041"	"2018"	"2018"	"Suicide"	"2"	181	713856	25.4
+	"El Paso County, CO"	"08041"	"2018"	"2018"	"Homicide"	"3"	60	713856	8.4
+	"Fremont County, CO"	"08043"	"1999"	"1999"	"Unintentional"	"1"	22	45655	48.2
+	"Fremont County, CO"	"08043"	"2000"	"2000"	"Unintentional"	"1"	26	46145	56.3
+	"Fremont County, CO"	"08043"	"2001"	"2001"	"Unintentional"	"1"	28	46633	60.0
+	"Fremont County, CO"	"08043"	"2001"	"2001"	"Suicide"	"2"	10	46633	Unreliable
+	"Fremont County, CO"	"08043"	"2002"	"2002"	"Unintentional"	"1"	28	47019	59.6
+	"Fremont County, CO"	"08043"	"2002"	"2002"	"Suicide"	"2"	15	47019	Unreliable
+	"Fremont County, CO"	"08043"	"2003"	"2003"	"Unintentional"	"1"	21	46901	44.8
+	"Fremont County, CO"	"08043"	"2003"	"2003"	"Suicide"	"2"	14	46901	Unreliable
+	"Fremont County, CO"	"08043"	"2004"	"2004"	"Unintentional"	"1"	18	46605	Unreliable
+	"Fremont County, CO"	"08043"	"2004"	"2004"	"Suicide"	"2"	12	46605	Unreliable
+	"Fremont County, CO"	"08043"	"2005"	"2005"	"Unintentional"	"1"	33	46641	70.8
+	"Fremont County, CO"	"08043"	"2005"	"2005"	"Suicide"	"2"	20	46641	42.9
+	"Fremont County, CO"	"08043"	"2006"	"2006"	"Unintentional"	"1"	26	46873	55.5
+	"Fremont County, CO"	"08043"	"2006"	"2006"	"Suicide"	"2"	14	46873	Unreliable
+	"Fremont County, CO"	"08043"	"2007"	"2007"	"Unintentional"	"1"	20	46959	42.6
+	"Fremont County, CO"	"08043"	"2007"	"2007"	"Suicide"	"2"	12	46959	Unreliable
+	"Fremont County, CO"	"08043"	"2008"	"2008"	"Unintentional"	"1"	19	47166	Unreliable
+	"Fremont County, CO"	"08043"	"2008"	"2008"	"Suicide"	"2"	20	47166	42.4
+	"Fremont County, CO"	"08043"	"2009"	"2009"	"Unintentional"	"1"	37	46871	78.9
+	"Fremont County, CO"	"08043"	"2009"	"2009"	"Suicide"	"2"	17	46871	Unreliable
+	"Fremont County, CO"	"08043"	"2010"	"2010"	"Unintentional"	"1"	35	46824	74.7
+	"Fremont County, CO"	"08043"	"2010"	"2010"	"Suicide"	"2"	12	46824	Unreliable
+	"Fremont County, CO"	"08043"	"2011"	"2011"	"Unintentional"	"1"	30	47347	63.4
+	"Fremont County, CO"	"08043"	"2012"	"2012"	"Unintentional"	"1"	29	46788	62.0
+	"Fremont County, CO"	"08043"	"2013"	"2013"	"Unintentional"	"1"	23	46451	49.5
+	"Fremont County, CO"	"08043"	"2013"	"2013"	"Suicide"	"2"	21	46451	45.2
+	"Fremont County, CO"	"08043"	"2014"	"2014"	"Unintentional"	"1"	36	46502	77.4
+	"Fremont County, CO"	"08043"	"2014"	"2014"	"Suicide"	"2"	13	46502	Unreliable
+	"Fremont County, CO"	"08043"	"2015"	"2015"	"Unintentional"	"1"	32	46692	68.5
+	"Fremont County, CO"	"08043"	"2015"	"2015"	"Suicide"	"2"	12	46692	Unreliable
+	"Fremont County, CO"	"08043"	"2016"	"2016"	"Unintentional"	"1"	41	47446	86.4
+	"Fremont County, CO"	"08043"	"2016"	"2016"	"Suicide"	"2"	17	47446	Unreliable
+	"Fremont County, CO"	"08043"	"2017"	"2017"	"Unintentional"	"1"	28	47559	58.9
+	"Fremont County, CO"	"08043"	"2017"	"2017"	"Suicide"	"2"	16	47559	Unreliable
+	"Fremont County, CO"	"08043"	"2018"	"2018"	"Unintentional"	"1"	26	48021	54.1
+	"Fremont County, CO"	"08043"	"2018"	"2018"	"Suicide"	"2"	16	48021	Unreliable
+	"Garfield County, CO"	"08045"	"1999"	"1999"	"Unintentional"	"1"	21	42611	49.3
+	"Garfield County, CO"	"08045"	"2000"	"2000"	"Unintentional"	"1"	15	43791	Unreliable
+	"Garfield County, CO"	"08045"	"2001"	"2001"	"Unintentional"	"1"	25	45636	54.8
+	"Garfield County, CO"	"08045"	"2002"	"2002"	"Unintentional"	"1"	24	46925	51.1
+	"Garfield County, CO"	"08045"	"2002"	"2002"	"Suicide"	"2"	12	46925	Unreliable
+	"Garfield County, CO"	"08045"	"2003"	"2003"	"Unintentional"	"1"	26	47622	54.6
+	"Garfield County, CO"	"08045"	"2004"	"2004"	"Unintentional"	"1"	15	48193	Unreliable
+	"Garfield County, CO"	"08045"	"2005"	"2005"	"Unintentional"	"1"	29	49579	58.5
+	"Garfield County, CO"	"08045"	"2006"	"2006"	"Unintentional"	"1"	33	51594	64.0
+	"Garfield County, CO"	"08045"	"2007"	"2007"	"Unintentional"	"1"	21	53534	39.2
+	"Garfield County, CO"	"08045"	"2008"	"2008"	"Unintentional"	"1"	21	55449	37.9
+	"Garfield County, CO"	"08045"	"2008"	"2008"	"Suicide"	"2"	11	55449	Unreliable
+	"Garfield County, CO"	"08045"	"2009"	"2009"	"Unintentional"	"1"	35	57089	61.3
+	"Garfield County, CO"	"08045"	"2009"	"2009"	"Suicide"	"2"	13	57089	Unreliable
+	"Garfield County, CO"	"08045"	"2010"	"2010"	"Unintentional"	"1"	31	56389	55.0
+	"Garfield County, CO"	"08045"	"2011"	"2011"	"Unintentional"	"1"	37	56270	65.8
+	"Garfield County, CO"	"08045"	"2011"	"2011"	"Suicide"	"2"	12	56270	Unreliable
+	"Garfield County, CO"	"08045"	"2012"	"2012"	"Unintentional"	"1"	23	56953	40.4
+	"Garfield County, CO"	"08045"	"2012"	"2012"	"Suicide"	"2"	10	56953	Unreliable
+	"Garfield County, CO"	"08045"	"2013"	"2013"	"Unintentional"	"1"	23	57302	40.1
+	"Garfield County, CO"	"08045"	"2013"	"2013"	"Suicide"	"2"	14	57302	Unreliable
+	"Garfield County, CO"	"08045"	"2014"	"2014"	"Unintentional"	"1"	14	57461	Unreliable
+	"Garfield County, CO"	"08045"	"2014"	"2014"	"Suicide"	"2"	18	57461	Unreliable
+	"Garfield County, CO"	"08045"	"2015"	"2015"	"Unintentional"	"1"	17	58095	Unreliable
+	"Garfield County, CO"	"08045"	"2016"	"2016"	"Unintentional"	"1"	38	58887	64.5
+	"Garfield County, CO"	"08045"	"2016"	"2016"	"Suicide"	"2"	13	58887	Unreliable
+	"Garfield County, CO"	"08045"	"2017"	"2017"	"Unintentional"	"1"	38	59118	64.3
+	"Garfield County, CO"	"08045"	"2017"	"2017"	"Suicide"	"2"	11	59118	Unreliable
+	"Garfield County, CO"	"08045"	"2018"	"2018"	"Unintentional"	"1"	26	59770	43.5
+	"Garfield County, CO"	"08045"	"2018"	"2018"	"Suicide"	"2"	16	59770	Unreliable
+	"Grand County, CO"	"08049"	"2006"	"2006"	"Unintentional"	"1"	11	14003	Unreliable
+	"Grand County, CO"	"08049"	"2015"	"2015"	"Unintentional"	"1"	12	14615	Unreliable
+	"Grand County, CO"	"08049"	"2017"	"2017"	"Unintentional"	"1"	10	15321	Unreliable
+	"Gunnison County, CO"	"08051"	"2007"	"2007"	"Unintentional"	"1"	11	15043	Unreliable
+	"Gunnison County, CO"	"08051"	"2016"	"2016"	"Suicide"	"2"	10	16408	Unreliable
+	"Huerfano County, CO"	"08055"	"2003"	"2003"	"Unintentional"	"1"	11	7428	Unreliable
+	"Huerfano County, CO"	"08055"	"2016"	"2016"	"Unintentional"	"1"	10	6677	Unreliable
+	"Jefferson County, CO"	"08059"	"1999"	"1999"	"Unintentional"	"1"	129	523325	24.7
+	"Jefferson County, CO"	"08059"	"1999"	"1999"	"Suicide"	"2"	92	523325	17.6
+	"Jefferson County, CO"	"08059"	"1999"	"1999"	"Homicide"	"3"	24	523325	4.6
+	"Jefferson County, CO"	"08059"	"1999"	"1999"	"Undetermined "	"4"	11	523325	Unreliable
+	"Jefferson County, CO"	"08059"	"2000"	"2000"	"Unintentional"	"1"	160	527056	30.4
+	"Jefferson County, CO"	"08059"	"2000"	"2000"	"Suicide"	"2"	65	527056	12.3
+	"Jefferson County, CO"	"08059"	"2000"	"2000"	"Homicide"	"3"	11	527056	Unreliable
+	"Jefferson County, CO"	"08059"	"2001"	"2001"	"Unintentional"	"1"	150	530452	28.3
+	"Jefferson County, CO"	"08059"	"2001"	"2001"	"Suicide"	"2"	90	530452	17.0
+	"Jefferson County, CO"	"08059"	"2001"	"2001"	"Homicide"	"3"	10	530452	Unreliable
+	"Jefferson County, CO"	"08059"	"2001"	"2001"	"Undetermined "	"4"	12	530452	Unreliable
+	"Jefferson County, CO"	"08059"	"2002"	"2002"	"Unintentional"	"1"	160	529486	30.2
+	"Jefferson County, CO"	"08059"	"2002"	"2002"	"Suicide"	"2"	76	529486	14.4
+	"Jefferson County, CO"	"08059"	"2002"	"2002"	"Homicide"	"3"	12	529486	Unreliable
+	"Jefferson County, CO"	"08059"	"2002"	"2002"	"Undetermined "	"4"	12	529486	Unreliable
+	"Jefferson County, CO"	"08059"	"2003"	"2003"	"Unintentional"	"1"	155	524940	29.5
+	"Jefferson County, CO"	"08059"	"2003"	"2003"	"Suicide"	"2"	96	524940	18.3
+	"Jefferson County, CO"	"08059"	"2003"	"2003"	"Homicide"	"3"	15	524940	Unreliable
+	"Jefferson County, CO"	"08059"	"2003"	"2003"	"Undetermined "	"4"	12	524940	Unreliable
+	"Jefferson County, CO"	"08059"	"2004"	"2004"	"Unintentional"	"1"	176	520900	33.8
+	"Jefferson County, CO"	"08059"	"2004"	"2004"	"Suicide"	"2"	94	520900	18.0
+	"Jefferson County, CO"	"08059"	"2004"	"2004"	"Homicide"	"3"	15	520900	Unreliable
+	"Jefferson County, CO"	"08059"	"2004"	"2004"	"Undetermined "	"4"	13	520900	Unreliable
+	"Jefferson County, CO"	"08059"	"2005"	"2005"	"Unintentional"	"1"	189	519675	36.4
+	"Jefferson County, CO"	"08059"	"2005"	"2005"	"Suicide"	"2"	95	519675	18.3
+	"Jefferson County, CO"	"08059"	"2005"	"2005"	"Homicide"	"3"	10	519675	Unreliable
+	"Jefferson County, CO"	"08059"	"2005"	"2005"	"Undetermined "	"4"	15	519675	Unreliable
+	"Jefferson County, CO"	"08059"	"2006"	"2006"	"Unintentional"	"1"	156	521662	29.9
+	"Jefferson County, CO"	"08059"	"2006"	"2006"	"Suicide"	"2"	93	521662	17.8
+	"Jefferson County, CO"	"08059"	"2006"	"2006"	"Undetermined "	"4"	12	521662	Unreliable
+	"Jefferson County, CO"	"08059"	"2007"	"2007"	"Unintentional"	"1"	192	524911	36.6
+	"Jefferson County, CO"	"08059"	"2007"	"2007"	"Suicide"	"2"	96	524911	18.3
+	"Jefferson County, CO"	"08059"	"2007"	"2007"	"Undetermined "	"4"	13	524911	Unreliable
+	"Jefferson County, CO"	"08059"	"2008"	"2008"	"Unintentional"	"1"	225	529003	42.5
+	"Jefferson County, CO"	"08059"	"2008"	"2008"	"Suicide"	"2"	89	529003	16.8
+	"Jefferson County, CO"	"08059"	"2008"	"2008"	"Homicide"	"3"	10	529003	Unreliable
+	"Jefferson County, CO"	"08059"	"2009"	"2009"	"Unintentional"	"1"	213	531961	40.0
+	"Jefferson County, CO"	"08059"	"2009"	"2009"	"Suicide"	"2"	97	531961	18.2
+	"Jefferson County, CO"	"08059"	"2009"	"2009"	"Homicide"	"3"	17	531961	Unreliable
+	"Jefferson County, CO"	"08059"	"2009"	"2009"	"Undetermined "	"4"	11	531961	Unreliable
+	"Jefferson County, CO"	"08059"	"2010"	"2010"	"Unintentional"	"1"	203	534543	38.0
+	"Jefferson County, CO"	"08059"	"2010"	"2010"	"Suicide"	"2"	113	534543	21.1
+	"Jefferson County, CO"	"08059"	"2011"	"2011"	"Unintentional"	"1"	277	539884	51.3
+	"Jefferson County, CO"	"08059"	"2011"	"2011"	"Suicide"	"2"	101	539884	18.7
+	"Jefferson County, CO"	"08059"	"2011"	"2011"	"Homicide"	"3"	11	539884	Unreliable
+	"Jefferson County, CO"	"08059"	"2012"	"2012"	"Unintentional"	"1"	280	545358	51.3
+	"Jefferson County, CO"	"08059"	"2012"	"2012"	"Suicide"	"2"	127	545358	23.3
+	"Jefferson County, CO"	"08059"	"2012"	"2012"	"Homicide"	"3"	11	545358	Unreliable
+	"Jefferson County, CO"	"08059"	"2013"	"2013"	"Unintentional"	"1"	277	551798	50.2
+	"Jefferson County, CO"	"08059"	"2013"	"2013"	"Suicide"	"2"	92	551798	16.7
+	"Jefferson County, CO"	"08059"	"2013"	"2013"	"Homicide"	"3"	16	551798	Unreliable
+	"Jefferson County, CO"	"08059"	"2013"	"2013"	"Undetermined "	"4"	11	551798	Unreliable
+	"Jefferson County, CO"	"08059"	"2014"	"2014"	"Unintentional"	"1"	278	558503	49.8
+	"Jefferson County, CO"	"08059"	"2014"	"2014"	"Suicide"	"2"	105	558503	18.8
+	"Jefferson County, CO"	"08059"	"2014"	"2014"	"Homicide"	"3"	12	558503	Unreliable
+	"Jefferson County, CO"	"08059"	"2014"	"2014"	"Undetermined "	"4"	12	558503	Unreliable
+	"Jefferson County, CO"	"08059"	"2015"	"2015"	"Unintentional"	"1"	335	565524	59.2
+	"Jefferson County, CO"	"08059"	"2015"	"2015"	"Suicide"	"2"	116	565524	20.5
+	"Jefferson County, CO"	"08059"	"2016"	"2016"	"Unintentional"	"1"	310	571837	54.2
+	"Jefferson County, CO"	"08059"	"2016"	"2016"	"Suicide"	"2"	103	571837	18.0
+	"Jefferson County, CO"	"08059"	"2016"	"2016"	"Homicide"	"3"	15	571837	Unreliable
+	"Jefferson County, CO"	"08059"	"2017"	"2017"	"Unintentional"	"1"	316	574613	55.0
+	"Jefferson County, CO"	"08059"	"2017"	"2017"	"Suicide"	"2"	108	574613	18.8
+	"Jefferson County, CO"	"08059"	"2017"	"2017"	"Homicide"	"3"	18	574613	Unreliable
+	"Jefferson County, CO"	"08059"	"2018"	"2018"	"Unintentional"	"1"	301	580233	51.9
+	"Jefferson County, CO"	"08059"	"2018"	"2018"	"Suicide"	"2"	117	580233	20.2
+	"Jefferson County, CO"	"08059"	"2018"	"2018"	"Homicide"	"3"	13	580233	Unreliable
+	"Kit Carson County, CO"	"08063"	"2006"	"2006"	"Unintentional"	"1"	10	8011	Unreliable
+	"La Plata County, CO"	"08067"	"1999"	"1999"	"Unintentional"	"1"	25	43049	58.1
+	"La Plata County, CO"	"08067"	"2000"	"2000"	"Unintentional"	"1"	17	43941	Unreliable
+	"La Plata County, CO"	"08067"	"2001"	"2001"	"Unintentional"	"1"	18	45044	Unreliable
+	"La Plata County, CO"	"08067"	"2001"	"2001"	"Suicide"	"2"	10	45044	Unreliable
+	"La Plata County, CO"	"08067"	"2002"	"2002"	"Unintentional"	"1"	27	45869	58.9
+	"La Plata County, CO"	"08067"	"2003"	"2003"	"Unintentional"	"1"	27	46121	58.5
+	"La Plata County, CO"	"08067"	"2003"	"2003"	"Suicide"	"2"	13	46121	Unreliable
+	"La Plata County, CO"	"08067"	"2004"	"2004"	"Unintentional"	"1"	14	46728	Unreliable
+	"La Plata County, CO"	"08067"	"2005"	"2005"	"Unintentional"	"1"	18	47575	Unreliable
+	"La Plata County, CO"	"08067"	"2006"	"2006"	"Unintentional"	"1"	26	48574	53.5
+	"La Plata County, CO"	"08067"	"2007"	"2007"	"Unintentional"	"1"	35	49343	70.9
+	"La Plata County, CO"	"08067"	"2008"	"2008"	"Unintentional"	"1"	25	50291	49.7
+	"La Plata County, CO"	"08067"	"2009"	"2009"	"Unintentional"	"1"	30	51105	58.7
+	"La Plata County, CO"	"08067"	"2010"	"2010"	"Unintentional"	"1"	15	51334	Unreliable
+	"La Plata County, CO"	"08067"	"2010"	"2010"	"Suicide"	"2"	10	51334	Unreliable
+	"La Plata County, CO"	"08067"	"2011"	"2011"	"Unintentional"	"1"	25	51917	48.2
+	"La Plata County, CO"	"08067"	"2012"	"2012"	"Unintentional"	"1"	32	52401	61.1
+	"La Plata County, CO"	"08067"	"2012"	"2012"	"Suicide"	"2"	16	52401	Unreliable
+	"La Plata County, CO"	"08067"	"2013"	"2013"	"Unintentional"	"1"	30	53284	56.3
+	"La Plata County, CO"	"08067"	"2013"	"2013"	"Suicide"	"2"	10	53284	Unreliable
+	"La Plata County, CO"	"08067"	"2014"	"2014"	"Unintentional"	"1"	26	53989	48.2
+	"La Plata County, CO"	"08067"	"2015"	"2015"	"Unintentional"	"1"	33	54688	60.3
+	"La Plata County, CO"	"08067"	"2016"	"2016"	"Unintentional"	"1"	34	55623	61.1
+	"La Plata County, CO"	"08067"	"2016"	"2016"	"Suicide"	"2"	13	55623	Unreliable
+	"La Plata County, CO"	"08067"	"2017"	"2017"	"Unintentional"	"1"	29	55589	52.2
+	"La Plata County, CO"	"08067"	"2017"	"2017"	"Suicide"	"2"	18	55589	Unreliable
+	"La Plata County, CO"	"08067"	"2018"	"2018"	"Unintentional"	"1"	24	56310	42.6
+	"La Plata County, CO"	"08067"	"2018"	"2018"	"Suicide"	"2"	14	56310	Unreliable
+	"Larimer County, CO"	"08069"	"1999"	"1999"	"Unintentional"	"1"	76	246884	30.8
+	"Larimer County, CO"	"08069"	"1999"	"1999"	"Suicide"	"2"	28	246884	11.3
+	"Larimer County, CO"	"08069"	"2000"	"2000"	"Unintentional"	"1"	88	251494	35.0
+	"Larimer County, CO"	"08069"	"2000"	"2000"	"Suicide"	"2"	37	251494	14.7
+	"Larimer County, CO"	"08069"	"2001"	"2001"	"Unintentional"	"1"	69	260541	26.5
+	"Larimer County, CO"	"08069"	"2001"	"2001"	"Suicide"	"2"	44	260541	16.9
+	"Larimer County, CO"	"08069"	"2002"	"2002"	"Unintentional"	"1"	86	265372	32.4
+	"Larimer County, CO"	"08069"	"2002"	"2002"	"Suicide"	"2"	32	265372	12.1
+	"Larimer County, CO"	"08069"	"2003"	"2003"	"Unintentional"	"1"	96	268448	35.8
+	"Larimer County, CO"	"08069"	"2003"	"2003"	"Suicide"	"2"	45	268448	16.8
+	"Larimer County, CO"	"08069"	"2004"	"2004"	"Unintentional"	"1"	97	271510	35.7
+	"Larimer County, CO"	"08069"	"2004"	"2004"	"Suicide"	"2"	33	271510	12.2
+	"Larimer County, CO"	"08069"	"2005"	"2005"	"Unintentional"	"1"	96	275116	34.9
+	"Larimer County, CO"	"08069"	"2005"	"2005"	"Suicide"	"2"	52	275116	18.9
+	"Larimer County, CO"	"08069"	"2006"	"2006"	"Unintentional"	"1"	99	280713	35.3
+	"Larimer County, CO"	"08069"	"2006"	"2006"	"Suicide"	"2"	48	280713	17.1
+	"Larimer County, CO"	"08069"	"2007"	"2007"	"Unintentional"	"1"	103	286112	36.0
+	"Larimer County, CO"	"08069"	"2007"	"2007"	"Suicide"	"2"	35	286112	12.2
+	"Larimer County, CO"	"08069"	"2008"	"2008"	"Unintentional"	"1"	103	291650	35.3
+	"Larimer County, CO"	"08069"	"2008"	"2008"	"Suicide"	"2"	37	291650	12.7
+	"Larimer County, CO"	"08069"	"2009"	"2009"	"Unintentional"	"1"	95	296696	32.0
+	"Larimer County, CO"	"08069"	"2009"	"2009"	"Suicide"	"2"	56	296696	18.9
+	"Larimer County, CO"	"08069"	"2010"	"2010"	"Unintentional"	"1"	100	299630	33.4
+	"Larimer County, CO"	"08069"	"2010"	"2010"	"Suicide"	"2"	45	299630	15.0
+	"Larimer County, CO"	"08069"	"2011"	"2011"	"Unintentional"	"1"	120	305525	39.3
+	"Larimer County, CO"	"08069"	"2011"	"2011"	"Suicide"	"2"	54	305525	17.7
+	"Larimer County, CO"	"08069"	"2012"	"2012"	"Unintentional"	"1"	124	310487	39.9
+	"Larimer County, CO"	"08069"	"2012"	"2012"	"Suicide"	"2"	69	310487	22.2
+	"Larimer County, CO"	"08069"	"2013"	"2013"	"Unintentional"	"1"	131	315988	41.5
+	"Larimer County, CO"	"08069"	"2013"	"2013"	"Suicide"	"2"	56	315988	17.7
+	"Larimer County, CO"	"08069"	"2014"	"2014"	"Unintentional"	"1"	135	324122	41.7
+	"Larimer County, CO"	"08069"	"2014"	"2014"	"Suicide"	"2"	81	324122	25.0
+	"Larimer County, CO"	"08069"	"2015"	"2015"	"Unintentional"	"1"	160	333577	48.0
+	"Larimer County, CO"	"08069"	"2015"	"2015"	"Suicide"	"2"	75	333577	22.5
+	"Larimer County, CO"	"08069"	"2016"	"2016"	"Unintentional"	"1"	149	339993	43.8
+	"Larimer County, CO"	"08069"	"2016"	"2016"	"Suicide"	"2"	73	339993	21.5
+	"Larimer County, CO"	"08069"	"2017"	"2017"	"Unintentional"	"1"	161	343976	46.8
+	"Larimer County, CO"	"08069"	"2017"	"2017"	"Suicide"	"2"	73	343976	21.2
+	"Larimer County, CO"	"08069"	"2018"	"2018"	"Unintentional"	"1"	161	350518	45.9
+	"Larimer County, CO"	"08069"	"2018"	"2018"	"Suicide"	"2"	82	350518	23.4
+	"Larimer County, CO"	"08069"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	350518	Unreliable
+	"Las Animas County, CO"	"08071"	"2000"	"2000"	"Unintentional"	"1"	10	15207	Unreliable
+	"Las Animas County, CO"	"08071"	"2003"	"2003"	"Unintentional"	"1"	10	15706	Unreliable
+	"Las Animas County, CO"	"08071"	"2004"	"2004"	"Unintentional"	"1"	10	15573	Unreliable
+	"Las Animas County, CO"	"08071"	"2005"	"2005"	"Unintentional"	"1"	11	15582	Unreliable
+	"Las Animas County, CO"	"08071"	"2007"	"2007"	"Unintentional"	"1"	16	15734	Unreliable
+	"Las Animas County, CO"	"08071"	"2008"	"2008"	"Unintentional"	"1"	15	15770	Unreliable
+	"Las Animas County, CO"	"08071"	"2010"	"2010"	"Unintentional"	"1"	16	15507	Unreliable
+	"Las Animas County, CO"	"08071"	"2011"	"2011"	"Unintentional"	"1"	13	15037	Unreliable
+	"Las Animas County, CO"	"08071"	"2012"	"2012"	"Unintentional"	"1"	16	14945	Unreliable
+	"Las Animas County, CO"	"08071"	"2013"	"2013"	"Unintentional"	"1"	19	14446	Unreliable
+	"Las Animas County, CO"	"08071"	"2014"	"2014"	"Unintentional"	"1"	12	14052	Unreliable
+	"Las Animas County, CO"	"08071"	"2015"	"2015"	"Unintentional"	"1"	21	14058	149.4
+	"Las Animas County, CO"	"08071"	"2016"	"2016"	"Unintentional"	"1"	20	14103	141.8
+	"Las Animas County, CO"	"08071"	"2017"	"2017"	"Unintentional"	"1"	12	14238	Unreliable
+	"Las Animas County, CO"	"08071"	"2018"	"2018"	"Unintentional"	"1"	14	14503	Unreliable
+	"Logan County, CO"	"08075"	"1999"	"1999"	"Unintentional"	"1"	13	20076	Unreliable
+	"Logan County, CO"	"08075"	"2002"	"2002"	"Unintentional"	"1"	11	21548	Unreliable
+	"Logan County, CO"	"08075"	"2003"	"2003"	"Unintentional"	"1"	12	21825	Unreliable
+	"Logan County, CO"	"08075"	"2004"	"2004"	"Unintentional"	"1"	12	21795	Unreliable
+	"Logan County, CO"	"08075"	"2005"	"2005"	"Unintentional"	"1"	18	21694	Unreliable
+	"Logan County, CO"	"08075"	"2006"	"2006"	"Unintentional"	"1"	12	21911	Unreliable
+	"Logan County, CO"	"08075"	"2007"	"2007"	"Unintentional"	"1"	10	22163	Unreliable
+	"Logan County, CO"	"08075"	"2010"	"2010"	"Unintentional"	"1"	10	22709	Unreliable
+	"Logan County, CO"	"08075"	"2013"	"2013"	"Unintentional"	"1"	12	22450	Unreliable
+	"Logan County, CO"	"08075"	"2014"	"2014"	"Unintentional"	"1"	16	22524	Unreliable
+	"Logan County, CO"	"08075"	"2016"	"2016"	"Unintentional"	"1"	21	21919	95.8
+	"Logan County, CO"	"08075"	"2018"	"2018"	"Unintentional"	"1"	16	21528	Unreliable
+	"Mesa County, CO"	"08077"	"1999"	"1999"	"Unintentional"	"1"	56	114827	48.8
+	"Mesa County, CO"	"08077"	"1999"	"1999"	"Suicide"	"2"	24	114827	20.9
+	"Mesa County, CO"	"08077"	"2000"	"2000"	"Unintentional"	"1"	52	116255	44.7
+	"Mesa County, CO"	"08077"	"2000"	"2000"	"Suicide"	"2"	30	116255	25.8
+	"Mesa County, CO"	"08077"	"2001"	"2001"	"Unintentional"	"1"	59	119496	49.4
+	"Mesa County, CO"	"08077"	"2001"	"2001"	"Suicide"	"2"	18	119496	Unreliable
+	"Mesa County, CO"	"08077"	"2002"	"2002"	"Unintentional"	"1"	49	122440	40.0
+	"Mesa County, CO"	"08077"	"2002"	"2002"	"Suicide"	"2"	30	122440	24.5
+	"Mesa County, CO"	"08077"	"2003"	"2003"	"Unintentional"	"1"	37	124994	29.6
+	"Mesa County, CO"	"08077"	"2003"	"2003"	"Suicide"	"2"	26	124994	20.8
+	"Mesa County, CO"	"08077"	"2004"	"2004"	"Unintentional"	"1"	57	127678	44.6
+	"Mesa County, CO"	"08077"	"2004"	"2004"	"Suicide"	"2"	29	127678	22.7
+	"Mesa County, CO"	"08077"	"2005"	"2005"	"Unintentional"	"1"	70	130194	53.8
+	"Mesa County, CO"	"08077"	"2005"	"2005"	"Suicide"	"2"	27	130194	20.7
+	"Mesa County, CO"	"08077"	"2006"	"2006"	"Unintentional"	"1"	69	134665	51.2
+	"Mesa County, CO"	"08077"	"2006"	"2006"	"Suicide"	"2"	23	134665	17.1
+	"Mesa County, CO"	"08077"	"2007"	"2007"	"Unintentional"	"1"	64	139434	45.9
+	"Mesa County, CO"	"08077"	"2007"	"2007"	"Suicide"	"2"	41	139434	29.4
+	"Mesa County, CO"	"08077"	"2008"	"2008"	"Unintentional"	"1"	61	143155	42.6
+	"Mesa County, CO"	"08077"	"2008"	"2008"	"Suicide"	"2"	35	143155	24.4
+	"Mesa County, CO"	"08077"	"2008"	"2008"	"Undetermined "	"4"	11	143155	Unreliable
+	"Mesa County, CO"	"08077"	"2009"	"2009"	"Unintentional"	"1"	83	147851	56.1
+	"Mesa County, CO"	"08077"	"2009"	"2009"	"Suicide"	"2"	32	147851	21.6
+	"Mesa County, CO"	"08077"	"2010"	"2010"	"Unintentional"	"1"	74	146723	50.4
+	"Mesa County, CO"	"08077"	"2010"	"2010"	"Suicide"	"2"	30	146723	20.4
+	"Mesa County, CO"	"08077"	"2011"	"2011"	"Unintentional"	"1"	75	147083	51.0
+	"Mesa County, CO"	"08077"	"2011"	"2011"	"Suicide"	"2"	50	147083	34.0
+	"Mesa County, CO"	"08077"	"2012"	"2012"	"Unintentional"	"1"	78	147848	52.8
+	"Mesa County, CO"	"08077"	"2012"	"2012"	"Suicide"	"2"	52	147848	35.2
+	"Mesa County, CO"	"08077"	"2013"	"2013"	"Unintentional"	"1"	80	147554	54.2
+	"Mesa County, CO"	"08077"	"2013"	"2013"	"Suicide"	"2"	28	147554	19.0
+	"Mesa County, CO"	"08077"	"2014"	"2014"	"Unintentional"	"1"	78	148255	52.6
+	"Mesa County, CO"	"08077"	"2014"	"2014"	"Suicide"	"2"	35	148255	23.6
+	"Mesa County, CO"	"08077"	"2015"	"2015"	"Unintentional"	"1"	117	148513	78.8
+	"Mesa County, CO"	"08077"	"2015"	"2015"	"Suicide"	"2"	37	148513	24.9
+	"Mesa County, CO"	"08077"	"2016"	"2016"	"Unintentional"	"1"	101	150083	67.3
+	"Mesa County, CO"	"08077"	"2016"	"2016"	"Suicide"	"2"	51	150083	34.0
+	"Mesa County, CO"	"08077"	"2016"	"2016"	"Homicide"	"3"	11	150083	Unreliable
+	"Mesa County, CO"	"08077"	"2017"	"2017"	"Unintentional"	"1"	102	151616	67.3
+	"Mesa County, CO"	"08077"	"2017"	"2017"	"Suicide"	"2"	47	151616	31.0
+	"Mesa County, CO"	"08077"	"2018"	"2018"	"Unintentional"	"1"	106	153207	69.2
+	"Mesa County, CO"	"08077"	"2018"	"2018"	"Suicide"	"2"	55	153207	35.9
+	"Moffat County, CO"	"08081"	"1999"	"1999"	"Unintentional"	"1"	10	13178	Unreliable
+	"Moffat County, CO"	"08081"	"2000"	"2000"	"Unintentional"	"1"	10	13184	Unreliable
+	"Moffat County, CO"	"08081"	"2003"	"2003"	"Unintentional"	"1"	11	13106	Unreliable
+	"Moffat County, CO"	"08081"	"2006"	"2006"	"Unintentional"	"1"	10	13115	Unreliable
+	"Moffat County, CO"	"08081"	"2009"	"2009"	"Unintentional"	"1"	11	13728	Unreliable
+	"Moffat County, CO"	"08081"	"2012"	"2012"	"Unintentional"	"1"	11	13200	Unreliable
+	"Moffat County, CO"	"08081"	"2016"	"2016"	"Unintentional"	"1"	15	13109	Unreliable
+	"Moffat County, CO"	"08081"	"2017"	"2017"	"Unintentional"	"1"	11	13131	Unreliable
+	"Montezuma County, CO"	"08083"	"1999"	"1999"	"Unintentional"	"1"	18	23601	Unreliable
+	"Montezuma County, CO"	"08083"	"2000"	"2000"	"Unintentional"	"1"	24	23830	100.7
+	"Montezuma County, CO"	"08083"	"2001"	"2001"	"Unintentional"	"1"	27	23692	114.0
+	"Montezuma County, CO"	"08083"	"2001"	"2001"	"Suicide"	"2"	11	23692	Unreliable
+	"Montezuma County, CO"	"08083"	"2002"	"2002"	"Unintentional"	"1"	19	23935	Unreliable
+	"Montezuma County, CO"	"08083"	"2003"	"2003"	"Unintentional"	"1"	15	24255	Unreliable
+	"Montezuma County, CO"	"08083"	"2004"	"2004"	"Unintentional"	"1"	15	24456	Unreliable
+	"Montezuma County, CO"	"08083"	"2005"	"2005"	"Unintentional"	"1"	21	24514	85.7
+	"Montezuma County, CO"	"08083"	"2006"	"2006"	"Unintentional"	"1"	19	24968	Unreliable
+	"Montezuma County, CO"	"08083"	"2007"	"2007"	"Unintentional"	"1"	22	25157	87.5
+	"Montezuma County, CO"	"08083"	"2008"	"2008"	"Unintentional"	"1"	12	25222	Unreliable
+	"Montezuma County, CO"	"08083"	"2009"	"2009"	"Unintentional"	"1"	16	25507	Unreliable
+	"Montezuma County, CO"	"08083"	"2010"	"2010"	"Unintentional"	"1"	17	25535	Unreliable
+	"Montezuma County, CO"	"08083"	"2011"	"2011"	"Unintentional"	"1"	20	25442	78.6
+	"Montezuma County, CO"	"08083"	"2012"	"2012"	"Unintentional"	"1"	15	25431	Unreliable
+	"Montezuma County, CO"	"08083"	"2013"	"2013"	"Unintentional"	"1"	20	25642	78.0
+	"Montezuma County, CO"	"08083"	"2013"	"2013"	"Suicide"	"2"	11	25642	Unreliable
+	"Montezuma County, CO"	"08083"	"2014"	"2014"	"Unintentional"	"1"	24	25772	93.1
+	"Montezuma County, CO"	"08083"	"2015"	"2015"	"Unintentional"	"1"	15	26168	Unreliable
+	"Montezuma County, CO"	"08083"	"2015"	"2015"	"Suicide"	"2"	11	26168	Unreliable
+	"Montezuma County, CO"	"08083"	"2016"	"2016"	"Unintentional"	"1"	24	26999	88.9
+	"Montezuma County, CO"	"08083"	"2016"	"2016"	"Suicide"	"2"	15	26999	Unreliable
+	"Montezuma County, CO"	"08083"	"2017"	"2017"	"Unintentional"	"1"	20	26140	76.5
+	"Montezuma County, CO"	"08083"	"2018"	"2018"	"Unintentional"	"1"	20	26158	76.5
+	"Montezuma County, CO"	"08083"	"2018"	"2018"	"Suicide"	"2"	13	26158	Unreliable
+	"Montrose County, CO"	"08085"	"2000"	"2000"	"Unintentional"	"1"	18	33432	Unreliable
+	"Montrose County, CO"	"08085"	"2001"	"2001"	"Unintentional"	"1"	18	34361	Unreliable
+	"Montrose County, CO"	"08085"	"2002"	"2002"	"Unintentional"	"1"	26	35154	74.0
+	"Montrose County, CO"	"08085"	"2002"	"2002"	"Suicide"	"2"	10	35154	Unreliable
+	"Montrose County, CO"	"08085"	"2003"	"2003"	"Unintentional"	"1"	21	35767	58.7
+	"Montrose County, CO"	"08085"	"2004"	"2004"	"Unintentional"	"1"	18	36310	Unreliable
+	"Montrose County, CO"	"08085"	"2005"	"2005"	"Unintentional"	"1"	20	37227	53.7
+	"Montrose County, CO"	"08085"	"2005"	"2005"	"Suicide"	"2"	11	37227	Unreliable
+	"Montrose County, CO"	"08085"	"2006"	"2006"	"Unintentional"	"1"	20	38282	52.2
+	"Montrose County, CO"	"08085"	"2007"	"2007"	"Unintentional"	"1"	26	39673	65.5
+	"Montrose County, CO"	"08085"	"2007"	"2007"	"Suicide"	"2"	12	39673	Unreliable
+	"Montrose County, CO"	"08085"	"2008"	"2008"	"Unintentional"	"1"	29	40658	71.3
+	"Montrose County, CO"	"08085"	"2009"	"2009"	"Unintentional"	"1"	37	41535	89.1
+	"Montrose County, CO"	"08085"	"2009"	"2009"	"Suicide"	"2"	11	41535	Unreliable
+	"Montrose County, CO"	"08085"	"2010"	"2010"	"Unintentional"	"1"	24	41276	58.1
+	"Montrose County, CO"	"08085"	"2011"	"2011"	"Unintentional"	"1"	34	41011	82.9
+	"Montrose County, CO"	"08085"	"2012"	"2012"	"Unintentional"	"1"	31	40725	76.1
+	"Montrose County, CO"	"08085"	"2012"	"2012"	"Suicide"	"2"	10	40725	Unreliable
+	"Montrose County, CO"	"08085"	"2013"	"2013"	"Unintentional"	"1"	24	40713	58.9
+	"Montrose County, CO"	"08085"	"2014"	"2014"	"Unintentional"	"1"	33	40873	80.7
+	"Montrose County, CO"	"08085"	"2015"	"2015"	"Unintentional"	"1"	40	40946	97.7
+	"Montrose County, CO"	"08085"	"2016"	"2016"	"Unintentional"	"1"	42	41471	101.3
+	"Montrose County, CO"	"08085"	"2016"	"2016"	"Suicide"	"2"	10	41471	Unreliable
+	"Montrose County, CO"	"08085"	"2017"	"2017"	"Unintentional"	"1"	51	41784	122.1
+	"Montrose County, CO"	"08085"	"2017"	"2017"	"Suicide"	"2"	11	41784	Unreliable
+	"Montrose County, CO"	"08085"	"2018"	"2018"	"Unintentional"	"1"	37	42214	87.6
+	"Montrose County, CO"	"08085"	"2018"	"2018"	"Suicide"	"2"	18	42214	Unreliable
+	"Morgan County, CO"	"08087"	"1999"	"1999"	"Unintentional"	"1"	13	26796	Unreliable
+	"Morgan County, CO"	"08087"	"2000"	"2000"	"Unintentional"	"1"	27	27171	99.4
+	"Morgan County, CO"	"08087"	"2001"	"2001"	"Unintentional"	"1"	21	27307	76.9
+	"Morgan County, CO"	"08087"	"2002"	"2002"	"Unintentional"	"1"	19	27556	Unreliable
+	"Morgan County, CO"	"08087"	"2003"	"2003"	"Unintentional"	"1"	14	27736	Unreliable
+	"Morgan County, CO"	"08087"	"2005"	"2005"	"Unintentional"	"1"	14	27727	Unreliable
+	"Morgan County, CO"	"08087"	"2007"	"2007"	"Unintentional"	"1"	11	27745	Unreliable
+	"Morgan County, CO"	"08087"	"2008"	"2008"	"Unintentional"	"1"	16	27701	Unreliable
+	"Morgan County, CO"	"08087"	"2009"	"2009"	"Unintentional"	"1"	14	28099	Unreliable
+	"Morgan County, CO"	"08087"	"2010"	"2010"	"Unintentional"	"1"	10	28159	Unreliable
+	"Morgan County, CO"	"08087"	"2011"	"2011"	"Unintentional"	"1"	13	28175	Unreliable
+	"Morgan County, CO"	"08087"	"2012"	"2012"	"Unintentional"	"1"	26	28472	91.3
+	"Morgan County, CO"	"08087"	"2013"	"2013"	"Unintentional"	"1"	16	28404	Unreliable
+	"Morgan County, CO"	"08087"	"2014"	"2014"	"Unintentional"	"1"	16	28328	Unreliable
+	"Morgan County, CO"	"08087"	"2015"	"2015"	"Unintentional"	"1"	22	28360	77.6
+	"Morgan County, CO"	"08087"	"2016"	"2016"	"Unintentional"	"1"	17	28274	Unreliable
+	"Morgan County, CO"	"08087"	"2017"	"2017"	"Unintentional"	"1"	24	28192	85.1
+	"Morgan County, CO"	"08087"	"2018"	"2018"	"Unintentional"	"1"	23	28558	80.5
+	"Otero County, CO"	"08089"	"1999"	"1999"	"Unintentional"	"1"	11	20502	Unreliable
+	"Otero County, CO"	"08089"	"2000"	"2000"	"Unintentional"	"1"	17	20311	Unreliable
+	"Otero County, CO"	"08089"	"2002"	"2002"	"Unintentional"	"1"	18	19688	Unreliable
+	"Otero County, CO"	"08089"	"2003"	"2003"	"Unintentional"	"1"	10	19585	Unreliable
+	"Otero County, CO"	"08089"	"2005"	"2005"	"Unintentional"	"1"	11	19247	Unreliable
+	"Otero County, CO"	"08089"	"2006"	"2006"	"Unintentional"	"1"	13	19042	Unreliable
+	"Otero County, CO"	"08089"	"2007"	"2007"	"Unintentional"	"1"	10	18783	Unreliable
+	"Otero County, CO"	"08089"	"2008"	"2008"	"Unintentional"	"1"	20	18726	106.8
+	"Otero County, CO"	"08089"	"2011"	"2011"	"Unintentional"	"1"	18	18865	Unreliable
+	"Otero County, CO"	"08089"	"2012"	"2012"	"Unintentional"	"1"	14	18698	Unreliable
+	"Otero County, CO"	"08089"	"2013"	"2013"	"Unintentional"	"1"	12	18703	Unreliable
+	"Otero County, CO"	"08089"	"2014"	"2014"	"Unintentional"	"1"	11	18488	Unreliable
+	"Otero County, CO"	"08089"	"2015"	"2015"	"Unintentional"	"1"	17	18343	Unreliable
+	"Otero County, CO"	"08089"	"2016"	"2016"	"Unintentional"	"1"	13	18295	Unreliable
+	"Otero County, CO"	"08089"	"2017"	"2017"	"Unintentional"	"1"	10	18326	Unreliable
+	"Otero County, CO"	"08089"	"2018"	"2018"	"Unintentional"	"1"	18	18432	Unreliable
+	"Park County, CO"	"08093"	"1999"	"1999"	"Unintentional"	"1"	10	13987	Unreliable
+	"Park County, CO"	"08093"	"2002"	"2002"	"Unintentional"	"1"	12	15760	Unreliable
+	"Park County, CO"	"08093"	"2007"	"2007"	"Unintentional"	"1"	10	16445	Unreliable
+	"Park County, CO"	"08093"	"2013"	"2013"	"Unintentional"	"1"	11	16121	Unreliable
+	"Park County, CO"	"08093"	"2014"	"2014"	"Unintentional"	"1"	14	16345	Unreliable
+	"Park County, CO"	"08093"	"2016"	"2016"	"Unintentional"	"1"	17	17166	Unreliable
+	"Park County, CO"	"08093"	"2016"	"2016"	"Suicide"	"2"	11	17166	Unreliable
+	"Park County, CO"	"08093"	"2017"	"2017"	"Unintentional"	"1"	10	17905	Unreliable
+	"Pitkin County, CO"	"08097"	"2017"	"2017"	"Unintentional"	"1"	11	17890	Unreliable
+	"Pitkin County, CO"	"08097"	"2018"	"2018"	"Unintentional"	"1"	16	17950	Unreliable
+	"Prowers County, CO"	"08099"	"2007"	"2007"	"Unintentional"	"1"	12	12736	Unreliable
+	"Prowers County, CO"	"08099"	"2009"	"2009"	"Unintentional"	"1"	15	12593	Unreliable
+	"Prowers County, CO"	"08099"	"2011"	"2011"	"Unintentional"	"1"	11	12549	Unreliable
+	"Prowers County, CO"	"08099"	"2014"	"2014"	"Unintentional"	"1"	10	12034	Unreliable
+	"Prowers County, CO"	"08099"	"2018"	"2018"	"Unintentional"	"1"	11	12164	Unreliable
+	"Pueblo County, CO"	"08101"	"1999"	"1999"	"Unintentional"	"1"	71	140184	50.6
+	"Pueblo County, CO"	"08101"	"1999"	"1999"	"Suicide"	"2"	23	140184	16.4
+	"Pueblo County, CO"	"08101"	"1999"	"1999"	"Undetermined "	"4"	13	140184	Unreliable
+	"Pueblo County, CO"	"08101"	"2000"	"2000"	"Unintentional"	"1"	81	141472	57.3
+	"Pueblo County, CO"	"08101"	"2000"	"2000"	"Suicide"	"2"	25	141472	17.7
+	"Pueblo County, CO"	"08101"	"2000"	"2000"	"Undetermined "	"4"	15	141472	Unreliable
+	"Pueblo County, CO"	"08101"	"2001"	"2001"	"Unintentional"	"1"	79	144014	54.9
+	"Pueblo County, CO"	"08101"	"2001"	"2001"	"Suicide"	"2"	33	144014	22.9
+	"Pueblo County, CO"	"08101"	"2002"	"2002"	"Unintentional"	"1"	85	146537	58.0
+	"Pueblo County, CO"	"08101"	"2002"	"2002"	"Suicide"	"2"	28	146537	19.1
+	"Pueblo County, CO"	"08101"	"2003"	"2003"	"Unintentional"	"1"	70	147907	47.3
+	"Pueblo County, CO"	"08101"	"2003"	"2003"	"Suicide"	"2"	33	147907	22.3
+	"Pueblo County, CO"	"08101"	"2003"	"2003"	"Undetermined "	"4"	10	147907	Unreliable
+	"Pueblo County, CO"	"08101"	"2004"	"2004"	"Unintentional"	"1"	79	148654	53.1
+	"Pueblo County, CO"	"08101"	"2004"	"2004"	"Suicide"	"2"	32	148654	21.5
+	"Pueblo County, CO"	"08101"	"2005"	"2005"	"Unintentional"	"1"	73	149825	48.7
+	"Pueblo County, CO"	"08101"	"2005"	"2005"	"Suicide"	"2"	26	149825	17.4
+	"Pueblo County, CO"	"08101"	"2005"	"2005"	"Homicide"	"3"	11	149825	Unreliable
+	"Pueblo County, CO"	"08101"	"2005"	"2005"	"Undetermined "	"4"	13	149825	Unreliable
+	"Pueblo County, CO"	"08101"	"2006"	"2006"	"Unintentional"	"1"	58	152026	38.2
+	"Pueblo County, CO"	"08101"	"2006"	"2006"	"Suicide"	"2"	22	152026	14.5
+	"Pueblo County, CO"	"08101"	"2006"	"2006"	"Undetermined "	"4"	15	152026	Unreliable
+	"Pueblo County, CO"	"08101"	"2007"	"2007"	"Unintentional"	"1"	64	155121	41.3
+	"Pueblo County, CO"	"08101"	"2007"	"2007"	"Suicide"	"2"	34	155121	21.9
+	"Pueblo County, CO"	"08101"	"2007"	"2007"	"Homicide"	"3"	10	155121	Unreliable
+	"Pueblo County, CO"	"08101"	"2007"	"2007"	"Undetermined "	"4"	15	155121	Unreliable
+	"Pueblo County, CO"	"08101"	"2008"	"2008"	"Unintentional"	"1"	95	156748	60.6
+	"Pueblo County, CO"	"08101"	"2008"	"2008"	"Suicide"	"2"	21	156748	13.4
+	"Pueblo County, CO"	"08101"	"2008"	"2008"	"Homicide"	"3"	12	156748	Unreliable
+	"Pueblo County, CO"	"08101"	"2008"	"2008"	"Undetermined "	"4"	13	156748	Unreliable
+	"Pueblo County, CO"	"08101"	"2009"	"2009"	"Unintentional"	"1"	74	157846	46.9
+	"Pueblo County, CO"	"08101"	"2009"	"2009"	"Suicide"	"2"	36	157846	22.8
+	"Pueblo County, CO"	"08101"	"2010"	"2010"	"Unintentional"	"1"	79	159063	49.7
+	"Pueblo County, CO"	"08101"	"2010"	"2010"	"Suicide"	"2"	29	159063	18.2
+	"Pueblo County, CO"	"08101"	"2010"	"2010"	"Undetermined "	"4"	12	159063	Unreliable
+	"Pueblo County, CO"	"08101"	"2011"	"2011"	"Unintentional"	"1"	93	160545	57.9
+	"Pueblo County, CO"	"08101"	"2011"	"2011"	"Suicide"	"2"	37	160545	23.0
+	"Pueblo County, CO"	"08101"	"2011"	"2011"	"Undetermined "	"4"	11	160545	Unreliable
+	"Pueblo County, CO"	"08101"	"2012"	"2012"	"Unintentional"	"1"	110	160852	68.4
+	"Pueblo County, CO"	"08101"	"2012"	"2012"	"Suicide"	"2"	29	160852	18.0
+	"Pueblo County, CO"	"08101"	"2012"	"2012"	"Homicide"	"3"	13	160852	Unreliable
+	"Pueblo County, CO"	"08101"	"2013"	"2013"	"Unintentional"	"1"	92	161451	57.0
+	"Pueblo County, CO"	"08101"	"2013"	"2013"	"Suicide"	"2"	33	161451	20.4
+	"Pueblo County, CO"	"08101"	"2014"	"2014"	"Unintentional"	"1"	111	161875	68.6
+	"Pueblo County, CO"	"08101"	"2014"	"2014"	"Suicide"	"2"	44	161875	27.2
+	"Pueblo County, CO"	"08101"	"2014"	"2014"	"Homicide"	"3"	15	161875	Unreliable
+	"Pueblo County, CO"	"08101"	"2015"	"2015"	"Unintentional"	"1"	102	163591	62.4
+	"Pueblo County, CO"	"08101"	"2015"	"2015"	"Suicide"	"2"	47	163591	28.7
+	"Pueblo County, CO"	"08101"	"2015"	"2015"	"Homicide"	"3"	14	163591	Unreliable
+	"Pueblo County, CO"	"08101"	"2016"	"2016"	"Unintentional"	"1"	99	165123	60.0
+	"Pueblo County, CO"	"08101"	"2016"	"2016"	"Suicide"	"2"	36	165123	21.8
+	"Pueblo County, CO"	"08101"	"2017"	"2017"	"Unintentional"	"1"	145	166475	87.1
+	"Pueblo County, CO"	"08101"	"2017"	"2017"	"Suicide"	"2"	52	166475	31.2
+	"Pueblo County, CO"	"08101"	"2017"	"2017"	"Homicide"	"3"	13	166475	Unreliable
+	"Pueblo County, CO"	"08101"	"2018"	"2018"	"Unintentional"	"1"	141	167529	84.2
+	"Pueblo County, CO"	"08101"	"2018"	"2018"	"Suicide"	"2"	45	167529	26.9
+	"Pueblo County, CO"	"08101"	"2018"	"2018"	"Homicide"	"3"	11	167529	Unreliable
+	"Rio Grande County, CO"	"08105"	"2001"	"2001"	"Unintentional"	"1"	10	12213	Unreliable
+	"Rio Grande County, CO"	"08105"	"2006"	"2006"	"Unintentional"	"1"	12	12033	Unreliable
+	"Rio Grande County, CO"	"08105"	"2008"	"2008"	"Unintentional"	"1"	13	11860	Unreliable
+	"Rio Grande County, CO"	"08105"	"2009"	"2009"	"Unintentional"	"1"	10	11872	Unreliable
+	"Rio Grande County, CO"	"08105"	"2011"	"2011"	"Unintentional"	"1"	13	11956	Unreliable
+	"Rio Grande County, CO"	"08105"	"2016"	"2016"	"Unintentional"	"1"	16	11479	Unreliable
+	"Rio Grande County, CO"	"08105"	"2017"	"2017"	"Unintentional"	"1"	14	11301	Unreliable
+	"Rio Grande County, CO"	"08105"	"2018"	"2018"	"Unintentional"	"1"	12	11250	Unreliable
+	"Routt County, CO"	"08107"	"1999"	"1999"	"Unintentional"	"1"	11	19237	Unreliable
+	"Routt County, CO"	"08107"	"2001"	"2001"	"Unintentional"	"1"	12	20210	Unreliable
+	"Routt County, CO"	"08107"	"2004"	"2004"	"Unintentional"	"1"	10	21162	Unreliable
+	"Routt County, CO"	"08107"	"2005"	"2005"	"Unintentional"	"1"	14	21398	Unreliable
+	"Routt County, CO"	"08107"	"2006"	"2006"	"Unintentional"	"1"	11	21859	Unreliable
+	"Routt County, CO"	"08107"	"2007"	"2007"	"Unintentional"	"1"	14	22491	Unreliable
+	"Routt County, CO"	"08107"	"2008"	"2008"	"Unintentional"	"1"	15	23135	Unreliable
+	"Routt County, CO"	"08107"	"2009"	"2009"	"Unintentional"	"1"	14	23688	Unreliable
+	"Routt County, CO"	"08107"	"2010"	"2010"	"Suicide"	"2"	11	23509	Unreliable
+	"Routt County, CO"	"08107"	"2011"	"2011"	"Unintentional"	"1"	10	23239	Unreliable
+	"Routt County, CO"	"08107"	"2013"	"2013"	"Unintentional"	"1"	13	23513	Unreliable
+	"Routt County, CO"	"08107"	"2016"	"2016"	"Unintentional"	"1"	14	24648	Unreliable
+	"Routt County, CO"	"08107"	"2017"	"2017"	"Unintentional"	"1"	17	25220	Unreliable
+	"Routt County, CO"	"08107"	"2018"	"2018"	"Unintentional"	"1"	14	25733	Unreliable
+	"Summit County, CO"	"08117"	"1999"	"1999"	"Unintentional"	"1"	14	23069	Unreliable
+	"Summit County, CO"	"08117"	"2000"	"2000"	"Unintentional"	"1"	14	23548	Unreliable
+	"Summit County, CO"	"08117"	"2001"	"2001"	"Unintentional"	"1"	12	24716	Unreliable
+	"Summit County, CO"	"08117"	"2003"	"2003"	"Unintentional"	"1"	10	25408	Unreliable
+	"Summit County, CO"	"08117"	"2004"	"2004"	"Unintentional"	"1"	14	25313	Unreliable
+	"Summit County, CO"	"08117"	"2008"	"2008"	"Unintentional"	"1"	11	27144	Unreliable
+	"Summit County, CO"	"08117"	"2013"	"2013"	"Unintentional"	"1"	11	28649	Unreliable
+	"Summit County, CO"	"08117"	"2013"	"2013"	"Suicide"	"2"	10	28649	Unreliable
+	"Summit County, CO"	"08117"	"2015"	"2015"	"Unintentional"	"1"	11	30257	Unreliable
+	"Teller County, CO"	"08119"	"2001"	"2001"	"Unintentional"	"1"	13	21193	Unreliable
+	"Teller County, CO"	"08119"	"2005"	"2005"	"Unintentional"	"1"	12	21978	Unreliable
+	"Teller County, CO"	"08119"	"2006"	"2006"	"Unintentional"	"1"	10	22281	Unreliable
+	"Teller County, CO"	"08119"	"2008"	"2008"	"Unintentional"	"1"	12	22725	Unreliable
+	"Teller County, CO"	"08119"	"2010"	"2010"	"Suicide"	"2"	12	23350	Unreliable
+	"Teller County, CO"	"08119"	"2013"	"2013"	"Unintentional"	"1"	13	23275	Unreliable
+	"Teller County, CO"	"08119"	"2014"	"2014"	"Unintentional"	"1"	10	23389	Unreliable
+	"Teller County, CO"	"08119"	"2014"	"2014"	"Suicide"	"2"	11	23389	Unreliable
+	"Teller County, CO"	"08119"	"2015"	"2015"	"Unintentional"	"1"	16	23385	Unreliable
+	"Teller County, CO"	"08119"	"2015"	"2015"	"Suicide"	"2"	12	23385	Unreliable
+	"Teller County, CO"	"08119"	"2016"	"2016"	"Unintentional"	"1"	10	24043	Unreliable
+	"Washington County, CO"	"08121"	"2003"	"2003"	"Unintentional"	"1"	10	5028	Unreliable
+	"Weld County, CO"	"08123"	"1999"	"1999"	"Unintentional"	"1"	68	174342	39.0
+	"Weld County, CO"	"08123"	"1999"	"1999"	"Suicide"	"2"	24	174342	13.8
+	"Weld County, CO"	"08123"	"2000"	"2000"	"Unintentional"	"1"	79	180936	43.7
+	"Weld County, CO"	"08123"	"2000"	"2000"	"Suicide"	"2"	19	180936	Unreliable
+	"Weld County, CO"	"08123"	"2001"	"2001"	"Unintentional"	"1"	85	192297	44.2
+	"Weld County, CO"	"08123"	"2001"	"2001"	"Suicide"	"2"	21	192297	10.9
+	"Weld County, CO"	"08123"	"2002"	"2002"	"Unintentional"	"1"	93	202246	46.0
+	"Weld County, CO"	"08123"	"2002"	"2002"	"Suicide"	"2"	18	202246	Unreliable
+	"Weld County, CO"	"08123"	"2003"	"2003"	"Unintentional"	"1"	72	208858	34.5
+	"Weld County, CO"	"08123"	"2003"	"2003"	"Suicide"	"2"	31	208858	14.8
+	"Weld County, CO"	"08123"	"2004"	"2004"	"Unintentional"	"1"	99	215322	46.0
+	"Weld County, CO"	"08123"	"2004"	"2004"	"Suicide"	"2"	29	215322	13.5
+	"Weld County, CO"	"08123"	"2005"	"2005"	"Unintentional"	"1"	75	222879	33.7
+	"Weld County, CO"	"08123"	"2005"	"2005"	"Suicide"	"2"	28	222879	12.6
+	"Weld County, CO"	"08123"	"2006"	"2006"	"Unintentional"	"1"	79	230703	34.2
+	"Weld County, CO"	"08123"	"2006"	"2006"	"Suicide"	"2"	29	230703	12.6
+	"Weld County, CO"	"08123"	"2007"	"2007"	"Unintentional"	"1"	107	237692	45.0
+	"Weld County, CO"	"08123"	"2007"	"2007"	"Suicide"	"2"	29	237692	12.2
+	"Weld County, CO"	"08123"	"2007"	"2007"	"Homicide"	"3"	10	237692	Unreliable
+	"Weld County, CO"	"08123"	"2008"	"2008"	"Unintentional"	"1"	98	243442	40.3
+	"Weld County, CO"	"08123"	"2008"	"2008"	"Suicide"	"2"	27	243442	11.1
+	"Weld County, CO"	"08123"	"2009"	"2009"	"Unintentional"	"1"	98	248193	39.5
+	"Weld County, CO"	"08123"	"2009"	"2009"	"Suicide"	"2"	32	248193	12.9
+	"Weld County, CO"	"08123"	"2010"	"2010"	"Unintentional"	"1"	107	252825	42.3
+	"Weld County, CO"	"08123"	"2010"	"2010"	"Suicide"	"2"	42	252825	16.6
+	"Weld County, CO"	"08123"	"2011"	"2011"	"Unintentional"	"1"	121	258638	46.8
+	"Weld County, CO"	"08123"	"2011"	"2011"	"Suicide"	"2"	36	258638	13.9
+	"Weld County, CO"	"08123"	"2012"	"2012"	"Unintentional"	"1"	116	263691	44.0
+	"Weld County, CO"	"08123"	"2012"	"2012"	"Suicide"	"2"	41	263691	15.5
+	"Weld County, CO"	"08123"	"2013"	"2013"	"Unintentional"	"1"	81	269785	30.0
+	"Weld County, CO"	"08123"	"2013"	"2013"	"Suicide"	"2"	49	269785	18.2
+	"Weld County, CO"	"08123"	"2014"	"2014"	"Unintentional"	"1"	136	277670	49.0
+	"Weld County, CO"	"08123"	"2014"	"2014"	"Suicide"	"2"	55	277670	19.8
+	"Weld County, CO"	"08123"	"2015"	"2015"	"Unintentional"	"1"	134	285174	47.0
+	"Weld County, CO"	"08123"	"2015"	"2015"	"Suicide"	"2"	58	285174	20.3
+	"Weld County, CO"	"08123"	"2016"	"2016"	"Unintentional"	"1"	130	294932	44.1
+	"Weld County, CO"	"08123"	"2016"	"2016"	"Suicide"	"2"	54	294932	18.3
+	"Weld County, CO"	"08123"	"2016"	"2016"	"Homicide"	"3"	10	294932	Unreliable
+	"Weld County, CO"	"08123"	"2017"	"2017"	"Unintentional"	"1"	160	304633	52.5
+	"Weld County, CO"	"08123"	"2017"	"2017"	"Suicide"	"2"	49	304633	16.1
+	"Weld County, CO"	"08123"	"2018"	"2018"	"Unintentional"	"1"	181	314305	57.6
+	"Weld County, CO"	"08123"	"2018"	"2018"	"Suicide"	"2"	60	314305	19.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Colorado"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Colorado (08)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:54:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:54:20 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data for Broomfield, Colorado (FIPS code 08014) are only available for 2003 and later; for computational purposes, counts and"
+"population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not"
+"include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Broomfield."
+"3. There is a discontinuity in the mortality and population data for Adams, Colorado (FIPS code 08001), Boulder, Colorado (FIPS"
+"code 08013), Jefferson, Colorado (FIPS code 08059), and Weld, Colorado (FIPS code 080123) between 2002 and 2003. This"
+"discontinuity occurs because territory in each of these four counties has been combined to form a new county, Broomfield,"
+"Colorado (FIPS code 08014). Beginning in 2003, deaths and population counts for this territory are reported for Broomfield"
+"county and are no longer included with data for Adams, Boulder, Jefferson, and Weld."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

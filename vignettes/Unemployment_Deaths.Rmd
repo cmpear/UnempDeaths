@@ -1,0 +1,343 @@
+---
+title: "Unemployment_Deaths"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Unemployment_Deaths}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r, imports}
+library(UnempDeaths)
+library(dplyr)
+library(ggplot2)
+library(rlang)
+```
+
+# Unemployment, Suicide, and Homicide
+
+This is a project that began as an idle curiousity: how might Covid-19 lockdowns affect homicide and suicides?  This has been raised a few times as an argument for lifting the lockdowns, and the intuitive logic is straightforward.  But, lack of hard numbers leaves a gap for our own prejudices to fill with "too high" or "low enough."  This is an effort to remedy that--and it is not so much the number of people looking for work as the number of able-bodied people who have stopped looking for work that is the real issue.
+
+## Pyschology and Economics
+
+While this is a social science project, it is not based on any sophisticated psychological or economic theories.  It follows the intuitive relationship between prolongued joblessness and social disfunction.  A relationship many of us have observed in ourselves or those around us who have had trouble finding work for a prolongued period of time. Likewise, that unemployment has been rising in response to the lockdown is a simple observational fact.  However, to make use of unemployment data it is important to udnerstand how it is measured.
+
+The standard measure of unemployment is called U-3--which includes all persons who do not have jobs, but have looked in the past four weeks.  Two other measure sof unemployment, U-4 and U-5, add in "discouraged workers" and "marginally attached" workers. Discouraged workers are people who would like to work but have given up because they are convinced they cannot find work; while the marginally attached workers are people who would theoretically like to work but haven't looked in the past four weeks.  Both of these categories are of great interest, as almost definitionally they are more despondent than those experiencing U-3 unemployment. 
+
+Another issue with using unemployment figures is that some unemployment is natural.  Unemployment is often divided between that caused by frictional, cyclical and structural causes.  Cyclical unemployment is the least malignant: people changing jobs or just entering the workforce are unemployed for a time (most recent graduates will be in this category for a time).  Cyclical unemployment on the other hand is caused by fluctuations in the economy, and structural unemployment by technological change--both of which tend to cause longer periods of unemployment as people wait on conditions to improve or retrain themselves for a new line of work.  While these figures are not always readily avaialble, the existence of frictional unemployment is a reminder of why we are intersted in U-4 and U-5 unemployment rather than just U-3 unemployment.
+
+However, should the lockdown drag on too long and businesses struggle to reopen afterwards, unemployment caused by the lockdown is could become far more malignant; any many formerly productive citizens could end up becoming discouraged or marginally attached.  Of the population groups: young, retirement age, employed, unemployed, and discouraged & marginal--it is a rise in that last category that seems most likely to lead to an increase in the homicide or suicide rate.
+
+## Data and Measurement HERE HERE HERE
+
+My goal here is to create a relatively simple model that eschews any scaling.  Part of this means that differences in population must be accounted for in some manner.  To that effect, we 
+
+If members of each group was some anti-social automaton, one might expect each group to contribute to each category of death.  More employed still means more people, and people are ultimately mortal.  However, those with jobs are also supporting the elderly and the young.  The same can also be said of many of those who lack jobs, but nevertheless can contribute with their time and energy to the care of those around them.
+
+Thus, some variables such as the number of employed could reduce the number of deaths.  The expectation is that those not of working age would have the highest rate of unintentional deaths (this does, after all, include the elderly); while an increase in the number of discouraged workers would most contribute to the number of suicides and homicides.  The unemployed population, meanwhile, likely has a weaker relation with suicide (they still have hope of finding a job), while its relationship with homicide is even harder to predict.  Economic distress does not need to increase homicidal urges to raise the homicide rate: muggings can end in homicide, but that is not their goal.
+
+## Data
+
+Most of the data in this project are ultimately derived from the census, but many more refind figures are stored elsewhere.  The census bureau keeps intercensal population separate from the 2000 and 2010 census figures it is based on.  Others make use of their own sources, like the Center for Disease Control's data on deaths throughout the county, the Bureau of Labor Statistics' Employment Figures, or unemployment data from the Department of Labor.  The first step in this project is cleaning and wrangling these to create a unified dataset we can use to examine the relationship between employment figures, homicide, and suicide.
+
+For population, we are using census data.  However, it is important to keep in mind that much of this data consists intercensal or postcensal estimates.  Official projections are avaiable from 2010 to 2018; but the intercensal estimates betweeen the 2000 and 2010 estimates are not available by county and age.  The census makes its estimates assuming steady exponential growth between the two censuses, so we simply make those estimates ourselves using the 2000 and 2010 estimates.
+
+One issue when trying to measure discouraged workers is that we are using the workers' age, and age is grouped in increments of 5 or 10 years.  Thus, the data can be split to include all of the people between 20 and 64, 15 and 75, but not 18-65.  Moreover, in some counties it is the norm to start work or retire from work earlier.  College students do not start work until 22 or 23; and there are many people who work past 64.  To address the first issue, we increase the WORKING_AGE feature by 4% and subtracted half of what was added from the YOUTH and ELDERLY features.  This effectively change the working definition to 18-66.  Next, for those handful of Counties where the LABOR_FORCE is larger than the population from 19-65, we expand the WORKING_AGE population to match the LABOR_FORCE, and trim the YOUTH and ELDERLY features to keep population constant--in these counties, thus putting DISCOURAGED_WORKERS at 0 for the county.
+x
+```{r, 'retrieve_data', message=FALSE, warning=FALSE}
+df <- UnempDeaths::Build_Dataset() %>%
+  dplyr::select(- 'ESTIMATED', - 'WATER', - 'AGG_INCOME', - 'PCI_2016', - 'RATE_UNEMPLOYED', - 'ZRATE', - 'BAD_YEARS' )%>%
+  dplyr::mutate('YOUTH' = .data$YOUTH - .data$WORKING_AGE * 0.02,
+                'ELDERLY' = .data$ELDERLY - .data$WORKING_AGE * 0.02) %>%
+  dplyr::mutate('WORKING_AGE' = .data$WORKING_AGE + .data$WORKING_AGE * 0.04) %>%
+  dplyr::mutate('DISCOURAGED' = .data$WORKING_AGE - .data$LABOR_FORCE ) %>%
+  dplyr::mutate('DISCOURAGED' = .data$WORKING_AGE - .data$LABOR_FORCE ) %>%
+  dplyr::mutate('WORKING_AGE' = dplyr::if_else(.data$DISCOURAGED < 0,
+                                               .data$WORKING_AGE + .data$DISCOURAGED / 2,
+                                               .data$WORKING_AGE)) %>%
+  dplyr::mutate('ELDERLY' = dplyr::if_else(.data$DISCOURAGED < 0,
+                                           .data$ELDERLY - .data$DISCOURAGED / 2,
+                                           .data$ELDERLY ) ) %>%
+  dplyr::mutate('YOUTH' = dplyr::if_else(.data$DISCOURAGED < 0,
+                                         .data$YOUTH - .data$DISCOURAGED / 2,
+                                         .data$YOUTH ) ) %>%
+  dplyr::mutate('DISCOURAGED' = dplyr::if_else(.data$DISCOURAGED < 0,
+                                               0,
+                                               .data$DISCOURAGED ) )
+df
+```
+```{r, 'summarize_data'}
+summary(df)
+```
+
+## Preliminary Analysis
+
+### Bar I
+
+```{r, 'bar_1'}
+df %>%
+  dplyr::summarize('UNINTENTIONAL' = sum(.data$UNINTENTIONAL), 'HOMICIDE' = sum(.data$HOMICIDE),
+                   'SUICIDE' = sum(.data$SUICIDE), 'UNDETERMINED' = sum(.data$UNDETERMINED) ) %>%
+  tidyr::pivot_longer(tidyselect::everything(), names_to = 'COD', values_to = 'DEATHS') %>%
+  ggplot2::ggplot( ggplot2::aes( x = .data$COD, y = .data$DEATHS ) ) +
+    ggplot2::geom_bar(stat = 'identity', fill = hcl(h = 360 / 1:4 ), col = hcl(h = 360 / 1:4 ) ) +
+    ggplot2::xlab('Cause of Death') +
+    ggplot2::ggtitle('Passings by Intent Between 1998 and 2018')
+```
+
+### Histograms I
+
+Looking at a histogram of the primary variables we are interested in, we see a curious relationship when we divide all of the data by the population and transform them to Z-Scores.  The three features concerning deaths all have large spikes at about -1 standard deviations, followed by a normal distribution with modes aroudn +1 standard deviations.  This phenomenon is weakest for unintentional deaths.  The reason is likely because we have a large number of sparsely populated counties that can go a year without experiencing any homicides or suicides--and sometimes not even unintentional deaths. 
+
+```{r, 'histograms_1'}
+df %>%
+  dplyr::transmute("Z_HOMICIDE_RATE" = .data$HOMICIDE / .data$POP, 'Z_SUICIDE_RATE' = .data$SUICIDE / .data$POP,
+                   'Z_UNINTENTIONAL_RATE' = .data$UNINTENTIONAL / .data$POP, 'Z_LABOR_FORCE_RATE' = .data$LABOR_FORCE / .data$POP,
+                   'Z_OUTSIDE' = .data$OUTSIDE / .data$POP, 'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP,
+                   'Z_UNEMPLOYED_RATE' = .data$UNEMPLOYED / .data$POP, 'Z_WORKING_AGE' = .data$WORKING_AGE / .data$POP,
+                   'Z_ELDERLY' = .data$ELDERLY / .data$POP, 'Z_YOUTH' = .data$YOUTH / .data$POP,) %>%
+  dplyr::mutate_all( function(x){ return(( x - mean(x) )/sd( x ) ) }) %>%
+  tidyr::pivot_longer(cols = everything(), names_to = 'column', values_to = 'values') %>%
+  ggplot2::ggplot( ggplot2::aes( x = values, color = column, fill = column ) ) +
+    ggplot2::geom_histogram(bins = 200) +
+    ggplot2::xlab('') + ggplot2::ylab('') +
+    ggplot2::facet_wrap(~column, ncol = 2) 
+```
+
+### Bar II & III
+
+Let us check how many counties there are with zero deaths by intent.  Here, we get a graph that resembles an inverse of the number of deaths by intent: unintentional has the fewest by far, and undetermind has the most.  Perhaps it is a relief that are so many counties that have no deaths due to homicide or suicide in a year.
+
+Out of curiousity, I decided to instead pool the years and see how many counties have had no deaths by type over the past between 1998 and 2018.  Curiously, we have more than 500 such counties.  Why is that?  It is unlikely that the CDC is failing to keep track of deaths.  More likely, there could be many counties without hospitals or elderly care facilities, so their elderly tend to perish in neighboring counties; or for some other reason their deaths are registered in neighboring counties.
+
+```{r, 'bar_2'}
+df %>%
+  dplyr::summarize('UNINTENTIONAL' = sum(.data$UNINTENTIONAL==0), 'HOMICIDE' = sum(.data$HOMICIDE==0),
+                   'SUICIDE' = sum(.data$SUICIDE==0), 'UNDETERMINED' = sum(.data$UNDETERMINED==0) ) %>%
+  tidyr::pivot_longer(tidyselect::everything(), names_to = 'COD', values_to = 'ZERO') %>%
+  ggplot2::ggplot( ggplot2::aes( x = .data$COD, y = .data$ZERO ) ) +
+    ggplot2::geom_bar(stat = 'identity', fill = hcl(h = 360 / 1:4 - 45 ), col = hcl(h = 360 / 1:4 - 45) ) + 
+    ggplot2::xlab('Cause of Death') +
+    ggplot2::ggtitle('Number of Counties with Zero Deaths by Intent: 1998 and 2018')
+```
+
+
+```{r, 'bar_3'}
+df %>%
+  dplyr::group_by(.data$COUNTY) %>%
+  dplyr::summarize('UNINTENTIONAL' = sum(.data$UNINTENTIONAL), 'HOMICIDE' = sum(.data$HOMICIDE),
+            'SUICIDE' = sum(.data$SUICIDE), 'UNDETERMINED' = sum(.data$UNDETERMINED) ) %>%
+  dplyr::ungroup() %>%
+  dplyr::summarize('UNINTENTIONAL' = sum(.data$UNINTENTIONAL==0), 'HOMICIDE' = sum(.data$HOMICIDE==0),
+            'SUICIDE' = sum(.data$SUICIDE==0), 'UNDETERMINED' = sum(.data$UNDETERMINED==0) ) %>%
+  tidyr::pivot_longer(tidyselect::everything(), names_to = 'COD', values_to = 'ZERO') %>%
+  ggplot2::ggplot( ggplot2::aes( x = .data$COD, y = .data$ZERO ) ) +
+  ggplot2::geom_bar(stat = 'identity', fill = hcl(h = 360 / 1:4 - 45 ), col = hcl(h = 360 / 1:4 - 45) ) +
+  ggplot2::xlab('Cause of Death') +
+  ggplot2::ggtitle('Number of Counties with Zero Deaths by Intent between 1998 and 2018')
+```
+
+
+### Histograms II
+
+Clustering the data with kmeans, than averaging yearly differences should reduce the problem of clustering around zero.  This second set of histograms shows something more resembling a pareto distribution for homicide, almost a modal distribution for unintentional deaths, and something in between for suicides.
+
+```{r, 'histograms_2'}
+df %>%
+  UnempDeaths:::ClusterData(750) %>%
+  dplyr::transmute("Z_HOMICIDE_RATE" = .data$HOMICIDE / .data$POP, 'Z_SUICIDE_RATE' = .data$SUICIDE / .data$POP,
+                   'Z_UNINTENTIONAL_RATE' = .data$UNINTENTIONAL / .data$POP, 'Z_LABOR_FORCE_RATE' = .data$LABOR_FORCE / .data$POP,
+                   'Z_OUTSIDE_RATE' = .data$OUTSIDE / .data$POP, 'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP,
+                   'Z_UNEMPLOYED_RATE' = .data$UNEMPLOYED / .data$POP, 'Z_WORKING_AGE' = .data$WORKING_AGE / .data$POP,
+                   'Z_ELDERLY' = .data$ELDERLY / .data$POP, 'Z_YOUTH' = .data$YOUTH / .data$POP,
+                   'CLUSTER' = .data$CLUSTER) %>%
+  dplyr::group_by(.data$CLUSTER) %>%
+  dplyr::summarize_all( mean ) %>%
+  dplyr::ungroup() %>%
+  dplyr::select( - 'CLUSTER' ) %>%
+  dplyr::mutate_all( function(x){ return(( x - mean(x) )/sd( x ) ) }) %>%
+  tidyr::pivot_longer(cols = tidyselect::everything(), names_to = 'column', values_to = 'values') %>%
+  ggplot2::ggplot( ggplot2::aes( x = values, color = column, fill = column ) ) +
+    ggplot2::geom_histogram(bins = 200) +
+    ggplot2::xlab('') + ggplot2::ylab('') +
+    ggplot2::facet_wrap(~column, ncol = 2) 
+```
+
+### Preliminary Analysis: Implications
+
+We can address the issue of counties with zero deaths over a 20-year period in two ways.  We could geographically cluster the data, but doing so risks hiding the relationships we are interested in.  Moreover, many densely populated counties would be needlessly clustered together.  It is probably best to drop any of the county that has had no unintentional deaths between 1998 and 2018.
+
+```{r, 'remove_deathless_counties'}
+df <- df %>%
+  dplyr::group_by(.data$COUNTY) %>%
+  dplyr::mutate('D20' = sum(.data$UNINTENTIONAL) ) %>%
+  dplyr::filter(D20 != 0 ) %>%
+  dplyr::select( - 'D20' ) %>%
+  dplyr::ungroup()
+```
+## Variable Correlation
+
+Looking at the population divided into five categories, let's check how closely correlated they are.  Unsurprisingly, these are closely related.  A county around NYC or LA is of course goign to have more of everything.  However, if we instead divide each of these variables by the county population, the correlations become far weaker.  
+
+```{r, 'correlations_1'}
+df %>%
+  dplyr::select('EMPLOYED', 'UNEMPLOYED', 'DISCOURAGED', 'ELDERLY', 'YOUTH') %>%
+  cor()
+```
+
+```{r, 'correlations_2'}
+df %>%
+  dplyr::transmute('EMPLOYED/POP' = .data$EMPLOYED / .data$POP, 'UNEMPLOYED/POP' = .data$UNEMPLOYED / .data$POP,
+                   'DISCOURAGED/POP' = .data$DISCOURAGED / .data$POP, 'ELDERLY/POP' = .data$ELDERLY / .data$POP,
+                   'YOUTH/POP' = .data$YOUTH / .data$POP) %>%
+  cor()
+```
+
+```{r, 'prep_data_for_lm'}
+library(compositions)
+
+df3 <- df %>%
+  dplyr::select('HOMICIDE', 'SUICIDE', 'UNINTENTIONAL', 'DENSITY',
+                'DISCOURAGED','UNEMPLOYED', 'EMPLOYED', 'YOUTH', 'ELDERLY')
+#  group_by(COUNTY) %>%
+#  mutate( HOMICIDE = lag(HOMICIDE, 1) + lag(HOMICIDE, 2) + lag(HOMICIDE, 3) + lag(HOMICIDE, 4) + lag(HOMICIDE, 5),
+#          SUICIDE  = lag( SUICIDE, 1) + lag( SUICIDE, 2) + lag( SUICIDE, 3) + lag( SUICIDE, 4) + lag(SUICIDE, 5),
+#          UNINTENTIONAL  = lag(UNINTENTIONAL, 1) + lag(UNINTENTIONAL, 2) + lag(UNINTENTIONAL, 3) + lag(UNINTENTIONAL, 4) + #lag(UNINTENTIONAL, 5)) %>%
+#  ungroup() %>%
+#  drop_na() %>%
+#  dplyr::transmute('HOMICIDE' = HOMICIDE / POP, 'SUICIDE' = SUICIDE / POP,
+#                   'UNINTENTIONAL' = UNINTENTIONAL / POP, 'DISCOURAGED' = DISCOURAGED / POP,
+#                   'UNEMPLOYED' = UNEMPLOYED / POP, 'EMPLOYED' = EMPLOYED / POP,
+#                   'YOUTH' = YOUTH / POP,'ELDERLY' = ELDERLY / POP,
+#                   DENSITY)
+
+df4 <- UnempDeaths::ilr_partial(df3, c('HOMICIDE','SUICIDE','UNINTENTIONAL', 'DENSITY') )
+#df4 <- ilr_partial(df3, c('HOMICIDE','SUICIDE','UNINTENTIONAL') )
+```
+
+## Model & Performance
+
+Looking at the model performance, the R-Squared values are rather disappointing, with values ranging from 4-6%.  However, we are only working with compositional data on employment.  Simply adding populatoin density to the equation double's the R-squared values to around 10.  In other words, there is much room to grow here if additoinal variables are added in.  Perhaps some figures to capture poverty i neach county would work well in explaining how shifts in employment affect death-rates by intent.
+
+Explaining the results is much more difficult than visualizing it.  Not only is it absurd for a variable like youth to rise to 100%, but it is impossible for it to rise anywhere beyond--which a normal linear model would asume.  A common way to address this issue for compositional dat ais to perform a log-ratio transformation on the data.  However, a key drawback of this is that the model coefficients become nearly, as the transformation reduces the number of variables--so one cannot even find YOUTH / POP among the model coefficients.
+
+One way to get around this is to instead model what a fixed change to the data would cause using ropeladder visuals.  This way, we can create an understandable change in the data--a shift of 1% of the population from EMPLOYED to UNEMPLOYED or DISCOURAGED, and see the projected change in the homicide, suicide or unintentional death rates.
+
+```{r, 'unintentional_model'}
+shift = 0.01  # this is NOT a 1% increase in the population, it is a 1% shift of the whole population between categories.
+              # in other words, 1% is more like a 2% change
+model <- lm( UNINTENTIONAL ~ V1 + V2 + V3 + V4 + DENSITY, data = df4 )
+
+U_predictions <- c(UnempDeaths::predict_logratio(df3, model, type = -3, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  3, shift = shift) )
+print(summary(model))
+```
+
+```{r, 'suicide_model'}
+model <- lm( SUICIDE ~ V1 + V2 + V3 + V4  + DENSITY, data = df4 )
+
+S_predictions <- c(UnempDeaths::predict_logratio(df3, model, type = -3, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  3, shift = shift) )
+print(summary(model))
+```
+
+```{r, 'homicide_model'}
+model <- lm( HOMICIDE ~ V1 + V2 + V3 + V4 + DENSITY, data = df4 )
+print(summary(model)$r.squared)
+
+H_predictions <- c(UnempDeaths::predict_logratio(df3, model, type = -3, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type = -1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  1, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  2, shift = shift),
+                   UnempDeaths::predict_logratio(df3, model, type =  3, shift = shift) )
+print(summary(model))
+```
+
+```{r, 'homicide_rate_visual'}
+# Not aware of a good geom for a ropeladder and am rusty with tile, so decided to do this manually
+plot.new()
+title('Change in Homicide Rate for Shifting 1% of the US Population')
+segments(x0 = c(0.4, 0.7, 1.0), x1 = c(0.4, 0.7, 1.0), y0 = -0.05, y1 = 0.90 )
+segments(x0 = c(0.55, 0.85), x1 = c(0.55, 0.85), y0 = -0.05, y1 = 0.90, lty = 2 )
+segments(x0 = 0, x1 = 1, y0 = c(.725, .575, .425, .275, .125) )
+text(0.4, 0.95, '+25%'); text(0.55, 0.95, '+12.5%'); text(0.7, 0.95, '+0%'); text(0.85, 0.95, '-12.5%'); text(1, 0.95, '-25%')
+text(0, .80, 'Employed to Discouraged', pos = 4)
+text(0, .65, 'Unemployed to Discouraged', pos = 4)
+text(0, .50, 'Employed to Unemployed', pos = 4)
+text(0, .35, 'Discouraged to Unemployed', pos = 4)
+text(0, .20, 'Unemployed to Employed', pos = 4)
+text(0, .05, 'Discouraged to Employed', pos = 4)
+points(H_predictions * (0.3 / 0.25 / 100) + 0.7, c(.8, .65, .50, .35, .20, .05),
+       pch = 19,
+       col = hcl(h = H_predictions / max(H_predictions) * 180 - 90, alpha = 0.7), cex = 2 )  
+```
+
+```{r, 'suicide_rate_visual'}
+plot.new()
+title('Change in Suicide Rate for Shifting 1% of the US Population')
+segments(x0 = c(0.4, 0.7, 1.0), x1 = c(0.4, 0.7, 1.0), y0 = -0.05, y1 = 0.90 )
+segments(x0 = c(0.55, 0.85), x1 = c(0.55, 0.85), y0 = -0.05, y1 = 0.90, lty = 2 )
+segments(x0 = 0, x1 = 1, y0 = c(.725, .575, .425, .275, .125) )
+text(0.4, 0.95, '+25%'); text(0.55, 0.95, '+12.5%'); text(0.7, 0.95, '+0%'); text(0.85, 0.95, '-12.5%'); text(1, 0.95, '-25%')
+text(0, .80, 'Employed to Discouraged', pos = 4)
+text(0, .65, 'Unemployed to Discouraged', pos = 4)
+text(0, .50, 'Employed to Unemployed', pos = 4)
+text(0, .35, 'Discouraged to Unemployed', pos = 4)
+text(0, .20, 'Unemployed to Employed', pos = 4)
+text(0, .05, 'Discouraged to Employed', pos = 4)
+points(S_predictions * (0.3 / 0.25 / 100) + 0.7, c(.8, .65, .50, .35, .20, .05),
+       pch = 19,
+       col = hcl(h = S_predictions / max(S_predictions) * 180 , alpha = 0.7 ), cex = 2 )  
+```
+
+```{r, 'unintentional_rate_visual'}
+plot.new()
+title('Change in Unintentional Rate for Shifting 1% of the US Population')
+segments(x0 = c(0.4, 0.7, 1.0), x1 = c(0.4, 0.7, 1.0), y0 = -0.05, y1 = 0.90 )
+segments(x0 = c(0.55, 0.85), x1 = c(0.55, 0.85), y0 = -0.05, y1 = 0.90, lty = 2 )
+segments(x0 = 0, x1 = 1, y0 = c(.725, .575, .425, .275, .125) )
+text(0.4, 0.95, '+25%'); text(0.55, 0.95, '+12.5%'); text(0.7, 0.95, '+0%'); text(0.85, 0.95, '-12.5%'); text(1, 0.95, '-25%')
+text(0, .80, 'Employed to Discouraged', pos = 4)
+text(0, .65, 'Unemployed to Discouraged', pos = 4)
+text(0, .50, 'Employed to Unemployed', pos = 4)
+text(0, .35, 'Discouraged to Unemployed', pos = 4)
+text(0, .20, 'Unemployed to Employed', pos = 4)
+text(0, .05, 'Discouraged to Employed', pos = 4)
+points(U_predictions * (0.3 / 0.25 / 100) + 0.7, c(.8, .65, .50, .35, .20, .05),
+       pch = 19,
+       col = hcl(h = U_predictions / max(U_predictions) * 180 + 90, alpha = 0.7 ), cex = 2 )  
+```
+
+## Analysis
+
+Looking at the visuals (with Density included as a variable), we are expected to see the most change in deathrates when we see the number of discouraged workers increase.  For all other catgegories, the change in the deathrate is essentially zero.  Part of this is not so surprising: increases in the number of discouraged workers were to be expected.  But why didn't reducing them create much of a change?
+
+The easy answer would be to simply blame the low R-Squared values.  As more variables are added, perhaps this would indeed be found to be the case.  However, simple models with few, but very significant variables are often useful despite relatively low R-squared values; whereas models with many variables and higher R-squared values can often prove useless.  Despite the low R-squared values, the p-values and t-statistics show that these are very significant variables.  So, before expanding to a project with many more variables, let us consider what the current model is telling us.
+
+Curious here is the different effect from moving people from EMPLOYED or UNEMPLOYED to DISCOURAGED; vs instead moving people out of DISCOURAGED or UNEMPLOYED.  Why might this be?  One possibility is that UNEMPLOYED and DISCOURAGED workers already make up a small share of the population, and the effect diminishes as we approach 0% or 100%.  Increasing the already low shares of UNEMPLOYED and DISCOURAGED is a shift toward the steeper slope of the S-curve, whereas decreasing them is a shift toward the more gradual slopes.
+
+A more descriptive view of this is an old saying about Russia, but is perhaps equally applicable here: "When times are good, we drink, when times are bad, we drink more."  Both boom and bust times often bring vice, but in good times those are at least balalnced by the boom.  Moreover, since unemployment and discouraged workers are already relatively low, modeling a shift of 1% of all the population from DISCOURAGED/UNEMPLOYED to EMPLOYED may often be pressing into natural unemployment.
+
+Another interesting factor is that the number of UNEMPLOYED workers itself is not significant when it comes to the death rate. Or, to put it another way, to be EMPLOYED or UNEMPLOYED primarily matters in that one has or is looking for work--that one is not discouraged.  Unemployment is not the problem, able-bodied people leaving the workforce is.
+
+# Future Changes
+
+One possible problem is that we are still working with too many counties with too little population to have statistically meaningful deathrates.  Perhaps any county that had any year with no suicides or homicides should be dropped.
+
+Another consideration would be to simply divide the working-age popuation into DISCOURAGED vs HOPEFUL (or some other adjective) would work better than DISCOURAGED vs HOPEFUL vs UNEMPLOYED.  This would perhaps make it easier to visualize other changes--such as a babyboom or greying society.

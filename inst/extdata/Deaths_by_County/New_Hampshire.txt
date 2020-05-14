@@ -1,0 +1,386 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Belknap County, NH"	"33001"	"1999"	"1999"	"Unintentional"	"1"	10	55517	Unreliable
+	"Belknap County, NH"	"33001"	"2000"	"2000"	"Unintentional"	"1"	13	56325	Unreliable
+	"Belknap County, NH"	"33001"	"2001"	"2001"	"Unintentional"	"1"	29	57597	50.3
+	"Belknap County, NH"	"33001"	"2001"	"2001"	"Suicide"	"2"	10	57597	Unreliable
+	"Belknap County, NH"	"33001"	"2002"	"2002"	"Unintentional"	"1"	16	58609	Unreliable
+	"Belknap County, NH"	"33001"	"2003"	"2003"	"Unintentional"	"1"	28	59497	47.1
+	"Belknap County, NH"	"33001"	"2004"	"2004"	"Unintentional"	"1"	21	60170	34.9
+	"Belknap County, NH"	"33001"	"2004"	"2004"	"Suicide"	"2"	10	60170	Unreliable
+	"Belknap County, NH"	"33001"	"2005"	"2005"	"Unintentional"	"1"	27	60287	44.8
+	"Belknap County, NH"	"33001"	"2006"	"2006"	"Unintentional"	"1"	26	60105	43.3
+	"Belknap County, NH"	"33001"	"2006"	"2006"	"Suicide"	"2"	15	60105	Unreliable
+	"Belknap County, NH"	"33001"	"2007"	"2007"	"Unintentional"	"1"	33	60109	54.9
+	"Belknap County, NH"	"33001"	"2008"	"2008"	"Unintentional"	"1"	30	60239	49.8
+	"Belknap County, NH"	"33001"	"2009"	"2009"	"Unintentional"	"1"	33	60171	54.8
+	"Belknap County, NH"	"33001"	"2009"	"2009"	"Suicide"	"2"	11	60171	Unreliable
+	"Belknap County, NH"	"33001"	"2010"	"2010"	"Unintentional"	"1"	20	60088	33.3
+	"Belknap County, NH"	"33001"	"2010"	"2010"	"Suicide"	"2"	18	60088	Unreliable
+	"Belknap County, NH"	"33001"	"2011"	"2011"	"Unintentional"	"1"	28	60223	46.5
+	"Belknap County, NH"	"33001"	"2011"	"2011"	"Suicide"	"2"	11	60223	Unreliable
+	"Belknap County, NH"	"33001"	"2012"	"2012"	"Unintentional"	"1"	28	60327	46.4
+	"Belknap County, NH"	"33001"	"2012"	"2012"	"Suicide"	"2"	10	60327	Unreliable
+	"Belknap County, NH"	"33001"	"2013"	"2013"	"Unintentional"	"1"	39	60179	64.8
+	"Belknap County, NH"	"33001"	"2014"	"2014"	"Unintentional"	"1"	28	60305	46.4
+	"Belknap County, NH"	"33001"	"2014"	"2014"	"Suicide"	"2"	10	60305	Unreliable
+	"Belknap County, NH"	"33001"	"2015"	"2015"	"Unintentional"	"1"	41	60641	67.6
+	"Belknap County, NH"	"33001"	"2015"	"2015"	"Suicide"	"2"	13	60641	Unreliable
+	"Belknap County, NH"	"33001"	"2016"	"2016"	"Unintentional"	"1"	45	60779	74.0
+	"Belknap County, NH"	"33001"	"2016"	"2016"	"Suicide"	"2"	12	60779	Unreliable
+	"Belknap County, NH"	"33001"	"2017"	"2017"	"Unintentional"	"1"	61	60785	100.4
+	"Belknap County, NH"	"33001"	"2018"	"2018"	"Unintentional"	"1"	55	61022	90.1
+	"Belknap County, NH"	"33001"	"2018"	"2018"	"Suicide"	"2"	15	61022	Unreliable
+	"Carroll County, NH"	"33003"	"1999"	"1999"	"Unintentional"	"1"	12	42815	Unreliable
+	"Carroll County, NH"	"33003"	"2000"	"2000"	"Unintentional"	"1"	25	43666	57.3
+	"Carroll County, NH"	"33003"	"2001"	"2001"	"Unintentional"	"1"	21	44200	47.5
+	"Carroll County, NH"	"33003"	"2001"	"2001"	"Suicide"	"2"	10	44200	Unreliable
+	"Carroll County, NH"	"33003"	"2002"	"2002"	"Unintentional"	"1"	23	45074	51.0
+	"Carroll County, NH"	"33003"	"2003"	"2003"	"Unintentional"	"1"	26	45697	56.9
+	"Carroll County, NH"	"33003"	"2004"	"2004"	"Unintentional"	"1"	24	46496	51.6
+	"Carroll County, NH"	"33003"	"2005"	"2005"	"Unintentional"	"1"	21	46652	45.0
+	"Carroll County, NH"	"33003"	"2005"	"2005"	"Suicide"	"2"	10	46652	Unreliable
+	"Carroll County, NH"	"33003"	"2006"	"2006"	"Unintentional"	"1"	26	47421	54.8
+	"Carroll County, NH"	"33003"	"2006"	"2006"	"Suicide"	"2"	12	47421	Unreliable
+	"Carroll County, NH"	"33003"	"2007"	"2007"	"Unintentional"	"1"	32	47829	66.9
+	"Carroll County, NH"	"33003"	"2008"	"2008"	"Unintentional"	"1"	21	48013	43.7
+	"Carroll County, NH"	"33003"	"2009"	"2009"	"Unintentional"	"1"	31	47763	64.9
+	"Carroll County, NH"	"33003"	"2010"	"2010"	"Unintentional"	"1"	37	47818	77.4
+	"Carroll County, NH"	"33003"	"2010"	"2010"	"Suicide"	"2"	12	47818	Unreliable
+	"Carroll County, NH"	"33003"	"2011"	"2011"	"Unintentional"	"1"	18	47641	Unreliable
+	"Carroll County, NH"	"33003"	"2012"	"2012"	"Unintentional"	"1"	17	47567	Unreliable
+	"Carroll County, NH"	"33003"	"2012"	"2012"	"Suicide"	"2"	11	47567	Unreliable
+	"Carroll County, NH"	"33003"	"2013"	"2013"	"Unintentional"	"1"	36	47499	75.8
+	"Carroll County, NH"	"33003"	"2014"	"2014"	"Unintentional"	"1"	29	47399	61.2
+	"Carroll County, NH"	"33003"	"2014"	"2014"	"Suicide"	"2"	12	47399	Unreliable
+	"Carroll County, NH"	"33003"	"2015"	"2015"	"Unintentional"	"1"	37	47285	78.2
+	"Carroll County, NH"	"33003"	"2015"	"2015"	"Suicide"	"2"	14	47285	Unreliable
+	"Carroll County, NH"	"33003"	"2016"	"2016"	"Unintentional"	"1"	43	47289	90.9
+	"Carroll County, NH"	"33003"	"2017"	"2017"	"Unintentional"	"1"	51	48064	106.1
+	"Carroll County, NH"	"33003"	"2017"	"2017"	"Suicide"	"2"	10	48064	Unreliable
+	"Carroll County, NH"	"33003"	"2018"	"2018"	"Unintentional"	"1"	43	48779	88.2
+	"Carroll County, NH"	"33003"	"2018"	"2018"	"Suicide"	"2"	15	48779	Unreliable
+	"Cheshire County, NH"	"33005"	"1999"	"1999"	"Unintentional"	"1"	28	73447	38.1
+	"Cheshire County, NH"	"33005"	"2000"	"2000"	"Unintentional"	"1"	22	73825	29.8
+	"Cheshire County, NH"	"33005"	"2001"	"2001"	"Unintentional"	"1"	26	74372	35.0
+	"Cheshire County, NH"	"33005"	"2001"	"2001"	"Suicide"	"2"	10	74372	Unreliable
+	"Cheshire County, NH"	"33005"	"2002"	"2002"	"Unintentional"	"1"	17	75047	Unreliable
+	"Cheshire County, NH"	"33005"	"2003"	"2003"	"Unintentional"	"1"	25	76135	32.8
+	"Cheshire County, NH"	"33005"	"2004"	"2004"	"Unintentional"	"1"	22	76709	28.7
+	"Cheshire County, NH"	"33005"	"2005"	"2005"	"Unintentional"	"1"	37	77061	48.0
+	"Cheshire County, NH"	"33005"	"2006"	"2006"	"Unintentional"	"1"	22	77658	28.3
+	"Cheshire County, NH"	"33005"	"2007"	"2007"	"Unintentional"	"1"	43	77745	55.3
+	"Cheshire County, NH"	"33005"	"2008"	"2008"	"Unintentional"	"1"	36	77472	46.5
+	"Cheshire County, NH"	"33005"	"2008"	"2008"	"Suicide"	"2"	11	77472	Unreliable
+	"Cheshire County, NH"	"33005"	"2009"	"2009"	"Unintentional"	"1"	35	77302	45.3
+	"Cheshire County, NH"	"33005"	"2010"	"2010"	"Unintentional"	"1"	48	77117	62.2
+	"Cheshire County, NH"	"33005"	"2010"	"2010"	"Suicide"	"2"	14	77117	Unreliable
+	"Cheshire County, NH"	"33005"	"2011"	"2011"	"Unintentional"	"1"	35	76918	45.5
+	"Cheshire County, NH"	"33005"	"2011"	"2011"	"Suicide"	"2"	17	76918	Unreliable
+	"Cheshire County, NH"	"33005"	"2012"	"2012"	"Unintentional"	"1"	34	76851	44.2
+	"Cheshire County, NH"	"33005"	"2012"	"2012"	"Suicide"	"2"	15	76851	Unreliable
+	"Cheshire County, NH"	"33005"	"2013"	"2013"	"Unintentional"	"1"	49	76610	64.0
+	"Cheshire County, NH"	"33005"	"2013"	"2013"	"Suicide"	"2"	11	76610	Unreliable
+	"Cheshire County, NH"	"33005"	"2014"	"2014"	"Unintentional"	"1"	38	76115	49.9
+	"Cheshire County, NH"	"33005"	"2014"	"2014"	"Suicide"	"2"	16	76115	Unreliable
+	"Cheshire County, NH"	"33005"	"2015"	"2015"	"Unintentional"	"1"	22	75909	29.0
+	"Cheshire County, NH"	"33005"	"2015"	"2015"	"Suicide"	"2"	12	75909	Unreliable
+	"Cheshire County, NH"	"33005"	"2016"	"2016"	"Unintentional"	"1"	51	75774	67.3
+	"Cheshire County, NH"	"33005"	"2016"	"2016"	"Suicide"	"2"	12	75774	Unreliable
+	"Cheshire County, NH"	"33005"	"2017"	"2017"	"Unintentional"	"1"	59	75960	77.7
+	"Cheshire County, NH"	"33005"	"2017"	"2017"	"Suicide"	"2"	20	75960	26.3
+	"Cheshire County, NH"	"33005"	"2018"	"2018"	"Unintentional"	"1"	58	76493	75.8
+	"Cheshire County, NH"	"33005"	"2018"	"2018"	"Suicide"	"2"	19	76493	Unreliable
+	"Coos County, NH"	"33007"	"1999"	"1999"	"Unintentional"	"1"	14	32998	Unreliable
+	"Coos County, NH"	"33007"	"2000"	"2000"	"Unintentional"	"1"	21	33111	63.4
+	"Coos County, NH"	"33007"	"2001"	"2001"	"Unintentional"	"1"	20	33113	60.4
+	"Coos County, NH"	"33007"	"2002"	"2002"	"Unintentional"	"1"	16	33234	Unreliable
+	"Coos County, NH"	"33007"	"2003"	"2003"	"Unintentional"	"1"	14	33462	Unreliable
+	"Coos County, NH"	"33007"	"2004"	"2004"	"Unintentional"	"1"	27	33589	80.4
+	"Coos County, NH"	"33007"	"2005"	"2005"	"Unintentional"	"1"	17	33845	Unreliable
+	"Coos County, NH"	"33007"	"2005"	"2005"	"Suicide"	"2"	10	33845	Unreliable
+	"Coos County, NH"	"33007"	"2006"	"2006"	"Unintentional"	"1"	26	33814	76.9
+	"Coos County, NH"	"33007"	"2007"	"2007"	"Unintentional"	"1"	26	33751	77.0
+	"Coos County, NH"	"33007"	"2008"	"2008"	"Unintentional"	"1"	34	33488	101.5
+	"Coos County, NH"	"33007"	"2009"	"2009"	"Unintentional"	"1"	12	33224	Unreliable
+	"Coos County, NH"	"33007"	"2010"	"2010"	"Unintentional"	"1"	20	33055	60.5
+	"Coos County, NH"	"33007"	"2011"	"2011"	"Unintentional"	"1"	19	32688	Unreliable
+	"Coos County, NH"	"33007"	"2012"	"2012"	"Unintentional"	"1"	23	32096	71.7
+	"Coos County, NH"	"33007"	"2013"	"2013"	"Unintentional"	"1"	19	31997	Unreliable
+	"Coos County, NH"	"33007"	"2014"	"2014"	"Unintentional"	"1"	27	31653	85.3
+	"Coos County, NH"	"33007"	"2015"	"2015"	"Unintentional"	"1"	31	31212	99.3
+	"Coos County, NH"	"33007"	"2016"	"2016"	"Unintentional"	"1"	30	32039	93.6
+	"Coos County, NH"	"33007"	"2016"	"2016"	"Suicide"	"2"	14	32039	Unreliable
+	"Coos County, NH"	"33007"	"2017"	"2017"	"Unintentional"	"1"	26	31634	82.2
+	"Coos County, NH"	"33007"	"2018"	"2018"	"Unintentional"	"1"	29	31589	91.8
+	"Grafton County, NH"	"33009"	"1999"	"1999"	"Unintentional"	"1"	15	81387	Unreliable
+	"Grafton County, NH"	"33009"	"2000"	"2000"	"Unintentional"	"1"	25	81743	30.6
+	"Grafton County, NH"	"33009"	"2000"	"2000"	"Suicide"	"2"	12	81743	Unreliable
+	"Grafton County, NH"	"33009"	"2001"	"2001"	"Unintentional"	"1"	26	82233	31.6
+	"Grafton County, NH"	"33009"	"2002"	"2002"	"Unintentional"	"1"	36	83152	43.3
+	"Grafton County, NH"	"33009"	"2002"	"2002"	"Suicide"	"2"	12	83152	Unreliable
+	"Grafton County, NH"	"33009"	"2003"	"2003"	"Unintentional"	"1"	33	84211	39.2
+	"Grafton County, NH"	"33009"	"2004"	"2004"	"Unintentional"	"1"	27	85312	31.6
+	"Grafton County, NH"	"33009"	"2005"	"2005"	"Unintentional"	"1"	29	86287	33.6
+	"Grafton County, NH"	"33009"	"2005"	"2005"	"Suicide"	"2"	10	86287	Unreliable
+	"Grafton County, NH"	"33009"	"2006"	"2006"	"Unintentional"	"1"	34	87236	39.0
+	"Grafton County, NH"	"33009"	"2007"	"2007"	"Unintentional"	"1"	38	87764	43.3
+	"Grafton County, NH"	"33009"	"2007"	"2007"	"Suicide"	"2"	19	87764	Unreliable
+	"Grafton County, NH"	"33009"	"2008"	"2008"	"Unintentional"	"1"	45	88745	50.7
+	"Grafton County, NH"	"33009"	"2009"	"2009"	"Unintentional"	"1"	23	88926	25.9
+	"Grafton County, NH"	"33009"	"2010"	"2010"	"Unintentional"	"1"	38	89118	42.6
+	"Grafton County, NH"	"33009"	"2010"	"2010"	"Suicide"	"2"	13	89118	Unreliable
+	"Grafton County, NH"	"33009"	"2011"	"2011"	"Unintentional"	"1"	37	88923	41.6
+	"Grafton County, NH"	"33009"	"2011"	"2011"	"Suicide"	"2"	14	88923	Unreliable
+	"Grafton County, NH"	"33009"	"2012"	"2012"	"Unintentional"	"1"	39	89181	43.7
+	"Grafton County, NH"	"33009"	"2012"	"2012"	"Suicide"	"2"	19	89181	Unreliable
+	"Grafton County, NH"	"33009"	"2013"	"2013"	"Unintentional"	"1"	47	89629	52.4
+	"Grafton County, NH"	"33009"	"2014"	"2014"	"Unintentional"	"1"	51	89658	56.9
+	"Grafton County, NH"	"33009"	"2014"	"2014"	"Suicide"	"2"	14	89658	Unreliable
+	"Grafton County, NH"	"33009"	"2015"	"2015"	"Unintentional"	"1"	55	89320	61.6
+	"Grafton County, NH"	"33009"	"2015"	"2015"	"Suicide"	"2"	13	89320	Unreliable
+	"Grafton County, NH"	"33009"	"2016"	"2016"	"Unintentional"	"1"	47	88888	52.9
+	"Grafton County, NH"	"33009"	"2016"	"2016"	"Suicide"	"2"	18	88888	Unreliable
+	"Grafton County, NH"	"33009"	"2017"	"2017"	"Unintentional"	"1"	53	89386	59.3
+	"Grafton County, NH"	"33009"	"2017"	"2017"	"Suicide"	"2"	15	89386	Unreliable
+	"Grafton County, NH"	"33009"	"2018"	"2018"	"Unintentional"	"1"	58	89786	64.6
+	"Grafton County, NH"	"33009"	"2018"	"2018"	"Suicide"	"2"	17	89786	Unreliable
+	"Hillsborough County, NH"	"33011"	"1999"	"1999"	"Unintentional"	"1"	96	376407	25.5
+	"Hillsborough County, NH"	"33011"	"1999"	"1999"	"Suicide"	"2"	47	376407	12.5
+	"Hillsborough County, NH"	"33011"	"2000"	"2000"	"Unintentional"	"1"	76	380841	20.0
+	"Hillsborough County, NH"	"33011"	"2000"	"2000"	"Suicide"	"2"	33	380841	8.7
+	"Hillsborough County, NH"	"33011"	"2001"	"2001"	"Unintentional"	"1"	101	387414	26.1
+	"Hillsborough County, NH"	"33011"	"2001"	"2001"	"Suicide"	"2"	53	387414	13.7
+	"Hillsborough County, NH"	"33011"	"2002"	"2002"	"Unintentional"	"1"	99	389665	25.4
+	"Hillsborough County, NH"	"33011"	"2002"	"2002"	"Suicide"	"2"	34	389665	8.7
+	"Hillsborough County, NH"	"33011"	"2003"	"2003"	"Unintentional"	"1"	107	391461	27.3
+	"Hillsborough County, NH"	"33011"	"2003"	"2003"	"Suicide"	"2"	43	391461	11.0
+	"Hillsborough County, NH"	"33011"	"2003"	"2003"	"Homicide"	"3"	11	391461	Unreliable
+	"Hillsborough County, NH"	"33011"	"2004"	"2004"	"Unintentional"	"1"	113	394428	28.6
+	"Hillsborough County, NH"	"33011"	"2004"	"2004"	"Suicide"	"2"	38	394428	9.6
+	"Hillsborough County, NH"	"33011"	"2005"	"2005"	"Unintentional"	"1"	121	396381	30.5
+	"Hillsborough County, NH"	"33011"	"2005"	"2005"	"Suicide"	"2"	38	396381	9.6
+	"Hillsborough County, NH"	"33011"	"2006"	"2006"	"Unintentional"	"1"	120	398169	30.1
+	"Hillsborough County, NH"	"33011"	"2006"	"2006"	"Suicide"	"2"	48	398169	12.1
+	"Hillsborough County, NH"	"33011"	"2007"	"2007"	"Unintentional"	"1"	132	398843	33.1
+	"Hillsborough County, NH"	"33011"	"2007"	"2007"	"Suicide"	"2"	45	398843	11.3
+	"Hillsborough County, NH"	"33011"	"2008"	"2008"	"Unintentional"	"1"	119	399556	29.8
+	"Hillsborough County, NH"	"33011"	"2008"	"2008"	"Suicide"	"2"	55	399556	13.8
+	"Hillsborough County, NH"	"33011"	"2009"	"2009"	"Unintentional"	"1"	123	400148	30.7
+	"Hillsborough County, NH"	"33011"	"2009"	"2009"	"Suicide"	"2"	47	400148	11.7
+	"Hillsborough County, NH"	"33011"	"2010"	"2010"	"Unintentional"	"1"	128	400721	31.9
+	"Hillsborough County, NH"	"33011"	"2010"	"2010"	"Suicide"	"2"	49	400721	12.2
+	"Hillsborough County, NH"	"33011"	"2011"	"2011"	"Unintentional"	"1"	162	401696	40.3
+	"Hillsborough County, NH"	"33011"	"2011"	"2011"	"Suicide"	"2"	61	401696	15.2
+	"Hillsborough County, NH"	"33011"	"2011"	"2011"	"Homicide"	"3"	10	401696	Unreliable
+	"Hillsborough County, NH"	"33011"	"2012"	"2012"	"Unintentional"	"1"	157	402922	39.0
+	"Hillsborough County, NH"	"33011"	"2012"	"2012"	"Suicide"	"2"	64	402922	15.9
+	"Hillsborough County, NH"	"33011"	"2013"	"2013"	"Unintentional"	"1"	158	403985	39.1
+	"Hillsborough County, NH"	"33011"	"2013"	"2013"	"Suicide"	"2"	60	403985	14.9
+	"Hillsborough County, NH"	"33011"	"2013"	"2013"	"Homicide"	"3"	10	403985	Unreliable
+	"Hillsborough County, NH"	"33011"	"2014"	"2014"	"Unintentional"	"1"	210	405184	51.8
+	"Hillsborough County, NH"	"33011"	"2014"	"2014"	"Suicide"	"2"	85	405184	21.0
+	"Hillsborough County, NH"	"33011"	"2015"	"2015"	"Unintentional"	"1"	252	406678	62.0
+	"Hillsborough County, NH"	"33011"	"2015"	"2015"	"Suicide"	"2"	69	406678	17.0
+	"Hillsborough County, NH"	"33011"	"2015"	"2015"	"Homicide"	"3"	12	406678	Unreliable
+	"Hillsborough County, NH"	"33011"	"2016"	"2016"	"Unintentional"	"1"	313	407761	76.8
+	"Hillsborough County, NH"	"33011"	"2016"	"2016"	"Suicide"	"2"	78	407761	19.1
+	"Hillsborough County, NH"	"33011"	"2017"	"2017"	"Unintentional"	"1"	276	409697	67.4
+	"Hillsborough County, NH"	"33011"	"2017"	"2017"	"Suicide"	"2"	87	409697	21.2
+	"Hillsborough County, NH"	"33011"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	12	409697	Unreliable
+	"Hillsborough County, NH"	"33011"	"2018"	"2018"	"Unintentional"	"1"	280	415247	67.4
+	"Hillsborough County, NH"	"33011"	"2018"	"2018"	"Suicide"	"2"	64	415247	15.4
+	"Merrimack County, NH"	"33013"	"1999"	"1999"	"Unintentional"	"1"	51	134455	37.9
+	"Merrimack County, NH"	"33013"	"1999"	"1999"	"Suicide"	"2"	12	134455	Unreliable
+	"Merrimack County, NH"	"33013"	"2000"	"2000"	"Unintentional"	"1"	32	136225	23.5
+	"Merrimack County, NH"	"33013"	"2000"	"2000"	"Suicide"	"2"	20	136225	14.7
+	"Merrimack County, NH"	"33013"	"2001"	"2001"	"Unintentional"	"1"	40	138309	28.9
+	"Merrimack County, NH"	"33013"	"2001"	"2001"	"Suicide"	"2"	18	138309	Unreliable
+	"Merrimack County, NH"	"33013"	"2002"	"2002"	"Unintentional"	"1"	46	140880	32.7
+	"Merrimack County, NH"	"33013"	"2002"	"2002"	"Suicide"	"2"	13	140880	Unreliable
+	"Merrimack County, NH"	"33013"	"2003"	"2003"	"Unintentional"	"1"	44	142548	30.9
+	"Merrimack County, NH"	"33013"	"2003"	"2003"	"Suicide"	"2"	25	142548	17.5
+	"Merrimack County, NH"	"33013"	"2004"	"2004"	"Unintentional"	"1"	73	143841	50.8
+	"Merrimack County, NH"	"33013"	"2004"	"2004"	"Suicide"	"2"	23	143841	16.0
+	"Merrimack County, NH"	"33013"	"2005"	"2005"	"Unintentional"	"1"	63	145195	43.4
+	"Merrimack County, NH"	"33013"	"2005"	"2005"	"Suicide"	"2"	22	145195	15.2
+	"Merrimack County, NH"	"33013"	"2006"	"2006"	"Unintentional"	"1"	51	146609	34.8
+	"Merrimack County, NH"	"33013"	"2006"	"2006"	"Suicide"	"2"	12	146609	Unreliable
+	"Merrimack County, NH"	"33013"	"2007"	"2007"	"Unintentional"	"1"	61	147024	41.5
+	"Merrimack County, NH"	"33013"	"2007"	"2007"	"Suicide"	"2"	14	147024	Unreliable
+	"Merrimack County, NH"	"33013"	"2008"	"2008"	"Unintentional"	"1"	51	147170	34.7
+	"Merrimack County, NH"	"33013"	"2008"	"2008"	"Suicide"	"2"	21	147170	14.3
+	"Merrimack County, NH"	"33013"	"2009"	"2009"	"Unintentional"	"1"	62	146723	42.3
+	"Merrimack County, NH"	"33013"	"2009"	"2009"	"Suicide"	"2"	23	146723	15.7
+	"Merrimack County, NH"	"33013"	"2010"	"2010"	"Unintentional"	"1"	51	146445	34.8
+	"Merrimack County, NH"	"33013"	"2010"	"2010"	"Suicide"	"2"	18	146445	Unreliable
+	"Merrimack County, NH"	"33013"	"2011"	"2011"	"Unintentional"	"1"	71	146579	48.4
+	"Merrimack County, NH"	"33013"	"2011"	"2011"	"Suicide"	"2"	21	146579	14.3
+	"Merrimack County, NH"	"33013"	"2012"	"2012"	"Unintentional"	"1"	57	146761	38.8
+	"Merrimack County, NH"	"33013"	"2012"	"2012"	"Suicide"	"2"	17	146761	Unreliable
+	"Merrimack County, NH"	"33013"	"2013"	"2013"	"Unintentional"	"1"	65	146849	44.3
+	"Merrimack County, NH"	"33013"	"2013"	"2013"	"Suicide"	"2"	21	146849	14.3
+	"Merrimack County, NH"	"33013"	"2014"	"2014"	"Unintentional"	"1"	93	147171	63.2
+	"Merrimack County, NH"	"33013"	"2014"	"2014"	"Suicide"	"2"	25	147171	17.0
+	"Merrimack County, NH"	"33013"	"2015"	"2015"	"Unintentional"	"1"	94	147994	63.5
+	"Merrimack County, NH"	"33013"	"2015"	"2015"	"Suicide"	"2"	26	147994	17.6
+	"Merrimack County, NH"	"33013"	"2016"	"2016"	"Unintentional"	"1"	86	148582	57.9
+	"Merrimack County, NH"	"33013"	"2016"	"2016"	"Suicide"	"2"	29	148582	19.5
+	"Merrimack County, NH"	"33013"	"2017"	"2017"	"Unintentional"	"1"	83	149216	55.6
+	"Merrimack County, NH"	"33013"	"2017"	"2017"	"Suicide"	"2"	29	149216	19.4
+	"Merrimack County, NH"	"33013"	"2018"	"2018"	"Unintentional"	"1"	119	151132	78.7
+	"Merrimack County, NH"	"33013"	"2018"	"2018"	"Suicide"	"2"	44	151132	29.1
+	"Rockingham County, NH"	"33015"	"1999"	"1999"	"Unintentional"	"1"	66	273853	24.1
+	"Rockingham County, NH"	"33015"	"1999"	"1999"	"Suicide"	"2"	25	273853	9.1
+	"Rockingham County, NH"	"33015"	"2000"	"2000"	"Unintentional"	"1"	61	277359	22.0
+	"Rockingham County, NH"	"33015"	"2000"	"2000"	"Suicide"	"2"	28	277359	10.1
+	"Rockingham County, NH"	"33015"	"2001"	"2001"	"Unintentional"	"1"	59	282932	20.9
+	"Rockingham County, NH"	"33015"	"2001"	"2001"	"Suicide"	"2"	25	282932	8.8
+	"Rockingham County, NH"	"33015"	"2002"	"2002"	"Unintentional"	"1"	45	286218	15.7
+	"Rockingham County, NH"	"33015"	"2002"	"2002"	"Suicide"	"2"	25	286218	8.7
+	"Rockingham County, NH"	"33015"	"2003"	"2003"	"Unintentional"	"1"	76	287893	26.4
+	"Rockingham County, NH"	"33015"	"2003"	"2003"	"Suicide"	"2"	29	287893	10.1
+	"Rockingham County, NH"	"33015"	"2004"	"2004"	"Unintentional"	"1"	76	289103	26.3
+	"Rockingham County, NH"	"33015"	"2004"	"2004"	"Suicide"	"2"	33	289103	11.4
+	"Rockingham County, NH"	"33015"	"2005"	"2005"	"Unintentional"	"1"	86	291190	29.5
+	"Rockingham County, NH"	"33015"	"2005"	"2005"	"Suicide"	"2"	41	291190	14.1
+	"Rockingham County, NH"	"33015"	"2006"	"2006"	"Unintentional"	"1"	98	293618	33.4
+	"Rockingham County, NH"	"33015"	"2006"	"2006"	"Suicide"	"2"	29	293618	9.9
+	"Rockingham County, NH"	"33015"	"2007"	"2007"	"Unintentional"	"1"	95	294132	32.3
+	"Rockingham County, NH"	"33015"	"2007"	"2007"	"Suicide"	"2"	31	294132	10.5
+	"Rockingham County, NH"	"33015"	"2008"	"2008"	"Unintentional"	"1"	86	294996	29.2
+	"Rockingham County, NH"	"33015"	"2008"	"2008"	"Suicide"	"2"	37	294996	12.5
+	"Rockingham County, NH"	"33015"	"2009"	"2009"	"Unintentional"	"1"	107	295083	36.3
+	"Rockingham County, NH"	"33015"	"2009"	"2009"	"Suicide"	"2"	36	295083	12.2
+	"Rockingham County, NH"	"33015"	"2010"	"2010"	"Unintentional"	"1"	104	295223	35.2
+	"Rockingham County, NH"	"33015"	"2010"	"2010"	"Suicide"	"2"	40	295223	13.5
+	"Rockingham County, NH"	"33015"	"2011"	"2011"	"Unintentional"	"1"	110	296207	37.1
+	"Rockingham County, NH"	"33015"	"2011"	"2011"	"Suicide"	"2"	42	296207	14.2
+	"Rockingham County, NH"	"33015"	"2012"	"2012"	"Unintentional"	"1"	142	297820	47.7
+	"Rockingham County, NH"	"33015"	"2012"	"2012"	"Suicide"	"2"	40	297820	13.4
+	"Rockingham County, NH"	"33015"	"2013"	"2013"	"Unintentional"	"1"	122	299134	40.8
+	"Rockingham County, NH"	"33015"	"2013"	"2013"	"Suicide"	"2"	40	299134	13.4
+	"Rockingham County, NH"	"33015"	"2014"	"2014"	"Unintentional"	"1"	140	300621	46.6
+	"Rockingham County, NH"	"33015"	"2014"	"2014"	"Suicide"	"2"	41	300621	13.6
+	"Rockingham County, NH"	"33015"	"2015"	"2015"	"Unintentional"	"1"	172	301777	57.0
+	"Rockingham County, NH"	"33015"	"2015"	"2015"	"Suicide"	"2"	53	301777	17.6
+	"Rockingham County, NH"	"33015"	"2016"	"2016"	"Unintentional"	"1"	184	303251	60.7
+	"Rockingham County, NH"	"33015"	"2016"	"2016"	"Suicide"	"2"	34	303251	11.2
+	"Rockingham County, NH"	"33015"	"2017"	"2017"	"Unintentional"	"1"	173	306363	56.5
+	"Rockingham County, NH"	"33015"	"2017"	"2017"	"Suicide"	"2"	64	306363	20.9
+	"Rockingham County, NH"	"33015"	"2018"	"2018"	"Unintentional"	"1"	190	309176	61.5
+	"Rockingham County, NH"	"33015"	"2018"	"2018"	"Suicide"	"2"	59	309176	19.1
+	"Strafford County, NH"	"33017"	"1999"	"1999"	"Unintentional"	"1"	18	111028	Unreliable
+	"Strafford County, NH"	"33017"	"2000"	"2000"	"Unintentional"	"1"	36	112233	32.1
+	"Strafford County, NH"	"33017"	"2000"	"2000"	"Suicide"	"2"	11	112233	Unreliable
+	"Strafford County, NH"	"33017"	"2001"	"2001"	"Unintentional"	"1"	34	114382	29.7
+	"Strafford County, NH"	"33017"	"2001"	"2001"	"Suicide"	"2"	21	114382	18.4
+	"Strafford County, NH"	"33017"	"2002"	"2002"	"Unintentional"	"1"	37	115811	31.9
+	"Strafford County, NH"	"33017"	"2002"	"2002"	"Suicide"	"2"	13	115811	Unreliable
+	"Strafford County, NH"	"33017"	"2003"	"2003"	"Unintentional"	"1"	37	116846	31.7
+	"Strafford County, NH"	"33017"	"2003"	"2003"	"Suicide"	"2"	11	116846	Unreliable
+	"Strafford County, NH"	"33017"	"2004"	"2004"	"Unintentional"	"1"	45	117926	38.2
+	"Strafford County, NH"	"33017"	"2005"	"2005"	"Unintentional"	"1"	48	118681	40.4
+	"Strafford County, NH"	"33017"	"2005"	"2005"	"Suicide"	"2"	12	118681	Unreliable
+	"Strafford County, NH"	"33017"	"2006"	"2006"	"Unintentional"	"1"	35	120363	29.1
+	"Strafford County, NH"	"33017"	"2007"	"2007"	"Unintentional"	"1"	46	121735	37.8
+	"Strafford County, NH"	"33017"	"2007"	"2007"	"Suicide"	"2"	13	121735	Unreliable
+	"Strafford County, NH"	"33017"	"2008"	"2008"	"Unintentional"	"1"	44	122460	35.9
+	"Strafford County, NH"	"33017"	"2008"	"2008"	"Suicide"	"2"	21	122460	17.1
+	"Strafford County, NH"	"33017"	"2009"	"2009"	"Unintentional"	"1"	37	123034	30.1
+	"Strafford County, NH"	"33017"	"2009"	"2009"	"Suicide"	"2"	13	123034	Unreliable
+	"Strafford County, NH"	"33017"	"2010"	"2010"	"Unintentional"	"1"	46	123143	37.4
+	"Strafford County, NH"	"33017"	"2010"	"2010"	"Suicide"	"2"	15	123143	Unreliable
+	"Strafford County, NH"	"33017"	"2011"	"2011"	"Unintentional"	"1"	52	123857	42.0
+	"Strafford County, NH"	"33017"	"2012"	"2012"	"Unintentional"	"1"	49	124119	39.5
+	"Strafford County, NH"	"33017"	"2012"	"2012"	"Suicide"	"2"	15	124119	Unreliable
+	"Strafford County, NH"	"33017"	"2013"	"2013"	"Unintentional"	"1"	63	124593	50.6
+	"Strafford County, NH"	"33017"	"2013"	"2013"	"Suicide"	"2"	20	124593	16.1
+	"Strafford County, NH"	"33017"	"2014"	"2014"	"Unintentional"	"1"	84	125604	66.9
+	"Strafford County, NH"	"33017"	"2014"	"2014"	"Suicide"	"2"	27	125604	21.5
+	"Strafford County, NH"	"33017"	"2015"	"2015"	"Unintentional"	"1"	83	126825	65.4
+	"Strafford County, NH"	"33017"	"2015"	"2015"	"Suicide"	"2"	17	126825	Unreliable
+	"Strafford County, NH"	"33017"	"2016"	"2016"	"Unintentional"	"1"	104	127428	81.6
+	"Strafford County, NH"	"33017"	"2016"	"2016"	"Suicide"	"2"	23	127428	18.0
+	"Strafford County, NH"	"33017"	"2017"	"2017"	"Unintentional"	"1"	102	128613	79.3
+	"Strafford County, NH"	"33017"	"2017"	"2017"	"Suicide"	"2"	15	128613	Unreliable
+	"Strafford County, NH"	"33017"	"2018"	"2018"	"Unintentional"	"1"	104	130090	79.9
+	"Strafford County, NH"	"33017"	"2018"	"2018"	"Suicide"	"2"	31	130090	23.8
+	"Sullivan County, NH"	"33019"	"1999"	"1999"	"Unintentional"	"1"	19	40107	Unreliable
+	"Sullivan County, NH"	"33019"	"2000"	"2000"	"Unintentional"	"1"	10	40458	Unreliable
+	"Sullivan County, NH"	"33019"	"2001"	"2001"	"Unintentional"	"1"	18	40965	Unreliable
+	"Sullivan County, NH"	"33019"	"2002"	"2002"	"Unintentional"	"1"	22	41399	53.1
+	"Sullivan County, NH"	"33019"	"2003"	"2003"	"Unintentional"	"1"	15	42090	Unreliable
+	"Sullivan County, NH"	"33019"	"2003"	"2003"	"Suicide"	"2"	10	42090	Unreliable
+	"Sullivan County, NH"	"33019"	"2004"	"2004"	"Unintentional"	"1"	17	42547	Unreliable
+	"Sullivan County, NH"	"33019"	"2005"	"2005"	"Unintentional"	"1"	28	42913	65.2
+	"Sullivan County, NH"	"33019"	"2006"	"2006"	"Unintentional"	"1"	22	43396	50.7
+	"Sullivan County, NH"	"33019"	"2007"	"2007"	"Unintentional"	"1"	21	43608	48.2
+	"Sullivan County, NH"	"33019"	"2008"	"2008"	"Unintentional"	"1"	22	43767	50.3
+	"Sullivan County, NH"	"33019"	"2009"	"2009"	"Unintentional"	"1"	19	43728	Unreliable
+	"Sullivan County, NH"	"33019"	"2010"	"2010"	"Unintentional"	"1"	25	43742	57.2
+	"Sullivan County, NH"	"33019"	"2010"	"2010"	"Suicide"	"2"	10	43742	Unreliable
+	"Sullivan County, NH"	"33019"	"2011"	"2011"	"Unintentional"	"1"	21	43462	48.3
+	"Sullivan County, NH"	"33019"	"2011"	"2011"	"Suicide"	"2"	11	43462	Unreliable
+	"Sullivan County, NH"	"33019"	"2012"	"2012"	"Unintentional"	"1"	27	43074	62.7
+	"Sullivan County, NH"	"33019"	"2013"	"2013"	"Unintentional"	"1"	21	42984	48.9
+	"Sullivan County, NH"	"33019"	"2014"	"2014"	"Unintentional"	"1"	16	43103	Unreliable
+	"Sullivan County, NH"	"33019"	"2014"	"2014"	"Suicide"	"2"	11	43103	Unreliable
+	"Sullivan County, NH"	"33019"	"2015"	"2015"	"Unintentional"	"1"	28	42967	65.2
+	"Sullivan County, NH"	"33019"	"2016"	"2016"	"Unintentional"	"1"	21	43004	48.8
+	"Sullivan County, NH"	"33019"	"2016"	"2016"	"Suicide"	"2"	16	43004	Unreliable
+	"Sullivan County, NH"	"33019"	"2017"	"2017"	"Unintentional"	"1"	23	43077	53.4
+	"Sullivan County, NH"	"33019"	"2017"	"2017"	"Suicide"	"2"	11	43077	Unreliable
+	"Sullivan County, NH"	"33019"	"2018"	"2018"	"Unintentional"	"1"	23	43144	53.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: New_Hampshire"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: New Hampshire (33)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:53:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:53:14 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,1010 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Allamakee County, IA"	"19005"	"2005"	"2005"	"Unintentional"	"1"	10	14371	Unreliable
+	"Allamakee County, IA"	"19005"	"2007"	"2007"	"Unintentional"	"1"	11	14335	Unreliable
+	"Allamakee County, IA"	"19005"	"2012"	"2012"	"Unintentional"	"1"	10	14237	Unreliable
+	"Allamakee County, IA"	"19005"	"2014"	"2014"	"Unintentional"	"1"	17	14038	Unreliable
+	"Allamakee County, IA"	"19005"	"2017"	"2017"	"Unintentional"	"1"	13	13884	Unreliable
+	"Appanoose County, IA"	"19007"	"2010"	"2010"	"Unintentional"	"1"	11	12887	Unreliable
+	"Appanoose County, IA"	"19007"	"2011"	"2011"	"Unintentional"	"1"	12	12797	Unreliable
+	"Appanoose County, IA"	"19007"	"2012"	"2012"	"Unintentional"	"1"	13	12700	Unreliable
+	"Appanoose County, IA"	"19007"	"2013"	"2013"	"Unintentional"	"1"	12	12692	Unreliable
+	"Appanoose County, IA"	"19007"	"2017"	"2017"	"Unintentional"	"1"	11	12352	Unreliable
+	"Audubon County, IA"	"19009"	"2016"	"2016"	"Unintentional"	"1"	10	5678	Unreliable
+	"Benton County, IA"	"19011"	"2001"	"2001"	"Unintentional"	"1"	10	25532	Unreliable
+	"Benton County, IA"	"19011"	"2002"	"2002"	"Unintentional"	"1"	13	25829	Unreliable
+	"Benton County, IA"	"19011"	"2004"	"2004"	"Unintentional"	"1"	11	26181	Unreliable
+	"Benton County, IA"	"19011"	"2006"	"2006"	"Unintentional"	"1"	14	26137	Unreliable
+	"Benton County, IA"	"19011"	"2007"	"2007"	"Unintentional"	"1"	14	26066	Unreliable
+	"Benton County, IA"	"19011"	"2008"	"2008"	"Unintentional"	"1"	13	26097	Unreliable
+	"Benton County, IA"	"19011"	"2010"	"2010"	"Unintentional"	"1"	14	26076	Unreliable
+	"Benton County, IA"	"19011"	"2011"	"2011"	"Unintentional"	"1"	14	26092	Unreliable
+	"Benton County, IA"	"19011"	"2012"	"2012"	"Unintentional"	"1"	10	25827	Unreliable
+	"Benton County, IA"	"19011"	"2013"	"2013"	"Unintentional"	"1"	21	25699	81.7
+	"Benton County, IA"	"19011"	"2014"	"2014"	"Unintentional"	"1"	16	25680	Unreliable
+	"Benton County, IA"	"19011"	"2015"	"2015"	"Unintentional"	"1"	19	25658	Unreliable
+	"Benton County, IA"	"19011"	"2016"	"2016"	"Unintentional"	"1"	26	25699	101.2
+	"Benton County, IA"	"19011"	"2017"	"2017"	"Unintentional"	"1"	17	25642	Unreliable
+	"Benton County, IA"	"19011"	"2018"	"2018"	"Unintentional"	"1"	12	25642	Unreliable
+	"Black Hawk County, IA"	"19013"	"1999"	"1999"	"Unintentional"	"1"	37	127786	29.0
+	"Black Hawk County, IA"	"19013"	"2000"	"2000"	"Unintentional"	"1"	37	128012	28.9
+	"Black Hawk County, IA"	"19013"	"2000"	"2000"	"Suicide"	"2"	13	128012	Unreliable
+	"Black Hawk County, IA"	"19013"	"2001"	"2001"	"Unintentional"	"1"	46	127765	36.0
+	"Black Hawk County, IA"	"19013"	"2002"	"2002"	"Unintentional"	"1"	39	126876	30.7
+	"Black Hawk County, IA"	"19013"	"2002"	"2002"	"Suicide"	"2"	12	126876	Unreliable
+	"Black Hawk County, IA"	"19013"	"2003"	"2003"	"Unintentional"	"1"	58	126491	45.9
+	"Black Hawk County, IA"	"19013"	"2004"	"2004"	"Unintentional"	"1"	51	126682	40.3
+	"Black Hawk County, IA"	"19013"	"2004"	"2004"	"Suicide"	"2"	11	126682	Unreliable
+	"Black Hawk County, IA"	"19013"	"2005"	"2005"	"Unintentional"	"1"	36	127021	28.3
+	"Black Hawk County, IA"	"19013"	"2005"	"2005"	"Suicide"	"2"	15	127021	Unreliable
+	"Black Hawk County, IA"	"19013"	"2006"	"2006"	"Unintentional"	"1"	47	127486	36.9
+	"Black Hawk County, IA"	"19013"	"2007"	"2007"	"Unintentional"	"1"	56	127756	43.8
+	"Black Hawk County, IA"	"19013"	"2008"	"2008"	"Unintentional"	"1"	55	129203	42.6
+	"Black Hawk County, IA"	"19013"	"2009"	"2009"	"Unintentional"	"1"	47	130595	36.0
+	"Black Hawk County, IA"	"19013"	"2009"	"2009"	"Suicide"	"2"	10	130595	Unreliable
+	"Black Hawk County, IA"	"19013"	"2010"	"2010"	"Unintentional"	"1"	41	131090	31.3
+	"Black Hawk County, IA"	"19013"	"2010"	"2010"	"Suicide"	"2"	18	131090	Unreliable
+	"Black Hawk County, IA"	"19013"	"2011"	"2011"	"Unintentional"	"1"	42	131549	31.9
+	"Black Hawk County, IA"	"19013"	"2011"	"2011"	"Suicide"	"2"	14	131549	Unreliable
+	"Black Hawk County, IA"	"19013"	"2012"	"2012"	"Unintentional"	"1"	36	131820	27.3
+	"Black Hawk County, IA"	"19013"	"2012"	"2012"	"Suicide"	"2"	15	131820	Unreliable
+	"Black Hawk County, IA"	"19013"	"2013"	"2013"	"Unintentional"	"1"	48	132546	36.2
+	"Black Hawk County, IA"	"19013"	"2013"	"2013"	"Suicide"	"2"	19	132546	Unreliable
+	"Black Hawk County, IA"	"19013"	"2014"	"2014"	"Unintentional"	"1"	53	132897	39.9
+	"Black Hawk County, IA"	"19013"	"2014"	"2014"	"Suicide"	"2"	15	132897	Unreliable
+	"Black Hawk County, IA"	"19013"	"2015"	"2015"	"Unintentional"	"1"	48	133455	36.0
+	"Black Hawk County, IA"	"19013"	"2015"	"2015"	"Suicide"	"2"	19	133455	Unreliable
+	"Black Hawk County, IA"	"19013"	"2016"	"2016"	"Unintentional"	"1"	70	132904	52.7
+	"Black Hawk County, IA"	"19013"	"2016"	"2016"	"Suicide"	"2"	22	132904	16.6
+	"Black Hawk County, IA"	"19013"	"2017"	"2017"	"Unintentional"	"1"	54	132648	40.7
+	"Black Hawk County, IA"	"19013"	"2017"	"2017"	"Suicide"	"2"	13	132648	Unreliable
+	"Black Hawk County, IA"	"19013"	"2018"	"2018"	"Unintentional"	"1"	66	132408	49.8
+	"Black Hawk County, IA"	"19013"	"2018"	"2018"	"Suicide"	"2"	22	132408	16.6
+	"Boone County, IA"	"19015"	"1999"	"1999"	"Unintentional"	"1"	12	26164	Unreliable
+	"Boone County, IA"	"19015"	"2000"	"2000"	"Unintentional"	"1"	17	26224	Unreliable
+	"Boone County, IA"	"19015"	"2001"	"2001"	"Unintentional"	"1"	12	26249	Unreliable
+	"Boone County, IA"	"19015"	"2003"	"2003"	"Unintentional"	"1"	11	26232	Unreliable
+	"Boone County, IA"	"19015"	"2005"	"2005"	"Unintentional"	"1"	11	26500	Unreliable
+	"Boone County, IA"	"19015"	"2006"	"2006"	"Unintentional"	"1"	20	26471	75.6
+	"Boone County, IA"	"19015"	"2007"	"2007"	"Unintentional"	"1"	16	26553	Unreliable
+	"Boone County, IA"	"19015"	"2008"	"2008"	"Unintentional"	"1"	13	26454	Unreliable
+	"Boone County, IA"	"19015"	"2009"	"2009"	"Unintentional"	"1"	23	26360	87.3
+	"Boone County, IA"	"19015"	"2010"	"2010"	"Unintentional"	"1"	14	26306	Unreliable
+	"Boone County, IA"	"19015"	"2011"	"2011"	"Unintentional"	"1"	12	26255	Unreliable
+	"Boone County, IA"	"19015"	"2012"	"2012"	"Unintentional"	"1"	23	26195	87.8
+	"Boone County, IA"	"19015"	"2014"	"2014"	"Unintentional"	"1"	11	26433	Unreliable
+	"Boone County, IA"	"19015"	"2016"	"2016"	"Unintentional"	"1"	21	26532	79.1
+	"Boone County, IA"	"19015"	"2017"	"2017"	"Unintentional"	"1"	14	26484	Unreliable
+	"Boone County, IA"	"19015"	"2018"	"2018"	"Unintentional"	"1"	15	26346	Unreliable
+	"Bremer County, IA"	"19017"	"1999"	"1999"	"Unintentional"	"1"	11	23398	Unreliable
+	"Bremer County, IA"	"19017"	"2001"	"2001"	"Unintentional"	"1"	12	23506	Unreliable
+	"Bremer County, IA"	"19017"	"2002"	"2002"	"Unintentional"	"1"	10	23386	Unreliable
+	"Bremer County, IA"	"19017"	"2004"	"2004"	"Unintentional"	"1"	10	23728	Unreliable
+	"Bremer County, IA"	"19017"	"2008"	"2008"	"Unintentional"	"1"	10	24162	Unreliable
+	"Bremer County, IA"	"19017"	"2011"	"2011"	"Unintentional"	"1"	11	24281	Unreliable
+	"Bremer County, IA"	"19017"	"2013"	"2013"	"Unintentional"	"1"	17	24624	Unreliable
+	"Bremer County, IA"	"19017"	"2016"	"2016"	"Unintentional"	"1"	10	24798	Unreliable
+	"Bremer County, IA"	"19017"	"2018"	"2018"	"Unintentional"	"1"	10	24947	Unreliable
+	"Buchanan County, IA"	"19019"	"2000"	"2000"	"Unintentional"	"1"	11	21093	Unreliable
+	"Buchanan County, IA"	"19019"	"2002"	"2002"	"Unintentional"	"1"	12	20796	Unreliable
+	"Buchanan County, IA"	"19019"	"2003"	"2003"	"Unintentional"	"1"	11	20822	Unreliable
+	"Buchanan County, IA"	"19019"	"2004"	"2004"	"Unintentional"	"1"	10	20910	Unreliable
+	"Buchanan County, IA"	"19019"	"2009"	"2009"	"Unintentional"	"1"	11	21016	Unreliable
+	"Buchanan County, IA"	"19019"	"2010"	"2010"	"Unintentional"	"1"	10	20958	Unreliable
+	"Buchanan County, IA"	"19019"	"2013"	"2013"	"Unintentional"	"1"	10	20976	Unreliable
+	"Buchanan County, IA"	"19019"	"2014"	"2014"	"Unintentional"	"1"	12	21038	Unreliable
+	"Buchanan County, IA"	"19019"	"2015"	"2015"	"Unintentional"	"1"	12	21062	Unreliable
+	"Buchanan County, IA"	"19019"	"2016"	"2016"	"Unintentional"	"1"	10	20992	Unreliable
+	"Buchanan County, IA"	"19019"	"2017"	"2017"	"Unintentional"	"1"	13	21202	Unreliable
+	"Buchanan County, IA"	"19019"	"2018"	"2018"	"Unintentional"	"1"	11	21199	Unreliable
+	"Buena Vista County, IA"	"19021"	"1999"	"1999"	"Unintentional"	"1"	10	20508	Unreliable
+	"Buena Vista County, IA"	"19021"	"2001"	"2001"	"Unintentional"	"1"	11	20241	Unreliable
+	"Buena Vista County, IA"	"19021"	"2003"	"2003"	"Unintentional"	"1"	12	20141	Unreliable
+	"Buena Vista County, IA"	"19021"	"2008"	"2008"	"Unintentional"	"1"	10	19855	Unreliable
+	"Buena Vista County, IA"	"19021"	"2013"	"2013"	"Unintentional"	"1"	10	20567	Unreliable
+	"Buena Vista County, IA"	"19021"	"2014"	"2014"	"Unintentional"	"1"	17	20578	Unreliable
+	"Buena Vista County, IA"	"19021"	"2016"	"2016"	"Unintentional"	"1"	10	20332	Unreliable
+	"Butler County, IA"	"19023"	"2006"	"2006"	"Unintentional"	"1"	12	14931	Unreliable
+	"Butler County, IA"	"19023"	"2008"	"2008"	"Unintentional"	"1"	19	14957	Unreliable
+	"Butler County, IA"	"19023"	"2016"	"2016"	"Unintentional"	"1"	11	14791	Unreliable
+	"Calhoun County, IA"	"19025"	"2012"	"2012"	"Unintentional"	"1"	10	9909	Unreliable
+	"Calhoun County, IA"	"19025"	"2014"	"2014"	"Unintentional"	"1"	12	9866	Unreliable
+	"Carroll County, IA"	"19027"	"1999"	"1999"	"Unintentional"	"1"	14	21631	Unreliable
+	"Carroll County, IA"	"19027"	"2002"	"2002"	"Unintentional"	"1"	12	21159	Unreliable
+	"Carroll County, IA"	"19027"	"2003"	"2003"	"Unintentional"	"1"	10	21024	Unreliable
+	"Carroll County, IA"	"19027"	"2006"	"2006"	"Unintentional"	"1"	10	20832	Unreliable
+	"Carroll County, IA"	"19027"	"2007"	"2007"	"Unintentional"	"1"	11	20869	Unreliable
+	"Carroll County, IA"	"19027"	"2009"	"2009"	"Unintentional"	"1"	13	20743	Unreliable
+	"Carroll County, IA"	"19027"	"2010"	"2010"	"Unintentional"	"1"	13	20816	Unreliable
+	"Carroll County, IA"	"19027"	"2012"	"2012"	"Unintentional"	"1"	13	20631	Unreliable
+	"Carroll County, IA"	"19027"	"2015"	"2015"	"Unintentional"	"1"	10	20498	Unreliable
+	"Carroll County, IA"	"19027"	"2016"	"2016"	"Unintentional"	"1"	10	20437	Unreliable
+	"Cass County, IA"	"19029"	"2000"	"2000"	"Unintentional"	"1"	12	14684	Unreliable
+	"Cass County, IA"	"19029"	"2001"	"2001"	"Unintentional"	"1"	13	14488	Unreliable
+	"Cass County, IA"	"19029"	"2002"	"2002"	"Unintentional"	"1"	13	14242	Unreliable
+	"Cass County, IA"	"19029"	"2003"	"2003"	"Unintentional"	"1"	10	14275	Unreliable
+	"Cass County, IA"	"19029"	"2006"	"2006"	"Unintentional"	"1"	11	14021	Unreliable
+	"Cass County, IA"	"19029"	"2010"	"2010"	"Unintentional"	"1"	15	13956	Unreliable
+	"Cass County, IA"	"19029"	"2013"	"2013"	"Unintentional"	"1"	15	13598	Unreliable
+	"Cass County, IA"	"19029"	"2014"	"2014"	"Unintentional"	"1"	14	13448	Unreliable
+	"Cass County, IA"	"19029"	"2015"	"2015"	"Unintentional"	"1"	14	13427	Unreliable
+	"Cedar County, IA"	"19031"	"1999"	"1999"	"Unintentional"	"1"	10	18178	Unreliable
+	"Cedar County, IA"	"19031"	"2001"	"2001"	"Unintentional"	"1"	10	18126	Unreliable
+	"Cedar County, IA"	"19031"	"2002"	"2002"	"Unintentional"	"1"	10	18150	Unreliable
+	"Cedar County, IA"	"19031"	"2003"	"2003"	"Unintentional"	"1"	10	18224	Unreliable
+	"Cedar County, IA"	"19031"	"2007"	"2007"	"Unintentional"	"1"	13	18321	Unreliable
+	"Cedar County, IA"	"19031"	"2012"	"2012"	"Unintentional"	"1"	11	18416	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"1999"	"1999"	"Unintentional"	"1"	13	46637	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2000"	"2000"	"Unintentional"	"1"	19	46447	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2001"	"2001"	"Unintentional"	"1"	18	45844	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2002"	"2002"	"Unintentional"	"1"	20	45430	44.0
+	"Cerro Gordo County, IA"	"19033"	"2003"	"2003"	"Unintentional"	"1"	22	45412	48.4
+	"Cerro Gordo County, IA"	"19033"	"2004"	"2004"	"Unintentional"	"1"	18	44993	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2005"	"2005"	"Unintentional"	"1"	30	44741	67.1
+	"Cerro Gordo County, IA"	"19033"	"2006"	"2006"	"Unintentional"	"1"	18	44531	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2007"	"2007"	"Unintentional"	"1"	31	44461	69.7
+	"Cerro Gordo County, IA"	"19033"	"2008"	"2008"	"Unintentional"	"1"	18	44285	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2009"	"2009"	"Unintentional"	"1"	20	44239	45.2
+	"Cerro Gordo County, IA"	"19033"	"2010"	"2010"	"Unintentional"	"1"	20	44151	45.3
+	"Cerro Gordo County, IA"	"19033"	"2010"	"2010"	"Suicide"	"2"	10	44151	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2011"	"2011"	"Unintentional"	"1"	30	43938	68.3
+	"Cerro Gordo County, IA"	"19033"	"2011"	"2011"	"Suicide"	"2"	12	43938	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2012"	"2012"	"Unintentional"	"1"	18	43788	Unreliable
+	"Cerro Gordo County, IA"	"19033"	"2013"	"2013"	"Unintentional"	"1"	24	43575	55.1
+	"Cerro Gordo County, IA"	"19033"	"2014"	"2014"	"Unintentional"	"1"	48	43254	111.0
+	"Cerro Gordo County, IA"	"19033"	"2015"	"2015"	"Unintentional"	"1"	31	43017	72.1
+	"Cerro Gordo County, IA"	"19033"	"2016"	"2016"	"Unintentional"	"1"	35	43070	81.3
+	"Cerro Gordo County, IA"	"19033"	"2017"	"2017"	"Unintentional"	"1"	47	43006	109.3
+	"Cerro Gordo County, IA"	"19033"	"2018"	"2018"	"Unintentional"	"1"	28	42647	65.7
+	"Cerro Gordo County, IA"	"19033"	"2018"	"2018"	"Suicide"	"2"	10	42647	Unreliable
+	"Cherokee County, IA"	"19035"	"2005"	"2005"	"Unintentional"	"1"	10	12380	Unreliable
+	"Cherokee County, IA"	"19035"	"2006"	"2006"	"Unintentional"	"1"	14	12215	Unreliable
+	"Cherokee County, IA"	"19035"	"2011"	"2011"	"Unintentional"	"1"	14	12069	Unreliable
+	"Cherokee County, IA"	"19035"	"2014"	"2014"	"Unintentional"	"1"	11	11836	Unreliable
+	"Cherokee County, IA"	"19035"	"2015"	"2015"	"Unintentional"	"1"	14	11574	Unreliable
+	"Chickasaw County, IA"	"19037"	"2002"	"2002"	"Unintentional"	"1"	11	12941	Unreliable
+	"Chickasaw County, IA"	"19037"	"2004"	"2004"	"Unintentional"	"1"	13	12691	Unreliable
+	"Chickasaw County, IA"	"19037"	"2005"	"2005"	"Unintentional"	"1"	15	12561	Unreliable
+	"Chickasaw County, IA"	"19037"	"2006"	"2006"	"Unintentional"	"1"	11	12603	Unreliable
+	"Chickasaw County, IA"	"19037"	"2014"	"2014"	"Unintentional"	"1"	10	12264	Unreliable
+	"Clarke County, IA"	"19039"	"2012"	"2012"	"Unintentional"	"1"	10	9370	Unreliable
+	"Clay County, IA"	"19041"	"2004"	"2004"	"Unintentional"	"1"	10	16960	Unreliable
+	"Clay County, IA"	"19041"	"2007"	"2007"	"Unintentional"	"1"	13	16725	Unreliable
+	"Clay County, IA"	"19041"	"2008"	"2008"	"Unintentional"	"1"	10	16697	Unreliable
+	"Clay County, IA"	"19041"	"2011"	"2011"	"Unintentional"	"1"	10	16590	Unreliable
+	"Clay County, IA"	"19041"	"2013"	"2013"	"Unintentional"	"1"	11	16491	Unreliable
+	"Clayton County, IA"	"19043"	"1999"	"1999"	"Unintentional"	"1"	24	18825	127.5
+	"Clayton County, IA"	"19043"	"2000"	"2000"	"Unintentional"	"1"	11	18678	Unreliable
+	"Clayton County, IA"	"19043"	"2001"	"2001"	"Unintentional"	"1"	10	18529	Unreliable
+	"Clayton County, IA"	"19043"	"2003"	"2003"	"Unintentional"	"1"	11	18357	Unreliable
+	"Clayton County, IA"	"19043"	"2004"	"2004"	"Unintentional"	"1"	13	18358	Unreliable
+	"Clayton County, IA"	"19043"	"2005"	"2005"	"Unintentional"	"1"	13	18269	Unreliable
+	"Clayton County, IA"	"19043"	"2008"	"2008"	"Unintentional"	"1"	11	18209	Unreliable
+	"Clayton County, IA"	"19043"	"2009"	"2009"	"Unintentional"	"1"	12	18185	Unreliable
+	"Clayton County, IA"	"19043"	"2013"	"2013"	"Unintentional"	"1"	12	17773	Unreliable
+	"Clayton County, IA"	"19043"	"2014"	"2014"	"Unintentional"	"1"	14	17692	Unreliable
+	"Clayton County, IA"	"19043"	"2016"	"2016"	"Unintentional"	"1"	11	17590	Unreliable
+	"Clinton County, IA"	"19045"	"1999"	"1999"	"Unintentional"	"1"	21	50346	41.7
+	"Clinton County, IA"	"19045"	"2000"	"2000"	"Unintentional"	"1"	11	50149	Unreliable
+	"Clinton County, IA"	"19045"	"2001"	"2001"	"Unintentional"	"1"	26	49889	52.1
+	"Clinton County, IA"	"19045"	"2001"	"2001"	"Suicide"	"2"	10	49889	Unreliable
+	"Clinton County, IA"	"19045"	"2002"	"2002"	"Unintentional"	"1"	21	49659	42.3
+	"Clinton County, IA"	"19045"	"2003"	"2003"	"Unintentional"	"1"	16	49585	Unreliable
+	"Clinton County, IA"	"19045"	"2003"	"2003"	"Suicide"	"2"	11	49585	Unreliable
+	"Clinton County, IA"	"19045"	"2004"	"2004"	"Unintentional"	"1"	19	49498	Unreliable
+	"Clinton County, IA"	"19045"	"2005"	"2005"	"Unintentional"	"1"	21	49475	42.4
+	"Clinton County, IA"	"19045"	"2006"	"2006"	"Unintentional"	"1"	14	49487	Unreliable
+	"Clinton County, IA"	"19045"	"2007"	"2007"	"Unintentional"	"1"	20	49342	40.5
+	"Clinton County, IA"	"19045"	"2007"	"2007"	"Suicide"	"2"	11	49342	Unreliable
+	"Clinton County, IA"	"19045"	"2008"	"2008"	"Unintentional"	"1"	20	49303	40.6
+	"Clinton County, IA"	"19045"	"2009"	"2009"	"Unintentional"	"1"	17	49147	Unreliable
+	"Clinton County, IA"	"19045"	"2010"	"2010"	"Unintentional"	"1"	22	49116	44.8
+	"Clinton County, IA"	"19045"	"2010"	"2010"	"Suicide"	"2"	10	49116	Unreliable
+	"Clinton County, IA"	"19045"	"2011"	"2011"	"Unintentional"	"1"	26	49015	53.0
+	"Clinton County, IA"	"19045"	"2011"	"2011"	"Suicide"	"2"	10	49015	Unreliable
+	"Clinton County, IA"	"19045"	"2012"	"2012"	"Unintentional"	"1"	17	48717	Unreliable
+	"Clinton County, IA"	"19045"	"2012"	"2012"	"Suicide"	"2"	13	48717	Unreliable
+	"Clinton County, IA"	"19045"	"2013"	"2013"	"Unintentional"	"1"	20	48420	41.3
+	"Clinton County, IA"	"19045"	"2014"	"2014"	"Unintentional"	"1"	22	48051	45.8
+	"Clinton County, IA"	"19045"	"2015"	"2015"	"Unintentional"	"1"	27	47768	56.5
+	"Clinton County, IA"	"19045"	"2016"	"2016"	"Unintentional"	"1"	29	47309	61.3
+	"Clinton County, IA"	"19045"	"2017"	"2017"	"Unintentional"	"1"	26	47010	55.3
+	"Clinton County, IA"	"19045"	"2017"	"2017"	"Suicide"	"2"	12	47010	Unreliable
+	"Clinton County, IA"	"19045"	"2018"	"2018"	"Unintentional"	"1"	30	46518	64.5
+	"Crawford County, IA"	"19047"	"1999"	"1999"	"Unintentional"	"1"	15	16911	Unreliable
+	"Crawford County, IA"	"19047"	"2005"	"2005"	"Unintentional"	"1"	10	16920	Unreliable
+	"Crawford County, IA"	"19047"	"2007"	"2007"	"Unintentional"	"1"	13	16931	Unreliable
+	"Crawford County, IA"	"19047"	"2015"	"2015"	"Unintentional"	"1"	11	17094	Unreliable
+	"Crawford County, IA"	"19047"	"2016"	"2016"	"Unintentional"	"1"	12	16940	Unreliable
+	"Crawford County, IA"	"19047"	"2017"	"2017"	"Unintentional"	"1"	11	17056	Unreliable
+	"Dallas County, IA"	"19049"	"1999"	"1999"	"Unintentional"	"1"	18	39691	Unreliable
+	"Dallas County, IA"	"19049"	"2000"	"2000"	"Unintentional"	"1"	13	40750	Unreliable
+	"Dallas County, IA"	"19049"	"2002"	"2002"	"Unintentional"	"1"	12	44960	Unreliable
+	"Dallas County, IA"	"19049"	"2003"	"2003"	"Unintentional"	"1"	13	47118	Unreliable
+	"Dallas County, IA"	"19049"	"2004"	"2004"	"Unintentional"	"1"	14	50387	Unreliable
+	"Dallas County, IA"	"19049"	"2005"	"2005"	"Unintentional"	"1"	15	53042	Unreliable
+	"Dallas County, IA"	"19049"	"2006"	"2006"	"Unintentional"	"1"	20	56158	35.6
+	"Dallas County, IA"	"19049"	"2007"	"2007"	"Unintentional"	"1"	12	59164	Unreliable
+	"Dallas County, IA"	"19049"	"2008"	"2008"	"Unintentional"	"1"	21	62144	33.8
+	"Dallas County, IA"	"19049"	"2009"	"2009"	"Unintentional"	"1"	19	64489	Unreliable
+	"Dallas County, IA"	"19049"	"2010"	"2010"	"Unintentional"	"1"	14	66135	Unreliable
+	"Dallas County, IA"	"19049"	"2011"	"2011"	"Unintentional"	"1"	20	69444	28.8
+	"Dallas County, IA"	"19049"	"2012"	"2012"	"Unintentional"	"1"	15	71967	Unreliable
+	"Dallas County, IA"	"19049"	"2013"	"2013"	"Unintentional"	"1"	26	74641	34.8
+	"Dallas County, IA"	"19049"	"2014"	"2014"	"Unintentional"	"1"	19	77400	Unreliable
+	"Dallas County, IA"	"19049"	"2015"	"2015"	"Unintentional"	"1"	24	80133	30.0
+	"Dallas County, IA"	"19049"	"2015"	"2015"	"Suicide"	"2"	13	80133	Unreliable
+	"Dallas County, IA"	"19049"	"2016"	"2016"	"Unintentional"	"1"	23	84516	27.2
+	"Dallas County, IA"	"19049"	"2016"	"2016"	"Suicide"	"2"	13	84516	Unreliable
+	"Dallas County, IA"	"19049"	"2017"	"2017"	"Unintentional"	"1"	17	87235	Unreliable
+	"Dallas County, IA"	"19049"	"2017"	"2017"	"Suicide"	"2"	10	87235	Unreliable
+	"Dallas County, IA"	"19049"	"2018"	"2018"	"Unintentional"	"1"	25	90180	27.7
+	"Decatur County, IA"	"19053"	"2017"	"2017"	"Unintentional"	"1"	10	7950	Unreliable
+	"Delaware County, IA"	"19055"	"2000"	"2000"	"Unintentional"	"1"	12	18404	Unreliable
+	"Delaware County, IA"	"19055"	"2009"	"2009"	"Unintentional"	"1"	15	17755	Unreliable
+	"Delaware County, IA"	"19055"	"2012"	"2012"	"Unintentional"	"1"	10	17574	Unreliable
+	"Delaware County, IA"	"19055"	"2014"	"2014"	"Unintentional"	"1"	10	17398	Unreliable
+	"Delaware County, IA"	"19055"	"2016"	"2016"	"Unintentional"	"1"	11	17327	Unreliable
+	"Delaware County, IA"	"19055"	"2018"	"2018"	"Unintentional"	"1"	14	17069	Unreliable
+	"Des Moines County, IA"	"19057"	"1999"	"1999"	"Unintentional"	"1"	17	42515	Unreliable
+	"Des Moines County, IA"	"19057"	"2000"	"2000"	"Unintentional"	"1"	20	42351	47.2
+	"Des Moines County, IA"	"19057"	"2001"	"2001"	"Unintentional"	"1"	15	41820	Unreliable
+	"Des Moines County, IA"	"19057"	"2002"	"2002"	"Unintentional"	"1"	12	41138	Unreliable
+	"Des Moines County, IA"	"19057"	"2004"	"2004"	"Unintentional"	"1"	12	40562	Unreliable
+	"Des Moines County, IA"	"19057"	"2005"	"2005"	"Unintentional"	"1"	24	40332	59.5
+	"Des Moines County, IA"	"19057"	"2006"	"2006"	"Unintentional"	"1"	19	40192	Unreliable
+	"Des Moines County, IA"	"19057"	"2007"	"2007"	"Unintentional"	"1"	16	40206	Unreliable
+	"Des Moines County, IA"	"19057"	"2008"	"2008"	"Unintentional"	"1"	18	40235	Unreliable
+	"Des Moines County, IA"	"19057"	"2009"	"2009"	"Unintentional"	"1"	19	40379	Unreliable
+	"Des Moines County, IA"	"19057"	"2010"	"2010"	"Unintentional"	"1"	38	40325	94.2
+	"Des Moines County, IA"	"19057"	"2011"	"2011"	"Unintentional"	"1"	13	40169	Unreliable
+	"Des Moines County, IA"	"19057"	"2012"	"2012"	"Unintentional"	"1"	28	40340	69.4
+	"Des Moines County, IA"	"19057"	"2013"	"2013"	"Unintentional"	"1"	24	40480	59.3
+	"Des Moines County, IA"	"19057"	"2014"	"2014"	"Unintentional"	"1"	25	40255	62.1
+	"Des Moines County, IA"	"19057"	"2015"	"2015"	"Unintentional"	"1"	27	40055	67.4
+	"Des Moines County, IA"	"19057"	"2016"	"2016"	"Unintentional"	"1"	28	39739	70.5
+	"Des Moines County, IA"	"19057"	"2017"	"2017"	"Unintentional"	"1"	23	39417	58.4
+	"Des Moines County, IA"	"19057"	"2017"	"2017"	"Suicide"	"2"	11	39417	Unreliable
+	"Des Moines County, IA"	"19057"	"2018"	"2018"	"Unintentional"	"1"	19	39138	Unreliable
+	"Des Moines County, IA"	"19057"	"2018"	"2018"	"Suicide"	"2"	12	39138	Unreliable
+	"Dickinson County, IA"	"19059"	"2000"	"2000"	"Unintentional"	"1"	14	16424	Unreliable
+	"Dickinson County, IA"	"19059"	"2002"	"2002"	"Unintentional"	"1"	10	16351	Unreliable
+	"Dickinson County, IA"	"19059"	"2003"	"2003"	"Unintentional"	"1"	10	16339	Unreliable
+	"Dickinson County, IA"	"19059"	"2006"	"2006"	"Unintentional"	"1"	10	16667	Unreliable
+	"Dickinson County, IA"	"19059"	"2014"	"2014"	"Unintentional"	"1"	12	16935	Unreliable
+	"Dickinson County, IA"	"19059"	"2017"	"2017"	"Unintentional"	"1"	10	17199	Unreliable
+	"Dubuque County, IA"	"19061"	"1999"	"1999"	"Unintentional"	"1"	24	88934	27.0
+	"Dubuque County, IA"	"19061"	"1999"	"1999"	"Suicide"	"2"	10	88934	Unreliable
+	"Dubuque County, IA"	"19061"	"2000"	"2000"	"Unintentional"	"1"	17	89143	Unreliable
+	"Dubuque County, IA"	"19061"	"2000"	"2000"	"Suicide"	"2"	12	89143	Unreliable
+	"Dubuque County, IA"	"19061"	"2001"	"2001"	"Unintentional"	"1"	16	88932	Unreliable
+	"Dubuque County, IA"	"19061"	"2002"	"2002"	"Unintentional"	"1"	23	89132	25.8
+	"Dubuque County, IA"	"19061"	"2003"	"2003"	"Unintentional"	"1"	26	90012	28.9
+	"Dubuque County, IA"	"19061"	"2003"	"2003"	"Suicide"	"2"	10	90012	Unreliable
+	"Dubuque County, IA"	"19061"	"2004"	"2004"	"Unintentional"	"1"	26	90462	28.7
+	"Dubuque County, IA"	"19061"	"2004"	"2004"	"Suicide"	"2"	14	90462	Unreliable
+	"Dubuque County, IA"	"19061"	"2005"	"2005"	"Unintentional"	"1"	33	90769	36.4
+	"Dubuque County, IA"	"19061"	"2006"	"2006"	"Unintentional"	"1"	25	91258	27.4
+	"Dubuque County, IA"	"19061"	"2007"	"2007"	"Unintentional"	"1"	29	92130	31.5
+	"Dubuque County, IA"	"19061"	"2008"	"2008"	"Unintentional"	"1"	26	92519	28.1
+	"Dubuque County, IA"	"19061"	"2008"	"2008"	"Suicide"	"2"	16	92519	Unreliable
+	"Dubuque County, IA"	"19061"	"2009"	"2009"	"Unintentional"	"1"	35	92948	37.7
+	"Dubuque County, IA"	"19061"	"2009"	"2009"	"Suicide"	"2"	15	92948	Unreliable
+	"Dubuque County, IA"	"19061"	"2010"	"2010"	"Unintentional"	"1"	27	93653	28.8
+	"Dubuque County, IA"	"19061"	"2010"	"2010"	"Suicide"	"2"	13	93653	Unreliable
+	"Dubuque County, IA"	"19061"	"2011"	"2011"	"Unintentional"	"1"	27	94648	28.5
+	"Dubuque County, IA"	"19061"	"2012"	"2012"	"Unintentional"	"1"	42	95097	44.2
+	"Dubuque County, IA"	"19061"	"2013"	"2013"	"Unintentional"	"1"	40	95697	41.8
+	"Dubuque County, IA"	"19061"	"2013"	"2013"	"Suicide"	"2"	16	95697	Unreliable
+	"Dubuque County, IA"	"19061"	"2014"	"2014"	"Unintentional"	"1"	43	96370	44.6
+	"Dubuque County, IA"	"19061"	"2014"	"2014"	"Suicide"	"2"	11	96370	Unreliable
+	"Dubuque County, IA"	"19061"	"2015"	"2015"	"Unintentional"	"1"	45	97125	46.3
+	"Dubuque County, IA"	"19061"	"2016"	"2016"	"Unintentional"	"1"	47	97003	48.5
+	"Dubuque County, IA"	"19061"	"2016"	"2016"	"Suicide"	"2"	12	97003	Unreliable
+	"Dubuque County, IA"	"19061"	"2017"	"2017"	"Unintentional"	"1"	44	97041	45.3
+	"Dubuque County, IA"	"19061"	"2017"	"2017"	"Suicide"	"2"	16	97041	Unreliable
+	"Dubuque County, IA"	"19061"	"2018"	"2018"	"Unintentional"	"1"	48	96854	49.6
+	"Dubuque County, IA"	"19061"	"2018"	"2018"	"Suicide"	"2"	11	96854	Unreliable
+	"Emmet County, IA"	"19063"	"2001"	"2001"	"Unintentional"	"1"	11	10890	Unreliable
+	"Emmet County, IA"	"19063"	"2011"	"2011"	"Unintentional"	"1"	10	10104	Unreliable
+	"Fayette County, IA"	"19065"	"2000"	"2000"	"Unintentional"	"1"	14	22008	Unreliable
+	"Fayette County, IA"	"19065"	"2001"	"2001"	"Unintentional"	"1"	15	21791	Unreliable
+	"Fayette County, IA"	"19065"	"2002"	"2002"	"Unintentional"	"1"	10	21643	Unreliable
+	"Fayette County, IA"	"19065"	"2003"	"2003"	"Unintentional"	"1"	12	21604	Unreliable
+	"Fayette County, IA"	"19065"	"2004"	"2004"	"Unintentional"	"1"	13	21415	Unreliable
+	"Fayette County, IA"	"19065"	"2005"	"2005"	"Unintentional"	"1"	12	21426	Unreliable
+	"Fayette County, IA"	"19065"	"2009"	"2009"	"Unintentional"	"1"	10	20939	Unreliable
+	"Fayette County, IA"	"19065"	"2010"	"2010"	"Unintentional"	"1"	10	20880	Unreliable
+	"Fayette County, IA"	"19065"	"2011"	"2011"	"Unintentional"	"1"	14	20973	Unreliable
+	"Fayette County, IA"	"19065"	"2012"	"2012"	"Unintentional"	"1"	14	20793	Unreliable
+	"Fayette County, IA"	"19065"	"2013"	"2013"	"Unintentional"	"1"	16	20502	Unreliable
+	"Fayette County, IA"	"19065"	"2014"	"2014"	"Unintentional"	"1"	19	20343	Unreliable
+	"Fayette County, IA"	"19065"	"2015"	"2015"	"Unintentional"	"1"	20	20257	98.7
+	"Fayette County, IA"	"19065"	"2016"	"2016"	"Unintentional"	"1"	16	20054	Unreliable
+	"Fayette County, IA"	"19065"	"2017"	"2017"	"Unintentional"	"1"	13	19796	Unreliable
+	"Floyd County, IA"	"19067"	"2002"	"2002"	"Unintentional"	"1"	10	16670	Unreliable
+	"Floyd County, IA"	"19067"	"2011"	"2011"	"Unintentional"	"1"	14	16070	Unreliable
+	"Floyd County, IA"	"19067"	"2014"	"2014"	"Unintentional"	"1"	10	16077	Unreliable
+	"Floyd County, IA"	"19067"	"2015"	"2015"	"Unintentional"	"1"	11	15960	Unreliable
+	"Floyd County, IA"	"19067"	"2016"	"2016"	"Unintentional"	"1"	10	15873	Unreliable
+	"Floyd County, IA"	"19067"	"2018"	"2018"	"Unintentional"	"1"	10	15761	Unreliable
+	"Greene County, IA"	"19073"	"2011"	"2011"	"Unintentional"	"1"	10	9285	Unreliable
+	"Grundy County, IA"	"19075"	"2011"	"2011"	"Unintentional"	"1"	10	12459	Unreliable
+	"Grundy County, IA"	"19075"	"2017"	"2017"	"Unintentional"	"1"	10	12333	Unreliable
+	"Guthrie County, IA"	"19077"	"2005"	"2005"	"Unintentional"	"1"	11	11249	Unreliable
+	"Hamilton County, IA"	"19079"	"2002"	"2002"	"Unintentional"	"1"	10	16337	Unreliable
+	"Hamilton County, IA"	"19079"	"2008"	"2008"	"Unintentional"	"1"	10	15863	Unreliable
+	"Hamilton County, IA"	"19079"	"2017"	"2017"	"Unintentional"	"1"	11	15115	Unreliable
+	"Hamilton County, IA"	"19079"	"2018"	"2018"	"Unintentional"	"1"	11	14952	Unreliable
+	"Hardin County, IA"	"19083"	"1999"	"1999"	"Unintentional"	"1"	10	18784	Unreliable
+	"Hardin County, IA"	"19083"	"2001"	"2001"	"Unintentional"	"1"	12	18669	Unreliable
+	"Hardin County, IA"	"19083"	"2003"	"2003"	"Unintentional"	"1"	10	18327	Unreliable
+	"Hardin County, IA"	"19083"	"2005"	"2005"	"Unintentional"	"1"	12	17974	Unreliable
+	"Hardin County, IA"	"19083"	"2006"	"2006"	"Unintentional"	"1"	15	17893	Unreliable
+	"Hardin County, IA"	"19083"	"2007"	"2007"	"Unintentional"	"1"	12	17789	Unreliable
+	"Hardin County, IA"	"19083"	"2010"	"2010"	"Unintentional"	"1"	10	17534	Unreliable
+	"Hardin County, IA"	"19083"	"2012"	"2012"	"Unintentional"	"1"	12	17302	Unreliable
+	"Hardin County, IA"	"19083"	"2013"	"2013"	"Unintentional"	"1"	13	17441	Unreliable
+	"Hardin County, IA"	"19083"	"2015"	"2015"	"Unintentional"	"1"	10	17367	Unreliable
+	"Hardin County, IA"	"19083"	"2018"	"2018"	"Unintentional"	"1"	11	16868	Unreliable
+	"Harrison County, IA"	"19085"	"1999"	"1999"	"Unintentional"	"1"	13	15510	Unreliable
+	"Harrison County, IA"	"19085"	"2000"	"2000"	"Unintentional"	"1"	13	15666	Unreliable
+	"Harrison County, IA"	"19085"	"2002"	"2002"	"Unintentional"	"1"	11	15421	Unreliable
+	"Harrison County, IA"	"19085"	"2004"	"2004"	"Unintentional"	"1"	12	15412	Unreliable
+	"Harrison County, IA"	"19085"	"2005"	"2005"	"Unintentional"	"1"	21	15362	136.7
+	"Harrison County, IA"	"19085"	"2010"	"2010"	"Unintentional"	"1"	11	14928	Unreliable
+	"Harrison County, IA"	"19085"	"2012"	"2012"	"Unintentional"	"1"	12	14548	Unreliable
+	"Henry County, IA"	"19087"	"1999"	"1999"	"Unintentional"	"1"	14	20351	Unreliable
+	"Henry County, IA"	"19087"	"2000"	"2000"	"Unintentional"	"1"	16	20336	Unreliable
+	"Henry County, IA"	"19087"	"2001"	"2001"	"Unintentional"	"1"	10	20408	Unreliable
+	"Henry County, IA"	"19087"	"2004"	"2004"	"Unintentional"	"1"	10	20225	Unreliable
+	"Henry County, IA"	"19087"	"2005"	"2005"	"Unintentional"	"1"	12	20354	Unreliable
+	"Henry County, IA"	"19087"	"2007"	"2007"	"Unintentional"	"1"	11	20359	Unreliable
+	"Henry County, IA"	"19087"	"2010"	"2010"	"Unintentional"	"1"	13	20145	Unreliable
+	"Henry County, IA"	"19087"	"2015"	"2015"	"Unintentional"	"1"	10	19950	Unreliable
+	"Henry County, IA"	"19087"	"2016"	"2016"	"Unintentional"	"1"	14	19773	Unreliable
+	"Henry County, IA"	"19087"	"2018"	"2018"	"Unintentional"	"1"	10	20067	Unreliable
+	"Howard County, IA"	"19089"	"2006"	"2006"	"Unintentional"	"1"	10	9664	Unreliable
+	"Howard County, IA"	"19089"	"2018"	"2018"	"Unintentional"	"1"	10	9187	Unreliable
+	"Humboldt County, IA"	"19091"	"2012"	"2012"	"Unintentional"	"1"	12	9729	Unreliable
+	"Ida County, IA"	"19093"	"1999"	"1999"	"Unintentional"	"1"	10	7914	Unreliable
+	"Iowa County, IA"	"19095"	"1999"	"1999"	"Unintentional"	"1"	10	15570	Unreliable
+	"Iowa County, IA"	"19095"	"2005"	"2005"	"Unintentional"	"1"	14	16297	Unreliable
+	"Iowa County, IA"	"19095"	"2009"	"2009"	"Unintentional"	"1"	11	16406	Unreliable
+	"Iowa County, IA"	"19095"	"2013"	"2013"	"Unintentional"	"1"	13	16330	Unreliable
+	"Iowa County, IA"	"19095"	"2016"	"2016"	"Unintentional"	"1"	10	16311	Unreliable
+	"Iowa County, IA"	"19095"	"2017"	"2017"	"Unintentional"	"1"	12	16103	Unreliable
+	"Jackson County, IA"	"19097"	"2000"	"2000"	"Unintentional"	"1"	13	20296	Unreliable
+	"Jackson County, IA"	"19097"	"2003"	"2003"	"Unintentional"	"1"	10	20148	Unreliable
+	"Jackson County, IA"	"19097"	"2009"	"2009"	"Unintentional"	"1"	10	19841	Unreliable
+	"Jackson County, IA"	"19097"	"2013"	"2013"	"Unintentional"	"1"	11	19587	Unreliable
+	"Jackson County, IA"	"19097"	"2014"	"2014"	"Unintentional"	"1"	12	19482	Unreliable
+	"Jackson County, IA"	"19097"	"2015"	"2015"	"Unintentional"	"1"	10	19444	Unreliable
+	"Jasper County, IA"	"19099"	"1999"	"1999"	"Unintentional"	"1"	14	37096	Unreliable
+	"Jasper County, IA"	"19099"	"2000"	"2000"	"Unintentional"	"1"	20	37213	53.7
+	"Jasper County, IA"	"19099"	"2001"	"2001"	"Unintentional"	"1"	13	37377	Unreliable
+	"Jasper County, IA"	"19099"	"2003"	"2003"	"Unintentional"	"1"	22	37703	58.4
+	"Jasper County, IA"	"19099"	"2004"	"2004"	"Unintentional"	"1"	16	37645	Unreliable
+	"Jasper County, IA"	"19099"	"2005"	"2005"	"Unintentional"	"1"	19	37482	Unreliable
+	"Jasper County, IA"	"19099"	"2006"	"2006"	"Unintentional"	"1"	17	37288	Unreliable
+	"Jasper County, IA"	"19099"	"2007"	"2007"	"Unintentional"	"1"	11	37167	Unreliable
+	"Jasper County, IA"	"19099"	"2008"	"2008"	"Unintentional"	"1"	23	37103	62.0
+	"Jasper County, IA"	"19099"	"2009"	"2009"	"Unintentional"	"1"	10	36879	Unreliable
+	"Jasper County, IA"	"19099"	"2010"	"2010"	"Unintentional"	"1"	22	36842	59.7
+	"Jasper County, IA"	"19099"	"2011"	"2011"	"Unintentional"	"1"	27	36547	73.9
+	"Jasper County, IA"	"19099"	"2012"	"2012"	"Unintentional"	"1"	16	36602	Unreliable
+	"Jasper County, IA"	"19099"	"2013"	"2013"	"Unintentional"	"1"	11	36641	Unreliable
+	"Jasper County, IA"	"19099"	"2013"	"2013"	"Suicide"	"2"	11	36641	Unreliable
+	"Jasper County, IA"	"19099"	"2014"	"2014"	"Unintentional"	"1"	19	36872	Unreliable
+	"Jasper County, IA"	"19099"	"2015"	"2015"	"Unintentional"	"1"	19	36827	Unreliable
+	"Jasper County, IA"	"19099"	"2016"	"2016"	"Unintentional"	"1"	13	36708	Unreliable
+	"Jasper County, IA"	"19099"	"2017"	"2017"	"Unintentional"	"1"	22	36966	59.5
+	"Jasper County, IA"	"19099"	"2018"	"2018"	"Unintentional"	"1"	14	37147	Unreliable
+	"Jefferson County, IA"	"19101"	"2006"	"2006"	"Unintentional"	"1"	11	16401	Unreliable
+	"Jefferson County, IA"	"19101"	"2009"	"2009"	"Unintentional"	"1"	15	16782	Unreliable
+	"Jefferson County, IA"	"19101"	"2012"	"2012"	"Unintentional"	"1"	11	16867	Unreliable
+	"Jefferson County, IA"	"19101"	"2014"	"2014"	"Unintentional"	"1"	11	17325	Unreliable
+	"Jefferson County, IA"	"19101"	"2015"	"2015"	"Unintentional"	"1"	10	17555	Unreliable
+	"Jefferson County, IA"	"19101"	"2016"	"2016"	"Unintentional"	"1"	10	18090	Unreliable
+	"Johnson County, IA"	"19103"	"1999"	"1999"	"Unintentional"	"1"	28	109814	25.5
+	"Johnson County, IA"	"19103"	"2000"	"2000"	"Unintentional"	"1"	25	111006	22.5
+	"Johnson County, IA"	"19103"	"2001"	"2001"	"Unintentional"	"1"	12	113546	Unreliable
+	"Johnson County, IA"	"19103"	"2001"	"2001"	"Suicide"	"2"	11	113546	Unreliable
+	"Johnson County, IA"	"19103"	"2002"	"2002"	"Unintentional"	"1"	31	114948	27.0
+	"Johnson County, IA"	"19103"	"2003"	"2003"	"Unintentional"	"1"	29	116673	24.9
+	"Johnson County, IA"	"19103"	"2004"	"2004"	"Unintentional"	"1"	27	118891	22.7
+	"Johnson County, IA"	"19103"	"2004"	"2004"	"Suicide"	"2"	14	118891	Unreliable
+	"Johnson County, IA"	"19103"	"2005"	"2005"	"Unintentional"	"1"	26	120300	21.6
+	"Johnson County, IA"	"19103"	"2006"	"2006"	"Unintentional"	"1"	29	122226	23.7
+	"Johnson County, IA"	"19103"	"2006"	"2006"	"Suicide"	"2"	12	122226	Unreliable
+	"Johnson County, IA"	"19103"	"2007"	"2007"	"Unintentional"	"1"	31	124541	24.9
+	"Johnson County, IA"	"19103"	"2008"	"2008"	"Unintentional"	"1"	31	127113	24.4
+	"Johnson County, IA"	"19103"	"2008"	"2008"	"Suicide"	"2"	18	127113	Unreliable
+	"Johnson County, IA"	"19103"	"2009"	"2009"	"Unintentional"	"1"	41	129864	31.6
+	"Johnson County, IA"	"19103"	"2009"	"2009"	"Suicide"	"2"	20	129864	15.4
+	"Johnson County, IA"	"19103"	"2010"	"2010"	"Unintentional"	"1"	19	130882	Unreliable
+	"Johnson County, IA"	"19103"	"2010"	"2010"	"Suicide"	"2"	16	130882	Unreliable
+	"Johnson County, IA"	"19103"	"2011"	"2011"	"Unintentional"	"1"	27	133038	20.3
+	"Johnson County, IA"	"19103"	"2012"	"2012"	"Unintentional"	"1"	40	136317	29.3
+	"Johnson County, IA"	"19103"	"2012"	"2012"	"Suicide"	"2"	16	136317	Unreliable
+	"Johnson County, IA"	"19103"	"2013"	"2013"	"Unintentional"	"1"	41	139155	29.5
+	"Johnson County, IA"	"19103"	"2013"	"2013"	"Suicide"	"2"	16	139155	Unreliable
+	"Johnson County, IA"	"19103"	"2014"	"2014"	"Unintentional"	"1"	49	142287	34.4
+	"Johnson County, IA"	"19103"	"2014"	"2014"	"Suicide"	"2"	18	142287	Unreliable
+	"Johnson County, IA"	"19103"	"2015"	"2015"	"Unintentional"	"1"	38	144251	26.3
+	"Johnson County, IA"	"19103"	"2015"	"2015"	"Suicide"	"2"	13	144251	Unreliable
+	"Johnson County, IA"	"19103"	"2016"	"2016"	"Unintentional"	"1"	62	146547	42.3
+	"Johnson County, IA"	"19103"	"2016"	"2016"	"Suicide"	"2"	16	146547	Unreliable
+	"Johnson County, IA"	"19103"	"2017"	"2017"	"Unintentional"	"1"	44	149210	29.5
+	"Johnson County, IA"	"19103"	"2017"	"2017"	"Suicide"	"2"	23	149210	15.4
+	"Johnson County, IA"	"19103"	"2018"	"2018"	"Unintentional"	"1"	45	151260	29.8
+	"Johnson County, IA"	"19103"	"2018"	"2018"	"Suicide"	"2"	15	151260	Unreliable
+	"Jones County, IA"	"19105"	"1999"	"1999"	"Unintentional"	"1"	14	20220	Unreliable
+	"Jones County, IA"	"19105"	"2002"	"2002"	"Unintentional"	"1"	12	20283	Unreliable
+	"Jones County, IA"	"19105"	"2005"	"2005"	"Unintentional"	"1"	12	20605	Unreliable
+	"Jones County, IA"	"19105"	"2007"	"2007"	"Unintentional"	"1"	10	20803	Unreliable
+	"Jones County, IA"	"19105"	"2009"	"2009"	"Unintentional"	"1"	14	20562	Unreliable
+	"Jones County, IA"	"19105"	"2013"	"2013"	"Unintentional"	"1"	12	20611	Unreliable
+	"Jones County, IA"	"19105"	"2014"	"2014"	"Unintentional"	"1"	16	20454	Unreliable
+	"Jones County, IA"	"19105"	"2015"	"2015"	"Unintentional"	"1"	11	20466	Unreliable
+	"Jones County, IA"	"19105"	"2016"	"2016"	"Unintentional"	"1"	15	20439	Unreliable
+	"Jones County, IA"	"19105"	"2017"	"2017"	"Unintentional"	"1"	11	20536	Unreliable
+	"Jones County, IA"	"19105"	"2018"	"2018"	"Unintentional"	"1"	12	20744	Unreliable
+	"Keokuk County, IA"	"19107"	"1999"	"1999"	"Unintentional"	"1"	11	11317	Unreliable
+	"Keokuk County, IA"	"19107"	"2001"	"2001"	"Unintentional"	"1"	10	11369	Unreliable
+	"Kossuth County, IA"	"19109"	"2001"	"2001"	"Unintentional"	"1"	11	16912	Unreliable
+	"Kossuth County, IA"	"19109"	"2008"	"2008"	"Unintentional"	"1"	11	15685	Unreliable
+	"Kossuth County, IA"	"19109"	"2015"	"2015"	"Unintentional"	"1"	12	15165	Unreliable
+	"Kossuth County, IA"	"19109"	"2016"	"2016"	"Unintentional"	"1"	14	15114	Unreliable
+	"Kossuth County, IA"	"19109"	"2017"	"2017"	"Unintentional"	"1"	10	14999	Unreliable
+	"Lee County, IA"	"19111"	"1999"	"1999"	"Unintentional"	"1"	27	38281	70.5
+	"Lee County, IA"	"19111"	"2000"	"2000"	"Unintentional"	"1"	18	38052	Unreliable
+	"Lee County, IA"	"19111"	"2001"	"2001"	"Unintentional"	"1"	13	37435	Unreliable
+	"Lee County, IA"	"19111"	"2002"	"2002"	"Unintentional"	"1"	22	36960	59.5
+	"Lee County, IA"	"19111"	"2003"	"2003"	"Unintentional"	"1"	16	36627	Unreliable
+	"Lee County, IA"	"19111"	"2004"	"2004"	"Unintentional"	"1"	16	36587	Unreliable
+	"Lee County, IA"	"19111"	"2005"	"2005"	"Unintentional"	"1"	24	36364	66.0
+	"Lee County, IA"	"19111"	"2006"	"2006"	"Unintentional"	"1"	18	36291	Unreliable
+	"Lee County, IA"	"19111"	"2007"	"2007"	"Unintentional"	"1"	13	36130	Unreliable
+	"Lee County, IA"	"19111"	"2008"	"2008"	"Unintentional"	"1"	12	35819	Unreliable
+	"Lee County, IA"	"19111"	"2009"	"2009"	"Unintentional"	"1"	25	35856	69.7
+	"Lee County, IA"	"19111"	"2010"	"2010"	"Unintentional"	"1"	27	35862	75.3
+	"Lee County, IA"	"19111"	"2011"	"2011"	"Unintentional"	"1"	37	35621	103.9
+	"Lee County, IA"	"19111"	"2012"	"2012"	"Unintentional"	"1"	17	35617	Unreliable
+	"Lee County, IA"	"19111"	"2013"	"2013"	"Unintentional"	"1"	26	35682	72.9
+	"Lee County, IA"	"19111"	"2014"	"2014"	"Unintentional"	"1"	23	35286	65.2
+	"Lee County, IA"	"19111"	"2015"	"2015"	"Unintentional"	"1"	32	35089	91.2
+	"Lee County, IA"	"19111"	"2016"	"2016"	"Unintentional"	"1"	45	34615	130.0
+	"Lee County, IA"	"19111"	"2017"	"2017"	"Unintentional"	"1"	15	34295	Unreliable
+	"Lee County, IA"	"19111"	"2017"	"2017"	"Suicide"	"2"	10	34295	Unreliable
+	"Lee County, IA"	"19111"	"2018"	"2018"	"Unintentional"	"1"	17	34055	Unreliable
+	"Lee County, IA"	"19111"	"2018"	"2018"	"Suicide"	"2"	11	34055	Unreliable
+	"Linn County, IA"	"19113"	"1999"	"1999"	"Unintentional"	"1"	41	189931	21.6
+	"Linn County, IA"	"19113"	"1999"	"1999"	"Suicide"	"2"	27	189931	14.2
+	"Linn County, IA"	"19113"	"2000"	"2000"	"Unintentional"	"1"	56	191701	29.2
+	"Linn County, IA"	"19113"	"2000"	"2000"	"Suicide"	"2"	21	191701	11.0
+	"Linn County, IA"	"19113"	"2001"	"2001"	"Unintentional"	"1"	44	194359	22.6
+	"Linn County, IA"	"19113"	"2001"	"2001"	"Suicide"	"2"	18	194359	Unreliable
+	"Linn County, IA"	"19113"	"2002"	"2002"	"Unintentional"	"1"	57	195987	29.1
+	"Linn County, IA"	"19113"	"2002"	"2002"	"Suicide"	"2"	24	195987	12.2
+	"Linn County, IA"	"19113"	"2003"	"2003"	"Unintentional"	"1"	65	196920	33.0
+	"Linn County, IA"	"19113"	"2003"	"2003"	"Suicide"	"2"	22	196920	11.2
+	"Linn County, IA"	"19113"	"2004"	"2004"	"Unintentional"	"1"	74	198314	37.3
+	"Linn County, IA"	"19113"	"2004"	"2004"	"Suicide"	"2"	22	198314	11.1
+	"Linn County, IA"	"19113"	"2005"	"2005"	"Unintentional"	"1"	61	200395	30.4
+	"Linn County, IA"	"19113"	"2005"	"2005"	"Suicide"	"2"	25	200395	12.5
+	"Linn County, IA"	"19113"	"2006"	"2006"	"Unintentional"	"1"	81	202709	40.0
+	"Linn County, IA"	"19113"	"2006"	"2006"	"Suicide"	"2"	18	202709	Unreliable
+	"Linn County, IA"	"19113"	"2007"	"2007"	"Unintentional"	"1"	76	205840	36.9
+	"Linn County, IA"	"19113"	"2007"	"2007"	"Suicide"	"2"	19	205840	Unreliable
+	"Linn County, IA"	"19113"	"2008"	"2008"	"Unintentional"	"1"	73	208558	35.0
+	"Linn County, IA"	"19113"	"2008"	"2008"	"Suicide"	"2"	15	208558	Unreliable
+	"Linn County, IA"	"19113"	"2009"	"2009"	"Unintentional"	"1"	71	210217	33.8
+	"Linn County, IA"	"19113"	"2009"	"2009"	"Suicide"	"2"	21	210217	10.0
+	"Linn County, IA"	"19113"	"2010"	"2010"	"Unintentional"	"1"	70	211226	33.1
+	"Linn County, IA"	"19113"	"2010"	"2010"	"Suicide"	"2"	24	211226	11.4
+	"Linn County, IA"	"19113"	"2011"	"2011"	"Unintentional"	"1"	72	213875	33.7
+	"Linn County, IA"	"19113"	"2011"	"2011"	"Suicide"	"2"	28	213875	13.1
+	"Linn County, IA"	"19113"	"2012"	"2012"	"Unintentional"	"1"	99	215295	46.0
+	"Linn County, IA"	"19113"	"2012"	"2012"	"Suicide"	"2"	25	215295	11.6
+	"Linn County, IA"	"19113"	"2013"	"2013"	"Unintentional"	"1"	88	216111	40.7
+	"Linn County, IA"	"19113"	"2013"	"2013"	"Suicide"	"2"	35	216111	16.2
+	"Linn County, IA"	"19113"	"2014"	"2014"	"Unintentional"	"1"	96	217751	44.1
+	"Linn County, IA"	"19113"	"2014"	"2014"	"Suicide"	"2"	27	217751	12.4
+	"Linn County, IA"	"19113"	"2015"	"2015"	"Unintentional"	"1"	109	219916	49.6
+	"Linn County, IA"	"19113"	"2015"	"2015"	"Suicide"	"2"	29	219916	13.2
+	"Linn County, IA"	"19113"	"2016"	"2016"	"Unintentional"	"1"	91	221661	41.1
+	"Linn County, IA"	"19113"	"2016"	"2016"	"Suicide"	"2"	40	221661	18.0
+	"Linn County, IA"	"19113"	"2017"	"2017"	"Unintentional"	"1"	90	224115	40.2
+	"Linn County, IA"	"19113"	"2017"	"2017"	"Suicide"	"2"	34	224115	15.2
+	"Linn County, IA"	"19113"	"2018"	"2018"	"Unintentional"	"1"	94	225909	41.6
+	"Linn County, IA"	"19113"	"2018"	"2018"	"Suicide"	"2"	44	225909	19.5
+	"Louisa County, IA"	"19115"	"2004"	"2004"	"Unintentional"	"1"	10	12115	Unreliable
+	"Louisa County, IA"	"19115"	"2008"	"2008"	"Unintentional"	"1"	12	11830	Unreliable
+	"Louisa County, IA"	"19115"	"2017"	"2017"	"Unintentional"	"1"	10	11184	Unreliable
+	"Lucas County, IA"	"19117"	"2010"	"2010"	"Unintentional"	"1"	11	8898	Unreliable
+	"Madison County, IA"	"19121"	"2016"	"2016"	"Unintentional"	"1"	11	15848	Unreliable
+	"Mahaska County, IA"	"19123"	"2000"	"2000"	"Unintentional"	"1"	11	22335	Unreliable
+	"Mahaska County, IA"	"19123"	"2003"	"2003"	"Unintentional"	"1"	10	22156	Unreliable
+	"Mahaska County, IA"	"19123"	"2006"	"2006"	"Unintentional"	"1"	17	22298	Unreliable
+	"Mahaska County, IA"	"19123"	"2009"	"2009"	"Unintentional"	"1"	14	22364	Unreliable
+	"Mahaska County, IA"	"19123"	"2010"	"2010"	"Unintentional"	"1"	10	22381	Unreliable
+	"Mahaska County, IA"	"19123"	"2011"	"2011"	"Unintentional"	"1"	13	22530	Unreliable
+	"Mahaska County, IA"	"19123"	"2015"	"2015"	"Unintentional"	"1"	21	22324	94.1
+	"Mahaska County, IA"	"19123"	"2016"	"2016"	"Unintentional"	"1"	12	22181	Unreliable
+	"Mahaska County, IA"	"19123"	"2017"	"2017"	"Unintentional"	"1"	13	22235	Unreliable
+	"Marion County, IA"	"19125"	"1999"	"1999"	"Unintentional"	"1"	14	31879	Unreliable
+	"Marion County, IA"	"19125"	"2001"	"2001"	"Unintentional"	"1"	10	32583	Unreliable
+	"Marion County, IA"	"19125"	"2002"	"2002"	"Unintentional"	"1"	15	32572	Unreliable
+	"Marion County, IA"	"19125"	"2003"	"2003"	"Unintentional"	"1"	16	32547	Unreliable
+	"Marion County, IA"	"19125"	"2004"	"2004"	"Unintentional"	"1"	21	32618	64.4
+	"Marion County, IA"	"19125"	"2005"	"2005"	"Unintentional"	"1"	17	32774	Unreliable
+	"Marion County, IA"	"19125"	"2006"	"2006"	"Unintentional"	"1"	10	33396	Unreliable
+	"Marion County, IA"	"19125"	"2008"	"2008"	"Unintentional"	"1"	11	33515	Unreliable
+	"Marion County, IA"	"19125"	"2009"	"2009"	"Unintentional"	"1"	16	33468	Unreliable
+	"Marion County, IA"	"19125"	"2010"	"2010"	"Unintentional"	"1"	15	33309	Unreliable
+	"Marion County, IA"	"19125"	"2011"	"2011"	"Unintentional"	"1"	12	33335	Unreliable
+	"Marion County, IA"	"19125"	"2012"	"2012"	"Unintentional"	"1"	12	33419	Unreliable
+	"Marion County, IA"	"19125"	"2013"	"2013"	"Unintentional"	"1"	15	33252	Unreliable
+	"Marion County, IA"	"19125"	"2015"	"2015"	"Unintentional"	"1"	17	33294	Unreliable
+	"Marion County, IA"	"19125"	"2016"	"2016"	"Unintentional"	"1"	17	33189	Unreliable
+	"Marion County, IA"	"19125"	"2017"	"2017"	"Unintentional"	"1"	14	33105	Unreliable
+	"Marion County, IA"	"19125"	"2018"	"2018"	"Unintentional"	"1"	17	33407	Unreliable
+	"Marshall County, IA"	"19127"	"1999"	"1999"	"Unintentional"	"1"	10	39313	Unreliable
+	"Marshall County, IA"	"19127"	"2001"	"2001"	"Unintentional"	"1"	25	39414	63.4
+	"Marshall County, IA"	"19127"	"2002"	"2002"	"Unintentional"	"1"	17	39297	Unreliable
+	"Marshall County, IA"	"19127"	"2003"	"2003"	"Unintentional"	"1"	21	39397	53.3
+	"Marshall County, IA"	"19127"	"2004"	"2004"	"Unintentional"	"1"	18	39711	Unreliable
+	"Marshall County, IA"	"19127"	"2005"	"2005"	"Unintentional"	"1"	17	39646	Unreliable
+	"Marshall County, IA"	"19127"	"2006"	"2006"	"Unintentional"	"1"	20	39601	50.5
+	"Marshall County, IA"	"19127"	"2007"	"2007"	"Unintentional"	"1"	17	39875	Unreliable
+	"Marshall County, IA"	"19127"	"2008"	"2008"	"Unintentional"	"1"	21	40151	52.3
+	"Marshall County, IA"	"19127"	"2009"	"2009"	"Unintentional"	"1"	27	40280	67.0
+	"Marshall County, IA"	"19127"	"2010"	"2010"	"Unintentional"	"1"	20	40648	49.2
+	"Marshall County, IA"	"19127"	"2011"	"2011"	"Unintentional"	"1"	31	40980	75.6
+	"Marshall County, IA"	"19127"	"2012"	"2012"	"Unintentional"	"1"	36	40857	88.1
+	"Marshall County, IA"	"19127"	"2013"	"2013"	"Unintentional"	"1"	27	40994	65.9
+	"Marshall County, IA"	"19127"	"2014"	"2014"	"Unintentional"	"1"	29	40866	71.0
+	"Marshall County, IA"	"19127"	"2015"	"2015"	"Unintentional"	"1"	22	40746	54.0
+	"Marshall County, IA"	"19127"	"2016"	"2016"	"Unintentional"	"1"	24	40312	59.5
+	"Marshall County, IA"	"19127"	"2017"	"2017"	"Unintentional"	"1"	23	40288	57.1
+	"Marshall County, IA"	"19127"	"2018"	"2018"	"Unintentional"	"1"	26	39981	65.0
+	"Mills County, IA"	"19129"	"2003"	"2003"	"Unintentional"	"1"	12	14621	Unreliable
+	"Mills County, IA"	"19129"	"2005"	"2005"	"Unintentional"	"1"	10	14905	Unreliable
+	"Mills County, IA"	"19129"	"2010"	"2010"	"Unintentional"	"1"	12	15059	Unreliable
+	"Mills County, IA"	"19129"	"2018"	"2018"	"Unintentional"	"1"	13	15063	Unreliable
+	"Monona County, IA"	"19133"	"2011"	"2011"	"Unintentional"	"1"	11	9239	Unreliable
+	"Monona County, IA"	"19133"	"2013"	"2013"	"Unintentional"	"1"	15	9121	Unreliable
+	"Montgomery County, IA"	"19137"	"2003"	"2003"	"Unintentional"	"1"	11	11211	Unreliable
+	"Montgomery County, IA"	"19137"	"2007"	"2007"	"Unintentional"	"1"	11	10981	Unreliable
+	"Montgomery County, IA"	"19137"	"2008"	"2008"	"Unintentional"	"1"	13	10823	Unreliable
+	"Muscatine County, IA"	"19139"	"1999"	"1999"	"Unintentional"	"1"	12	41587	Unreliable
+	"Muscatine County, IA"	"19139"	"2000"	"2000"	"Unintentional"	"1"	14	41722	Unreliable
+	"Muscatine County, IA"	"19139"	"2001"	"2001"	"Unintentional"	"1"	14	41760	Unreliable
+	"Muscatine County, IA"	"19139"	"2002"	"2002"	"Unintentional"	"1"	11	41757	Unreliable
+	"Muscatine County, IA"	"19139"	"2003"	"2003"	"Unintentional"	"1"	25	41654	60.0
+	"Muscatine County, IA"	"19139"	"2004"	"2004"	"Unintentional"	"1"	14	41758	Unreliable
+	"Muscatine County, IA"	"19139"	"2005"	"2005"	"Unintentional"	"1"	17	41894	Unreliable
+	"Muscatine County, IA"	"19139"	"2006"	"2006"	"Unintentional"	"1"	15	42145	Unreliable
+	"Muscatine County, IA"	"19139"	"2008"	"2008"	"Unintentional"	"1"	28	42515	65.9
+	"Muscatine County, IA"	"19139"	"2009"	"2009"	"Unintentional"	"1"	13	42783	Unreliable
+	"Muscatine County, IA"	"19139"	"2010"	"2010"	"Unintentional"	"1"	12	42745	Unreliable
+	"Muscatine County, IA"	"19139"	"2011"	"2011"	"Unintentional"	"1"	17	42815	Unreliable
+	"Muscatine County, IA"	"19139"	"2012"	"2012"	"Unintentional"	"1"	15	42879	Unreliable
+	"Muscatine County, IA"	"19139"	"2013"	"2013"	"Unintentional"	"1"	13	42836	Unreliable
+	"Muscatine County, IA"	"19139"	"2014"	"2014"	"Unintentional"	"1"	18	42903	Unreliable
+	"Muscatine County, IA"	"19139"	"2015"	"2015"	"Unintentional"	"1"	21	43011	48.8
+	"Muscatine County, IA"	"19139"	"2016"	"2016"	"Unintentional"	"1"	15	42940	Unreliable
+	"Muscatine County, IA"	"19139"	"2017"	"2017"	"Unintentional"	"1"	14	42880	Unreliable
+	"Muscatine County, IA"	"19139"	"2018"	"2018"	"Unintentional"	"1"	13	42929	Unreliable
+	"Muscatine County, IA"	"19139"	"2018"	"2018"	"Suicide"	"2"	12	42929	Unreliable
+	"O'Brien County, IA"	"19141"	"2005"	"2005"	"Unintentional"	"1"	10	14552	Unreliable
+	"O'Brien County, IA"	"19141"	"2011"	"2011"	"Unintentional"	"1"	10	14210	Unreliable
+	"O'Brien County, IA"	"19141"	"2012"	"2012"	"Unintentional"	"1"	13	14172	Unreliable
+	"O'Brien County, IA"	"19141"	"2014"	"2014"	"Unintentional"	"1"	10	14056	Unreliable
+	"Page County, IA"	"19145"	"1999"	"1999"	"Unintentional"	"1"	13	17112	Unreliable
+	"Page County, IA"	"19145"	"2000"	"2000"	"Unintentional"	"1"	10	16976	Unreliable
+	"Page County, IA"	"19145"	"2001"	"2001"	"Unintentional"	"1"	14	16822	Unreliable
+	"Page County, IA"	"19145"	"2008"	"2008"	"Unintentional"	"1"	11	16083	Unreliable
+	"Page County, IA"	"19145"	"2009"	"2009"	"Unintentional"	"1"	11	15885	Unreliable
+	"Page County, IA"	"19145"	"2013"	"2013"	"Unintentional"	"1"	10	15713	Unreliable
+	"Page County, IA"	"19145"	"2015"	"2015"	"Unintentional"	"1"	12	15527	Unreliable
+	"Page County, IA"	"19145"	"2017"	"2017"	"Unintentional"	"1"	12	15224	Unreliable
+	"Page County, IA"	"19145"	"2018"	"2018"	"Unintentional"	"1"	10	15249	Unreliable
+	"Palo Alto County, IA"	"19147"	"2015"	"2015"	"Unintentional"	"1"	11	9133	Unreliable
+	"Plymouth County, IA"	"19149"	"1999"	"1999"	"Unintentional"	"1"	11	24774	Unreliable
+	"Plymouth County, IA"	"19149"	"2001"	"2001"	"Unintentional"	"1"	10	24847	Unreliable
+	"Plymouth County, IA"	"19149"	"2002"	"2002"	"Unintentional"	"1"	12	24729	Unreliable
+	"Plymouth County, IA"	"19149"	"2003"	"2003"	"Unintentional"	"1"	10	24858	Unreliable
+	"Plymouth County, IA"	"19149"	"2004"	"2004"	"Unintentional"	"1"	17	25042	Unreliable
+	"Plymouth County, IA"	"19149"	"2005"	"2005"	"Unintentional"	"1"	11	24980	Unreliable
+	"Plymouth County, IA"	"19149"	"2007"	"2007"	"Unintentional"	"1"	13	24886	Unreliable
+	"Plymouth County, IA"	"19149"	"2009"	"2009"	"Unintentional"	"1"	12	24904	Unreliable
+	"Plymouth County, IA"	"19149"	"2010"	"2010"	"Unintentional"	"1"	14	24986	Unreliable
+	"Plymouth County, IA"	"19149"	"2012"	"2012"	"Unintentional"	"1"	10	24907	Unreliable
+	"Plymouth County, IA"	"19149"	"2014"	"2014"	"Unintentional"	"1"	11	24874	Unreliable
+	"Plymouth County, IA"	"19149"	"2017"	"2017"	"Unintentional"	"1"	15	25220	Unreliable
+	"Plymouth County, IA"	"19149"	"2018"	"2018"	"Unintentional"	"1"	16	25095	Unreliable
+	"Polk County, IA"	"19153"	"1999"	"1999"	"Unintentional"	"1"	100	370592	27.0
+	"Polk County, IA"	"19153"	"1999"	"1999"	"Suicide"	"2"	41	370592	11.1
+	"Polk County, IA"	"19153"	"1999"	"1999"	"Homicide"	"3"	20	370592	5.4
+	"Polk County, IA"	"19153"	"2000"	"2000"	"Unintentional"	"1"	94	374601	25.1
+	"Polk County, IA"	"19153"	"2000"	"2000"	"Suicide"	"2"	33	374601	8.8
+	"Polk County, IA"	"19153"	"2000"	"2000"	"Homicide"	"3"	14	374601	Unreliable
+	"Polk County, IA"	"19153"	"2001"	"2001"	"Unintentional"	"1"	93	380108	24.5
+	"Polk County, IA"	"19153"	"2001"	"2001"	"Suicide"	"2"	45	380108	11.8
+	"Polk County, IA"	"19153"	"2001"	"2001"	"Homicide"	"3"	15	380108	Unreliable
+	"Polk County, IA"	"19153"	"2002"	"2002"	"Unintentional"	"1"	110	384355	28.6
+	"Polk County, IA"	"19153"	"2002"	"2002"	"Suicide"	"2"	46	384355	12.0
+	"Polk County, IA"	"19153"	"2002"	"2002"	"Homicide"	"3"	13	384355	Unreliable
+	"Polk County, IA"	"19153"	"2003"	"2003"	"Unintentional"	"1"	110	388277	28.3
+	"Polk County, IA"	"19153"	"2003"	"2003"	"Suicide"	"2"	39	388277	10.0
+	"Polk County, IA"	"19153"	"2004"	"2004"	"Unintentional"	"1"	104	392164	26.5
+	"Polk County, IA"	"19153"	"2004"	"2004"	"Suicide"	"2"	43	392164	11.0
+	"Polk County, IA"	"19153"	"2004"	"2004"	"Homicide"	"3"	17	392164	Unreliable
+	"Polk County, IA"	"19153"	"2005"	"2005"	"Unintentional"	"1"	107	399030	26.8
+	"Polk County, IA"	"19153"	"2005"	"2005"	"Suicide"	"2"	46	399030	11.5
+	"Polk County, IA"	"19153"	"2006"	"2006"	"Unintentional"	"1"	131	405990	32.3
+	"Polk County, IA"	"19153"	"2006"	"2006"	"Suicide"	"2"	52	405990	12.8
+	"Polk County, IA"	"19153"	"2006"	"2006"	"Homicide"	"3"	10	405990	Unreliable
+	"Polk County, IA"	"19153"	"2006"	"2006"	"Undetermined "	"4"	12	405990	Unreliable
+	"Polk County, IA"	"19153"	"2007"	"2007"	"Unintentional"	"1"	153	413024	37.0
+	"Polk County, IA"	"19153"	"2007"	"2007"	"Suicide"	"2"	63	413024	15.3
+	"Polk County, IA"	"19153"	"2007"	"2007"	"Homicide"	"3"	11	413024	Unreliable
+	"Polk County, IA"	"19153"	"2007"	"2007"	"Undetermined "	"4"	10	413024	Unreliable
+	"Polk County, IA"	"19153"	"2008"	"2008"	"Unintentional"	"1"	153	419495	36.5
+	"Polk County, IA"	"19153"	"2008"	"2008"	"Suicide"	"2"	64	419495	15.3
+	"Polk County, IA"	"19153"	"2008"	"2008"	"Homicide"	"3"	20	419495	4.8
+	"Polk County, IA"	"19153"	"2009"	"2009"	"Unintentional"	"1"	157	425737	36.9
+	"Polk County, IA"	"19153"	"2009"	"2009"	"Suicide"	"2"	58	425737	13.6
+	"Polk County, IA"	"19153"	"2010"	"2010"	"Unintentional"	"1"	156	430640	36.2
+	"Polk County, IA"	"19153"	"2010"	"2010"	"Suicide"	"2"	57	430640	13.2
+	"Polk County, IA"	"19153"	"2011"	"2011"	"Unintentional"	"1"	180	437399	41.2
+	"Polk County, IA"	"19153"	"2011"	"2011"	"Suicide"	"2"	60	437399	13.7
+	"Polk County, IA"	"19153"	"2012"	"2012"	"Unintentional"	"1"	160	443710	36.1
+	"Polk County, IA"	"19153"	"2012"	"2012"	"Suicide"	"2"	49	443710	11.0
+	"Polk County, IA"	"19153"	"2012"	"2012"	"Homicide"	"3"	11	443710	Unreliable
+	"Polk County, IA"	"19153"	"2013"	"2013"	"Unintentional"	"1"	194	451677	43.0
+	"Polk County, IA"	"19153"	"2013"	"2013"	"Suicide"	"2"	53	451677	11.7
+	"Polk County, IA"	"19153"	"2013"	"2013"	"Homicide"	"3"	13	451677	Unreliable
+	"Polk County, IA"	"19153"	"2014"	"2014"	"Unintentional"	"1"	194	459862	42.2
+	"Polk County, IA"	"19153"	"2014"	"2014"	"Suicide"	"2"	65	459862	14.1
+	"Polk County, IA"	"19153"	"2014"	"2014"	"Homicide"	"3"	13	459862	Unreliable
+	"Polk County, IA"	"19153"	"2015"	"2015"	"Unintentional"	"1"	208	467711	44.5
+	"Polk County, IA"	"19153"	"2015"	"2015"	"Suicide"	"2"	75	467711	16.0
+	"Polk County, IA"	"19153"	"2015"	"2015"	"Homicide"	"3"	22	467711	4.7
+	"Polk County, IA"	"19153"	"2015"	"2015"	"Undetermined "	"4"	10	467711	Unreliable
+	"Polk County, IA"	"19153"	"2016"	"2016"	"Unintentional"	"1"	215	474045	45.4
+	"Polk County, IA"	"19153"	"2016"	"2016"	"Suicide"	"2"	71	474045	15.0
+	"Polk County, IA"	"19153"	"2016"	"2016"	"Homicide"	"3"	22	474045	4.6
+	"Polk County, IA"	"19153"	"2016"	"2016"	"Undetermined "	"4"	12	474045	Unreliable
+	"Polk County, IA"	"19153"	"2017"	"2017"	"Unintentional"	"1"	236	481830	49.0
+	"Polk County, IA"	"19153"	"2017"	"2017"	"Suicide"	"2"	72	481830	14.9
+	"Polk County, IA"	"19153"	"2017"	"2017"	"Homicide"	"3"	26	481830	5.4
+	"Polk County, IA"	"19153"	"2018"	"2018"	"Unintentional"	"1"	247	487204	50.7
+	"Polk County, IA"	"19153"	"2018"	"2018"	"Suicide"	"2"	53	487204	10.9
+	"Polk County, IA"	"19153"	"2018"	"2018"	"Homicide"	"3"	18	487204	Unreliable
+	"Pottawattamie County, IA"	"19155"	"1999"	"1999"	"Unintentional"	"1"	35	87153	40.2
+	"Pottawattamie County, IA"	"19155"	"2000"	"2000"	"Unintentional"	"1"	33	87704	37.6
+	"Pottawattamie County, IA"	"19155"	"2000"	"2000"	"Suicide"	"2"	17	87704	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2000"	"2000"	"Homicide"	"3"	10	87704	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2001"	"2001"	"Unintentional"	"1"	24	87953	27.3
+	"Pottawattamie County, IA"	"19155"	"2001"	"2001"	"Suicide"	"2"	12	87953	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2002"	"2002"	"Unintentional"	"1"	29	88447	32.8
+	"Pottawattamie County, IA"	"19155"	"2002"	"2002"	"Suicide"	"2"	10	88447	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2003"	"2003"	"Unintentional"	"1"	32	88821	36.0
+	"Pottawattamie County, IA"	"19155"	"2003"	"2003"	"Suicide"	"2"	10	88821	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2004"	"2004"	"Unintentional"	"1"	24	89762	26.7
+	"Pottawattamie County, IA"	"19155"	"2004"	"2004"	"Suicide"	"2"	13	89762	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2005"	"2005"	"Unintentional"	"1"	39	90198	43.2
+	"Pottawattamie County, IA"	"19155"	"2005"	"2005"	"Suicide"	"2"	17	90198	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2006"	"2006"	"Unintentional"	"1"	30	90867	33.0
+	"Pottawattamie County, IA"	"19155"	"2006"	"2006"	"Suicide"	"2"	10	90867	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2007"	"2007"	"Unintentional"	"1"	38	91239	41.6
+	"Pottawattamie County, IA"	"19155"	"2007"	"2007"	"Suicide"	"2"	14	91239	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2008"	"2008"	"Unintentional"	"1"	34	91781	37.0
+	"Pottawattamie County, IA"	"19155"	"2009"	"2009"	"Unintentional"	"1"	34	92395	36.8
+	"Pottawattamie County, IA"	"19155"	"2009"	"2009"	"Suicide"	"2"	17	92395	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2010"	"2010"	"Unintentional"	"1"	49	93158	52.6
+	"Pottawattamie County, IA"	"19155"	"2011"	"2011"	"Unintentional"	"1"	40	93518	42.8
+	"Pottawattamie County, IA"	"19155"	"2011"	"2011"	"Suicide"	"2"	15	93518	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2012"	"2012"	"Unintentional"	"1"	38	92913	40.9
+	"Pottawattamie County, IA"	"19155"	"2012"	"2012"	"Suicide"	"2"	14	92913	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2013"	"2013"	"Unintentional"	"1"	37	92728	39.9
+	"Pottawattamie County, IA"	"19155"	"2013"	"2013"	"Suicide"	"2"	19	92728	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2014"	"2014"	"Unintentional"	"1"	46	93128	49.4
+	"Pottawattamie County, IA"	"19155"	"2014"	"2014"	"Suicide"	"2"	18	93128	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2015"	"2015"	"Unintentional"	"1"	33	93671	35.2
+	"Pottawattamie County, IA"	"19155"	"2015"	"2015"	"Suicide"	"2"	17	93671	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2016"	"2016"	"Unintentional"	"1"	63	93582	67.3
+	"Pottawattamie County, IA"	"19155"	"2016"	"2016"	"Suicide"	"2"	15	93582	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2017"	"2017"	"Unintentional"	"1"	48	93386	51.4
+	"Pottawattamie County, IA"	"19155"	"2017"	"2017"	"Suicide"	"2"	18	93386	Unreliable
+	"Pottawattamie County, IA"	"19155"	"2018"	"2018"	"Unintentional"	"1"	33	93533	35.3
+	"Pottawattamie County, IA"	"19155"	"2018"	"2018"	"Suicide"	"2"	13	93533	Unreliable
+	"Poweshiek County, IA"	"19157"	"2001"	"2001"	"Unintentional"	"1"	11	18972	Unreliable
+	"Poweshiek County, IA"	"19157"	"2002"	"2002"	"Unintentional"	"1"	15	18941	Unreliable
+	"Poweshiek County, IA"	"19157"	"2003"	"2003"	"Unintentional"	"1"	14	19060	Unreliable
+	"Poweshiek County, IA"	"19157"	"2005"	"2005"	"Unintentional"	"1"	12	19002	Unreliable
+	"Poweshiek County, IA"	"19157"	"2010"	"2010"	"Unintentional"	"1"	11	18914	Unreliable
+	"Poweshiek County, IA"	"19157"	"2013"	"2013"	"Unintentional"	"1"	11	18601	Unreliable
+	"Poweshiek County, IA"	"19157"	"2014"	"2014"	"Unintentional"	"1"	13	18668	Unreliable
+	"Sac County, IA"	"19161"	"2007"	"2007"	"Unintentional"	"1"	15	10532	Unreliable
+	"Scott County, IA"	"19163"	"1999"	"1999"	"Unintentional"	"1"	51	158765	32.1
+	"Scott County, IA"	"19163"	"1999"	"1999"	"Suicide"	"2"	16	158765	Unreliable
+	"Scott County, IA"	"19163"	"2000"	"2000"	"Unintentional"	"1"	56	158668	35.3
+	"Scott County, IA"	"19163"	"2000"	"2000"	"Suicide"	"2"	23	158668	14.5
+	"Scott County, IA"	"19163"	"2001"	"2001"	"Unintentional"	"1"	41	158203	25.9
+	"Scott County, IA"	"19163"	"2001"	"2001"	"Suicide"	"2"	17	158203	Unreliable
+	"Scott County, IA"	"19163"	"2002"	"2002"	"Unintentional"	"1"	52	158086	32.9
+	"Scott County, IA"	"19163"	"2002"	"2002"	"Suicide"	"2"	18	158086	Unreliable
+	"Scott County, IA"	"19163"	"2003"	"2003"	"Unintentional"	"1"	57	158048	36.1
+	"Scott County, IA"	"19163"	"2003"	"2003"	"Suicide"	"2"	17	158048	Unreliable
+	"Scott County, IA"	"19163"	"2004"	"2004"	"Unintentional"	"1"	58	158145	36.7
+	"Scott County, IA"	"19163"	"2004"	"2004"	"Suicide"	"2"	17	158145	Unreliable
+	"Scott County, IA"	"19163"	"2005"	"2005"	"Unintentional"	"1"	51	158543	32.2
+	"Scott County, IA"	"19163"	"2005"	"2005"	"Suicide"	"2"	16	158543	Unreliable
+	"Scott County, IA"	"19163"	"2006"	"2006"	"Unintentional"	"1"	63	159597	39.5
+	"Scott County, IA"	"19163"	"2006"	"2006"	"Suicide"	"2"	28	159597	17.5
+	"Scott County, IA"	"19163"	"2007"	"2007"	"Unintentional"	"1"	58	160077	36.2
+	"Scott County, IA"	"19163"	"2007"	"2007"	"Suicide"	"2"	12	160077	Unreliable
+	"Scott County, IA"	"19163"	"2008"	"2008"	"Unintentional"	"1"	61	161824	37.7
+	"Scott County, IA"	"19163"	"2008"	"2008"	"Suicide"	"2"	21	161824	13.0
+	"Scott County, IA"	"19163"	"2009"	"2009"	"Unintentional"	"1"	54	163582	33.0
+	"Scott County, IA"	"19163"	"2009"	"2009"	"Suicide"	"2"	20	163582	12.2
+	"Scott County, IA"	"19163"	"2010"	"2010"	"Unintentional"	"1"	62	165224	37.5
+	"Scott County, IA"	"19163"	"2010"	"2010"	"Suicide"	"2"	23	165224	13.9
+	"Scott County, IA"	"19163"	"2011"	"2011"	"Unintentional"	"1"	73	167095	43.7
+	"Scott County, IA"	"19163"	"2011"	"2011"	"Suicide"	"2"	29	167095	17.4
+	"Scott County, IA"	"19163"	"2012"	"2012"	"Unintentional"	"1"	62	168799	36.7
+	"Scott County, IA"	"19163"	"2012"	"2012"	"Suicide"	"2"	27	168799	16.0
+	"Scott County, IA"	"19163"	"2013"	"2013"	"Unintentional"	"1"	94	170385	55.2
+	"Scott County, IA"	"19163"	"2013"	"2013"	"Suicide"	"2"	38	170385	22.3
+	"Scott County, IA"	"19163"	"2014"	"2014"	"Unintentional"	"1"	77	171387	44.9
+	"Scott County, IA"	"19163"	"2014"	"2014"	"Suicide"	"2"	25	171387	14.6
+	"Scott County, IA"	"19163"	"2015"	"2015"	"Unintentional"	"1"	93	172126	54.0
+	"Scott County, IA"	"19163"	"2015"	"2015"	"Suicide"	"2"	33	172126	19.2
+	"Scott County, IA"	"19163"	"2016"	"2016"	"Unintentional"	"1"	77	172474	44.6
+	"Scott County, IA"	"19163"	"2016"	"2016"	"Suicide"	"2"	19	172474	Unreliable
+	"Scott County, IA"	"19163"	"2017"	"2017"	"Unintentional"	"1"	88	172509	51.0
+	"Scott County, IA"	"19163"	"2017"	"2017"	"Suicide"	"2"	33	172509	19.1
+	"Scott County, IA"	"19163"	"2017"	"2017"	"Homicide"	"3"	10	172509	Unreliable
+	"Scott County, IA"	"19163"	"2018"	"2018"	"Unintentional"	"1"	93	173283	53.7
+	"Scott County, IA"	"19163"	"2018"	"2018"	"Suicide"	"2"	25	173283	14.4
+	"Shelby County, IA"	"19165"	"2008"	"2008"	"Unintentional"	"1"	14	12338	Unreliable
+	"Shelby County, IA"	"19165"	"2011"	"2011"	"Unintentional"	"1"	10	12039	Unreliable
+	"Sioux County, IA"	"19167"	"2000"	"2000"	"Unintentional"	"1"	16	31589	Unreliable
+	"Sioux County, IA"	"19167"	"2002"	"2002"	"Unintentional"	"1"	13	32164	Unreliable
+	"Sioux County, IA"	"19167"	"2003"	"2003"	"Unintentional"	"1"	13	32318	Unreliable
+	"Sioux County, IA"	"19167"	"2005"	"2005"	"Unintentional"	"1"	12	32726	Unreliable
+	"Sioux County, IA"	"19167"	"2007"	"2007"	"Unintentional"	"1"	17	33150	Unreliable
+	"Sioux County, IA"	"19167"	"2009"	"2009"	"Unintentional"	"1"	18	33587	Unreliable
+	"Sioux County, IA"	"19167"	"2011"	"2011"	"Unintentional"	"1"	10	33900	Unreliable
+	"Sioux County, IA"	"19167"	"2012"	"2012"	"Unintentional"	"1"	11	34268	Unreliable
+	"Sioux County, IA"	"19167"	"2014"	"2014"	"Unintentional"	"1"	12	34681	Unreliable
+	"Sioux County, IA"	"19167"	"2015"	"2015"	"Unintentional"	"1"	18	34937	Unreliable
+	"Sioux County, IA"	"19167"	"2016"	"2016"	"Unintentional"	"1"	17	34898	Unreliable
+	"Sioux County, IA"	"19167"	"2018"	"2018"	"Unintentional"	"1"	11	34909	Unreliable
+	"Story County, IA"	"19169"	"1999"	"1999"	"Unintentional"	"1"	20	79372	25.2
+	"Story County, IA"	"19169"	"2000"	"2000"	"Unintentional"	"1"	19	79981	Unreliable
+	"Story County, IA"	"19169"	"2001"	"2001"	"Unintentional"	"1"	23	80260	28.7
+	"Story County, IA"	"19169"	"2002"	"2002"	"Unintentional"	"1"	22	81885	26.9
+	"Story County, IA"	"19169"	"2003"	"2003"	"Unintentional"	"1"	13	82068	Unreliable
+	"Story County, IA"	"19169"	"2003"	"2003"	"Suicide"	"2"	12	82068	Unreliable
+	"Story County, IA"	"19169"	"2004"	"2004"	"Unintentional"	"1"	17	82754	Unreliable
+	"Story County, IA"	"19169"	"2005"	"2005"	"Unintentional"	"1"	23	82884	27.7
+	"Story County, IA"	"19169"	"2006"	"2006"	"Unintentional"	"1"	21	84739	24.8
+	"Story County, IA"	"19169"	"2006"	"2006"	"Suicide"	"2"	12	84739	Unreliable
+	"Story County, IA"	"19169"	"2007"	"2007"	"Unintentional"	"1"	24	86540	27.7
+	"Story County, IA"	"19169"	"2008"	"2008"	"Unintentional"	"1"	22	87831	25.0
+	"Story County, IA"	"19169"	"2009"	"2009"	"Unintentional"	"1"	22	89285	24.6
+	"Story County, IA"	"19169"	"2010"	"2010"	"Unintentional"	"1"	20	89542	22.3
+	"Story County, IA"	"19169"	"2011"	"2011"	"Unintentional"	"1"	38	89663	42.4
+	"Story County, IA"	"19169"	"2012"	"2012"	"Unintentional"	"1"	14	91140	Unreliable
+	"Story County, IA"	"19169"	"2013"	"2013"	"Unintentional"	"1"	23	92406	24.9
+	"Story County, IA"	"19169"	"2013"	"2013"	"Suicide"	"2"	10	92406	Unreliable
+	"Story County, IA"	"19169"	"2014"	"2014"	"Unintentional"	"1"	24	94073	25.5
+	"Story County, IA"	"19169"	"2015"	"2015"	"Unintentional"	"1"	23	96021	24.0
+	"Story County, IA"	"19169"	"2015"	"2015"	"Suicide"	"2"	10	96021	Unreliable
+	"Story County, IA"	"19169"	"2016"	"2016"	"Unintentional"	"1"	27	97090	27.8
+	"Story County, IA"	"19169"	"2017"	"2017"	"Unintentional"	"1"	27	97502	27.7
+	"Story County, IA"	"19169"	"2018"	"2018"	"Unintentional"	"1"	30	98105	30.6
+	"Tama County, IA"	"19171"	"1999"	"1999"	"Unintentional"	"1"	11	18121	Unreliable
+	"Tama County, IA"	"19171"	"2000"	"2000"	"Unintentional"	"1"	10	18103	Unreliable
+	"Tama County, IA"	"19171"	"2002"	"2002"	"Unintentional"	"1"	11	18017	Unreliable
+	"Tama County, IA"	"19171"	"2005"	"2005"	"Unintentional"	"1"	10	18197	Unreliable
+	"Tama County, IA"	"19171"	"2006"	"2006"	"Unintentional"	"1"	11	18149	Unreliable
+	"Tama County, IA"	"19171"	"2007"	"2007"	"Unintentional"	"1"	11	18064	Unreliable
+	"Tama County, IA"	"19171"	"2009"	"2009"	"Unintentional"	"1"	13	17833	Unreliable
+	"Tama County, IA"	"19171"	"2010"	"2010"	"Unintentional"	"1"	10	17767	Unreliable
+	"Tama County, IA"	"19171"	"2012"	"2012"	"Unintentional"	"1"	16	17536	Unreliable
+	"Tama County, IA"	"19171"	"2013"	"2013"	"Unintentional"	"1"	10	17576	Unreliable
+	"Tama County, IA"	"19171"	"2014"	"2014"	"Unintentional"	"1"	17	17451	Unreliable
+	"Tama County, IA"	"19171"	"2017"	"2017"	"Unintentional"	"1"	18	17058	Unreliable
+	"Union County, IA"	"19175"	"2008"	"2008"	"Unintentional"	"1"	10	12447	Unreliable
+	"Union County, IA"	"19175"	"2015"	"2015"	"Unintentional"	"1"	10	12469	Unreliable
+	"Union County, IA"	"19175"	"2017"	"2017"	"Unintentional"	"1"	12	12450	Unreliable
+	"Wapello County, IA"	"19179"	"1999"	"1999"	"Unintentional"	"1"	17	36042	Unreliable
+	"Wapello County, IA"	"19179"	"2000"	"2000"	"Unintentional"	"1"	16	36051	Unreliable
+	"Wapello County, IA"	"19179"	"2001"	"2001"	"Unintentional"	"1"	12	35947	Unreliable
+	"Wapello County, IA"	"19179"	"2002"	"2002"	"Unintentional"	"1"	16	35796	Unreliable
+	"Wapello County, IA"	"19179"	"2004"	"2004"	"Unintentional"	"1"	22	35709	61.6
+	"Wapello County, IA"	"19179"	"2005"	"2005"	"Unintentional"	"1"	19	35855	Unreliable
+	"Wapello County, IA"	"19179"	"2006"	"2006"	"Unintentional"	"1"	21	35776	58.7
+	"Wapello County, IA"	"19179"	"2007"	"2007"	"Unintentional"	"1"	17	35458	Unreliable
+	"Wapello County, IA"	"19179"	"2008"	"2008"	"Unintentional"	"1"	16	35381	Unreliable
+	"Wapello County, IA"	"19179"	"2009"	"2009"	"Unintentional"	"1"	11	35481	Unreliable
+	"Wapello County, IA"	"19179"	"2010"	"2010"	"Unintentional"	"1"	18	35625	Unreliable
+	"Wapello County, IA"	"19179"	"2011"	"2011"	"Unintentional"	"1"	16	35421	Unreliable
+	"Wapello County, IA"	"19179"	"2012"	"2012"	"Unintentional"	"1"	24	35366	67.9
+	"Wapello County, IA"	"19179"	"2013"	"2013"	"Unintentional"	"1"	16	35391	Unreliable
+	"Wapello County, IA"	"19179"	"2014"	"2014"	"Unintentional"	"1"	10	35212	Unreliable
+	"Wapello County, IA"	"19179"	"2014"	"2014"	"Suicide"	"2"	11	35212	Unreliable
+	"Wapello County, IA"	"19179"	"2015"	"2015"	"Unintentional"	"1"	13	35173	Unreliable
+	"Wapello County, IA"	"19179"	"2016"	"2016"	"Unintentional"	"1"	22	34982	62.9
+	"Wapello County, IA"	"19179"	"2017"	"2017"	"Unintentional"	"1"	16	35044	Unreliable
+	"Wapello County, IA"	"19179"	"2018"	"2018"	"Unintentional"	"1"	24	35205	68.2
+	"Warren County, IA"	"19181"	"1999"	"1999"	"Unintentional"	"1"	13	40340	Unreliable
+	"Warren County, IA"	"19181"	"2001"	"2001"	"Unintentional"	"1"	10	41080	Unreliable
+	"Warren County, IA"	"19181"	"2004"	"2004"	"Unintentional"	"1"	14	42584	Unreliable
+	"Warren County, IA"	"19181"	"2004"	"2004"	"Suicide"	"2"	12	42584	Unreliable
+	"Warren County, IA"	"19181"	"2005"	"2005"	"Unintentional"	"1"	19	43339	Unreliable
+	"Warren County, IA"	"19181"	"2006"	"2006"	"Unintentional"	"1"	15	44178	Unreliable
+	"Warren County, IA"	"19181"	"2007"	"2007"	"Unintentional"	"1"	15	44868	Unreliable
+	"Warren County, IA"	"19181"	"2008"	"2008"	"Unintentional"	"1"	19	45450	Unreliable
+	"Warren County, IA"	"19181"	"2009"	"2009"	"Unintentional"	"1"	17	45926	Unreliable
+	"Warren County, IA"	"19181"	"2010"	"2010"	"Unintentional"	"1"	21	46225	45.4
+	"Warren County, IA"	"19181"	"2011"	"2011"	"Unintentional"	"1"	11	46732	Unreliable
+	"Warren County, IA"	"19181"	"2012"	"2012"	"Unintentional"	"1"	16	46891	Unreliable
+	"Warren County, IA"	"19181"	"2013"	"2013"	"Unintentional"	"1"	15	47336	Unreliable
+	"Warren County, IA"	"19181"	"2013"	"2013"	"Suicide"	"2"	10	47336	Unreliable
+	"Warren County, IA"	"19181"	"2014"	"2014"	"Unintentional"	"1"	20	47956	41.7
+	"Warren County, IA"	"19181"	"2015"	"2015"	"Unintentional"	"1"	19	48626	Unreliable
+	"Warren County, IA"	"19181"	"2016"	"2016"	"Unintentional"	"1"	20	49691	40.2
+	"Warren County, IA"	"19181"	"2017"	"2017"	"Unintentional"	"1"	16	50163	Unreliable
+	"Warren County, IA"	"19181"	"2018"	"2018"	"Unintentional"	"1"	19	51056	Unreliable
+	"Warren County, IA"	"19181"	"2018"	"2018"	"Suicide"	"2"	13	51056	Unreliable
+	"Washington County, IA"	"19183"	"2003"	"2003"	"Unintentional"	"1"	15	21190	Unreliable
+	"Washington County, IA"	"19183"	"2004"	"2004"	"Unintentional"	"1"	13	21258	Unreliable
+	"Washington County, IA"	"19183"	"2005"	"2005"	"Unintentional"	"1"	11	21350	Unreliable
+	"Washington County, IA"	"19183"	"2007"	"2007"	"Unintentional"	"1"	12	21588	Unreliable
+	"Washington County, IA"	"19183"	"2008"	"2008"	"Unintentional"	"1"	17	21686	Unreliable
+	"Washington County, IA"	"19183"	"2009"	"2009"	"Unintentional"	"1"	14	21692	Unreliable
+	"Washington County, IA"	"19183"	"2010"	"2010"	"Unintentional"	"1"	11	21704	Unreliable
+	"Washington County, IA"	"19183"	"2011"	"2011"	"Unintentional"	"1"	11	21855	Unreliable
+	"Washington County, IA"	"19183"	"2013"	"2013"	"Unintentional"	"1"	10	22015	Unreliable
+	"Washington County, IA"	"19183"	"2015"	"2015"	"Unintentional"	"1"	12	22247	Unreliable
+	"Washington County, IA"	"19183"	"2016"	"2016"	"Unintentional"	"1"	19	22281	Unreliable
+	"Washington County, IA"	"19183"	"2017"	"2017"	"Unintentional"	"1"	11	22281	Unreliable
+	"Washington County, IA"	"19183"	"2018"	"2018"	"Unintentional"	"1"	13	22141	Unreliable
+	"Webster County, IA"	"19187"	"1999"	"1999"	"Unintentional"	"1"	18	40255	Unreliable
+	"Webster County, IA"	"19187"	"2000"	"2000"	"Unintentional"	"1"	24	40235	59.6
+	"Webster County, IA"	"19187"	"2001"	"2001"	"Unintentional"	"1"	17	40045	Unreliable
+	"Webster County, IA"	"19187"	"2002"	"2002"	"Unintentional"	"1"	15	39654	Unreliable
+	"Webster County, IA"	"19187"	"2003"	"2003"	"Unintentional"	"1"	23	39377	58.4
+	"Webster County, IA"	"19187"	"2004"	"2004"	"Unintentional"	"1"	27	38922	69.4
+	"Webster County, IA"	"19187"	"2005"	"2005"	"Unintentional"	"1"	25	38562	64.8
+	"Webster County, IA"	"19187"	"2006"	"2006"	"Unintentional"	"1"	15	38534	Unreliable
+	"Webster County, IA"	"19187"	"2007"	"2007"	"Unintentional"	"1"	24	38393	62.5
+	"Webster County, IA"	"19187"	"2008"	"2008"	"Unintentional"	"1"	19	38273	Unreliable
+	"Webster County, IA"	"19187"	"2009"	"2009"	"Unintentional"	"1"	26	38316	67.9
+	"Webster County, IA"	"19187"	"2010"	"2010"	"Unintentional"	"1"	29	38013	76.3
+	"Webster County, IA"	"19187"	"2010"	"2010"	"Suicide"	"2"	10	38013	Unreliable
+	"Webster County, IA"	"19187"	"2011"	"2011"	"Unintentional"	"1"	24	37660	63.7
+	"Webster County, IA"	"19187"	"2012"	"2012"	"Unintentional"	"1"	20	37273	53.7
+	"Webster County, IA"	"19187"	"2013"	"2013"	"Unintentional"	"1"	15	37044	Unreliable
+	"Webster County, IA"	"19187"	"2014"	"2014"	"Unintentional"	"1"	22	36955	59.5
+	"Webster County, IA"	"19187"	"2015"	"2015"	"Unintentional"	"1"	24	37071	64.7
+	"Webster County, IA"	"19187"	"2016"	"2016"	"Unintentional"	"1"	30	36769	81.6
+	"Webster County, IA"	"19187"	"2017"	"2017"	"Unintentional"	"1"	26	36605	71.0
+	"Webster County, IA"	"19187"	"2018"	"2018"	"Unintentional"	"1"	20	36277	55.1
+	"Winnebago County, IA"	"19189"	"2001"	"2001"	"Unintentional"	"1"	12	11586	Unreliable
+	"Winnebago County, IA"	"19189"	"2002"	"2002"	"Unintentional"	"1"	10	11403	Unreliable
+	"Winnebago County, IA"	"19189"	"2016"	"2016"	"Unintentional"	"1"	10	10631	Unreliable
+	"Winnebago County, IA"	"19189"	"2018"	"2018"	"Unintentional"	"1"	11	10518	Unreliable
+	"Winneshiek County, IA"	"19191"	"1999"	"1999"	"Unintentional"	"1"	10	21289	Unreliable
+	"Winneshiek County, IA"	"19191"	"2001"	"2001"	"Unintentional"	"1"	10	21258	Unreliable
+	"Winneshiek County, IA"	"19191"	"2002"	"2002"	"Unintentional"	"1"	12	21183	Unreliable
+	"Winneshiek County, IA"	"19191"	"2003"	"2003"	"Unintentional"	"1"	10	21006	Unreliable
+	"Winneshiek County, IA"	"19191"	"2005"	"2005"	"Unintentional"	"1"	10	21060	Unreliable
+	"Winneshiek County, IA"	"19191"	"2013"	"2013"	"Unintentional"	"1"	13	20994	Unreliable
+	"Winneshiek County, IA"	"19191"	"2014"	"2014"	"Unintentional"	"1"	12	20768	Unreliable
+	"Winneshiek County, IA"	"19191"	"2015"	"2015"	"Unintentional"	"1"	14	20709	Unreliable
+	"Woodbury County, IA"	"19193"	"1999"	"1999"	"Unintentional"	"1"	31	103801	29.9
+	"Woodbury County, IA"	"19193"	"1999"	"1999"	"Suicide"	"2"	13	103801	Unreliable
+	"Woodbury County, IA"	"19193"	"2000"	"2000"	"Unintentional"	"1"	49	103877	47.2
+	"Woodbury County, IA"	"19193"	"2001"	"2001"	"Unintentional"	"1"	43	103129	41.7
+	"Woodbury County, IA"	"19193"	"2002"	"2002"	"Unintentional"	"1"	29	102666	28.2
+	"Woodbury County, IA"	"19193"	"2002"	"2002"	"Suicide"	"2"	12	102666	Unreliable
+	"Woodbury County, IA"	"19193"	"2003"	"2003"	"Unintentional"	"1"	41	102039	40.2
+	"Woodbury County, IA"	"19193"	"2003"	"2003"	"Suicide"	"2"	22	102039	21.6
+	"Woodbury County, IA"	"19193"	"2004"	"2004"	"Unintentional"	"1"	30	101816	29.5
+	"Woodbury County, IA"	"19193"	"2004"	"2004"	"Suicide"	"2"	12	101816	Unreliable
+	"Woodbury County, IA"	"19193"	"2005"	"2005"	"Unintentional"	"1"	34	100589	33.8
+	"Woodbury County, IA"	"19193"	"2005"	"2005"	"Suicide"	"2"	15	100589	Unreliable
+	"Woodbury County, IA"	"19193"	"2006"	"2006"	"Unintentional"	"1"	40	100693	39.7
+	"Woodbury County, IA"	"19193"	"2006"	"2006"	"Suicide"	"2"	10	100693	Unreliable
+	"Woodbury County, IA"	"19193"	"2007"	"2007"	"Unintentional"	"1"	42	100492	41.8
+	"Woodbury County, IA"	"19193"	"2007"	"2007"	"Suicide"	"2"	13	100492	Unreliable
+	"Woodbury County, IA"	"19193"	"2008"	"2008"	"Unintentional"	"1"	30	100910	29.7
+	"Woodbury County, IA"	"19193"	"2008"	"2008"	"Suicide"	"2"	10	100910	Unreliable
+	"Woodbury County, IA"	"19193"	"2009"	"2009"	"Unintentional"	"1"	45	101581	44.3
+	"Woodbury County, IA"	"19193"	"2009"	"2009"	"Suicide"	"2"	12	101581	Unreliable
+	"Woodbury County, IA"	"19193"	"2010"	"2010"	"Unintentional"	"1"	35	102172	34.3
+	"Woodbury County, IA"	"19193"	"2010"	"2010"	"Suicide"	"2"	13	102172	Unreliable
+	"Woodbury County, IA"	"19193"	"2011"	"2011"	"Unintentional"	"1"	42	102509	41.0
+	"Woodbury County, IA"	"19193"	"2011"	"2011"	"Suicide"	"2"	10	102509	Unreliable
+	"Woodbury County, IA"	"19193"	"2012"	"2012"	"Unintentional"	"1"	57	102323	55.7
+	"Woodbury County, IA"	"19193"	"2012"	"2012"	"Suicide"	"2"	14	102323	Unreliable
+	"Woodbury County, IA"	"19193"	"2013"	"2013"	"Unintentional"	"1"	53	102130	51.9
+	"Woodbury County, IA"	"19193"	"2013"	"2013"	"Suicide"	"2"	10	102130	Unreliable
+	"Woodbury County, IA"	"19193"	"2014"	"2014"	"Unintentional"	"1"	49	102271	47.9
+	"Woodbury County, IA"	"19193"	"2014"	"2014"	"Suicide"	"2"	13	102271	Unreliable
+	"Woodbury County, IA"	"19193"	"2015"	"2015"	"Unintentional"	"1"	44	102782	42.8
+	"Woodbury County, IA"	"19193"	"2015"	"2015"	"Suicide"	"2"	12	102782	Unreliable
+	"Woodbury County, IA"	"19193"	"2016"	"2016"	"Unintentional"	"1"	40	102779	38.9
+	"Woodbury County, IA"	"19193"	"2016"	"2016"	"Suicide"	"2"	10	102779	Unreliable
+	"Woodbury County, IA"	"19193"	"2017"	"2017"	"Unintentional"	"1"	40	102429	39.1
+	"Woodbury County, IA"	"19193"	"2017"	"2017"	"Suicide"	"2"	16	102429	Unreliable
+	"Woodbury County, IA"	"19193"	"2018"	"2018"	"Unintentional"	"1"	29	102539	28.3
+	"Woodbury County, IA"	"19193"	"2018"	"2018"	"Suicide"	"2"	18	102539	Unreliable
+	"Worth County, IA"	"19195"	"2012"	"2012"	"Unintentional"	"1"	10	7519	Unreliable
+	"Wright County, IA"	"19197"	"1999"	"1999"	"Unintentional"	"1"	11	14379	Unreliable
+	"Wright County, IA"	"19197"	"2001"	"2001"	"Unintentional"	"1"	12	14133	Unreliable
+	"Wright County, IA"	"19197"	"2005"	"2005"	"Unintentional"	"1"	12	13717	Unreliable
+	"Wright County, IA"	"19197"	"2010"	"2010"	"Unintentional"	"1"	11	13229	Unreliable
+	"Wright County, IA"	"19197"	"2013"	"2013"	"Unintentional"	"1"	12	12972	Unreliable
+	"Wright County, IA"	"19197"	"2015"	"2015"	"Unintentional"	"1"	11	12773	Unreliable
+	"Wright County, IA"	"19197"	"2018"	"2018"	"Unintentional"	"1"	10	12690	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Iowa"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Iowa (19)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:38:55 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:38:55 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

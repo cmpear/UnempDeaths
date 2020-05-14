@@ -1,0 +1,1859 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adair County, MO"	"29001"	"2002"	"2002"	"Unintentional"	"1"	12	25072	Unreliable
+	"Adair County, MO"	"29001"	"2005"	"2005"	"Unintentional"	"1"	15	24849	Unreliable
+	"Adair County, MO"	"29001"	"2006"	"2006"	"Unintentional"	"1"	11	25007	Unreliable
+	"Adair County, MO"	"29001"	"2007"	"2007"	"Unintentional"	"1"	11	24983	Unreliable
+	"Adair County, MO"	"29001"	"2008"	"2008"	"Unintentional"	"1"	11	25399	Unreliable
+	"Adair County, MO"	"29001"	"2009"	"2009"	"Unintentional"	"1"	14	25577	Unreliable
+	"Adair County, MO"	"29001"	"2011"	"2011"	"Unintentional"	"1"	11	25552	Unreliable
+	"Adair County, MO"	"29001"	"2012"	"2012"	"Unintentional"	"1"	11	25581	Unreliable
+	"Adair County, MO"	"29001"	"2013"	"2013"	"Unintentional"	"1"	10	25572	Unreliable
+	"Adair County, MO"	"29001"	"2014"	"2014"	"Unintentional"	"1"	12	25602	Unreliable
+	"Adair County, MO"	"29001"	"2015"	"2015"	"Unintentional"	"1"	10	25378	Unreliable
+	"Adair County, MO"	"29001"	"2016"	"2016"	"Unintentional"	"1"	12	25359	Unreliable
+	"Adair County, MO"	"29001"	"2017"	"2017"	"Unintentional"	"1"	17	25377	Unreliable
+	"Andrew County, MO"	"29003"	"1999"	"1999"	"Unintentional"	"1"	13	16308	Unreliable
+	"Andrew County, MO"	"29003"	"2004"	"2004"	"Unintentional"	"1"	12	16580	Unreliable
+	"Andrew County, MO"	"29003"	"2006"	"2006"	"Unintentional"	"1"	10	16861	Unreliable
+	"Andrew County, MO"	"29003"	"2007"	"2007"	"Unintentional"	"1"	10	16834	Unreliable
+	"Andrew County, MO"	"29003"	"2016"	"2016"	"Unintentional"	"1"	13	17350	Unreliable
+	"Audrain County, MO"	"29007"	"2001"	"2001"	"Unintentional"	"1"	17	25784	Unreliable
+	"Audrain County, MO"	"29007"	"2003"	"2003"	"Unintentional"	"1"	24	25728	93.3
+	"Audrain County, MO"	"29007"	"2005"	"2005"	"Unintentional"	"1"	18	25725	Unreliable
+	"Audrain County, MO"	"29007"	"2006"	"2006"	"Unintentional"	"1"	11	25869	Unreliable
+	"Audrain County, MO"	"29007"	"2007"	"2007"	"Unintentional"	"1"	13	25658	Unreliable
+	"Audrain County, MO"	"29007"	"2008"	"2008"	"Unintentional"	"1"	16	25774	Unreliable
+	"Audrain County, MO"	"29007"	"2009"	"2009"	"Unintentional"	"1"	13	25628	Unreliable
+	"Audrain County, MO"	"29007"	"2010"	"2010"	"Unintentional"	"1"	12	25529	Unreliable
+	"Audrain County, MO"	"29007"	"2011"	"2011"	"Unintentional"	"1"	10	25566	Unreliable
+	"Audrain County, MO"	"29007"	"2012"	"2012"	"Unintentional"	"1"	15	25621	Unreliable
+	"Audrain County, MO"	"29007"	"2013"	"2013"	"Unintentional"	"1"	12	25661	Unreliable
+	"Audrain County, MO"	"29007"	"2015"	"2015"	"Unintentional"	"1"	11	26096	Unreliable
+	"Audrain County, MO"	"29007"	"2016"	"2016"	"Unintentional"	"1"	14	26021	Unreliable
+	"Audrain County, MO"	"29007"	"2017"	"2017"	"Unintentional"	"1"	10	25641	Unreliable
+	"Audrain County, MO"	"29007"	"2018"	"2018"	"Unintentional"	"1"	11	25473	Unreliable
+	"Barry County, MO"	"29009"	"1999"	"1999"	"Unintentional"	"1"	17	33769	Unreliable
+	"Barry County, MO"	"29009"	"2000"	"2000"	"Unintentional"	"1"	21	34010	61.7
+	"Barry County, MO"	"29009"	"2001"	"2001"	"Unintentional"	"1"	15	33981	Unreliable
+	"Barry County, MO"	"29009"	"2002"	"2002"	"Unintentional"	"1"	26	34111	76.2
+	"Barry County, MO"	"29009"	"2003"	"2003"	"Unintentional"	"1"	27	34555	78.1
+	"Barry County, MO"	"29009"	"2004"	"2004"	"Unintentional"	"1"	23	34849	66.0
+	"Barry County, MO"	"29009"	"2005"	"2005"	"Unintentional"	"1"	37	35241	105.0
+	"Barry County, MO"	"29009"	"2006"	"2006"	"Unintentional"	"1"	23	35756	64.3
+	"Barry County, MO"	"29009"	"2007"	"2007"	"Unintentional"	"1"	24	35844	67.0
+	"Barry County, MO"	"29009"	"2008"	"2008"	"Unintentional"	"1"	18	35935	Unreliable
+	"Barry County, MO"	"29009"	"2009"	"2009"	"Unintentional"	"1"	17	35640	Unreliable
+	"Barry County, MO"	"29009"	"2010"	"2010"	"Unintentional"	"1"	18	35597	Unreliable
+	"Barry County, MO"	"29009"	"2010"	"2010"	"Suicide"	"2"	10	35597	Unreliable
+	"Barry County, MO"	"29009"	"2011"	"2011"	"Unintentional"	"1"	28	35282	79.4
+	"Barry County, MO"	"29009"	"2012"	"2012"	"Unintentional"	"1"	30	35546	84.4
+	"Barry County, MO"	"29009"	"2013"	"2013"	"Unintentional"	"1"	24	35572	67.5
+	"Barry County, MO"	"29009"	"2014"	"2014"	"Unintentional"	"1"	19	35662	Unreliable
+	"Barry County, MO"	"29009"	"2015"	"2015"	"Unintentional"	"1"	22	35829	61.4
+	"Barry County, MO"	"29009"	"2016"	"2016"	"Unintentional"	"1"	25	35732	70.0
+	"Barry County, MO"	"29009"	"2017"	"2017"	"Unintentional"	"1"	29	35668	81.3
+	"Barry County, MO"	"29009"	"2018"	"2018"	"Unintentional"	"1"	34	35886	94.7
+	"Barton County, MO"	"29011"	"2002"	"2002"	"Unintentional"	"1"	13	12780	Unreliable
+	"Barton County, MO"	"29011"	"2003"	"2003"	"Unintentional"	"1"	12	12924	Unreliable
+	"Barton County, MO"	"29011"	"2004"	"2004"	"Unintentional"	"1"	14	12941	Unreliable
+	"Barton County, MO"	"29011"	"2006"	"2006"	"Unintentional"	"1"	16	12972	Unreliable
+	"Barton County, MO"	"29011"	"2008"	"2008"	"Unintentional"	"1"	14	12589	Unreliable
+	"Barton County, MO"	"29011"	"2010"	"2010"	"Unintentional"	"1"	10	12402	Unreliable
+	"Barton County, MO"	"29011"	"2015"	"2015"	"Unintentional"	"1"	10	11880	Unreliable
+	"Bates County, MO"	"29013"	"2000"	"2000"	"Unintentional"	"1"	13	16653	Unreliable
+	"Bates County, MO"	"29013"	"2002"	"2002"	"Unintentional"	"1"	10	17009	Unreliable
+	"Bates County, MO"	"29013"	"2004"	"2004"	"Unintentional"	"1"	16	17088	Unreliable
+	"Bates County, MO"	"29013"	"2005"	"2005"	"Unintentional"	"1"	11	17117	Unreliable
+	"Bates County, MO"	"29013"	"2006"	"2006"	"Unintentional"	"1"	11	17193	Unreliable
+	"Bates County, MO"	"29013"	"2008"	"2008"	"Unintentional"	"1"	10	17194	Unreliable
+	"Bates County, MO"	"29013"	"2010"	"2010"	"Unintentional"	"1"	14	17049	Unreliable
+	"Bates County, MO"	"29013"	"2011"	"2011"	"Unintentional"	"1"	15	17008	Unreliable
+	"Bates County, MO"	"29013"	"2012"	"2012"	"Unintentional"	"1"	10	16709	Unreliable
+	"Bates County, MO"	"29013"	"2014"	"2014"	"Unintentional"	"1"	12	16584	Unreliable
+	"Bates County, MO"	"29013"	"2015"	"2015"	"Unintentional"	"1"	12	16446	Unreliable
+	"Bates County, MO"	"29013"	"2016"	"2016"	"Unintentional"	"1"	12	16417	Unreliable
+	"Bates County, MO"	"29013"	"2017"	"2017"	"Unintentional"	"1"	18	16334	Unreliable
+	"Bates County, MO"	"29013"	"2018"	"2018"	"Unintentional"	"1"	16	16320	Unreliable
+	"Benton County, MO"	"29015"	"1999"	"1999"	"Unintentional"	"1"	10	16949	Unreliable
+	"Benton County, MO"	"29015"	"2000"	"2000"	"Unintentional"	"1"	13	17180	Unreliable
+	"Benton County, MO"	"29015"	"2001"	"2001"	"Unintentional"	"1"	11	17399	Unreliable
+	"Benton County, MO"	"29015"	"2003"	"2003"	"Unintentional"	"1"	17	17996	Unreliable
+	"Benton County, MO"	"29015"	"2006"	"2006"	"Unintentional"	"1"	12	18749	Unreliable
+	"Benton County, MO"	"29015"	"2007"	"2007"	"Unintentional"	"1"	17	19025	Unreliable
+	"Benton County, MO"	"29015"	"2008"	"2008"	"Unintentional"	"1"	16	19046	Unreliable
+	"Benton County, MO"	"29015"	"2010"	"2010"	"Unintentional"	"1"	16	19056	Unreliable
+	"Benton County, MO"	"29015"	"2011"	"2011"	"Unintentional"	"1"	15	19115	Unreliable
+	"Benton County, MO"	"29015"	"2012"	"2012"	"Unintentional"	"1"	13	18962	Unreliable
+	"Benton County, MO"	"29015"	"2013"	"2013"	"Unintentional"	"1"	15	18932	Unreliable
+	"Benton County, MO"	"29015"	"2014"	"2014"	"Unintentional"	"1"	19	18806	Unreliable
+	"Benton County, MO"	"29015"	"2015"	"2015"	"Unintentional"	"1"	14	18670	Unreliable
+	"Benton County, MO"	"29015"	"2017"	"2017"	"Unintentional"	"1"	14	19074	Unreliable
+	"Benton County, MO"	"29015"	"2018"	"2018"	"Unintentional"	"1"	19	19278	Unreliable
+	"Bollinger County, MO"	"29017"	"2004"	"2004"	"Unintentional"	"1"	11	12427	Unreliable
+	"Bollinger County, MO"	"29017"	"2005"	"2005"	"Unintentional"	"1"	11	12466	Unreliable
+	"Bollinger County, MO"	"29017"	"2012"	"2012"	"Unintentional"	"1"	12	12382	Unreliable
+	"Bollinger County, MO"	"29017"	"2016"	"2016"	"Unintentional"	"1"	12	12052	Unreliable
+	"Boone County, MO"	"29019"	"1999"	"1999"	"Unintentional"	"1"	42	134081	31.3
+	"Boone County, MO"	"29019"	"1999"	"1999"	"Suicide"	"2"	13	134081	Unreliable
+	"Boone County, MO"	"29019"	"2000"	"2000"	"Unintentional"	"1"	49	135454	36.2
+	"Boone County, MO"	"29019"	"2000"	"2000"	"Suicide"	"2"	13	135454	Unreliable
+	"Boone County, MO"	"29019"	"2000"	"2000"	"Homicide"	"3"	11	135454	Unreliable
+	"Boone County, MO"	"29019"	"2001"	"2001"	"Unintentional"	"1"	54	138181	39.1
+	"Boone County, MO"	"29019"	"2002"	"2002"	"Unintentional"	"1"	54	140695	38.4
+	"Boone County, MO"	"29019"	"2002"	"2002"	"Suicide"	"2"	19	140695	Unreliable
+	"Boone County, MO"	"29019"	"2003"	"2003"	"Unintentional"	"1"	61	143019	42.7
+	"Boone County, MO"	"29019"	"2003"	"2003"	"Suicide"	"2"	18	143019	Unreliable
+	"Boone County, MO"	"29019"	"2004"	"2004"	"Unintentional"	"1"	50	145348	34.4
+	"Boone County, MO"	"29019"	"2004"	"2004"	"Suicide"	"2"	19	145348	Unreliable
+	"Boone County, MO"	"29019"	"2005"	"2005"	"Unintentional"	"1"	57	148786	38.3
+	"Boone County, MO"	"29019"	"2005"	"2005"	"Suicide"	"2"	22	148786	14.8
+	"Boone County, MO"	"29019"	"2005"	"2005"	"Homicide"	"3"	10	148786	Unreliable
+	"Boone County, MO"	"29019"	"2006"	"2006"	"Unintentional"	"1"	69	152784	45.2
+	"Boone County, MO"	"29019"	"2006"	"2006"	"Suicide"	"2"	20	152784	13.1
+	"Boone County, MO"	"29019"	"2007"	"2007"	"Unintentional"	"1"	55	155666	35.3
+	"Boone County, MO"	"29019"	"2007"	"2007"	"Suicide"	"2"	12	155666	Unreliable
+	"Boone County, MO"	"29019"	"2008"	"2008"	"Unintentional"	"1"	53	158089	33.5
+	"Boone County, MO"	"29019"	"2009"	"2009"	"Unintentional"	"1"	74	160565	46.1
+	"Boone County, MO"	"29019"	"2009"	"2009"	"Suicide"	"2"	14	160565	Unreliable
+	"Boone County, MO"	"29019"	"2010"	"2010"	"Unintentional"	"1"	55	162642	33.8
+	"Boone County, MO"	"29019"	"2010"	"2010"	"Suicide"	"2"	14	162642	Unreliable
+	"Boone County, MO"	"29019"	"2011"	"2011"	"Unintentional"	"1"	67	165627	40.5
+	"Boone County, MO"	"29019"	"2011"	"2011"	"Suicide"	"2"	23	165627	13.9
+	"Boone County, MO"	"29019"	"2012"	"2012"	"Unintentional"	"1"	56	168535	33.2
+	"Boone County, MO"	"29019"	"2012"	"2012"	"Suicide"	"2"	21	168535	12.5
+	"Boone County, MO"	"29019"	"2013"	"2013"	"Unintentional"	"1"	49	170773	28.7
+	"Boone County, MO"	"29019"	"2013"	"2013"	"Suicide"	"2"	34	170773	19.9
+	"Boone County, MO"	"29019"	"2014"	"2014"	"Unintentional"	"1"	50	172717	28.9
+	"Boone County, MO"	"29019"	"2014"	"2014"	"Suicide"	"2"	16	172717	Unreliable
+	"Boone County, MO"	"29019"	"2015"	"2015"	"Unintentional"	"1"	57	174974	32.6
+	"Boone County, MO"	"29019"	"2015"	"2015"	"Suicide"	"2"	17	174974	Unreliable
+	"Boone County, MO"	"29019"	"2016"	"2016"	"Unintentional"	"1"	57	176594	32.3
+	"Boone County, MO"	"29019"	"2016"	"2016"	"Suicide"	"2"	21	176594	11.9
+	"Boone County, MO"	"29019"	"2017"	"2017"	"Unintentional"	"1"	50	178271	28.0
+	"Boone County, MO"	"29019"	"2017"	"2017"	"Suicide"	"2"	18	178271	Unreliable
+	"Boone County, MO"	"29019"	"2018"	"2018"	"Unintentional"	"1"	72	180005	40.0
+	"Boone County, MO"	"29019"	"2018"	"2018"	"Suicide"	"2"	23	180005	12.8
+	"Boone County, MO"	"29019"	"2018"	"2018"	"Homicide"	"3"	14	180005	Unreliable
+	"Buchanan County, MO"	"29021"	"1999"	"1999"	"Unintentional"	"1"	30	85602	35.0
+	"Buchanan County, MO"	"29021"	"1999"	"1999"	"Suicide"	"2"	10	85602	Unreliable
+	"Buchanan County, MO"	"29021"	"2000"	"2000"	"Unintentional"	"1"	33	85998	38.4
+	"Buchanan County, MO"	"29021"	"2000"	"2000"	"Suicide"	"2"	13	85998	Unreliable
+	"Buchanan County, MO"	"29021"	"2001"	"2001"	"Unintentional"	"1"	26	86026	30.2
+	"Buchanan County, MO"	"29021"	"2001"	"2001"	"Suicide"	"2"	14	86026	Unreliable
+	"Buchanan County, MO"	"29021"	"2002"	"2002"	"Unintentional"	"1"	30	86027	34.9
+	"Buchanan County, MO"	"29021"	"2002"	"2002"	"Suicide"	"2"	13	86027	Unreliable
+	"Buchanan County, MO"	"29021"	"2003"	"2003"	"Unintentional"	"1"	26	85887	30.3
+	"Buchanan County, MO"	"29021"	"2004"	"2004"	"Unintentional"	"1"	26	86039	30.2
+	"Buchanan County, MO"	"29021"	"2004"	"2004"	"Suicide"	"2"	16	86039	Unreliable
+	"Buchanan County, MO"	"29021"	"2005"	"2005"	"Unintentional"	"1"	59	86378	68.3
+	"Buchanan County, MO"	"29021"	"2005"	"2005"	"Suicide"	"2"	10	86378	Unreliable
+	"Buchanan County, MO"	"29021"	"2006"	"2006"	"Unintentional"	"1"	32	86543	37.0
+	"Buchanan County, MO"	"29021"	"2006"	"2006"	"Suicide"	"2"	11	86543	Unreliable
+	"Buchanan County, MO"	"29021"	"2007"	"2007"	"Unintentional"	"1"	41	87740	46.7
+	"Buchanan County, MO"	"29021"	"2007"	"2007"	"Suicide"	"2"	14	87740	Unreliable
+	"Buchanan County, MO"	"29021"	"2008"	"2008"	"Unintentional"	"1"	42	88317	47.6
+	"Buchanan County, MO"	"29021"	"2008"	"2008"	"Suicide"	"2"	18	88317	Unreliable
+	"Buchanan County, MO"	"29021"	"2009"	"2009"	"Unintentional"	"1"	36	89233	40.3
+	"Buchanan County, MO"	"29021"	"2010"	"2010"	"Unintentional"	"1"	46	89201	51.6
+	"Buchanan County, MO"	"29021"	"2010"	"2010"	"Suicide"	"2"	17	89201	Unreliable
+	"Buchanan County, MO"	"29021"	"2011"	"2011"	"Unintentional"	"1"	40	89666	44.6
+	"Buchanan County, MO"	"29021"	"2011"	"2011"	"Suicide"	"2"	16	89666	Unreliable
+	"Buchanan County, MO"	"29021"	"2012"	"2012"	"Unintentional"	"1"	40	89706	44.6
+	"Buchanan County, MO"	"29021"	"2013"	"2013"	"Unintentional"	"1"	43	89631	48.0
+	"Buchanan County, MO"	"29021"	"2013"	"2013"	"Suicide"	"2"	17	89631	Unreliable
+	"Buchanan County, MO"	"29021"	"2014"	"2014"	"Unintentional"	"1"	35	89486	39.1
+	"Buchanan County, MO"	"29021"	"2015"	"2015"	"Unintentional"	"1"	28	89100	31.4
+	"Buchanan County, MO"	"29021"	"2015"	"2015"	"Suicide"	"2"	23	89100	25.8
+	"Buchanan County, MO"	"29021"	"2015"	"2015"	"Homicide"	"3"	11	89100	Unreliable
+	"Buchanan County, MO"	"29021"	"2016"	"2016"	"Unintentional"	"1"	36	88938	40.5
+	"Buchanan County, MO"	"29021"	"2016"	"2016"	"Suicide"	"2"	14	88938	Unreliable
+	"Buchanan County, MO"	"29021"	"2017"	"2017"	"Unintentional"	"1"	41	89065	46.0
+	"Buchanan County, MO"	"29021"	"2017"	"2017"	"Suicide"	"2"	17	89065	Unreliable
+	"Buchanan County, MO"	"29021"	"2017"	"2017"	"Homicide"	"3"	12	89065	Unreliable
+	"Buchanan County, MO"	"29021"	"2018"	"2018"	"Unintentional"	"1"	47	88571	53.1
+	"Buchanan County, MO"	"29021"	"2018"	"2018"	"Suicide"	"2"	24	88571	27.1
+	"Butler County, MO"	"29023"	"1999"	"1999"	"Unintentional"	"1"	31	40945	75.7
+	"Butler County, MO"	"29023"	"2000"	"2000"	"Unintentional"	"1"	26	40867	63.6
+	"Butler County, MO"	"29023"	"2001"	"2001"	"Unintentional"	"1"	27	40837	66.1
+	"Butler County, MO"	"29023"	"2002"	"2002"	"Unintentional"	"1"	26	41068	63.3
+	"Butler County, MO"	"29023"	"2003"	"2003"	"Unintentional"	"1"	39	41131	94.8
+	"Butler County, MO"	"29023"	"2004"	"2004"	"Unintentional"	"1"	29	41476	69.9
+	"Butler County, MO"	"29023"	"2005"	"2005"	"Unintentional"	"1"	28	41995	66.7
+	"Butler County, MO"	"29023"	"2006"	"2006"	"Unintentional"	"1"	37	42246	87.6
+	"Butler County, MO"	"29023"	"2007"	"2007"	"Unintentional"	"1"	44	42109	104.5
+	"Butler County, MO"	"29023"	"2008"	"2008"	"Unintentional"	"1"	32	42351	75.6
+	"Butler County, MO"	"29023"	"2009"	"2009"	"Unintentional"	"1"	44	42683	103.1
+	"Butler County, MO"	"29023"	"2010"	"2010"	"Unintentional"	"1"	29	42794	67.8
+	"Butler County, MO"	"29023"	"2010"	"2010"	"Suicide"	"2"	13	42794	Unreliable
+	"Butler County, MO"	"29023"	"2011"	"2011"	"Unintentional"	"1"	34	43082	78.9
+	"Butler County, MO"	"29023"	"2012"	"2012"	"Unintentional"	"1"	34	43053	79.0
+	"Butler County, MO"	"29023"	"2012"	"2012"	"Suicide"	"2"	10	43053	Unreliable
+	"Butler County, MO"	"29023"	"2013"	"2013"	"Unintentional"	"1"	30	43083	69.6
+	"Butler County, MO"	"29023"	"2014"	"2014"	"Unintentional"	"1"	35	42972	81.4
+	"Butler County, MO"	"29023"	"2014"	"2014"	"Suicide"	"2"	10	42972	Unreliable
+	"Butler County, MO"	"29023"	"2015"	"2015"	"Unintentional"	"1"	24	42951	55.9
+	"Butler County, MO"	"29023"	"2016"	"2016"	"Unintentional"	"1"	26	42739	60.8
+	"Butler County, MO"	"29023"	"2017"	"2017"	"Unintentional"	"1"	29	42666	68.0
+	"Butler County, MO"	"29023"	"2017"	"2017"	"Suicide"	"2"	10	42666	Unreliable
+	"Butler County, MO"	"29023"	"2018"	"2018"	"Unintentional"	"1"	38	42639	89.1
+	"Caldwell County, MO"	"29025"	"2001"	"2001"	"Unintentional"	"1"	11	9006	Unreliable
+	"Caldwell County, MO"	"29025"	"2010"	"2010"	"Unintentional"	"1"	14	9424	Unreliable
+	"Caldwell County, MO"	"29025"	"2011"	"2011"	"Unintentional"	"1"	10	9315	Unreliable
+	"Callaway County, MO"	"29027"	"2000"	"2000"	"Unintentional"	"1"	23	40766	56.4
+	"Callaway County, MO"	"29027"	"2001"	"2001"	"Unintentional"	"1"	20	41490	48.2
+	"Callaway County, MO"	"29027"	"2002"	"2002"	"Unintentional"	"1"	36	41973	85.8
+	"Callaway County, MO"	"29027"	"2003"	"2003"	"Unintentional"	"1"	13	42023	Unreliable
+	"Callaway County, MO"	"29027"	"2004"	"2004"	"Unintentional"	"1"	24	41767	57.5
+	"Callaway County, MO"	"29027"	"2004"	"2004"	"Suicide"	"2"	11	41767	Unreliable
+	"Callaway County, MO"	"29027"	"2005"	"2005"	"Unintentional"	"1"	31	42683	72.6
+	"Callaway County, MO"	"29027"	"2006"	"2006"	"Unintentional"	"1"	25	43118	58.0
+	"Callaway County, MO"	"29027"	"2007"	"2007"	"Unintentional"	"1"	17	43414	Unreliable
+	"Callaway County, MO"	"29027"	"2007"	"2007"	"Suicide"	"2"	12	43414	Unreliable
+	"Callaway County, MO"	"29027"	"2008"	"2008"	"Unintentional"	"1"	29	43855	66.1
+	"Callaway County, MO"	"29027"	"2009"	"2009"	"Unintentional"	"1"	43	44041	97.6
+	"Callaway County, MO"	"29027"	"2010"	"2010"	"Unintentional"	"1"	22	44332	49.6
+	"Callaway County, MO"	"29027"	"2011"	"2011"	"Unintentional"	"1"	20	44420	45.0
+	"Callaway County, MO"	"29027"	"2011"	"2011"	"Suicide"	"2"	10	44420	Unreliable
+	"Callaway County, MO"	"29027"	"2012"	"2012"	"Unintentional"	"1"	14	44305	Unreliable
+	"Callaway County, MO"	"29027"	"2013"	"2013"	"Unintentional"	"1"	26	44359	58.6
+	"Callaway County, MO"	"29027"	"2014"	"2014"	"Unintentional"	"1"	18	44750	Unreliable
+	"Callaway County, MO"	"29027"	"2015"	"2015"	"Unintentional"	"1"	35	44834	78.1
+	"Callaway County, MO"	"29027"	"2016"	"2016"	"Unintentional"	"1"	21	45078	46.6
+	"Callaway County, MO"	"29027"	"2016"	"2016"	"Suicide"	"2"	12	45078	Unreliable
+	"Callaway County, MO"	"29027"	"2017"	"2017"	"Unintentional"	"1"	20	45032	44.4
+	"Callaway County, MO"	"29027"	"2018"	"2018"	"Unintentional"	"1"	26	44889	57.9
+	"Camden County, MO"	"29029"	"1999"	"1999"	"Unintentional"	"1"	23	36316	63.3
+	"Camden County, MO"	"29029"	"2000"	"2000"	"Unintentional"	"1"	24	37051	64.8
+	"Camden County, MO"	"29029"	"2001"	"2001"	"Unintentional"	"1"	19	37497	Unreliable
+	"Camden County, MO"	"29029"	"2002"	"2002"	"Unintentional"	"1"	34	38263	88.9
+	"Camden County, MO"	"29029"	"2003"	"2003"	"Unintentional"	"1"	33	38832	85.0
+	"Camden County, MO"	"29029"	"2004"	"2004"	"Unintentional"	"1"	22	39572	55.6
+	"Camden County, MO"	"29029"	"2005"	"2005"	"Unintentional"	"1"	27	40641	66.4
+	"Camden County, MO"	"29029"	"2006"	"2006"	"Unintentional"	"1"	27	41832	64.5
+	"Camden County, MO"	"29029"	"2007"	"2007"	"Unintentional"	"1"	31	42744	72.5
+	"Camden County, MO"	"29029"	"2008"	"2008"	"Unintentional"	"1"	36	43462	82.8
+	"Camden County, MO"	"29029"	"2009"	"2009"	"Unintentional"	"1"	31	43762	70.8
+	"Camden County, MO"	"29029"	"2010"	"2010"	"Unintentional"	"1"	24	44002	54.5
+	"Camden County, MO"	"29029"	"2011"	"2011"	"Unintentional"	"1"	27	43679	61.8
+	"Camden County, MO"	"29029"	"2012"	"2012"	"Unintentional"	"1"	30	43845	68.4
+	"Camden County, MO"	"29029"	"2013"	"2013"	"Unintentional"	"1"	23	43862	52.4
+	"Camden County, MO"	"29029"	"2014"	"2014"	"Unintentional"	"1"	22	44021	50.0
+	"Camden County, MO"	"29029"	"2014"	"2014"	"Suicide"	"2"	11	44021	Unreliable
+	"Camden County, MO"	"29029"	"2015"	"2015"	"Unintentional"	"1"	31	44237	70.1
+	"Camden County, MO"	"29029"	"2015"	"2015"	"Suicide"	"2"	11	44237	Unreliable
+	"Camden County, MO"	"29029"	"2016"	"2016"	"Unintentional"	"1"	34	44497	76.4
+	"Camden County, MO"	"29029"	"2016"	"2016"	"Suicide"	"2"	10	44497	Unreliable
+	"Camden County, MO"	"29029"	"2017"	"2017"	"Unintentional"	"1"	26	45632	57.0
+	"Camden County, MO"	"29029"	"2017"	"2017"	"Suicide"	"2"	12	45632	Unreliable
+	"Camden County, MO"	"29029"	"2018"	"2018"	"Unintentional"	"1"	37	45815	80.8
+	"Cape Girardeau County, MO"	"29031"	"1999"	"1999"	"Unintentional"	"1"	22	68504	32.1
+	"Cape Girardeau County, MO"	"29031"	"2000"	"2000"	"Unintentional"	"1"	30	68693	43.7
+	"Cape Girardeau County, MO"	"29031"	"2001"	"2001"	"Unintentional"	"1"	26	69340	37.5
+	"Cape Girardeau County, MO"	"29031"	"2002"	"2002"	"Unintentional"	"1"	32	69735	45.9
+	"Cape Girardeau County, MO"	"29031"	"2003"	"2003"	"Unintentional"	"1"	29	70186	41.3
+	"Cape Girardeau County, MO"	"29031"	"2004"	"2004"	"Unintentional"	"1"	25	71121	35.2
+	"Cape Girardeau County, MO"	"29031"	"2005"	"2005"	"Unintentional"	"1"	26	71793	36.2
+	"Cape Girardeau County, MO"	"29031"	"2006"	"2006"	"Unintentional"	"1"	23	72941	31.5
+	"Cape Girardeau County, MO"	"29031"	"2006"	"2006"	"Suicide"	"2"	10	72941	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2007"	"2007"	"Unintentional"	"1"	18	73510	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2007"	"2007"	"Undetermined "	"4"	10	73510	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2008"	"2008"	"Unintentional"	"1"	21	74141	28.3
+	"Cape Girardeau County, MO"	"29031"	"2009"	"2009"	"Unintentional"	"1"	19	74927	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2010"	"2010"	"Unintentional"	"1"	26	75674	34.4
+	"Cape Girardeau County, MO"	"29031"	"2010"	"2010"	"Suicide"	"2"	11	75674	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2010"	"2010"	"Undetermined "	"4"	11	75674	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2011"	"2011"	"Unintentional"	"1"	24	76632	31.3
+	"Cape Girardeau County, MO"	"29031"	"2011"	"2011"	"Suicide"	"2"	12	76632	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2012"	"2012"	"Unintentional"	"1"	22	76950	28.6
+	"Cape Girardeau County, MO"	"29031"	"2012"	"2012"	"Suicide"	"2"	12	76950	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2013"	"2013"	"Unintentional"	"1"	28	77320	36.2
+	"Cape Girardeau County, MO"	"29031"	"2013"	"2013"	"Suicide"	"2"	10	77320	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2014"	"2014"	"Unintentional"	"1"	26	78043	33.3
+	"Cape Girardeau County, MO"	"29031"	"2014"	"2014"	"Suicide"	"2"	18	78043	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2015"	"2015"	"Unintentional"	"1"	25	78572	31.8
+	"Cape Girardeau County, MO"	"29031"	"2015"	"2015"	"Suicide"	"2"	12	78572	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2016"	"2016"	"Unintentional"	"1"	37	78913	46.9
+	"Cape Girardeau County, MO"	"29031"	"2016"	"2016"	"Suicide"	"2"	17	78913	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2016"	"2016"	"Undetermined "	"4"	11	78913	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2017"	"2017"	"Unintentional"	"1"	34	78161	43.5
+	"Cape Girardeau County, MO"	"29031"	"2018"	"2018"	"Unintentional"	"1"	45	78753	57.1
+	"Cape Girardeau County, MO"	"29031"	"2018"	"2018"	"Suicide"	"2"	17	78753	Unreliable
+	"Carroll County, MO"	"29033"	"2001"	"2001"	"Unintentional"	"1"	10	10136	Unreliable
+	"Carroll County, MO"	"29033"	"2004"	"2004"	"Unintentional"	"1"	12	9922	Unreliable
+	"Carroll County, MO"	"29033"	"2007"	"2007"	"Unintentional"	"1"	13	9622	Unreliable
+	"Carroll County, MO"	"29033"	"2009"	"2009"	"Unintentional"	"1"	11	9314	Unreliable
+	"Carroll County, MO"	"29033"	"2010"	"2010"	"Unintentional"	"1"	11	9295	Unreliable
+	"Carroll County, MO"	"29033"	"2018"	"2018"	"Unintentional"	"1"	13	8743	Unreliable
+	"Cass County, MO"	"29037"	"1999"	"1999"	"Unintentional"	"1"	27	80750	33.4
+	"Cass County, MO"	"29037"	"2000"	"2000"	"Unintentional"	"1"	33	82092	40.2
+	"Cass County, MO"	"29037"	"2001"	"2001"	"Unintentional"	"1"	42	84504	49.7
+	"Cass County, MO"	"29037"	"2002"	"2002"	"Unintentional"	"1"	42	86645	48.5
+	"Cass County, MO"	"29037"	"2002"	"2002"	"Suicide"	"2"	12	86645	Unreliable
+	"Cass County, MO"	"29037"	"2003"	"2003"	"Unintentional"	"1"	39	88020	44.3
+	"Cass County, MO"	"29037"	"2003"	"2003"	"Suicide"	"2"	11	88020	Unreliable
+	"Cass County, MO"	"29037"	"2004"	"2004"	"Unintentional"	"1"	41	90759	45.2
+	"Cass County, MO"	"29037"	"2004"	"2004"	"Suicide"	"2"	13	90759	Unreliable
+	"Cass County, MO"	"29037"	"2005"	"2005"	"Unintentional"	"1"	37	92520	40.0
+	"Cass County, MO"	"29037"	"2005"	"2005"	"Suicide"	"2"	14	92520	Unreliable
+	"Cass County, MO"	"29037"	"2006"	"2006"	"Unintentional"	"1"	36	94494	38.1
+	"Cass County, MO"	"29037"	"2006"	"2006"	"Suicide"	"2"	17	94494	Unreliable
+	"Cass County, MO"	"29037"	"2007"	"2007"	"Unintentional"	"1"	41	96845	42.3
+	"Cass County, MO"	"29037"	"2007"	"2007"	"Suicide"	"2"	20	96845	20.7
+	"Cass County, MO"	"29037"	"2008"	"2008"	"Unintentional"	"1"	54	98095	55.0
+	"Cass County, MO"	"29037"	"2008"	"2008"	"Suicide"	"2"	14	98095	Unreliable
+	"Cass County, MO"	"29037"	"2009"	"2009"	"Unintentional"	"1"	49	98835	49.6
+	"Cass County, MO"	"29037"	"2009"	"2009"	"Suicide"	"2"	12	98835	Unreliable
+	"Cass County, MO"	"29037"	"2010"	"2010"	"Unintentional"	"1"	40	99478	40.2
+	"Cass County, MO"	"29037"	"2010"	"2010"	"Suicide"	"2"	18	99478	Unreliable
+	"Cass County, MO"	"29037"	"2011"	"2011"	"Unintentional"	"1"	42	100052	42.0
+	"Cass County, MO"	"29037"	"2011"	"2011"	"Suicide"	"2"	10	100052	Unreliable
+	"Cass County, MO"	"29037"	"2012"	"2012"	"Unintentional"	"1"	38	100376	37.9
+	"Cass County, MO"	"29037"	"2012"	"2012"	"Suicide"	"2"	16	100376	Unreliable
+	"Cass County, MO"	"29037"	"2013"	"2013"	"Unintentional"	"1"	36	100641	35.8
+	"Cass County, MO"	"29037"	"2013"	"2013"	"Suicide"	"2"	21	100641	20.9
+	"Cass County, MO"	"29037"	"2014"	"2014"	"Unintentional"	"1"	41	100889	40.6
+	"Cass County, MO"	"29037"	"2014"	"2014"	"Suicide"	"2"	19	100889	Unreliable
+	"Cass County, MO"	"29037"	"2015"	"2015"	"Unintentional"	"1"	37	101603	36.4
+	"Cass County, MO"	"29037"	"2015"	"2015"	"Suicide"	"2"	21	101603	20.7
+	"Cass County, MO"	"29037"	"2016"	"2016"	"Unintentional"	"1"	37	102845	36.0
+	"Cass County, MO"	"29037"	"2016"	"2016"	"Suicide"	"2"	21	102845	20.4
+	"Cass County, MO"	"29037"	"2017"	"2017"	"Unintentional"	"1"	59	103724	56.9
+	"Cass County, MO"	"29037"	"2017"	"2017"	"Suicide"	"2"	19	103724	Unreliable
+	"Cass County, MO"	"29037"	"2018"	"2018"	"Unintentional"	"1"	58	104954	55.3
+	"Cass County, MO"	"29037"	"2018"	"2018"	"Suicide"	"2"	28	104954	26.7
+	"Cedar County, MO"	"29039"	"2002"	"2002"	"Unintentional"	"1"	12	13909	Unreliable
+	"Cedar County, MO"	"29039"	"2004"	"2004"	"Unintentional"	"1"	13	14073	Unreliable
+	"Cedar County, MO"	"29039"	"2005"	"2005"	"Unintentional"	"1"	12	14297	Unreliable
+	"Cedar County, MO"	"29039"	"2007"	"2007"	"Unintentional"	"1"	12	14169	Unreliable
+	"Cedar County, MO"	"29039"	"2008"	"2008"	"Unintentional"	"1"	14	14120	Unreliable
+	"Cedar County, MO"	"29039"	"2010"	"2010"	"Unintentional"	"1"	10	13982	Unreliable
+	"Cedar County, MO"	"29039"	"2012"	"2012"	"Unintentional"	"1"	13	13799	Unreliable
+	"Cedar County, MO"	"29039"	"2013"	"2013"	"Unintentional"	"1"	13	13913	Unreliable
+	"Cedar County, MO"	"29039"	"2018"	"2018"	"Unintentional"	"1"	10	14165	Unreliable
+	"Christian County, MO"	"29043"	"1999"	"1999"	"Unintentional"	"1"	22	52355	42.0
+	"Christian County, MO"	"29043"	"2000"	"2000"	"Unintentional"	"1"	17	54285	Unreliable
+	"Christian County, MO"	"29043"	"2001"	"2001"	"Unintentional"	"1"	18	56824	Unreliable
+	"Christian County, MO"	"29043"	"2002"	"2002"	"Unintentional"	"1"	21	58674	35.8
+	"Christian County, MO"	"29043"	"2002"	"2002"	"Suicide"	"2"	16	58674	Unreliable
+	"Christian County, MO"	"29043"	"2003"	"2003"	"Unintentional"	"1"	22	60672	36.3
+	"Christian County, MO"	"29043"	"2004"	"2004"	"Unintentional"	"1"	26	63171	41.2
+	"Christian County, MO"	"29043"	"2004"	"2004"	"Suicide"	"2"	10	63171	Unreliable
+	"Christian County, MO"	"29043"	"2005"	"2005"	"Unintentional"	"1"	20	65963	30.3
+	"Christian County, MO"	"29043"	"2006"	"2006"	"Unintentional"	"1"	28	69394	40.3
+	"Christian County, MO"	"29043"	"2007"	"2007"	"Unintentional"	"1"	33	72545	45.5
+	"Christian County, MO"	"29043"	"2008"	"2008"	"Unintentional"	"1"	27	74705	36.1
+	"Christian County, MO"	"29043"	"2009"	"2009"	"Unintentional"	"1"	23	76309	30.1
+	"Christian County, MO"	"29043"	"2010"	"2010"	"Unintentional"	"1"	34	77422	43.9
+	"Christian County, MO"	"29043"	"2010"	"2010"	"Suicide"	"2"	12	77422	Unreliable
+	"Christian County, MO"	"29043"	"2011"	"2011"	"Unintentional"	"1"	29	78570	36.9
+	"Christian County, MO"	"29043"	"2011"	"2011"	"Suicide"	"2"	13	78570	Unreliable
+	"Christian County, MO"	"29043"	"2012"	"2012"	"Unintentional"	"1"	56	79824	70.2
+	"Christian County, MO"	"29043"	"2012"	"2012"	"Suicide"	"2"	15	79824	Unreliable
+	"Christian County, MO"	"29043"	"2013"	"2013"	"Unintentional"	"1"	20	80899	24.7
+	"Christian County, MO"	"29043"	"2013"	"2013"	"Suicide"	"2"	12	80899	Unreliable
+	"Christian County, MO"	"29043"	"2014"	"2014"	"Unintentional"	"1"	31	82101	37.8
+	"Christian County, MO"	"29043"	"2014"	"2014"	"Suicide"	"2"	10	82101	Unreliable
+	"Christian County, MO"	"29043"	"2015"	"2015"	"Unintentional"	"1"	28	83279	33.6
+	"Christian County, MO"	"29043"	"2015"	"2015"	"Suicide"	"2"	12	83279	Unreliable
+	"Christian County, MO"	"29043"	"2016"	"2016"	"Unintentional"	"1"	26	84401	30.8
+	"Christian County, MO"	"29043"	"2016"	"2016"	"Suicide"	"2"	12	84401	Unreliable
+	"Christian County, MO"	"29043"	"2017"	"2017"	"Unintentional"	"1"	43	85432	50.3
+	"Christian County, MO"	"29043"	"2017"	"2017"	"Suicide"	"2"	19	85432	Unreliable
+	"Christian County, MO"	"29043"	"2018"	"2018"	"Unintentional"	"1"	39	86983	44.8
+	"Christian County, MO"	"29043"	"2018"	"2018"	"Suicide"	"2"	24	86983	27.6
+	"Clay County, MO"	"29047"	"1999"	"1999"	"Unintentional"	"1"	58	181984	31.9
+	"Clay County, MO"	"29047"	"1999"	"1999"	"Suicide"	"2"	30	181984	16.5
+	"Clay County, MO"	"29047"	"2000"	"2000"	"Unintentional"	"1"	49	184006	26.6
+	"Clay County, MO"	"29047"	"2000"	"2000"	"Suicide"	"2"	25	184006	13.6
+	"Clay County, MO"	"29047"	"2001"	"2001"	"Unintentional"	"1"	65	188024	34.6
+	"Clay County, MO"	"29047"	"2001"	"2001"	"Suicide"	"2"	29	188024	15.4
+	"Clay County, MO"	"29047"	"2001"	"2001"	"Homicide"	"3"	14	188024	Unreliable
+	"Clay County, MO"	"29047"	"2002"	"2002"	"Unintentional"	"1"	75	190959	39.3
+	"Clay County, MO"	"29047"	"2002"	"2002"	"Suicide"	"2"	26	190959	13.6
+	"Clay County, MO"	"29047"	"2003"	"2003"	"Unintentional"	"1"	70	193436	36.2
+	"Clay County, MO"	"29047"	"2003"	"2003"	"Suicide"	"2"	19	193436	Unreliable
+	"Clay County, MO"	"29047"	"2004"	"2004"	"Unintentional"	"1"	67	196718	34.1
+	"Clay County, MO"	"29047"	"2004"	"2004"	"Suicide"	"2"	24	196718	12.2
+	"Clay County, MO"	"29047"	"2005"	"2005"	"Unintentional"	"1"	73	200659	36.4
+	"Clay County, MO"	"29047"	"2005"	"2005"	"Suicide"	"2"	26	200659	13.0
+	"Clay County, MO"	"29047"	"2006"	"2006"	"Unintentional"	"1"	66	206369	32.0
+	"Clay County, MO"	"29047"	"2006"	"2006"	"Suicide"	"2"	35	206369	17.0
+	"Clay County, MO"	"29047"	"2007"	"2007"	"Unintentional"	"1"	93	211179	44.0
+	"Clay County, MO"	"29047"	"2007"	"2007"	"Suicide"	"2"	29	211179	13.7
+	"Clay County, MO"	"29047"	"2008"	"2008"	"Unintentional"	"1"	98	215142	45.6
+	"Clay County, MO"	"29047"	"2008"	"2008"	"Suicide"	"2"	28	215142	13.0
+	"Clay County, MO"	"29047"	"2009"	"2009"	"Unintentional"	"1"	79	219669	36.0
+	"Clay County, MO"	"29047"	"2009"	"2009"	"Suicide"	"2"	33	219669	15.0
+	"Clay County, MO"	"29047"	"2010"	"2010"	"Unintentional"	"1"	87	221939	39.2
+	"Clay County, MO"	"29047"	"2010"	"2010"	"Suicide"	"2"	37	221939	16.7
+	"Clay County, MO"	"29047"	"2011"	"2011"	"Unintentional"	"1"	78	225161	34.6
+	"Clay County, MO"	"29047"	"2011"	"2011"	"Suicide"	"2"	29	225161	12.9
+	"Clay County, MO"	"29047"	"2011"	"2011"	"Homicide"	"3"	10	225161	Unreliable
+	"Clay County, MO"	"29047"	"2012"	"2012"	"Unintentional"	"1"	84	227577	36.9
+	"Clay County, MO"	"29047"	"2012"	"2012"	"Suicide"	"2"	35	227577	15.4
+	"Clay County, MO"	"29047"	"2012"	"2012"	"Homicide"	"3"	10	227577	Unreliable
+	"Clay County, MO"	"29047"	"2013"	"2013"	"Unintentional"	"1"	86	230473	37.3
+	"Clay County, MO"	"29047"	"2013"	"2013"	"Suicide"	"2"	37	230473	16.1
+	"Clay County, MO"	"29047"	"2014"	"2014"	"Unintentional"	"1"	88	233682	37.7
+	"Clay County, MO"	"29047"	"2014"	"2014"	"Suicide"	"2"	38	233682	16.3
+	"Clay County, MO"	"29047"	"2014"	"2014"	"Homicide"	"3"	11	233682	Unreliable
+	"Clay County, MO"	"29047"	"2015"	"2015"	"Unintentional"	"1"	108	235637	45.8
+	"Clay County, MO"	"29047"	"2015"	"2015"	"Suicide"	"2"	57	235637	24.2
+	"Clay County, MO"	"29047"	"2016"	"2016"	"Unintentional"	"1"	105	239085	43.9
+	"Clay County, MO"	"29047"	"2016"	"2016"	"Suicide"	"2"	47	239085	19.7
+	"Clay County, MO"	"29047"	"2017"	"2017"	"Unintentional"	"1"	102	242874	42.0
+	"Clay County, MO"	"29047"	"2017"	"2017"	"Suicide"	"2"	45	242874	18.5
+	"Clay County, MO"	"29047"	"2018"	"2018"	"Unintentional"	"1"	112	246365	45.5
+	"Clay County, MO"	"29047"	"2018"	"2018"	"Suicide"	"2"	46	246365	18.7
+	"Clay County, MO"	"29047"	"2018"	"2018"	"Homicide"	"3"	15	246365	Unreliable
+	"Clinton County, MO"	"29049"	"1999"	"1999"	"Unintentional"	"1"	14	18827	Unreliable
+	"Clinton County, MO"	"29049"	"2000"	"2000"	"Unintentional"	"1"	15	18979	Unreliable
+	"Clinton County, MO"	"29049"	"2002"	"2002"	"Unintentional"	"1"	14	19525	Unreliable
+	"Clinton County, MO"	"29049"	"2006"	"2006"	"Unintentional"	"1"	15	20347	Unreliable
+	"Clinton County, MO"	"29049"	"2008"	"2008"	"Unintentional"	"1"	12	20781	Unreliable
+	"Clinton County, MO"	"29049"	"2011"	"2011"	"Unintentional"	"1"	11	20789	Unreliable
+	"Clinton County, MO"	"29049"	"2012"	"2012"	"Unintentional"	"1"	12	20508	Unreliable
+	"Clinton County, MO"	"29049"	"2013"	"2013"	"Unintentional"	"1"	13	20571	Unreliable
+	"Cole County, MO"	"29051"	"1999"	"1999"	"Unintentional"	"1"	43	71114	60.5
+	"Cole County, MO"	"29051"	"1999"	"1999"	"Suicide"	"2"	10	71114	Unreliable
+	"Cole County, MO"	"29051"	"2000"	"2000"	"Unintentional"	"1"	29	71397	40.6
+	"Cole County, MO"	"29051"	"2000"	"2000"	"Suicide"	"2"	10	71397	Unreliable
+	"Cole County, MO"	"29051"	"2001"	"2001"	"Unintentional"	"1"	35	71650	48.8
+	"Cole County, MO"	"29051"	"2002"	"2002"	"Unintentional"	"1"	23	72138	31.9
+	"Cole County, MO"	"29051"	"2003"	"2003"	"Unintentional"	"1"	25	72728	34.4
+	"Cole County, MO"	"29051"	"2003"	"2003"	"Suicide"	"2"	10	72728	Unreliable
+	"Cole County, MO"	"29051"	"2004"	"2004"	"Unintentional"	"1"	31	72427	42.8
+	"Cole County, MO"	"29051"	"2004"	"2004"	"Suicide"	"2"	13	72427	Unreliable
+	"Cole County, MO"	"29051"	"2005"	"2005"	"Unintentional"	"1"	20	72948	27.4
+	"Cole County, MO"	"29051"	"2006"	"2006"	"Unintentional"	"1"	35	73509	47.6
+	"Cole County, MO"	"29051"	"2007"	"2007"	"Unintentional"	"1"	36	73977	48.7
+	"Cole County, MO"	"29051"	"2007"	"2007"	"Suicide"	"2"	16	73977	Unreliable
+	"Cole County, MO"	"29051"	"2008"	"2008"	"Unintentional"	"1"	21	74760	28.1
+	"Cole County, MO"	"29051"	"2009"	"2009"	"Unintentional"	"1"	36	75408	47.7
+	"Cole County, MO"	"29051"	"2009"	"2009"	"Suicide"	"2"	12	75408	Unreliable
+	"Cole County, MO"	"29051"	"2010"	"2010"	"Unintentional"	"1"	35	75990	46.1
+	"Cole County, MO"	"29051"	"2011"	"2011"	"Unintentional"	"1"	26	76448	34.0
+	"Cole County, MO"	"29051"	"2011"	"2011"	"Suicide"	"2"	10	76448	Unreliable
+	"Cole County, MO"	"29051"	"2012"	"2012"	"Unintentional"	"1"	30	76363	39.3
+	"Cole County, MO"	"29051"	"2012"	"2012"	"Suicide"	"2"	15	76363	Unreliable
+	"Cole County, MO"	"29051"	"2013"	"2013"	"Unintentional"	"1"	25	76699	32.6
+	"Cole County, MO"	"29051"	"2013"	"2013"	"Suicide"	"2"	15	76699	Unreliable
+	"Cole County, MO"	"29051"	"2014"	"2014"	"Unintentional"	"1"	35	76557	45.7
+	"Cole County, MO"	"29051"	"2014"	"2014"	"Suicide"	"2"	13	76557	Unreliable
+	"Cole County, MO"	"29051"	"2015"	"2015"	"Unintentional"	"1"	21	76720	27.4
+	"Cole County, MO"	"29051"	"2016"	"2016"	"Unintentional"	"1"	39	76631	50.9
+	"Cole County, MO"	"29051"	"2016"	"2016"	"Suicide"	"2"	10	76631	Unreliable
+	"Cole County, MO"	"29051"	"2017"	"2017"	"Unintentional"	"1"	34	76708	44.3
+	"Cole County, MO"	"29051"	"2017"	"2017"	"Suicide"	"2"	10	76708	Unreliable
+	"Cole County, MO"	"29051"	"2018"	"2018"	"Unintentional"	"1"	28	76796	36.5
+	"Cole County, MO"	"29051"	"2018"	"2018"	"Suicide"	"2"	19	76796	Unreliable
+	"Cooper County, MO"	"29053"	"2000"	"2000"	"Unintentional"	"1"	11	16670	Unreliable
+	"Cooper County, MO"	"29053"	"2003"	"2003"	"Unintentional"	"1"	16	17002	Unreliable
+	"Cooper County, MO"	"29053"	"2004"	"2004"	"Unintentional"	"1"	11	17203	Unreliable
+	"Cooper County, MO"	"29053"	"2005"	"2005"	"Unintentional"	"1"	10	17380	Unreliable
+	"Cooper County, MO"	"29053"	"2008"	"2008"	"Unintentional"	"1"	11	17502	Unreliable
+	"Cooper County, MO"	"29053"	"2012"	"2012"	"Unintentional"	"1"	10	17520	Unreliable
+	"Cooper County, MO"	"29053"	"2014"	"2014"	"Unintentional"	"1"	11	17585	Unreliable
+	"Crawford County, MO"	"29055"	"1999"	"1999"	"Unintentional"	"1"	10	22520	Unreliable
+	"Crawford County, MO"	"29055"	"2000"	"2000"	"Unintentional"	"1"	18	22804	Unreliable
+	"Crawford County, MO"	"29055"	"2001"	"2001"	"Unintentional"	"1"	15	22876	Unreliable
+	"Crawford County, MO"	"29055"	"2002"	"2002"	"Unintentional"	"1"	12	23420	Unreliable
+	"Crawford County, MO"	"29055"	"2003"	"2003"	"Unintentional"	"1"	17	23734	Unreliable
+	"Crawford County, MO"	"29055"	"2004"	"2004"	"Unintentional"	"1"	16	23918	Unreliable
+	"Crawford County, MO"	"29055"	"2005"	"2005"	"Unintentional"	"1"	15	24137	Unreliable
+	"Crawford County, MO"	"29055"	"2006"	"2006"	"Unintentional"	"1"	15	24373	Unreliable
+	"Crawford County, MO"	"29055"	"2007"	"2007"	"Unintentional"	"1"	16	24689	Unreliable
+	"Crawford County, MO"	"29055"	"2008"	"2008"	"Unintentional"	"1"	22	24698	89.1
+	"Crawford County, MO"	"29055"	"2009"	"2009"	"Unintentional"	"1"	10	24802	Unreliable
+	"Crawford County, MO"	"29055"	"2010"	"2010"	"Unintentional"	"1"	22	24696	89.1
+	"Crawford County, MO"	"29055"	"2011"	"2011"	"Unintentional"	"1"	20	24800	80.6
+	"Crawford County, MO"	"29055"	"2012"	"2012"	"Unintentional"	"1"	19	24832	Unreliable
+	"Crawford County, MO"	"29055"	"2013"	"2013"	"Unintentional"	"1"	17	24543	Unreliable
+	"Crawford County, MO"	"29055"	"2014"	"2014"	"Unintentional"	"1"	12	24650	Unreliable
+	"Crawford County, MO"	"29055"	"2015"	"2015"	"Unintentional"	"1"	16	24526	Unreliable
+	"Crawford County, MO"	"29055"	"2016"	"2016"	"Unintentional"	"1"	15	24302	Unreliable
+	"Crawford County, MO"	"29055"	"2017"	"2017"	"Unintentional"	"1"	18	24102	Unreliable
+	"Crawford County, MO"	"29055"	"2018"	"2018"	"Unintentional"	"1"	14	23957	Unreliable
+	"Dade County, MO"	"29057"	"2005"	"2005"	"Unintentional"	"1"	11	7910	Unreliable
+	"Dallas County, MO"	"29059"	"1999"	"1999"	"Unintentional"	"1"	15	15555	Unreliable
+	"Dallas County, MO"	"29059"	"2000"	"2000"	"Unintentional"	"1"	11	15661	Unreliable
+	"Dallas County, MO"	"29059"	"2002"	"2002"	"Unintentional"	"1"	15	15908	Unreliable
+	"Dallas County, MO"	"29059"	"2003"	"2003"	"Unintentional"	"1"	14	16031	Unreliable
+	"Dallas County, MO"	"29059"	"2004"	"2004"	"Unintentional"	"1"	17	16275	Unreliable
+	"Dallas County, MO"	"29059"	"2006"	"2006"	"Unintentional"	"1"	12	16580	Unreliable
+	"Dallas County, MO"	"29059"	"2016"	"2016"	"Unintentional"	"1"	13	16448	Unreliable
+	"Dallas County, MO"	"29059"	"2017"	"2017"	"Unintentional"	"1"	13	16673	Unreliable
+	"Dallas County, MO"	"29059"	"2018"	"2018"	"Unintentional"	"1"	14	16762	Unreliable
+	"DeKalb County, MO"	"29063"	"2015"	"2015"	"Unintentional"	"1"	11	12687	Unreliable
+	"Dent County, MO"	"29065"	"1999"	"1999"	"Unintentional"	"1"	13	14833	Unreliable
+	"Dent County, MO"	"29065"	"2003"	"2003"	"Unintentional"	"1"	14	15050	Unreliable
+	"Dent County, MO"	"29065"	"2005"	"2005"	"Unintentional"	"1"	14	15257	Unreliable
+	"Dent County, MO"	"29065"	"2007"	"2007"	"Unintentional"	"1"	11	15344	Unreliable
+	"Dent County, MO"	"29065"	"2008"	"2008"	"Unintentional"	"1"	16	15495	Unreliable
+	"Dent County, MO"	"29065"	"2009"	"2009"	"Unintentional"	"1"	15	15544	Unreliable
+	"Dent County, MO"	"29065"	"2010"	"2010"	"Unintentional"	"1"	12	15657	Unreliable
+	"Dent County, MO"	"29065"	"2011"	"2011"	"Unintentional"	"1"	11	15676	Unreliable
+	"Dent County, MO"	"29065"	"2012"	"2012"	"Unintentional"	"1"	11	15647	Unreliable
+	"Dent County, MO"	"29065"	"2014"	"2014"	"Unintentional"	"1"	15	15655	Unreliable
+	"Dent County, MO"	"29065"	"2015"	"2015"	"Unintentional"	"1"	12	15593	Unreliable
+	"Dent County, MO"	"29065"	"2016"	"2016"	"Unintentional"	"1"	12	15387	Unreliable
+	"Dent County, MO"	"29065"	"2017"	"2017"	"Unintentional"	"1"	13	15480	Unreliable
+	"Dent County, MO"	"29065"	"2018"	"2018"	"Unintentional"	"1"	16	15441	Unreliable
+	"Douglas County, MO"	"29067"	"2006"	"2006"	"Unintentional"	"1"	14	13573	Unreliable
+	"Douglas County, MO"	"29067"	"2009"	"2009"	"Unintentional"	"1"	10	13793	Unreliable
+	"Douglas County, MO"	"29067"	"2011"	"2011"	"Unintentional"	"1"	11	13548	Unreliable
+	"Douglas County, MO"	"29067"	"2012"	"2012"	"Unintentional"	"1"	10	13585	Unreliable
+	"Douglas County, MO"	"29067"	"2013"	"2013"	"Unintentional"	"1"	12	13515	Unreliable
+	"Dunklin County, MO"	"29069"	"1999"	"1999"	"Unintentional"	"1"	14	33264	Unreliable
+	"Dunklin County, MO"	"29069"	"2000"	"2000"	"Unintentional"	"1"	16	33155	Unreliable
+	"Dunklin County, MO"	"29069"	"2001"	"2001"	"Unintentional"	"1"	19	33006	Unreliable
+	"Dunklin County, MO"	"29069"	"2002"	"2002"	"Unintentional"	"1"	10	32871	Unreliable
+	"Dunklin County, MO"	"29069"	"2003"	"2003"	"Unintentional"	"1"	21	32723	64.2
+	"Dunklin County, MO"	"29069"	"2004"	"2004"	"Unintentional"	"1"	24	32420	74.0
+	"Dunklin County, MO"	"29069"	"2005"	"2005"	"Unintentional"	"1"	28	32581	85.9
+	"Dunklin County, MO"	"29069"	"2006"	"2006"	"Unintentional"	"1"	21	32388	64.8
+	"Dunklin County, MO"	"29069"	"2007"	"2007"	"Unintentional"	"1"	17	32255	Unreliable
+	"Dunklin County, MO"	"29069"	"2008"	"2008"	"Unintentional"	"1"	20	32158	62.2
+	"Dunklin County, MO"	"29069"	"2009"	"2009"	"Unintentional"	"1"	29	31977	90.7
+	"Dunklin County, MO"	"29069"	"2010"	"2010"	"Unintentional"	"1"	17	31953	Unreliable
+	"Dunklin County, MO"	"29069"	"2011"	"2011"	"Unintentional"	"1"	23	31974	71.9
+	"Dunklin County, MO"	"29069"	"2012"	"2012"	"Unintentional"	"1"	29	31826	91.1
+	"Dunklin County, MO"	"29069"	"2013"	"2013"	"Unintentional"	"1"	16	31712	Unreliable
+	"Dunklin County, MO"	"29069"	"2014"	"2014"	"Unintentional"	"1"	25	31344	79.8
+	"Dunklin County, MO"	"29069"	"2015"	"2015"	"Unintentional"	"1"	21	30895	68.0
+	"Dunklin County, MO"	"29069"	"2016"	"2016"	"Unintentional"	"1"	23	30535	75.3
+	"Dunklin County, MO"	"29069"	"2017"	"2017"	"Unintentional"	"1"	23	30119	76.4
+	"Dunklin County, MO"	"29069"	"2018"	"2018"	"Unintentional"	"1"	23	29423	78.2
+	"Dunklin County, MO"	"29069"	"2018"	"2018"	"Suicide"	"2"	10	29423	Unreliable
+	"Franklin County, MO"	"29071"	"1999"	"1999"	"Unintentional"	"1"	52	92914	56.0
+	"Franklin County, MO"	"29071"	"1999"	"1999"	"Suicide"	"2"	11	92914	Unreliable
+	"Franklin County, MO"	"29071"	"2000"	"2000"	"Unintentional"	"1"	47	93807	50.1
+	"Franklin County, MO"	"29071"	"2000"	"2000"	"Suicide"	"2"	13	93807	Unreliable
+	"Franklin County, MO"	"29071"	"2001"	"2001"	"Unintentional"	"1"	63	94872	66.4
+	"Franklin County, MO"	"29071"	"2001"	"2001"	"Suicide"	"2"	17	94872	Unreliable
+	"Franklin County, MO"	"29071"	"2002"	"2002"	"Unintentional"	"1"	56	95771	58.5
+	"Franklin County, MO"	"29071"	"2002"	"2002"	"Suicide"	"2"	17	95771	Unreliable
+	"Franklin County, MO"	"29071"	"2003"	"2003"	"Unintentional"	"1"	73	96480	75.7
+	"Franklin County, MO"	"29071"	"2003"	"2003"	"Suicide"	"2"	20	96480	20.7
+	"Franklin County, MO"	"29071"	"2004"	"2004"	"Unintentional"	"1"	64	97465	65.7
+	"Franklin County, MO"	"29071"	"2005"	"2005"	"Unintentional"	"1"	68	98417	69.1
+	"Franklin County, MO"	"29071"	"2005"	"2005"	"Suicide"	"2"	14	98417	Unreliable
+	"Franklin County, MO"	"29071"	"2006"	"2006"	"Unintentional"	"1"	68	99341	68.5
+	"Franklin County, MO"	"29071"	"2006"	"2006"	"Suicide"	"2"	18	99341	Unreliable
+	"Franklin County, MO"	"29071"	"2007"	"2007"	"Unintentional"	"1"	81	100265	80.8
+	"Franklin County, MO"	"29071"	"2007"	"2007"	"Suicide"	"2"	13	100265	Unreliable
+	"Franklin County, MO"	"29071"	"2008"	"2008"	"Unintentional"	"1"	82	101149	81.1
+	"Franklin County, MO"	"29071"	"2008"	"2008"	"Suicide"	"2"	15	101149	Unreliable
+	"Franklin County, MO"	"29071"	"2009"	"2009"	"Unintentional"	"1"	64	101422	63.1
+	"Franklin County, MO"	"29071"	"2009"	"2009"	"Suicide"	"2"	23	101422	22.7
+	"Franklin County, MO"	"29071"	"2010"	"2010"	"Unintentional"	"1"	83	101492	81.8
+	"Franklin County, MO"	"29071"	"2010"	"2010"	"Suicide"	"2"	21	101492	20.7
+	"Franklin County, MO"	"29071"	"2011"	"2011"	"Unintentional"	"1"	58	101938	56.9
+	"Franklin County, MO"	"29071"	"2011"	"2011"	"Suicide"	"2"	22	101938	21.6
+	"Franklin County, MO"	"29071"	"2012"	"2012"	"Unintentional"	"1"	69	101412	68.0
+	"Franklin County, MO"	"29071"	"2012"	"2012"	"Suicide"	"2"	25	101412	24.7
+	"Franklin County, MO"	"29071"	"2013"	"2013"	"Unintentional"	"1"	89	101816	87.4
+	"Franklin County, MO"	"29071"	"2013"	"2013"	"Suicide"	"2"	20	101816	19.6
+	"Franklin County, MO"	"29071"	"2014"	"2014"	"Unintentional"	"1"	74	102084	72.5
+	"Franklin County, MO"	"29071"	"2014"	"2014"	"Suicide"	"2"	17	102084	Unreliable
+	"Franklin County, MO"	"29071"	"2015"	"2015"	"Unintentional"	"1"	81	102426	79.1
+	"Franklin County, MO"	"29071"	"2015"	"2015"	"Suicide"	"2"	26	102426	25.4
+	"Franklin County, MO"	"29071"	"2016"	"2016"	"Unintentional"	"1"	110	102838	107.0
+	"Franklin County, MO"	"29071"	"2016"	"2016"	"Suicide"	"2"	29	102838	28.2
+	"Franklin County, MO"	"29071"	"2017"	"2017"	"Unintentional"	"1"	91	103330	88.1
+	"Franklin County, MO"	"29071"	"2017"	"2017"	"Suicide"	"2"	23	103330	22.3
+	"Franklin County, MO"	"29071"	"2018"	"2018"	"Unintentional"	"1"	92	103670	88.7
+	"Franklin County, MO"	"29071"	"2018"	"2018"	"Suicide"	"2"	25	103670	24.1
+	"Gasconade County, MO"	"29073"	"2000"	"2000"	"Unintentional"	"1"	15	15342	Unreliable
+	"Gasconade County, MO"	"29073"	"2001"	"2001"	"Unintentional"	"1"	13	15395	Unreliable
+	"Gasconade County, MO"	"29073"	"2003"	"2003"	"Unintentional"	"1"	17	15460	Unreliable
+	"Gasconade County, MO"	"29073"	"2004"	"2004"	"Unintentional"	"1"	14	15464	Unreliable
+	"Gasconade County, MO"	"29073"	"2005"	"2005"	"Unintentional"	"1"	13	15516	Unreliable
+	"Gasconade County, MO"	"29073"	"2007"	"2007"	"Unintentional"	"1"	12	15450	Unreliable
+	"Gasconade County, MO"	"29073"	"2008"	"2008"	"Unintentional"	"1"	10	15309	Unreliable
+	"Gasconade County, MO"	"29073"	"2009"	"2009"	"Unintentional"	"1"	12	15204	Unreliable
+	"Gasconade County, MO"	"29073"	"2010"	"2010"	"Unintentional"	"1"	11	15222	Unreliable
+	"Gasconade County, MO"	"29073"	"2011"	"2011"	"Unintentional"	"1"	16	15168	Unreliable
+	"Gasconade County, MO"	"29073"	"2012"	"2012"	"Unintentional"	"1"	14	14972	Unreliable
+	"Gasconade County, MO"	"29073"	"2013"	"2013"	"Unintentional"	"1"	10	14901	Unreliable
+	"Gasconade County, MO"	"29073"	"2014"	"2014"	"Unintentional"	"1"	12	14866	Unreliable
+	"Gasconade County, MO"	"29073"	"2015"	"2015"	"Unintentional"	"1"	19	14858	Unreliable
+	"Gasconade County, MO"	"29073"	"2016"	"2016"	"Unintentional"	"1"	17	14808	Unreliable
+	"Gasconade County, MO"	"29073"	"2017"	"2017"	"Unintentional"	"1"	17	14726	Unreliable
+	"Gasconade County, MO"	"29073"	"2018"	"2018"	"Unintentional"	"1"	11	14705	Unreliable
+	"Greene County, MO"	"29077"	"1999"	"1999"	"Unintentional"	"1"	90	238802	37.7
+	"Greene County, MO"	"29077"	"1999"	"1999"	"Suicide"	"2"	21	238802	8.8
+	"Greene County, MO"	"29077"	"2000"	"2000"	"Unintentional"	"1"	83	240391	34.5
+	"Greene County, MO"	"29077"	"2000"	"2000"	"Suicide"	"2"	39	240391	16.2
+	"Greene County, MO"	"29077"	"2001"	"2001"	"Unintentional"	"1"	82	243305	33.7
+	"Greene County, MO"	"29077"	"2001"	"2001"	"Suicide"	"2"	34	243305	14.0
+	"Greene County, MO"	"29077"	"2002"	"2002"	"Unintentional"	"1"	112	245822	45.6
+	"Greene County, MO"	"29077"	"2002"	"2002"	"Suicide"	"2"	35	245822	14.2
+	"Greene County, MO"	"29077"	"2003"	"2003"	"Unintentional"	"1"	134	249312	53.7
+	"Greene County, MO"	"29077"	"2003"	"2003"	"Suicide"	"2"	34	249312	13.6
+	"Greene County, MO"	"29077"	"2004"	"2004"	"Unintentional"	"1"	119	253130	47.0
+	"Greene County, MO"	"29077"	"2004"	"2004"	"Suicide"	"2"	38	253130	15.0
+	"Greene County, MO"	"29077"	"2004"	"2004"	"Homicide"	"3"	13	253130	Unreliable
+	"Greene County, MO"	"29077"	"2005"	"2005"	"Unintentional"	"1"	142	257282	55.2
+	"Greene County, MO"	"29077"	"2005"	"2005"	"Suicide"	"2"	32	257282	12.4
+	"Greene County, MO"	"29077"	"2006"	"2006"	"Unintentional"	"1"	149	263046	56.6
+	"Greene County, MO"	"29077"	"2006"	"2006"	"Suicide"	"2"	38	263046	14.4
+	"Greene County, MO"	"29077"	"2006"	"2006"	"Homicide"	"3"	10	263046	Unreliable
+	"Greene County, MO"	"29077"	"2007"	"2007"	"Unintentional"	"1"	144	267576	53.8
+	"Greene County, MO"	"29077"	"2007"	"2007"	"Suicide"	"2"	44	267576	16.4
+	"Greene County, MO"	"29077"	"2008"	"2008"	"Unintentional"	"1"	161	270901	59.4
+	"Greene County, MO"	"29077"	"2008"	"2008"	"Suicide"	"2"	40	270901	14.8
+	"Greene County, MO"	"29077"	"2008"	"2008"	"Homicide"	"3"	12	270901	Unreliable
+	"Greene County, MO"	"29077"	"2009"	"2009"	"Unintentional"	"1"	148	274013	54.0
+	"Greene County, MO"	"29077"	"2009"	"2009"	"Suicide"	"2"	38	274013	13.9
+	"Greene County, MO"	"29077"	"2010"	"2010"	"Unintentional"	"1"	197	275174	71.6
+	"Greene County, MO"	"29077"	"2010"	"2010"	"Suicide"	"2"	37	275174	13.4
+	"Greene County, MO"	"29077"	"2011"	"2011"	"Unintentional"	"1"	164	277214	59.2
+	"Greene County, MO"	"29077"	"2011"	"2011"	"Suicide"	"2"	41	277214	14.8
+	"Greene County, MO"	"29077"	"2011"	"2011"	"Homicide"	"3"	11	277214	Unreliable
+	"Greene County, MO"	"29077"	"2012"	"2012"	"Unintentional"	"1"	154	280626	54.9
+	"Greene County, MO"	"29077"	"2012"	"2012"	"Suicide"	"2"	34	280626	12.1
+	"Greene County, MO"	"29077"	"2012"	"2012"	"Homicide"	"3"	15	280626	Unreliable
+	"Greene County, MO"	"29077"	"2013"	"2013"	"Unintentional"	"1"	131	283870	46.1
+	"Greene County, MO"	"29077"	"2013"	"2013"	"Suicide"	"2"	44	283870	15.5
+	"Greene County, MO"	"29077"	"2013"	"2013"	"Homicide"	"3"	11	283870	Unreliable
+	"Greene County, MO"	"29077"	"2014"	"2014"	"Unintentional"	"1"	145	285865	50.7
+	"Greene County, MO"	"29077"	"2014"	"2014"	"Suicide"	"2"	51	285865	17.8
+	"Greene County, MO"	"29077"	"2014"	"2014"	"Homicide"	"3"	18	285865	Unreliable
+	"Greene County, MO"	"29077"	"2015"	"2015"	"Unintentional"	"1"	182	288072	63.2
+	"Greene County, MO"	"29077"	"2015"	"2015"	"Suicide"	"2"	74	288072	25.7
+	"Greene County, MO"	"29077"	"2015"	"2015"	"Homicide"	"3"	10	288072	Unreliable
+	"Greene County, MO"	"29077"	"2016"	"2016"	"Unintentional"	"1"	184	288690	63.7
+	"Greene County, MO"	"29077"	"2016"	"2016"	"Suicide"	"2"	54	288690	18.7
+	"Greene County, MO"	"29077"	"2017"	"2017"	"Unintentional"	"1"	156	289805	53.8
+	"Greene County, MO"	"29077"	"2017"	"2017"	"Suicide"	"2"	70	289805	24.2
+	"Greene County, MO"	"29077"	"2017"	"2017"	"Homicide"	"3"	23	289805	7.9
+	"Greene County, MO"	"29077"	"2018"	"2018"	"Unintentional"	"1"	176	291923	60.3
+	"Greene County, MO"	"29077"	"2018"	"2018"	"Suicide"	"2"	68	291923	23.3
+	"Greene County, MO"	"29077"	"2018"	"2018"	"Homicide"	"3"	22	291923	7.5
+	"Grundy County, MO"	"29079"	"2001"	"2001"	"Unintentional"	"1"	17	10427	Unreliable
+	"Grundy County, MO"	"29079"	"2009"	"2009"	"Unintentional"	"1"	11	10215	Unreliable
+	"Grundy County, MO"	"29079"	"2015"	"2015"	"Unintentional"	"1"	16	10097	Unreliable
+	"Harrison County, MO"	"29081"	"2004"	"2004"	"Unintentional"	"1"	10	8753	Unreliable
+	"Harrison County, MO"	"29081"	"2011"	"2011"	"Unintentional"	"1"	10	8866	Unreliable
+	"Henry County, MO"	"29083"	"1999"	"1999"	"Unintentional"	"1"	14	21747	Unreliable
+	"Henry County, MO"	"29083"	"2000"	"2000"	"Unintentional"	"1"	14	21997	Unreliable
+	"Henry County, MO"	"29083"	"2003"	"2003"	"Unintentional"	"1"	19	22410	Unreliable
+	"Henry County, MO"	"29083"	"2004"	"2004"	"Unintentional"	"1"	11	22442	Unreliable
+	"Henry County, MO"	"29083"	"2005"	"2005"	"Unintentional"	"1"	12	22354	Unreliable
+	"Henry County, MO"	"29083"	"2006"	"2006"	"Unintentional"	"1"	13	22556	Unreliable
+	"Henry County, MO"	"29083"	"2007"	"2007"	"Unintentional"	"1"	19	22474	Unreliable
+	"Henry County, MO"	"29083"	"2009"	"2009"	"Unintentional"	"1"	18	22277	Unreliable
+	"Henry County, MO"	"29083"	"2010"	"2010"	"Unintentional"	"1"	19	22272	Unreliable
+	"Henry County, MO"	"29083"	"2011"	"2011"	"Unintentional"	"1"	10	22219	Unreliable
+	"Henry County, MO"	"29083"	"2012"	"2012"	"Unintentional"	"1"	17	22153	Unreliable
+	"Henry County, MO"	"29083"	"2013"	"2013"	"Unintentional"	"1"	13	22059	Unreliable
+	"Henry County, MO"	"29083"	"2014"	"2014"	"Unintentional"	"1"	12	22028	Unreliable
+	"Henry County, MO"	"29083"	"2015"	"2015"	"Unintentional"	"1"	18	21737	Unreliable
+	"Henry County, MO"	"29083"	"2016"	"2016"	"Unintentional"	"1"	13	21594	Unreliable
+	"Henry County, MO"	"29083"	"2017"	"2017"	"Unintentional"	"1"	10	21718	Unreliable
+	"Henry County, MO"	"29083"	"2018"	"2018"	"Unintentional"	"1"	15	21792	Unreliable
+	"Hickory County, MO"	"29085"	"2008"	"2008"	"Unintentional"	"1"	10	9592	Unreliable
+	"Hickory County, MO"	"29085"	"2011"	"2011"	"Unintentional"	"1"	10	9628	Unreliable
+	"Hickory County, MO"	"29085"	"2013"	"2013"	"Unintentional"	"1"	11	9305	Unreliable
+	"Hickory County, MO"	"29085"	"2015"	"2015"	"Unintentional"	"1"	13	9201	Unreliable
+	"Hickory County, MO"	"29085"	"2018"	"2018"	"Unintentional"	"1"	13	9509	Unreliable
+	"Howard County, MO"	"29089"	"2004"	"2004"	"Unintentional"	"1"	11	10012	Unreliable
+	"Howell County, MO"	"29091"	"1999"	"1999"	"Unintentional"	"1"	21	37128	56.6
+	"Howell County, MO"	"29091"	"2000"	"2000"	"Unintentional"	"1"	23	37238	61.8
+	"Howell County, MO"	"29091"	"2001"	"2001"	"Unintentional"	"1"	19	37259	Unreliable
+	"Howell County, MO"	"29091"	"2002"	"2002"	"Unintentional"	"1"	27	37429	72.1
+	"Howell County, MO"	"29091"	"2003"	"2003"	"Unintentional"	"1"	36	37717	95.4
+	"Howell County, MO"	"29091"	"2004"	"2004"	"Unintentional"	"1"	23	38036	60.5
+	"Howell County, MO"	"29091"	"2005"	"2005"	"Unintentional"	"1"	28	38704	72.3
+	"Howell County, MO"	"29091"	"2006"	"2006"	"Unintentional"	"1"	36	39067	92.1
+	"Howell County, MO"	"29091"	"2007"	"2007"	"Unintentional"	"1"	35	39391	88.9
+	"Howell County, MO"	"29091"	"2008"	"2008"	"Unintentional"	"1"	27	39910	67.7
+	"Howell County, MO"	"29091"	"2009"	"2009"	"Unintentional"	"1"	24	39917	60.1
+	"Howell County, MO"	"29091"	"2009"	"2009"	"Suicide"	"2"	11	39917	Unreliable
+	"Howell County, MO"	"29091"	"2010"	"2010"	"Unintentional"	"1"	18	40400	Unreliable
+	"Howell County, MO"	"29091"	"2011"	"2011"	"Unintentional"	"1"	25	40665	61.5
+	"Howell County, MO"	"29091"	"2012"	"2012"	"Unintentional"	"1"	23	40629	56.6
+	"Howell County, MO"	"29091"	"2012"	"2012"	"Suicide"	"2"	10	40629	Unreliable
+	"Howell County, MO"	"29091"	"2013"	"2013"	"Unintentional"	"1"	26	40393	64.4
+	"Howell County, MO"	"29091"	"2013"	"2013"	"Suicide"	"2"	14	40393	Unreliable
+	"Howell County, MO"	"29091"	"2014"	"2014"	"Unintentional"	"1"	19	40173	Unreliable
+	"Howell County, MO"	"29091"	"2014"	"2014"	"Suicide"	"2"	12	40173	Unreliable
+	"Howell County, MO"	"29091"	"2015"	"2015"	"Unintentional"	"1"	17	40117	Unreliable
+	"Howell County, MO"	"29091"	"2015"	"2015"	"Suicide"	"2"	11	40117	Unreliable
+	"Howell County, MO"	"29091"	"2016"	"2016"	"Unintentional"	"1"	27	40210	67.1
+	"Howell County, MO"	"29091"	"2017"	"2017"	"Unintentional"	"1"	30	40103	74.8
+	"Howell County, MO"	"29091"	"2017"	"2017"	"Suicide"	"2"	15	40103	Unreliable
+	"Howell County, MO"	"29091"	"2018"	"2018"	"Unintentional"	"1"	31	40076	77.4
+	"Iron County, MO"	"29093"	"2000"	"2000"	"Unintentional"	"1"	10	10697	Unreliable
+	"Iron County, MO"	"29093"	"2002"	"2002"	"Unintentional"	"1"	11	10608	Unreliable
+	"Iron County, MO"	"29093"	"2003"	"2003"	"Unintentional"	"1"	13	10508	Unreliable
+	"Iron County, MO"	"29093"	"2007"	"2007"	"Unintentional"	"1"	12	10681	Unreliable
+	"Iron County, MO"	"29093"	"2015"	"2015"	"Unintentional"	"1"	11	10125	Unreliable
+	"Iron County, MO"	"29093"	"2016"	"2016"	"Unintentional"	"1"	10	10022	Unreliable
+	"Jackson County, MO"	"29095"	"1999"	"1999"	"Unintentional"	"1"	317	654073	48.5
+	"Jackson County, MO"	"29095"	"1999"	"1999"	"Suicide"	"2"	100	654073	15.3
+	"Jackson County, MO"	"29095"	"1999"	"1999"	"Homicide"	"3"	115	654073	17.6
+	"Jackson County, MO"	"29095"	"2000"	"2000"	"Unintentional"	"1"	246	654880	37.6
+	"Jackson County, MO"	"29095"	"2000"	"2000"	"Suicide"	"2"	87	654880	13.3
+	"Jackson County, MO"	"29095"	"2000"	"2000"	"Homicide"	"3"	110	654880	16.8
+	"Jackson County, MO"	"29095"	"2001"	"2001"	"Unintentional"	"1"	289	657012	44.0
+	"Jackson County, MO"	"29095"	"2001"	"2001"	"Suicide"	"2"	105	657012	16.0
+	"Jackson County, MO"	"29095"	"2001"	"2001"	"Homicide"	"3"	112	657012	17.0
+	"Jackson County, MO"	"29095"	"2002"	"2002"	"Unintentional"	"1"	290	658765	44.0
+	"Jackson County, MO"	"29095"	"2002"	"2002"	"Suicide"	"2"	70	658765	10.6
+	"Jackson County, MO"	"29095"	"2002"	"2002"	"Homicide"	"3"	86	658765	13.1
+	"Jackson County, MO"	"29095"	"2003"	"2003"	"Unintentional"	"1"	267	658914	40.5
+	"Jackson County, MO"	"29095"	"2003"	"2003"	"Suicide"	"2"	89	658914	13.5
+	"Jackson County, MO"	"29095"	"2003"	"2003"	"Homicide"	"3"	93	658914	14.1
+	"Jackson County, MO"	"29095"	"2004"	"2004"	"Unintentional"	"1"	266	658307	40.4
+	"Jackson County, MO"	"29095"	"2004"	"2004"	"Suicide"	"2"	81	658307	12.3
+	"Jackson County, MO"	"29095"	"2004"	"2004"	"Homicide"	"3"	84	658307	12.8
+	"Jackson County, MO"	"29095"	"2005"	"2005"	"Unintentional"	"1"	276	658592	41.9
+	"Jackson County, MO"	"29095"	"2005"	"2005"	"Suicide"	"2"	83	658592	12.6
+	"Jackson County, MO"	"29095"	"2005"	"2005"	"Homicide"	"3"	116	658592	17.6
+	"Jackson County, MO"	"29095"	"2006"	"2006"	"Unintentional"	"1"	301	660539	45.6
+	"Jackson County, MO"	"29095"	"2006"	"2006"	"Suicide"	"2"	108	660539	16.4
+	"Jackson County, MO"	"29095"	"2006"	"2006"	"Homicide"	"3"	118	660539	17.9
+	"Jackson County, MO"	"29095"	"2007"	"2007"	"Unintentional"	"1"	352	662995	53.1
+	"Jackson County, MO"	"29095"	"2007"	"2007"	"Suicide"	"2"	84	662995	12.7
+	"Jackson County, MO"	"29095"	"2007"	"2007"	"Homicide"	"3"	94	662995	14.2
+	"Jackson County, MO"	"29095"	"2008"	"2008"	"Unintentional"	"1"	314	665427	47.2
+	"Jackson County, MO"	"29095"	"2008"	"2008"	"Suicide"	"2"	105	665427	15.8
+	"Jackson County, MO"	"29095"	"2008"	"2008"	"Homicide"	"3"	136	665427	20.4
+	"Jackson County, MO"	"29095"	"2009"	"2009"	"Unintentional"	"1"	342	670763	51.0
+	"Jackson County, MO"	"29095"	"2009"	"2009"	"Suicide"	"2"	98	670763	14.6
+	"Jackson County, MO"	"29095"	"2009"	"2009"	"Homicide"	"3"	108	670763	16.1
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Unintentional"	"1"	310	674158	46.0
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Suicide"	"2"	93	674158	13.8
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Homicide"	"3"	121	674158	17.9
+	"Jackson County, MO"	"29095"	"2011"	"2011"	"Unintentional"	"1"	295	676360	43.6
+	"Jackson County, MO"	"29095"	"2011"	"2011"	"Suicide"	"2"	127	676360	18.8
+	"Jackson County, MO"	"29095"	"2011"	"2011"	"Homicide"	"3"	112	676360	16.6
+	"Jackson County, MO"	"29095"	"2012"	"2012"	"Unintentional"	"1"	328	677377	48.4
+	"Jackson County, MO"	"29095"	"2012"	"2012"	"Suicide"	"2"	109	677377	16.1
+	"Jackson County, MO"	"29095"	"2012"	"2012"	"Homicide"	"3"	110	677377	16.2
+	"Jackson County, MO"	"29095"	"2013"	"2013"	"Unintentional"	"1"	317	679996	46.6
+	"Jackson County, MO"	"29095"	"2013"	"2013"	"Suicide"	"2"	118	679996	17.4
+	"Jackson County, MO"	"29095"	"2013"	"2013"	"Homicide"	"3"	110	679996	16.2
+	"Jackson County, MO"	"29095"	"2014"	"2014"	"Unintentional"	"1"	287	683191	42.0
+	"Jackson County, MO"	"29095"	"2014"	"2014"	"Suicide"	"2"	105	683191	15.4
+	"Jackson County, MO"	"29095"	"2014"	"2014"	"Homicide"	"3"	84	683191	12.3
+	"Jackson County, MO"	"29095"	"2015"	"2015"	"Unintentional"	"1"	361	687623	52.5
+	"Jackson County, MO"	"29095"	"2015"	"2015"	"Suicide"	"2"	120	687623	17.5
+	"Jackson County, MO"	"29095"	"2015"	"2015"	"Homicide"	"3"	121	687623	17.6
+	"Jackson County, MO"	"29095"	"2016"	"2016"	"Unintentional"	"1"	334	691801	48.3
+	"Jackson County, MO"	"29095"	"2016"	"2016"	"Suicide"	"2"	131	691801	18.9
+	"Jackson County, MO"	"29095"	"2016"	"2016"	"Homicide"	"3"	134	691801	19.4
+	"Jackson County, MO"	"29095"	"2017"	"2017"	"Unintentional"	"1"	399	698895	57.1
+	"Jackson County, MO"	"29095"	"2017"	"2017"	"Suicide"	"2"	143	698895	20.5
+	"Jackson County, MO"	"29095"	"2017"	"2017"	"Homicide"	"3"	167	698895	23.9
+	"Jackson County, MO"	"29095"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	12	698895	Unreliable
+	"Jackson County, MO"	"29095"	"2018"	"2018"	"Unintentional"	"1"	404	700307	57.7
+	"Jackson County, MO"	"29095"	"2018"	"2018"	"Suicide"	"2"	150	700307	21.4
+	"Jackson County, MO"	"29095"	"2018"	"2018"	"Homicide"	"3"	153	700307	21.8
+	"Jackson County, MO"	"29095"	"2018"	"2018"	"Undetermined "	"4"	11	700307	Unreliable
+	"Jasper County, MO"	"29097"	"1999"	"1999"	"Unintentional"	"1"	40	103740	38.6
+	"Jasper County, MO"	"29097"	"1999"	"1999"	"Suicide"	"2"	13	103740	Unreliable
+	"Jasper County, MO"	"29097"	"2000"	"2000"	"Unintentional"	"1"	48	104686	45.9
+	"Jasper County, MO"	"29097"	"2000"	"2000"	"Suicide"	"2"	20	104686	19.1
+	"Jasper County, MO"	"29097"	"2001"	"2001"	"Unintentional"	"1"	48	105628	45.4
+	"Jasper County, MO"	"29097"	"2001"	"2001"	"Suicide"	"2"	13	105628	Unreliable
+	"Jasper County, MO"	"29097"	"2002"	"2002"	"Unintentional"	"1"	43	106684	40.3
+	"Jasper County, MO"	"29097"	"2002"	"2002"	"Suicide"	"2"	19	106684	Unreliable
+	"Jasper County, MO"	"29097"	"2003"	"2003"	"Unintentional"	"1"	44	107690	40.9
+	"Jasper County, MO"	"29097"	"2003"	"2003"	"Suicide"	"2"	12	107690	Unreliable
+	"Jasper County, MO"	"29097"	"2003"	"2003"	"Homicide"	"3"	10	107690	Unreliable
+	"Jasper County, MO"	"29097"	"2004"	"2004"	"Unintentional"	"1"	54	108897	49.6
+	"Jasper County, MO"	"29097"	"2004"	"2004"	"Suicide"	"2"	10	108897	Unreliable
+	"Jasper County, MO"	"29097"	"2005"	"2005"	"Unintentional"	"1"	34	110219	30.8
+	"Jasper County, MO"	"29097"	"2005"	"2005"	"Suicide"	"2"	10	110219	Unreliable
+	"Jasper County, MO"	"29097"	"2005"	"2005"	"Homicide"	"3"	10	110219	Unreliable
+	"Jasper County, MO"	"29097"	"2006"	"2006"	"Unintentional"	"1"	56	112030	50.0
+	"Jasper County, MO"	"29097"	"2006"	"2006"	"Suicide"	"2"	25	112030	22.3
+	"Jasper County, MO"	"29097"	"2007"	"2007"	"Unintentional"	"1"	37	113754	32.5
+	"Jasper County, MO"	"29097"	"2007"	"2007"	"Suicide"	"2"	18	113754	Unreliable
+	"Jasper County, MO"	"29097"	"2008"	"2008"	"Unintentional"	"1"	65	115144	56.5
+	"Jasper County, MO"	"29097"	"2008"	"2008"	"Suicide"	"2"	21	115144	18.2
+	"Jasper County, MO"	"29097"	"2009"	"2009"	"Unintentional"	"1"	53	116448	45.5
+	"Jasper County, MO"	"29097"	"2009"	"2009"	"Suicide"	"2"	17	116448	Unreliable
+	"Jasper County, MO"	"29097"	"2010"	"2010"	"Unintentional"	"1"	59	117404	50.3
+	"Jasper County, MO"	"29097"	"2010"	"2010"	"Suicide"	"2"	15	117404	Unreliable
+	"Jasper County, MO"	"29097"	"2011"	"2011"	"Unintentional"	"1"	180	118435	152.0
+	"Jasper County, MO"	"29097"	"2011"	"2011"	"Suicide"	"2"	17	118435	Unreliable
+	"Jasper County, MO"	"29097"	"2012"	"2012"	"Unintentional"	"1"	59	115258	51.2
+	"Jasper County, MO"	"29097"	"2012"	"2012"	"Suicide"	"2"	16	115258	Unreliable
+	"Jasper County, MO"	"29097"	"2013"	"2013"	"Unintentional"	"1"	52	116398	44.7
+	"Jasper County, MO"	"29097"	"2013"	"2013"	"Suicide"	"2"	24	116398	20.6
+	"Jasper County, MO"	"29097"	"2014"	"2014"	"Unintentional"	"1"	43	117543	36.6
+	"Jasper County, MO"	"29097"	"2014"	"2014"	"Suicide"	"2"	34	117543	28.9
+	"Jasper County, MO"	"29097"	"2015"	"2015"	"Unintentional"	"1"	56	118596	47.2
+	"Jasper County, MO"	"29097"	"2015"	"2015"	"Suicide"	"2"	25	118596	21.1
+	"Jasper County, MO"	"29097"	"2016"	"2016"	"Unintentional"	"1"	48	119111	40.3
+	"Jasper County, MO"	"29097"	"2016"	"2016"	"Suicide"	"2"	31	119111	26.0
+	"Jasper County, MO"	"29097"	"2017"	"2017"	"Unintentional"	"1"	49	120217	40.8
+	"Jasper County, MO"	"29097"	"2017"	"2017"	"Suicide"	"2"	40	120217	33.3
+	"Jasper County, MO"	"29097"	"2018"	"2018"	"Unintentional"	"1"	59	120636	48.9
+	"Jasper County, MO"	"29097"	"2018"	"2018"	"Suicide"	"2"	27	120636	22.4
+	"Jefferson County, MO"	"29099"	"1999"	"1999"	"Unintentional"	"1"	78	196287	39.7
+	"Jefferson County, MO"	"29099"	"1999"	"1999"	"Suicide"	"2"	28	196287	14.3
+	"Jefferson County, MO"	"29099"	"2000"	"2000"	"Unintentional"	"1"	89	198099	44.9
+	"Jefferson County, MO"	"29099"	"2000"	"2000"	"Suicide"	"2"	26	198099	13.1
+	"Jefferson County, MO"	"29099"	"2001"	"2001"	"Unintentional"	"1"	90	200682	44.8
+	"Jefferson County, MO"	"29099"	"2001"	"2001"	"Suicide"	"2"	26	200682	13.0
+	"Jefferson County, MO"	"29099"	"2002"	"2002"	"Unintentional"	"1"	110	202477	54.3
+	"Jefferson County, MO"	"29099"	"2002"	"2002"	"Suicide"	"2"	28	202477	13.8
+	"Jefferson County, MO"	"29099"	"2003"	"2003"	"Unintentional"	"1"	102	204912	49.8
+	"Jefferson County, MO"	"29099"	"2003"	"2003"	"Suicide"	"2"	26	204912	12.7
+	"Jefferson County, MO"	"29099"	"2004"	"2004"	"Unintentional"	"1"	95	207829	45.7
+	"Jefferson County, MO"	"29099"	"2004"	"2004"	"Suicide"	"2"	18	207829	Unreliable
+	"Jefferson County, MO"	"29099"	"2005"	"2005"	"Unintentional"	"1"	112	210142	53.3
+	"Jefferson County, MO"	"29099"	"2005"	"2005"	"Suicide"	"2"	32	210142	15.2
+	"Jefferson County, MO"	"29099"	"2006"	"2006"	"Unintentional"	"1"	135	213105	63.3
+	"Jefferson County, MO"	"29099"	"2006"	"2006"	"Suicide"	"2"	35	213105	16.4
+	"Jefferson County, MO"	"29099"	"2007"	"2007"	"Unintentional"	"1"	109	214948	50.7
+	"Jefferson County, MO"	"29099"	"2007"	"2007"	"Suicide"	"2"	40	214948	18.6
+	"Jefferson County, MO"	"29099"	"2008"	"2008"	"Unintentional"	"1"	117	216409	54.1
+	"Jefferson County, MO"	"29099"	"2008"	"2008"	"Suicide"	"2"	34	216409	15.7
+	"Jefferson County, MO"	"29099"	"2009"	"2009"	"Unintentional"	"1"	129	217764	59.2
+	"Jefferson County, MO"	"29099"	"2009"	"2009"	"Suicide"	"2"	32	217764	14.7
+	"Jefferson County, MO"	"29099"	"2010"	"2010"	"Unintentional"	"1"	129	218733	59.0
+	"Jefferson County, MO"	"29099"	"2010"	"2010"	"Suicide"	"2"	38	218733	17.4
+	"Jefferson County, MO"	"29099"	"2011"	"2011"	"Unintentional"	"1"	115	219480	52.4
+	"Jefferson County, MO"	"29099"	"2011"	"2011"	"Suicide"	"2"	41	219480	18.7
+	"Jefferson County, MO"	"29099"	"2012"	"2012"	"Unintentional"	"1"	144	220209	65.4
+	"Jefferson County, MO"	"29099"	"2012"	"2012"	"Suicide"	"2"	46	220209	20.9
+	"Jefferson County, MO"	"29099"	"2013"	"2013"	"Unintentional"	"1"	124	221396	56.0
+	"Jefferson County, MO"	"29099"	"2013"	"2013"	"Suicide"	"2"	35	221396	15.8
+	"Jefferson County, MO"	"29099"	"2014"	"2014"	"Unintentional"	"1"	152	222716	68.2
+	"Jefferson County, MO"	"29099"	"2014"	"2014"	"Suicide"	"2"	47	222716	21.1
+	"Jefferson County, MO"	"29099"	"2015"	"2015"	"Unintentional"	"1"	155	224124	69.2
+	"Jefferson County, MO"	"29099"	"2015"	"2015"	"Suicide"	"2"	46	224124	20.5
+	"Jefferson County, MO"	"29099"	"2016"	"2016"	"Unintentional"	"1"	219	224226	97.7
+	"Jefferson County, MO"	"29099"	"2016"	"2016"	"Suicide"	"2"	48	224226	21.4
+	"Jefferson County, MO"	"29099"	"2016"	"2016"	"Homicide"	"3"	10	224226	Unreliable
+	"Jefferson County, MO"	"29099"	"2017"	"2017"	"Unintentional"	"1"	202	223810	90.3
+	"Jefferson County, MO"	"29099"	"2017"	"2017"	"Suicide"	"2"	56	223810	25.0
+	"Jefferson County, MO"	"29099"	"2018"	"2018"	"Unintentional"	"1"	216	224347	96.3
+	"Jefferson County, MO"	"29099"	"2018"	"2018"	"Suicide"	"2"	60	224347	26.7
+	"Jefferson County, MO"	"29099"	"2018"	"2018"	"Homicide"	"3"	10	224347	Unreliable
+	"Johnson County, MO"	"29101"	"1999"	"1999"	"Unintentional"	"1"	18	47786	Unreliable
+	"Johnson County, MO"	"29101"	"2000"	"2000"	"Unintentional"	"1"	16	48258	Unreliable
+	"Johnson County, MO"	"29101"	"2001"	"2001"	"Unintentional"	"1"	16	49355	Unreliable
+	"Johnson County, MO"	"29101"	"2002"	"2002"	"Unintentional"	"1"	26	49796	52.2
+	"Johnson County, MO"	"29101"	"2003"	"2003"	"Unintentional"	"1"	16	50027	Unreliable
+	"Johnson County, MO"	"29101"	"2004"	"2004"	"Unintentional"	"1"	21	50905	41.3
+	"Johnson County, MO"	"29101"	"2005"	"2005"	"Unintentional"	"1"	19	51178	Unreliable
+	"Johnson County, MO"	"29101"	"2006"	"2006"	"Unintentional"	"1"	13	51500	Unreliable
+	"Johnson County, MO"	"29101"	"2007"	"2007"	"Unintentional"	"1"	19	51750	Unreliable
+	"Johnson County, MO"	"29101"	"2008"	"2008"	"Unintentional"	"1"	11	51889	Unreliable
+	"Johnson County, MO"	"29101"	"2010"	"2010"	"Unintentional"	"1"	13	52595	Unreliable
+	"Johnson County, MO"	"29101"	"2011"	"2011"	"Unintentional"	"1"	19	53439	Unreliable
+	"Johnson County, MO"	"29101"	"2011"	"2011"	"Suicide"	"2"	11	53439	Unreliable
+	"Johnson County, MO"	"29101"	"2012"	"2012"	"Unintentional"	"1"	18	54397	Unreliable
+	"Johnson County, MO"	"29101"	"2013"	"2013"	"Unintentional"	"1"	17	54572	Unreliable
+	"Johnson County, MO"	"29101"	"2014"	"2014"	"Unintentional"	"1"	27	54362	49.7
+	"Johnson County, MO"	"29101"	"2014"	"2014"	"Suicide"	"2"	17	54362	Unreliable
+	"Johnson County, MO"	"29101"	"2015"	"2015"	"Unintentional"	"1"	13	53951	Unreliable
+	"Johnson County, MO"	"29101"	"2016"	"2016"	"Unintentional"	"1"	26	53942	48.2
+	"Johnson County, MO"	"29101"	"2016"	"2016"	"Suicide"	"2"	11	53942	Unreliable
+	"Johnson County, MO"	"29101"	"2017"	"2017"	"Unintentional"	"1"	16	53897	Unreliable
+	"Johnson County, MO"	"29101"	"2017"	"2017"	"Suicide"	"2"	10	53897	Unreliable
+	"Johnson County, MO"	"29101"	"2018"	"2018"	"Unintentional"	"1"	16	53652	Unreliable
+	"Johnson County, MO"	"29101"	"2018"	"2018"	"Suicide"	"2"	13	53652	Unreliable
+	"Laclede County, MO"	"29105"	"1999"	"1999"	"Unintentional"	"1"	21	32142	65.3
+	"Laclede County, MO"	"29105"	"2000"	"2000"	"Unintentional"	"1"	14	32513	Unreliable
+	"Laclede County, MO"	"29105"	"2001"	"2001"	"Unintentional"	"1"	11	32889	Unreliable
+	"Laclede County, MO"	"29105"	"2002"	"2002"	"Unintentional"	"1"	16	32862	Unreliable
+	"Laclede County, MO"	"29105"	"2003"	"2003"	"Unintentional"	"1"	15	33155	Unreliable
+	"Laclede County, MO"	"29105"	"2004"	"2004"	"Unintentional"	"1"	17	33513	Unreliable
+	"Laclede County, MO"	"29105"	"2005"	"2005"	"Unintentional"	"1"	10	34236	Unreliable
+	"Laclede County, MO"	"29105"	"2006"	"2006"	"Unintentional"	"1"	13	34937	Unreliable
+	"Laclede County, MO"	"29105"	"2007"	"2007"	"Unintentional"	"1"	22	35333	62.3
+	"Laclede County, MO"	"29105"	"2008"	"2008"	"Unintentional"	"1"	19	35518	Unreliable
+	"Laclede County, MO"	"29105"	"2010"	"2010"	"Unintentional"	"1"	13	35571	Unreliable
+	"Laclede County, MO"	"29105"	"2011"	"2011"	"Unintentional"	"1"	16	35636	Unreliable
+	"Laclede County, MO"	"29105"	"2011"	"2011"	"Suicide"	"2"	10	35636	Unreliable
+	"Laclede County, MO"	"29105"	"2012"	"2012"	"Unintentional"	"1"	15	35417	Unreliable
+	"Laclede County, MO"	"29105"	"2013"	"2013"	"Unintentional"	"1"	17	35667	Unreliable
+	"Laclede County, MO"	"29105"	"2014"	"2014"	"Unintentional"	"1"	23	35439	64.9
+	"Laclede County, MO"	"29105"	"2015"	"2015"	"Unintentional"	"1"	13	35473	Unreliable
+	"Laclede County, MO"	"29105"	"2016"	"2016"	"Unintentional"	"1"	20	35490	56.4
+	"Laclede County, MO"	"29105"	"2016"	"2016"	"Suicide"	"2"	10	35490	Unreliable
+	"Laclede County, MO"	"29105"	"2017"	"2017"	"Unintentional"	"1"	13	35443	Unreliable
+	"Laclede County, MO"	"29105"	"2018"	"2018"	"Unintentional"	"1"	41	35713	114.8
+	"Laclede County, MO"	"29105"	"2018"	"2018"	"Suicide"	"2"	11	35713	Unreliable
+	"Lafayette County, MO"	"29107"	"1999"	"1999"	"Unintentional"	"1"	15	32805	Unreliable
+	"Lafayette County, MO"	"29107"	"2000"	"2000"	"Unintentional"	"1"	22	32960	66.7
+	"Lafayette County, MO"	"29107"	"2001"	"2001"	"Unintentional"	"1"	20	32927	60.7
+	"Lafayette County, MO"	"29107"	"2002"	"2002"	"Unintentional"	"1"	18	32984	Unreliable
+	"Lafayette County, MO"	"29107"	"2003"	"2003"	"Unintentional"	"1"	24	33081	72.5
+	"Lafayette County, MO"	"29107"	"2004"	"2004"	"Unintentional"	"1"	11	33110	Unreliable
+	"Lafayette County, MO"	"29107"	"2005"	"2005"	"Unintentional"	"1"	23	33280	69.1
+	"Lafayette County, MO"	"29107"	"2006"	"2006"	"Unintentional"	"1"	15	33288	Unreliable
+	"Lafayette County, MO"	"29107"	"2007"	"2007"	"Unintentional"	"1"	25	33186	75.3
+	"Lafayette County, MO"	"29107"	"2008"	"2008"	"Unintentional"	"1"	15	33434	Unreliable
+	"Lafayette County, MO"	"29107"	"2009"	"2009"	"Unintentional"	"1"	19	33246	Unreliable
+	"Lafayette County, MO"	"29107"	"2010"	"2010"	"Unintentional"	"1"	13	33381	Unreliable
+	"Lafayette County, MO"	"29107"	"2011"	"2011"	"Unintentional"	"1"	18	33209	Unreliable
+	"Lafayette County, MO"	"29107"	"2012"	"2012"	"Unintentional"	"1"	14	33080	Unreliable
+	"Lafayette County, MO"	"29107"	"2013"	"2013"	"Unintentional"	"1"	18	32943	Unreliable
+	"Lafayette County, MO"	"29107"	"2014"	"2014"	"Unintentional"	"1"	12	32688	Unreliable
+	"Lafayette County, MO"	"29107"	"2015"	"2015"	"Unintentional"	"1"	20	32701	61.2
+	"Lafayette County, MO"	"29107"	"2016"	"2016"	"Unintentional"	"1"	16	32618	Unreliable
+	"Lafayette County, MO"	"29107"	"2017"	"2017"	"Unintentional"	"1"	24	32641	73.5
+	"Lafayette County, MO"	"29107"	"2018"	"2018"	"Unintentional"	"1"	19	32598	Unreliable
+	"Lawrence County, MO"	"29109"	"1999"	"1999"	"Unintentional"	"1"	18	34723	Unreliable
+	"Lawrence County, MO"	"29109"	"2000"	"2000"	"Unintentional"	"1"	22	35204	62.5
+	"Lawrence County, MO"	"29109"	"2001"	"2001"	"Unintentional"	"1"	22	35665	61.7
+	"Lawrence County, MO"	"29109"	"2002"	"2002"	"Unintentional"	"1"	19	36234	Unreliable
+	"Lawrence County, MO"	"29109"	"2003"	"2003"	"Unintentional"	"1"	32	36441	87.8
+	"Lawrence County, MO"	"29109"	"2004"	"2004"	"Unintentional"	"1"	20	36798	54.4
+	"Lawrence County, MO"	"29109"	"2005"	"2005"	"Unintentional"	"1"	26	37399	69.5
+	"Lawrence County, MO"	"29109"	"2006"	"2006"	"Unintentional"	"1"	27	37779	71.5
+	"Lawrence County, MO"	"29109"	"2007"	"2007"	"Unintentional"	"1"	27	38323	70.5
+	"Lawrence County, MO"	"29109"	"2008"	"2008"	"Unintentional"	"1"	26	38508	67.5
+	"Lawrence County, MO"	"29109"	"2009"	"2009"	"Unintentional"	"1"	21	38652	54.3
+	"Lawrence County, MO"	"29109"	"2010"	"2010"	"Unintentional"	"1"	20	38634	51.8
+	"Lawrence County, MO"	"29109"	"2011"	"2011"	"Unintentional"	"1"	23	38660	59.5
+	"Lawrence County, MO"	"29109"	"2012"	"2012"	"Unintentional"	"1"	13	38467	Unreliable
+	"Lawrence County, MO"	"29109"	"2013"	"2013"	"Unintentional"	"1"	22	38185	57.6
+	"Lawrence County, MO"	"29109"	"2014"	"2014"	"Unintentional"	"1"	14	38023	Unreliable
+	"Lawrence County, MO"	"29109"	"2015"	"2015"	"Unintentional"	"1"	27	38180	70.7
+	"Lawrence County, MO"	"29109"	"2016"	"2016"	"Unintentional"	"1"	29	38381	75.6
+	"Lawrence County, MO"	"29109"	"2017"	"2017"	"Unintentional"	"1"	25	38434	65.0
+	"Lawrence County, MO"	"29109"	"2018"	"2018"	"Unintentional"	"1"	24	38359	62.6
+	"Lincoln County, MO"	"29113"	"1999"	"1999"	"Unintentional"	"1"	24	37975	63.2
+	"Lincoln County, MO"	"29113"	"2000"	"2000"	"Unintentional"	"1"	19	38944	Unreliable
+	"Lincoln County, MO"	"29113"	"2001"	"2001"	"Unintentional"	"1"	17	40610	Unreliable
+	"Lincoln County, MO"	"29113"	"2002"	"2002"	"Unintentional"	"1"	24	41970	57.2
+	"Lincoln County, MO"	"29113"	"2003"	"2003"	"Unintentional"	"1"	23	43580	52.8
+	"Lincoln County, MO"	"29113"	"2004"	"2004"	"Unintentional"	"1"	20	44995	44.4
+	"Lincoln County, MO"	"29113"	"2005"	"2005"	"Unintentional"	"1"	28	46945	59.6
+	"Lincoln County, MO"	"29113"	"2006"	"2006"	"Unintentional"	"1"	23	49117	46.8
+	"Lincoln County, MO"	"29113"	"2006"	"2006"	"Suicide"	"2"	12	49117	Unreliable
+	"Lincoln County, MO"	"29113"	"2007"	"2007"	"Unintentional"	"1"	18	50758	Unreliable
+	"Lincoln County, MO"	"29113"	"2007"	"2007"	"Suicide"	"2"	13	50758	Unreliable
+	"Lincoln County, MO"	"29113"	"2008"	"2008"	"Unintentional"	"1"	25	51847	48.2
+	"Lincoln County, MO"	"29113"	"2009"	"2009"	"Unintentional"	"1"	18	52243	Unreliable
+	"Lincoln County, MO"	"29113"	"2010"	"2010"	"Unintentional"	"1"	22	52566	41.9
+	"Lincoln County, MO"	"29113"	"2010"	"2010"	"Suicide"	"2"	16	52566	Unreliable
+	"Lincoln County, MO"	"29113"	"2011"	"2011"	"Unintentional"	"1"	32	53076	60.3
+	"Lincoln County, MO"	"29113"	"2011"	"2011"	"Suicide"	"2"	15	53076	Unreliable
+	"Lincoln County, MO"	"29113"	"2012"	"2012"	"Unintentional"	"1"	27	53354	50.6
+	"Lincoln County, MO"	"29113"	"2013"	"2013"	"Unintentional"	"1"	33	53860	61.3
+	"Lincoln County, MO"	"29113"	"2014"	"2014"	"Unintentional"	"1"	32	54249	59.0
+	"Lincoln County, MO"	"29113"	"2014"	"2014"	"Suicide"	"2"	10	54249	Unreliable
+	"Lincoln County, MO"	"29113"	"2015"	"2015"	"Unintentional"	"1"	44	54696	80.4
+	"Lincoln County, MO"	"29113"	"2015"	"2015"	"Suicide"	"2"	14	54696	Unreliable
+	"Lincoln County, MO"	"29113"	"2016"	"2016"	"Unintentional"	"1"	49	55267	88.7
+	"Lincoln County, MO"	"29113"	"2016"	"2016"	"Suicide"	"2"	17	55267	Unreliable
+	"Lincoln County, MO"	"29113"	"2017"	"2017"	"Unintentional"	"1"	36	56183	64.1
+	"Lincoln County, MO"	"29113"	"2017"	"2017"	"Suicide"	"2"	12	56183	Unreliable
+	"Lincoln County, MO"	"29113"	"2018"	"2018"	"Unintentional"	"1"	47	57686	81.5
+	"Linn County, MO"	"29115"	"2002"	"2002"	"Unintentional"	"1"	16	13495	Unreliable
+	"Linn County, MO"	"29115"	"2003"	"2003"	"Unintentional"	"1"	16	13365	Unreliable
+	"Linn County, MO"	"29115"	"2004"	"2004"	"Unintentional"	"1"	10	13256	Unreliable
+	"Linn County, MO"	"29115"	"2005"	"2005"	"Unintentional"	"1"	12	13074	Unreliable
+	"Livingston County, MO"	"29117"	"1999"	"1999"	"Unintentional"	"1"	11	14675	Unreliable
+	"Livingston County, MO"	"29117"	"2002"	"2002"	"Unintentional"	"1"	12	14556	Unreliable
+	"Livingston County, MO"	"29117"	"2003"	"2003"	"Unintentional"	"1"	11	14589	Unreliable
+	"Livingston County, MO"	"29117"	"2005"	"2005"	"Unintentional"	"1"	11	14624	Unreliable
+	"Livingston County, MO"	"29117"	"2006"	"2006"	"Unintentional"	"1"	11	14717	Unreliable
+	"Livingston County, MO"	"29117"	"2008"	"2008"	"Unintentional"	"1"	11	14929	Unreliable
+	"Livingston County, MO"	"29117"	"2015"	"2015"	"Unintentional"	"1"	14	15028	Unreliable
+	"Livingston County, MO"	"29117"	"2016"	"2016"	"Unintentional"	"1"	11	15235	Unreliable
+	"Livingston County, MO"	"29117"	"2018"	"2018"	"Unintentional"	"1"	11	15146	Unreliable
+	"McDonald County, MO"	"29119"	"1999"	"1999"	"Unintentional"	"1"	15	21561	Unreliable
+	"McDonald County, MO"	"29119"	"2000"	"2000"	"Unintentional"	"1"	22	21681	101.5
+	"McDonald County, MO"	"29119"	"2001"	"2001"	"Unintentional"	"1"	16	21688	Unreliable
+	"McDonald County, MO"	"29119"	"2002"	"2002"	"Unintentional"	"1"	18	21712	Unreliable
+	"McDonald County, MO"	"29119"	"2003"	"2003"	"Unintentional"	"1"	13	22105	Unreliable
+	"McDonald County, MO"	"29119"	"2004"	"2004"	"Unintentional"	"1"	15	22410	Unreliable
+	"McDonald County, MO"	"29119"	"2005"	"2005"	"Unintentional"	"1"	12	22718	Unreliable
+	"McDonald County, MO"	"29119"	"2006"	"2006"	"Unintentional"	"1"	19	22977	Unreliable
+	"McDonald County, MO"	"29119"	"2006"	"2006"	"Undetermined "	"4"	10	22977	Unreliable
+	"McDonald County, MO"	"29119"	"2007"	"2007"	"Unintentional"	"1"	15	22996	Unreliable
+	"McDonald County, MO"	"29119"	"2008"	"2008"	"Unintentional"	"1"	12	22943	Unreliable
+	"McDonald County, MO"	"29119"	"2009"	"2009"	"Unintentional"	"1"	17	23076	Unreliable
+	"McDonald County, MO"	"29119"	"2010"	"2010"	"Unintentional"	"1"	13	23083	Unreliable
+	"McDonald County, MO"	"29119"	"2011"	"2011"	"Unintentional"	"1"	13	22977	Unreliable
+	"McDonald County, MO"	"29119"	"2012"	"2012"	"Unintentional"	"1"	12	22876	Unreliable
+	"McDonald County, MO"	"29119"	"2013"	"2013"	"Unintentional"	"1"	17	22558	Unreliable
+	"McDonald County, MO"	"29119"	"2014"	"2014"	"Unintentional"	"1"	18	22800	Unreliable
+	"McDonald County, MO"	"29119"	"2015"	"2015"	"Unintentional"	"1"	20	22643	88.3
+	"McDonald County, MO"	"29119"	"2016"	"2016"	"Unintentional"	"1"	10	22620	Unreliable
+	"McDonald County, MO"	"29119"	"2017"	"2017"	"Unintentional"	"1"	23	22828	100.8
+	"McDonald County, MO"	"29119"	"2018"	"2018"	"Unintentional"	"1"	12	23078	Unreliable
+	"Macon County, MO"	"29121"	"1999"	"1999"	"Unintentional"	"1"	10	15755	Unreliable
+	"Macon County, MO"	"29121"	"2001"	"2001"	"Unintentional"	"1"	12	15613	Unreliable
+	"Macon County, MO"	"29121"	"2003"	"2003"	"Unintentional"	"1"	11	15568	Unreliable
+	"Macon County, MO"	"29121"	"2004"	"2004"	"Unintentional"	"1"	17	15497	Unreliable
+	"Macon County, MO"	"29121"	"2005"	"2005"	"Unintentional"	"1"	16	15595	Unreliable
+	"Macon County, MO"	"29121"	"2006"	"2006"	"Unintentional"	"1"	15	15562	Unreliable
+	"Macon County, MO"	"29121"	"2007"	"2007"	"Unintentional"	"1"	20	15533	128.8
+	"Macon County, MO"	"29121"	"2008"	"2008"	"Unintentional"	"1"	10	15512	Unreliable
+	"Macon County, MO"	"29121"	"2010"	"2010"	"Unintentional"	"1"	11	15566	Unreliable
+	"Macon County, MO"	"29121"	"2011"	"2011"	"Unintentional"	"1"	16	15591	Unreliable
+	"Macon County, MO"	"29121"	"2014"	"2014"	"Unintentional"	"1"	10	15479	Unreliable
+	"Macon County, MO"	"29121"	"2015"	"2015"	"Unintentional"	"1"	11	15335	Unreliable
+	"Macon County, MO"	"29121"	"2017"	"2017"	"Unintentional"	"1"	11	15251	Unreliable
+	"Madison County, MO"	"29123"	"2001"	"2001"	"Unintentional"	"1"	10	11855	Unreliable
+	"Madison County, MO"	"29123"	"2004"	"2004"	"Unintentional"	"1"	10	11937	Unreliable
+	"Madison County, MO"	"29123"	"2007"	"2007"	"Unintentional"	"1"	14	12310	Unreliable
+	"Madison County, MO"	"29123"	"2013"	"2013"	"Unintentional"	"1"	10	12431	Unreliable
+	"Madison County, MO"	"29123"	"2017"	"2017"	"Unintentional"	"1"	11	12243	Unreliable
+	"Maries County, MO"	"29125"	"2003"	"2003"	"Unintentional"	"1"	12	8850	Unreliable
+	"Maries County, MO"	"29125"	"2010"	"2010"	"Unintentional"	"1"	10	9176	Unreliable
+	"Maries County, MO"	"29125"	"2014"	"2014"	"Unintentional"	"1"	11	9013	Unreliable
+	"Marion County, MO"	"29127"	"1999"	"1999"	"Unintentional"	"1"	13	28309	Unreliable
+	"Marion County, MO"	"29127"	"2000"	"2000"	"Unintentional"	"1"	21	28289	74.2
+	"Marion County, MO"	"29127"	"2001"	"2001"	"Unintentional"	"1"	11	28115	Unreliable
+	"Marion County, MO"	"29127"	"2003"	"2003"	"Unintentional"	"1"	21	28282	74.3
+	"Marion County, MO"	"29127"	"2004"	"2004"	"Unintentional"	"1"	16	28193	Unreliable
+	"Marion County, MO"	"29127"	"2005"	"2005"	"Unintentional"	"1"	10	28309	Unreliable
+	"Marion County, MO"	"29127"	"2006"	"2006"	"Unintentional"	"1"	17	28468	Unreliable
+	"Marion County, MO"	"29127"	"2007"	"2007"	"Unintentional"	"1"	15	28365	Unreliable
+	"Marion County, MO"	"29127"	"2008"	"2008"	"Unintentional"	"1"	16	28550	Unreliable
+	"Marion County, MO"	"29127"	"2009"	"2009"	"Unintentional"	"1"	14	28720	Unreliable
+	"Marion County, MO"	"29127"	"2010"	"2010"	"Unintentional"	"1"	13	28781	Unreliable
+	"Marion County, MO"	"29127"	"2011"	"2011"	"Unintentional"	"1"	18	28717	Unreliable
+	"Marion County, MO"	"29127"	"2012"	"2012"	"Unintentional"	"1"	14	28745	Unreliable
+	"Marion County, MO"	"29127"	"2013"	"2013"	"Unintentional"	"1"	17	28904	Unreliable
+	"Marion County, MO"	"29127"	"2014"	"2014"	"Unintentional"	"1"	20	28920	69.2
+	"Marion County, MO"	"29127"	"2015"	"2015"	"Unintentional"	"1"	12	28880	Unreliable
+	"Marion County, MO"	"29127"	"2016"	"2016"	"Unintentional"	"1"	14	28894	Unreliable
+	"Marion County, MO"	"29127"	"2017"	"2017"	"Unintentional"	"1"	13	28634	Unreliable
+	"Marion County, MO"	"29127"	"2018"	"2018"	"Unintentional"	"1"	21	28592	73.4
+	"Miller County, MO"	"29131"	"1999"	"1999"	"Unintentional"	"1"	15	23321	Unreliable
+	"Miller County, MO"	"29131"	"2001"	"2001"	"Unintentional"	"1"	12	23911	Unreliable
+	"Miller County, MO"	"29131"	"2002"	"2002"	"Unintentional"	"1"	17	24082	Unreliable
+	"Miller County, MO"	"29131"	"2003"	"2003"	"Unintentional"	"1"	12	24056	Unreliable
+	"Miller County, MO"	"29131"	"2004"	"2004"	"Unintentional"	"1"	15	24488	Unreliable
+	"Miller County, MO"	"29131"	"2005"	"2005"	"Unintentional"	"1"	19	24582	Unreliable
+	"Miller County, MO"	"29131"	"2006"	"2006"	"Unintentional"	"1"	23	24759	92.9
+	"Miller County, MO"	"29131"	"2007"	"2007"	"Unintentional"	"1"	26	24843	104.7
+	"Miller County, MO"	"29131"	"2008"	"2008"	"Unintentional"	"1"	16	24867	Unreliable
+	"Miller County, MO"	"29131"	"2009"	"2009"	"Unintentional"	"1"	11	24840	Unreliable
+	"Miller County, MO"	"29131"	"2010"	"2010"	"Unintentional"	"1"	15	24748	Unreliable
+	"Miller County, MO"	"29131"	"2011"	"2011"	"Unintentional"	"1"	17	24770	Unreliable
+	"Miller County, MO"	"29131"	"2012"	"2012"	"Unintentional"	"1"	17	24817	Unreliable
+	"Miller County, MO"	"29131"	"2013"	"2013"	"Unintentional"	"1"	14	25092	Unreliable
+	"Miller County, MO"	"29131"	"2014"	"2014"	"Unintentional"	"1"	14	25141	Unreliable
+	"Miller County, MO"	"29131"	"2015"	"2015"	"Unintentional"	"1"	17	25113	Unreliable
+	"Miller County, MO"	"29131"	"2017"	"2017"	"Unintentional"	"1"	17	25228	Unreliable
+	"Miller County, MO"	"29131"	"2018"	"2018"	"Unintentional"	"1"	19	25336	Unreliable
+	"Mississippi County, MO"	"29133"	"2000"	"2000"	"Unintentional"	"1"	10	13427	Unreliable
+	"Mississippi County, MO"	"29133"	"2003"	"2003"	"Unintentional"	"1"	10	13626	Unreliable
+	"Mississippi County, MO"	"29133"	"2004"	"2004"	"Unintentional"	"1"	11	13669	Unreliable
+	"Mississippi County, MO"	"29133"	"2005"	"2005"	"Unintentional"	"1"	12	13872	Unreliable
+	"Mississippi County, MO"	"29133"	"2014"	"2014"	"Unintentional"	"1"	10	14232	Unreliable
+	"Mississippi County, MO"	"29133"	"2015"	"2015"	"Unintentional"	"1"	11	14036	Unreliable
+	"Mississippi County, MO"	"29133"	"2017"	"2017"	"Unintentional"	"1"	15	13586	Unreliable
+	"Mississippi County, MO"	"29133"	"2018"	"2018"	"Unintentional"	"1"	15	13336	Unreliable
+	"Moniteau County, MO"	"29135"	"1999"	"1999"	"Unintentional"	"1"	12	14644	Unreliable
+	"Moniteau County, MO"	"29135"	"2004"	"2004"	"Unintentional"	"1"	11	15082	Unreliable
+	"Moniteau County, MO"	"29135"	"2006"	"2006"	"Unintentional"	"1"	11	15340	Unreliable
+	"Monroe County, MO"	"29137"	"2000"	"2000"	"Unintentional"	"1"	12	9311	Unreliable
+	"Monroe County, MO"	"29137"	"2006"	"2006"	"Unintentional"	"1"	12	9219	Unreliable
+	"Monroe County, MO"	"29137"	"2007"	"2007"	"Unintentional"	"1"	11	9216	Unreliable
+	"Monroe County, MO"	"29137"	"2008"	"2008"	"Unintentional"	"1"	10	9157	Unreliable
+	"Montgomery County, MO"	"29139"	"2001"	"2001"	"Unintentional"	"1"	12	12120	Unreliable
+	"Montgomery County, MO"	"29139"	"2006"	"2006"	"Unintentional"	"1"	11	12242	Unreliable
+	"Montgomery County, MO"	"29139"	"2007"	"2007"	"Unintentional"	"1"	11	12299	Unreliable
+	"Montgomery County, MO"	"29139"	"2008"	"2008"	"Unintentional"	"1"	14	12273	Unreliable
+	"Montgomery County, MO"	"29139"	"2013"	"2013"	"Unintentional"	"1"	12	11965	Unreliable
+	"Morgan County, MO"	"29141"	"2001"	"2001"	"Unintentional"	"1"	12	19543	Unreliable
+	"Morgan County, MO"	"29141"	"2003"	"2003"	"Unintentional"	"1"	10	19831	Unreliable
+	"Morgan County, MO"	"29141"	"2004"	"2004"	"Unintentional"	"1"	16	20106	Unreliable
+	"Morgan County, MO"	"29141"	"2005"	"2005"	"Unintentional"	"1"	12	20273	Unreliable
+	"Morgan County, MO"	"29141"	"2006"	"2006"	"Unintentional"	"1"	20	20570	97.2
+	"Morgan County, MO"	"29141"	"2007"	"2007"	"Unintentional"	"1"	15	20716	Unreliable
+	"Morgan County, MO"	"29141"	"2008"	"2008"	"Unintentional"	"1"	16	20745	Unreliable
+	"Morgan County, MO"	"29141"	"2009"	"2009"	"Unintentional"	"1"	17	20566	Unreliable
+	"Morgan County, MO"	"29141"	"2010"	"2010"	"Unintentional"	"1"	11	20565	Unreliable
+	"Morgan County, MO"	"29141"	"2011"	"2011"	"Unintentional"	"1"	15	20502	Unreliable
+	"Morgan County, MO"	"29141"	"2013"	"2013"	"Unintentional"	"1"	17	20265	Unreliable
+	"Morgan County, MO"	"29141"	"2014"	"2014"	"Unintentional"	"1"	18	20240	Unreliable
+	"Morgan County, MO"	"29141"	"2015"	"2015"	"Unintentional"	"1"	13	20171	Unreliable
+	"Morgan County, MO"	"29141"	"2016"	"2016"	"Unintentional"	"1"	12	20213	Unreliable
+	"Morgan County, MO"	"29141"	"2017"	"2017"	"Unintentional"	"1"	10	20145	Unreliable
+	"Morgan County, MO"	"29141"	"2018"	"2018"	"Unintentional"	"1"	12	20358	Unreliable
+	"New Madrid County, MO"	"29143"	"1999"	"1999"	"Unintentional"	"1"	12	19949	Unreliable
+	"New Madrid County, MO"	"29143"	"2000"	"2000"	"Unintentional"	"1"	11	19760	Unreliable
+	"New Madrid County, MO"	"29143"	"2001"	"2001"	"Unintentional"	"1"	13	19638	Unreliable
+	"New Madrid County, MO"	"29143"	"2002"	"2002"	"Unintentional"	"1"	11	19416	Unreliable
+	"New Madrid County, MO"	"29143"	"2003"	"2003"	"Unintentional"	"1"	16	19405	Unreliable
+	"New Madrid County, MO"	"29143"	"2004"	"2004"	"Unintentional"	"1"	13	19235	Unreliable
+	"New Madrid County, MO"	"29143"	"2005"	"2005"	"Unintentional"	"1"	11	18919	Unreliable
+	"New Madrid County, MO"	"29143"	"2006"	"2006"	"Unintentional"	"1"	12	18821	Unreliable
+	"New Madrid County, MO"	"29143"	"2007"	"2007"	"Unintentional"	"1"	13	18780	Unreliable
+	"New Madrid County, MO"	"29143"	"2009"	"2009"	"Unintentional"	"1"	16	18896	Unreliable
+	"New Madrid County, MO"	"29143"	"2010"	"2010"	"Unintentional"	"1"	19	18956	Unreliable
+	"New Madrid County, MO"	"29143"	"2011"	"2011"	"Unintentional"	"1"	16	18783	Unreliable
+	"New Madrid County, MO"	"29143"	"2012"	"2012"	"Unintentional"	"1"	10	18488	Unreliable
+	"New Madrid County, MO"	"29143"	"2013"	"2013"	"Unintentional"	"1"	21	18365	114.3
+	"New Madrid County, MO"	"29143"	"2015"	"2015"	"Unintentional"	"1"	13	18208	Unreliable
+	"New Madrid County, MO"	"29143"	"2016"	"2016"	"Unintentional"	"1"	15	17915	Unreliable
+	"New Madrid County, MO"	"29143"	"2016"	"2016"	"Suicide"	"2"	10	17915	Unreliable
+	"New Madrid County, MO"	"29143"	"2017"	"2017"	"Unintentional"	"1"	11	17582	Unreliable
+	"New Madrid County, MO"	"29143"	"2018"	"2018"	"Unintentional"	"1"	15	17296	Unreliable
+	"Newton County, MO"	"29145"	"1999"	"1999"	"Unintentional"	"1"	20	52082	38.4
+	"Newton County, MO"	"29145"	"2000"	"2000"	"Unintentional"	"1"	18	52636	Unreliable
+	"Newton County, MO"	"29145"	"2001"	"2001"	"Unintentional"	"1"	30	52939	56.7
+	"Newton County, MO"	"29145"	"2002"	"2002"	"Unintentional"	"1"	25	53408	46.8
+	"Newton County, MO"	"29145"	"2003"	"2003"	"Unintentional"	"1"	25	54347	46.0
+	"Newton County, MO"	"29145"	"2004"	"2004"	"Unintentional"	"1"	21	55100	38.1
+	"Newton County, MO"	"29145"	"2005"	"2005"	"Unintentional"	"1"	30	55941	53.6
+	"Newton County, MO"	"29145"	"2006"	"2006"	"Unintentional"	"1"	28	56671	49.4
+	"Newton County, MO"	"29145"	"2006"	"2006"	"Suicide"	"2"	10	56671	Unreliable
+	"Newton County, MO"	"29145"	"2007"	"2007"	"Unintentional"	"1"	34	57470	59.2
+	"Newton County, MO"	"29145"	"2007"	"2007"	"Suicide"	"2"	12	57470	Unreliable
+	"Newton County, MO"	"29145"	"2008"	"2008"	"Unintentional"	"1"	36	57600	62.5
+	"Newton County, MO"	"29145"	"2009"	"2009"	"Unintentional"	"1"	34	57946	58.7
+	"Newton County, MO"	"29145"	"2009"	"2009"	"Suicide"	"2"	17	57946	Unreliable
+	"Newton County, MO"	"29145"	"2010"	"2010"	"Unintentional"	"1"	38	58114	65.4
+	"Newton County, MO"	"29145"	"2011"	"2011"	"Unintentional"	"1"	42	58414	71.9
+	"Newton County, MO"	"29145"	"2012"	"2012"	"Unintentional"	"1"	25	59069	42.3
+	"Newton County, MO"	"29145"	"2012"	"2012"	"Suicide"	"2"	12	59069	Unreliable
+	"Newton County, MO"	"29145"	"2013"	"2013"	"Unintentional"	"1"	41	58845	69.7
+	"Newton County, MO"	"29145"	"2014"	"2014"	"Unintentional"	"1"	32	58598	54.6
+	"Newton County, MO"	"29145"	"2015"	"2015"	"Unintentional"	"1"	23	58615	39.2
+	"Newton County, MO"	"29145"	"2015"	"2015"	"Suicide"	"2"	14	58615	Unreliable
+	"Newton County, MO"	"29145"	"2016"	"2016"	"Unintentional"	"1"	25	58694	42.6
+	"Newton County, MO"	"29145"	"2016"	"2016"	"Suicide"	"2"	16	58694	Unreliable
+	"Newton County, MO"	"29145"	"2017"	"2017"	"Unintentional"	"1"	34	58290	58.3
+	"Newton County, MO"	"29145"	"2017"	"2017"	"Suicide"	"2"	10	58290	Unreliable
+	"Newton County, MO"	"29145"	"2018"	"2018"	"Unintentional"	"1"	33	58266	56.6
+	"Newton County, MO"	"29145"	"2018"	"2018"	"Suicide"	"2"	10	58266	Unreliable
+	"Nodaway County, MO"	"29147"	"2007"	"2007"	"Unintentional"	"1"	13	22804	Unreliable
+	"Nodaway County, MO"	"29147"	"2008"	"2008"	"Unintentional"	"1"	13	23026	Unreliable
+	"Nodaway County, MO"	"29147"	"2011"	"2011"	"Unintentional"	"1"	13	23468	Unreliable
+	"Nodaway County, MO"	"29147"	"2014"	"2014"	"Unintentional"	"1"	11	23081	Unreliable
+	"Nodaway County, MO"	"29147"	"2016"	"2016"	"Unintentional"	"1"	12	22670	Unreliable
+	"Nodaway County, MO"	"29147"	"2017"	"2017"	"Unintentional"	"1"	11	22472	Unreliable
+	"Oregon County, MO"	"29149"	"1999"	"1999"	"Unintentional"	"1"	11	10346	Unreliable
+	"Oregon County, MO"	"29149"	"2005"	"2005"	"Unintentional"	"1"	18	10513	Unreliable
+	"Oregon County, MO"	"29149"	"2015"	"2015"	"Unintentional"	"1"	12	10953	Unreliable
+	"Osage County, MO"	"29151"	"1999"	"1999"	"Unintentional"	"1"	17	12904	Unreliable
+	"Osage County, MO"	"29151"	"2000"	"2000"	"Unintentional"	"1"	13	13062	Unreliable
+	"Osage County, MO"	"29151"	"2003"	"2003"	"Unintentional"	"1"	12	13315	Unreliable
+	"Osage County, MO"	"29151"	"2014"	"2014"	"Unintentional"	"1"	12	13703	Unreliable
+	"Osage County, MO"	"29151"	"2018"	"2018"	"Unintentional"	"1"	11	13714	Unreliable
+	"Ozark County, MO"	"29153"	"2000"	"2000"	"Unintentional"	"1"	15	9542	Unreliable
+	"Ozark County, MO"	"29153"	"2002"	"2002"	"Unintentional"	"1"	10	9496	Unreliable
+	"Pemiscot County, MO"	"29155"	"1999"	"1999"	"Unintentional"	"1"	14	20216	Unreliable
+	"Pemiscot County, MO"	"29155"	"2000"	"2000"	"Unintentional"	"1"	12	20047	Unreliable
+	"Pemiscot County, MO"	"29155"	"2002"	"2002"	"Unintentional"	"1"	17	19839	Unreliable
+	"Pemiscot County, MO"	"29155"	"2003"	"2003"	"Unintentional"	"1"	17	19592	Unreliable
+	"Pemiscot County, MO"	"29155"	"2004"	"2004"	"Unintentional"	"1"	13	19338	Unreliable
+	"Pemiscot County, MO"	"29155"	"2005"	"2005"	"Unintentional"	"1"	12	19211	Unreliable
+	"Pemiscot County, MO"	"29155"	"2006"	"2006"	"Unintentional"	"1"	19	18953	Unreliable
+	"Pemiscot County, MO"	"29155"	"2007"	"2007"	"Unintentional"	"1"	17	18788	Unreliable
+	"Pemiscot County, MO"	"29155"	"2008"	"2008"	"Unintentional"	"1"	13	18552	Unreliable
+	"Pemiscot County, MO"	"29155"	"2009"	"2009"	"Unintentional"	"1"	17	18378	Unreliable
+	"Pemiscot County, MO"	"29155"	"2010"	"2010"	"Unintentional"	"1"	21	18296	114.8
+	"Pemiscot County, MO"	"29155"	"2011"	"2011"	"Unintentional"	"1"	17	18174	Unreliable
+	"Pemiscot County, MO"	"29155"	"2012"	"2012"	"Unintentional"	"1"	17	18111	Unreliable
+	"Pemiscot County, MO"	"29155"	"2013"	"2013"	"Unintentional"	"1"	18	17823	Unreliable
+	"Pemiscot County, MO"	"29155"	"2014"	"2014"	"Unintentional"	"1"	14	17650	Unreliable
+	"Pemiscot County, MO"	"29155"	"2015"	"2015"	"Unintentional"	"1"	15	17482	Unreliable
+	"Pemiscot County, MO"	"29155"	"2016"	"2016"	"Unintentional"	"1"	13	17073	Unreliable
+	"Perry County, MO"	"29157"	"2000"	"2000"	"Unintentional"	"1"	14	18132	Unreliable
+	"Perry County, MO"	"29157"	"2004"	"2004"	"Unintentional"	"1"	12	18454	Unreliable
+	"Perry County, MO"	"29157"	"2006"	"2006"	"Unintentional"	"1"	11	18672	Unreliable
+	"Perry County, MO"	"29157"	"2012"	"2012"	"Unintentional"	"1"	11	19018	Unreliable
+	"Perry County, MO"	"29157"	"2016"	"2016"	"Unintentional"	"1"	13	19285	Unreliable
+	"Perry County, MO"	"29157"	"2018"	"2018"	"Unintentional"	"1"	11	19150	Unreliable
+	"Pettis County, MO"	"29159"	"1999"	"1999"	"Unintentional"	"1"	29	39137	74.1
+	"Pettis County, MO"	"29159"	"2000"	"2000"	"Unintentional"	"1"	22	39403	55.8
+	"Pettis County, MO"	"29159"	"2001"	"2001"	"Unintentional"	"1"	15	39577	Unreliable
+	"Pettis County, MO"	"29159"	"2002"	"2002"	"Unintentional"	"1"	16	39543	Unreliable
+	"Pettis County, MO"	"29159"	"2003"	"2003"	"Unintentional"	"1"	31	39669	78.1
+	"Pettis County, MO"	"29159"	"2004"	"2004"	"Unintentional"	"1"	17	39883	Unreliable
+	"Pettis County, MO"	"29159"	"2005"	"2005"	"Unintentional"	"1"	17	40455	Unreliable
+	"Pettis County, MO"	"29159"	"2006"	"2006"	"Unintentional"	"1"	21	40937	51.3
+	"Pettis County, MO"	"29159"	"2007"	"2007"	"Unintentional"	"1"	21	41239	50.9
+	"Pettis County, MO"	"29159"	"2008"	"2008"	"Unintentional"	"1"	22	41565	52.9
+	"Pettis County, MO"	"29159"	"2009"	"2009"	"Unintentional"	"1"	17	41907	Unreliable
+	"Pettis County, MO"	"29159"	"2010"	"2010"	"Unintentional"	"1"	30	42201	71.1
+	"Pettis County, MO"	"29159"	"2011"	"2011"	"Unintentional"	"1"	22	42178	52.2
+	"Pettis County, MO"	"29159"	"2012"	"2012"	"Unintentional"	"1"	21	42319	49.6
+	"Pettis County, MO"	"29159"	"2013"	"2013"	"Unintentional"	"1"	16	42205	Unreliable
+	"Pettis County, MO"	"29159"	"2014"	"2014"	"Unintentional"	"1"	23	42225	54.5
+	"Pettis County, MO"	"29159"	"2015"	"2015"	"Unintentional"	"1"	21	42255	49.7
+	"Pettis County, MO"	"29159"	"2015"	"2015"	"Suicide"	"2"	11	42255	Unreliable
+	"Pettis County, MO"	"29159"	"2016"	"2016"	"Unintentional"	"1"	30	42213	71.1
+	"Pettis County, MO"	"29159"	"2017"	"2017"	"Unintentional"	"1"	37	42558	86.9
+	"Pettis County, MO"	"29159"	"2018"	"2018"	"Unintentional"	"1"	40	42542	94.0
+	"Phelps County, MO"	"29161"	"1999"	"1999"	"Unintentional"	"1"	24	39568	60.7
+	"Phelps County, MO"	"29161"	"2000"	"2000"	"Unintentional"	"1"	21	39825	52.7
+	"Phelps County, MO"	"29161"	"2002"	"2002"	"Unintentional"	"1"	23	41193	55.8
+	"Phelps County, MO"	"29161"	"2003"	"2003"	"Unintentional"	"1"	23	41883	54.9
+	"Phelps County, MO"	"29161"	"2004"	"2004"	"Unintentional"	"1"	21	42616	49.3
+	"Phelps County, MO"	"29161"	"2005"	"2005"	"Unintentional"	"1"	27	43327	62.3
+	"Phelps County, MO"	"29161"	"2006"	"2006"	"Unintentional"	"1"	25	44025	56.8
+	"Phelps County, MO"	"29161"	"2007"	"2007"	"Unintentional"	"1"	27	44300	60.9
+	"Phelps County, MO"	"29161"	"2008"	"2008"	"Unintentional"	"1"	23	44200	52.0
+	"Phelps County, MO"	"29161"	"2009"	"2009"	"Unintentional"	"1"	20	44540	44.9
+	"Phelps County, MO"	"29161"	"2010"	"2010"	"Unintentional"	"1"	20	45156	44.3
+	"Phelps County, MO"	"29161"	"2011"	"2011"	"Unintentional"	"1"	40	45020	88.8
+	"Phelps County, MO"	"29161"	"2012"	"2012"	"Unintentional"	"1"	41	44987	91.1
+	"Phelps County, MO"	"29161"	"2013"	"2013"	"Unintentional"	"1"	25	44807	55.8
+	"Phelps County, MO"	"29161"	"2014"	"2014"	"Unintentional"	"1"	24	44847	53.5
+	"Phelps County, MO"	"29161"	"2014"	"2014"	"Suicide"	"2"	10	44847	Unreliable
+	"Phelps County, MO"	"29161"	"2015"	"2015"	"Unintentional"	"1"	27	44794	60.3
+	"Phelps County, MO"	"29161"	"2016"	"2016"	"Unintentional"	"1"	27	44608	60.5
+	"Phelps County, MO"	"29161"	"2017"	"2017"	"Unintentional"	"1"	34	44744	76.0
+	"Phelps County, MO"	"29161"	"2017"	"2017"	"Suicide"	"2"	11	44744	Unreliable
+	"Phelps County, MO"	"29161"	"2018"	"2018"	"Unintentional"	"1"	27	44732	60.4
+	"Pike County, MO"	"29163"	"2000"	"2000"	"Unintentional"	"1"	13	18351	Unreliable
+	"Pike County, MO"	"29163"	"2001"	"2001"	"Unintentional"	"1"	12	18258	Unreliable
+	"Pike County, MO"	"29163"	"2002"	"2002"	"Unintentional"	"1"	10	18311	Unreliable
+	"Pike County, MO"	"29163"	"2003"	"2003"	"Unintentional"	"1"	14	18426	Unreliable
+	"Pike County, MO"	"29163"	"2004"	"2004"	"Unintentional"	"1"	16	18434	Unreliable
+	"Pike County, MO"	"29163"	"2005"	"2005"	"Unintentional"	"1"	14	18725	Unreliable
+	"Pike County, MO"	"29163"	"2006"	"2006"	"Unintentional"	"1"	10	18707	Unreliable
+	"Pike County, MO"	"29163"	"2007"	"2007"	"Unintentional"	"1"	11	18588	Unreliable
+	"Pike County, MO"	"29163"	"2008"	"2008"	"Unintentional"	"1"	10	18602	Unreliable
+	"Pike County, MO"	"29163"	"2010"	"2010"	"Unintentional"	"1"	11	18516	Unreliable
+	"Pike County, MO"	"29163"	"2011"	"2011"	"Unintentional"	"1"	11	18572	Unreliable
+	"Pike County, MO"	"29163"	"2012"	"2012"	"Unintentional"	"1"	10	18565	Unreliable
+	"Pike County, MO"	"29163"	"2015"	"2015"	"Unintentional"	"1"	13	18348	Unreliable
+	"Pike County, MO"	"29163"	"2016"	"2016"	"Unintentional"	"1"	11	18438	Unreliable
+	"Pike County, MO"	"29163"	"2017"	"2017"	"Unintentional"	"1"	14	18567	Unreliable
+	"Platte County, MO"	"29165"	"1999"	"1999"	"Unintentional"	"1"	17	72555	Unreliable
+	"Platte County, MO"	"29165"	"2000"	"2000"	"Unintentional"	"1"	20	73781	27.1
+	"Platte County, MO"	"29165"	"2001"	"2001"	"Unintentional"	"1"	22	76143	28.9
+	"Platte County, MO"	"29165"	"2002"	"2002"	"Unintentional"	"1"	24	77986	30.8
+	"Platte County, MO"	"29165"	"2002"	"2002"	"Suicide"	"2"	15	77986	Unreliable
+	"Platte County, MO"	"29165"	"2003"	"2003"	"Unintentional"	"1"	18	79577	Unreliable
+	"Platte County, MO"	"29165"	"2004"	"2004"	"Unintentional"	"1"	26	81106	32.1
+	"Platte County, MO"	"29165"	"2005"	"2005"	"Unintentional"	"1"	25	82615	30.3
+	"Platte County, MO"	"29165"	"2006"	"2006"	"Unintentional"	"1"	35	83913	41.7
+	"Platte County, MO"	"29165"	"2007"	"2007"	"Unintentional"	"1"	33	85656	38.5
+	"Platte County, MO"	"29165"	"2007"	"2007"	"Suicide"	"2"	11	85656	Unreliable
+	"Platte County, MO"	"29165"	"2008"	"2008"	"Unintentional"	"1"	45	87003	51.7
+	"Platte County, MO"	"29165"	"2008"	"2008"	"Suicide"	"2"	11	87003	Unreliable
+	"Platte County, MO"	"29165"	"2009"	"2009"	"Unintentional"	"1"	33	88219	37.4
+	"Platte County, MO"	"29165"	"2009"	"2009"	"Suicide"	"2"	15	88219	Unreliable
+	"Platte County, MO"	"29165"	"2010"	"2010"	"Unintentional"	"1"	33	89322	36.9
+	"Platte County, MO"	"29165"	"2011"	"2011"	"Unintentional"	"1"	31	90903	34.1
+	"Platte County, MO"	"29165"	"2011"	"2011"	"Suicide"	"2"	14	90903	Unreliable
+	"Platte County, MO"	"29165"	"2012"	"2012"	"Unintentional"	"1"	41	92054	44.5
+	"Platte County, MO"	"29165"	"2013"	"2013"	"Unintentional"	"1"	29	93310	31.1
+	"Platte County, MO"	"29165"	"2013"	"2013"	"Suicide"	"2"	15	93310	Unreliable
+	"Platte County, MO"	"29165"	"2014"	"2014"	"Unintentional"	"1"	38	94788	40.1
+	"Platte County, MO"	"29165"	"2014"	"2014"	"Suicide"	"2"	14	94788	Unreliable
+	"Platte County, MO"	"29165"	"2015"	"2015"	"Unintentional"	"1"	42	96096	43.7
+	"Platte County, MO"	"29165"	"2015"	"2015"	"Suicide"	"2"	14	96096	Unreliable
+	"Platte County, MO"	"29165"	"2016"	"2016"	"Unintentional"	"1"	39	98309	39.7
+	"Platte County, MO"	"29165"	"2016"	"2016"	"Suicide"	"2"	20	98309	20.3
+	"Platte County, MO"	"29165"	"2017"	"2017"	"Unintentional"	"1"	38	101187	37.6
+	"Platte County, MO"	"29165"	"2017"	"2017"	"Suicide"	"2"	20	101187	19.8
+	"Platte County, MO"	"29165"	"2018"	"2018"	"Unintentional"	"1"	47	102985	45.6
+	"Platte County, MO"	"29165"	"2018"	"2018"	"Suicide"	"2"	20	102985	19.4
+	"Polk County, MO"	"29167"	"1999"	"1999"	"Unintentional"	"1"	16	26707	Unreliable
+	"Polk County, MO"	"29167"	"2000"	"2000"	"Unintentional"	"1"	17	26992	Unreliable
+	"Polk County, MO"	"29167"	"2001"	"2001"	"Unintentional"	"1"	14	27421	Unreliable
+	"Polk County, MO"	"29167"	"2002"	"2002"	"Unintentional"	"1"	29	27826	104.2
+	"Polk County, MO"	"29167"	"2003"	"2003"	"Unintentional"	"1"	12	28345	Unreliable
+	"Polk County, MO"	"29167"	"2004"	"2004"	"Unintentional"	"1"	19	28690	Unreliable
+	"Polk County, MO"	"29167"	"2005"	"2005"	"Unintentional"	"1"	22	29308	75.1
+	"Polk County, MO"	"29167"	"2006"	"2006"	"Unintentional"	"1"	19	30053	Unreliable
+	"Polk County, MO"	"29167"	"2007"	"2007"	"Unintentional"	"1"	23	30576	75.2
+	"Polk County, MO"	"29167"	"2008"	"2008"	"Unintentional"	"1"	18	30790	Unreliable
+	"Polk County, MO"	"29167"	"2009"	"2009"	"Unintentional"	"1"	26	31085	83.6
+	"Polk County, MO"	"29167"	"2010"	"2010"	"Unintentional"	"1"	22	31137	70.7
+	"Polk County, MO"	"29167"	"2011"	"2011"	"Unintentional"	"1"	28	31170	89.8
+	"Polk County, MO"	"29167"	"2012"	"2012"	"Unintentional"	"1"	19	31017	Unreliable
+	"Polk County, MO"	"29167"	"2013"	"2013"	"Unintentional"	"1"	19	30974	Unreliable
+	"Polk County, MO"	"29167"	"2014"	"2014"	"Unintentional"	"1"	12	31054	Unreliable
+	"Polk County, MO"	"29167"	"2015"	"2015"	"Unintentional"	"1"	17	31229	Unreliable
+	"Polk County, MO"	"29167"	"2016"	"2016"	"Unintentional"	"1"	25	31285	79.9
+	"Polk County, MO"	"29167"	"2017"	"2017"	"Unintentional"	"1"	21	31794	66.1
+	"Polk County, MO"	"29167"	"2018"	"2018"	"Unintentional"	"1"	23	32201	71.4
+	"Pulaski County, MO"	"29169"	"1999"	"1999"	"Unintentional"	"1"	24	38967	61.6
+	"Pulaski County, MO"	"29169"	"2000"	"2000"	"Unintentional"	"1"	18	41165	Unreliable
+	"Pulaski County, MO"	"29169"	"2003"	"2003"	"Unintentional"	"1"	20	44507	44.9
+	"Pulaski County, MO"	"29169"	"2004"	"2004"	"Unintentional"	"1"	24	45301	53.0
+	"Pulaski County, MO"	"29169"	"2005"	"2005"	"Unintentional"	"1"	22	45570	48.3
+	"Pulaski County, MO"	"29169"	"2006"	"2006"	"Unintentional"	"1"	22	46482	47.3
+	"Pulaski County, MO"	"29169"	"2006"	"2006"	"Suicide"	"2"	11	46482	Unreliable
+	"Pulaski County, MO"	"29169"	"2007"	"2007"	"Unintentional"	"1"	24	47357	50.7
+	"Pulaski County, MO"	"29169"	"2007"	"2007"	"Suicide"	"2"	10	47357	Unreliable
+	"Pulaski County, MO"	"29169"	"2008"	"2008"	"Unintentional"	"1"	27	48300	55.9
+	"Pulaski County, MO"	"29169"	"2009"	"2009"	"Unintentional"	"1"	26	50630	51.4
+	"Pulaski County, MO"	"29169"	"2010"	"2010"	"Unintentional"	"1"	21	52274	40.2
+	"Pulaski County, MO"	"29169"	"2010"	"2010"	"Suicide"	"2"	10	52274	Unreliable
+	"Pulaski County, MO"	"29169"	"2011"	"2011"	"Unintentional"	"1"	28	53175	52.7
+	"Pulaski County, MO"	"29169"	"2012"	"2012"	"Unintentional"	"1"	15	53259	Unreliable
+	"Pulaski County, MO"	"29169"	"2012"	"2012"	"Suicide"	"2"	10	53259	Unreliable
+	"Pulaski County, MO"	"29169"	"2013"	"2013"	"Unintentional"	"1"	23	53748	42.8
+	"Pulaski County, MO"	"29169"	"2014"	"2014"	"Unintentional"	"1"	23	53436	43.0
+	"Pulaski County, MO"	"29169"	"2015"	"2015"	"Unintentional"	"1"	19	53221	Unreliable
+	"Pulaski County, MO"	"29169"	"2016"	"2016"	"Unintentional"	"1"	29	52654	55.1
+	"Pulaski County, MO"	"29169"	"2016"	"2016"	"Suicide"	"2"	15	52654	Unreliable
+	"Pulaski County, MO"	"29169"	"2017"	"2017"	"Unintentional"	"1"	26	52059	49.9
+	"Pulaski County, MO"	"29169"	"2017"	"2017"	"Suicide"	"2"	12	52059	Unreliable
+	"Pulaski County, MO"	"29169"	"2018"	"2018"	"Unintentional"	"1"	28	52014	53.8
+	"Randolph County, MO"	"29175"	"1999"	"1999"	"Unintentional"	"1"	22	24640	89.3
+	"Randolph County, MO"	"29175"	"2000"	"2000"	"Unintentional"	"1"	10	24663	Unreliable
+	"Randolph County, MO"	"29175"	"2001"	"2001"	"Unintentional"	"1"	18	24679	Unreliable
+	"Randolph County, MO"	"29175"	"2002"	"2002"	"Unintentional"	"1"	17	24701	Unreliable
+	"Randolph County, MO"	"29175"	"2003"	"2003"	"Unintentional"	"1"	12	25010	Unreliable
+	"Randolph County, MO"	"29175"	"2004"	"2004"	"Unintentional"	"1"	18	25211	Unreliable
+	"Randolph County, MO"	"29175"	"2005"	"2005"	"Unintentional"	"1"	11	25451	Unreliable
+	"Randolph County, MO"	"29175"	"2006"	"2006"	"Unintentional"	"1"	10	25480	Unreliable
+	"Randolph County, MO"	"29175"	"2007"	"2007"	"Unintentional"	"1"	15	25597	Unreliable
+	"Randolph County, MO"	"29175"	"2008"	"2008"	"Unintentional"	"1"	10	25597	Unreliable
+	"Randolph County, MO"	"29175"	"2009"	"2009"	"Unintentional"	"1"	13	25364	Unreliable
+	"Randolph County, MO"	"29175"	"2010"	"2010"	"Unintentional"	"1"	10	25414	Unreliable
+	"Randolph County, MO"	"29175"	"2012"	"2012"	"Unintentional"	"1"	18	25330	Unreliable
+	"Randolph County, MO"	"29175"	"2013"	"2013"	"Unintentional"	"1"	11	24940	Unreliable
+	"Randolph County, MO"	"29175"	"2014"	"2014"	"Unintentional"	"1"	14	25072	Unreliable
+	"Randolph County, MO"	"29175"	"2017"	"2017"	"Unintentional"	"1"	13	24945	Unreliable
+	"Ray County, MO"	"29177"	"1999"	"1999"	"Unintentional"	"1"	12	23291	Unreliable
+	"Ray County, MO"	"29177"	"2001"	"2001"	"Unintentional"	"1"	11	23427	Unreliable
+	"Ray County, MO"	"29177"	"2002"	"2002"	"Unintentional"	"1"	10	23538	Unreliable
+	"Ray County, MO"	"29177"	"2004"	"2004"	"Unintentional"	"1"	13	23739	Unreliable
+	"Ray County, MO"	"29177"	"2005"	"2005"	"Unintentional"	"1"	14	23605	Unreliable
+	"Ray County, MO"	"29177"	"2006"	"2006"	"Unintentional"	"1"	12	23842	Unreliable
+	"Ray County, MO"	"29177"	"2008"	"2008"	"Unintentional"	"1"	18	23764	Unreliable
+	"Ray County, MO"	"29177"	"2008"	"2008"	"Suicide"	"2"	10	23764	Unreliable
+	"Ray County, MO"	"29177"	"2009"	"2009"	"Unintentional"	"1"	20	23541	85.0
+	"Ray County, MO"	"29177"	"2010"	"2010"	"Unintentional"	"1"	12	23494	Unreliable
+	"Ray County, MO"	"29177"	"2011"	"2011"	"Unintentional"	"1"	15	23230	Unreliable
+	"Ray County, MO"	"29177"	"2012"	"2012"	"Unintentional"	"1"	17	23064	Unreliable
+	"Ray County, MO"	"29177"	"2014"	"2014"	"Unintentional"	"1"	19	22949	Unreliable
+	"Ray County, MO"	"29177"	"2016"	"2016"	"Unintentional"	"1"	19	22754	Unreliable
+	"Ray County, MO"	"29177"	"2017"	"2017"	"Unintentional"	"1"	18	22855	Unreliable
+	"Ray County, MO"	"29177"	"2018"	"2018"	"Unintentional"	"1"	16	22883	Unreliable
+	"Reynolds County, MO"	"29179"	"2006"	"2006"	"Unintentional"	"1"	11	6707	Unreliable
+	"Reynolds County, MO"	"29179"	"2015"	"2015"	"Unintentional"	"1"	14	6432	Unreliable
+	"Ripley County, MO"	"29181"	"1999"	"1999"	"Unintentional"	"1"	10	13516	Unreliable
+	"Ripley County, MO"	"29181"	"2000"	"2000"	"Unintentional"	"1"	10	13509	Unreliable
+	"Ripley County, MO"	"29181"	"2003"	"2003"	"Unintentional"	"1"	12	13752	Unreliable
+	"Ripley County, MO"	"29181"	"2005"	"2005"	"Unintentional"	"1"	13	13920	Unreliable
+	"Ripley County, MO"	"29181"	"2006"	"2006"	"Unintentional"	"1"	12	14049	Unreliable
+	"Ripley County, MO"	"29181"	"2007"	"2007"	"Unintentional"	"1"	12	14059	Unreliable
+	"Ripley County, MO"	"29181"	"2009"	"2009"	"Unintentional"	"1"	12	14033	Unreliable
+	"Ripley County, MO"	"29181"	"2011"	"2011"	"Unintentional"	"1"	14	14143	Unreliable
+	"Ripley County, MO"	"29181"	"2015"	"2015"	"Unintentional"	"1"	13	13802	Unreliable
+	"Ripley County, MO"	"29181"	"2016"	"2016"	"Unintentional"	"1"	15	13817	Unreliable
+	"Ripley County, MO"	"29181"	"2017"	"2017"	"Unintentional"	"1"	10	13564	Unreliable
+	"St. Charles County, MO"	"29183"	"1999"	"1999"	"Unintentional"	"1"	61	277961	21.9
+	"St. Charles County, MO"	"29183"	"1999"	"1999"	"Suicide"	"2"	34	277961	12.2
+	"St. Charles County, MO"	"29183"	"2000"	"2000"	"Unintentional"	"1"	88	283883	31.0
+	"St. Charles County, MO"	"29183"	"2000"	"2000"	"Suicide"	"2"	31	283883	10.9
+	"St. Charles County, MO"	"29183"	"2001"	"2001"	"Unintentional"	"1"	72	294908	24.4
+	"St. Charles County, MO"	"29183"	"2001"	"2001"	"Suicide"	"2"	26	294908	8.8
+	"St. Charles County, MO"	"29183"	"2002"	"2002"	"Unintentional"	"1"	107	303224	35.3
+	"St. Charles County, MO"	"29183"	"2002"	"2002"	"Suicide"	"2"	29	303224	9.6
+	"St. Charles County, MO"	"29183"	"2003"	"2003"	"Unintentional"	"1"	95	311405	30.5
+	"St. Charles County, MO"	"29183"	"2003"	"2003"	"Suicide"	"2"	31	311405	10.0
+	"St. Charles County, MO"	"29183"	"2004"	"2004"	"Unintentional"	"1"	120	319729	37.5
+	"St. Charles County, MO"	"29183"	"2004"	"2004"	"Suicide"	"2"	25	319729	7.8
+	"St. Charles County, MO"	"29183"	"2005"	"2005"	"Unintentional"	"1"	144	328892	43.8
+	"St. Charles County, MO"	"29183"	"2005"	"2005"	"Suicide"	"2"	28	328892	8.5
+	"St. Charles County, MO"	"29183"	"2006"	"2006"	"Unintentional"	"1"	145	337952	42.9
+	"St. Charles County, MO"	"29183"	"2006"	"2006"	"Suicide"	"2"	33	337952	9.8
+	"St. Charles County, MO"	"29183"	"2007"	"2007"	"Unintentional"	"1"	133	345395	38.5
+	"St. Charles County, MO"	"29183"	"2007"	"2007"	"Suicide"	"2"	39	345395	11.3
+	"St. Charles County, MO"	"29183"	"2008"	"2008"	"Unintentional"	"1"	128	351179	36.4
+	"St. Charles County, MO"	"29183"	"2008"	"2008"	"Suicide"	"2"	38	351179	10.8
+	"St. Charles County, MO"	"29183"	"2009"	"2009"	"Unintentional"	"1"	138	356902	38.7
+	"St. Charles County, MO"	"29183"	"2009"	"2009"	"Suicide"	"2"	47	356902	13.2
+	"St. Charles County, MO"	"29183"	"2010"	"2010"	"Unintentional"	"1"	157	360485	43.6
+	"St. Charles County, MO"	"29183"	"2010"	"2010"	"Suicide"	"2"	41	360485	11.4
+	"St. Charles County, MO"	"29183"	"2011"	"2011"	"Unintentional"	"1"	158	365151	43.3
+	"St. Charles County, MO"	"29183"	"2011"	"2011"	"Suicide"	"2"	44	365151	12.0
+	"St. Charles County, MO"	"29183"	"2012"	"2012"	"Unintentional"	"1"	149	368666	40.4
+	"St. Charles County, MO"	"29183"	"2012"	"2012"	"Suicide"	"2"	41	368666	11.1
+	"St. Charles County, MO"	"29183"	"2012"	"2012"	"Undetermined "	"4"	11	368666	Unreliable
+	"St. Charles County, MO"	"29183"	"2013"	"2013"	"Unintentional"	"1"	146	373495	39.1
+	"St. Charles County, MO"	"29183"	"2013"	"2013"	"Suicide"	"2"	52	373495	13.9
+	"St. Charles County, MO"	"29183"	"2013"	"2013"	"Undetermined "	"4"	12	373495	Unreliable
+	"St. Charles County, MO"	"29183"	"2014"	"2014"	"Unintentional"	"1"	177	379493	46.6
+	"St. Charles County, MO"	"29183"	"2014"	"2014"	"Suicide"	"2"	47	379493	12.4
+	"St. Charles County, MO"	"29183"	"2015"	"2015"	"Unintentional"	"1"	203	385590	52.6
+	"St. Charles County, MO"	"29183"	"2015"	"2015"	"Suicide"	"2"	58	385590	15.0
+	"St. Charles County, MO"	"29183"	"2016"	"2016"	"Unintentional"	"1"	215	390918	55.0
+	"St. Charles County, MO"	"29183"	"2016"	"2016"	"Suicide"	"2"	65	390918	16.6
+	"St. Charles County, MO"	"29183"	"2016"	"2016"	"Homicide"	"3"	15	390918	Unreliable
+	"St. Charles County, MO"	"29183"	"2017"	"2017"	"Unintentional"	"1"	248	395504	62.7
+	"St. Charles County, MO"	"29183"	"2017"	"2017"	"Suicide"	"2"	59	395504	14.9
+	"St. Charles County, MO"	"29183"	"2018"	"2018"	"Unintentional"	"1"	270	399182	67.6
+	"St. Charles County, MO"	"29183"	"2018"	"2018"	"Suicide"	"2"	58	399182	14.5
+	"St. Charles County, MO"	"29183"	"2018"	"2018"	"Homicide"	"3"	13	399182	Unreliable
+	"St. Clair County, MO"	"29185"	"2003"	"2003"	"Unintentional"	"1"	11	9656	Unreliable
+	"St. Clair County, MO"	"29185"	"2007"	"2007"	"Unintentional"	"1"	12	9802	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2000"	"2000"	"Unintentional"	"1"	10	17842	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2001"	"2001"	"Unintentional"	"1"	17	18013	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2002"	"2002"	"Unintentional"	"1"	12	18039	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2003"	"2003"	"Unintentional"	"1"	10	18161	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2004"	"2004"	"Unintentional"	"1"	13	18218	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2005"	"2005"	"Unintentional"	"1"	12	18233	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2006"	"2006"	"Unintentional"	"1"	10	18263	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2008"	"2008"	"Unintentional"	"1"	13	18186	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2009"	"2009"	"Unintentional"	"1"	11	18156	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2011"	"2011"	"Unintentional"	"1"	19	18124	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2013"	"2013"	"Unintentional"	"1"	10	17778	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2014"	"2014"	"Unintentional"	"1"	12	17914	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2015"	"2015"	"Unintentional"	"1"	10	17919	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2016"	"2016"	"Unintentional"	"1"	10	18030	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2017"	"2017"	"Unintentional"	"1"	17	17843	Unreliable
+	"Ste. Genevieve County, MO"	"29186"	"2018"	"2018"	"Unintentional"	"1"	14	17888	Unreliable
+	"St. Francois County, MO"	"29187"	"1999"	"1999"	"Unintentional"	"1"	33	55345	59.6
+	"St. Francois County, MO"	"29187"	"2000"	"2000"	"Unintentional"	"1"	29	55641	52.1
+	"St. Francois County, MO"	"29187"	"2001"	"2001"	"Unintentional"	"1"	37	56242	65.8
+	"St. Francois County, MO"	"29187"	"2002"	"2002"	"Unintentional"	"1"	38	56823	66.9
+	"St. Francois County, MO"	"29187"	"2003"	"2003"	"Unintentional"	"1"	37	58118	63.7
+	"St. Francois County, MO"	"29187"	"2003"	"2003"	"Suicide"	"2"	11	58118	Unreliable
+	"St. Francois County, MO"	"29187"	"2004"	"2004"	"Unintentional"	"1"	49	60829	80.6
+	"St. Francois County, MO"	"29187"	"2004"	"2004"	"Suicide"	"2"	15	60829	Unreliable
+	"St. Francois County, MO"	"29187"	"2005"	"2005"	"Unintentional"	"1"	42	62298	67.4
+	"St. Francois County, MO"	"29187"	"2006"	"2006"	"Unintentional"	"1"	49	62917	77.9
+	"St. Francois County, MO"	"29187"	"2007"	"2007"	"Unintentional"	"1"	46	63636	72.3
+	"St. Francois County, MO"	"29187"	"2007"	"2007"	"Suicide"	"2"	10	63636	Unreliable
+	"St. Francois County, MO"	"29187"	"2008"	"2008"	"Unintentional"	"1"	52	64280	80.9
+	"St. Francois County, MO"	"29187"	"2008"	"2008"	"Suicide"	"2"	11	64280	Unreliable
+	"St. Francois County, MO"	"29187"	"2009"	"2009"	"Unintentional"	"1"	47	64864	72.5
+	"St. Francois County, MO"	"29187"	"2009"	"2009"	"Suicide"	"2"	10	64864	Unreliable
+	"St. Francois County, MO"	"29187"	"2010"	"2010"	"Unintentional"	"1"	40	65359	61.2
+	"St. Francois County, MO"	"29187"	"2011"	"2011"	"Unintentional"	"1"	48	65577	73.2
+	"St. Francois County, MO"	"29187"	"2011"	"2011"	"Suicide"	"2"	11	65577	Unreliable
+	"St. Francois County, MO"	"29187"	"2012"	"2012"	"Unintentional"	"1"	50	65917	75.9
+	"St. Francois County, MO"	"29187"	"2012"	"2012"	"Suicide"	"2"	16	65917	Unreliable
+	"St. Francois County, MO"	"29187"	"2013"	"2013"	"Unintentional"	"1"	44	66215	66.5
+	"St. Francois County, MO"	"29187"	"2014"	"2014"	"Unintentional"	"1"	58	65960	87.9
+	"St. Francois County, MO"	"29187"	"2015"	"2015"	"Unintentional"	"1"	37	66520	55.6
+	"St. Francois County, MO"	"29187"	"2015"	"2015"	"Suicide"	"2"	13	66520	Unreliable
+	"St. Francois County, MO"	"29187"	"2016"	"2016"	"Unintentional"	"1"	47	66627	70.5
+	"St. Francois County, MO"	"29187"	"2016"	"2016"	"Suicide"	"2"	11	66627	Unreliable
+	"St. Francois County, MO"	"29187"	"2017"	"2017"	"Unintentional"	"1"	39	66705	58.5
+	"St. Francois County, MO"	"29187"	"2017"	"2017"	"Suicide"	"2"	14	66705	Unreliable
+	"St. Francois County, MO"	"29187"	"2018"	"2018"	"Unintentional"	"1"	36	66692	54.0
+	"St. Francois County, MO"	"29187"	"2018"	"2018"	"Suicide"	"2"	22	66692	33.0
+	"St. Louis County, MO"	"29189"	"1999"	"1999"	"Unintentional"	"1"	310	1016040	30.5
+	"St. Louis County, MO"	"29189"	"1999"	"1999"	"Suicide"	"2"	109	1016040	10.7
+	"St. Louis County, MO"	"29189"	"1999"	"1999"	"Homicide"	"3"	47	1016040	4.6
+	"St. Louis County, MO"	"29189"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	10	1016040	Unreliable
+	"St. Louis County, MO"	"29189"	"2000"	"2000"	"Unintentional"	"1"	298	1016315	29.3
+	"St. Louis County, MO"	"29189"	"2000"	"2000"	"Suicide"	"2"	94	1016315	9.2
+	"St. Louis County, MO"	"29189"	"2000"	"2000"	"Homicide"	"3"	57	1016315	5.6
+	"St. Louis County, MO"	"29189"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	12	1016315	Unreliable
+	"St. Louis County, MO"	"29189"	"2001"	"2001"	"Unintentional"	"1"	297	1016243	29.2
+	"St. Louis County, MO"	"29189"	"2001"	"2001"	"Suicide"	"2"	124	1016243	12.2
+	"St. Louis County, MO"	"29189"	"2001"	"2001"	"Homicide"	"3"	59	1016243	5.8
+	"St. Louis County, MO"	"29189"	"2001"	"2001"	"Undetermined "	"4"	13	1016243	Unreliable
+	"St. Louis County, MO"	"29189"	"2002"	"2002"	"Unintentional"	"1"	300	1014359	29.6
+	"St. Louis County, MO"	"29189"	"2002"	"2002"	"Suicide"	"2"	102	1014359	10.1
+	"St. Louis County, MO"	"29189"	"2002"	"2002"	"Homicide"	"3"	72	1014359	7.1
+	"St. Louis County, MO"	"29189"	"2003"	"2003"	"Unintentional"	"1"	349	1011678	34.5
+	"St. Louis County, MO"	"29189"	"2003"	"2003"	"Suicide"	"2"	102	1011678	10.1
+	"St. Louis County, MO"	"29189"	"2003"	"2003"	"Homicide"	"3"	62	1011678	6.1
+	"St. Louis County, MO"	"29189"	"2003"	"2003"	"Undetermined "	"4"	12	1011678	Unreliable
+	"St. Louis County, MO"	"29189"	"2004"	"2004"	"Unintentional"	"1"	353	1007813	35.0
+	"St. Louis County, MO"	"29189"	"2004"	"2004"	"Suicide"	"2"	103	1007813	10.2
+	"St. Louis County, MO"	"29189"	"2004"	"2004"	"Homicide"	"3"	63	1007813	6.3
+	"St. Louis County, MO"	"29189"	"2005"	"2005"	"Unintentional"	"1"	345	1004109	34.4
+	"St. Louis County, MO"	"29189"	"2005"	"2005"	"Suicide"	"2"	101	1004109	10.1
+	"St. Louis County, MO"	"29189"	"2005"	"2005"	"Homicide"	"3"	74	1004109	7.4
+	"St. Louis County, MO"	"29189"	"2006"	"2006"	"Unintentional"	"1"	396	1002050	39.5
+	"St. Louis County, MO"	"29189"	"2006"	"2006"	"Suicide"	"2"	97	1002050	9.7
+	"St. Louis County, MO"	"29189"	"2006"	"2006"	"Homicide"	"3"	74	1002050	7.4
+	"St. Louis County, MO"	"29189"	"2006"	"2006"	"Undetermined "	"4"	12	1002050	Unreliable
+	"St. Louis County, MO"	"29189"	"2007"	"2007"	"Unintentional"	"1"	345	999389	34.5
+	"St. Louis County, MO"	"29189"	"2007"	"2007"	"Suicide"	"2"	104	999389	10.4
+	"St. Louis County, MO"	"29189"	"2007"	"2007"	"Homicide"	"3"	76	999389	7.6
+	"St. Louis County, MO"	"29189"	"2007"	"2007"	"Undetermined "	"4"	12	999389	Unreliable
+	"St. Louis County, MO"	"29189"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	12	999389	Unreliable
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Unintentional"	"1"	398	998331	39.9
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Suicide"	"2"	106	998331	10.6
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Homicide"	"3"	89	998331	8.9
+	"St. Louis County, MO"	"29189"	"2008"	"2008"	"Undetermined "	"4"	11	998331	Unreliable
+	"St. Louis County, MO"	"29189"	"2009"	"2009"	"Unintentional"	"1"	367	998618	36.8
+	"St. Louis County, MO"	"29189"	"2009"	"2009"	"Suicide"	"2"	129	998618	12.9
+	"St. Louis County, MO"	"29189"	"2009"	"2009"	"Homicide"	"3"	82	998618	8.2
+	"St. Louis County, MO"	"29189"	"2009"	"2009"	"Undetermined "	"4"	14	998618	Unreliable
+	"St. Louis County, MO"	"29189"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	11	998618	Unreliable
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Unintentional"	"1"	403	998954	40.3
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Suicide"	"2"	124	998954	12.4
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Homicide"	"3"	81	998954	8.1
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Undetermined "	"4"	10	998954	Unreliable
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	11	998954	Unreliable
+	"St. Louis County, MO"	"29189"	"2011"	"2011"	"Unintentional"	"1"	466	998692	46.7
+	"St. Louis County, MO"	"29189"	"2011"	"2011"	"Suicide"	"2"	136	998692	13.6
+	"St. Louis County, MO"	"29189"	"2011"	"2011"	"Homicide"	"3"	75	998692	7.5
+	"St. Louis County, MO"	"29189"	"2011"	"2011"	"Undetermined "	"4"	20	998692	2.0
+	"St. Louis County, MO"	"29189"	"2012"	"2012"	"Unintentional"	"1"	400	1000438	40.0
+	"St. Louis County, MO"	"29189"	"2012"	"2012"	"Suicide"	"2"	136	1000438	13.6
+	"St. Louis County, MO"	"29189"	"2012"	"2012"	"Homicide"	"3"	85	1000438	8.5
+	"St. Louis County, MO"	"29189"	"2012"	"2012"	"Undetermined "	"4"	17	1000438	Unreliable
+	"St. Louis County, MO"	"29189"	"2013"	"2013"	"Unintentional"	"1"	459	1001444	45.8
+	"St. Louis County, MO"	"29189"	"2013"	"2013"	"Suicide"	"2"	134	1001444	13.4
+	"St. Louis County, MO"	"29189"	"2013"	"2013"	"Homicide"	"3"	82	1001444	8.2
+	"St. Louis County, MO"	"29189"	"2013"	"2013"	"Undetermined "	"4"	16	1001444	Unreliable
+	"St. Louis County, MO"	"29189"	"2014"	"2014"	"Unintentional"	"1"	517	1001876	51.6
+	"St. Louis County, MO"	"29189"	"2014"	"2014"	"Suicide"	"2"	156	1001876	15.6
+	"St. Louis County, MO"	"29189"	"2014"	"2014"	"Homicide"	"3"	91	1001876	9.1
+	"St. Louis County, MO"	"29189"	"2014"	"2014"	"Undetermined "	"4"	14	1001876	Unreliable
+	"St. Louis County, MO"	"29189"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	11	1001876	Unreliable
+	"St. Louis County, MO"	"29189"	"2015"	"2015"	"Unintentional"	"1"	511	1003362	50.9
+	"St. Louis County, MO"	"29189"	"2015"	"2015"	"Suicide"	"2"	131	1003362	13.1
+	"St. Louis County, MO"	"29189"	"2015"	"2015"	"Homicide"	"3"	131	1003362	13.1
+	"St. Louis County, MO"	"29189"	"2015"	"2015"	"Undetermined "	"4"	15	1003362	Unreliable
+	"St. Louis County, MO"	"29189"	"2016"	"2016"	"Unintentional"	"1"	606	998581	60.7
+	"St. Louis County, MO"	"29189"	"2016"	"2016"	"Suicide"	"2"	130	998581	13.0
+	"St. Louis County, MO"	"29189"	"2016"	"2016"	"Homicide"	"3"	124	998581	12.4
+	"St. Louis County, MO"	"29189"	"2016"	"2016"	"Undetermined "	"4"	14	998581	Unreliable
+	"St. Louis County, MO"	"29189"	"2017"	"2017"	"Unintentional"	"1"	648	996726	65.0
+	"St. Louis County, MO"	"29189"	"2017"	"2017"	"Suicide"	"2"	140	996726	14.0
+	"St. Louis County, MO"	"29189"	"2017"	"2017"	"Homicide"	"3"	149	996726	14.9
+	"St. Louis County, MO"	"29189"	"2017"	"2017"	"Undetermined "	"4"	12	996726	Unreliable
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	"Unintentional"	"1"	697	996945	69.9
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	"Suicide"	"2"	150	996945	15.0
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	"Homicide"	"3"	163	996945	16.3
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	"Undetermined "	"4"	16	996945	Unreliable
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	20	996945	2.0
+	"Saline County, MO"	"29195"	"1999"	"1999"	"Unintentional"	"1"	12	23743	Unreliable
+	"Saline County, MO"	"29195"	"2000"	"2000"	"Unintentional"	"1"	10	23756	Unreliable
+	"Saline County, MO"	"29195"	"2004"	"2004"	"Unintentional"	"1"	10	23058	Unreliable
+	"Saline County, MO"	"29195"	"2005"	"2005"	"Unintentional"	"1"	12	23053	Unreliable
+	"Saline County, MO"	"29195"	"2006"	"2006"	"Unintentional"	"1"	12	23008	Unreliable
+	"Saline County, MO"	"29195"	"2007"	"2007"	"Unintentional"	"1"	12	23029	Unreliable
+	"Saline County, MO"	"29195"	"2008"	"2008"	"Unintentional"	"1"	12	22967	Unreliable
+	"Saline County, MO"	"29195"	"2009"	"2009"	"Unintentional"	"1"	13	23221	Unreliable
+	"Saline County, MO"	"29195"	"2011"	"2011"	"Unintentional"	"1"	12	23280	Unreliable
+	"Saline County, MO"	"29195"	"2012"	"2012"	"Unintentional"	"1"	12	23339	Unreliable
+	"Saline County, MO"	"29195"	"2013"	"2013"	"Unintentional"	"1"	19	23252	Unreliable
+	"Saline County, MO"	"29195"	"2014"	"2014"	"Unintentional"	"1"	16	23347	Unreliable
+	"Saline County, MO"	"29195"	"2016"	"2016"	"Unintentional"	"1"	11	22980	Unreliable
+	"Saline County, MO"	"29195"	"2017"	"2017"	"Unintentional"	"1"	16	22660	Unreliable
+	"Scott County, MO"	"29201"	"1999"	"1999"	"Unintentional"	"1"	12	40464	Unreliable
+	"Scott County, MO"	"29201"	"2000"	"2000"	"Unintentional"	"1"	19	40422	Unreliable
+	"Scott County, MO"	"29201"	"2001"	"2001"	"Unintentional"	"1"	16	40206	Unreliable
+	"Scott County, MO"	"29201"	"2002"	"2002"	"Unintentional"	"1"	27	39885	67.7
+	"Scott County, MO"	"29201"	"2003"	"2003"	"Unintentional"	"1"	27	39850	67.8
+	"Scott County, MO"	"29201"	"2004"	"2004"	"Unintentional"	"1"	23	39704	57.9
+	"Scott County, MO"	"29201"	"2005"	"2005"	"Unintentional"	"1"	19	39719	Unreliable
+	"Scott County, MO"	"29201"	"2006"	"2006"	"Unintentional"	"1"	27	39626	68.1
+	"Scott County, MO"	"29201"	"2007"	"2007"	"Unintentional"	"1"	18	39509	Unreliable
+	"Scott County, MO"	"29201"	"2007"	"2007"	"Suicide"	"2"	11	39509	Unreliable
+	"Scott County, MO"	"29201"	"2008"	"2008"	"Unintentional"	"1"	21	39293	53.4
+	"Scott County, MO"	"29201"	"2009"	"2009"	"Unintentional"	"1"	23	39185	58.7
+	"Scott County, MO"	"29201"	"2010"	"2010"	"Unintentional"	"1"	22	39191	56.1
+	"Scott County, MO"	"29201"	"2011"	"2011"	"Unintentional"	"1"	22	39136	56.2
+	"Scott County, MO"	"29201"	"2012"	"2012"	"Unintentional"	"1"	15	39139	Unreliable
+	"Scott County, MO"	"29201"	"2013"	"2013"	"Unintentional"	"1"	23	39290	58.5
+	"Scott County, MO"	"29201"	"2014"	"2014"	"Unintentional"	"1"	26	38903	66.8
+	"Scott County, MO"	"29201"	"2015"	"2015"	"Unintentional"	"1"	25	39008	64.1
+	"Scott County, MO"	"29201"	"2015"	"2015"	"Suicide"	"2"	10	39008	Unreliable
+	"Scott County, MO"	"29201"	"2016"	"2016"	"Unintentional"	"1"	25	38745	64.5
+	"Scott County, MO"	"29201"	"2016"	"2016"	"Suicide"	"2"	13	38745	Unreliable
+	"Scott County, MO"	"29201"	"2017"	"2017"	"Unintentional"	"1"	21	38541	54.5
+	"Scott County, MO"	"29201"	"2018"	"2018"	"Unintentional"	"1"	20	38458	52.0
+	"Scott County, MO"	"29201"	"2018"	"2018"	"Suicide"	"2"	12	38458	Unreliable
+	"Shannon County, MO"	"29203"	"2002"	"2002"	"Unintentional"	"1"	11	8273	Unreliable
+	"Shannon County, MO"	"29203"	"2009"	"2009"	"Unintentional"	"1"	10	8446	Unreliable
+	"Stoddard County, MO"	"29207"	"1999"	"1999"	"Unintentional"	"1"	24	29721	80.8
+	"Stoddard County, MO"	"29207"	"2000"	"2000"	"Unintentional"	"1"	19	29705	Unreliable
+	"Stoddard County, MO"	"29207"	"2001"	"2001"	"Unintentional"	"1"	24	29772	80.6
+	"Stoddard County, MO"	"29207"	"2002"	"2002"	"Unintentional"	"1"	10	29976	Unreliable
+	"Stoddard County, MO"	"29207"	"2003"	"2003"	"Unintentional"	"1"	18	29908	Unreliable
+	"Stoddard County, MO"	"29207"	"2004"	"2004"	"Unintentional"	"1"	18	30064	Unreliable
+	"Stoddard County, MO"	"29207"	"2005"	"2005"	"Unintentional"	"1"	21	30240	69.4
+	"Stoddard County, MO"	"29207"	"2006"	"2006"	"Unintentional"	"1"	21	30314	69.3
+	"Stoddard County, MO"	"29207"	"2007"	"2007"	"Unintentional"	"1"	18	30253	Unreliable
+	"Stoddard County, MO"	"29207"	"2008"	"2008"	"Unintentional"	"1"	16	30062	Unreliable
+	"Stoddard County, MO"	"29207"	"2009"	"2009"	"Unintentional"	"1"	16	29821	Unreliable
+	"Stoddard County, MO"	"29207"	"2010"	"2010"	"Unintentional"	"1"	12	29968	Unreliable
+	"Stoddard County, MO"	"29207"	"2011"	"2011"	"Unintentional"	"1"	14	29807	Unreliable
+	"Stoddard County, MO"	"29207"	"2012"	"2012"	"Unintentional"	"1"	16	29795	Unreliable
+	"Stoddard County, MO"	"29207"	"2013"	"2013"	"Unintentional"	"1"	12	29780	Unreliable
+	"Stoddard County, MO"	"29207"	"2014"	"2014"	"Unintentional"	"1"	10	29867	Unreliable
+	"Stoddard County, MO"	"29207"	"2015"	"2015"	"Unintentional"	"1"	26	29862	87.1
+	"Stoddard County, MO"	"29207"	"2016"	"2016"	"Unintentional"	"1"	20	29588	67.6
+	"Stoddard County, MO"	"29207"	"2017"	"2017"	"Unintentional"	"1"	17	29369	Unreliable
+	"Stoddard County, MO"	"29207"	"2018"	"2018"	"Unintentional"	"1"	23	29206	78.8
+	"Stone County, MO"	"29209"	"1999"	"1999"	"Unintentional"	"1"	14	28170	Unreliable
+	"Stone County, MO"	"29209"	"2001"	"2001"	"Unintentional"	"1"	11	28841	Unreliable
+	"Stone County, MO"	"29209"	"2002"	"2002"	"Unintentional"	"1"	18	29347	Unreliable
+	"Stone County, MO"	"29209"	"2003"	"2003"	"Unintentional"	"1"	24	30044	79.9
+	"Stone County, MO"	"29209"	"2004"	"2004"	"Unintentional"	"1"	24	30542	78.6
+	"Stone County, MO"	"29209"	"2005"	"2005"	"Unintentional"	"1"	23	30800	74.7
+	"Stone County, MO"	"29209"	"2006"	"2006"	"Unintentional"	"1"	16	31546	Unreliable
+	"Stone County, MO"	"29209"	"2008"	"2008"	"Unintentional"	"1"	14	32119	Unreliable
+	"Stone County, MO"	"29209"	"2009"	"2009"	"Unintentional"	"1"	22	32214	68.3
+	"Stone County, MO"	"29209"	"2010"	"2010"	"Unintentional"	"1"	21	32202	65.2
+	"Stone County, MO"	"29209"	"2011"	"2011"	"Unintentional"	"1"	14	32263	Unreliable
+	"Stone County, MO"	"29209"	"2012"	"2012"	"Unintentional"	"1"	23	31568	72.9
+	"Stone County, MO"	"29209"	"2013"	"2013"	"Unintentional"	"1"	22	31297	70.3
+	"Stone County, MO"	"29209"	"2014"	"2014"	"Unintentional"	"1"	19	31104	Unreliable
+	"Stone County, MO"	"29209"	"2014"	"2014"	"Suicide"	"2"	10	31104	Unreliable
+	"Stone County, MO"	"29209"	"2015"	"2015"	"Unintentional"	"1"	19	30943	Unreliable
+	"Stone County, MO"	"29209"	"2016"	"2016"	"Unintentional"	"1"	22	31047	70.9
+	"Stone County, MO"	"29209"	"2016"	"2016"	"Suicide"	"2"	19	31047	Unreliable
+	"Stone County, MO"	"29209"	"2017"	"2017"	"Unintentional"	"1"	20	31699	63.1
+	"Stone County, MO"	"29209"	"2018"	"2018"	"Unintentional"	"1"	21	31749	66.1
+	"Sullivan County, MO"	"29211"	"2002"	"2002"	"Unintentional"	"1"	10	7247	Unreliable
+	"Taney County, MO"	"29213"	"1999"	"1999"	"Unintentional"	"1"	29	38743	74.9
+	"Taney County, MO"	"29213"	"2000"	"2000"	"Unintentional"	"1"	28	39703	70.5
+	"Taney County, MO"	"29213"	"2001"	"2001"	"Unintentional"	"1"	16	40609	Unreliable
+	"Taney County, MO"	"29213"	"2002"	"2002"	"Unintentional"	"1"	21	41554	50.5
+	"Taney County, MO"	"29213"	"2003"	"2003"	"Unintentional"	"1"	20	42447	47.1
+	"Taney County, MO"	"29213"	"2004"	"2004"	"Unintentional"	"1"	38	43381	87.6
+	"Taney County, MO"	"29213"	"2005"	"2005"	"Unintentional"	"1"	28	44635	62.7
+	"Taney County, MO"	"29213"	"2005"	"2005"	"Suicide"	"2"	11	44635	Unreliable
+	"Taney County, MO"	"29213"	"2006"	"2006"	"Unintentional"	"1"	23	46200	49.8
+	"Taney County, MO"	"29213"	"2007"	"2007"	"Unintentional"	"1"	27	48020	56.2
+	"Taney County, MO"	"29213"	"2008"	"2008"	"Unintentional"	"1"	26	49711	52.3
+	"Taney County, MO"	"29213"	"2009"	"2009"	"Unintentional"	"1"	18	50794	Unreliable
+	"Taney County, MO"	"29213"	"2010"	"2010"	"Unintentional"	"1"	23	51675	44.5
+	"Taney County, MO"	"29213"	"2011"	"2011"	"Unintentional"	"1"	16	52736	Unreliable
+	"Taney County, MO"	"29213"	"2012"	"2012"	"Unintentional"	"1"	17	52956	Unreliable
+	"Taney County, MO"	"29213"	"2013"	"2013"	"Unintentional"	"1"	27	53575	50.4
+	"Taney County, MO"	"29213"	"2014"	"2014"	"Unintentional"	"1"	24	54230	44.3
+	"Taney County, MO"	"29213"	"2015"	"2015"	"Unintentional"	"1"	28	54592	51.3
+	"Taney County, MO"	"29213"	"2015"	"2015"	"Suicide"	"2"	13	54592	Unreliable
+	"Taney County, MO"	"29213"	"2016"	"2016"	"Unintentional"	"1"	26	54735	47.5
+	"Taney County, MO"	"29213"	"2016"	"2016"	"Suicide"	"2"	15	54735	Unreliable
+	"Taney County, MO"	"29213"	"2017"	"2017"	"Unintentional"	"1"	43	55355	77.7
+	"Taney County, MO"	"29213"	"2017"	"2017"	"Suicide"	"2"	12	55355	Unreliable
+	"Taney County, MO"	"29213"	"2018"	"2018"	"Unintentional"	"1"	30	55852	53.7
+	"Taney County, MO"	"29213"	"2018"	"2018"	"Suicide"	"2"	10	55852	Unreliable
+	"Texas County, MO"	"29215"	"1999"	"1999"	"Unintentional"	"1"	12	22940	Unreliable
+	"Texas County, MO"	"29215"	"2000"	"2000"	"Unintentional"	"1"	23	23003	100.0
+	"Texas County, MO"	"29215"	"2001"	"2001"	"Unintentional"	"1"	13	24174	Unreliable
+	"Texas County, MO"	"29215"	"2002"	"2002"	"Unintentional"	"1"	16	24464	Unreliable
+	"Texas County, MO"	"29215"	"2003"	"2003"	"Unintentional"	"1"	15	24388	Unreliable
+	"Texas County, MO"	"29215"	"2004"	"2004"	"Unintentional"	"1"	14	24845	Unreliable
+	"Texas County, MO"	"29215"	"2005"	"2005"	"Unintentional"	"1"	20	24961	80.1
+	"Texas County, MO"	"29215"	"2006"	"2006"	"Unintentional"	"1"	14	25385	Unreliable
+	"Texas County, MO"	"29215"	"2007"	"2007"	"Unintentional"	"1"	13	25490	Unreliable
+	"Texas County, MO"	"29215"	"2008"	"2008"	"Unintentional"	"1"	21	25597	82.0
+	"Texas County, MO"	"29215"	"2009"	"2009"	"Unintentional"	"1"	22	25790	85.3
+	"Texas County, MO"	"29215"	"2010"	"2010"	"Unintentional"	"1"	16	26008	Unreliable
+	"Texas County, MO"	"29215"	"2012"	"2012"	"Unintentional"	"1"	17	25810	Unreliable
+	"Texas County, MO"	"29215"	"2013"	"2013"	"Unintentional"	"1"	14	25636	Unreliable
+	"Texas County, MO"	"29215"	"2014"	"2014"	"Unintentional"	"1"	16	25642	Unreliable
+	"Texas County, MO"	"29215"	"2015"	"2015"	"Unintentional"	"1"	23	25690	89.5
+	"Texas County, MO"	"29215"	"2016"	"2016"	"Unintentional"	"1"	13	25775	Unreliable
+	"Texas County, MO"	"29215"	"2017"	"2017"	"Unintentional"	"1"	17	25735	Unreliable
+	"Texas County, MO"	"29215"	"2018"	"2018"	"Unintentional"	"1"	16	25571	Unreliable
+	"Vernon County, MO"	"29217"	"1999"	"1999"	"Unintentional"	"1"	13	20427	Unreliable
+	"Vernon County, MO"	"29217"	"2000"	"2000"	"Unintentional"	"1"	12	20454	Unreliable
+	"Vernon County, MO"	"29217"	"2002"	"2002"	"Unintentional"	"1"	12	20454	Unreliable
+	"Vernon County, MO"	"29217"	"2003"	"2003"	"Unintentional"	"1"	15	20481	Unreliable
+	"Vernon County, MO"	"29217"	"2004"	"2004"	"Unintentional"	"1"	12	20620	Unreliable
+	"Vernon County, MO"	"29217"	"2005"	"2005"	"Unintentional"	"1"	16	20722	Unreliable
+	"Vernon County, MO"	"29217"	"2006"	"2006"	"Unintentional"	"1"	16	20715	Unreliable
+	"Vernon County, MO"	"29217"	"2007"	"2007"	"Unintentional"	"1"	18	20746	Unreliable
+	"Vernon County, MO"	"29217"	"2008"	"2008"	"Unintentional"	"1"	22	20891	105.3
+	"Vernon County, MO"	"29217"	"2011"	"2011"	"Unintentional"	"1"	15	20963	Unreliable
+	"Vernon County, MO"	"29217"	"2012"	"2012"	"Unintentional"	"1"	16	20748	Unreliable
+	"Vernon County, MO"	"29217"	"2013"	"2013"	"Unintentional"	"1"	12	20949	Unreliable
+	"Vernon County, MO"	"29217"	"2014"	"2014"	"Unintentional"	"1"	17	21001	Unreliable
+	"Vernon County, MO"	"29217"	"2017"	"2017"	"Unintentional"	"1"	20	20437	97.9
+	"Vernon County, MO"	"29217"	"2018"	"2018"	"Unintentional"	"1"	12	20528	Unreliable
+	"Warren County, MO"	"29219"	"2001"	"2001"	"Unintentional"	"1"	18	25426	Unreliable
+	"Warren County, MO"	"29219"	"2002"	"2002"	"Unintentional"	"1"	13	26266	Unreliable
+	"Warren County, MO"	"29219"	"2003"	"2003"	"Unintentional"	"1"	19	27169	Unreliable
+	"Warren County, MO"	"29219"	"2004"	"2004"	"Unintentional"	"1"	26	27971	93.0
+	"Warren County, MO"	"29219"	"2005"	"2005"	"Unintentional"	"1"	10	29095	Unreliable
+	"Warren County, MO"	"29219"	"2006"	"2006"	"Unintentional"	"1"	17	30175	Unreliable
+	"Warren County, MO"	"29219"	"2007"	"2007"	"Unintentional"	"1"	19	31152	Unreliable
+	"Warren County, MO"	"29219"	"2008"	"2008"	"Unintentional"	"1"	19	31975	Unreliable
+	"Warren County, MO"	"29219"	"2009"	"2009"	"Unintentional"	"1"	31	32320	95.9
+	"Warren County, MO"	"29219"	"2010"	"2010"	"Unintentional"	"1"	22	32513	67.7
+	"Warren County, MO"	"29219"	"2011"	"2011"	"Unintentional"	"1"	15	32515	Unreliable
+	"Warren County, MO"	"29219"	"2012"	"2012"	"Unintentional"	"1"	12	32753	Unreliable
+	"Warren County, MO"	"29219"	"2013"	"2013"	"Unintentional"	"1"	26	32999	78.8
+	"Warren County, MO"	"29219"	"2014"	"2014"	"Unintentional"	"1"	20	33253	60.1
+	"Warren County, MO"	"29219"	"2015"	"2015"	"Unintentional"	"1"	27	33513	80.6
+	"Warren County, MO"	"29219"	"2016"	"2016"	"Unintentional"	"1"	23	33802	68.0
+	"Warren County, MO"	"29219"	"2017"	"2017"	"Unintentional"	"1"	18	34373	Unreliable
+	"Warren County, MO"	"29219"	"2017"	"2017"	"Suicide"	"2"	11	34373	Unreliable
+	"Warren County, MO"	"29219"	"2018"	"2018"	"Unintentional"	"1"	26	34711	74.9
+	"Washington County, MO"	"29221"	"1999"	"1999"	"Unintentional"	"1"	10	23067	Unreliable
+	"Washington County, MO"	"29221"	"2000"	"2000"	"Unintentional"	"1"	14	23344	Unreliable
+	"Washington County, MO"	"29221"	"2001"	"2001"	"Unintentional"	"1"	14	23514	Unreliable
+	"Washington County, MO"	"29221"	"2002"	"2002"	"Unintentional"	"1"	16	23796	Unreliable
+	"Washington County, MO"	"29221"	"2003"	"2003"	"Unintentional"	"1"	11	23956	Unreliable
+	"Washington County, MO"	"29221"	"2004"	"2004"	"Unintentional"	"1"	14	24174	Unreliable
+	"Washington County, MO"	"29221"	"2005"	"2005"	"Unintentional"	"1"	24	24211	99.1
+	"Washington County, MO"	"29221"	"2006"	"2006"	"Unintentional"	"1"	26	24619	105.6
+	"Washington County, MO"	"29221"	"2007"	"2007"	"Unintentional"	"1"	25	24856	100.6
+	"Washington County, MO"	"29221"	"2008"	"2008"	"Unintentional"	"1"	22	25113	87.6
+	"Washington County, MO"	"29221"	"2009"	"2009"	"Unintentional"	"1"	20	25111	79.6
+	"Washington County, MO"	"29221"	"2010"	"2010"	"Unintentional"	"1"	16	25195	Unreliable
+	"Washington County, MO"	"29221"	"2011"	"2011"	"Unintentional"	"1"	12	25076	Unreliable
+	"Washington County, MO"	"29221"	"2012"	"2012"	"Unintentional"	"1"	18	25095	Unreliable
+	"Washington County, MO"	"29221"	"2013"	"2013"	"Unintentional"	"1"	24	25172	95.3
+	"Washington County, MO"	"29221"	"2014"	"2014"	"Unintentional"	"1"	20	25077	79.8
+	"Washington County, MO"	"29221"	"2015"	"2015"	"Unintentional"	"1"	26	24788	104.9
+	"Washington County, MO"	"29221"	"2016"	"2016"	"Unintentional"	"1"	13	24839	Unreliable
+	"Washington County, MO"	"29221"	"2017"	"2017"	"Unintentional"	"1"	27	25022	107.9
+	"Washington County, MO"	"29221"	"2018"	"2018"	"Unintentional"	"1"	17	24943	Unreliable
+	"Wayne County, MO"	"29223"	"2002"	"2002"	"Unintentional"	"1"	17	13318	Unreliable
+	"Wayne County, MO"	"29223"	"2003"	"2003"	"Unintentional"	"1"	16	13435	Unreliable
+	"Wayne County, MO"	"29223"	"2004"	"2004"	"Unintentional"	"1"	12	13394	Unreliable
+	"Wayne County, MO"	"29223"	"2005"	"2005"	"Unintentional"	"1"	10	13514	Unreliable
+	"Wayne County, MO"	"29223"	"2007"	"2007"	"Unintentional"	"1"	11	13356	Unreliable
+	"Wayne County, MO"	"29223"	"2009"	"2009"	"Unintentional"	"1"	14	13486	Unreliable
+	"Wayne County, MO"	"29223"	"2010"	"2010"	"Unintentional"	"1"	11	13521	Unreliable
+	"Wayne County, MO"	"29223"	"2013"	"2013"	"Unintentional"	"1"	15	13404	Unreliable
+	"Wayne County, MO"	"29223"	"2014"	"2014"	"Unintentional"	"1"	20	13452	148.7
+	"Wayne County, MO"	"29223"	"2015"	"2015"	"Unintentional"	"1"	10	13405	Unreliable
+	"Wayne County, MO"	"29223"	"2017"	"2017"	"Unintentional"	"1"	13	13296	Unreliable
+	"Wayne County, MO"	"29223"	"2018"	"2018"	"Unintentional"	"1"	11	13122	Unreliable
+	"Webster County, MO"	"29225"	"1999"	"1999"	"Unintentional"	"1"	11	30463	Unreliable
+	"Webster County, MO"	"29225"	"2000"	"2000"	"Unintentional"	"1"	17	31045	Unreliable
+	"Webster County, MO"	"29225"	"2001"	"2001"	"Unintentional"	"1"	17	31863	Unreliable
+	"Webster County, MO"	"29225"	"2002"	"2002"	"Unintentional"	"1"	10	32299	Unreliable
+	"Webster County, MO"	"29225"	"2003"	"2003"	"Unintentional"	"1"	18	32680	Unreliable
+	"Webster County, MO"	"29225"	"2004"	"2004"	"Unintentional"	"1"	13	33394	Unreliable
+	"Webster County, MO"	"29225"	"2005"	"2005"	"Unintentional"	"1"	27	34005	79.4
+	"Webster County, MO"	"29225"	"2006"	"2006"	"Unintentional"	"1"	21	34692	60.5
+	"Webster County, MO"	"29225"	"2007"	"2007"	"Unintentional"	"1"	15	35477	Unreliable
+	"Webster County, MO"	"29225"	"2008"	"2008"	"Unintentional"	"1"	30	35938	83.5
+	"Webster County, MO"	"29225"	"2009"	"2009"	"Unintentional"	"1"	18	35997	Unreliable
+	"Webster County, MO"	"29225"	"2010"	"2010"	"Unintentional"	"1"	13	36202	Unreliable
+	"Webster County, MO"	"29225"	"2011"	"2011"	"Unintentional"	"1"	17	36439	Unreliable
+	"Webster County, MO"	"29225"	"2012"	"2012"	"Unintentional"	"1"	15	36351	Unreliable
+	"Webster County, MO"	"29225"	"2013"	"2013"	"Unintentional"	"1"	24	36466	65.8
+	"Webster County, MO"	"29225"	"2014"	"2014"	"Unintentional"	"1"	21	36888	56.9
+	"Webster County, MO"	"29225"	"2015"	"2015"	"Unintentional"	"1"	33	37483	88.0
+	"Webster County, MO"	"29225"	"2015"	"2015"	"Suicide"	"2"	14	37483	Unreliable
+	"Webster County, MO"	"29225"	"2016"	"2016"	"Unintentional"	"1"	21	38106	55.1
+	"Webster County, MO"	"29225"	"2017"	"2017"	"Unintentional"	"1"	30	38665	77.6
+	"Webster County, MO"	"29225"	"2018"	"2018"	"Unintentional"	"1"	25	39109	63.9
+	"Wright County, MO"	"29229"	"1999"	"1999"	"Unintentional"	"1"	15	18025	Unreliable
+	"Wright County, MO"	"29229"	"2002"	"2002"	"Unintentional"	"1"	17	18147	Unreliable
+	"Wright County, MO"	"29229"	"2003"	"2003"	"Unintentional"	"1"	12	18217	Unreliable
+	"Wright County, MO"	"29229"	"2004"	"2004"	"Unintentional"	"1"	17	18226	Unreliable
+	"Wright County, MO"	"29229"	"2005"	"2005"	"Unintentional"	"1"	13	18489	Unreliable
+	"Wright County, MO"	"29229"	"2006"	"2006"	"Unintentional"	"1"	17	18554	Unreliable
+	"Wright County, MO"	"29229"	"2007"	"2007"	"Unintentional"	"1"	10	18713	Unreliable
+	"Wright County, MO"	"29229"	"2011"	"2011"	"Unintentional"	"1"	14	18716	Unreliable
+	"Wright County, MO"	"29229"	"2012"	"2012"	"Unintentional"	"1"	14	18629	Unreliable
+	"Wright County, MO"	"29229"	"2016"	"2016"	"Unintentional"	"1"	11	18286	Unreliable
+	"Wright County, MO"	"29229"	"2017"	"2017"	"Unintentional"	"1"	11	18331	Unreliable
+	"St. Louis city, MO"	"29510"	"1999"	"1999"	"Unintentional"	"1"	182	350156	52.0
+	"St. Louis city, MO"	"29510"	"1999"	"1999"	"Suicide"	"2"	47	350156	13.4
+	"St. Louis city, MO"	"29510"	"1999"	"1999"	"Homicide"	"3"	120	350156	34.3
+	"St. Louis city, MO"	"29510"	"2000"	"2000"	"Unintentional"	"1"	164	348189	47.1
+	"St. Louis city, MO"	"29510"	"2000"	"2000"	"Suicide"	"2"	42	348189	12.1
+	"St. Louis city, MO"	"29510"	"2000"	"2000"	"Homicide"	"3"	102	348189	29.3
+	"St. Louis city, MO"	"29510"	"2001"	"2001"	"Unintentional"	"1"	197	343243	57.4
+	"St. Louis city, MO"	"29510"	"2001"	"2001"	"Suicide"	"2"	48	343243	14.0
+	"St. Louis city, MO"	"29510"	"2001"	"2001"	"Homicide"	"3"	128	343243	37.3
+	"St. Louis city, MO"	"29510"	"2001"	"2001"	"Undetermined "	"4"	11	343243	Unreliable
+	"St. Louis city, MO"	"29510"	"2002"	"2002"	"Unintentional"	"1"	177	338457	52.3
+	"St. Louis city, MO"	"29510"	"2002"	"2002"	"Suicide"	"2"	40	338457	11.8
+	"St. Louis city, MO"	"29510"	"2002"	"2002"	"Homicide"	"3"	95	338457	28.1
+	"St. Louis city, MO"	"29510"	"2003"	"2003"	"Unintentional"	"1"	186	334893	55.5
+	"St. Louis city, MO"	"29510"	"2003"	"2003"	"Suicide"	"2"	47	334893	14.0
+	"St. Louis city, MO"	"29510"	"2003"	"2003"	"Homicide"	"3"	64	334893	19.1
+	"St. Louis city, MO"	"29510"	"2004"	"2004"	"Unintentional"	"1"	155	330988	46.8
+	"St. Louis city, MO"	"29510"	"2004"	"2004"	"Suicide"	"2"	44	330988	13.3
+	"St. Louis city, MO"	"29510"	"2004"	"2004"	"Homicide"	"3"	91	330988	27.5
+	"St. Louis city, MO"	"29510"	"2005"	"2005"	"Unintentional"	"1"	144	324945	44.3
+	"St. Louis city, MO"	"29510"	"2005"	"2005"	"Suicide"	"2"	39	324945	12.0
+	"St. Louis city, MO"	"29510"	"2005"	"2005"	"Homicide"	"3"	91	324945	28.0
+	"St. Louis city, MO"	"29510"	"2006"	"2006"	"Unintentional"	"1"	190	320131	59.4
+	"St. Louis city, MO"	"29510"	"2006"	"2006"	"Suicide"	"2"	53	320131	16.6
+	"St. Louis city, MO"	"29510"	"2006"	"2006"	"Homicide"	"3"	105	320131	32.8
+	"St. Louis city, MO"	"29510"	"2007"	"2007"	"Unintentional"	"1"	176	317959	55.4
+	"St. Louis city, MO"	"29510"	"2007"	"2007"	"Suicide"	"2"	42	317959	13.2
+	"St. Louis city, MO"	"29510"	"2007"	"2007"	"Homicide"	"3"	105	317959	33.0
+	"St. Louis city, MO"	"29510"	"2008"	"2008"	"Unintentional"	"1"	152	317955	47.8
+	"St. Louis city, MO"	"29510"	"2008"	"2008"	"Suicide"	"2"	34	317955	10.7
+	"St. Louis city, MO"	"29510"	"2008"	"2008"	"Homicide"	"3"	124	317955	39.0
+	"St. Louis city, MO"	"29510"	"2009"	"2009"	"Unintentional"	"1"	149	318842	46.7
+	"St. Louis city, MO"	"29510"	"2009"	"2009"	"Suicide"	"2"	49	318842	15.4
+	"St. Louis city, MO"	"29510"	"2009"	"2009"	"Homicide"	"3"	121	318842	37.9
+	"St. Louis city, MO"	"29510"	"2010"	"2010"	"Unintentional"	"1"	158	319294	49.5
+	"St. Louis city, MO"	"29510"	"2010"	"2010"	"Suicide"	"2"	40	319294	12.5
+	"St. Louis city, MO"	"29510"	"2010"	"2010"	"Homicide"	"3"	108	319294	33.8
+	"St. Louis city, MO"	"29510"	"2011"	"2011"	"Unintentional"	"1"	171	318069	53.8
+	"St. Louis city, MO"	"29510"	"2011"	"2011"	"Suicide"	"2"	43	318069	13.5
+	"St. Louis city, MO"	"29510"	"2011"	"2011"	"Homicide"	"3"	93	318069	29.2
+	"St. Louis city, MO"	"29510"	"2012"	"2012"	"Unintentional"	"1"	171	318172	53.7
+	"St. Louis city, MO"	"29510"	"2012"	"2012"	"Suicide"	"2"	33	318172	10.4
+	"St. Louis city, MO"	"29510"	"2012"	"2012"	"Homicide"	"3"	91	318172	28.6
+	"St. Louis city, MO"	"29510"	"2013"	"2013"	"Unintentional"	"1"	180	318416	56.5
+	"St. Louis city, MO"	"29510"	"2013"	"2013"	"Suicide"	"2"	39	318416	12.2
+	"St. Louis city, MO"	"29510"	"2013"	"2013"	"Homicide"	"3"	87	318416	27.3
+	"St. Louis city, MO"	"29510"	"2014"	"2014"	"Unintentional"	"1"	201	317419	63.3
+	"St. Louis city, MO"	"29510"	"2014"	"2014"	"Suicide"	"2"	38	317419	12.0
+	"St. Louis city, MO"	"29510"	"2014"	"2014"	"Homicide"	"3"	117	317419	36.9
+	"St. Louis city, MO"	"29510"	"2015"	"2015"	"Unintentional"	"1"	187	315685	59.2
+	"St. Louis city, MO"	"29510"	"2015"	"2015"	"Suicide"	"2"	37	315685	11.7
+	"St. Louis city, MO"	"29510"	"2015"	"2015"	"Homicide"	"3"	135	315685	42.8
+	"St. Louis city, MO"	"29510"	"2016"	"2016"	"Unintentional"	"1"	309	311404	99.2
+	"St. Louis city, MO"	"29510"	"2016"	"2016"	"Suicide"	"2"	38	311404	12.2
+	"St. Louis city, MO"	"29510"	"2016"	"2016"	"Homicide"	"3"	139	311404	44.6
+	"St. Louis city, MO"	"29510"	"2017"	"2017"	"Unintentional"	"1"	301	308626	97.5
+	"St. Louis city, MO"	"29510"	"2017"	"2017"	"Suicide"	"2"	43	308626	13.9
+	"St. Louis city, MO"	"29510"	"2017"	"2017"	"Homicide"	"3"	156	308626	50.5
+	"St. Louis city, MO"	"29510"	"2018"	"2018"	"Unintentional"	"1"	319	302838	105.3
+	"St. Louis city, MO"	"29510"	"2018"	"2018"	"Suicide"	"2"	43	302838	14.2
+	"St. Louis city, MO"	"29510"	"2018"	"2018"	"Homicide"	"3"	133	302838	43.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Missouri"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Missouri (29)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:49:54 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:49:54 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

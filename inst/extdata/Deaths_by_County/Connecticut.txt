@@ -1,0 +1,482 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Fairfield County, CT"	"09001"	"1999"	"1999"	"Unintentional"	"1"	213	877043	24.3
+	"Fairfield County, CT"	"09001"	"1999"	"1999"	"Suicide"	"2"	55	877043	6.3
+	"Fairfield County, CT"	"09001"	"1999"	"1999"	"Homicide"	"3"	39	877043	4.4
+	"Fairfield County, CT"	"09001"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	10	877043	Unreliable
+	"Fairfield County, CT"	"09001"	"2000"	"2000"	"Unintentional"	"1"	248	882567	28.1
+	"Fairfield County, CT"	"09001"	"2000"	"2000"	"Suicide"	"2"	63	882567	7.1
+	"Fairfield County, CT"	"09001"	"2000"	"2000"	"Homicide"	"3"	27	882567	3.1
+	"Fairfield County, CT"	"09001"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	14	882567	Unreliable
+	"Fairfield County, CT"	"09001"	"2001"	"2001"	"Unintentional"	"1"	216	889063	24.3
+	"Fairfield County, CT"	"09001"	"2001"	"2001"	"Suicide"	"2"	62	889063	7.0
+	"Fairfield County, CT"	"09001"	"2001"	"2001"	"Homicide"	"3"	19	889063	Unreliable
+	"Fairfield County, CT"	"09001"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	10	889063	Unreliable
+	"Fairfield County, CT"	"09001"	"2002"	"2002"	"Unintentional"	"1"	276	892900	30.9
+	"Fairfield County, CT"	"09001"	"2002"	"2002"	"Suicide"	"2"	56	892900	6.3
+	"Fairfield County, CT"	"09001"	"2002"	"2002"	"Homicide"	"3"	22	892900	2.5
+	"Fairfield County, CT"	"09001"	"2003"	"2003"	"Unintentional"	"1"	250	896342	27.9
+	"Fairfield County, CT"	"09001"	"2003"	"2003"	"Suicide"	"2"	54	896342	6.0
+	"Fairfield County, CT"	"09001"	"2003"	"2003"	"Homicide"	"3"	30	896342	3.3
+	"Fairfield County, CT"	"09001"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	11	896342	Unreliable
+	"Fairfield County, CT"	"09001"	"2004"	"2004"	"Unintentional"	"1"	272	897472	30.3
+	"Fairfield County, CT"	"09001"	"2004"	"2004"	"Suicide"	"2"	61	897472	6.8
+	"Fairfield County, CT"	"09001"	"2004"	"2004"	"Homicide"	"3"	30	897472	3.3
+	"Fairfield County, CT"	"09001"	"2005"	"2005"	"Unintentional"	"1"	236	897653	26.3
+	"Fairfield County, CT"	"09001"	"2005"	"2005"	"Suicide"	"2"	60	897653	6.7
+	"Fairfield County, CT"	"09001"	"2005"	"2005"	"Homicide"	"3"	30	897653	3.3
+	"Fairfield County, CT"	"09001"	"2006"	"2006"	"Unintentional"	"1"	296	896254	33.0
+	"Fairfield County, CT"	"09001"	"2006"	"2006"	"Suicide"	"2"	64	896254	7.1
+	"Fairfield County, CT"	"09001"	"2006"	"2006"	"Homicide"	"3"	44	896254	4.9
+	"Fairfield County, CT"	"09001"	"2007"	"2007"	"Unintentional"	"1"	263	897498	29.3
+	"Fairfield County, CT"	"09001"	"2007"	"2007"	"Suicide"	"2"	57	897498	6.4
+	"Fairfield County, CT"	"09001"	"2007"	"2007"	"Homicide"	"3"	20	897498	2.2
+	"Fairfield County, CT"	"09001"	"2007"	"2007"	"Undetermined "	"4"	10	897498	Unreliable
+	"Fairfield County, CT"	"09001"	"2008"	"2008"	"Unintentional"	"1"	314	903824	34.7
+	"Fairfield County, CT"	"09001"	"2008"	"2008"	"Suicide"	"2"	78	903824	8.6
+	"Fairfield County, CT"	"09001"	"2008"	"2008"	"Homicide"	"3"	31	903824	3.4
+	"Fairfield County, CT"	"09001"	"2009"	"2009"	"Unintentional"	"1"	284	910421	31.2
+	"Fairfield County, CT"	"09001"	"2009"	"2009"	"Suicide"	"2"	60	910421	6.6
+	"Fairfield County, CT"	"09001"	"2009"	"2009"	"Homicide"	"3"	22	910421	2.4
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	"Unintentional"	"1"	300	916829	32.7
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	"Suicide"	"2"	74	916829	8.1
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	"Homicide"	"3"	37	916829	4.0
+	"Fairfield County, CT"	"09001"	"2011"	"2011"	"Unintentional"	"1"	287	925899	31.0
+	"Fairfield County, CT"	"09001"	"2011"	"2011"	"Suicide"	"2"	69	925899	7.5
+	"Fairfield County, CT"	"09001"	"2011"	"2011"	"Homicide"	"3"	30	925899	3.2
+	"Fairfield County, CT"	"09001"	"2012"	"2012"	"Unintentional"	"1"	293	933835	31.4
+	"Fairfield County, CT"	"09001"	"2012"	"2012"	"Suicide"	"2"	77	933835	8.2
+	"Fairfield County, CT"	"09001"	"2012"	"2012"	"Homicide"	"3"	60	933835	6.4
+	"Fairfield County, CT"	"09001"	"2013"	"2013"	"Unintentional"	"1"	327	939904	34.8
+	"Fairfield County, CT"	"09001"	"2013"	"2013"	"Suicide"	"2"	75	939904	8.0
+	"Fairfield County, CT"	"09001"	"2013"	"2013"	"Homicide"	"3"	20	939904	2.1
+	"Fairfield County, CT"	"09001"	"2013"	"2013"	"Undetermined "	"4"	10	939904	Unreliable
+	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Unintentional"	"1"	324	945438	34.3
+	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Suicide"	"2"	75	945438	7.9
+	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Homicide"	"3"	22	945438	2.3
+	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Undetermined "	"4"	10	945438	Unreliable
+	"Fairfield County, CT"	"09001"	"2015"	"2015"	"Unintentional"	"1"	336	948053	35.4
+	"Fairfield County, CT"	"09001"	"2015"	"2015"	"Suicide"	"2"	73	948053	7.7
+	"Fairfield County, CT"	"09001"	"2015"	"2015"	"Homicide"	"3"	24	948053	2.5
+	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Unintentional"	"1"	425	944177	45.0
+	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Suicide"	"2"	94	944177	10.0
+	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Homicide"	"3"	19	944177	Unreliable
+	"Fairfield County, CT"	"09001"	"2017"	"2017"	"Unintentional"	"1"	413	949921	43.5
+	"Fairfield County, CT"	"09001"	"2017"	"2017"	"Suicide"	"2"	79	949921	8.3
+	"Fairfield County, CT"	"09001"	"2017"	"2017"	"Homicide"	"3"	27	949921	2.8
+	"Fairfield County, CT"	"09001"	"2017"	"2017"	"Undetermined "	"4"	13	949921	Unreliable
+	"Fairfield County, CT"	"09001"	"2018"	"2018"	"Unintentional"	"1"	400	943823	42.4
+	"Fairfield County, CT"	"09001"	"2018"	"2018"	"Suicide"	"2"	71	943823	7.5
+	"Fairfield County, CT"	"09001"	"2018"	"2018"	"Homicide"	"3"	17	943823	Unreliable
+	"Fairfield County, CT"	"09001"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	13	943823	Unreliable
+	"Hartford County, CT"	"09003"	"1999"	"1999"	"Unintentional"	"1"	301	853039	35.3
+	"Hartford County, CT"	"09003"	"1999"	"1999"	"Suicide"	"2"	81	853039	9.5
+	"Hartford County, CT"	"09003"	"1999"	"1999"	"Homicide"	"3"	33	853039	3.9
+	"Hartford County, CT"	"09003"	"1999"	"1999"	"Undetermined "	"4"	14	853039	Unreliable
+	"Hartford County, CT"	"09003"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	16	853039	Unreliable
+	"Hartford County, CT"	"09003"	"2000"	"2000"	"Unintentional"	"1"	337	857183	39.3
+	"Hartford County, CT"	"09003"	"2000"	"2000"	"Suicide"	"2"	81	857183	9.4
+	"Hartford County, CT"	"09003"	"2000"	"2000"	"Homicide"	"3"	23	857183	2.7
+	"Hartford County, CT"	"09003"	"2000"	"2000"	"Undetermined "	"4"	11	857183	Unreliable
+	"Hartford County, CT"	"09003"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	16	857183	Unreliable
+	"Hartford County, CT"	"09003"	"2001"	"2001"	"Unintentional"	"1"	311	862573	36.1
+	"Hartford County, CT"	"09003"	"2001"	"2001"	"Suicide"	"2"	73	862573	8.5
+	"Hartford County, CT"	"09003"	"2001"	"2001"	"Homicide"	"3"	40	862573	4.6
+	"Hartford County, CT"	"09003"	"2001"	"2001"	"Undetermined "	"4"	16	862573	Unreliable
+	"Hartford County, CT"	"09003"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	17	862573	Unreliable
+	"Hartford County, CT"	"09003"	"2002"	"2002"	"Unintentional"	"1"	307	867451	35.4
+	"Hartford County, CT"	"09003"	"2002"	"2002"	"Suicide"	"2"	59	867451	6.8
+	"Hartford County, CT"	"09003"	"2002"	"2002"	"Homicide"	"3"	35	867451	4.0
+	"Hartford County, CT"	"09003"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	16	867451	Unreliable
+	"Hartford County, CT"	"09003"	"2003"	"2003"	"Unintentional"	"1"	292	873335	33.4
+	"Hartford County, CT"	"09003"	"2003"	"2003"	"Suicide"	"2"	72	873335	8.2
+	"Hartford County, CT"	"09003"	"2003"	"2003"	"Homicide"	"3"	51	873335	5.8
+	"Hartford County, CT"	"09003"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	12	873335	Unreliable
+	"Hartford County, CT"	"09003"	"2004"	"2004"	"Unintentional"	"1"	318	874449	36.4
+	"Hartford County, CT"	"09003"	"2004"	"2004"	"Suicide"	"2"	77	874449	8.8
+	"Hartford County, CT"	"09003"	"2004"	"2004"	"Homicide"	"3"	27	874449	3.1
+	"Hartford County, CT"	"09003"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	10	874449	Unreliable
+	"Hartford County, CT"	"09003"	"2005"	"2005"	"Unintentional"	"1"	318	878081	36.2
+	"Hartford County, CT"	"09003"	"2005"	"2005"	"Suicide"	"2"	66	878081	7.5
+	"Hartford County, CT"	"09003"	"2005"	"2005"	"Homicide"	"3"	30	878081	3.4
+	"Hartford County, CT"	"09003"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	12	878081	Unreliable
+	"Hartford County, CT"	"09003"	"2006"	"2006"	"Unintentional"	"1"	344	881298	39.0
+	"Hartford County, CT"	"09003"	"2006"	"2006"	"Suicide"	"2"	70	881298	7.9
+	"Hartford County, CT"	"09003"	"2006"	"2006"	"Homicide"	"3"	35	881298	4.0
+	"Hartford County, CT"	"09003"	"2006"	"2006"	"Undetermined "	"4"	10	881298	Unreliable
+	"Hartford County, CT"	"09003"	"2007"	"2007"	"Unintentional"	"1"	379	884548	42.8
+	"Hartford County, CT"	"09003"	"2007"	"2007"	"Suicide"	"2"	63	884548	7.1
+	"Hartford County, CT"	"09003"	"2007"	"2007"	"Homicide"	"3"	40	884548	4.5
+	"Hartford County, CT"	"09003"	"2007"	"2007"	"Undetermined "	"4"	14	884548	Unreliable
+	"Hartford County, CT"	"09003"	"2008"	"2008"	"Unintentional"	"1"	333	887891	37.5
+	"Hartford County, CT"	"09003"	"2008"	"2008"	"Suicide"	"2"	75	887891	8.4
+	"Hartford County, CT"	"09003"	"2008"	"2008"	"Homicide"	"3"	44	887891	5.0
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Unintentional"	"1"	321	891667	36.0
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Suicide"	"2"	94	891667	10.5
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Homicide"	"3"	51	891667	5.7
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Undetermined "	"4"	11	891667	Unreliable
+	"Hartford County, CT"	"09003"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	13	891667	Unreliable
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Unintentional"	"1"	343	894014	38.4
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Suicide"	"2"	92	894014	10.3
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Homicide"	"3"	49	894014	5.5
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Undetermined "	"4"	12	894014	Unreliable
+	"Hartford County, CT"	"09003"	"2011"	"2011"	"Unintentional"	"1"	350	894705	39.1
+	"Hartford County, CT"	"09003"	"2011"	"2011"	"Suicide"	"2"	85	894705	9.5
+	"Hartford County, CT"	"09003"	"2011"	"2011"	"Homicide"	"3"	40	894705	4.5
+	"Hartford County, CT"	"09003"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	12	894705	Unreliable
+	"Hartford County, CT"	"09003"	"2012"	"2012"	"Unintentional"	"1"	386	897259	43.0
+	"Hartford County, CT"	"09003"	"2012"	"2012"	"Suicide"	"2"	99	897259	11.0
+	"Hartford County, CT"	"09003"	"2012"	"2012"	"Homicide"	"3"	36	897259	4.0
+	"Hartford County, CT"	"09003"	"2013"	"2013"	"Unintentional"	"1"	417	898272	46.4
+	"Hartford County, CT"	"09003"	"2013"	"2013"	"Suicide"	"2"	78	898272	8.7
+	"Hartford County, CT"	"09003"	"2013"	"2013"	"Homicide"	"3"	31	898272	3.5
+	"Hartford County, CT"	"09003"	"2014"	"2014"	"Unintentional"	"1"	405	897985	45.1
+	"Hartford County, CT"	"09003"	"2014"	"2014"	"Suicide"	"2"	77	897985	8.6
+	"Hartford County, CT"	"09003"	"2014"	"2014"	"Homicide"	"3"	43	897985	4.8
+	"Hartford County, CT"	"09003"	"2015"	"2015"	"Unintentional"	"1"	460	895841	51.3
+	"Hartford County, CT"	"09003"	"2015"	"2015"	"Suicide"	"2"	97	895841	10.8
+	"Hartford County, CT"	"09003"	"2015"	"2015"	"Homicide"	"3"	44	895841	4.9
+	"Hartford County, CT"	"09003"	"2016"	"2016"	"Unintentional"	"1"	502	892389	56.3
+	"Hartford County, CT"	"09003"	"2016"	"2016"	"Suicide"	"2"	85	892389	9.5
+	"Hartford County, CT"	"09003"	"2016"	"2016"	"Homicide"	"3"	23	892389	2.6
+	"Hartford County, CT"	"09003"	"2017"	"2017"	"Unintentional"	"1"	554	895388	61.9
+	"Hartford County, CT"	"09003"	"2017"	"2017"	"Suicide"	"2"	107	895388	12.0
+	"Hartford County, CT"	"09003"	"2017"	"2017"	"Homicide"	"3"	42	895388	4.7
+	"Hartford County, CT"	"09003"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	11	895388	Unreliable
+	"Hartford County, CT"	"09003"	"2018"	"2018"	"Unintentional"	"1"	550	892697	61.6
+	"Hartford County, CT"	"09003"	"2018"	"2018"	"Suicide"	"2"	105	892697	11.8
+	"Hartford County, CT"	"09003"	"2018"	"2018"	"Homicide"	"3"	29	892697	3.2
+	"Litchfield County, CT"	"09005"	"1999"	"1999"	"Unintentional"	"1"	73	181328	40.3
+	"Litchfield County, CT"	"09005"	"1999"	"1999"	"Suicide"	"2"	14	181328	Unreliable
+	"Litchfield County, CT"	"09005"	"2000"	"2000"	"Unintentional"	"1"	76	182193	41.7
+	"Litchfield County, CT"	"09005"	"2000"	"2000"	"Suicide"	"2"	17	182193	Unreliable
+	"Litchfield County, CT"	"09005"	"2001"	"2001"	"Unintentional"	"1"	62	184118	33.7
+	"Litchfield County, CT"	"09005"	"2001"	"2001"	"Suicide"	"2"	27	184118	14.7
+	"Litchfield County, CT"	"09005"	"2002"	"2002"	"Unintentional"	"1"	56	185974	30.1
+	"Litchfield County, CT"	"09005"	"2002"	"2002"	"Suicide"	"2"	18	185974	Unreliable
+	"Litchfield County, CT"	"09005"	"2003"	"2003"	"Unintentional"	"1"	62	187424	33.1
+	"Litchfield County, CT"	"09005"	"2003"	"2003"	"Suicide"	"2"	11	187424	Unreliable
+	"Litchfield County, CT"	"09005"	"2004"	"2004"	"Unintentional"	"1"	87	188601	46.1
+	"Litchfield County, CT"	"09005"	"2004"	"2004"	"Suicide"	"2"	20	188601	10.6
+	"Litchfield County, CT"	"09005"	"2005"	"2005"	"Unintentional"	"1"	78	188912	41.3
+	"Litchfield County, CT"	"09005"	"2005"	"2005"	"Suicide"	"2"	20	188912	10.6
+	"Litchfield County, CT"	"09005"	"2006"	"2006"	"Unintentional"	"1"	69	189682	36.4
+	"Litchfield County, CT"	"09005"	"2006"	"2006"	"Suicide"	"2"	18	189682	Unreliable
+	"Litchfield County, CT"	"09005"	"2007"	"2007"	"Unintentional"	"1"	78	189866	41.1
+	"Litchfield County, CT"	"09005"	"2007"	"2007"	"Suicide"	"2"	23	189866	12.1
+	"Litchfield County, CT"	"09005"	"2008"	"2008"	"Unintentional"	"1"	77	190175	40.5
+	"Litchfield County, CT"	"09005"	"2008"	"2008"	"Suicide"	"2"	23	190175	12.1
+	"Litchfield County, CT"	"09005"	"2009"	"2009"	"Unintentional"	"1"	71	190015	37.4
+	"Litchfield County, CT"	"09005"	"2009"	"2009"	"Suicide"	"2"	19	190015	Unreliable
+	"Litchfield County, CT"	"09005"	"2010"	"2010"	"Unintentional"	"1"	75	189927	39.5
+	"Litchfield County, CT"	"09005"	"2010"	"2010"	"Suicide"	"2"	26	189927	13.7
+	"Litchfield County, CT"	"09005"	"2011"	"2011"	"Unintentional"	"1"	71	188789	37.6
+	"Litchfield County, CT"	"09005"	"2011"	"2011"	"Suicide"	"2"	24	188789	12.7
+	"Litchfield County, CT"	"09005"	"2012"	"2012"	"Unintentional"	"1"	90	187530	48.0
+	"Litchfield County, CT"	"09005"	"2012"	"2012"	"Suicide"	"2"	31	187530	16.5
+	"Litchfield County, CT"	"09005"	"2013"	"2013"	"Unintentional"	"1"	89	186924	47.6
+	"Litchfield County, CT"	"09005"	"2013"	"2013"	"Suicide"	"2"	28	186924	15.0
+	"Litchfield County, CT"	"09005"	"2014"	"2014"	"Unintentional"	"1"	107	184993	57.8
+	"Litchfield County, CT"	"09005"	"2014"	"2014"	"Suicide"	"2"	30	184993	16.2
+	"Litchfield County, CT"	"09005"	"2015"	"2015"	"Unintentional"	"1"	112	183603	61.0
+	"Litchfield County, CT"	"09005"	"2015"	"2015"	"Suicide"	"2"	20	183603	10.9
+	"Litchfield County, CT"	"09005"	"2016"	"2016"	"Unintentional"	"1"	107	182571	58.6
+	"Litchfield County, CT"	"09005"	"2016"	"2016"	"Suicide"	"2"	21	182571	11.5
+	"Litchfield County, CT"	"09005"	"2017"	"2017"	"Unintentional"	"1"	108	182177	59.3
+	"Litchfield County, CT"	"09005"	"2017"	"2017"	"Suicide"	"2"	21	182177	11.5
+	"Litchfield County, CT"	"09005"	"2018"	"2018"	"Unintentional"	"1"	142	181111	78.4
+	"Litchfield County, CT"	"09005"	"2018"	"2018"	"Suicide"	"2"	36	181111	19.9
+	"Middlesex County, CT"	"09007"	"1999"	"1999"	"Unintentional"	"1"	38	153340	24.8
+	"Middlesex County, CT"	"09007"	"1999"	"1999"	"Suicide"	"2"	22	153340	14.3
+	"Middlesex County, CT"	"09007"	"2000"	"2000"	"Unintentional"	"1"	38	155071	24.5
+	"Middlesex County, CT"	"09007"	"2000"	"2000"	"Suicide"	"2"	16	155071	Unreliable
+	"Middlesex County, CT"	"09007"	"2001"	"2001"	"Unintentional"	"1"	57	157006	36.3
+	"Middlesex County, CT"	"09007"	"2001"	"2001"	"Suicide"	"2"	11	157006	Unreliable
+	"Middlesex County, CT"	"09007"	"2002"	"2002"	"Unintentional"	"1"	52	159187	32.7
+	"Middlesex County, CT"	"09007"	"2002"	"2002"	"Suicide"	"2"	12	159187	Unreliable
+	"Middlesex County, CT"	"09007"	"2003"	"2003"	"Unintentional"	"1"	40	160864	24.9
+	"Middlesex County, CT"	"09007"	"2003"	"2003"	"Suicide"	"2"	14	160864	Unreliable
+	"Middlesex County, CT"	"09007"	"2004"	"2004"	"Unintentional"	"1"	75	161450	46.5
+	"Middlesex County, CT"	"09007"	"2005"	"2005"	"Unintentional"	"1"	44	162191	27.1
+	"Middlesex County, CT"	"09007"	"2005"	"2005"	"Suicide"	"2"	18	162191	Unreliable
+	"Middlesex County, CT"	"09007"	"2006"	"2006"	"Unintentional"	"1"	51	163473	31.2
+	"Middlesex County, CT"	"09007"	"2006"	"2006"	"Suicide"	"2"	14	163473	Unreliable
+	"Middlesex County, CT"	"09007"	"2007"	"2007"	"Unintentional"	"1"	71	164129	43.3
+	"Middlesex County, CT"	"09007"	"2007"	"2007"	"Suicide"	"2"	13	164129	Unreliable
+	"Middlesex County, CT"	"09007"	"2008"	"2008"	"Unintentional"	"1"	55	164962	33.3
+	"Middlesex County, CT"	"09007"	"2008"	"2008"	"Suicide"	"2"	19	164962	Unreliable
+	"Middlesex County, CT"	"09007"	"2009"	"2009"	"Unintentional"	"1"	56	165607	33.8
+	"Middlesex County, CT"	"09007"	"2009"	"2009"	"Suicide"	"2"	11	165607	Unreliable
+	"Middlesex County, CT"	"09007"	"2010"	"2010"	"Unintentional"	"1"	79	165676	47.7
+	"Middlesex County, CT"	"09007"	"2010"	"2010"	"Suicide"	"2"	23	165676	13.9
+	"Middlesex County, CT"	"09007"	"2011"	"2011"	"Unintentional"	"1"	67	166043	40.4
+	"Middlesex County, CT"	"09007"	"2011"	"2011"	"Suicide"	"2"	32	166043	19.3
+	"Middlesex County, CT"	"09007"	"2012"	"2012"	"Unintentional"	"1"	75	165602	45.3
+	"Middlesex County, CT"	"09007"	"2012"	"2012"	"Suicide"	"2"	25	165602	15.1
+	"Middlesex County, CT"	"09007"	"2013"	"2013"	"Unintentional"	"1"	75	165562	45.3
+	"Middlesex County, CT"	"09007"	"2013"	"2013"	"Suicide"	"2"	13	165562	Unreliable
+	"Middlesex County, CT"	"09007"	"2014"	"2014"	"Unintentional"	"1"	82	164943	49.7
+	"Middlesex County, CT"	"09007"	"2014"	"2014"	"Suicide"	"2"	17	164943	Unreliable
+	"Middlesex County, CT"	"09007"	"2015"	"2015"	"Unintentional"	"1"	116	164063	70.7
+	"Middlesex County, CT"	"09007"	"2015"	"2015"	"Suicide"	"2"	15	164063	Unreliable
+	"Middlesex County, CT"	"09007"	"2016"	"2016"	"Unintentional"	"1"	105	163329	64.3
+	"Middlesex County, CT"	"09007"	"2016"	"2016"	"Suicide"	"2"	14	163329	Unreliable
+	"Middlesex County, CT"	"09007"	"2017"	"2017"	"Unintentional"	"1"	109	163410	66.7
+	"Middlesex County, CT"	"09007"	"2017"	"2017"	"Suicide"	"2"	21	163410	12.9
+	"Middlesex County, CT"	"09007"	"2018"	"2018"	"Unintentional"	"1"	102	162682	62.7
+	"Middlesex County, CT"	"09007"	"2018"	"2018"	"Suicide"	"2"	28	162682	17.2
+	"New Haven County, CT"	"09009"	"1999"	"1999"	"Unintentional"	"1"	266	820396	32.4
+	"New Haven County, CT"	"09009"	"1999"	"1999"	"Suicide"	"2"	64	820396	7.8
+	"New Haven County, CT"	"09009"	"1999"	"1999"	"Homicide"	"3"	31	820396	3.8
+	"New Haven County, CT"	"09009"	"1999"	"1999"	"Undetermined "	"4"	19	820396	Unreliable
+	"New Haven County, CT"	"09009"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	18	820396	Unreliable
+	"New Haven County, CT"	"09009"	"2000"	"2000"	"Unintentional"	"1"	283	824008	34.3
+	"New Haven County, CT"	"09009"	"2000"	"2000"	"Suicide"	"2"	89	824008	10.8
+	"New Haven County, CT"	"09009"	"2000"	"2000"	"Homicide"	"3"	38	824008	4.6
+	"New Haven County, CT"	"09009"	"2000"	"2000"	"Undetermined "	"4"	11	824008	Unreliable
+	"New Haven County, CT"	"09009"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	27	824008	3.3
+	"New Haven County, CT"	"09009"	"2001"	"2001"	"Unintentional"	"1"	243	829875	29.3
+	"New Haven County, CT"	"09009"	"2001"	"2001"	"Suicide"	"2"	56	829875	6.7
+	"New Haven County, CT"	"09009"	"2001"	"2001"	"Homicide"	"3"	32	829875	3.9
+	"New Haven County, CT"	"09009"	"2001"	"2001"	"Undetermined "	"4"	15	829875	Unreliable
+	"New Haven County, CT"	"09009"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	18	829875	Unreliable
+	"New Haven County, CT"	"09009"	"2002"	"2002"	"Unintentional"	"1"	320	835099	38.3
+	"New Haven County, CT"	"09009"	"2002"	"2002"	"Suicide"	"2"	71	835099	8.5
+	"New Haven County, CT"	"09009"	"2002"	"2002"	"Homicide"	"3"	26	835099	3.1
+	"New Haven County, CT"	"09009"	"2002"	"2002"	"Undetermined "	"4"	17	835099	Unreliable
+	"New Haven County, CT"	"09009"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	20	835099	2.4
+	"New Haven County, CT"	"09009"	"2003"	"2003"	"Unintentional"	"1"	279	841939	33.1
+	"New Haven County, CT"	"09009"	"2003"	"2003"	"Suicide"	"2"	67	841939	8.0
+	"New Haven County, CT"	"09009"	"2003"	"2003"	"Homicide"	"3"	18	841939	Unreliable
+	"New Haven County, CT"	"09009"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	14	841939	Unreliable
+	"New Haven County, CT"	"09009"	"2004"	"2004"	"Unintentional"	"1"	318	844505	37.7
+	"New Haven County, CT"	"09009"	"2004"	"2004"	"Suicide"	"2"	69	844505	8.2
+	"New Haven County, CT"	"09009"	"2004"	"2004"	"Homicide"	"3"	27	844505	3.2
+	"New Haven County, CT"	"09009"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	11	844505	Unreliable
+	"New Haven County, CT"	"09009"	"2005"	"2005"	"Unintentional"	"1"	290	847162	34.2
+	"New Haven County, CT"	"09009"	"2005"	"2005"	"Suicide"	"2"	87	847162	10.3
+	"New Haven County, CT"	"09009"	"2005"	"2005"	"Homicide"	"3"	30	847162	3.5
+	"New Haven County, CT"	"09009"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	13	847162	Unreliable
+	"New Haven County, CT"	"09009"	"2006"	"2006"	"Unintentional"	"1"	346	850207	40.7
+	"New Haven County, CT"	"09009"	"2006"	"2006"	"Suicide"	"2"	74	850207	8.7
+	"New Haven County, CT"	"09009"	"2006"	"2006"	"Homicide"	"3"	40	850207	4.7
+	"New Haven County, CT"	"09009"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	10	850207	Unreliable
+	"New Haven County, CT"	"09009"	"2007"	"2007"	"Unintentional"	"1"	359	853598	42.1
+	"New Haven County, CT"	"09009"	"2007"	"2007"	"Suicide"	"2"	74	853598	8.7
+	"New Haven County, CT"	"09009"	"2007"	"2007"	"Homicide"	"3"	26	853598	3.0
+	"New Haven County, CT"	"09009"	"2007"	"2007"	"Undetermined "	"4"	10	853598	Unreliable
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Unintentional"	"1"	407	856622	47.5
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Suicide"	"2"	68	856622	7.9
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Homicide"	"3"	35	856622	4.1
+	"New Haven County, CT"	"09009"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	856622	Unreliable
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Unintentional"	"1"	354	860025	41.2
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Suicide"	"2"	67	860025	7.8
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Homicide"	"3"	30	860025	3.5
+	"New Haven County, CT"	"09009"	"2009"	"2009"	"Undetermined "	"4"	12	860025	Unreliable
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Unintentional"	"1"	345	862477	40.0
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Suicide"	"2"	64	862477	7.4
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Homicide"	"3"	48	862477	5.6
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Undetermined "	"4"	10	862477	Unreliable
+	"New Haven County, CT"	"09009"	"2011"	"2011"	"Unintentional"	"1"	361	861113	41.9
+	"New Haven County, CT"	"09009"	"2011"	"2011"	"Suicide"	"2"	99	861113	11.5
+	"New Haven County, CT"	"09009"	"2011"	"2011"	"Homicide"	"3"	52	861113	6.0
+	"New Haven County, CT"	"09009"	"2012"	"2012"	"Unintentional"	"1"	348	862813	40.3
+	"New Haven County, CT"	"09009"	"2012"	"2012"	"Suicide"	"2"	68	862813	7.9
+	"New Haven County, CT"	"09009"	"2012"	"2012"	"Homicide"	"3"	39	862813	4.5
+	"New Haven County, CT"	"09009"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	11	862813	Unreliable
+	"New Haven County, CT"	"09009"	"2013"	"2013"	"Unintentional"	"1"	420	862287	48.7
+	"New Haven County, CT"	"09009"	"2013"	"2013"	"Suicide"	"2"	76	862287	8.8
+	"New Haven County, CT"	"09009"	"2013"	"2013"	"Homicide"	"3"	29	862287	3.4
+	"New Haven County, CT"	"09009"	"2014"	"2014"	"Unintentional"	"1"	429	861277	49.8
+	"New Haven County, CT"	"09009"	"2014"	"2014"	"Suicide"	"2"	97	861277	11.3
+	"New Haven County, CT"	"09009"	"2014"	"2014"	"Homicide"	"3"	28	861277	3.3
+	"New Haven County, CT"	"09009"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	12	861277	Unreliable
+	"New Haven County, CT"	"09009"	"2015"	"2015"	"Unintentional"	"1"	483	859470	56.2
+	"New Haven County, CT"	"09009"	"2015"	"2015"	"Suicide"	"2"	108	859470	12.6
+	"New Haven County, CT"	"09009"	"2015"	"2015"	"Homicide"	"3"	37	859470	4.3
+	"New Haven County, CT"	"09009"	"2015"	"2015"	"Undetermined "	"4"	12	859470	Unreliable
+	"New Haven County, CT"	"09009"	"2016"	"2016"	"Unintentional"	"1"	523	856875	61.0
+	"New Haven County, CT"	"09009"	"2016"	"2016"	"Suicide"	"2"	99	856875	11.6
+	"New Haven County, CT"	"09009"	"2016"	"2016"	"Homicide"	"3"	34	856875	4.0
+	"New Haven County, CT"	"09009"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	17	856875	Unreliable
+	"New Haven County, CT"	"09009"	"2017"	"2017"	"Unintentional"	"1"	564	860435	65.5
+	"New Haven County, CT"	"09009"	"2017"	"2017"	"Suicide"	"2"	103	860435	12.0
+	"New Haven County, CT"	"09009"	"2017"	"2017"	"Homicide"	"3"	27	860435	3.1
+	"New Haven County, CT"	"09009"	"2018"	"2018"	"Unintentional"	"1"	525	857620	61.2
+	"New Haven County, CT"	"09009"	"2018"	"2018"	"Suicide"	"2"	108	857620	12.6
+	"New Haven County, CT"	"09009"	"2018"	"2018"	"Homicide"	"3"	26	857620	3.0
+	"New Haven County, CT"	"09009"	"2018"	"2018"	"Undetermined "	"4"	10	857620	Unreliable
+	"New Haven County, CT"	"09009"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	21	857620	2.4
+	"New London County, CT"	"09011"	"1999"	"1999"	"Unintentional"	"1"	76	257568	29.5
+	"New London County, CT"	"09011"	"1999"	"1999"	"Suicide"	"2"	14	257568	Unreliable
+	"New London County, CT"	"09011"	"1999"	"1999"	"Homicide"	"3"	10	257568	Unreliable
+	"New London County, CT"	"09011"	"2000"	"2000"	"Unintentional"	"1"	104	259088	40.1
+	"New London County, CT"	"09011"	"2000"	"2000"	"Suicide"	"2"	18	259088	Unreliable
+	"New London County, CT"	"09011"	"2001"	"2001"	"Unintentional"	"1"	80	261396	30.6
+	"New London County, CT"	"09011"	"2001"	"2001"	"Suicide"	"2"	26	261396	9.9
+	"New London County, CT"	"09011"	"2002"	"2002"	"Unintentional"	"1"	91	264698	34.4
+	"New London County, CT"	"09011"	"2002"	"2002"	"Suicide"	"2"	27	264698	10.2
+	"New London County, CT"	"09011"	"2003"	"2003"	"Unintentional"	"1"	95	266584	35.6
+	"New London County, CT"	"09011"	"2003"	"2003"	"Suicide"	"2"	34	266584	12.8
+	"New London County, CT"	"09011"	"2004"	"2004"	"Unintentional"	"1"	106	268595	39.5
+	"New London County, CT"	"09011"	"2004"	"2004"	"Suicide"	"2"	35	268595	13.0
+	"New London County, CT"	"09011"	"2004"	"2004"	"Homicide"	"3"	16	268595	Unreliable
+	"New London County, CT"	"09011"	"2005"	"2005"	"Unintentional"	"1"	91	269664	33.7
+	"New London County, CT"	"09011"	"2005"	"2005"	"Suicide"	"2"	17	269664	Unreliable
+	"New London County, CT"	"09011"	"2006"	"2006"	"Unintentional"	"1"	106	270814	39.1
+	"New London County, CT"	"09011"	"2006"	"2006"	"Suicide"	"2"	22	270814	8.1
+	"New London County, CT"	"09011"	"2007"	"2007"	"Unintentional"	"1"	105	270669	38.8
+	"New London County, CT"	"09011"	"2007"	"2007"	"Suicide"	"2"	26	270669	9.6
+	"New London County, CT"	"09011"	"2007"	"2007"	"Homicide"	"3"	10	270669	Unreliable
+	"New London County, CT"	"09011"	"2008"	"2008"	"Unintentional"	"1"	98	272634	35.9
+	"New London County, CT"	"09011"	"2008"	"2008"	"Suicide"	"2"	31	272634	11.4
+	"New London County, CT"	"09011"	"2009"	"2009"	"Unintentional"	"1"	113	273630	41.3
+	"New London County, CT"	"09011"	"2009"	"2009"	"Suicide"	"2"	24	273630	8.8
+	"New London County, CT"	"09011"	"2010"	"2010"	"Unintentional"	"1"	104	274055	37.9
+	"New London County, CT"	"09011"	"2010"	"2010"	"Suicide"	"2"	37	274055	13.5
+	"New London County, CT"	"09011"	"2011"	"2011"	"Unintentional"	"1"	117	273502	42.8
+	"New London County, CT"	"09011"	"2011"	"2011"	"Suicide"	"2"	33	273502	12.1
+	"New London County, CT"	"09011"	"2012"	"2012"	"Unintentional"	"1"	116	274170	42.3
+	"New London County, CT"	"09011"	"2012"	"2012"	"Suicide"	"2"	30	274170	10.9
+	"New London County, CT"	"09011"	"2013"	"2013"	"Unintentional"	"1"	152	274150	55.4
+	"New London County, CT"	"09011"	"2013"	"2013"	"Suicide"	"2"	31	274150	11.3
+	"New London County, CT"	"09011"	"2014"	"2014"	"Unintentional"	"1"	138	273676	50.4
+	"New London County, CT"	"09011"	"2014"	"2014"	"Suicide"	"2"	42	273676	15.3
+	"New London County, CT"	"09011"	"2015"	"2015"	"Unintentional"	"1"	151	271863	55.5
+	"New London County, CT"	"09011"	"2015"	"2015"	"Suicide"	"2"	43	271863	15.8
+	"New London County, CT"	"09011"	"2016"	"2016"	"Unintentional"	"1"	169	269801	62.6
+	"New London County, CT"	"09011"	"2016"	"2016"	"Suicide"	"2"	35	269801	13.0
+	"New London County, CT"	"09011"	"2017"	"2017"	"Unintentional"	"1"	184	269033	68.4
+	"New London County, CT"	"09011"	"2017"	"2017"	"Suicide"	"2"	35	269033	13.0
+	"New London County, CT"	"09011"	"2018"	"2018"	"Unintentional"	"1"	185	266784	69.3
+	"New London County, CT"	"09011"	"2018"	"2018"	"Suicide"	"2"	30	266784	11.2
+	"Tolland County, CT"	"09013"	"1999"	"1999"	"Unintentional"	"1"	25	134939	18.5
+	"Tolland County, CT"	"09013"	"1999"	"1999"	"Suicide"	"2"	12	134939	Unreliable
+	"Tolland County, CT"	"09013"	"2000"	"2000"	"Unintentional"	"1"	43	136364	31.5
+	"Tolland County, CT"	"09013"	"2000"	"2000"	"Suicide"	"2"	12	136364	Unreliable
+	"Tolland County, CT"	"09013"	"2001"	"2001"	"Unintentional"	"1"	30	138934	21.6
+	"Tolland County, CT"	"09013"	"2001"	"2001"	"Suicide"	"2"	13	138934	Unreliable
+	"Tolland County, CT"	"09013"	"2002"	"2002"	"Unintentional"	"1"	41	142362	28.8
+	"Tolland County, CT"	"09013"	"2003"	"2003"	"Unintentional"	"1"	36	145195	24.8
+	"Tolland County, CT"	"09013"	"2003"	"2003"	"Suicide"	"2"	10	145195	Unreliable
+	"Tolland County, CT"	"09013"	"2004"	"2004"	"Unintentional"	"1"	41	146706	27.9
+	"Tolland County, CT"	"09013"	"2004"	"2004"	"Suicide"	"2"	12	146706	Unreliable
+	"Tolland County, CT"	"09013"	"2005"	"2005"	"Unintentional"	"1"	39	147657	26.4
+	"Tolland County, CT"	"09013"	"2005"	"2005"	"Suicide"	"2"	18	147657	Unreliable
+	"Tolland County, CT"	"09013"	"2006"	"2006"	"Unintentional"	"1"	37	148954	24.8
+	"Tolland County, CT"	"09013"	"2006"	"2006"	"Suicide"	"2"	16	148954	Unreliable
+	"Tolland County, CT"	"09013"	"2007"	"2007"	"Unintentional"	"1"	45	149718	30.1
+	"Tolland County, CT"	"09013"	"2008"	"2008"	"Unintentional"	"1"	47	151583	31.0
+	"Tolland County, CT"	"09013"	"2008"	"2008"	"Suicide"	"2"	11	151583	Unreliable
+	"Tolland County, CT"	"09013"	"2009"	"2009"	"Unintentional"	"1"	37	152330	24.3
+	"Tolland County, CT"	"09013"	"2009"	"2009"	"Suicide"	"2"	22	152330	14.4
+	"Tolland County, CT"	"09013"	"2010"	"2010"	"Unintentional"	"1"	45	152691	29.5
+	"Tolland County, CT"	"09013"	"2010"	"2010"	"Suicide"	"2"	18	152691	Unreliable
+	"Tolland County, CT"	"09013"	"2011"	"2011"	"Unintentional"	"1"	40	152507	26.2
+	"Tolland County, CT"	"09013"	"2011"	"2011"	"Suicide"	"2"	12	152507	Unreliable
+	"Tolland County, CT"	"09013"	"2012"	"2012"	"Unintentional"	"1"	51	151539	33.7
+	"Tolland County, CT"	"09013"	"2012"	"2012"	"Suicide"	"2"	24	151539	15.8
+	"Tolland County, CT"	"09013"	"2013"	"2013"	"Unintentional"	"1"	50	151377	33.0
+	"Tolland County, CT"	"09013"	"2014"	"2014"	"Unintentional"	"1"	79	151367	52.2
+	"Tolland County, CT"	"09013"	"2014"	"2014"	"Suicide"	"2"	22	151367	14.5
+	"Tolland County, CT"	"09013"	"2015"	"2015"	"Unintentional"	"1"	67	151420	44.2
+	"Tolland County, CT"	"09013"	"2015"	"2015"	"Suicide"	"2"	13	151420	Unreliable
+	"Tolland County, CT"	"09013"	"2016"	"2016"	"Unintentional"	"1"	76	151118	50.3
+	"Tolland County, CT"	"09013"	"2016"	"2016"	"Suicide"	"2"	27	151118	17.9
+	"Tolland County, CT"	"09013"	"2017"	"2017"	"Unintentional"	"1"	68	151461	44.9
+	"Tolland County, CT"	"09013"	"2017"	"2017"	"Suicide"	"2"	24	151461	15.8
+	"Tolland County, CT"	"09013"	"2018"	"2018"	"Unintentional"	"1"	69	150921	45.7
+	"Tolland County, CT"	"09013"	"2018"	"2018"	"Suicide"	"2"	23	150921	15.2
+	"Windham County, CT"	"09015"	"1999"	"1999"	"Unintentional"	"1"	42	108748	38.6
+	"Windham County, CT"	"09015"	"1999"	"1999"	"Suicide"	"2"	12	108748	Unreliable
+	"Windham County, CT"	"09015"	"2000"	"2000"	"Unintentional"	"1"	46	109091	42.2
+	"Windham County, CT"	"09015"	"2001"	"2001"	"Unintentional"	"1"	57	109870	51.9
+	"Windham County, CT"	"09015"	"2001"	"2001"	"Suicide"	"2"	15	109870	Unreliable
+	"Windham County, CT"	"09015"	"2002"	"2002"	"Unintentional"	"1"	39	111078	35.1
+	"Windham County, CT"	"09015"	"2002"	"2002"	"Suicide"	"2"	11	111078	Unreliable
+	"Windham County, CT"	"09015"	"2003"	"2003"	"Unintentional"	"1"	58	112653	51.5
+	"Windham County, CT"	"09015"	"2003"	"2003"	"Suicide"	"2"	10	112653	Unreliable
+	"Windham County, CT"	"09015"	"2004"	"2004"	"Unintentional"	"1"	44	114316	38.5
+	"Windham County, CT"	"09015"	"2004"	"2004"	"Suicide"	"2"	12	114316	Unreliable
+	"Windham County, CT"	"09015"	"2005"	"2005"	"Unintentional"	"1"	38	115636	32.9
+	"Windham County, CT"	"09015"	"2006"	"2006"	"Unintentional"	"1"	53	116778	45.4
+	"Windham County, CT"	"09015"	"2006"	"2006"	"Suicide"	"2"	14	116778	Unreliable
+	"Windham County, CT"	"09015"	"2007"	"2007"	"Unintentional"	"1"	43	117244	36.7
+	"Windham County, CT"	"09015"	"2008"	"2008"	"Unintentional"	"1"	55	117888	46.7
+	"Windham County, CT"	"09015"	"2008"	"2008"	"Suicide"	"2"	10	117888	Unreliable
+	"Windham County, CT"	"09015"	"2009"	"2009"	"Unintentional"	"1"	57	118112	48.3
+	"Windham County, CT"	"09015"	"2009"	"2009"	"Suicide"	"2"	19	118112	Unreliable
+	"Windham County, CT"	"09015"	"2010"	"2010"	"Unintentional"	"1"	46	118428	38.8
+	"Windham County, CT"	"09015"	"2010"	"2010"	"Suicide"	"2"	19	118428	Unreliable
+	"Windham County, CT"	"09015"	"2011"	"2011"	"Unintentional"	"1"	46	118151	38.9
+	"Windham County, CT"	"09015"	"2011"	"2011"	"Suicide"	"2"	16	118151	Unreliable
+	"Windham County, CT"	"09015"	"2012"	"2012"	"Unintentional"	"1"	33	117599	28.1
+	"Windham County, CT"	"09015"	"2012"	"2012"	"Suicide"	"2"	14	117599	Unreliable
+	"Windham County, CT"	"09015"	"2013"	"2013"	"Unintentional"	"1"	52	117604	44.2
+	"Windham County, CT"	"09015"	"2013"	"2013"	"Suicide"	"2"	20	117604	17.0
+	"Windham County, CT"	"09015"	"2014"	"2014"	"Unintentional"	"1"	77	116998	65.8
+	"Windham County, CT"	"09015"	"2014"	"2014"	"Suicide"	"2"	19	116998	Unreliable
+	"Windham County, CT"	"09015"	"2015"	"2015"	"Unintentional"	"1"	74	116573	63.5
+	"Windham County, CT"	"09015"	"2015"	"2015"	"Suicide"	"2"	15	116573	Unreliable
+	"Windham County, CT"	"09015"	"2016"	"2016"	"Unintentional"	"1"	71	116192	61.1
+	"Windham County, CT"	"09015"	"2016"	"2016"	"Suicide"	"2"	22	116192	18.9
+	"Windham County, CT"	"09015"	"2017"	"2017"	"Unintentional"	"1"	78	116359	67.0
+	"Windham County, CT"	"09015"	"2017"	"2017"	"Suicide"	"2"	15	116359	Unreliable
+	"Windham County, CT"	"09015"	"2018"	"2018"	"Unintentional"	"1"	81	117027	69.2
+	"Windham County, CT"	"09015"	"2018"	"2018"	"Suicide"	"2"	18	117027	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Connecticut"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Connecticut (09)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:55:12 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:55:12 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Note: County of residence is misidentified in 316 deaths that occurred in the year 2000, for Hartford County, CT (FIPS code"
+"09003) and New London County, CT (FIPS code 09011). More information: http://wonder.cdc.gov/wonder/help/ucd.html#errata."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

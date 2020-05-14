@@ -1,0 +1,2329 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Aransas County, TX"	"48007"	"2000"	"2000"	"Unintentional"	"1"	11	22497	Unreliable
+	"Aransas County, TX"	"48007"	"2001"	"2001"	"Unintentional"	"1"	11	22287	Unreliable
+	"Aransas County, TX"	"48007"	"2003"	"2003"	"Unintentional"	"1"	14	22843	Unreliable
+	"Aransas County, TX"	"48007"	"2004"	"2004"	"Unintentional"	"1"	20	23067	86.7
+	"Aransas County, TX"	"48007"	"2005"	"2005"	"Unintentional"	"1"	16	23561	Unreliable
+	"Aransas County, TX"	"48007"	"2006"	"2006"	"Unintentional"	"1"	20	23395	85.5
+	"Aransas County, TX"	"48007"	"2007"	"2007"	"Unintentional"	"1"	13	23172	Unreliable
+	"Aransas County, TX"	"48007"	"2008"	"2008"	"Unintentional"	"1"	14	23225	Unreliable
+	"Aransas County, TX"	"48007"	"2009"	"2009"	"Unintentional"	"1"	22	23291	94.5
+	"Aransas County, TX"	"48007"	"2010"	"2010"	"Unintentional"	"1"	13	23158	Unreliable
+	"Aransas County, TX"	"48007"	"2011"	"2011"	"Unintentional"	"1"	19	23374	Unreliable
+	"Aransas County, TX"	"48007"	"2012"	"2012"	"Unintentional"	"1"	16	23818	Unreliable
+	"Aransas County, TX"	"48007"	"2013"	"2013"	"Unintentional"	"1"	15	24356	Unreliable
+	"Aransas County, TX"	"48007"	"2014"	"2014"	"Unintentional"	"1"	19	24972	Unreliable
+	"Aransas County, TX"	"48007"	"2015"	"2015"	"Unintentional"	"1"	22	25350	86.8
+	"Aransas County, TX"	"48007"	"2016"	"2016"	"Unintentional"	"1"	16	25721	Unreliable
+	"Aransas County, TX"	"48007"	"2017"	"2017"	"Unintentional"	"1"	15	25572	Unreliable
+	"Aransas County, TX"	"48007"	"2018"	"2018"	"Unintentional"	"1"	12	23792	Unreliable
+	"Atascosa County, TX"	"48013"	"1999"	"1999"	"Unintentional"	"1"	22	37736	58.3
+	"Atascosa County, TX"	"48013"	"2000"	"2000"	"Unintentional"	"1"	15	38628	Unreliable
+	"Atascosa County, TX"	"48013"	"2000"	"2000"	"Suicide"	"2"	10	38628	Unreliable
+	"Atascosa County, TX"	"48013"	"2001"	"2001"	"Unintentional"	"1"	13	39828	Unreliable
+	"Atascosa County, TX"	"48013"	"2002"	"2002"	"Unintentional"	"1"	26	40767	63.8
+	"Atascosa County, TX"	"48013"	"2003"	"2003"	"Unintentional"	"1"	20	41306	48.4
+	"Atascosa County, TX"	"48013"	"2004"	"2004"	"Unintentional"	"1"	12	42109	Unreliable
+	"Atascosa County, TX"	"48013"	"2005"	"2005"	"Unintentional"	"1"	15	42495	Unreliable
+	"Atascosa County, TX"	"48013"	"2006"	"2006"	"Unintentional"	"1"	13	43059	Unreliable
+	"Atascosa County, TX"	"48013"	"2007"	"2007"	"Unintentional"	"1"	18	43611	Unreliable
+	"Atascosa County, TX"	"48013"	"2008"	"2008"	"Unintentional"	"1"	22	43947	50.1
+	"Atascosa County, TX"	"48013"	"2009"	"2009"	"Unintentional"	"1"	16	44623	Unreliable
+	"Atascosa County, TX"	"48013"	"2010"	"2010"	"Unintentional"	"1"	18	44911	Unreliable
+	"Atascosa County, TX"	"48013"	"2010"	"2010"	"Suicide"	"2"	10	44911	Unreliable
+	"Atascosa County, TX"	"48013"	"2011"	"2011"	"Unintentional"	"1"	17	45579	Unreliable
+	"Atascosa County, TX"	"48013"	"2012"	"2012"	"Unintentional"	"1"	22	46446	47.4
+	"Atascosa County, TX"	"48013"	"2013"	"2013"	"Unintentional"	"1"	26	47093	55.2
+	"Atascosa County, TX"	"48013"	"2014"	"2014"	"Unintentional"	"1"	24	47774	50.2
+	"Atascosa County, TX"	"48013"	"2014"	"2014"	"Suicide"	"2"	10	47774	Unreliable
+	"Atascosa County, TX"	"48013"	"2015"	"2015"	"Unintentional"	"1"	10	48435	Unreliable
+	"Atascosa County, TX"	"48013"	"2015"	"2015"	"Homicide"	"3"	10	48435	Unreliable
+	"Atascosa County, TX"	"48013"	"2016"	"2016"	"Unintentional"	"1"	23	48797	47.1
+	"Atascosa County, TX"	"48013"	"2017"	"2017"	"Unintentional"	"1"	13	48981	Unreliable
+	"Atascosa County, TX"	"48013"	"2017"	"2017"	"Suicide"	"2"	10	48981	Unreliable
+	"Atascosa County, TX"	"48013"	"2018"	"2018"	"Unintentional"	"1"	28	50310	55.7
+	"Atascosa County, TX"	"48013"	"2018"	"2018"	"Suicide"	"2"	10	50310	Unreliable
+	"Austin County, TX"	"48015"	"1999"	"1999"	"Unintentional"	"1"	14	23129	Unreliable
+	"Austin County, TX"	"48015"	"2000"	"2000"	"Unintentional"	"1"	20	23590	84.8
+	"Austin County, TX"	"48015"	"2002"	"2002"	"Unintentional"	"1"	11	24818	Unreliable
+	"Austin County, TX"	"48015"	"2003"	"2003"	"Unintentional"	"1"	18	25388	Unreliable
+	"Austin County, TX"	"48015"	"2004"	"2004"	"Unintentional"	"1"	13	25976	Unreliable
+	"Austin County, TX"	"48015"	"2005"	"2005"	"Unintentional"	"1"	19	26331	Unreliable
+	"Austin County, TX"	"48015"	"2006"	"2006"	"Unintentional"	"1"	14	26828	Unreliable
+	"Austin County, TX"	"48015"	"2007"	"2007"	"Unintentional"	"1"	21	27454	76.5
+	"Austin County, TX"	"48015"	"2008"	"2008"	"Unintentional"	"1"	15	27935	Unreliable
+	"Austin County, TX"	"48015"	"2009"	"2009"	"Unintentional"	"1"	15	28254	Unreliable
+	"Austin County, TX"	"48015"	"2011"	"2011"	"Unintentional"	"1"	18	28665	Unreliable
+	"Austin County, TX"	"48015"	"2012"	"2012"	"Unintentional"	"1"	19	28618	Unreliable
+	"Austin County, TX"	"48015"	"2013"	"2013"	"Unintentional"	"1"	14	28847	Unreliable
+	"Austin County, TX"	"48015"	"2014"	"2014"	"Unintentional"	"1"	14	29114	Unreliable
+	"Austin County, TX"	"48015"	"2016"	"2016"	"Unintentional"	"1"	15	29758	Unreliable
+	"Austin County, TX"	"48015"	"2017"	"2017"	"Suicide"	"2"	10	29786	Unreliable
+	"Austin County, TX"	"48015"	"2018"	"2018"	"Unintentional"	"1"	18	29989	Unreliable
+	"Bandera County, TX"	"48019"	"1999"	"1999"	"Unintentional"	"1"	15	17039	Unreliable
+	"Bandera County, TX"	"48019"	"2001"	"2001"	"Unintentional"	"1"	10	18125	Unreliable
+	"Bandera County, TX"	"48019"	"2002"	"2002"	"Unintentional"	"1"	13	18652	Unreliable
+	"Bandera County, TX"	"48019"	"2003"	"2003"	"Unintentional"	"1"	12	19044	Unreliable
+	"Bandera County, TX"	"48019"	"2003"	"2003"	"Suicide"	"2"	10	19044	Unreliable
+	"Bandera County, TX"	"48019"	"2004"	"2004"	"Unintentional"	"1"	13	19226	Unreliable
+	"Bandera County, TX"	"48019"	"2005"	"2005"	"Unintentional"	"1"	14	19428	Unreliable
+	"Bandera County, TX"	"48019"	"2006"	"2006"	"Unintentional"	"1"	11	19775	Unreliable
+	"Bandera County, TX"	"48019"	"2007"	"2007"	"Unintentional"	"1"	19	20254	Unreliable
+	"Bandera County, TX"	"48019"	"2009"	"2009"	"Unintentional"	"1"	13	20365	Unreliable
+	"Bandera County, TX"	"48019"	"2011"	"2011"	"Unintentional"	"1"	12	20538	Unreliable
+	"Bandera County, TX"	"48019"	"2012"	"2012"	"Unintentional"	"1"	11	20537	Unreliable
+	"Bandera County, TX"	"48019"	"2013"	"2013"	"Unintentional"	"1"	10	20601	Unreliable
+	"Bandera County, TX"	"48019"	"2015"	"2015"	"Unintentional"	"1"	15	21269	Unreliable
+	"Bandera County, TX"	"48019"	"2017"	"2017"	"Unintentional"	"1"	15	22351	Unreliable
+	"Bandera County, TX"	"48019"	"2018"	"2018"	"Unintentional"	"1"	13	22824	Unreliable
+	"Bastrop County, TX"	"48021"	"1999"	"1999"	"Unintentional"	"1"	27	55682	48.5
+	"Bastrop County, TX"	"48021"	"1999"	"1999"	"Suicide"	"2"	11	55682	Unreliable
+	"Bastrop County, TX"	"48021"	"2000"	"2000"	"Unintentional"	"1"	39	57733	67.6
+	"Bastrop County, TX"	"48021"	"2001"	"2001"	"Unintentional"	"1"	25	61106	40.9
+	"Bastrop County, TX"	"48021"	"2001"	"2001"	"Suicide"	"2"	10	61106	Unreliable
+	"Bastrop County, TX"	"48021"	"2002"	"2002"	"Unintentional"	"1"	44	63508	69.3
+	"Bastrop County, TX"	"48021"	"2002"	"2002"	"Suicide"	"2"	13	63508	Unreliable
+	"Bastrop County, TX"	"48021"	"2003"	"2003"	"Unintentional"	"1"	44	65825	66.8
+	"Bastrop County, TX"	"48021"	"2003"	"2003"	"Suicide"	"2"	12	65825	Unreliable
+	"Bastrop County, TX"	"48021"	"2004"	"2004"	"Unintentional"	"1"	38	67122	56.6
+	"Bastrop County, TX"	"48021"	"2005"	"2005"	"Unintentional"	"1"	46	68233	67.4
+	"Bastrop County, TX"	"48021"	"2005"	"2005"	"Suicide"	"2"	11	68233	Unreliable
+	"Bastrop County, TX"	"48021"	"2006"	"2006"	"Unintentional"	"1"	40	69720	57.4
+	"Bastrop County, TX"	"48021"	"2006"	"2006"	"Suicide"	"2"	12	69720	Unreliable
+	"Bastrop County, TX"	"48021"	"2007"	"2007"	"Unintentional"	"1"	37	71348	51.9
+	"Bastrop County, TX"	"48021"	"2007"	"2007"	"Suicide"	"2"	10	71348	Unreliable
+	"Bastrop County, TX"	"48021"	"2008"	"2008"	"Unintentional"	"1"	43	72389	59.4
+	"Bastrop County, TX"	"48021"	"2008"	"2008"	"Suicide"	"2"	10	72389	Unreliable
+	"Bastrop County, TX"	"48021"	"2009"	"2009"	"Unintentional"	"1"	42	73587	57.1
+	"Bastrop County, TX"	"48021"	"2009"	"2009"	"Suicide"	"2"	18	73587	Unreliable
+	"Bastrop County, TX"	"48021"	"2010"	"2010"	"Unintentional"	"1"	32	74171	43.1
+	"Bastrop County, TX"	"48021"	"2011"	"2011"	"Unintentional"	"1"	46	75115	61.2
+	"Bastrop County, TX"	"48021"	"2011"	"2011"	"Suicide"	"2"	12	75115	Unreliable
+	"Bastrop County, TX"	"48021"	"2012"	"2012"	"Unintentional"	"1"	39	74763	52.2
+	"Bastrop County, TX"	"48021"	"2013"	"2013"	"Unintentional"	"1"	54	75825	71.2
+	"Bastrop County, TX"	"48021"	"2013"	"2013"	"Suicide"	"2"	19	75825	Unreliable
+	"Bastrop County, TX"	"48021"	"2014"	"2014"	"Unintentional"	"1"	38	78069	48.7
+	"Bastrop County, TX"	"48021"	"2014"	"2014"	"Suicide"	"2"	22	78069	28.2
+	"Bastrop County, TX"	"48021"	"2015"	"2015"	"Unintentional"	"1"	51	80527	63.3
+	"Bastrop County, TX"	"48021"	"2015"	"2015"	"Suicide"	"2"	12	80527	Unreliable
+	"Bastrop County, TX"	"48021"	"2016"	"2016"	"Unintentional"	"1"	42	82733	50.8
+	"Bastrop County, TX"	"48021"	"2016"	"2016"	"Suicide"	"2"	10	82733	Unreliable
+	"Bastrop County, TX"	"48021"	"2016"	"2016"	"Homicide"	"3"	14	82733	Unreliable
+	"Bastrop County, TX"	"48021"	"2017"	"2017"	"Unintentional"	"1"	48	84761	56.6
+	"Bastrop County, TX"	"48021"	"2017"	"2017"	"Suicide"	"2"	18	84761	Unreliable
+	"Bastrop County, TX"	"48021"	"2018"	"2018"	"Unintentional"	"1"	59	86976	67.8
+	"Bastrop County, TX"	"48021"	"2018"	"2018"	"Suicide"	"2"	15	86976	Unreliable
+	"Bell County, TX"	"48027"	"1999"	"1999"	"Unintentional"	"1"	83	233886	35.5
+	"Bell County, TX"	"48027"	"1999"	"1999"	"Suicide"	"2"	24	233886	10.3
+	"Bell County, TX"	"48027"	"2000"	"2000"	"Unintentional"	"1"	78	237974	32.8
+	"Bell County, TX"	"48027"	"2000"	"2000"	"Suicide"	"2"	33	237974	13.9
+	"Bell County, TX"	"48027"	"2000"	"2000"	"Homicide"	"3"	11	237974	Unreliable
+	"Bell County, TX"	"48027"	"2001"	"2001"	"Unintentional"	"1"	70	244299	28.7
+	"Bell County, TX"	"48027"	"2001"	"2001"	"Suicide"	"2"	24	244299	9.8
+	"Bell County, TX"	"48027"	"2001"	"2001"	"Homicide"	"3"	15	244299	Unreliable
+	"Bell County, TX"	"48027"	"2002"	"2002"	"Unintentional"	"1"	88	249671	35.2
+	"Bell County, TX"	"48027"	"2002"	"2002"	"Suicide"	"2"	25	249671	10.0
+	"Bell County, TX"	"48027"	"2002"	"2002"	"Homicide"	"3"	13	249671	Unreliable
+	"Bell County, TX"	"48027"	"2003"	"2003"	"Unintentional"	"1"	90	252922	35.6
+	"Bell County, TX"	"48027"	"2003"	"2003"	"Suicide"	"2"	27	252922	10.7
+	"Bell County, TX"	"48027"	"2003"	"2003"	"Homicide"	"3"	11	252922	Unreliable
+	"Bell County, TX"	"48027"	"2004"	"2004"	"Unintentional"	"1"	90	258138	34.9
+	"Bell County, TX"	"48027"	"2004"	"2004"	"Suicide"	"2"	24	258138	9.3
+	"Bell County, TX"	"48027"	"2004"	"2004"	"Homicide"	"3"	16	258138	Unreliable
+	"Bell County, TX"	"48027"	"2005"	"2005"	"Unintentional"	"1"	82	266017	30.8
+	"Bell County, TX"	"48027"	"2005"	"2005"	"Suicide"	"2"	26	266017	9.8
+	"Bell County, TX"	"48027"	"2005"	"2005"	"Homicide"	"3"	21	266017	7.9
+	"Bell County, TX"	"48027"	"2006"	"2006"	"Unintentional"	"1"	75	273771	27.4
+	"Bell County, TX"	"48027"	"2006"	"2006"	"Suicide"	"2"	20	273771	7.3
+	"Bell County, TX"	"48027"	"2006"	"2006"	"Homicide"	"3"	13	273771	Unreliable
+	"Bell County, TX"	"48027"	"2007"	"2007"	"Unintentional"	"1"	104	287752	36.1
+	"Bell County, TX"	"48027"	"2007"	"2007"	"Suicide"	"2"	27	287752	9.4
+	"Bell County, TX"	"48027"	"2007"	"2007"	"Homicide"	"3"	20	287752	7.0
+	"Bell County, TX"	"48027"	"2008"	"2008"	"Unintentional"	"1"	106	297873	35.6
+	"Bell County, TX"	"48027"	"2008"	"2008"	"Suicide"	"2"	28	297873	9.4
+	"Bell County, TX"	"48027"	"2008"	"2008"	"Homicide"	"3"	16	297873	Unreliable
+	"Bell County, TX"	"48027"	"2009"	"2009"	"Unintentional"	"1"	92	301050	30.6
+	"Bell County, TX"	"48027"	"2009"	"2009"	"Suicide"	"2"	31	301050	10.3
+	"Bell County, TX"	"48027"	"2009"	"2009"	"Homicide"	"3"	19	301050	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Unintentional"	"1"	119	310235	38.4
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Suicide"	"2"	48	310235	15.5
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Homicide"	"3"	20	310235	6.4
+	"Bell County, TX"	"48027"	"2011"	"2011"	"Unintentional"	"1"	105	315196	33.3
+	"Bell County, TX"	"48027"	"2011"	"2011"	"Suicide"	"2"	47	315196	14.9
+	"Bell County, TX"	"48027"	"2011"	"2011"	"Homicide"	"3"	16	315196	Unreliable
+	"Bell County, TX"	"48027"	"2012"	"2012"	"Unintentional"	"1"	122	323037	37.8
+	"Bell County, TX"	"48027"	"2012"	"2012"	"Suicide"	"2"	54	323037	16.7
+	"Bell County, TX"	"48027"	"2012"	"2012"	"Homicide"	"3"	15	323037	Unreliable
+	"Bell County, TX"	"48027"	"2013"	"2013"	"Unintentional"	"1"	96	326843	29.4
+	"Bell County, TX"	"48027"	"2013"	"2013"	"Suicide"	"2"	39	326843	11.9
+	"Bell County, TX"	"48027"	"2013"	"2013"	"Homicide"	"3"	18	326843	Unreliable
+	"Bell County, TX"	"48027"	"2014"	"2014"	"Unintentional"	"1"	111	329140	33.7
+	"Bell County, TX"	"48027"	"2014"	"2014"	"Suicide"	"2"	63	329140	19.1
+	"Bell County, TX"	"48027"	"2014"	"2014"	"Homicide"	"3"	26	329140	7.9
+	"Bell County, TX"	"48027"	"2015"	"2015"	"Unintentional"	"1"	124	334941	37.0
+	"Bell County, TX"	"48027"	"2015"	"2015"	"Suicide"	"2"	49	334941	14.6
+	"Bell County, TX"	"48027"	"2015"	"2015"	"Homicide"	"3"	23	334941	6.9
+	"Bell County, TX"	"48027"	"2016"	"2016"	"Unintentional"	"1"	131	340411	38.5
+	"Bell County, TX"	"48027"	"2016"	"2016"	"Suicide"	"2"	53	340411	15.6
+	"Bell County, TX"	"48027"	"2016"	"2016"	"Homicide"	"3"	25	340411	7.3
+	"Bell County, TX"	"48027"	"2017"	"2017"	"Unintentional"	"1"	126	347833	36.2
+	"Bell County, TX"	"48027"	"2017"	"2017"	"Suicide"	"2"	57	347833	16.4
+	"Bell County, TX"	"48027"	"2017"	"2017"	"Homicide"	"3"	30	347833	8.6
+	"Bell County, TX"	"48027"	"2018"	"2018"	"Unintentional"	"1"	150	355642	42.2
+	"Bell County, TX"	"48027"	"2018"	"2018"	"Suicide"	"2"	70	355642	19.7
+	"Bell County, TX"	"48027"	"2018"	"2018"	"Homicide"	"3"	28	355642	7.9
+	"Bexar County, TX"	"48029"	"1999"	"1999"	"Unintentional"	"1"	378	1378688	27.4
+	"Bexar County, TX"	"48029"	"1999"	"1999"	"Suicide"	"2"	139	1378688	10.1
+	"Bexar County, TX"	"48029"	"1999"	"1999"	"Homicide"	"3"	120	1378688	8.7
+	"Bexar County, TX"	"48029"	"2000"	"2000"	"Unintentional"	"1"	448	1392931	32.2
+	"Bexar County, TX"	"48029"	"2000"	"2000"	"Suicide"	"2"	145	1392931	10.4
+	"Bexar County, TX"	"48029"	"2000"	"2000"	"Homicide"	"3"	100	1392931	7.2
+	"Bexar County, TX"	"48029"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	15	1392931	Unreliable
+	"Bexar County, TX"	"48029"	"2001"	"2001"	"Unintentional"	"1"	416	1419020	29.3
+	"Bexar County, TX"	"48029"	"2001"	"2001"	"Suicide"	"2"	149	1419020	10.5
+	"Bexar County, TX"	"48029"	"2001"	"2001"	"Homicide"	"3"	112	1419020	7.9
+	"Bexar County, TX"	"48029"	"2001"	"2001"	"Undetermined "	"4"	17	1419020	Unreliable
+	"Bexar County, TX"	"48029"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	12	1419020	Unreliable
+	"Bexar County, TX"	"48029"	"2002"	"2002"	"Unintentional"	"1"	498	1446755	34.4
+	"Bexar County, TX"	"48029"	"2002"	"2002"	"Suicide"	"2"	137	1446755	9.5
+	"Bexar County, TX"	"48029"	"2002"	"2002"	"Homicide"	"3"	123	1446755	8.5
+	"Bexar County, TX"	"48029"	"2002"	"2002"	"Undetermined "	"4"	15	1446755	Unreliable
+	"Bexar County, TX"	"48029"	"2003"	"2003"	"Unintentional"	"1"	520	1469623	35.4
+	"Bexar County, TX"	"48029"	"2003"	"2003"	"Suicide"	"2"	146	1469623	9.9
+	"Bexar County, TX"	"48029"	"2003"	"2003"	"Homicide"	"3"	108	1469623	7.3
+	"Bexar County, TX"	"48029"	"2003"	"2003"	"Undetermined "	"4"	17	1469623	Unreliable
+	"Bexar County, TX"	"48029"	"2004"	"2004"	"Unintentional"	"1"	601	1500919	40.0
+	"Bexar County, TX"	"48029"	"2004"	"2004"	"Suicide"	"2"	130	1500919	8.7
+	"Bexar County, TX"	"48029"	"2004"	"2004"	"Homicide"	"3"	102	1500919	6.8
+	"Bexar County, TX"	"48029"	"2004"	"2004"	"Undetermined "	"4"	23	1500919	1.5
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Unintentional"	"1"	597	1529270	39.0
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Suicide"	"2"	160	1529270	10.5
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Homicide"	"3"	111	1529270	7.3
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Undetermined "	"4"	22	1529270	1.4
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Legal Intervention / Operations of War"	"5"	11	1529270	Unreliable
+	"Bexar County, TX"	"48029"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	11	1529270	Unreliable
+	"Bexar County, TX"	"48029"	"2006"	"2006"	"Unintentional"	"1"	604	1573935	38.4
+	"Bexar County, TX"	"48029"	"2006"	"2006"	"Suicide"	"2"	161	1573935	10.2
+	"Bexar County, TX"	"48029"	"2006"	"2006"	"Homicide"	"3"	131	1573935	8.3
+	"Bexar County, TX"	"48029"	"2006"	"2006"	"Undetermined "	"4"	16	1573935	Unreliable
+	"Bexar County, TX"	"48029"	"2007"	"2007"	"Unintentional"	"1"	615	1615210	38.1
+	"Bexar County, TX"	"48029"	"2007"	"2007"	"Suicide"	"2"	142	1615210	8.8
+	"Bexar County, TX"	"48029"	"2007"	"2007"	"Homicide"	"3"	134	1615210	8.3
+	"Bexar County, TX"	"48029"	"2007"	"2007"	"Undetermined "	"4"	14	1615210	Unreliable
+	"Bexar County, TX"	"48029"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	17	1615210	Unreliable
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Unintentional"	"1"	691	1651709	41.8
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Suicide"	"2"	147	1651709	8.9
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Homicide"	"3"	153	1651709	9.3
+	"Bexar County, TX"	"48029"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	1651709	Unreliable
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Unintentional"	"1"	683	1685628	40.5
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Suicide"	"2"	198	1685628	11.7
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Homicide"	"3"	123	1685628	7.3
+	"Bexar County, TX"	"48029"	"2009"	"2009"	"Undetermined "	"4"	12	1685628	Unreliable
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Unintentional"	"1"	686	1714773	40.0
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Suicide"	"2"	183	1714773	10.7
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Homicide"	"3"	106	1714773	6.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Undetermined "	"4"	16	1714773	Unreliable
+	"Bexar County, TX"	"48029"	"2011"	"2011"	"Unintentional"	"1"	744	1756153	42.4
+	"Bexar County, TX"	"48029"	"2011"	"2011"	"Suicide"	"2"	185	1756153	10.5
+	"Bexar County, TX"	"48029"	"2011"	"2011"	"Homicide"	"3"	99	1756153	5.6
+	"Bexar County, TX"	"48029"	"2011"	"2011"	"Undetermined "	"4"	24	1756153	1.4
+	"Bexar County, TX"	"48029"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	11	1756153	Unreliable
+	"Bexar County, TX"	"48029"	"2012"	"2012"	"Unintentional"	"1"	730	1785704	40.9
+	"Bexar County, TX"	"48029"	"2012"	"2012"	"Suicide"	"2"	196	1785704	11.0
+	"Bexar County, TX"	"48029"	"2012"	"2012"	"Homicide"	"3"	116	1785704	6.5
+	"Bexar County, TX"	"48029"	"2012"	"2012"	"Undetermined "	"4"	18	1785704	Unreliable
+	"Bexar County, TX"	"48029"	"2013"	"2013"	"Unintentional"	"1"	689	1817610	37.9
+	"Bexar County, TX"	"48029"	"2013"	"2013"	"Suicide"	"2"	187	1817610	10.3
+	"Bexar County, TX"	"48029"	"2013"	"2013"	"Homicide"	"3"	110	1817610	6.1
+	"Bexar County, TX"	"48029"	"2013"	"2013"	"Undetermined "	"4"	21	1817610	1.2
+	"Bexar County, TX"	"48029"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	13	1817610	Unreliable
+	"Bexar County, TX"	"48029"	"2014"	"2014"	"Unintentional"	"1"	683	1855866	36.8
+	"Bexar County, TX"	"48029"	"2014"	"2014"	"Suicide"	"2"	187	1855866	10.1
+	"Bexar County, TX"	"48029"	"2014"	"2014"	"Homicide"	"3"	132	1855866	7.1
+	"Bexar County, TX"	"48029"	"2014"	"2014"	"Undetermined "	"4"	26	1855866	1.4
+	"Bexar County, TX"	"48029"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	12	1855866	Unreliable
+	"Bexar County, TX"	"48029"	"2015"	"2015"	"Unintentional"	"1"	740	1897753	39.0
+	"Bexar County, TX"	"48029"	"2015"	"2015"	"Suicide"	"2"	209	1897753	11.0
+	"Bexar County, TX"	"48029"	"2015"	"2015"	"Homicide"	"3"	121	1897753	6.4
+	"Bexar County, TX"	"48029"	"2015"	"2015"	"Undetermined "	"4"	27	1897753	1.4
+	"Bexar County, TX"	"48029"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	17	1897753	Unreliable
+	"Bexar County, TX"	"48029"	"2016"	"2016"	"Unintentional"	"1"	764	1928680	39.6
+	"Bexar County, TX"	"48029"	"2016"	"2016"	"Suicide"	"2"	230	1928680	11.9
+	"Bexar County, TX"	"48029"	"2016"	"2016"	"Homicide"	"3"	189	1928680	9.8
+	"Bexar County, TX"	"48029"	"2016"	"2016"	"Undetermined "	"4"	16	1928680	Unreliable
+	"Bexar County, TX"	"48029"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	10	1928680	Unreliable
+	"Bexar County, TX"	"48029"	"2017"	"2017"	"Unintentional"	"1"	698	1958578	35.6
+	"Bexar County, TX"	"48029"	"2017"	"2017"	"Suicide"	"2"	261	1958578	13.3
+	"Bexar County, TX"	"48029"	"2017"	"2017"	"Homicide"	"3"	159	1958578	8.1
+	"Bexar County, TX"	"48029"	"2017"	"2017"	"Undetermined "	"4"	24	1958578	1.2
+	"Bexar County, TX"	"48029"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	13	1958578	Unreliable
+	"Bexar County, TX"	"48029"	"2018"	"2018"	"Unintentional"	"1"	775	1986049	39.0
+	"Bexar County, TX"	"48029"	"2018"	"2018"	"Suicide"	"2"	267	1986049	13.4
+	"Bexar County, TX"	"48029"	"2018"	"2018"	"Homicide"	"3"	154	1986049	7.8
+	"Bexar County, TX"	"48029"	"2018"	"2018"	"Undetermined "	"4"	12	1986049	Unreliable
+	"Bexar County, TX"	"48029"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	15	1986049	Unreliable
+	"Brazoria County, TX"	"48039"	"1999"	"1999"	"Unintentional"	"1"	79	237602	33.2
+	"Brazoria County, TX"	"48039"	"1999"	"1999"	"Suicide"	"2"	24	237602	10.1
+	"Brazoria County, TX"	"48039"	"2000"	"2000"	"Unintentional"	"1"	88	241767	36.4
+	"Brazoria County, TX"	"48039"	"2000"	"2000"	"Suicide"	"2"	34	241767	14.1
+	"Brazoria County, TX"	"48039"	"2001"	"2001"	"Unintentional"	"1"	95	248280	38.3
+	"Brazoria County, TX"	"48039"	"2001"	"2001"	"Suicide"	"2"	38	248280	15.3
+	"Brazoria County, TX"	"48039"	"2002"	"2002"	"Unintentional"	"1"	96	255246	37.6
+	"Brazoria County, TX"	"48039"	"2002"	"2002"	"Suicide"	"2"	29	255246	11.4
+	"Brazoria County, TX"	"48039"	"2002"	"2002"	"Homicide"	"3"	11	255246	Unreliable
+	"Brazoria County, TX"	"48039"	"2003"	"2003"	"Unintentional"	"1"	97	261269	37.1
+	"Brazoria County, TX"	"48039"	"2003"	"2003"	"Suicide"	"2"	32	261269	12.2
+	"Brazoria County, TX"	"48039"	"2003"	"2003"	"Homicide"	"3"	11	261269	Unreliable
+	"Brazoria County, TX"	"48039"	"2004"	"2004"	"Unintentional"	"1"	109	268051	40.7
+	"Brazoria County, TX"	"48039"	"2004"	"2004"	"Suicide"	"2"	34	268051	12.7
+	"Brazoria County, TX"	"48039"	"2005"	"2005"	"Unintentional"	"1"	136	274336	49.6
+	"Brazoria County, TX"	"48039"	"2005"	"2005"	"Suicide"	"2"	35	274336	12.8
+	"Brazoria County, TX"	"48039"	"2005"	"2005"	"Homicide"	"3"	13	274336	Unreliable
+	"Brazoria County, TX"	"48039"	"2006"	"2006"	"Unintentional"	"1"	124	284248	43.6
+	"Brazoria County, TX"	"48039"	"2006"	"2006"	"Suicide"	"2"	35	284248	12.3
+	"Brazoria County, TX"	"48039"	"2007"	"2007"	"Unintentional"	"1"	99	293296	33.8
+	"Brazoria County, TX"	"48039"	"2007"	"2007"	"Suicide"	"2"	28	293296	9.5
+	"Brazoria County, TX"	"48039"	"2007"	"2007"	"Homicide"	"3"	19	293296	Unreliable
+	"Brazoria County, TX"	"48039"	"2008"	"2008"	"Unintentional"	"1"	128	301336	42.5
+	"Brazoria County, TX"	"48039"	"2008"	"2008"	"Suicide"	"2"	39	301336	12.9
+	"Brazoria County, TX"	"48039"	"2008"	"2008"	"Homicide"	"3"	16	301336	Unreliable
+	"Brazoria County, TX"	"48039"	"2009"	"2009"	"Unintentional"	"1"	122	309236	39.5
+	"Brazoria County, TX"	"48039"	"2009"	"2009"	"Suicide"	"2"	38	309236	12.3
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Unintentional"	"1"	127	313166	40.6
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Suicide"	"2"	31	313166	9.9
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Homicide"	"3"	13	313166	Unreliable
+	"Brazoria County, TX"	"48039"	"2011"	"2011"	"Unintentional"	"1"	108	319973	33.8
+	"Brazoria County, TX"	"48039"	"2011"	"2011"	"Suicide"	"2"	44	319973	13.8
+	"Brazoria County, TX"	"48039"	"2011"	"2011"	"Homicide"	"3"	10	319973	Unreliable
+	"Brazoria County, TX"	"48039"	"2012"	"2012"	"Unintentional"	"1"	121	324769	37.3
+	"Brazoria County, TX"	"48039"	"2012"	"2012"	"Suicide"	"2"	34	324769	10.5
+	"Brazoria County, TX"	"48039"	"2012"	"2012"	"Homicide"	"3"	13	324769	Unreliable
+	"Brazoria County, TX"	"48039"	"2013"	"2013"	"Unintentional"	"1"	126	330242	38.2
+	"Brazoria County, TX"	"48039"	"2013"	"2013"	"Suicide"	"2"	43	330242	13.0
+	"Brazoria County, TX"	"48039"	"2013"	"2013"	"Homicide"	"3"	14	330242	Unreliable
+	"Brazoria County, TX"	"48039"	"2014"	"2014"	"Unintentional"	"1"	98	338124	29.0
+	"Brazoria County, TX"	"48039"	"2014"	"2014"	"Suicide"	"2"	49	338124	14.5
+	"Brazoria County, TX"	"48039"	"2014"	"2014"	"Homicide"	"3"	12	338124	Unreliable
+	"Brazoria County, TX"	"48039"	"2015"	"2015"	"Unintentional"	"1"	117	346312	33.8
+	"Brazoria County, TX"	"48039"	"2015"	"2015"	"Suicide"	"2"	45	346312	13.0
+	"Brazoria County, TX"	"48039"	"2015"	"2015"	"Homicide"	"3"	11	346312	Unreliable
+	"Brazoria County, TX"	"48039"	"2016"	"2016"	"Unintentional"	"1"	134	354195	37.8
+	"Brazoria County, TX"	"48039"	"2016"	"2016"	"Suicide"	"2"	35	354195	9.9
+	"Brazoria County, TX"	"48039"	"2016"	"2016"	"Homicide"	"3"	14	354195	Unreliable
+	"Brazoria County, TX"	"48039"	"2017"	"2017"	"Unintentional"	"1"	119	362457	32.8
+	"Brazoria County, TX"	"48039"	"2017"	"2017"	"Suicide"	"2"	54	362457	14.9
+	"Brazoria County, TX"	"48039"	"2017"	"2017"	"Homicide"	"3"	22	362457	6.1
+	"Brazoria County, TX"	"48039"	"2018"	"2018"	"Unintentional"	"1"	124	370200	33.5
+	"Brazoria County, TX"	"48039"	"2018"	"2018"	"Suicide"	"2"	52	370200	14.0
+	"Brazoria County, TX"	"48039"	"2018"	"2018"	"Homicide"	"3"	15	370200	Unreliable
+	"Caldwell County, TX"	"48055"	"1999"	"1999"	"Unintentional"	"1"	14	31485	Unreliable
+	"Caldwell County, TX"	"48055"	"2000"	"2000"	"Unintentional"	"1"	23	32194	71.4
+	"Caldwell County, TX"	"48055"	"2001"	"2001"	"Unintentional"	"1"	18	33654	Unreliable
+	"Caldwell County, TX"	"48055"	"2002"	"2002"	"Unintentional"	"1"	13	34715	Unreliable
+	"Caldwell County, TX"	"48055"	"2003"	"2003"	"Unintentional"	"1"	14	35330	Unreliable
+	"Caldwell County, TX"	"48055"	"2004"	"2004"	"Unintentional"	"1"	15	36200	Unreliable
+	"Caldwell County, TX"	"48055"	"2005"	"2005"	"Unintentional"	"1"	12	36388	Unreliable
+	"Caldwell County, TX"	"48055"	"2006"	"2006"	"Unintentional"	"1"	14	36533	Unreliable
+	"Caldwell County, TX"	"48055"	"2007"	"2007"	"Unintentional"	"1"	22	36906	59.6
+	"Caldwell County, TX"	"48055"	"2008"	"2008"	"Unintentional"	"1"	14	37671	Unreliable
+	"Caldwell County, TX"	"48055"	"2009"	"2009"	"Unintentional"	"1"	25	37829	66.1
+	"Caldwell County, TX"	"48055"	"2010"	"2010"	"Unintentional"	"1"	17	38066	Unreliable
+	"Caldwell County, TX"	"48055"	"2011"	"2011"	"Unintentional"	"1"	17	38442	Unreliable
+	"Caldwell County, TX"	"48055"	"2012"	"2012"	"Unintentional"	"1"	12	38734	Unreliable
+	"Caldwell County, TX"	"48055"	"2013"	"2013"	"Unintentional"	"1"	18	39232	Unreliable
+	"Caldwell County, TX"	"48055"	"2014"	"2014"	"Unintentional"	"1"	23	39810	57.8
+	"Caldwell County, TX"	"48055"	"2015"	"2015"	"Unintentional"	"1"	15	40522	Unreliable
+	"Caldwell County, TX"	"48055"	"2016"	"2016"	"Unintentional"	"1"	21	41161	51.0
+	"Caldwell County, TX"	"48055"	"2017"	"2017"	"Unintentional"	"1"	29	42338	68.5
+	"Caldwell County, TX"	"48055"	"2018"	"2018"	"Unintentional"	"1"	22	43247	50.9
+	"Cameron County, TX"	"48061"	"1999"	"1999"	"Unintentional"	"1"	86	330277	26.0
+	"Cameron County, TX"	"48061"	"1999"	"1999"	"Suicide"	"2"	11	330277	Unreliable
+	"Cameron County, TX"	"48061"	"1999"	"1999"	"Homicide"	"3"	10	330277	Unreliable
+	"Cameron County, TX"	"48061"	"2000"	"2000"	"Unintentional"	"1"	70	335227	20.9
+	"Cameron County, TX"	"48061"	"2000"	"2000"	"Suicide"	"2"	21	335227	6.3
+	"Cameron County, TX"	"48061"	"2000"	"2000"	"Homicide"	"3"	13	335227	Unreliable
+	"Cameron County, TX"	"48061"	"2001"	"2001"	"Unintentional"	"1"	88	342368	25.7
+	"Cameron County, TX"	"48061"	"2001"	"2001"	"Suicide"	"2"	20	342368	5.8
+	"Cameron County, TX"	"48061"	"2001"	"2001"	"Homicide"	"3"	13	342368	Unreliable
+	"Cameron County, TX"	"48061"	"2002"	"2002"	"Unintentional"	"1"	106	350194	30.3
+	"Cameron County, TX"	"48061"	"2002"	"2002"	"Suicide"	"2"	25	350194	7.1
+	"Cameron County, TX"	"48061"	"2002"	"2002"	"Homicide"	"3"	14	350194	Unreliable
+	"Cameron County, TX"	"48061"	"2003"	"2003"	"Unintentional"	"1"	80	358492	22.3
+	"Cameron County, TX"	"48061"	"2003"	"2003"	"Suicide"	"2"	17	358492	Unreliable
+	"Cameron County, TX"	"48061"	"2003"	"2003"	"Homicide"	"3"	14	358492	Unreliable
+	"Cameron County, TX"	"48061"	"2004"	"2004"	"Unintentional"	"1"	88	366299	24.0
+	"Cameron County, TX"	"48061"	"2004"	"2004"	"Suicide"	"2"	19	366299	Unreliable
+	"Cameron County, TX"	"48061"	"2005"	"2005"	"Unintentional"	"1"	92	373429	24.6
+	"Cameron County, TX"	"48061"	"2005"	"2005"	"Suicide"	"2"	18	373429	Unreliable
+	"Cameron County, TX"	"48061"	"2005"	"2005"	"Homicide"	"3"	11	373429	Unreliable
+	"Cameron County, TX"	"48061"	"2006"	"2006"	"Unintentional"	"1"	71	380169	18.7
+	"Cameron County, TX"	"48061"	"2006"	"2006"	"Suicide"	"2"	18	380169	Unreliable
+	"Cameron County, TX"	"48061"	"2006"	"2006"	"Homicide"	"3"	14	380169	Unreliable
+	"Cameron County, TX"	"48061"	"2007"	"2007"	"Unintentional"	"1"	87	386306	22.5
+	"Cameron County, TX"	"48061"	"2007"	"2007"	"Suicide"	"2"	23	386306	6.0
+	"Cameron County, TX"	"48061"	"2007"	"2007"	"Homicide"	"3"	11	386306	Unreliable
+	"Cameron County, TX"	"48061"	"2008"	"2008"	"Unintentional"	"1"	87	393000	22.1
+	"Cameron County, TX"	"48061"	"2008"	"2008"	"Suicide"	"2"	24	393000	6.1
+	"Cameron County, TX"	"48061"	"2009"	"2009"	"Unintentional"	"1"	94	400303	23.5
+	"Cameron County, TX"	"48061"	"2009"	"2009"	"Suicide"	"2"	29	400303	7.2
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Unintentional"	"1"	99	406220	24.4
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Suicide"	"2"	22	406220	5.4
+	"Cameron County, TX"	"48061"	"2011"	"2011"	"Unintentional"	"1"	96	414123	23.2
+	"Cameron County, TX"	"48061"	"2011"	"2011"	"Suicide"	"2"	18	414123	Unreliable
+	"Cameron County, TX"	"48061"	"2011"	"2011"	"Homicide"	"3"	10	414123	Unreliable
+	"Cameron County, TX"	"48061"	"2012"	"2012"	"Unintentional"	"1"	74	415557	17.8
+	"Cameron County, TX"	"48061"	"2012"	"2012"	"Suicide"	"2"	27	415557	6.5
+	"Cameron County, TX"	"48061"	"2012"	"2012"	"Homicide"	"3"	12	415557	Unreliable
+	"Cameron County, TX"	"48061"	"2013"	"2013"	"Unintentional"	"1"	71	417276	17.0
+	"Cameron County, TX"	"48061"	"2013"	"2013"	"Suicide"	"2"	29	417276	6.9
+	"Cameron County, TX"	"48061"	"2014"	"2014"	"Unintentional"	"1"	89	420392	21.2
+	"Cameron County, TX"	"48061"	"2014"	"2014"	"Suicide"	"2"	28	420392	6.7
+	"Cameron County, TX"	"48061"	"2014"	"2014"	"Homicide"	"3"	12	420392	Unreliable
+	"Cameron County, TX"	"48061"	"2015"	"2015"	"Unintentional"	"1"	92	422156	21.8
+	"Cameron County, TX"	"48061"	"2015"	"2015"	"Suicide"	"2"	21	422156	5.0
+	"Cameron County, TX"	"48061"	"2016"	"2016"	"Unintentional"	"1"	101	422135	23.9
+	"Cameron County, TX"	"48061"	"2016"	"2016"	"Suicide"	"2"	27	422135	6.4
+	"Cameron County, TX"	"48061"	"2016"	"2016"	"Homicide"	"3"	15	422135	Unreliable
+	"Cameron County, TX"	"48061"	"2017"	"2017"	"Unintentional"	"1"	98	423725	23.1
+	"Cameron County, TX"	"48061"	"2017"	"2017"	"Suicide"	"2"	42	423725	9.9
+	"Cameron County, TX"	"48061"	"2018"	"2018"	"Unintentional"	"1"	95	423908	22.4
+	"Cameron County, TX"	"48061"	"2018"	"2018"	"Suicide"	"2"	39	423908	9.2
+	"Chambers County, TX"	"48071"	"1999"	"1999"	"Unintentional"	"1"	11	25515	Unreliable
+	"Chambers County, TX"	"48071"	"2000"	"2000"	"Unintentional"	"1"	13	26031	Unreliable
+	"Chambers County, TX"	"48071"	"2001"	"2001"	"Unintentional"	"1"	14	26811	Unreliable
+	"Chambers County, TX"	"48071"	"2002"	"2002"	"Unintentional"	"1"	19	27490	Unreliable
+	"Chambers County, TX"	"48071"	"2003"	"2003"	"Unintentional"	"1"	22	28021	78.5
+	"Chambers County, TX"	"48071"	"2004"	"2004"	"Unintentional"	"1"	14	28749	Unreliable
+	"Chambers County, TX"	"48071"	"2005"	"2005"	"Unintentional"	"1"	21	29388	71.5
+	"Chambers County, TX"	"48071"	"2006"	"2006"	"Unintentional"	"1"	14	29980	Unreliable
+	"Chambers County, TX"	"48071"	"2007"	"2007"	"Unintentional"	"1"	17	30714	Unreliable
+	"Chambers County, TX"	"48071"	"2008"	"2008"	"Unintentional"	"1"	24	31619	75.9
+	"Chambers County, TX"	"48071"	"2009"	"2009"	"Unintentional"	"1"	23	34230	67.2
+	"Chambers County, TX"	"48071"	"2010"	"2010"	"Unintentional"	"1"	23	35096	65.5
+	"Chambers County, TX"	"48071"	"2011"	"2011"	"Unintentional"	"1"	25	35552	70.3
+	"Chambers County, TX"	"48071"	"2012"	"2012"	"Unintentional"	"1"	24	36196	66.3
+	"Chambers County, TX"	"48071"	"2013"	"2013"	"Unintentional"	"1"	17	36812	Unreliable
+	"Chambers County, TX"	"48071"	"2013"	"2013"	"Suicide"	"2"	15	36812	Unreliable
+	"Chambers County, TX"	"48071"	"2014"	"2014"	"Unintentional"	"1"	23	38145	60.3
+	"Chambers County, TX"	"48071"	"2015"	"2015"	"Unintentional"	"1"	14	38863	Unreliable
+	"Chambers County, TX"	"48071"	"2016"	"2016"	"Unintentional"	"1"	15	39899	Unreliable
+	"Chambers County, TX"	"48071"	"2017"	"2017"	"Unintentional"	"1"	19	41441	Unreliable
+	"Chambers County, TX"	"48071"	"2018"	"2018"	"Unintentional"	"1"	16	42454	Unreliable
+	"Collin County, TX"	"48085"	"1999"	"1999"	"Unintentional"	"1"	87	468620	18.6
+	"Collin County, TX"	"48085"	"1999"	"1999"	"Suicide"	"2"	46	468620	9.8
+	"Collin County, TX"	"48085"	"2000"	"2000"	"Unintentional"	"1"	114	491675	23.2
+	"Collin County, TX"	"48085"	"2000"	"2000"	"Suicide"	"2"	41	491675	8.3
+	"Collin County, TX"	"48085"	"2000"	"2000"	"Homicide"	"3"	10	491675	Unreliable
+	"Collin County, TX"	"48085"	"2001"	"2001"	"Unintentional"	"1"	116	534642	21.7
+	"Collin County, TX"	"48085"	"2001"	"2001"	"Suicide"	"2"	37	534642	6.9
+	"Collin County, TX"	"48085"	"2001"	"2001"	"Homicide"	"3"	19	534642	Unreliable
+	"Collin County, TX"	"48085"	"2002"	"2002"	"Unintentional"	"1"	113	563565	20.1
+	"Collin County, TX"	"48085"	"2002"	"2002"	"Suicide"	"2"	44	563565	7.8
+	"Collin County, TX"	"48085"	"2002"	"2002"	"Homicide"	"3"	19	563565	Unreliable
+	"Collin County, TX"	"48085"	"2002"	"2002"	"Undetermined "	"4"	10	563565	Unreliable
+	"Collin County, TX"	"48085"	"2003"	"2003"	"Unintentional"	"1"	142	589394	24.1
+	"Collin County, TX"	"48085"	"2003"	"2003"	"Suicide"	"2"	41	589394	7.0
+	"Collin County, TX"	"48085"	"2003"	"2003"	"Homicide"	"3"	16	589394	Unreliable
+	"Collin County, TX"	"48085"	"2004"	"2004"	"Unintentional"	"1"	160	617802	25.9
+	"Collin County, TX"	"48085"	"2004"	"2004"	"Suicide"	"2"	52	617802	8.4
+	"Collin County, TX"	"48085"	"2004"	"2004"	"Homicide"	"3"	17	617802	Unreliable
+	"Collin County, TX"	"48085"	"2005"	"2005"	"Unintentional"	"1"	149	647187	23.0
+	"Collin County, TX"	"48085"	"2005"	"2005"	"Suicide"	"2"	61	647187	9.4
+	"Collin County, TX"	"48085"	"2005"	"2005"	"Homicide"	"3"	14	647187	Unreliable
+	"Collin County, TX"	"48085"	"2006"	"2006"	"Unintentional"	"1"	143	683935	20.9
+	"Collin County, TX"	"48085"	"2006"	"2006"	"Suicide"	"2"	51	683935	7.5
+	"Collin County, TX"	"48085"	"2006"	"2006"	"Homicide"	"3"	13	683935	Unreliable
+	"Collin County, TX"	"48085"	"2007"	"2007"	"Unintentional"	"1"	155	714330	21.7
+	"Collin County, TX"	"48085"	"2007"	"2007"	"Suicide"	"2"	51	714330	7.1
+	"Collin County, TX"	"48085"	"2008"	"2008"	"Unintentional"	"1"	163	741264	22.0
+	"Collin County, TX"	"48085"	"2008"	"2008"	"Suicide"	"2"	64	741264	8.6
+	"Collin County, TX"	"48085"	"2008"	"2008"	"Homicide"	"3"	14	741264	Unreliable
+	"Collin County, TX"	"48085"	"2009"	"2009"	"Unintentional"	"1"	178	765791	23.2
+	"Collin County, TX"	"48085"	"2009"	"2009"	"Suicide"	"2"	62	765791	8.1
+	"Collin County, TX"	"48085"	"2009"	"2009"	"Homicide"	"3"	13	765791	Unreliable
+	"Collin County, TX"	"48085"	"2009"	"2009"	"Undetermined "	"4"	12	765791	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Unintentional"	"1"	167	782341	21.3
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Suicide"	"2"	67	782341	8.6
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Homicide"	"3"	12	782341	Unreliable
+	"Collin County, TX"	"48085"	"2011"	"2011"	"Unintentional"	"1"	191	812226	23.5
+	"Collin County, TX"	"48085"	"2011"	"2011"	"Suicide"	"2"	92	812226	11.3
+	"Collin County, TX"	"48085"	"2011"	"2011"	"Homicide"	"3"	16	812226	Unreliable
+	"Collin County, TX"	"48085"	"2011"	"2011"	"Undetermined "	"4"	14	812226	Unreliable
+	"Collin County, TX"	"48085"	"2012"	"2012"	"Unintentional"	"1"	168	834642	20.1
+	"Collin County, TX"	"48085"	"2012"	"2012"	"Suicide"	"2"	72	834642	8.6
+	"Collin County, TX"	"48085"	"2012"	"2012"	"Homicide"	"3"	10	834642	Unreliable
+	"Collin County, TX"	"48085"	"2012"	"2012"	"Undetermined "	"4"	15	834642	Unreliable
+	"Collin County, TX"	"48085"	"2013"	"2013"	"Unintentional"	"1"	192	854778	22.5
+	"Collin County, TX"	"48085"	"2013"	"2013"	"Suicide"	"2"	117	854778	13.7
+	"Collin County, TX"	"48085"	"2013"	"2013"	"Homicide"	"3"	16	854778	Unreliable
+	"Collin County, TX"	"48085"	"2013"	"2013"	"Undetermined "	"4"	12	854778	Unreliable
+	"Collin County, TX"	"48085"	"2014"	"2014"	"Unintentional"	"1"	209	885241	23.6
+	"Collin County, TX"	"48085"	"2014"	"2014"	"Suicide"	"2"	91	885241	10.3
+	"Collin County, TX"	"48085"	"2014"	"2014"	"Homicide"	"3"	13	885241	Unreliable
+	"Collin County, TX"	"48085"	"2014"	"2014"	"Undetermined "	"4"	13	885241	Unreliable
+	"Collin County, TX"	"48085"	"2015"	"2015"	"Unintentional"	"1"	211	914127	23.1
+	"Collin County, TX"	"48085"	"2015"	"2015"	"Suicide"	"2"	91	914127	10.0
+	"Collin County, TX"	"48085"	"2015"	"2015"	"Homicide"	"3"	21	914127	2.3
+	"Collin County, TX"	"48085"	"2015"	"2015"	"Undetermined "	"4"	17	914127	Unreliable
+	"Collin County, TX"	"48085"	"2016"	"2016"	"Unintentional"	"1"	262	939585	27.9
+	"Collin County, TX"	"48085"	"2016"	"2016"	"Suicide"	"2"	100	939585	10.6
+	"Collin County, TX"	"48085"	"2016"	"2016"	"Homicide"	"3"	28	939585	3.0
+	"Collin County, TX"	"48085"	"2016"	"2016"	"Undetermined "	"4"	10	939585	Unreliable
+	"Collin County, TX"	"48085"	"2017"	"2017"	"Unintentional"	"1"	237	969603	24.4
+	"Collin County, TX"	"48085"	"2017"	"2017"	"Suicide"	"2"	120	969603	12.4
+	"Collin County, TX"	"48085"	"2017"	"2017"	"Homicide"	"3"	27	969603	2.8
+	"Collin County, TX"	"48085"	"2017"	"2017"	"Undetermined "	"4"	11	969603	Unreliable
+	"Collin County, TX"	"48085"	"2018"	"2018"	"Unintentional"	"1"	218	1005146	21.7
+	"Collin County, TX"	"48085"	"2018"	"2018"	"Suicide"	"2"	112	1005146	11.1
+	"Collin County, TX"	"48085"	"2018"	"2018"	"Homicide"	"3"	18	1005146	Unreliable
+	"Comal County, TX"	"48091"	"1999"	"1999"	"Unintentional"	"1"	39	75919	51.4
+	"Comal County, TX"	"48091"	"2000"	"2000"	"Unintentional"	"1"	24	78021	30.8
+	"Comal County, TX"	"48091"	"2001"	"2001"	"Unintentional"	"1"	44	80630	54.6
+	"Comal County, TX"	"48091"	"2002"	"2002"	"Unintentional"	"1"	45	82797	54.3
+	"Comal County, TX"	"48091"	"2002"	"2002"	"Suicide"	"2"	10	82797	Unreliable
+	"Comal County, TX"	"48091"	"2003"	"2003"	"Unintentional"	"1"	33	84837	38.9
+	"Comal County, TX"	"48091"	"2004"	"2004"	"Unintentional"	"1"	51	88119	57.9
+	"Comal County, TX"	"48091"	"2005"	"2005"	"Unintentional"	"1"	38	91018	41.7
+	"Comal County, TX"	"48091"	"2005"	"2005"	"Suicide"	"2"	13	91018	Unreliable
+	"Comal County, TX"	"48091"	"2006"	"2006"	"Unintentional"	"1"	43	95637	45.0
+	"Comal County, TX"	"48091"	"2006"	"2006"	"Suicide"	"2"	21	95637	22.0
+	"Comal County, TX"	"48091"	"2007"	"2007"	"Unintentional"	"1"	46	99540	46.2
+	"Comal County, TX"	"48091"	"2007"	"2007"	"Suicide"	"2"	16	99540	Unreliable
+	"Comal County, TX"	"48091"	"2008"	"2008"	"Unintentional"	"1"	39	103272	37.8
+	"Comal County, TX"	"48091"	"2008"	"2008"	"Suicide"	"2"	13	103272	Unreliable
+	"Comal County, TX"	"48091"	"2009"	"2009"	"Unintentional"	"1"	57	106350	53.6
+	"Comal County, TX"	"48091"	"2009"	"2009"	"Suicide"	"2"	15	106350	Unreliable
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Unintentional"	"1"	60	108472	55.3
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Suicide"	"2"	18	108472	Unreliable
+	"Comal County, TX"	"48091"	"2011"	"2011"	"Unintentional"	"1"	40	111963	35.7
+	"Comal County, TX"	"48091"	"2011"	"2011"	"Suicide"	"2"	17	111963	Unreliable
+	"Comal County, TX"	"48091"	"2012"	"2012"	"Unintentional"	"1"	59	114384	51.6
+	"Comal County, TX"	"48091"	"2012"	"2012"	"Suicide"	"2"	26	114384	22.7
+	"Comal County, TX"	"48091"	"2013"	"2013"	"Unintentional"	"1"	36	118480	30.4
+	"Comal County, TX"	"48091"	"2013"	"2013"	"Suicide"	"2"	15	118480	Unreliable
+	"Comal County, TX"	"48091"	"2014"	"2014"	"Unintentional"	"1"	33	123694	26.7
+	"Comal County, TX"	"48091"	"2014"	"2014"	"Suicide"	"2"	24	123694	19.4
+	"Comal County, TX"	"48091"	"2015"	"2015"	"Unintentional"	"1"	59	129048	45.7
+	"Comal County, TX"	"48091"	"2015"	"2015"	"Suicide"	"2"	19	129048	Unreliable
+	"Comal County, TX"	"48091"	"2016"	"2016"	"Unintentional"	"1"	49	134788	36.4
+	"Comal County, TX"	"48091"	"2016"	"2016"	"Suicide"	"2"	25	134788	18.5
+	"Comal County, TX"	"48091"	"2017"	"2017"	"Unintentional"	"1"	65	141009	46.1
+	"Comal County, TX"	"48091"	"2017"	"2017"	"Suicide"	"2"	33	141009	23.4
+	"Comal County, TX"	"48091"	"2018"	"2018"	"Unintentional"	"1"	57	148373	38.4
+	"Comal County, TX"	"48091"	"2018"	"2018"	"Suicide"	"2"	11	148373	Unreliable
+	"Coryell County, TX"	"48099"	"1999"	"1999"	"Unintentional"	"1"	22	74264	29.6
+	"Coryell County, TX"	"48099"	"2000"	"2000"	"Unintentional"	"1"	28	74978	37.3
+	"Coryell County, TX"	"48099"	"2000"	"2000"	"Suicide"	"2"	10	74978	Unreliable
+	"Coryell County, TX"	"48099"	"2001"	"2001"	"Unintentional"	"1"	13	74083	Unreliable
+	"Coryell County, TX"	"48099"	"2002"	"2002"	"Unintentional"	"1"	17	73135	Unreliable
+	"Coryell County, TX"	"48099"	"2002"	"2002"	"Suicide"	"2"	12	73135	Unreliable
+	"Coryell County, TX"	"48099"	"2003"	"2003"	"Unintentional"	"1"	16	71364	Unreliable
+	"Coryell County, TX"	"48099"	"2004"	"2004"	"Unintentional"	"1"	26	71943	36.1
+	"Coryell County, TX"	"48099"	"2005"	"2005"	"Unintentional"	"1"	24	72610	33.1
+	"Coryell County, TX"	"48099"	"2005"	"2005"	"Suicide"	"2"	12	72610	Unreliable
+	"Coryell County, TX"	"48099"	"2006"	"2006"	"Unintentional"	"1"	14	72217	Unreliable
+	"Coryell County, TX"	"48099"	"2007"	"2007"	"Unintentional"	"1"	20	73324	27.3
+	"Coryell County, TX"	"48099"	"2008"	"2008"	"Unintentional"	"1"	27	74552	36.2
+	"Coryell County, TX"	"48099"	"2008"	"2008"	"Suicide"	"2"	14	74552	Unreliable
+	"Coryell County, TX"	"48099"	"2009"	"2009"	"Unintentional"	"1"	27	74673	36.2
+	"Coryell County, TX"	"48099"	"2009"	"2009"	"Suicide"	"2"	11	74673	Unreliable
+	"Coryell County, TX"	"48099"	"2010"	"2010"	"Unintentional"	"1"	22	75388	29.2
+	"Coryell County, TX"	"48099"	"2011"	"2011"	"Unintentional"	"1"	25	76508	32.7
+	"Coryell County, TX"	"48099"	"2011"	"2011"	"Suicide"	"2"	13	76508	Unreliable
+	"Coryell County, TX"	"48099"	"2012"	"2012"	"Unintentional"	"1"	13	77231	Unreliable
+	"Coryell County, TX"	"48099"	"2012"	"2012"	"Suicide"	"2"	15	77231	Unreliable
+	"Coryell County, TX"	"48099"	"2013"	"2013"	"Unintentional"	"1"	23	76192	30.2
+	"Coryell County, TX"	"48099"	"2013"	"2013"	"Suicide"	"2"	12	76192	Unreliable
+	"Coryell County, TX"	"48099"	"2014"	"2014"	"Unintentional"	"1"	25	75562	33.1
+	"Coryell County, TX"	"48099"	"2015"	"2015"	"Unintentional"	"1"	33	75503	43.7
+	"Coryell County, TX"	"48099"	"2015"	"2015"	"Suicide"	"2"	15	75503	Unreliable
+	"Coryell County, TX"	"48099"	"2016"	"2016"	"Unintentional"	"1"	25	74686	33.5
+	"Coryell County, TX"	"48099"	"2016"	"2016"	"Suicide"	"2"	17	74686	Unreliable
+	"Coryell County, TX"	"48099"	"2017"	"2017"	"Unintentional"	"1"	24	74913	32.0
+	"Coryell County, TX"	"48099"	"2017"	"2017"	"Suicide"	"2"	18	74913	Unreliable
+	"Coryell County, TX"	"48099"	"2018"	"2018"	"Unintentional"	"1"	19	74808	Unreliable
+	"Coryell County, TX"	"48099"	"2018"	"2018"	"Suicide"	"2"	16	74808	Unreliable
+	"Dallas County, TX"	"48113"	"1999"	"1999"	"Unintentional"	"1"	684	2197658	31.1
+	"Dallas County, TX"	"48113"	"1999"	"1999"	"Suicide"	"2"	206	2197658	9.4
+	"Dallas County, TX"	"48113"	"1999"	"1999"	"Homicide"	"3"	200	2197658	9.1
+	"Dallas County, TX"	"48113"	"1999"	"1999"	"Undetermined "	"4"	27	2197658	1.2
+	"Dallas County, TX"	"48113"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	14	2197658	Unreliable
+	"Dallas County, TX"	"48113"	"2000"	"2000"	"Unintentional"	"1"	650	2218899	29.3
+	"Dallas County, TX"	"48113"	"2000"	"2000"	"Suicide"	"2"	175	2218899	7.9
+	"Dallas County, TX"	"48113"	"2000"	"2000"	"Homicide"	"3"	255	2218899	11.5
+	"Dallas County, TX"	"48113"	"2000"	"2000"	"Undetermined "	"4"	18	2218899	Unreliable
+	"Dallas County, TX"	"48113"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	26	2218899	1.2
+	"Dallas County, TX"	"48113"	"2001"	"2001"	"Unintentional"	"1"	722	2249418	32.1
+	"Dallas County, TX"	"48113"	"2001"	"2001"	"Suicide"	"2"	223	2249418	9.9
+	"Dallas County, TX"	"48113"	"2001"	"2001"	"Homicide"	"3"	297	2249418	13.2
+	"Dallas County, TX"	"48113"	"2001"	"2001"	"Undetermined "	"4"	23	2249418	1.0
+	"Dallas County, TX"	"48113"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	15	2249418	Unreliable
+	"Dallas County, TX"	"48113"	"2002"	"2002"	"Unintentional"	"1"	724	2250326	32.2
+	"Dallas County, TX"	"48113"	"2002"	"2002"	"Suicide"	"2"	230	2250326	10.2
+	"Dallas County, TX"	"48113"	"2002"	"2002"	"Homicide"	"3"	261	2250326	11.6
+	"Dallas County, TX"	"48113"	"2002"	"2002"	"Undetermined "	"4"	31	2250326	1.4
+	"Dallas County, TX"	"48113"	"2003"	"2003"	"Unintentional"	"1"	710	2246432	31.6
+	"Dallas County, TX"	"48113"	"2003"	"2003"	"Suicide"	"2"	220	2246432	9.8
+	"Dallas County, TX"	"48113"	"2003"	"2003"	"Homicide"	"3"	258	2246432	11.5
+	"Dallas County, TX"	"48113"	"2003"	"2003"	"Undetermined "	"4"	34	2246432	1.5
+	"Dallas County, TX"	"48113"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	10	2246432	Unreliable
+	"Dallas County, TX"	"48113"	"2004"	"2004"	"Unintentional"	"1"	740	2244020	33.0
+	"Dallas County, TX"	"48113"	"2004"	"2004"	"Suicide"	"2"	204	2244020	9.1
+	"Dallas County, TX"	"48113"	"2004"	"2004"	"Homicide"	"3"	277	2244020	12.3
+	"Dallas County, TX"	"48113"	"2004"	"2004"	"Undetermined "	"4"	34	2244020	1.5
+	"Dallas County, TX"	"48113"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	18	2244020	Unreliable
+	"Dallas County, TX"	"48113"	"2005"	"2005"	"Unintentional"	"1"	723	2250830	32.1
+	"Dallas County, TX"	"48113"	"2005"	"2005"	"Suicide"	"2"	221	2250830	9.8
+	"Dallas County, TX"	"48113"	"2005"	"2005"	"Homicide"	"3"	244	2250830	10.8
+	"Dallas County, TX"	"48113"	"2005"	"2005"	"Undetermined "	"4"	40	2250830	1.8
+	"Dallas County, TX"	"48113"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	22	2250830	1.0
+	"Dallas County, TX"	"48113"	"2006"	"2006"	"Unintentional"	"1"	724	2275434	31.8
+	"Dallas County, TX"	"48113"	"2006"	"2006"	"Suicide"	"2"	197	2275434	8.7
+	"Dallas County, TX"	"48113"	"2006"	"2006"	"Homicide"	"3"	231	2275434	10.2
+	"Dallas County, TX"	"48113"	"2006"	"2006"	"Undetermined "	"4"	37	2275434	1.6
+	"Dallas County, TX"	"48113"	"2007"	"2007"	"Unintentional"	"1"	743	2291891	32.4
+	"Dallas County, TX"	"48113"	"2007"	"2007"	"Suicide"	"2"	225	2291891	9.8
+	"Dallas County, TX"	"48113"	"2007"	"2007"	"Homicide"	"3"	253	2291891	11.0
+	"Dallas County, TX"	"48113"	"2007"	"2007"	"Undetermined "	"4"	25	2291891	1.1
+	"Dallas County, TX"	"48113"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	10	2291891	Unreliable
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Unintentional"	"1"	704	2314018	30.4
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Suicide"	"2"	203	2314018	8.8
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Homicide"	"3"	226	2314018	9.8
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Undetermined "	"4"	21	2314018	0.9
+	"Dallas County, TX"	"48113"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	20	2314018	0.9
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Unintentional"	"1"	732	2346378	31.2
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Suicide"	"2"	240	2346378	10.2
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Homicide"	"3"	213	2346378	9.1
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Undetermined "	"4"	21	2346378	0.9
+	"Dallas County, TX"	"48113"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	21	2346378	0.9
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Unintentional"	"1"	745	2368139	31.5
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Suicide"	"2"	256	2368139	10.8
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Homicide"	"3"	183	2368139	7.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Undetermined "	"4"	28	2368139	1.2
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	12	2368139	Unreliable
+	"Dallas County, TX"	"48113"	"2011"	"2011"	"Unintentional"	"1"	750	2416014	31.0
+	"Dallas County, TX"	"48113"	"2011"	"2011"	"Suicide"	"2"	228	2416014	9.4
+	"Dallas County, TX"	"48113"	"2011"	"2011"	"Homicide"	"3"	178	2416014	7.4
+	"Dallas County, TX"	"48113"	"2011"	"2011"	"Undetermined "	"4"	24	2416014	1.0
+	"Dallas County, TX"	"48113"	"2012"	"2012"	"Unintentional"	"1"	750	2453843	30.6
+	"Dallas County, TX"	"48113"	"2012"	"2012"	"Suicide"	"2"	271	2453843	11.0
+	"Dallas County, TX"	"48113"	"2012"	"2012"	"Homicide"	"3"	191	2453843	7.8
+	"Dallas County, TX"	"48113"	"2012"	"2012"	"Undetermined "	"4"	33	2453843	1.3
+	"Dallas County, TX"	"48113"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	15	2453843	Unreliable
+	"Dallas County, TX"	"48113"	"2013"	"2013"	"Unintentional"	"1"	769	2480331	31.0
+	"Dallas County, TX"	"48113"	"2013"	"2013"	"Suicide"	"2"	241	2480331	9.7
+	"Dallas County, TX"	"48113"	"2013"	"2013"	"Homicide"	"3"	207	2480331	8.3
+	"Dallas County, TX"	"48113"	"2013"	"2013"	"Undetermined "	"4"	17	2480331	Unreliable
+	"Dallas County, TX"	"48113"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	17	2480331	Unreliable
+	"Dallas County, TX"	"48113"	"2014"	"2014"	"Unintentional"	"1"	909	2518638	36.1
+	"Dallas County, TX"	"48113"	"2014"	"2014"	"Suicide"	"2"	241	2518638	9.6
+	"Dallas County, TX"	"48113"	"2014"	"2014"	"Homicide"	"3"	155	2518638	6.2
+	"Dallas County, TX"	"48113"	"2014"	"2014"	"Undetermined "	"4"	20	2518638	0.8
+	"Dallas County, TX"	"48113"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	15	2518638	Unreliable
+	"Dallas County, TX"	"48113"	"2015"	"2015"	"Unintentional"	"1"	846	2553385	33.1
+	"Dallas County, TX"	"48113"	"2015"	"2015"	"Suicide"	"2"	264	2553385	10.3
+	"Dallas County, TX"	"48113"	"2015"	"2015"	"Homicide"	"3"	204	2553385	8.0
+	"Dallas County, TX"	"48113"	"2015"	"2015"	"Undetermined "	"4"	17	2553385	Unreliable
+	"Dallas County, TX"	"48113"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	10	2553385	Unreliable
+	"Dallas County, TX"	"48113"	"2016"	"2016"	"Unintentional"	"1"	985	2574984	38.3
+	"Dallas County, TX"	"48113"	"2016"	"2016"	"Suicide"	"2"	263	2574984	10.2
+	"Dallas County, TX"	"48113"	"2016"	"2016"	"Homicide"	"3"	217	2574984	8.4
+	"Dallas County, TX"	"48113"	"2016"	"2016"	"Undetermined "	"4"	29	2574984	1.1
+	"Dallas County, TX"	"48113"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	20	2574984	0.8
+	"Dallas County, TX"	"48113"	"2017"	"2017"	"Unintentional"	"1"	932	2618148	35.6
+	"Dallas County, TX"	"48113"	"2017"	"2017"	"Suicide"	"2"	308	2618148	11.8
+	"Dallas County, TX"	"48113"	"2017"	"2017"	"Homicide"	"3"	214	2618148	8.2
+	"Dallas County, TX"	"48113"	"2017"	"2017"	"Undetermined "	"4"	15	2618148	Unreliable
+	"Dallas County, TX"	"48113"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	17	2618148	Unreliable
+	"Dallas County, TX"	"48113"	"2018"	"2018"	"Unintentional"	"1"	1006	2637772	38.1
+	"Dallas County, TX"	"48113"	"2018"	"2018"	"Suicide"	"2"	310	2637772	11.8
+	"Dallas County, TX"	"48113"	"2018"	"2018"	"Homicide"	"3"	214	2637772	8.1
+	"Dallas County, TX"	"48113"	"2018"	"2018"	"Undetermined "	"4"	16	2637772	Unreliable
+	"Dallas County, TX"	"48113"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	25	2637772	0.9
+	"Denton County, TX"	"48121"	"1999"	"1999"	"Unintentional"	"1"	86	416622	20.6
+	"Denton County, TX"	"48121"	"1999"	"1999"	"Suicide"	"2"	37	416622	8.9
+	"Denton County, TX"	"48121"	"2000"	"2000"	"Unintentional"	"1"	93	432976	21.5
+	"Denton County, TX"	"48121"	"2000"	"2000"	"Suicide"	"2"	32	432976	7.4
+	"Denton County, TX"	"48121"	"2001"	"2001"	"Unintentional"	"1"	116	463688	25.0
+	"Denton County, TX"	"48121"	"2001"	"2001"	"Suicide"	"2"	28	463688	6.0
+	"Denton County, TX"	"48121"	"2002"	"2002"	"Unintentional"	"1"	120	487617	24.6
+	"Denton County, TX"	"48121"	"2002"	"2002"	"Suicide"	"2"	46	487617	9.4
+	"Denton County, TX"	"48121"	"2002"	"2002"	"Homicide"	"3"	11	487617	Unreliable
+	"Denton County, TX"	"48121"	"2003"	"2003"	"Unintentional"	"1"	132	509732	25.9
+	"Denton County, TX"	"48121"	"2003"	"2003"	"Suicide"	"2"	42	509732	8.2
+	"Denton County, TX"	"48121"	"2003"	"2003"	"Homicide"	"3"	13	509732	Unreliable
+	"Denton County, TX"	"48121"	"2004"	"2004"	"Unintentional"	"1"	105	529811	19.8
+	"Denton County, TX"	"48121"	"2004"	"2004"	"Suicide"	"2"	48	529811	9.1
+	"Denton County, TX"	"48121"	"2004"	"2004"	"Homicide"	"3"	20	529811	3.8
+	"Denton County, TX"	"48121"	"2005"	"2005"	"Unintentional"	"1"	124	553669	22.4
+	"Denton County, TX"	"48121"	"2005"	"2005"	"Suicide"	"2"	50	553669	9.0
+	"Denton County, TX"	"48121"	"2005"	"2005"	"Homicide"	"3"	18	553669	Unreliable
+	"Denton County, TX"	"48121"	"2006"	"2006"	"Unintentional"	"1"	130	584561	22.2
+	"Denton County, TX"	"48121"	"2006"	"2006"	"Suicide"	"2"	53	584561	9.1
+	"Denton County, TX"	"48121"	"2006"	"2006"	"Homicide"	"3"	15	584561	Unreliable
+	"Denton County, TX"	"48121"	"2007"	"2007"	"Unintentional"	"1"	130	609001	21.3
+	"Denton County, TX"	"48121"	"2007"	"2007"	"Suicide"	"2"	52	609001	8.5
+	"Denton County, TX"	"48121"	"2007"	"2007"	"Homicide"	"3"	13	609001	Unreliable
+	"Denton County, TX"	"48121"	"2008"	"2008"	"Unintentional"	"1"	137	630104	21.7
+	"Denton County, TX"	"48121"	"2008"	"2008"	"Suicide"	"2"	59	630104	9.4
+	"Denton County, TX"	"48121"	"2008"	"2008"	"Homicide"	"3"	12	630104	Unreliable
+	"Denton County, TX"	"48121"	"2009"	"2009"	"Unintentional"	"1"	150	649702	23.1
+	"Denton County, TX"	"48121"	"2009"	"2009"	"Suicide"	"2"	71	649702	10.9
+	"Denton County, TX"	"48121"	"2009"	"2009"	"Homicide"	"3"	13	649702	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Unintentional"	"1"	147	662614	22.2
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Suicide"	"2"	68	662614	10.3
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Homicide"	"3"	16	662614	Unreliable
+	"Denton County, TX"	"48121"	"2011"	"2011"	"Unintentional"	"1"	158	686406	23.0
+	"Denton County, TX"	"48121"	"2011"	"2011"	"Suicide"	"2"	68	686406	9.9
+	"Denton County, TX"	"48121"	"2011"	"2011"	"Homicide"	"3"	11	686406	Unreliable
+	"Denton County, TX"	"48121"	"2012"	"2012"	"Unintentional"	"1"	169	707304	23.9
+	"Denton County, TX"	"48121"	"2012"	"2012"	"Suicide"	"2"	68	707304	9.6
+	"Denton County, TX"	"48121"	"2012"	"2012"	"Homicide"	"3"	12	707304	Unreliable
+	"Denton County, TX"	"48121"	"2013"	"2013"	"Unintentional"	"1"	142	728799	19.5
+	"Denton County, TX"	"48121"	"2013"	"2013"	"Suicide"	"2"	67	728799	9.2
+	"Denton County, TX"	"48121"	"2014"	"2014"	"Unintentional"	"1"	159	753363	21.1
+	"Denton County, TX"	"48121"	"2014"	"2014"	"Suicide"	"2"	68	753363	9.0
+	"Denton County, TX"	"48121"	"2015"	"2015"	"Unintentional"	"1"	160	780612	20.5
+	"Denton County, TX"	"48121"	"2015"	"2015"	"Suicide"	"2"	79	780612	10.1
+	"Denton County, TX"	"48121"	"2015"	"2015"	"Homicide"	"3"	10	780612	Unreliable
+	"Denton County, TX"	"48121"	"2016"	"2016"	"Unintentional"	"1"	209	806180	25.9
+	"Denton County, TX"	"48121"	"2016"	"2016"	"Suicide"	"2"	91	806180	11.3
+	"Denton County, TX"	"48121"	"2017"	"2017"	"Unintentional"	"1"	218	836210	26.1
+	"Denton County, TX"	"48121"	"2017"	"2017"	"Suicide"	"2"	113	836210	13.5
+	"Denton County, TX"	"48121"	"2017"	"2017"	"Homicide"	"3"	14	836210	Unreliable
+	"Denton County, TX"	"48121"	"2018"	"2018"	"Unintentional"	"1"	187	859064	21.8
+	"Denton County, TX"	"48121"	"2018"	"2018"	"Suicide"	"2"	88	859064	10.2
+	"Denton County, TX"	"48121"	"2018"	"2018"	"Homicide"	"3"	19	859064	Unreliable
+	"Ellis County, TX"	"48139"	"1999"	"1999"	"Unintentional"	"1"	54	108174	49.9
+	"Ellis County, TX"	"48139"	"1999"	"1999"	"Homicide"	"3"	10	108174	Unreliable
+	"Ellis County, TX"	"48139"	"2000"	"2000"	"Unintentional"	"1"	36	111360	32.3
+	"Ellis County, TX"	"48139"	"2000"	"2000"	"Suicide"	"2"	11	111360	Unreliable
+	"Ellis County, TX"	"48139"	"2001"	"2001"	"Unintentional"	"1"	30	115286	26.0
+	"Ellis County, TX"	"48139"	"2001"	"2001"	"Suicide"	"2"	15	115286	Unreliable
+	"Ellis County, TX"	"48139"	"2002"	"2002"	"Unintentional"	"1"	40	118737	33.7
+	"Ellis County, TX"	"48139"	"2002"	"2002"	"Suicide"	"2"	16	118737	Unreliable
+	"Ellis County, TX"	"48139"	"2003"	"2003"	"Unintentional"	"1"	35	122620	28.5
+	"Ellis County, TX"	"48139"	"2003"	"2003"	"Suicide"	"2"	11	122620	Unreliable
+	"Ellis County, TX"	"48139"	"2004"	"2004"	"Unintentional"	"1"	64	125733	50.9
+	"Ellis County, TX"	"48139"	"2004"	"2004"	"Suicide"	"2"	15	125733	Unreliable
+	"Ellis County, TX"	"48139"	"2005"	"2005"	"Unintentional"	"1"	41	129955	31.5
+	"Ellis County, TX"	"48139"	"2005"	"2005"	"Suicide"	"2"	13	129955	Unreliable
+	"Ellis County, TX"	"48139"	"2006"	"2006"	"Unintentional"	"1"	55	135276	40.7
+	"Ellis County, TX"	"48139"	"2007"	"2007"	"Unintentional"	"1"	58	139988	41.4
+	"Ellis County, TX"	"48139"	"2007"	"2007"	"Suicide"	"2"	12	139988	Unreliable
+	"Ellis County, TX"	"48139"	"2008"	"2008"	"Unintentional"	"1"	51	144394	35.3
+	"Ellis County, TX"	"48139"	"2008"	"2008"	"Suicide"	"2"	11	144394	Unreliable
+	"Ellis County, TX"	"48139"	"2009"	"2009"	"Unintentional"	"1"	44	147392	29.9
+	"Ellis County, TX"	"48139"	"2009"	"2009"	"Suicide"	"2"	12	147392	Unreliable
+	"Ellis County, TX"	"48139"	"2009"	"2009"	"Homicide"	"3"	11	147392	Unreliable
+	"Ellis County, TX"	"48139"	"2010"	"2010"	"Unintentional"	"1"	44	149610	29.4
+	"Ellis County, TX"	"48139"	"2010"	"2010"	"Suicide"	"2"	19	149610	Unreliable
+	"Ellis County, TX"	"48139"	"2011"	"2011"	"Unintentional"	"1"	57	152753	37.3
+	"Ellis County, TX"	"48139"	"2011"	"2011"	"Suicide"	"2"	17	152753	Unreliable
+	"Ellis County, TX"	"48139"	"2012"	"2012"	"Unintentional"	"1"	38	153969	24.7
+	"Ellis County, TX"	"48139"	"2012"	"2012"	"Suicide"	"2"	12	153969	Unreliable
+	"Ellis County, TX"	"48139"	"2013"	"2013"	"Unintentional"	"1"	41	155976	26.3
+	"Ellis County, TX"	"48139"	"2013"	"2013"	"Suicide"	"2"	20	155976	12.8
+	"Ellis County, TX"	"48139"	"2014"	"2014"	"Unintentional"	"1"	44	159317	27.6
+	"Ellis County, TX"	"48139"	"2014"	"2014"	"Suicide"	"2"	22	159317	13.8
+	"Ellis County, TX"	"48139"	"2015"	"2015"	"Unintentional"	"1"	61	163632	37.3
+	"Ellis County, TX"	"48139"	"2015"	"2015"	"Suicide"	"2"	19	163632	Unreliable
+	"Ellis County, TX"	"48139"	"2016"	"2016"	"Unintentional"	"1"	62	168499	36.8
+	"Ellis County, TX"	"48139"	"2016"	"2016"	"Suicide"	"2"	13	168499	Unreliable
+	"Ellis County, TX"	"48139"	"2017"	"2017"	"Unintentional"	"1"	71	173620	40.9
+	"Ellis County, TX"	"48139"	"2017"	"2017"	"Suicide"	"2"	23	173620	13.2
+	"Ellis County, TX"	"48139"	"2017"	"2017"	"Homicide"	"3"	11	173620	Unreliable
+	"Ellis County, TX"	"48139"	"2018"	"2018"	"Unintentional"	"1"	54	179436	30.1
+	"Ellis County, TX"	"48139"	"2018"	"2018"	"Suicide"	"2"	30	179436	16.7
+	"El Paso County, TX"	"48141"	"1999"	"1999"	"Unintentional"	"1"	192	675397	28.4
+	"El Paso County, TX"	"48141"	"1999"	"1999"	"Suicide"	"2"	33	675397	4.9
+	"El Paso County, TX"	"48141"	"1999"	"1999"	"Homicide"	"3"	21	675397	3.1
+	"El Paso County, TX"	"48141"	"2000"	"2000"	"Unintentional"	"1"	206	679622	30.3
+	"El Paso County, TX"	"48141"	"2000"	"2000"	"Suicide"	"2"	55	679622	8.1
+	"El Paso County, TX"	"48141"	"2000"	"2000"	"Homicide"	"3"	25	679622	3.7
+	"El Paso County, TX"	"48141"	"2001"	"2001"	"Unintentional"	"1"	224	689163	32.5
+	"El Paso County, TX"	"48141"	"2001"	"2001"	"Suicide"	"2"	42	689163	6.1
+	"El Paso County, TX"	"48141"	"2001"	"2001"	"Homicide"	"3"	27	689163	3.9
+	"El Paso County, TX"	"48141"	"2002"	"2002"	"Unintentional"	"1"	227	696446	32.6
+	"El Paso County, TX"	"48141"	"2002"	"2002"	"Suicide"	"2"	55	696446	7.9
+	"El Paso County, TX"	"48141"	"2002"	"2002"	"Homicide"	"3"	24	696446	3.4
+	"El Paso County, TX"	"48141"	"2003"	"2003"	"Unintentional"	"1"	226	705200	32.0
+	"El Paso County, TX"	"48141"	"2003"	"2003"	"Suicide"	"2"	46	705200	6.5
+	"El Paso County, TX"	"48141"	"2003"	"2003"	"Homicide"	"3"	23	705200	3.3
+	"El Paso County, TX"	"48141"	"2004"	"2004"	"Unintentional"	"1"	203	717652	28.3
+	"El Paso County, TX"	"48141"	"2004"	"2004"	"Suicide"	"2"	54	717652	7.5
+	"El Paso County, TX"	"48141"	"2004"	"2004"	"Homicide"	"3"	17	717652	Unreliable
+	"El Paso County, TX"	"48141"	"2005"	"2005"	"Unintentional"	"1"	210	728095	28.8
+	"El Paso County, TX"	"48141"	"2005"	"2005"	"Suicide"	"2"	50	728095	6.9
+	"El Paso County, TX"	"48141"	"2005"	"2005"	"Homicide"	"3"	22	728095	3.0
+	"El Paso County, TX"	"48141"	"2006"	"2006"	"Unintentional"	"1"	226	744795	30.3
+	"El Paso County, TX"	"48141"	"2006"	"2006"	"Suicide"	"2"	57	744795	7.7
+	"El Paso County, TX"	"48141"	"2006"	"2006"	"Homicide"	"3"	28	744795	3.8
+	"El Paso County, TX"	"48141"	"2007"	"2007"	"Unintentional"	"1"	230	755578	30.4
+	"El Paso County, TX"	"48141"	"2007"	"2007"	"Suicide"	"2"	59	755578	7.8
+	"El Paso County, TX"	"48141"	"2007"	"2007"	"Homicide"	"3"	23	755578	3.0
+	"El Paso County, TX"	"48141"	"2008"	"2008"	"Unintentional"	"1"	226	769930	29.4
+	"El Paso County, TX"	"48141"	"2008"	"2008"	"Suicide"	"2"	63	769930	8.2
+	"El Paso County, TX"	"48141"	"2008"	"2008"	"Homicide"	"3"	22	769930	2.9
+	"El Paso County, TX"	"48141"	"2009"	"2009"	"Unintentional"	"1"	246	786759	31.3
+	"El Paso County, TX"	"48141"	"2009"	"2009"	"Suicide"	"2"	62	786759	7.9
+	"El Paso County, TX"	"48141"	"2009"	"2009"	"Homicide"	"3"	25	786759	3.2
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Unintentional"	"1"	230	800647	28.7
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Suicide"	"2"	51	800647	6.4
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Homicide"	"3"	13	800647	Unreliable
+	"El Paso County, TX"	"48141"	"2011"	"2011"	"Unintentional"	"1"	285	820790	34.7
+	"El Paso County, TX"	"48141"	"2011"	"2011"	"Suicide"	"2"	50	820790	6.1
+	"El Paso County, TX"	"48141"	"2011"	"2011"	"Homicide"	"3"	25	820790	3.0
+	"El Paso County, TX"	"48141"	"2011"	"2011"	"Undetermined "	"4"	11	820790	Unreliable
+	"El Paso County, TX"	"48141"	"2012"	"2012"	"Unintentional"	"1"	237	827398	28.6
+	"El Paso County, TX"	"48141"	"2012"	"2012"	"Suicide"	"2"	62	827398	7.5
+	"El Paso County, TX"	"48141"	"2012"	"2012"	"Homicide"	"3"	28	827398	3.4
+	"El Paso County, TX"	"48141"	"2012"	"2012"	"Undetermined "	"4"	12	827398	Unreliable
+	"El Paso County, TX"	"48141"	"2013"	"2013"	"Unintentional"	"1"	241	827718	29.1
+	"El Paso County, TX"	"48141"	"2013"	"2013"	"Suicide"	"2"	82	827718	9.9
+	"El Paso County, TX"	"48141"	"2013"	"2013"	"Homicide"	"3"	12	827718	Unreliable
+	"El Paso County, TX"	"48141"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	11	827718	Unreliable
+	"El Paso County, TX"	"48141"	"2014"	"2014"	"Unintentional"	"1"	255	833487	30.6
+	"El Paso County, TX"	"48141"	"2014"	"2014"	"Suicide"	"2"	90	833487	10.8
+	"El Paso County, TX"	"48141"	"2014"	"2014"	"Homicide"	"3"	27	833487	3.2
+	"El Paso County, TX"	"48141"	"2015"	"2015"	"Unintentional"	"1"	246	835593	29.4
+	"El Paso County, TX"	"48141"	"2015"	"2015"	"Suicide"	"2"	69	835593	8.3
+	"El Paso County, TX"	"48141"	"2015"	"2015"	"Homicide"	"3"	28	835593	3.4
+	"El Paso County, TX"	"48141"	"2016"	"2016"	"Unintentional"	"1"	260	837918	31.0
+	"El Paso County, TX"	"48141"	"2016"	"2016"	"Suicide"	"2"	84	837918	10.0
+	"El Paso County, TX"	"48141"	"2016"	"2016"	"Homicide"	"3"	26	837918	3.1
+	"El Paso County, TX"	"48141"	"2017"	"2017"	"Unintentional"	"1"	314	840410	37.4
+	"El Paso County, TX"	"48141"	"2017"	"2017"	"Suicide"	"2"	82	840410	9.8
+	"El Paso County, TX"	"48141"	"2017"	"2017"	"Homicide"	"3"	24	840410	2.9
+	"El Paso County, TX"	"48141"	"2018"	"2018"	"Unintentional"	"1"	293	840758	34.8
+	"El Paso County, TX"	"48141"	"2018"	"2018"	"Suicide"	"2"	96	840758	11.4
+	"El Paso County, TX"	"48141"	"2018"	"2018"	"Homicide"	"3"	39	840758	4.6
+	"Falls County, TX"	"48145"	"1999"	"1999"	"Unintentional"	"1"	10	18572	Unreliable
+	"Falls County, TX"	"48145"	"2000"	"2000"	"Unintentional"	"1"	15	18576	Unreliable
+	"Falls County, TX"	"48145"	"2001"	"2001"	"Unintentional"	"1"	14	18280	Unreliable
+	"Falls County, TX"	"48145"	"2002"	"2002"	"Unintentional"	"1"	12	18090	Unreliable
+	"Falls County, TX"	"48145"	"2004"	"2004"	"Unintentional"	"1"	11	18066	Unreliable
+	"Falls County, TX"	"48145"	"2005"	"2005"	"Unintentional"	"1"	10	17990	Unreliable
+	"Falls County, TX"	"48145"	"2006"	"2006"	"Unintentional"	"1"	14	17945	Unreliable
+	"Falls County, TX"	"48145"	"2008"	"2008"	"Unintentional"	"1"	10	17698	Unreliable
+	"Falls County, TX"	"48145"	"2010"	"2010"	"Unintentional"	"1"	11	17866	Unreliable
+	"Falls County, TX"	"48145"	"2017"	"2017"	"Unintentional"	"1"	11	17437	Unreliable
+	"Fort Bend County, TX"	"48157"	"1999"	"1999"	"Unintentional"	"1"	69	343372	20.1
+	"Fort Bend County, TX"	"48157"	"1999"	"1999"	"Suicide"	"2"	22	343372	6.4
+	"Fort Bend County, TX"	"48157"	"2000"	"2000"	"Unintentional"	"1"	69	354452	19.5
+	"Fort Bend County, TX"	"48157"	"2000"	"2000"	"Suicide"	"2"	21	354452	5.9
+	"Fort Bend County, TX"	"48157"	"2000"	"2000"	"Homicide"	"3"	17	354452	Unreliable
+	"Fort Bend County, TX"	"48157"	"2001"	"2001"	"Unintentional"	"1"	89	375708	23.7
+	"Fort Bend County, TX"	"48157"	"2001"	"2001"	"Suicide"	"2"	35	375708	9.3
+	"Fort Bend County, TX"	"48157"	"2001"	"2001"	"Homicide"	"3"	12	375708	Unreliable
+	"Fort Bend County, TX"	"48157"	"2002"	"2002"	"Unintentional"	"1"	107	397943	26.9
+	"Fort Bend County, TX"	"48157"	"2002"	"2002"	"Suicide"	"2"	35	397943	8.8
+	"Fort Bend County, TX"	"48157"	"2002"	"2002"	"Homicide"	"3"	15	397943	Unreliable
+	"Fort Bend County, TX"	"48157"	"2003"	"2003"	"Unintentional"	"1"	80	418747	19.1
+	"Fort Bend County, TX"	"48157"	"2003"	"2003"	"Suicide"	"2"	37	418747	8.8
+	"Fort Bend County, TX"	"48157"	"2003"	"2003"	"Homicide"	"3"	21	418747	5.0
+	"Fort Bend County, TX"	"48157"	"2004"	"2004"	"Unintentional"	"1"	100	441139	22.7
+	"Fort Bend County, TX"	"48157"	"2004"	"2004"	"Suicide"	"2"	33	441139	7.5
+	"Fort Bend County, TX"	"48157"	"2004"	"2004"	"Homicide"	"3"	20	441139	4.5
+	"Fort Bend County, TX"	"48157"	"2005"	"2005"	"Unintentional"	"1"	92	462953	19.9
+	"Fort Bend County, TX"	"48157"	"2005"	"2005"	"Suicide"	"2"	37	462953	8.0
+	"Fort Bend County, TX"	"48157"	"2005"	"2005"	"Homicide"	"3"	20	462953	4.3
+	"Fort Bend County, TX"	"48157"	"2006"	"2006"	"Unintentional"	"1"	113	490916	23.0
+	"Fort Bend County, TX"	"48157"	"2006"	"2006"	"Suicide"	"2"	41	490916	8.4
+	"Fort Bend County, TX"	"48157"	"2006"	"2006"	"Homicide"	"3"	26	490916	5.3
+	"Fort Bend County, TX"	"48157"	"2007"	"2007"	"Unintentional"	"1"	111	516564	21.5
+	"Fort Bend County, TX"	"48157"	"2007"	"2007"	"Suicide"	"2"	31	516564	6.0
+	"Fort Bend County, TX"	"48157"	"2007"	"2007"	"Homicide"	"3"	26	516564	5.0
+	"Fort Bend County, TX"	"48157"	"2008"	"2008"	"Unintentional"	"1"	105	542957	19.3
+	"Fort Bend County, TX"	"48157"	"2008"	"2008"	"Suicide"	"2"	44	542957	8.1
+	"Fort Bend County, TX"	"48157"	"2008"	"2008"	"Homicide"	"3"	23	542957	4.2
+	"Fort Bend County, TX"	"48157"	"2009"	"2009"	"Unintentional"	"1"	136	569130	23.9
+	"Fort Bend County, TX"	"48157"	"2009"	"2009"	"Suicide"	"2"	41	569130	7.2
+	"Fort Bend County, TX"	"48157"	"2009"	"2009"	"Homicide"	"3"	33	569130	5.8
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Unintentional"	"1"	141	585375	24.1
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Suicide"	"2"	31	585375	5.3
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Homicide"	"3"	23	585375	3.9
+	"Fort Bend County, TX"	"48157"	"2011"	"2011"	"Unintentional"	"1"	122	606953	20.1
+	"Fort Bend County, TX"	"48157"	"2011"	"2011"	"Suicide"	"2"	47	606953	7.7
+	"Fort Bend County, TX"	"48157"	"2011"	"2011"	"Homicide"	"3"	14	606953	Unreliable
+	"Fort Bend County, TX"	"48157"	"2012"	"2012"	"Unintentional"	"1"	123	627293	19.6
+	"Fort Bend County, TX"	"48157"	"2012"	"2012"	"Suicide"	"2"	41	627293	6.5
+	"Fort Bend County, TX"	"48157"	"2012"	"2012"	"Homicide"	"3"	16	627293	Unreliable
+	"Fort Bend County, TX"	"48157"	"2013"	"2013"	"Unintentional"	"1"	145	652365	22.2
+	"Fort Bend County, TX"	"48157"	"2013"	"2013"	"Suicide"	"2"	49	652365	7.5
+	"Fort Bend County, TX"	"48157"	"2013"	"2013"	"Homicide"	"3"	23	652365	3.5
+	"Fort Bend County, TX"	"48157"	"2014"	"2014"	"Unintentional"	"1"	129	685345	18.8
+	"Fort Bend County, TX"	"48157"	"2014"	"2014"	"Suicide"	"2"	50	685345	7.3
+	"Fort Bend County, TX"	"48157"	"2014"	"2014"	"Homicide"	"3"	27	685345	3.9
+	"Fort Bend County, TX"	"48157"	"2015"	"2015"	"Unintentional"	"1"	137	716087	19.1
+	"Fort Bend County, TX"	"48157"	"2015"	"2015"	"Suicide"	"2"	75	716087	10.5
+	"Fort Bend County, TX"	"48157"	"2015"	"2015"	"Homicide"	"3"	22	716087	3.1
+	"Fort Bend County, TX"	"48157"	"2016"	"2016"	"Unintentional"	"1"	163	741237	22.0
+	"Fort Bend County, TX"	"48157"	"2016"	"2016"	"Suicide"	"2"	70	741237	9.4
+	"Fort Bend County, TX"	"48157"	"2016"	"2016"	"Homicide"	"3"	40	741237	5.4
+	"Fort Bend County, TX"	"48157"	"2017"	"2017"	"Unintentional"	"1"	163	764828	21.3
+	"Fort Bend County, TX"	"48157"	"2017"	"2017"	"Suicide"	"2"	79	764828	10.3
+	"Fort Bend County, TX"	"48157"	"2017"	"2017"	"Homicide"	"3"	23	764828	3.0
+	"Fort Bend County, TX"	"48157"	"2018"	"2018"	"Unintentional"	"1"	146	787858	18.5
+	"Fort Bend County, TX"	"48157"	"2018"	"2018"	"Suicide"	"2"	97	787858	12.3
+	"Fort Bend County, TX"	"48157"	"2018"	"2018"	"Homicide"	"3"	28	787858	3.6
+	"Fort Bend County, TX"	"48157"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	787858	Unreliable
+	"Galveston County, TX"	"48167"	"1999"	"1999"	"Unintentional"	"1"	113	248893	45.4
+	"Galveston County, TX"	"48167"	"1999"	"1999"	"Suicide"	"2"	22	248893	8.8
+	"Galveston County, TX"	"48167"	"1999"	"1999"	"Homicide"	"3"	18	248893	Unreliable
+	"Galveston County, TX"	"48167"	"2000"	"2000"	"Unintentional"	"1"	97	250158	38.8
+	"Galveston County, TX"	"48167"	"2000"	"2000"	"Suicide"	"2"	36	250158	14.4
+	"Galveston County, TX"	"48167"	"2000"	"2000"	"Homicide"	"3"	14	250158	Unreliable
+	"Galveston County, TX"	"48167"	"2001"	"2001"	"Unintentional"	"1"	93	254521	36.5
+	"Galveston County, TX"	"48167"	"2001"	"2001"	"Suicide"	"2"	41	254521	16.1
+	"Galveston County, TX"	"48167"	"2001"	"2001"	"Homicide"	"3"	26	254521	10.2
+	"Galveston County, TX"	"48167"	"2002"	"2002"	"Unintentional"	"1"	125	260096	48.1
+	"Galveston County, TX"	"48167"	"2002"	"2002"	"Suicide"	"2"	41	260096	15.8
+	"Galveston County, TX"	"48167"	"2002"	"2002"	"Homicide"	"3"	25	260096	9.6
+	"Galveston County, TX"	"48167"	"2003"	"2003"	"Unintentional"	"1"	109	265269	41.1
+	"Galveston County, TX"	"48167"	"2003"	"2003"	"Suicide"	"2"	28	265269	10.6
+	"Galveston County, TX"	"48167"	"2003"	"2003"	"Homicide"	"3"	22	265269	8.3
+	"Galveston County, TX"	"48167"	"2004"	"2004"	"Unintentional"	"1"	113	269760	41.9
+	"Galveston County, TX"	"48167"	"2004"	"2004"	"Suicide"	"2"	28	269760	10.4
+	"Galveston County, TX"	"48167"	"2004"	"2004"	"Homicide"	"3"	17	269760	Unreliable
+	"Galveston County, TX"	"48167"	"2005"	"2005"	"Unintentional"	"1"	142	274806	51.7
+	"Galveston County, TX"	"48167"	"2005"	"2005"	"Suicide"	"2"	39	274806	14.2
+	"Galveston County, TX"	"48167"	"2005"	"2005"	"Homicide"	"3"	21	274806	7.6
+	"Galveston County, TX"	"48167"	"2006"	"2006"	"Unintentional"	"1"	138	279182	49.4
+	"Galveston County, TX"	"48167"	"2006"	"2006"	"Suicide"	"2"	37	279182	13.3
+	"Galveston County, TX"	"48167"	"2006"	"2006"	"Homicide"	"3"	16	279182	Unreliable
+	"Galveston County, TX"	"48167"	"2007"	"2007"	"Unintentional"	"1"	161	283770	56.7
+	"Galveston County, TX"	"48167"	"2007"	"2007"	"Suicide"	"2"	39	283770	13.7
+	"Galveston County, TX"	"48167"	"2007"	"2007"	"Homicide"	"3"	20	283770	7.0
+	"Galveston County, TX"	"48167"	"2008"	"2008"	"Unintentional"	"1"	153	288643	53.0
+	"Galveston County, TX"	"48167"	"2008"	"2008"	"Suicide"	"2"	47	288643	16.3
+	"Galveston County, TX"	"48167"	"2008"	"2008"	"Homicide"	"3"	23	288643	8.0
+	"Galveston County, TX"	"48167"	"2009"	"2009"	"Unintentional"	"1"	117	287428	40.7
+	"Galveston County, TX"	"48167"	"2009"	"2009"	"Suicide"	"2"	48	287428	16.7
+	"Galveston County, TX"	"48167"	"2009"	"2009"	"Homicide"	"3"	27	287428	9.4
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Unintentional"	"1"	135	291309	46.3
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Suicide"	"2"	41	291309	14.1
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Homicide"	"3"	18	291309	Unreliable
+	"Galveston County, TX"	"48167"	"2011"	"2011"	"Unintentional"	"1"	116	295747	39.2
+	"Galveston County, TX"	"48167"	"2011"	"2011"	"Suicide"	"2"	46	295747	15.6
+	"Galveston County, TX"	"48167"	"2011"	"2011"	"Homicide"	"3"	15	295747	Unreliable
+	"Galveston County, TX"	"48167"	"2012"	"2012"	"Unintentional"	"1"	124	300484	41.3
+	"Galveston County, TX"	"48167"	"2012"	"2012"	"Suicide"	"2"	33	300484	11.0
+	"Galveston County, TX"	"48167"	"2013"	"2013"	"Unintentional"	"1"	120	306782	39.1
+	"Galveston County, TX"	"48167"	"2013"	"2013"	"Suicide"	"2"	36	306782	11.7
+	"Galveston County, TX"	"48167"	"2013"	"2013"	"Homicide"	"3"	16	306782	Unreliable
+	"Galveston County, TX"	"48167"	"2014"	"2014"	"Unintentional"	"1"	121	314198	38.5
+	"Galveston County, TX"	"48167"	"2014"	"2014"	"Suicide"	"2"	43	314198	13.7
+	"Galveston County, TX"	"48167"	"2014"	"2014"	"Homicide"	"3"	12	314198	Unreliable
+	"Galveston County, TX"	"48167"	"2015"	"2015"	"Unintentional"	"1"	148	322225	45.9
+	"Galveston County, TX"	"48167"	"2015"	"2015"	"Suicide"	"2"	64	322225	19.9
+	"Galveston County, TX"	"48167"	"2015"	"2015"	"Homicide"	"3"	18	322225	Unreliable
+	"Galveston County, TX"	"48167"	"2016"	"2016"	"Unintentional"	"1"	148	329431	44.9
+	"Galveston County, TX"	"48167"	"2016"	"2016"	"Suicide"	"2"	47	329431	14.3
+	"Galveston County, TX"	"48167"	"2016"	"2016"	"Homicide"	"3"	22	329431	6.7
+	"Galveston County, TX"	"48167"	"2017"	"2017"	"Unintentional"	"1"	149	335036	44.5
+	"Galveston County, TX"	"48167"	"2017"	"2017"	"Suicide"	"2"	59	335036	17.6
+	"Galveston County, TX"	"48167"	"2017"	"2017"	"Homicide"	"3"	19	335036	Unreliable
+	"Galveston County, TX"	"48167"	"2018"	"2018"	"Unintentional"	"1"	151	337890	44.7
+	"Galveston County, TX"	"48167"	"2018"	"2018"	"Suicide"	"2"	50	337890	14.8
+	"Galveston County, TX"	"48167"	"2018"	"2018"	"Homicide"	"3"	33	337890	9.8
+	"Guadalupe County, TX"	"48187"	"1999"	"1999"	"Unintentional"	"1"	26	86332	30.1
+	"Guadalupe County, TX"	"48187"	"2000"	"2000"	"Unintentional"	"1"	30	89023	33.7
+	"Guadalupe County, TX"	"48187"	"2001"	"2001"	"Unintentional"	"1"	33	92626	35.6
+	"Guadalupe County, TX"	"48187"	"2001"	"2001"	"Suicide"	"2"	11	92626	Unreliable
+	"Guadalupe County, TX"	"48187"	"2002"	"2002"	"Unintentional"	"1"	30	95246	31.5
+	"Guadalupe County, TX"	"48187"	"2002"	"2002"	"Suicide"	"2"	10	95246	Unreliable
+	"Guadalupe County, TX"	"48187"	"2003"	"2003"	"Unintentional"	"1"	39	98137	39.7
+	"Guadalupe County, TX"	"48187"	"2004"	"2004"	"Unintentional"	"1"	34	101495	33.5
+	"Guadalupe County, TX"	"48187"	"2004"	"2004"	"Suicide"	"2"	11	101495	Unreliable
+	"Guadalupe County, TX"	"48187"	"2005"	"2005"	"Unintentional"	"1"	33	105585	31.3
+	"Guadalupe County, TX"	"48187"	"2005"	"2005"	"Suicide"	"2"	15	105585	Unreliable
+	"Guadalupe County, TX"	"48187"	"2006"	"2006"	"Unintentional"	"1"	52	111878	46.5
+	"Guadalupe County, TX"	"48187"	"2006"	"2006"	"Suicide"	"2"	15	111878	Unreliable
+	"Guadalupe County, TX"	"48187"	"2007"	"2007"	"Unintentional"	"1"	43	117667	36.5
+	"Guadalupe County, TX"	"48187"	"2007"	"2007"	"Suicide"	"2"	16	117667	Unreliable
+	"Guadalupe County, TX"	"48187"	"2008"	"2008"	"Unintentional"	"1"	43	123398	34.8
+	"Guadalupe County, TX"	"48187"	"2008"	"2008"	"Suicide"	"2"	11	123398	Unreliable
+	"Guadalupe County, TX"	"48187"	"2009"	"2009"	"Unintentional"	"1"	48	128265	37.4
+	"Guadalupe County, TX"	"48187"	"2009"	"2009"	"Suicide"	"2"	14	128265	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Unintentional"	"1"	45	131533	34.2
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Suicide"	"2"	19	131533	Unreliable
+	"Guadalupe County, TX"	"48187"	"2011"	"2011"	"Unintentional"	"1"	58	135757	42.7
+	"Guadalupe County, TX"	"48187"	"2011"	"2011"	"Suicide"	"2"	16	135757	Unreliable
+	"Guadalupe County, TX"	"48187"	"2012"	"2012"	"Unintentional"	"1"	60	139841	42.9
+	"Guadalupe County, TX"	"48187"	"2012"	"2012"	"Suicide"	"2"	16	139841	Unreliable
+	"Guadalupe County, TX"	"48187"	"2013"	"2013"	"Unintentional"	"1"	38	143183	26.5
+	"Guadalupe County, TX"	"48187"	"2013"	"2013"	"Suicide"	"2"	16	143183	Unreliable
+	"Guadalupe County, TX"	"48187"	"2014"	"2014"	"Unintentional"	"1"	49	147250	33.3
+	"Guadalupe County, TX"	"48187"	"2014"	"2014"	"Suicide"	"2"	19	147250	Unreliable
+	"Guadalupe County, TX"	"48187"	"2015"	"2015"	"Unintentional"	"1"	49	151249	32.4
+	"Guadalupe County, TX"	"48187"	"2015"	"2015"	"Suicide"	"2"	15	151249	Unreliable
+	"Guadalupe County, TX"	"48187"	"2016"	"2016"	"Unintentional"	"1"	53	155265	34.1
+	"Guadalupe County, TX"	"48187"	"2016"	"2016"	"Suicide"	"2"	24	155265	15.5
+	"Guadalupe County, TX"	"48187"	"2017"	"2017"	"Unintentional"	"1"	63	159659	39.5
+	"Guadalupe County, TX"	"48187"	"2017"	"2017"	"Suicide"	"2"	15	159659	Unreliable
+	"Guadalupe County, TX"	"48187"	"2018"	"2018"	"Unintentional"	"1"	62	163694	37.9
+	"Guadalupe County, TX"	"48187"	"2018"	"2018"	"Suicide"	"2"	25	163694	15.3
+	"Hardin County, TX"	"48199"	"1999"	"1999"	"Unintentional"	"1"	28	47863	58.5
+	"Hardin County, TX"	"48199"	"2000"	"2000"	"Unintentional"	"1"	18	48073	Unreliable
+	"Hardin County, TX"	"48199"	"2000"	"2000"	"Suicide"	"2"	11	48073	Unreliable
+	"Hardin County, TX"	"48199"	"2001"	"2001"	"Unintentional"	"1"	28	48463	57.8
+	"Hardin County, TX"	"48199"	"2002"	"2002"	"Unintentional"	"1"	24	49045	48.9
+	"Hardin County, TX"	"48199"	"2003"	"2003"	"Unintentional"	"1"	35	49472	70.7
+	"Hardin County, TX"	"48199"	"2004"	"2004"	"Unintentional"	"1"	27	50220	53.8
+	"Hardin County, TX"	"48199"	"2004"	"2004"	"Suicide"	"2"	10	50220	Unreliable
+	"Hardin County, TX"	"48199"	"2005"	"2005"	"Unintentional"	"1"	37	51141	72.3
+	"Hardin County, TX"	"48199"	"2006"	"2006"	"Unintentional"	"1"	26	51470	50.5
+	"Hardin County, TX"	"48199"	"2007"	"2007"	"Unintentional"	"1"	35	52446	66.7
+	"Hardin County, TX"	"48199"	"2008"	"2008"	"Unintentional"	"1"	43	53206	80.8
+	"Hardin County, TX"	"48199"	"2009"	"2009"	"Unintentional"	"1"	34	54228	62.7
+	"Hardin County, TX"	"48199"	"2009"	"2009"	"Suicide"	"2"	15	54228	Unreliable
+	"Hardin County, TX"	"48199"	"2010"	"2010"	"Unintentional"	"1"	37	54635	67.7
+	"Hardin County, TX"	"48199"	"2010"	"2010"	"Suicide"	"2"	11	54635	Unreliable
+	"Hardin County, TX"	"48199"	"2011"	"2011"	"Unintentional"	"1"	29	55246	52.5
+	"Hardin County, TX"	"48199"	"2011"	"2011"	"Suicide"	"2"	10	55246	Unreliable
+	"Hardin County, TX"	"48199"	"2012"	"2012"	"Unintentional"	"1"	31	55190	56.2
+	"Hardin County, TX"	"48199"	"2013"	"2013"	"Unintentional"	"1"	30	55417	54.1
+	"Hardin County, TX"	"48199"	"2014"	"2014"	"Unintentional"	"1"	42	55621	75.5
+	"Hardin County, TX"	"48199"	"2015"	"2015"	"Unintentional"	"1"	29	55865	51.9
+	"Hardin County, TX"	"48199"	"2015"	"2015"	"Suicide"	"2"	11	55865	Unreliable
+	"Hardin County, TX"	"48199"	"2016"	"2016"	"Unintentional"	"1"	28	56322	49.7
+	"Hardin County, TX"	"48199"	"2016"	"2016"	"Suicide"	"2"	10	56322	Unreliable
+	"Hardin County, TX"	"48199"	"2017"	"2017"	"Unintentional"	"1"	37	57139	64.8
+	"Hardin County, TX"	"48199"	"2017"	"2017"	"Suicide"	"2"	10	57139	Unreliable
+	"Hardin County, TX"	"48199"	"2018"	"2018"	"Unintentional"	"1"	33	57207	57.7
+	"Hardin County, TX"	"48199"	"2018"	"2018"	"Suicide"	"2"	15	57207	Unreliable
+	"Harris County, TX"	"48201"	"1999"	"1999"	"Unintentional"	"1"	970	3359671	28.9
+	"Harris County, TX"	"48201"	"1999"	"1999"	"Suicide"	"2"	307	3359671	9.1
+	"Harris County, TX"	"48201"	"1999"	"1999"	"Homicide"	"3"	314	3359671	9.3
+	"Harris County, TX"	"48201"	"1999"	"1999"	"Undetermined "	"4"	17	3359671	Unreliable
+	"Harris County, TX"	"48201"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	15	3359671	Unreliable
+	"Harris County, TX"	"48201"	"2000"	"2000"	"Unintentional"	"1"	1007	3400578	29.6
+	"Harris County, TX"	"48201"	"2000"	"2000"	"Suicide"	"2"	315	3400578	9.3
+	"Harris County, TX"	"48201"	"2000"	"2000"	"Homicide"	"3"	294	3400578	8.6
+	"Harris County, TX"	"48201"	"2000"	"2000"	"Undetermined "	"4"	10	3400578	Unreliable
+	"Harris County, TX"	"48201"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	16	3400578	Unreliable
+	"Harris County, TX"	"48201"	"2001"	"2001"	"Unintentional"	"1"	1187	3471291	34.2
+	"Harris County, TX"	"48201"	"2001"	"2001"	"Suicide"	"2"	335	3471291	9.7
+	"Harris County, TX"	"48201"	"2001"	"2001"	"Homicide"	"3"	320	3471291	9.2
+	"Harris County, TX"	"48201"	"2001"	"2001"	"Undetermined "	"4"	14	3471291	Unreliable
+	"Harris County, TX"	"48201"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	31	3471291	0.9
+	"Harris County, TX"	"48201"	"2002"	"2002"	"Unintentional"	"1"	1195	3536682	33.8
+	"Harris County, TX"	"48201"	"2002"	"2002"	"Suicide"	"2"	387	3536682	10.9
+	"Harris County, TX"	"48201"	"2002"	"2002"	"Homicide"	"3"	363	3536682	10.3
+	"Harris County, TX"	"48201"	"2002"	"2002"	"Undetermined "	"4"	12	3536682	Unreliable
+	"Harris County, TX"	"48201"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	23	3536682	0.7
+	"Harris County, TX"	"48201"	"2003"	"2003"	"Unintentional"	"1"	1157	3586133	32.3
+	"Harris County, TX"	"48201"	"2003"	"2003"	"Suicide"	"2"	350	3586133	9.8
+	"Harris County, TX"	"48201"	"2003"	"2003"	"Homicide"	"3"	381	3586133	10.6
+	"Harris County, TX"	"48201"	"2003"	"2003"	"Undetermined "	"4"	16	3586133	Unreliable
+	"Harris County, TX"	"48201"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	17	3586133	Unreliable
+	"Harris County, TX"	"48201"	"2004"	"2004"	"Unintentional"	"1"	1153	3630185	31.8
+	"Harris County, TX"	"48201"	"2004"	"2004"	"Suicide"	"2"	367	3630185	10.1
+	"Harris County, TX"	"48201"	"2004"	"2004"	"Homicide"	"3"	367	3630185	10.1
+	"Harris County, TX"	"48201"	"2004"	"2004"	"Undetermined "	"4"	27	3630185	0.7
+	"Harris County, TX"	"48201"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	16	3630185	Unreliable
+	"Harris County, TX"	"48201"	"2005"	"2005"	"Unintentional"	"1"	1300	3681829	35.3
+	"Harris County, TX"	"48201"	"2005"	"2005"	"Suicide"	"2"	345	3681829	9.4
+	"Harris County, TX"	"48201"	"2005"	"2005"	"Homicide"	"3"	397	3681829	10.8
+	"Harris County, TX"	"48201"	"2005"	"2005"	"Undetermined "	"4"	19	3681829	Unreliable
+	"Harris County, TX"	"48201"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	20	3681829	0.5
+	"Harris County, TX"	"48201"	"2006"	"2006"	"Unintentional"	"1"	1350	3807435	35.5
+	"Harris County, TX"	"48201"	"2006"	"2006"	"Suicide"	"2"	326	3807435	8.6
+	"Harris County, TX"	"48201"	"2006"	"2006"	"Homicide"	"3"	446	3807435	11.7
+	"Harris County, TX"	"48201"	"2006"	"2006"	"Undetermined "	"4"	24	3807435	0.6
+	"Harris County, TX"	"48201"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	15	3807435	Unreliable
+	"Harris County, TX"	"48201"	"2007"	"2007"	"Unintentional"	"1"	1530	3863344	39.6
+	"Harris County, TX"	"48201"	"2007"	"2007"	"Suicide"	"2"	388	3863344	10.0
+	"Harris County, TX"	"48201"	"2007"	"2007"	"Homicide"	"3"	385	3863344	10.0
+	"Harris County, TX"	"48201"	"2007"	"2007"	"Undetermined "	"4"	24	3863344	0.6
+	"Harris County, TX"	"48201"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	18	3863344	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Unintentional"	"1"	1284	3938580	32.6
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Suicide"	"2"	392	3938580	10.0
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Homicide"	"3"	389	3938580	9.9
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Undetermined "	"4"	11	3938580	Unreliable
+	"Harris County, TX"	"48201"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	21	3938580	0.5
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Unintentional"	"1"	1363	4034866	33.8
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Suicide"	"2"	452	4034866	11.2
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Homicide"	"3"	452	4034866	11.2
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Undetermined "	"4"	31	4034866	0.8
+	"Harris County, TX"	"48201"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	19	4034866	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Unintentional"	"1"	1271	4092459	31.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Suicide"	"2"	437	4092459	10.7
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Homicide"	"3"	370	4092459	9.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Undetermined "	"4"	45	4092459	1.1
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	21	4092459	0.5
+	"Harris County, TX"	"48201"	"2011"	"2011"	"Unintentional"	"1"	1324	4180894	31.7
+	"Harris County, TX"	"48201"	"2011"	"2011"	"Suicide"	"2"	421	4180894	10.1
+	"Harris County, TX"	"48201"	"2011"	"2011"	"Homicide"	"3"	314	4180894	7.5
+	"Harris County, TX"	"48201"	"2011"	"2011"	"Undetermined "	"4"	27	4180894	0.6
+	"Harris County, TX"	"48201"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	25	4180894	0.6
+	"Harris County, TX"	"48201"	"2012"	"2012"	"Unintentional"	"1"	1333	4253700	31.3
+	"Harris County, TX"	"48201"	"2012"	"2012"	"Suicide"	"2"	429	4253700	10.1
+	"Harris County, TX"	"48201"	"2012"	"2012"	"Homicide"	"3"	347	4253700	8.2
+	"Harris County, TX"	"48201"	"2012"	"2012"	"Undetermined "	"4"	30	4253700	0.7
+	"Harris County, TX"	"48201"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	19	4253700	Unreliable
+	"Harris County, TX"	"48201"	"2013"	"2013"	"Unintentional"	"1"	1411	4336853	32.5
+	"Harris County, TX"	"48201"	"2013"	"2013"	"Suicide"	"2"	409	4336853	9.4
+	"Harris County, TX"	"48201"	"2013"	"2013"	"Homicide"	"3"	367	4336853	8.5
+	"Harris County, TX"	"48201"	"2013"	"2013"	"Undetermined "	"4"	37	4336853	0.9
+	"Harris County, TX"	"48201"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	23	4336853	0.5
+	"Harris County, TX"	"48201"	"2014"	"2014"	"Unintentional"	"1"	1457	4441370	32.8
+	"Harris County, TX"	"48201"	"2014"	"2014"	"Suicide"	"2"	430	4441370	9.7
+	"Harris County, TX"	"48201"	"2014"	"2014"	"Homicide"	"3"	352	4441370	7.9
+	"Harris County, TX"	"48201"	"2014"	"2014"	"Undetermined "	"4"	48	4441370	1.1
+	"Harris County, TX"	"48201"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	27	4441370	0.6
+	"Harris County, TX"	"48201"	"2015"	"2015"	"Unintentional"	"1"	1508	4538028	33.2
+	"Harris County, TX"	"48201"	"2015"	"2015"	"Suicide"	"2"	468	4538028	10.3
+	"Harris County, TX"	"48201"	"2015"	"2015"	"Homicide"	"3"	445	4538028	9.8
+	"Harris County, TX"	"48201"	"2015"	"2015"	"Undetermined "	"4"	30	4538028	0.7
+	"Harris County, TX"	"48201"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	29	4538028	0.6
+	"Harris County, TX"	"48201"	"2016"	"2016"	"Unintentional"	"1"	1722	4589928	37.5
+	"Harris County, TX"	"48201"	"2016"	"2016"	"Suicide"	"2"	491	4589928	10.7
+	"Harris County, TX"	"48201"	"2016"	"2016"	"Homicide"	"3"	435	4589928	9.5
+	"Harris County, TX"	"48201"	"2016"	"2016"	"Undetermined "	"4"	39	4589928	0.8
+	"Harris County, TX"	"48201"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	22	4589928	0.5
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Unintentional"	"1"	1743	4652980	37.5
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Suicide"	"2"	491	4652980	10.6
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Homicide"	"3"	408	4652980	8.8
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Undetermined "	"4"	34	4652980	0.7
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Legal Intervention / Operations of War"	"5"	12	4652980	Unreliable
+	"Harris County, TX"	"48201"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	30	4652980	0.6
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Unintentional"	"1"	1660	4698619	35.3
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Suicide"	"2"	481	4698619	10.2
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Homicide"	"3"	390	4698619	8.3
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Undetermined "	"4"	42	4698619	0.9
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	13	4698619	Unreliable
+	"Harris County, TX"	"48201"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	37	4698619	0.8
+	"Hays County, TX"	"48209"	"1999"	"1999"	"Unintentional"	"1"	37	93622	39.5
+	"Hays County, TX"	"48209"	"2000"	"2000"	"Unintentional"	"1"	33	97589	33.8
+	"Hays County, TX"	"48209"	"2000"	"2000"	"Suicide"	"2"	10	97589	Unreliable
+	"Hays County, TX"	"48209"	"2001"	"2001"	"Unintentional"	"1"	41	104739	39.1
+	"Hays County, TX"	"48209"	"2001"	"2001"	"Suicide"	"2"	15	104739	Unreliable
+	"Hays County, TX"	"48209"	"2002"	"2002"	"Unintentional"	"1"	43	111397	38.6
+	"Hays County, TX"	"48209"	"2002"	"2002"	"Suicide"	"2"	10	111397	Unreliable
+	"Hays County, TX"	"48209"	"2003"	"2003"	"Unintentional"	"1"	45	115665	38.9
+	"Hays County, TX"	"48209"	"2003"	"2003"	"Suicide"	"2"	11	115665	Unreliable
+	"Hays County, TX"	"48209"	"2004"	"2004"	"Unintentional"	"1"	42	119395	35.2
+	"Hays County, TX"	"48209"	"2004"	"2004"	"Suicide"	"2"	10	119395	Unreliable
+	"Hays County, TX"	"48209"	"2005"	"2005"	"Unintentional"	"1"	41	125302	32.7
+	"Hays County, TX"	"48209"	"2005"	"2005"	"Suicide"	"2"	21	125302	16.8
+	"Hays County, TX"	"48209"	"2006"	"2006"	"Unintentional"	"1"	35	132111	26.5
+	"Hays County, TX"	"48209"	"2006"	"2006"	"Suicide"	"2"	14	132111	Unreliable
+	"Hays County, TX"	"48209"	"2007"	"2007"	"Unintentional"	"1"	53	140480	37.7
+	"Hays County, TX"	"48209"	"2007"	"2007"	"Suicide"	"2"	15	140480	Unreliable
+	"Hays County, TX"	"48209"	"2008"	"2008"	"Unintentional"	"1"	66	147674	44.7
+	"Hays County, TX"	"48209"	"2008"	"2008"	"Suicide"	"2"	19	147674	Unreliable
+	"Hays County, TX"	"48209"	"2009"	"2009"	"Unintentional"	"1"	44	153619	28.6
+	"Hays County, TX"	"48209"	"2009"	"2009"	"Suicide"	"2"	13	153619	Unreliable
+	"Hays County, TX"	"48209"	"2010"	"2010"	"Unintentional"	"1"	63	157107	40.1
+	"Hays County, TX"	"48209"	"2010"	"2010"	"Suicide"	"2"	12	157107	Unreliable
+	"Hays County, TX"	"48209"	"2011"	"2011"	"Unintentional"	"1"	55	164050	33.5
+	"Hays County, TX"	"48209"	"2011"	"2011"	"Suicide"	"2"	24	164050	14.6
+	"Hays County, TX"	"48209"	"2012"	"2012"	"Unintentional"	"1"	52	168990	30.8
+	"Hays County, TX"	"48209"	"2012"	"2012"	"Suicide"	"2"	20	168990	11.8
+	"Hays County, TX"	"48209"	"2013"	"2013"	"Unintentional"	"1"	46	176026	26.1
+	"Hays County, TX"	"48209"	"2013"	"2013"	"Suicide"	"2"	17	176026	Unreliable
+	"Hays County, TX"	"48209"	"2014"	"2014"	"Unintentional"	"1"	62	185025	33.5
+	"Hays County, TX"	"48209"	"2014"	"2014"	"Suicide"	"2"	24	185025	13.0
+	"Hays County, TX"	"48209"	"2015"	"2015"	"Unintentional"	"1"	73	194739	37.5
+	"Hays County, TX"	"48209"	"2015"	"2015"	"Suicide"	"2"	20	194739	10.3
+	"Hays County, TX"	"48209"	"2016"	"2016"	"Unintentional"	"1"	79	204470	38.6
+	"Hays County, TX"	"48209"	"2016"	"2016"	"Suicide"	"2"	31	204470	15.2
+	"Hays County, TX"	"48209"	"2017"	"2017"	"Unintentional"	"1"	63	214485	29.4
+	"Hays County, TX"	"48209"	"2017"	"2017"	"Suicide"	"2"	30	214485	14.0
+	"Hays County, TX"	"48209"	"2018"	"2018"	"Unintentional"	"1"	66	222631	29.6
+	"Hays County, TX"	"48209"	"2018"	"2018"	"Suicide"	"2"	35	222631	15.7
+	"Hays County, TX"	"48209"	"2018"	"2018"	"Homicide"	"3"	13	222631	Unreliable
+	"Hidalgo County, TX"	"48215"	"1999"	"1999"	"Unintentional"	"1"	161	555875	29.0
+	"Hidalgo County, TX"	"48215"	"1999"	"1999"	"Suicide"	"2"	19	555875	Unreliable
+	"Hidalgo County, TX"	"48215"	"1999"	"1999"	"Homicide"	"3"	16	555875	Unreliable
+	"Hidalgo County, TX"	"48215"	"2000"	"2000"	"Unintentional"	"1"	151	569463	26.5
+	"Hidalgo County, TX"	"48215"	"2000"	"2000"	"Suicide"	"2"	23	569463	4.0
+	"Hidalgo County, TX"	"48215"	"2000"	"2000"	"Homicide"	"3"	23	569463	4.0
+	"Hidalgo County, TX"	"48215"	"2001"	"2001"	"Unintentional"	"1"	168	590067	28.5
+	"Hidalgo County, TX"	"48215"	"2001"	"2001"	"Suicide"	"2"	22	590067	3.7
+	"Hidalgo County, TX"	"48215"	"2001"	"2001"	"Homicide"	"3"	28	590067	4.7
+	"Hidalgo County, TX"	"48215"	"2002"	"2002"	"Unintentional"	"1"	148	610520	24.2
+	"Hidalgo County, TX"	"48215"	"2002"	"2002"	"Suicide"	"2"	26	610520	4.3
+	"Hidalgo County, TX"	"48215"	"2002"	"2002"	"Homicide"	"3"	41	610520	6.7
+	"Hidalgo County, TX"	"48215"	"2003"	"2003"	"Unintentional"	"1"	171	632475	27.0
+	"Hidalgo County, TX"	"48215"	"2003"	"2003"	"Suicide"	"2"	35	632475	5.5
+	"Hidalgo County, TX"	"48215"	"2003"	"2003"	"Homicide"	"3"	44	632475	7.0
+	"Hidalgo County, TX"	"48215"	"2004"	"2004"	"Unintentional"	"1"	157	653779	24.0
+	"Hidalgo County, TX"	"48215"	"2004"	"2004"	"Suicide"	"2"	27	653779	4.1
+	"Hidalgo County, TX"	"48215"	"2004"	"2004"	"Homicide"	"3"	25	653779	3.8
+	"Hidalgo County, TX"	"48215"	"2005"	"2005"	"Unintentional"	"1"	161	674982	23.9
+	"Hidalgo County, TX"	"48215"	"2005"	"2005"	"Suicide"	"2"	37	674982	5.5
+	"Hidalgo County, TX"	"48215"	"2005"	"2005"	"Homicide"	"3"	33	674982	4.9
+	"Hidalgo County, TX"	"48215"	"2006"	"2006"	"Unintentional"	"1"	158	695352	22.7
+	"Hidalgo County, TX"	"48215"	"2006"	"2006"	"Suicide"	"2"	34	695352	4.9
+	"Hidalgo County, TX"	"48215"	"2006"	"2006"	"Homicide"	"3"	29	695352	4.2
+	"Hidalgo County, TX"	"48215"	"2007"	"2007"	"Unintentional"	"1"	173	715264	24.2
+	"Hidalgo County, TX"	"48215"	"2007"	"2007"	"Suicide"	"2"	26	715264	3.6
+	"Hidalgo County, TX"	"48215"	"2007"	"2007"	"Homicide"	"3"	35	715264	4.9
+	"Hidalgo County, TX"	"48215"	"2008"	"2008"	"Unintentional"	"1"	147	736694	20.0
+	"Hidalgo County, TX"	"48215"	"2008"	"2008"	"Suicide"	"2"	40	736694	5.4
+	"Hidalgo County, TX"	"48215"	"2008"	"2008"	"Homicide"	"3"	42	736694	5.7
+	"Hidalgo County, TX"	"48215"	"2009"	"2009"	"Unintentional"	"1"	154	757468	20.3
+	"Hidalgo County, TX"	"48215"	"2009"	"2009"	"Suicide"	"2"	28	757468	3.7
+	"Hidalgo County, TX"	"48215"	"2009"	"2009"	"Homicide"	"3"	34	757468	4.5
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Unintentional"	"1"	177	774769	22.8
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Suicide"	"2"	37	774769	4.8
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Homicide"	"3"	34	774769	4.4
+	"Hidalgo County, TX"	"48215"	"2011"	"2011"	"Unintentional"	"1"	142	797810	17.8
+	"Hidalgo County, TX"	"48215"	"2011"	"2011"	"Suicide"	"2"	37	797810	4.6
+	"Hidalgo County, TX"	"48215"	"2011"	"2011"	"Homicide"	"3"	31	797810	3.9
+	"Hidalgo County, TX"	"48215"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	797810	Unreliable
+	"Hidalgo County, TX"	"48215"	"2012"	"2012"	"Unintentional"	"1"	170	806552	21.1
+	"Hidalgo County, TX"	"48215"	"2012"	"2012"	"Suicide"	"2"	47	806552	5.8
+	"Hidalgo County, TX"	"48215"	"2012"	"2012"	"Homicide"	"3"	26	806552	3.2
+	"Hidalgo County, TX"	"48215"	"2013"	"2013"	"Unintentional"	"1"	189	815996	23.2
+	"Hidalgo County, TX"	"48215"	"2013"	"2013"	"Suicide"	"2"	42	815996	5.1
+	"Hidalgo County, TX"	"48215"	"2013"	"2013"	"Homicide"	"3"	21	815996	2.6
+	"Hidalgo County, TX"	"48215"	"2014"	"2014"	"Unintentional"	"1"	153	831073	18.4
+	"Hidalgo County, TX"	"48215"	"2014"	"2014"	"Suicide"	"2"	56	831073	6.7
+	"Hidalgo County, TX"	"48215"	"2014"	"2014"	"Homicide"	"3"	26	831073	3.1
+	"Hidalgo County, TX"	"48215"	"2015"	"2015"	"Unintentional"	"1"	160	842304	19.0
+	"Hidalgo County, TX"	"48215"	"2015"	"2015"	"Suicide"	"2"	47	842304	5.6
+	"Hidalgo County, TX"	"48215"	"2015"	"2015"	"Homicide"	"3"	33	842304	3.9
+	"Hidalgo County, TX"	"48215"	"2016"	"2016"	"Unintentional"	"1"	190	849843	22.4
+	"Hidalgo County, TX"	"48215"	"2016"	"2016"	"Suicide"	"2"	55	849843	6.5
+	"Hidalgo County, TX"	"48215"	"2016"	"2016"	"Homicide"	"3"	25	849843	2.9
+	"Hidalgo County, TX"	"48215"	"2017"	"2017"	"Unintentional"	"1"	172	860661	20.0
+	"Hidalgo County, TX"	"48215"	"2017"	"2017"	"Suicide"	"2"	59	860661	6.9
+	"Hidalgo County, TX"	"48215"	"2017"	"2017"	"Homicide"	"3"	36	860661	4.2
+	"Hidalgo County, TX"	"48215"	"2018"	"2018"	"Unintentional"	"1"	162	865939	18.7
+	"Hidalgo County, TX"	"48215"	"2018"	"2018"	"Suicide"	"2"	45	865939	5.2
+	"Hidalgo County, TX"	"48215"	"2018"	"2018"	"Homicide"	"3"	21	865939	2.4
+	"Hood County, TX"	"48221"	"1999"	"1999"	"Unintentional"	"1"	23	39969	57.5
+	"Hood County, TX"	"48221"	"2000"	"2000"	"Unintentional"	"1"	14	41100	Unreliable
+	"Hood County, TX"	"48221"	"2001"	"2001"	"Unintentional"	"1"	20	42425	47.1
+	"Hood County, TX"	"48221"	"2002"	"2002"	"Unintentional"	"1"	19	43344	Unreliable
+	"Hood County, TX"	"48221"	"2003"	"2003"	"Unintentional"	"1"	27	44448	60.7
+	"Hood County, TX"	"48221"	"2004"	"2004"	"Unintentional"	"1"	24	45411	52.9
+	"Hood County, TX"	"48221"	"2005"	"2005"	"Unintentional"	"1"	35	46470	75.3
+	"Hood County, TX"	"48221"	"2005"	"2005"	"Suicide"	"2"	10	46470	Unreliable
+	"Hood County, TX"	"48221"	"2006"	"2006"	"Unintentional"	"1"	28	47952	58.4
+	"Hood County, TX"	"48221"	"2007"	"2007"	"Unintentional"	"1"	27	48870	55.2
+	"Hood County, TX"	"48221"	"2008"	"2008"	"Unintentional"	"1"	27	50112	53.9
+	"Hood County, TX"	"48221"	"2009"	"2009"	"Unintentional"	"1"	28	50841	55.1
+	"Hood County, TX"	"48221"	"2010"	"2010"	"Unintentional"	"1"	23	51182	44.9
+	"Hood County, TX"	"48221"	"2011"	"2011"	"Unintentional"	"1"	25	51670	48.4
+	"Hood County, TX"	"48221"	"2011"	"2011"	"Suicide"	"2"	10	51670	Unreliable
+	"Hood County, TX"	"48221"	"2012"	"2012"	"Unintentional"	"1"	32	52044	61.5
+	"Hood County, TX"	"48221"	"2013"	"2013"	"Unintentional"	"1"	46	52905	86.9
+	"Hood County, TX"	"48221"	"2013"	"2013"	"Suicide"	"2"	12	52905	Unreliable
+	"Hood County, TX"	"48221"	"2014"	"2014"	"Unintentional"	"1"	33	53921	61.2
+	"Hood County, TX"	"48221"	"2015"	"2015"	"Unintentional"	"1"	33	55423	59.5
+	"Hood County, TX"	"48221"	"2015"	"2015"	"Suicide"	"2"	10	55423	Unreliable
+	"Hood County, TX"	"48221"	"2016"	"2016"	"Unintentional"	"1"	33	56857	58.0
+	"Hood County, TX"	"48221"	"2016"	"2016"	"Suicide"	"2"	11	56857	Unreliable
+	"Hood County, TX"	"48221"	"2017"	"2017"	"Unintentional"	"1"	39	58273	66.9
+	"Hood County, TX"	"48221"	"2018"	"2018"	"Unintentional"	"1"	24	60537	39.6
+	"Hood County, TX"	"48221"	"2018"	"2018"	"Suicide"	"2"	21	60537	34.7
+	"Hunt County, TX"	"48231"	"1999"	"1999"	"Unintentional"	"1"	34	75086	45.3
+	"Hunt County, TX"	"48231"	"1999"	"1999"	"Suicide"	"2"	14	75086	Unreliable
+	"Hunt County, TX"	"48231"	"2000"	"2000"	"Unintentional"	"1"	48	76596	62.7
+	"Hunt County, TX"	"48231"	"2000"	"2000"	"Suicide"	"2"	10	76596	Unreliable
+	"Hunt County, TX"	"48231"	"2001"	"2001"	"Unintentional"	"1"	46	78431	58.7
+	"Hunt County, TX"	"48231"	"2001"	"2001"	"Suicide"	"2"	14	78431	Unreliable
+	"Hunt County, TX"	"48231"	"2002"	"2002"	"Unintentional"	"1"	44	80234	54.8
+	"Hunt County, TX"	"48231"	"2002"	"2002"	"Suicide"	"2"	11	80234	Unreliable
+	"Hunt County, TX"	"48231"	"2003"	"2003"	"Unintentional"	"1"	46	80958	56.8
+	"Hunt County, TX"	"48231"	"2003"	"2003"	"Suicide"	"2"	10	80958	Unreliable
+	"Hunt County, TX"	"48231"	"2004"	"2004"	"Unintentional"	"1"	50	82092	60.9
+	"Hunt County, TX"	"48231"	"2004"	"2004"	"Suicide"	"2"	10	82092	Unreliable
+	"Hunt County, TX"	"48231"	"2004"	"2004"	"Homicide"	"3"	10	82092	Unreliable
+	"Hunt County, TX"	"48231"	"2005"	"2005"	"Unintentional"	"1"	40	82822	48.3
+	"Hunt County, TX"	"48231"	"2005"	"2005"	"Suicide"	"2"	14	82822	Unreliable
+	"Hunt County, TX"	"48231"	"2006"	"2006"	"Unintentional"	"1"	54	83770	64.5
+	"Hunt County, TX"	"48231"	"2006"	"2006"	"Suicide"	"2"	16	83770	Unreliable
+	"Hunt County, TX"	"48231"	"2007"	"2007"	"Unintentional"	"1"	40	84351	47.4
+	"Hunt County, TX"	"48231"	"2007"	"2007"	"Suicide"	"2"	12	84351	Unreliable
+	"Hunt County, TX"	"48231"	"2008"	"2008"	"Unintentional"	"1"	54	84447	63.9
+	"Hunt County, TX"	"48231"	"2008"	"2008"	"Suicide"	"2"	13	84447	Unreliable
+	"Hunt County, TX"	"48231"	"2009"	"2009"	"Unintentional"	"1"	43	85261	50.4
+	"Hunt County, TX"	"48231"	"2009"	"2009"	"Suicide"	"2"	14	85261	Unreliable
+	"Hunt County, TX"	"48231"	"2010"	"2010"	"Unintentional"	"1"	42	86129	48.8
+	"Hunt County, TX"	"48231"	"2011"	"2011"	"Unintentional"	"1"	42	86531	48.5
+	"Hunt County, TX"	"48231"	"2011"	"2011"	"Suicide"	"2"	15	86531	Unreliable
+	"Hunt County, TX"	"48231"	"2012"	"2012"	"Unintentional"	"1"	42	87079	48.2
+	"Hunt County, TX"	"48231"	"2012"	"2012"	"Suicide"	"2"	13	87079	Unreliable
+	"Hunt County, TX"	"48231"	"2013"	"2013"	"Unintentional"	"1"	32	87048	36.8
+	"Hunt County, TX"	"48231"	"2013"	"2013"	"Suicide"	"2"	15	87048	Unreliable
+	"Hunt County, TX"	"48231"	"2014"	"2014"	"Unintentional"	"1"	44	88493	49.7
+	"Hunt County, TX"	"48231"	"2014"	"2014"	"Suicide"	"2"	17	88493	Unreliable
+	"Hunt County, TX"	"48231"	"2014"	"2014"	"Homicide"	"3"	10	88493	Unreliable
+	"Hunt County, TX"	"48231"	"2015"	"2015"	"Unintentional"	"1"	42	89844	46.7
+	"Hunt County, TX"	"48231"	"2015"	"2015"	"Suicide"	"2"	18	89844	Unreliable
+	"Hunt County, TX"	"48231"	"2016"	"2016"	"Unintentional"	"1"	55	92073	59.7
+	"Hunt County, TX"	"48231"	"2016"	"2016"	"Suicide"	"2"	19	92073	Unreliable
+	"Hunt County, TX"	"48231"	"2017"	"2017"	"Unintentional"	"1"	57	93872	60.7
+	"Hunt County, TX"	"48231"	"2017"	"2017"	"Suicide"	"2"	16	93872	Unreliable
+	"Hunt County, TX"	"48231"	"2018"	"2018"	"Unintentional"	"1"	39	96493	40.4
+	"Hunt County, TX"	"48231"	"2018"	"2018"	"Suicide"	"2"	13	96493	Unreliable
+	"Jefferson County, TX"	"48245"	"1999"	"1999"	"Unintentional"	"1"	91	252288	36.1
+	"Jefferson County, TX"	"48245"	"1999"	"1999"	"Suicide"	"2"	29	252288	11.5
+	"Jefferson County, TX"	"48245"	"1999"	"1999"	"Homicide"	"3"	19	252288	Unreliable
+	"Jefferson County, TX"	"48245"	"2000"	"2000"	"Unintentional"	"1"	86	252051	34.1
+	"Jefferson County, TX"	"48245"	"2000"	"2000"	"Suicide"	"2"	30	252051	11.9
+	"Jefferson County, TX"	"48245"	"2000"	"2000"	"Homicide"	"3"	19	252051	Unreliable
+	"Jefferson County, TX"	"48245"	"2001"	"2001"	"Unintentional"	"1"	101	250137	40.4
+	"Jefferson County, TX"	"48245"	"2001"	"2001"	"Suicide"	"2"	31	250137	12.4
+	"Jefferson County, TX"	"48245"	"2001"	"2001"	"Homicide"	"3"	20	250137	8.0
+	"Jefferson County, TX"	"48245"	"2002"	"2002"	"Unintentional"	"1"	118	250146	47.2
+	"Jefferson County, TX"	"48245"	"2002"	"2002"	"Suicide"	"2"	17	250146	Unreliable
+	"Jefferson County, TX"	"48245"	"2002"	"2002"	"Homicide"	"3"	15	250146	Unreliable
+	"Jefferson County, TX"	"48245"	"2003"	"2003"	"Unintentional"	"1"	110	250183	44.0
+	"Jefferson County, TX"	"48245"	"2003"	"2003"	"Suicide"	"2"	32	250183	12.8
+	"Jefferson County, TX"	"48245"	"2003"	"2003"	"Homicide"	"3"	23	250183	9.2
+	"Jefferson County, TX"	"48245"	"2004"	"2004"	"Unintentional"	"1"	111	250638	44.3
+	"Jefferson County, TX"	"48245"	"2004"	"2004"	"Suicide"	"2"	25	250638	10.0
+	"Jefferson County, TX"	"48245"	"2004"	"2004"	"Homicide"	"3"	17	250638	Unreliable
+	"Jefferson County, TX"	"48245"	"2005"	"2005"	"Unintentional"	"1"	125	250849	49.8
+	"Jefferson County, TX"	"48245"	"2005"	"2005"	"Suicide"	"2"	24	250849	9.6
+	"Jefferson County, TX"	"48245"	"2005"	"2005"	"Homicide"	"3"	34	250849	13.6
+	"Jefferson County, TX"	"48245"	"2006"	"2006"	"Unintentional"	"1"	152	245962	61.8
+	"Jefferson County, TX"	"48245"	"2006"	"2006"	"Suicide"	"2"	38	245962	15.4
+	"Jefferson County, TX"	"48245"	"2006"	"2006"	"Homicide"	"3"	20	245962	8.1
+	"Jefferson County, TX"	"48245"	"2007"	"2007"	"Unintentional"	"1"	125	247629	50.5
+	"Jefferson County, TX"	"48245"	"2007"	"2007"	"Suicide"	"2"	30	247629	12.1
+	"Jefferson County, TX"	"48245"	"2007"	"2007"	"Homicide"	"3"	32	247629	12.9
+	"Jefferson County, TX"	"48245"	"2008"	"2008"	"Unintentional"	"1"	139	249430	55.7
+	"Jefferson County, TX"	"48245"	"2008"	"2008"	"Suicide"	"2"	32	249430	12.8
+	"Jefferson County, TX"	"48245"	"2008"	"2008"	"Homicide"	"3"	24	249430	9.6
+	"Jefferson County, TX"	"48245"	"2009"	"2009"	"Unintentional"	"1"	126	251332	50.1
+	"Jefferson County, TX"	"48245"	"2009"	"2009"	"Suicide"	"2"	27	251332	10.7
+	"Jefferson County, TX"	"48245"	"2009"	"2009"	"Homicide"	"3"	21	251332	8.4
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Unintentional"	"1"	100	252273	39.6
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Suicide"	"2"	37	252273	14.7
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Homicide"	"3"	18	252273	Unreliable
+	"Jefferson County, TX"	"48245"	"2011"	"2011"	"Unintentional"	"1"	95	252802	37.6
+	"Jefferson County, TX"	"48245"	"2011"	"2011"	"Suicide"	"2"	28	252802	11.1
+	"Jefferson County, TX"	"48245"	"2011"	"2011"	"Homicide"	"3"	19	252802	Unreliable
+	"Jefferson County, TX"	"48245"	"2012"	"2012"	"Unintentional"	"1"	96	251813	38.1
+	"Jefferson County, TX"	"48245"	"2012"	"2012"	"Suicide"	"2"	32	251813	12.7
+	"Jefferson County, TX"	"48245"	"2012"	"2012"	"Homicide"	"3"	23	251813	9.1
+	"Jefferson County, TX"	"48245"	"2013"	"2013"	"Unintentional"	"1"	113	252358	44.8
+	"Jefferson County, TX"	"48245"	"2013"	"2013"	"Suicide"	"2"	23	252358	9.1
+	"Jefferson County, TX"	"48245"	"2013"	"2013"	"Homicide"	"3"	32	252358	12.7
+	"Jefferson County, TX"	"48245"	"2014"	"2014"	"Unintentional"	"1"	109	252235	43.2
+	"Jefferson County, TX"	"48245"	"2014"	"2014"	"Suicide"	"2"	40	252235	15.9
+	"Jefferson County, TX"	"48245"	"2014"	"2014"	"Homicide"	"3"	25	252235	9.9
+	"Jefferson County, TX"	"48245"	"2015"	"2015"	"Unintentional"	"1"	95	254308	37.4
+	"Jefferson County, TX"	"48245"	"2015"	"2015"	"Suicide"	"2"	36	254308	14.2
+	"Jefferson County, TX"	"48245"	"2015"	"2015"	"Homicide"	"3"	22	254308	8.7
+	"Jefferson County, TX"	"48245"	"2016"	"2016"	"Unintentional"	"1"	101	254679	39.7
+	"Jefferson County, TX"	"48245"	"2016"	"2016"	"Suicide"	"2"	33	254679	13.0
+	"Jefferson County, TX"	"48245"	"2016"	"2016"	"Homicide"	"3"	33	254679	13.0
+	"Jefferson County, TX"	"48245"	"2017"	"2017"	"Unintentional"	"1"	122	256299	47.6
+	"Jefferson County, TX"	"48245"	"2017"	"2017"	"Suicide"	"2"	35	256299	13.7
+	"Jefferson County, TX"	"48245"	"2017"	"2017"	"Homicide"	"3"	25	256299	9.8
+	"Jefferson County, TX"	"48245"	"2018"	"2018"	"Unintentional"	"1"	121	255001	47.5
+	"Jefferson County, TX"	"48245"	"2018"	"2018"	"Suicide"	"2"	37	255001	14.5
+	"Jefferson County, TX"	"48245"	"2018"	"2018"	"Homicide"	"3"	31	255001	12.2
+	"Johnson County, TX"	"48251"	"1999"	"1999"	"Unintentional"	"1"	51	123249	41.4
+	"Johnson County, TX"	"48251"	"1999"	"1999"	"Suicide"	"2"	14	123249	Unreliable
+	"Johnson County, TX"	"48251"	"2000"	"2000"	"Unintentional"	"1"	55	126811	43.4
+	"Johnson County, TX"	"48251"	"2000"	"2000"	"Suicide"	"2"	11	126811	Unreliable
+	"Johnson County, TX"	"48251"	"2001"	"2001"	"Unintentional"	"1"	51	130795	39.0
+	"Johnson County, TX"	"48251"	"2001"	"2001"	"Suicide"	"2"	16	130795	Unreliable
+	"Johnson County, TX"	"48251"	"2002"	"2002"	"Unintentional"	"1"	53	133399	39.7
+	"Johnson County, TX"	"48251"	"2002"	"2002"	"Suicide"	"2"	16	133399	Unreliable
+	"Johnson County, TX"	"48251"	"2003"	"2003"	"Unintentional"	"1"	47	136264	34.5
+	"Johnson County, TX"	"48251"	"2003"	"2003"	"Suicide"	"2"	16	136264	Unreliable
+	"Johnson County, TX"	"48251"	"2004"	"2004"	"Unintentional"	"1"	53	138833	38.2
+	"Johnson County, TX"	"48251"	"2004"	"2004"	"Suicide"	"2"	19	138833	Unreliable
+	"Johnson County, TX"	"48251"	"2005"	"2005"	"Unintentional"	"1"	61	140692	43.4
+	"Johnson County, TX"	"48251"	"2005"	"2005"	"Suicide"	"2"	14	140692	Unreliable
+	"Johnson County, TX"	"48251"	"2006"	"2006"	"Unintentional"	"1"	63	142501	44.2
+	"Johnson County, TX"	"48251"	"2006"	"2006"	"Suicide"	"2"	16	142501	Unreliable
+	"Johnson County, TX"	"48251"	"2007"	"2007"	"Unintentional"	"1"	63	145123	43.4
+	"Johnson County, TX"	"48251"	"2007"	"2007"	"Suicide"	"2"	16	145123	Unreliable
+	"Johnson County, TX"	"48251"	"2008"	"2008"	"Unintentional"	"1"	81	148635	54.5
+	"Johnson County, TX"	"48251"	"2008"	"2008"	"Suicide"	"2"	19	148635	Unreliable
+	"Johnson County, TX"	"48251"	"2009"	"2009"	"Unintentional"	"1"	62	150583	41.2
+	"Johnson County, TX"	"48251"	"2009"	"2009"	"Suicide"	"2"	21	150583	13.9
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Unintentional"	"1"	71	150934	47.0
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Suicide"	"2"	34	150934	22.5
+	"Johnson County, TX"	"48251"	"2011"	"2011"	"Unintentional"	"1"	54	152734	35.4
+	"Johnson County, TX"	"48251"	"2011"	"2011"	"Suicide"	"2"	14	152734	Unreliable
+	"Johnson County, TX"	"48251"	"2012"	"2012"	"Unintentional"	"1"	61	153441	39.8
+	"Johnson County, TX"	"48251"	"2012"	"2012"	"Suicide"	"2"	23	153441	15.0
+	"Johnson County, TX"	"48251"	"2013"	"2013"	"Unintentional"	"1"	60	154707	38.8
+	"Johnson County, TX"	"48251"	"2013"	"2013"	"Suicide"	"2"	31	154707	20.0
+	"Johnson County, TX"	"48251"	"2014"	"2014"	"Unintentional"	"1"	65	157456	41.3
+	"Johnson County, TX"	"48251"	"2014"	"2014"	"Suicide"	"2"	23	157456	14.6
+	"Johnson County, TX"	"48251"	"2015"	"2015"	"Unintentional"	"1"	70	159990	43.8
+	"Johnson County, TX"	"48251"	"2015"	"2015"	"Suicide"	"2"	18	159990	Unreliable
+	"Johnson County, TX"	"48251"	"2016"	"2016"	"Unintentional"	"1"	62	163274	38.0
+	"Johnson County, TX"	"48251"	"2016"	"2016"	"Suicide"	"2"	22	163274	13.5
+	"Johnson County, TX"	"48251"	"2017"	"2017"	"Unintentional"	"1"	60	167301	35.9
+	"Johnson County, TX"	"48251"	"2017"	"2017"	"Suicide"	"2"	22	167301	13.1
+	"Johnson County, TX"	"48251"	"2018"	"2018"	"Unintentional"	"1"	78	171361	45.5
+	"Johnson County, TX"	"48251"	"2018"	"2018"	"Suicide"	"2"	30	171361	17.5
+	"Kaufman County, TX"	"48257"	"1999"	"1999"	"Unintentional"	"1"	38	69008	55.1
+	"Kaufman County, TX"	"48257"	"2000"	"2000"	"Unintentional"	"1"	40	71313	56.1
+	"Kaufman County, TX"	"48257"	"2001"	"2001"	"Unintentional"	"1"	28	75223	37.2
+	"Kaufman County, TX"	"48257"	"2001"	"2001"	"Suicide"	"2"	12	75223	Unreliable
+	"Kaufman County, TX"	"48257"	"2002"	"2002"	"Unintentional"	"1"	36	77693	46.3
+	"Kaufman County, TX"	"48257"	"2002"	"2002"	"Suicide"	"2"	16	77693	Unreliable
+	"Kaufman County, TX"	"48257"	"2003"	"2003"	"Unintentional"	"1"	47	81322	57.8
+	"Kaufman County, TX"	"48257"	"2003"	"2003"	"Suicide"	"2"	15	81322	Unreliable
+	"Kaufman County, TX"	"48257"	"2004"	"2004"	"Unintentional"	"1"	28	84240	33.2
+	"Kaufman County, TX"	"48257"	"2005"	"2005"	"Unintentional"	"1"	29	87388	33.2
+	"Kaufman County, TX"	"48257"	"2005"	"2005"	"Suicide"	"2"	14	87388	Unreliable
+	"Kaufman County, TX"	"48257"	"2006"	"2006"	"Unintentional"	"1"	40	91395	43.8
+	"Kaufman County, TX"	"48257"	"2006"	"2006"	"Suicide"	"2"	13	91395	Unreliable
+	"Kaufman County, TX"	"48257"	"2007"	"2007"	"Unintentional"	"1"	42	95694	43.9
+	"Kaufman County, TX"	"48257"	"2007"	"2007"	"Suicide"	"2"	17	95694	Unreliable
+	"Kaufman County, TX"	"48257"	"2008"	"2008"	"Unintentional"	"1"	42	99285	42.3
+	"Kaufman County, TX"	"48257"	"2008"	"2008"	"Suicide"	"2"	10	99285	Unreliable
+	"Kaufman County, TX"	"48257"	"2009"	"2009"	"Unintentional"	"1"	43	101709	42.3
+	"Kaufman County, TX"	"48257"	"2009"	"2009"	"Suicide"	"2"	16	101709	Unreliable
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Unintentional"	"1"	37	103350	35.8
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Suicide"	"2"	12	103350	Unreliable
+	"Kaufman County, TX"	"48257"	"2011"	"2011"	"Unintentional"	"1"	38	105358	36.1
+	"Kaufman County, TX"	"48257"	"2011"	"2011"	"Suicide"	"2"	12	105358	Unreliable
+	"Kaufman County, TX"	"48257"	"2012"	"2012"	"Unintentional"	"1"	47	106753	44.0
+	"Kaufman County, TX"	"48257"	"2012"	"2012"	"Suicide"	"2"	16	106753	Unreliable
+	"Kaufman County, TX"	"48257"	"2013"	"2013"	"Unintentional"	"1"	39	108568	35.9
+	"Kaufman County, TX"	"48257"	"2014"	"2014"	"Unintentional"	"1"	57	111236	51.2
+	"Kaufman County, TX"	"48257"	"2014"	"2014"	"Suicide"	"2"	21	111236	18.9
+	"Kaufman County, TX"	"48257"	"2015"	"2015"	"Unintentional"	"1"	47	114690	41.0
+	"Kaufman County, TX"	"48257"	"2015"	"2015"	"Suicide"	"2"	18	114690	Unreliable
+	"Kaufman County, TX"	"48257"	"2016"	"2016"	"Unintentional"	"1"	44	118350	37.2
+	"Kaufman County, TX"	"48257"	"2016"	"2016"	"Suicide"	"2"	15	118350	Unreliable
+	"Kaufman County, TX"	"48257"	"2017"	"2017"	"Unintentional"	"1"	57	122883	46.4
+	"Kaufman County, TX"	"48257"	"2017"	"2017"	"Suicide"	"2"	17	122883	Unreliable
+	"Kaufman County, TX"	"48257"	"2018"	"2018"	"Unintentional"	"1"	67	128622	52.1
+	"Kaufman County, TX"	"48257"	"2018"	"2018"	"Suicide"	"2"	30	128622	23.3
+	"Kendall County, TX"	"48259"	"1999"	"1999"	"Unintentional"	"1"	10	22967	Unreliable
+	"Kendall County, TX"	"48259"	"2000"	"2000"	"Unintentional"	"1"	14	23743	Unreliable
+	"Kendall County, TX"	"48259"	"2001"	"2001"	"Unintentional"	"1"	12	24433	Unreliable
+	"Kendall County, TX"	"48259"	"2002"	"2002"	"Unintentional"	"1"	11	24975	Unreliable
+	"Kendall County, TX"	"48259"	"2003"	"2003"	"Unintentional"	"1"	21	25892	81.1
+	"Kendall County, TX"	"48259"	"2005"	"2005"	"Unintentional"	"1"	12	27849	Unreliable
+	"Kendall County, TX"	"48259"	"2006"	"2006"	"Unintentional"	"1"	15	29134	Unreliable
+	"Kendall County, TX"	"48259"	"2007"	"2007"	"Unintentional"	"1"	18	30330	Unreliable
+	"Kendall County, TX"	"48259"	"2008"	"2008"	"Unintentional"	"1"	12	31754	Unreliable
+	"Kendall County, TX"	"48259"	"2009"	"2009"	"Unintentional"	"1"	12	32655	Unreliable
+	"Kendall County, TX"	"48259"	"2010"	"2010"	"Unintentional"	"1"	22	33410	65.8
+	"Kendall County, TX"	"48259"	"2011"	"2011"	"Unintentional"	"1"	11	34781	Unreliable
+	"Kendall County, TX"	"48259"	"2012"	"2012"	"Unintentional"	"1"	20	35956	55.6
+	"Kendall County, TX"	"48259"	"2013"	"2013"	"Unintentional"	"1"	16	37766	Unreliable
+	"Kendall County, TX"	"48259"	"2014"	"2014"	"Unintentional"	"1"	20	38880	51.4
+	"Kendall County, TX"	"48259"	"2015"	"2015"	"Unintentional"	"1"	14	40384	Unreliable
+	"Kendall County, TX"	"48259"	"2015"	"2015"	"Suicide"	"2"	11	40384	Unreliable
+	"Kendall County, TX"	"48259"	"2016"	"2016"	"Unintentional"	"1"	12	42540	Unreliable
+	"Kendall County, TX"	"48259"	"2017"	"2017"	"Unintentional"	"1"	16	44026	Unreliable
+	"Kendall County, TX"	"48259"	"2018"	"2018"	"Unintentional"	"1"	14	45641	Unreliable
+	"Lampasas County, TX"	"48281"	"2000"	"2000"	"Unintentional"	"1"	12	17762	Unreliable
+	"Lampasas County, TX"	"48281"	"2001"	"2001"	"Unintentional"	"1"	14	18027	Unreliable
+	"Lampasas County, TX"	"48281"	"2002"	"2002"	"Unintentional"	"1"	13	18425	Unreliable
+	"Lampasas County, TX"	"48281"	"2003"	"2003"	"Unintentional"	"1"	16	18579	Unreliable
+	"Lampasas County, TX"	"48281"	"2004"	"2004"	"Unintentional"	"1"	10	19664	Unreliable
+	"Lampasas County, TX"	"48281"	"2007"	"2007"	"Unintentional"	"1"	13	19728	Unreliable
+	"Lampasas County, TX"	"48281"	"2008"	"2008"	"Unintentional"	"1"	12	19812	Unreliable
+	"Lampasas County, TX"	"48281"	"2011"	"2011"	"Unintentional"	"1"	11	19891	Unreliable
+	"Lampasas County, TX"	"48281"	"2013"	"2013"	"Unintentional"	"1"	10	20222	Unreliable
+	"Lampasas County, TX"	"48281"	"2015"	"2015"	"Unintentional"	"1"	14	20588	Unreliable
+	"Lampasas County, TX"	"48281"	"2017"	"2017"	"Unintentional"	"1"	10	21027	Unreliable
+	"Liberty County, TX"	"48291"	"1999"	"1999"	"Unintentional"	"1"	48	68661	69.9
+	"Liberty County, TX"	"48291"	"1999"	"1999"	"Suicide"	"2"	18	68661	Unreliable
+	"Liberty County, TX"	"48291"	"2000"	"2000"	"Unintentional"	"1"	49	70154	69.8
+	"Liberty County, TX"	"48291"	"2001"	"2001"	"Unintentional"	"1"	53	71679	73.9
+	"Liberty County, TX"	"48291"	"2001"	"2001"	"Suicide"	"2"	10	71679	Unreliable
+	"Liberty County, TX"	"48291"	"2002"	"2002"	"Unintentional"	"1"	54	73280	73.7
+	"Liberty County, TX"	"48291"	"2003"	"2003"	"Unintentional"	"1"	67	73734	90.9
+	"Liberty County, TX"	"48291"	"2003"	"2003"	"Suicide"	"2"	15	73734	Unreliable
+	"Liberty County, TX"	"48291"	"2004"	"2004"	"Unintentional"	"1"	53	74285	71.3
+	"Liberty County, TX"	"48291"	"2004"	"2004"	"Suicide"	"2"	14	74285	Unreliable
+	"Liberty County, TX"	"48291"	"2005"	"2005"	"Unintentional"	"1"	48	74303	64.6
+	"Liberty County, TX"	"48291"	"2006"	"2006"	"Unintentional"	"1"	65	74269	87.5
+	"Liberty County, TX"	"48291"	"2007"	"2007"	"Unintentional"	"1"	69	74515	92.6
+	"Liberty County, TX"	"48291"	"2007"	"2007"	"Suicide"	"2"	10	74515	Unreliable
+	"Liberty County, TX"	"48291"	"2008"	"2008"	"Unintentional"	"1"	54	74915	72.1
+	"Liberty County, TX"	"48291"	"2009"	"2009"	"Unintentional"	"1"	54	75041	72.0
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Unintentional"	"1"	48	75643	63.5
+	"Liberty County, TX"	"48291"	"2010"	"2010"	"Suicide"	"2"	10	75643	Unreliable
+	"Liberty County, TX"	"48291"	"2011"	"2011"	"Unintentional"	"1"	52	76206	68.2
+	"Liberty County, TX"	"48291"	"2011"	"2011"	"Suicide"	"2"	11	76206	Unreliable
+	"Liberty County, TX"	"48291"	"2012"	"2012"	"Unintentional"	"1"	49	76571	64.0
+	"Liberty County, TX"	"48291"	"2012"	"2012"	"Suicide"	"2"	10	76571	Unreliable
+	"Liberty County, TX"	"48291"	"2013"	"2013"	"Unintentional"	"1"	49	76907	63.7
+	"Liberty County, TX"	"48291"	"2013"	"2013"	"Suicide"	"2"	11	76907	Unreliable
+	"Liberty County, TX"	"48291"	"2014"	"2014"	"Unintentional"	"1"	44	78117	56.3
+	"Liberty County, TX"	"48291"	"2014"	"2014"	"Suicide"	"2"	15	78117	Unreliable
+	"Liberty County, TX"	"48291"	"2015"	"2015"	"Unintentional"	"1"	45	79654	56.5
+	"Liberty County, TX"	"48291"	"2015"	"2015"	"Suicide"	"2"	15	79654	Unreliable
+	"Liberty County, TX"	"48291"	"2016"	"2016"	"Unintentional"	"1"	49	81704	60.0
+	"Liberty County, TX"	"48291"	"2016"	"2016"	"Suicide"	"2"	14	81704	Unreliable
+	"Liberty County, TX"	"48291"	"2017"	"2017"	"Unintentional"	"1"	65	83658	77.7
+	"Liberty County, TX"	"48291"	"2017"	"2017"	"Suicide"	"2"	13	83658	Unreliable
+	"Liberty County, TX"	"48291"	"2018"	"2018"	"Unintentional"	"1"	50	86323	57.9
+	"Liberty County, TX"	"48291"	"2018"	"2018"	"Suicide"	"2"	18	86323	Unreliable
+	"Lubbock County, TX"	"48303"	"1999"	"1999"	"Unintentional"	"1"	110	240776	45.7
+	"Lubbock County, TX"	"48303"	"1999"	"1999"	"Suicide"	"2"	21	240776	8.7
+	"Lubbock County, TX"	"48303"	"1999"	"1999"	"Homicide"	"3"	19	240776	Unreliable
+	"Lubbock County, TX"	"48303"	"2000"	"2000"	"Unintentional"	"1"	79	242628	32.6
+	"Lubbock County, TX"	"48303"	"2000"	"2000"	"Suicide"	"2"	27	242628	11.1
+	"Lubbock County, TX"	"48303"	"2000"	"2000"	"Homicide"	"3"	15	242628	Unreliable
+	"Lubbock County, TX"	"48303"	"2001"	"2001"	"Unintentional"	"1"	122	246616	49.5
+	"Lubbock County, TX"	"48303"	"2001"	"2001"	"Suicide"	"2"	36	246616	14.6
+	"Lubbock County, TX"	"48303"	"2001"	"2001"	"Homicide"	"3"	14	246616	Unreliable
+	"Lubbock County, TX"	"48303"	"2002"	"2002"	"Unintentional"	"1"	114	249407	45.7
+	"Lubbock County, TX"	"48303"	"2002"	"2002"	"Suicide"	"2"	30	249407	12.0
+	"Lubbock County, TX"	"48303"	"2002"	"2002"	"Homicide"	"3"	14	249407	Unreliable
+	"Lubbock County, TX"	"48303"	"2003"	"2003"	"Unintentional"	"1"	113	253388	44.6
+	"Lubbock County, TX"	"48303"	"2003"	"2003"	"Suicide"	"2"	27	253388	10.7
+	"Lubbock County, TX"	"48303"	"2003"	"2003"	"Homicide"	"3"	16	253388	Unreliable
+	"Lubbock County, TX"	"48303"	"2004"	"2004"	"Unintentional"	"1"	107	255669	41.9
+	"Lubbock County, TX"	"48303"	"2004"	"2004"	"Suicide"	"2"	22	255669	8.6
+	"Lubbock County, TX"	"48303"	"2004"	"2004"	"Homicide"	"3"	25	255669	9.8
+	"Lubbock County, TX"	"48303"	"2005"	"2005"	"Unintentional"	"1"	133	257779	51.6
+	"Lubbock County, TX"	"48303"	"2005"	"2005"	"Suicide"	"2"	32	257779	12.4
+	"Lubbock County, TX"	"48303"	"2005"	"2005"	"Homicide"	"3"	15	257779	Unreliable
+	"Lubbock County, TX"	"48303"	"2006"	"2006"	"Unintentional"	"1"	117	261761	44.7
+	"Lubbock County, TX"	"48303"	"2006"	"2006"	"Suicide"	"2"	27	261761	10.3
+	"Lubbock County, TX"	"48303"	"2006"	"2006"	"Homicide"	"3"	20	261761	7.6
+	"Lubbock County, TX"	"48303"	"2007"	"2007"	"Unintentional"	"1"	104	265215	39.2
+	"Lubbock County, TX"	"48303"	"2007"	"2007"	"Suicide"	"2"	29	265215	10.9
+	"Lubbock County, TX"	"48303"	"2007"	"2007"	"Homicide"	"3"	16	265215	Unreliable
+	"Lubbock County, TX"	"48303"	"2008"	"2008"	"Unintentional"	"1"	129	268197	48.1
+	"Lubbock County, TX"	"48303"	"2008"	"2008"	"Suicide"	"2"	30	268197	11.2
+	"Lubbock County, TX"	"48303"	"2009"	"2009"	"Unintentional"	"1"	117	274252	42.7
+	"Lubbock County, TX"	"48303"	"2009"	"2009"	"Suicide"	"2"	36	274252	13.1
+	"Lubbock County, TX"	"48303"	"2009"	"2009"	"Homicide"	"3"	18	274252	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Unintentional"	"1"	138	278831	49.5
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Suicide"	"2"	44	278831	15.8
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Homicide"	"3"	13	278831	Unreliable
+	"Lubbock County, TX"	"48303"	"2011"	"2011"	"Unintentional"	"1"	143	283910	50.4
+	"Lubbock County, TX"	"48303"	"2011"	"2011"	"Suicide"	"2"	38	283910	13.4
+	"Lubbock County, TX"	"48303"	"2011"	"2011"	"Homicide"	"3"	14	283910	Unreliable
+	"Lubbock County, TX"	"48303"	"2012"	"2012"	"Unintentional"	"1"	125	285760	43.7
+	"Lubbock County, TX"	"48303"	"2012"	"2012"	"Suicide"	"2"	36	285760	12.6
+	"Lubbock County, TX"	"48303"	"2012"	"2012"	"Homicide"	"3"	16	285760	Unreliable
+	"Lubbock County, TX"	"48303"	"2013"	"2013"	"Unintentional"	"1"	136	289324	47.0
+	"Lubbock County, TX"	"48303"	"2013"	"2013"	"Suicide"	"2"	42	289324	14.5
+	"Lubbock County, TX"	"48303"	"2013"	"2013"	"Homicide"	"3"	11	289324	Unreliable
+	"Lubbock County, TX"	"48303"	"2014"	"2014"	"Unintentional"	"1"	127	293974	43.2
+	"Lubbock County, TX"	"48303"	"2014"	"2014"	"Suicide"	"2"	46	293974	15.6
+	"Lubbock County, TX"	"48303"	"2014"	"2014"	"Homicide"	"3"	18	293974	Unreliable
+	"Lubbock County, TX"	"48303"	"2015"	"2015"	"Unintentional"	"1"	159	299453	53.1
+	"Lubbock County, TX"	"48303"	"2015"	"2015"	"Suicide"	"2"	43	299453	14.4
+	"Lubbock County, TX"	"48303"	"2015"	"2015"	"Homicide"	"3"	21	299453	7.0
+	"Lubbock County, TX"	"48303"	"2016"	"2016"	"Unintentional"	"1"	159	303137	52.5
+	"Lubbock County, TX"	"48303"	"2016"	"2016"	"Suicide"	"2"	48	303137	15.8
+	"Lubbock County, TX"	"48303"	"2016"	"2016"	"Homicide"	"3"	12	303137	Unreliable
+	"Lubbock County, TX"	"48303"	"2017"	"2017"	"Unintentional"	"1"	186	305225	60.9
+	"Lubbock County, TX"	"48303"	"2017"	"2017"	"Suicide"	"2"	46	305225	15.1
+	"Lubbock County, TX"	"48303"	"2017"	"2017"	"Homicide"	"3"	15	305225	Unreliable
+	"Lubbock County, TX"	"48303"	"2018"	"2018"	"Unintentional"	"1"	173	307412	56.3
+	"Lubbock County, TX"	"48303"	"2018"	"2018"	"Suicide"	"2"	54	307412	17.6
+	"Lubbock County, TX"	"48303"	"2018"	"2018"	"Homicide"	"3"	20	307412	6.5
+	"McLennan County, TX"	"48309"	"1999"	"1999"	"Unintentional"	"1"	85	211548	40.2
+	"McLennan County, TX"	"48309"	"1999"	"1999"	"Suicide"	"2"	26	211548	12.3
+	"McLennan County, TX"	"48309"	"1999"	"1999"	"Homicide"	"3"	21	211548	9.9
+	"McLennan County, TX"	"48309"	"2000"	"2000"	"Unintentional"	"1"	69	213517	32.3
+	"McLennan County, TX"	"48309"	"2000"	"2000"	"Suicide"	"2"	13	213517	Unreliable
+	"McLennan County, TX"	"48309"	"2000"	"2000"	"Homicide"	"3"	16	213517	Unreliable
+	"McLennan County, TX"	"48309"	"2001"	"2001"	"Unintentional"	"1"	64	215099	29.8
+	"McLennan County, TX"	"48309"	"2001"	"2001"	"Suicide"	"2"	22	215099	10.2
+	"McLennan County, TX"	"48309"	"2001"	"2001"	"Homicide"	"3"	17	215099	Unreliable
+	"McLennan County, TX"	"48309"	"2002"	"2002"	"Unintentional"	"1"	77	216571	35.6
+	"McLennan County, TX"	"48309"	"2002"	"2002"	"Suicide"	"2"	20	216571	9.2
+	"McLennan County, TX"	"48309"	"2002"	"2002"	"Homicide"	"3"	16	216571	Unreliable
+	"McLennan County, TX"	"48309"	"2003"	"2003"	"Unintentional"	"1"	80	218744	36.6
+	"McLennan County, TX"	"48309"	"2003"	"2003"	"Suicide"	"2"	18	218744	Unreliable
+	"McLennan County, TX"	"48309"	"2003"	"2003"	"Homicide"	"3"	19	218744	Unreliable
+	"McLennan County, TX"	"48309"	"2004"	"2004"	"Unintentional"	"1"	77	221353	34.8
+	"McLennan County, TX"	"48309"	"2004"	"2004"	"Suicide"	"2"	29	221353	13.1
+	"McLennan County, TX"	"48309"	"2004"	"2004"	"Homicide"	"3"	21	221353	9.5
+	"McLennan County, TX"	"48309"	"2005"	"2005"	"Unintentional"	"1"	86	222794	38.6
+	"McLennan County, TX"	"48309"	"2005"	"2005"	"Suicide"	"2"	24	222794	10.8
+	"McLennan County, TX"	"48309"	"2005"	"2005"	"Homicide"	"3"	13	222794	Unreliable
+	"McLennan County, TX"	"48309"	"2006"	"2006"	"Unintentional"	"1"	94	224452	41.9
+	"McLennan County, TX"	"48309"	"2006"	"2006"	"Suicide"	"2"	26	224452	11.6
+	"McLennan County, TX"	"48309"	"2006"	"2006"	"Homicide"	"3"	13	224452	Unreliable
+	"McLennan County, TX"	"48309"	"2007"	"2007"	"Unintentional"	"1"	95	226741	41.9
+	"McLennan County, TX"	"48309"	"2007"	"2007"	"Suicide"	"2"	32	226741	14.1
+	"McLennan County, TX"	"48309"	"2007"	"2007"	"Homicide"	"3"	15	226741	Unreliable
+	"McLennan County, TX"	"48309"	"2008"	"2008"	"Unintentional"	"1"	90	229037	39.3
+	"McLennan County, TX"	"48309"	"2008"	"2008"	"Suicide"	"2"	25	229037	10.9
+	"McLennan County, TX"	"48309"	"2008"	"2008"	"Homicide"	"3"	15	229037	Unreliable
+	"McLennan County, TX"	"48309"	"2009"	"2009"	"Unintentional"	"1"	91	231679	39.3
+	"McLennan County, TX"	"48309"	"2009"	"2009"	"Suicide"	"2"	22	231679	9.5
+	"McLennan County, TX"	"48309"	"2009"	"2009"	"Homicide"	"3"	13	231679	Unreliable
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Unintentional"	"1"	98	234906	41.7
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Suicide"	"2"	27	234906	11.5
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Homicide"	"3"	10	234906	Unreliable
+	"McLennan County, TX"	"48309"	"2011"	"2011"	"Unintentional"	"1"	97	238564	40.7
+	"McLennan County, TX"	"48309"	"2011"	"2011"	"Suicide"	"2"	30	238564	12.6
+	"McLennan County, TX"	"48309"	"2011"	"2011"	"Homicide"	"3"	14	238564	Unreliable
+	"McLennan County, TX"	"48309"	"2012"	"2012"	"Unintentional"	"1"	93	238707	39.0
+	"McLennan County, TX"	"48309"	"2012"	"2012"	"Suicide"	"2"	22	238707	9.2
+	"McLennan County, TX"	"48309"	"2012"	"2012"	"Homicide"	"3"	10	238707	Unreliable
+	"McLennan County, TX"	"48309"	"2013"	"2013"	"Unintentional"	"1"	85	241481	35.2
+	"McLennan County, TX"	"48309"	"2013"	"2013"	"Suicide"	"2"	30	241481	12.4
+	"McLennan County, TX"	"48309"	"2014"	"2014"	"Unintentional"	"1"	101	243441	41.5
+	"McLennan County, TX"	"48309"	"2014"	"2014"	"Suicide"	"2"	22	243441	9.0
+	"McLennan County, TX"	"48309"	"2015"	"2015"	"Unintentional"	"1"	91	245671	37.0
+	"McLennan County, TX"	"48309"	"2015"	"2015"	"Suicide"	"2"	29	245671	11.8
+	"McLennan County, TX"	"48309"	"2015"	"2015"	"Homicide"	"3"	17	245671	Unreliable
+	"McLennan County, TX"	"48309"	"2016"	"2016"	"Unintentional"	"1"	86	247934	34.7
+	"McLennan County, TX"	"48309"	"2016"	"2016"	"Suicide"	"2"	29	247934	11.7
+	"McLennan County, TX"	"48309"	"2017"	"2017"	"Unintentional"	"1"	109	251259	43.4
+	"McLennan County, TX"	"48309"	"2017"	"2017"	"Suicide"	"2"	32	251259	12.7
+	"McLennan County, TX"	"48309"	"2017"	"2017"	"Homicide"	"3"	14	251259	Unreliable
+	"McLennan County, TX"	"48309"	"2018"	"2018"	"Unintentional"	"1"	117	254607	46.0
+	"McLennan County, TX"	"48309"	"2018"	"2018"	"Suicide"	"2"	45	254607	17.7
+	"Medina County, TX"	"48325"	"1999"	"1999"	"Unintentional"	"1"	12	38697	Unreliable
+	"Medina County, TX"	"48325"	"2000"	"2000"	"Unintentional"	"1"	20	39304	50.9
+	"Medina County, TX"	"48325"	"2001"	"2001"	"Unintentional"	"1"	12	40053	Unreliable
+	"Medina County, TX"	"48325"	"2002"	"2002"	"Unintentional"	"1"	13	40707	Unreliable
+	"Medina County, TX"	"48325"	"2003"	"2003"	"Unintentional"	"1"	17	41549	Unreliable
+	"Medina County, TX"	"48325"	"2004"	"2004"	"Unintentional"	"1"	12	42363	Unreliable
+	"Medina County, TX"	"48325"	"2005"	"2005"	"Unintentional"	"1"	17	42977	Unreliable
+	"Medina County, TX"	"48325"	"2006"	"2006"	"Unintentional"	"1"	16	43936	Unreliable
+	"Medina County, TX"	"48325"	"2007"	"2007"	"Unintentional"	"1"	24	44577	53.8
+	"Medina County, TX"	"48325"	"2008"	"2008"	"Unintentional"	"1"	13	45131	Unreliable
+	"Medina County, TX"	"48325"	"2008"	"2008"	"Suicide"	"2"	11	45131	Unreliable
+	"Medina County, TX"	"48325"	"2009"	"2009"	"Unintentional"	"1"	15	45605	Unreliable
+	"Medina County, TX"	"48325"	"2010"	"2010"	"Unintentional"	"1"	25	46006	54.3
+	"Medina County, TX"	"48325"	"2011"	"2011"	"Unintentional"	"1"	23	46367	49.6
+	"Medina County, TX"	"48325"	"2012"	"2012"	"Unintentional"	"1"	17	46765	Unreliable
+	"Medina County, TX"	"48325"	"2013"	"2013"	"Unintentional"	"1"	15	47399	Unreliable
+	"Medina County, TX"	"48325"	"2014"	"2014"	"Unintentional"	"1"	12	47894	Unreliable
+	"Medina County, TX"	"48325"	"2015"	"2015"	"Unintentional"	"1"	21	48417	43.4
+	"Medina County, TX"	"48325"	"2016"	"2016"	"Unintentional"	"1"	20	49283	40.6
+	"Medina County, TX"	"48325"	"2017"	"2017"	"Unintentional"	"1"	16	50066	Unreliable
+	"Medina County, TX"	"48325"	"2018"	"2018"	"Unintentional"	"1"	21	50921	41.2
+	"Montgomery County, TX"	"48339"	"1999"	"1999"	"Unintentional"	"1"	127	284271	44.7
+	"Montgomery County, TX"	"48339"	"1999"	"1999"	"Suicide"	"2"	34	284271	12.0
+	"Montgomery County, TX"	"48339"	"1999"	"1999"	"Homicide"	"3"	24	284271	8.4
+	"Montgomery County, TX"	"48339"	"2000"	"2000"	"Unintentional"	"1"	141	293768	48.0
+	"Montgomery County, TX"	"48339"	"2000"	"2000"	"Suicide"	"2"	40	293768	13.6
+	"Montgomery County, TX"	"48339"	"2000"	"2000"	"Homicide"	"3"	16	293768	Unreliable
+	"Montgomery County, TX"	"48339"	"2001"	"2001"	"Unintentional"	"1"	138	311437	44.3
+	"Montgomery County, TX"	"48339"	"2001"	"2001"	"Suicide"	"2"	41	311437	13.2
+	"Montgomery County, TX"	"48339"	"2001"	"2001"	"Homicide"	"3"	19	311437	Unreliable
+	"Montgomery County, TX"	"48339"	"2002"	"2002"	"Unintentional"	"1"	143	326466	43.8
+	"Montgomery County, TX"	"48339"	"2002"	"2002"	"Suicide"	"2"	50	326466	15.3
+	"Montgomery County, TX"	"48339"	"2002"	"2002"	"Homicide"	"3"	16	326466	Unreliable
+	"Montgomery County, TX"	"48339"	"2003"	"2003"	"Unintentional"	"1"	176	341499	51.5
+	"Montgomery County, TX"	"48339"	"2003"	"2003"	"Suicide"	"2"	59	341499	17.3
+	"Montgomery County, TX"	"48339"	"2003"	"2003"	"Homicide"	"3"	14	341499	Unreliable
+	"Montgomery County, TX"	"48339"	"2004"	"2004"	"Unintentional"	"1"	155	357607	43.3
+	"Montgomery County, TX"	"48339"	"2004"	"2004"	"Suicide"	"2"	39	357607	10.9
+	"Montgomery County, TX"	"48339"	"2004"	"2004"	"Homicide"	"3"	13	357607	Unreliable
+	"Montgomery County, TX"	"48339"	"2005"	"2005"	"Unintentional"	"1"	166	372541	44.6
+	"Montgomery County, TX"	"48339"	"2005"	"2005"	"Suicide"	"2"	39	372541	10.5
+	"Montgomery County, TX"	"48339"	"2005"	"2005"	"Homicide"	"3"	17	372541	Unreliable
+	"Montgomery County, TX"	"48339"	"2006"	"2006"	"Unintentional"	"1"	210	392497	53.5
+	"Montgomery County, TX"	"48339"	"2006"	"2006"	"Suicide"	"2"	56	392497	14.3
+	"Montgomery County, TX"	"48339"	"2006"	"2006"	"Homicide"	"3"	15	392497	Unreliable
+	"Montgomery County, TX"	"48339"	"2007"	"2007"	"Unintentional"	"1"	160	411416	38.9
+	"Montgomery County, TX"	"48339"	"2007"	"2007"	"Suicide"	"2"	47	411416	11.4
+	"Montgomery County, TX"	"48339"	"2007"	"2007"	"Homicide"	"3"	18	411416	Unreliable
+	"Montgomery County, TX"	"48339"	"2008"	"2008"	"Unintentional"	"1"	206	429818	47.9
+	"Montgomery County, TX"	"48339"	"2008"	"2008"	"Suicide"	"2"	47	429818	10.9
+	"Montgomery County, TX"	"48339"	"2008"	"2008"	"Homicide"	"3"	15	429818	Unreliable
+	"Montgomery County, TX"	"48339"	"2009"	"2009"	"Unintentional"	"1"	210	445836	47.1
+	"Montgomery County, TX"	"48339"	"2009"	"2009"	"Suicide"	"2"	72	445836	16.1
+	"Montgomery County, TX"	"48339"	"2009"	"2009"	"Homicide"	"3"	17	445836	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Unintentional"	"1"	172	455746	37.7
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Suicide"	"2"	53	455746	11.6
+	"Montgomery County, TX"	"48339"	"2011"	"2011"	"Unintentional"	"1"	162	471734	34.3
+	"Montgomery County, TX"	"48339"	"2011"	"2011"	"Suicide"	"2"	85	471734	18.0
+	"Montgomery County, TX"	"48339"	"2011"	"2011"	"Homicide"	"3"	17	471734	Unreliable
+	"Montgomery County, TX"	"48339"	"2012"	"2012"	"Unintentional"	"1"	165	485047	34.0
+	"Montgomery County, TX"	"48339"	"2012"	"2012"	"Suicide"	"2"	65	485047	13.4
+	"Montgomery County, TX"	"48339"	"2012"	"2012"	"Homicide"	"3"	19	485047	Unreliable
+	"Montgomery County, TX"	"48339"	"2013"	"2013"	"Unintentional"	"1"	151	499137	30.3
+	"Montgomery County, TX"	"48339"	"2013"	"2013"	"Suicide"	"2"	77	499137	15.4
+	"Montgomery County, TX"	"48339"	"2013"	"2013"	"Homicide"	"3"	15	499137	Unreliable
+	"Montgomery County, TX"	"48339"	"2014"	"2014"	"Unintentional"	"1"	146	518947	28.1
+	"Montgomery County, TX"	"48339"	"2014"	"2014"	"Suicide"	"2"	81	518947	15.6
+	"Montgomery County, TX"	"48339"	"2014"	"2014"	"Homicide"	"3"	14	518947	Unreliable
+	"Montgomery County, TX"	"48339"	"2015"	"2015"	"Unintentional"	"1"	174	537559	32.4
+	"Montgomery County, TX"	"48339"	"2015"	"2015"	"Suicide"	"2"	90	537559	16.7
+	"Montgomery County, TX"	"48339"	"2015"	"2015"	"Homicide"	"3"	14	537559	Unreliable
+	"Montgomery County, TX"	"48339"	"2015"	"2015"	"Undetermined "	"4"	11	537559	Unreliable
+	"Montgomery County, TX"	"48339"	"2016"	"2016"	"Unintentional"	"1"	184	556203	33.1
+	"Montgomery County, TX"	"48339"	"2016"	"2016"	"Suicide"	"2"	92	556203	16.5
+	"Montgomery County, TX"	"48339"	"2016"	"2016"	"Homicide"	"3"	16	556203	Unreliable
+	"Montgomery County, TX"	"48339"	"2017"	"2017"	"Unintentional"	"1"	241	570934	42.2
+	"Montgomery County, TX"	"48339"	"2017"	"2017"	"Suicide"	"2"	86	570934	15.1
+	"Montgomery County, TX"	"48339"	"2017"	"2017"	"Homicide"	"3"	26	570934	4.6
+	"Montgomery County, TX"	"48339"	"2018"	"2018"	"Unintentional"	"1"	208	590925	35.2
+	"Montgomery County, TX"	"48339"	"2018"	"2018"	"Suicide"	"2"	90	590925	15.2
+	"Montgomery County, TX"	"48339"	"2018"	"2018"	"Homicide"	"3"	18	590925	Unreliable
+	"Newton County, TX"	"48351"	"1999"	"1999"	"Unintentional"	"1"	16	15041	Unreliable
+	"Newton County, TX"	"48351"	"2004"	"2004"	"Unintentional"	"1"	10	14560	Unreliable
+	"Newton County, TX"	"48351"	"2005"	"2005"	"Unintentional"	"1"	10	14625	Unreliable
+	"Newton County, TX"	"48351"	"2006"	"2006"	"Unintentional"	"1"	21	14349	146.4
+	"Newton County, TX"	"48351"	"2007"	"2007"	"Unintentional"	"1"	12	14335	Unreliable
+	"Newton County, TX"	"48351"	"2008"	"2008"	"Unintentional"	"1"	14	14393	Unreliable
+	"Newton County, TX"	"48351"	"2009"	"2009"	"Unintentional"	"1"	12	14446	Unreliable
+	"Newton County, TX"	"48351"	"2010"	"2010"	"Unintentional"	"1"	11	14445	Unreliable
+	"Newton County, TX"	"48351"	"2011"	"2011"	"Unintentional"	"1"	11	14454	Unreliable
+	"Newton County, TX"	"48351"	"2016"	"2016"	"Unintentional"	"1"	11	14003	Unreliable
+	"Nueces County, TX"	"48355"	"1999"	"1999"	"Unintentional"	"1"	80	314553	25.4
+	"Nueces County, TX"	"48355"	"1999"	"1999"	"Suicide"	"2"	30	314553	9.5
+	"Nueces County, TX"	"48355"	"1999"	"1999"	"Homicide"	"3"	14	314553	Unreliable
+	"Nueces County, TX"	"48355"	"2000"	"2000"	"Unintentional"	"1"	75	313645	23.9
+	"Nueces County, TX"	"48355"	"2000"	"2000"	"Suicide"	"2"	34	313645	10.8
+	"Nueces County, TX"	"48355"	"2000"	"2000"	"Homicide"	"3"	22	313645	7.0
+	"Nueces County, TX"	"48355"	"2001"	"2001"	"Unintentional"	"1"	86	313670	27.4
+	"Nueces County, TX"	"48355"	"2001"	"2001"	"Suicide"	"2"	29	313670	9.2
+	"Nueces County, TX"	"48355"	"2001"	"2001"	"Homicide"	"3"	17	313670	Unreliable
+	"Nueces County, TX"	"48355"	"2002"	"2002"	"Unintentional"	"1"	96	316256	30.4
+	"Nueces County, TX"	"48355"	"2002"	"2002"	"Suicide"	"2"	41	316256	13.0
+	"Nueces County, TX"	"48355"	"2002"	"2002"	"Homicide"	"3"	27	316256	8.5
+	"Nueces County, TX"	"48355"	"2003"	"2003"	"Unintentional"	"1"	127	317632	40.0
+	"Nueces County, TX"	"48355"	"2003"	"2003"	"Suicide"	"2"	29	317632	9.1
+	"Nueces County, TX"	"48355"	"2003"	"2003"	"Homicide"	"3"	28	317632	8.8
+	"Nueces County, TX"	"48355"	"2004"	"2004"	"Unintentional"	"1"	123	321879	38.2
+	"Nueces County, TX"	"48355"	"2004"	"2004"	"Suicide"	"2"	27	321879	8.4
+	"Nueces County, TX"	"48355"	"2004"	"2004"	"Homicide"	"3"	23	321879	7.1
+	"Nueces County, TX"	"48355"	"2004"	"2004"	"Undetermined "	"4"	12	321879	Unreliable
+	"Nueces County, TX"	"48355"	"2005"	"2005"	"Unintentional"	"1"	135	325515	41.5
+	"Nueces County, TX"	"48355"	"2005"	"2005"	"Suicide"	"2"	28	325515	8.6
+	"Nueces County, TX"	"48355"	"2005"	"2005"	"Homicide"	"3"	10	325515	Unreliable
+	"Nueces County, TX"	"48355"	"2005"	"2005"	"Undetermined "	"4"	16	325515	Unreliable
+	"Nueces County, TX"	"48355"	"2006"	"2006"	"Unintentional"	"1"	161	329113	48.9
+	"Nueces County, TX"	"48355"	"2006"	"2006"	"Suicide"	"2"	28	329113	8.5
+	"Nueces County, TX"	"48355"	"2006"	"2006"	"Homicide"	"3"	24	329113	7.3
+	"Nueces County, TX"	"48355"	"2007"	"2007"	"Unintentional"	"1"	119	330512	36.0
+	"Nueces County, TX"	"48355"	"2007"	"2007"	"Suicide"	"2"	44	330512	13.3
+	"Nueces County, TX"	"48355"	"2007"	"2007"	"Homicide"	"3"	23	330512	7.0
+	"Nueces County, TX"	"48355"	"2008"	"2008"	"Unintentional"	"1"	140	333526	42.0
+	"Nueces County, TX"	"48355"	"2008"	"2008"	"Suicide"	"2"	34	333526	10.2
+	"Nueces County, TX"	"48355"	"2008"	"2008"	"Homicide"	"3"	23	333526	6.9
+	"Nueces County, TX"	"48355"	"2009"	"2009"	"Unintentional"	"1"	135	338220	39.9
+	"Nueces County, TX"	"48355"	"2009"	"2009"	"Suicide"	"2"	32	338220	9.5
+	"Nueces County, TX"	"48355"	"2009"	"2009"	"Homicide"	"3"	17	338220	Unreliable
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Unintentional"	"1"	132	340223	38.8
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Suicide"	"2"	44	340223	12.9
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Homicide"	"3"	20	340223	5.9
+	"Nueces County, TX"	"48355"	"2011"	"2011"	"Unintentional"	"1"	176	343281	51.3
+	"Nueces County, TX"	"48355"	"2011"	"2011"	"Suicide"	"2"	40	343281	11.7
+	"Nueces County, TX"	"48355"	"2011"	"2011"	"Homicide"	"3"	15	343281	Unreliable
+	"Nueces County, TX"	"48355"	"2012"	"2012"	"Unintentional"	"1"	177	347691	50.9
+	"Nueces County, TX"	"48355"	"2012"	"2012"	"Suicide"	"2"	53	347691	15.2
+	"Nueces County, TX"	"48355"	"2012"	"2012"	"Homicide"	"3"	17	347691	Unreliable
+	"Nueces County, TX"	"48355"	"2013"	"2013"	"Unintentional"	"1"	151	352107	42.9
+	"Nueces County, TX"	"48355"	"2013"	"2013"	"Suicide"	"2"	45	352107	12.8
+	"Nueces County, TX"	"48355"	"2013"	"2013"	"Homicide"	"3"	20	352107	5.7
+	"Nueces County, TX"	"48355"	"2014"	"2014"	"Unintentional"	"1"	173	356221	48.6
+	"Nueces County, TX"	"48355"	"2014"	"2014"	"Suicide"	"2"	38	356221	10.7
+	"Nueces County, TX"	"48355"	"2014"	"2014"	"Homicide"	"3"	28	356221	7.9
+	"Nueces County, TX"	"48355"	"2015"	"2015"	"Unintentional"	"1"	143	359715	39.8
+	"Nueces County, TX"	"48355"	"2015"	"2015"	"Suicide"	"2"	53	359715	14.7
+	"Nueces County, TX"	"48355"	"2015"	"2015"	"Homicide"	"3"	22	359715	6.1
+	"Nueces County, TX"	"48355"	"2015"	"2015"	"Undetermined "	"4"	15	359715	Unreliable
+	"Nueces County, TX"	"48355"	"2016"	"2016"	"Unintentional"	"1"	151	361350	41.8
+	"Nueces County, TX"	"48355"	"2016"	"2016"	"Suicide"	"2"	47	361350	13.0
+	"Nueces County, TX"	"48355"	"2016"	"2016"	"Homicide"	"3"	25	361350	6.9
+	"Nueces County, TX"	"48355"	"2016"	"2016"	"Undetermined "	"4"	12	361350	Unreliable
+	"Nueces County, TX"	"48355"	"2017"	"2017"	"Unintentional"	"1"	177	361221	49.0
+	"Nueces County, TX"	"48355"	"2017"	"2017"	"Suicide"	"2"	50	361221	13.8
+	"Nueces County, TX"	"48355"	"2017"	"2017"	"Homicide"	"3"	27	361221	7.5
+	"Nueces County, TX"	"48355"	"2017"	"2017"	"Undetermined "	"4"	10	361221	Unreliable
+	"Nueces County, TX"	"48355"	"2018"	"2018"	"Unintentional"	"1"	153	362265	42.2
+	"Nueces County, TX"	"48355"	"2018"	"2018"	"Suicide"	"2"	57	362265	15.7
+	"Nueces County, TX"	"48355"	"2018"	"2018"	"Homicide"	"3"	30	362265	8.3
+	"Nueces County, TX"	"48355"	"2018"	"2018"	"Undetermined "	"4"	11	362265	Unreliable
+	"Orange County, TX"	"48361"	"1999"	"1999"	"Unintentional"	"1"	42	84883	49.5
+	"Orange County, TX"	"48361"	"1999"	"1999"	"Suicide"	"2"	15	84883	Unreliable
+	"Orange County, TX"	"48361"	"2000"	"2000"	"Unintentional"	"1"	52	84966	61.2
+	"Orange County, TX"	"48361"	"2001"	"2001"	"Unintentional"	"1"	55	84108	65.4
+	"Orange County, TX"	"48361"	"2002"	"2002"	"Unintentional"	"1"	49	83813	58.5
+	"Orange County, TX"	"48361"	"2002"	"2002"	"Suicide"	"2"	12	83813	Unreliable
+	"Orange County, TX"	"48361"	"2003"	"2003"	"Unintentional"	"1"	71	83553	85.0
+	"Orange County, TX"	"48361"	"2003"	"2003"	"Suicide"	"2"	15	83553	Unreliable
+	"Orange County, TX"	"48361"	"2004"	"2004"	"Unintentional"	"1"	57	83580	68.2
+	"Orange County, TX"	"48361"	"2004"	"2004"	"Suicide"	"2"	11	83580	Unreliable
+	"Orange County, TX"	"48361"	"2005"	"2005"	"Unintentional"	"1"	56	83500	67.1
+	"Orange County, TX"	"48361"	"2005"	"2005"	"Suicide"	"2"	15	83500	Unreliable
+	"Orange County, TX"	"48361"	"2006"	"2006"	"Unintentional"	"1"	79	81687	96.7
+	"Orange County, TX"	"48361"	"2006"	"2006"	"Suicide"	"2"	14	81687	Unreliable
+	"Orange County, TX"	"48361"	"2007"	"2007"	"Unintentional"	"1"	79	82255	96.0
+	"Orange County, TX"	"48361"	"2007"	"2007"	"Suicide"	"2"	20	82255	24.3
+	"Orange County, TX"	"48361"	"2008"	"2008"	"Unintentional"	"1"	71	82612	85.9
+	"Orange County, TX"	"48361"	"2008"	"2008"	"Suicide"	"2"	16	82612	Unreliable
+	"Orange County, TX"	"48361"	"2009"	"2009"	"Unintentional"	"1"	73	81586	89.5
+	"Orange County, TX"	"48361"	"2009"	"2009"	"Suicide"	"2"	12	81586	Unreliable
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Unintentional"	"1"	64	81837	78.2
+	"Orange County, TX"	"48361"	"2010"	"2010"	"Suicide"	"2"	10	81837	Unreliable
+	"Orange County, TX"	"48361"	"2011"	"2011"	"Unintentional"	"1"	65	82487	78.8
+	"Orange County, TX"	"48361"	"2011"	"2011"	"Suicide"	"2"	15	82487	Unreliable
+	"Orange County, TX"	"48361"	"2012"	"2012"	"Unintentional"	"1"	50	82977	60.3
+	"Orange County, TX"	"48361"	"2012"	"2012"	"Suicide"	"2"	17	82977	Unreliable
+	"Orange County, TX"	"48361"	"2013"	"2013"	"Unintentional"	"1"	39	82957	47.0
+	"Orange County, TX"	"48361"	"2013"	"2013"	"Suicide"	"2"	20	82957	24.1
+	"Orange County, TX"	"48361"	"2014"	"2014"	"Unintentional"	"1"	52	83433	62.3
+	"Orange County, TX"	"48361"	"2014"	"2014"	"Suicide"	"2"	13	83433	Unreliable
+	"Orange County, TX"	"48361"	"2015"	"2015"	"Unintentional"	"1"	45	84260	53.4
+	"Orange County, TX"	"48361"	"2015"	"2015"	"Suicide"	"2"	10	84260	Unreliable
+	"Orange County, TX"	"48361"	"2015"	"2015"	"Homicide"	"3"	10	84260	Unreliable
+	"Orange County, TX"	"48361"	"2016"	"2016"	"Unintentional"	"1"	42	84964	49.4
+	"Orange County, TX"	"48361"	"2016"	"2016"	"Suicide"	"2"	13	84964	Unreliable
+	"Orange County, TX"	"48361"	"2017"	"2017"	"Unintentional"	"1"	61	85047	71.7
+	"Orange County, TX"	"48361"	"2017"	"2017"	"Suicide"	"2"	17	85047	Unreliable
+	"Orange County, TX"	"48361"	"2018"	"2018"	"Unintentional"	"1"	50	83572	59.8
+	"Orange County, TX"	"48361"	"2018"	"2018"	"Suicide"	"2"	22	83572	26.3
+	"Parker County, TX"	"48367"	"1999"	"1999"	"Unintentional"	"1"	30	86087	34.8
+	"Parker County, TX"	"48367"	"1999"	"1999"	"Suicide"	"2"	17	86087	Unreliable
+	"Parker County, TX"	"48367"	"2000"	"2000"	"Unintentional"	"1"	40	88495	45.2
+	"Parker County, TX"	"48367"	"2001"	"2001"	"Unintentional"	"1"	36	91660	39.3
+	"Parker County, TX"	"48367"	"2001"	"2001"	"Suicide"	"2"	10	91660	Unreliable
+	"Parker County, TX"	"48367"	"2002"	"2002"	"Unintentional"	"1"	45	94092	47.8
+	"Parker County, TX"	"48367"	"2002"	"2002"	"Suicide"	"2"	11	94092	Unreliable
+	"Parker County, TX"	"48367"	"2003"	"2003"	"Unintentional"	"1"	46	97041	47.4
+	"Parker County, TX"	"48367"	"2003"	"2003"	"Suicide"	"2"	14	97041	Unreliable
+	"Parker County, TX"	"48367"	"2004"	"2004"	"Unintentional"	"1"	45	99320	45.3
+	"Parker County, TX"	"48367"	"2004"	"2004"	"Suicide"	"2"	17	99320	Unreliable
+	"Parker County, TX"	"48367"	"2005"	"2005"	"Unintentional"	"1"	45	101891	44.2
+	"Parker County, TX"	"48367"	"2005"	"2005"	"Suicide"	"2"	17	101891	Unreliable
+	"Parker County, TX"	"48367"	"2006"	"2006"	"Unintentional"	"1"	61	105387	57.9
+	"Parker County, TX"	"48367"	"2006"	"2006"	"Suicide"	"2"	15	105387	Unreliable
+	"Parker County, TX"	"48367"	"2007"	"2007"	"Unintentional"	"1"	63	109408	57.6
+	"Parker County, TX"	"48367"	"2007"	"2007"	"Suicide"	"2"	16	109408	Unreliable
+	"Parker County, TX"	"48367"	"2008"	"2008"	"Unintentional"	"1"	53	112911	46.9
+	"Parker County, TX"	"48367"	"2008"	"2008"	"Suicide"	"2"	12	112911	Unreliable
+	"Parker County, TX"	"48367"	"2009"	"2009"	"Unintentional"	"1"	55	115802	47.5
+	"Parker County, TX"	"48367"	"2009"	"2009"	"Suicide"	"2"	12	115802	Unreliable
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Unintentional"	"1"	57	116927	48.7
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Suicide"	"2"	17	116927	Unreliable
+	"Parker County, TX"	"48367"	"2011"	"2011"	"Unintentional"	"1"	46	118376	38.9
+	"Parker County, TX"	"48367"	"2011"	"2011"	"Suicide"	"2"	26	118376	22.0
+	"Parker County, TX"	"48367"	"2012"	"2012"	"Unintentional"	"1"	54	119712	45.1
+	"Parker County, TX"	"48367"	"2012"	"2012"	"Suicide"	"2"	15	119712	Unreliable
+	"Parker County, TX"	"48367"	"2013"	"2013"	"Unintentional"	"1"	49	121418	40.4
+	"Parker County, TX"	"48367"	"2013"	"2013"	"Suicide"	"2"	13	121418	Unreliable
+	"Parker County, TX"	"48367"	"2014"	"2014"	"Unintentional"	"1"	56	123164	45.5
+	"Parker County, TX"	"48367"	"2014"	"2014"	"Suicide"	"2"	21	123164	17.1
+	"Parker County, TX"	"48367"	"2015"	"2015"	"Unintentional"	"1"	67	126042	53.2
+	"Parker County, TX"	"48367"	"2015"	"2015"	"Suicide"	"2"	27	126042	21.4
+	"Parker County, TX"	"48367"	"2016"	"2016"	"Unintentional"	"1"	61	129441	47.1
+	"Parker County, TX"	"48367"	"2016"	"2016"	"Suicide"	"2"	29	129441	22.4
+	"Parker County, TX"	"48367"	"2017"	"2017"	"Unintentional"	"1"	68	133463	51.0
+	"Parker County, TX"	"48367"	"2017"	"2017"	"Suicide"	"2"	22	133463	16.5
+	"Parker County, TX"	"48367"	"2018"	"2018"	"Unintentional"	"1"	56	138371	40.5
+	"Parker County, TX"	"48367"	"2018"	"2018"	"Suicide"	"2"	25	138371	18.1
+	"Potter County, TX"	"48375"	"1999"	"1999"	"Unintentional"	"1"	60	112919	53.1
+	"Potter County, TX"	"48375"	"1999"	"1999"	"Suicide"	"2"	14	112919	Unreliable
+	"Potter County, TX"	"48375"	"1999"	"1999"	"Homicide"	"3"	10	112919	Unreliable
+	"Potter County, TX"	"48375"	"2000"	"2000"	"Unintentional"	"1"	57	113546	50.2
+	"Potter County, TX"	"48375"	"2000"	"2000"	"Suicide"	"2"	11	113546	Unreliable
+	"Potter County, TX"	"48375"	"2000"	"2000"	"Homicide"	"3"	12	113546	Unreliable
+	"Potter County, TX"	"48375"	"2001"	"2001"	"Unintentional"	"1"	61	114307	53.4
+	"Potter County, TX"	"48375"	"2001"	"2001"	"Suicide"	"2"	20	114307	17.5
+	"Potter County, TX"	"48375"	"2001"	"2001"	"Homicide"	"3"	19	114307	Unreliable
+	"Potter County, TX"	"48375"	"2002"	"2002"	"Unintentional"	"1"	57	115427	49.4
+	"Potter County, TX"	"48375"	"2002"	"2002"	"Suicide"	"2"	27	115427	23.4
+	"Potter County, TX"	"48375"	"2003"	"2003"	"Unintentional"	"1"	61	117067	52.1
+	"Potter County, TX"	"48375"	"2003"	"2003"	"Suicide"	"2"	17	117067	Unreliable
+	"Potter County, TX"	"48375"	"2003"	"2003"	"Homicide"	"3"	18	117067	Unreliable
+	"Potter County, TX"	"48375"	"2004"	"2004"	"Unintentional"	"1"	55	117682	46.7
+	"Potter County, TX"	"48375"	"2004"	"2004"	"Suicide"	"2"	15	117682	Unreliable
+	"Potter County, TX"	"48375"	"2004"	"2004"	"Homicide"	"3"	11	117682	Unreliable
+	"Potter County, TX"	"48375"	"2005"	"2005"	"Unintentional"	"1"	75	118771	63.1
+	"Potter County, TX"	"48375"	"2005"	"2005"	"Suicide"	"2"	24	118771	20.2
+	"Potter County, TX"	"48375"	"2005"	"2005"	"Homicide"	"3"	10	118771	Unreliable
+	"Potter County, TX"	"48375"	"2006"	"2006"	"Unintentional"	"1"	67	119780	55.9
+	"Potter County, TX"	"48375"	"2006"	"2006"	"Suicide"	"2"	16	119780	Unreliable
+	"Potter County, TX"	"48375"	"2007"	"2007"	"Unintentional"	"1"	56	119537	46.8
+	"Potter County, TX"	"48375"	"2007"	"2007"	"Suicide"	"2"	11	119537	Unreliable
+	"Potter County, TX"	"48375"	"2007"	"2007"	"Homicide"	"3"	16	119537	Unreliable
+	"Potter County, TX"	"48375"	"2008"	"2008"	"Unintentional"	"1"	65	119740	54.3
+	"Potter County, TX"	"48375"	"2008"	"2008"	"Suicide"	"2"	24	119740	20.0
+	"Potter County, TX"	"48375"	"2008"	"2008"	"Homicide"	"3"	14	119740	Unreliable
+	"Potter County, TX"	"48375"	"2009"	"2009"	"Unintentional"	"1"	53	120118	44.1
+	"Potter County, TX"	"48375"	"2009"	"2009"	"Suicide"	"2"	26	120118	21.6
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Unintentional"	"1"	60	121073	49.6
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Suicide"	"2"	16	121073	Unreliable
+	"Potter County, TX"	"48375"	"2011"	"2011"	"Unintentional"	"1"	53	122285	43.3
+	"Potter County, TX"	"48375"	"2011"	"2011"	"Suicide"	"2"	19	122285	Unreliable
+	"Potter County, TX"	"48375"	"2012"	"2012"	"Unintentional"	"1"	50	122335	40.9
+	"Potter County, TX"	"48375"	"2012"	"2012"	"Suicide"	"2"	24	122335	19.6
+	"Potter County, TX"	"48375"	"2012"	"2012"	"Homicide"	"3"	11	122335	Unreliable
+	"Potter County, TX"	"48375"	"2013"	"2013"	"Unintentional"	"1"	60	121661	49.3
+	"Potter County, TX"	"48375"	"2013"	"2013"	"Suicide"	"2"	22	121661	18.1
+	"Potter County, TX"	"48375"	"2013"	"2013"	"Homicide"	"3"	10	121661	Unreliable
+	"Potter County, TX"	"48375"	"2014"	"2014"	"Unintentional"	"1"	70	121627	57.6
+	"Potter County, TX"	"48375"	"2014"	"2014"	"Suicide"	"2"	23	121627	18.9
+	"Potter County, TX"	"48375"	"2015"	"2015"	"Unintentional"	"1"	62	121802	50.9
+	"Potter County, TX"	"48375"	"2015"	"2015"	"Suicide"	"2"	21	121802	17.2
+	"Potter County, TX"	"48375"	"2016"	"2016"	"Unintentional"	"1"	75	120832	62.1
+	"Potter County, TX"	"48375"	"2016"	"2016"	"Suicide"	"2"	29	120832	24.0
+	"Potter County, TX"	"48375"	"2016"	"2016"	"Homicide"	"3"	14	120832	Unreliable
+	"Potter County, TX"	"48375"	"2017"	"2017"	"Unintentional"	"1"	78	120458	64.8
+	"Potter County, TX"	"48375"	"2017"	"2017"	"Suicide"	"2"	23	120458	19.1
+	"Potter County, TX"	"48375"	"2017"	"2017"	"Homicide"	"3"	15	120458	Unreliable
+	"Potter County, TX"	"48375"	"2018"	"2018"	"Unintentional"	"1"	53	119648	44.3
+	"Potter County, TX"	"48375"	"2018"	"2018"	"Suicide"	"2"	35	119648	29.3
+	"Potter County, TX"	"48375"	"2018"	"2018"	"Homicide"	"3"	11	119648	Unreliable
+	"Randall County, TX"	"48381"	"1999"	"1999"	"Unintentional"	"1"	33	102891	32.1
+	"Randall County, TX"	"48381"	"1999"	"1999"	"Suicide"	"2"	15	102891	Unreliable
+	"Randall County, TX"	"48381"	"2000"	"2000"	"Unintentional"	"1"	27	104312	25.9
+	"Randall County, TX"	"48381"	"2000"	"2000"	"Suicide"	"2"	11	104312	Unreliable
+	"Randall County, TX"	"48381"	"2001"	"2001"	"Unintentional"	"1"	40	105399	38.0
+	"Randall County, TX"	"48381"	"2001"	"2001"	"Suicide"	"2"	19	105399	Unreliable
+	"Randall County, TX"	"48381"	"2002"	"2002"	"Unintentional"	"1"	36	106286	33.9
+	"Randall County, TX"	"48381"	"2002"	"2002"	"Suicide"	"2"	13	106286	Unreliable
+	"Randall County, TX"	"48381"	"2003"	"2003"	"Unintentional"	"1"	44	107607	40.9
+	"Randall County, TX"	"48381"	"2003"	"2003"	"Suicide"	"2"	18	107607	Unreliable
+	"Randall County, TX"	"48381"	"2004"	"2004"	"Unintentional"	"1"	34	109441	31.1
+	"Randall County, TX"	"48381"	"2004"	"2004"	"Suicide"	"2"	13	109441	Unreliable
+	"Randall County, TX"	"48381"	"2005"	"2005"	"Unintentional"	"1"	57	111113	51.3
+	"Randall County, TX"	"48381"	"2005"	"2005"	"Suicide"	"2"	13	111113	Unreliable
+	"Randall County, TX"	"48381"	"2006"	"2006"	"Unintentional"	"1"	41	112464	36.5
+	"Randall County, TX"	"48381"	"2006"	"2006"	"Suicide"	"2"	18	112464	Unreliable
+	"Randall County, TX"	"48381"	"2007"	"2007"	"Unintentional"	"1"	40	114782	34.8
+	"Randall County, TX"	"48381"	"2007"	"2007"	"Suicide"	"2"	20	114782	17.4
+	"Randall County, TX"	"48381"	"2008"	"2008"	"Unintentional"	"1"	37	116518	31.8
+	"Randall County, TX"	"48381"	"2008"	"2008"	"Suicide"	"2"	20	116518	17.2
+	"Randall County, TX"	"48381"	"2009"	"2009"	"Unintentional"	"1"	42	119084	35.3
+	"Randall County, TX"	"48381"	"2009"	"2009"	"Suicide"	"2"	14	119084	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Unintentional"	"1"	42	120725	34.8
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Suicide"	"2"	21	120725	17.4
+	"Randall County, TX"	"48381"	"2011"	"2011"	"Unintentional"	"1"	34	123351	27.6
+	"Randall County, TX"	"48381"	"2011"	"2011"	"Suicide"	"2"	23	123351	18.6
+	"Randall County, TX"	"48381"	"2012"	"2012"	"Unintentional"	"1"	58	125082	46.4
+	"Randall County, TX"	"48381"	"2012"	"2012"	"Suicide"	"2"	22	125082	17.6
+	"Randall County, TX"	"48381"	"2013"	"2013"	"Unintentional"	"1"	57	126474	45.1
+	"Randall County, TX"	"48381"	"2013"	"2013"	"Suicide"	"2"	13	126474	Unreliable
+	"Randall County, TX"	"48381"	"2014"	"2014"	"Unintentional"	"1"	50	128220	39.0
+	"Randall County, TX"	"48381"	"2014"	"2014"	"Suicide"	"2"	26	128220	20.3
+	"Randall County, TX"	"48381"	"2015"	"2015"	"Unintentional"	"1"	49	130269	37.6
+	"Randall County, TX"	"48381"	"2015"	"2015"	"Suicide"	"2"	32	130269	24.6
+	"Randall County, TX"	"48381"	"2016"	"2016"	"Unintentional"	"1"	52	132501	39.2
+	"Randall County, TX"	"48381"	"2016"	"2016"	"Suicide"	"2"	29	132501	21.9
+	"Randall County, TX"	"48381"	"2017"	"2017"	"Unintentional"	"1"	60	134442	44.6
+	"Randall County, TX"	"48381"	"2017"	"2017"	"Suicide"	"2"	30	134442	22.3
+	"Randall County, TX"	"48381"	"2018"	"2018"	"Unintentional"	"1"	45	136271	33.0
+	"Randall County, TX"	"48381"	"2018"	"2018"	"Suicide"	"2"	31	136271	22.7
+	"Rockwall County, TX"	"48397"	"1999"	"1999"	"Unintentional"	"1"	10	40864	Unreliable
+	"Rockwall County, TX"	"48397"	"2000"	"2000"	"Unintentional"	"1"	14	43080	Unreliable
+	"Rockwall County, TX"	"48397"	"2001"	"2001"	"Unintentional"	"1"	17	46697	Unreliable
+	"Rockwall County, TX"	"48397"	"2002"	"2002"	"Unintentional"	"1"	17	50078	Unreliable
+	"Rockwall County, TX"	"48397"	"2003"	"2003"	"Unintentional"	"1"	14	53397	Unreliable
+	"Rockwall County, TX"	"48397"	"2004"	"2004"	"Unintentional"	"1"	19	56477	Unreliable
+	"Rockwall County, TX"	"48397"	"2005"	"2005"	"Unintentional"	"1"	12	60349	Unreliable
+	"Rockwall County, TX"	"48397"	"2006"	"2006"	"Unintentional"	"1"	26	66117	39.3
+	"Rockwall County, TX"	"48397"	"2007"	"2007"	"Unintentional"	"1"	11	70851	Unreliable
+	"Rockwall County, TX"	"48397"	"2008"	"2008"	"Unintentional"	"1"	17	73929	Unreliable
+	"Rockwall County, TX"	"48397"	"2009"	"2009"	"Unintentional"	"1"	17	76654	Unreliable
+	"Rockwall County, TX"	"48397"	"2010"	"2010"	"Unintentional"	"1"	18	78337	Unreliable
+	"Rockwall County, TX"	"48397"	"2011"	"2011"	"Unintentional"	"1"	25	81290	30.8
+	"Rockwall County, TX"	"48397"	"2012"	"2012"	"Unintentional"	"1"	25	83021	30.1
+	"Rockwall County, TX"	"48397"	"2012"	"2012"	"Suicide"	"2"	11	83021	Unreliable
+	"Rockwall County, TX"	"48397"	"2013"	"2013"	"Unintentional"	"1"	21	85245	24.6
+	"Rockwall County, TX"	"48397"	"2013"	"2013"	"Suicide"	"2"	15	85245	Unreliable
+	"Rockwall County, TX"	"48397"	"2014"	"2014"	"Unintentional"	"1"	20	87809	22.8
+	"Rockwall County, TX"	"48397"	"2014"	"2014"	"Suicide"	"2"	10	87809	Unreliable
+	"Rockwall County, TX"	"48397"	"2015"	"2015"	"Unintentional"	"1"	17	90861	Unreliable
+	"Rockwall County, TX"	"48397"	"2015"	"2015"	"Suicide"	"2"	13	90861	Unreliable
+	"Rockwall County, TX"	"48397"	"2016"	"2016"	"Unintentional"	"1"	11	93978	Unreliable
+	"Rockwall County, TX"	"48397"	"2016"	"2016"	"Suicide"	"2"	11	93978	Unreliable
+	"Rockwall County, TX"	"48397"	"2017"	"2017"	"Unintentional"	"1"	28	96788	28.9
+	"Rockwall County, TX"	"48397"	"2017"	"2017"	"Suicide"	"2"	17	96788	Unreliable
+	"Rockwall County, TX"	"48397"	"2018"	"2018"	"Unintentional"	"1"	29	100657	28.8
+	"Rockwall County, TX"	"48397"	"2018"	"2018"	"Suicide"	"2"	15	100657	Unreliable
+	"San Patricio County, TX"	"48409"	"1999"	"1999"	"Unintentional"	"1"	28	67185	41.7
+	"San Patricio County, TX"	"48409"	"2000"	"2000"	"Unintentional"	"1"	21	67138	31.3
+	"San Patricio County, TX"	"48409"	"2001"	"2001"	"Unintentional"	"1"	27	66690	40.5
+	"San Patricio County, TX"	"48409"	"2002"	"2002"	"Unintentional"	"1"	15	66820	Unreliable
+	"San Patricio County, TX"	"48409"	"2002"	"2002"	"Suicide"	"2"	11	66820	Unreliable
+	"San Patricio County, TX"	"48409"	"2003"	"2003"	"Unintentional"	"1"	40	66440	60.2
+	"San Patricio County, TX"	"48409"	"2004"	"2004"	"Unintentional"	"1"	22	66990	32.8
+	"San Patricio County, TX"	"48409"	"2004"	"2004"	"Suicide"	"2"	12	66990	Unreliable
+	"San Patricio County, TX"	"48409"	"2005"	"2005"	"Unintentional"	"1"	24	67232	35.7
+	"San Patricio County, TX"	"48409"	"2006"	"2006"	"Unintentional"	"1"	16	67022	Unreliable
+	"San Patricio County, TX"	"48409"	"2007"	"2007"	"Unintentional"	"1"	37	66723	55.5
+	"San Patricio County, TX"	"48409"	"2007"	"2007"	"Suicide"	"2"	11	66723	Unreliable
+	"San Patricio County, TX"	"48409"	"2008"	"2008"	"Unintentional"	"1"	20	66417	30.1
+	"San Patricio County, TX"	"48409"	"2009"	"2009"	"Unintentional"	"1"	24	65751	36.5
+	"San Patricio County, TX"	"48409"	"2010"	"2010"	"Unintentional"	"1"	23	64804	35.5
+	"San Patricio County, TX"	"48409"	"2010"	"2010"	"Suicide"	"2"	12	64804	Unreliable
+	"San Patricio County, TX"	"48409"	"2011"	"2011"	"Unintentional"	"1"	40	64726	61.8
+	"San Patricio County, TX"	"48409"	"2012"	"2012"	"Unintentional"	"1"	28	65600	42.7
+	"San Patricio County, TX"	"48409"	"2013"	"2013"	"Unintentional"	"1"	29	66137	43.8
+	"San Patricio County, TX"	"48409"	"2013"	"2013"	"Suicide"	"2"	10	66137	Unreliable
+	"San Patricio County, TX"	"48409"	"2014"	"2014"	"Unintentional"	"1"	40	66915	59.8
+	"San Patricio County, TX"	"48409"	"2015"	"2015"	"Unintentional"	"1"	28	67357	41.6
+	"San Patricio County, TX"	"48409"	"2015"	"2015"	"Suicide"	"2"	17	67357	Unreliable
+	"San Patricio County, TX"	"48409"	"2016"	"2016"	"Unintentional"	"1"	27	67655	39.9
+	"San Patricio County, TX"	"48409"	"2016"	"2016"	"Suicide"	"2"	12	67655	Unreliable
+	"San Patricio County, TX"	"48409"	"2017"	"2017"	"Unintentional"	"1"	31	67215	46.1
+	"San Patricio County, TX"	"48409"	"2018"	"2018"	"Unintentional"	"1"	32	66893	47.8
+	"Somervell County, TX"	"48425"	"2009"	"2009"	"Unintentional"	"1"	10	8415	Unreliable
+	"Tarrant County, TX"	"48439"	"1999"	"1999"	"Unintentional"	"1"	411	1422372	28.9
+	"Tarrant County, TX"	"48439"	"1999"	"1999"	"Suicide"	"2"	118	1422372	8.3
+	"Tarrant County, TX"	"48439"	"1999"	"1999"	"Homicide"	"3"	105	1422372	7.4
+	"Tarrant County, TX"	"48439"	"1999"	"1999"	"Undetermined "	"4"	22	1422372	1.5
+	"Tarrant County, TX"	"48439"	"2000"	"2000"	"Unintentional"	"1"	394	1446219	27.2
+	"Tarrant County, TX"	"48439"	"2000"	"2000"	"Suicide"	"2"	130	1446219	9.0
+	"Tarrant County, TX"	"48439"	"2000"	"2000"	"Homicide"	"3"	104	1446219	7.2
+	"Tarrant County, TX"	"48439"	"2000"	"2000"	"Undetermined "	"4"	20	1446219	1.4
+	"Tarrant County, TX"	"48439"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	11	1446219	Unreliable
+	"Tarrant County, TX"	"48439"	"2001"	"2001"	"Unintentional"	"1"	447	1490204	30.0
+	"Tarrant County, TX"	"48439"	"2001"	"2001"	"Suicide"	"2"	146	1490204	9.8
+	"Tarrant County, TX"	"48439"	"2001"	"2001"	"Homicide"	"3"	100	1490204	6.7
+	"Tarrant County, TX"	"48439"	"2001"	"2001"	"Undetermined "	"4"	15	1490204	Unreliable
+	"Tarrant County, TX"	"48439"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	13	1490204	Unreliable
+	"Tarrant County, TX"	"48439"	"2002"	"2002"	"Unintentional"	"1"	475	1524249	31.2
+	"Tarrant County, TX"	"48439"	"2002"	"2002"	"Suicide"	"2"	121	1524249	7.9
+	"Tarrant County, TX"	"48439"	"2002"	"2002"	"Homicide"	"3"	73	1524249	4.8
+	"Tarrant County, TX"	"48439"	"2002"	"2002"	"Undetermined "	"4"	18	1524249	Unreliable
+	"Tarrant County, TX"	"48439"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	10	1524249	Unreliable
+	"Tarrant County, TX"	"48439"	"2003"	"2003"	"Unintentional"	"1"	462	1553086	29.7
+	"Tarrant County, TX"	"48439"	"2003"	"2003"	"Suicide"	"2"	167	1553086	10.8
+	"Tarrant County, TX"	"48439"	"2003"	"2003"	"Homicide"	"3"	87	1553086	5.6
+	"Tarrant County, TX"	"48439"	"2003"	"2003"	"Undetermined "	"4"	15	1553086	Unreliable
+	"Tarrant County, TX"	"48439"	"2004"	"2004"	"Unintentional"	"1"	449	1580595	28.4
+	"Tarrant County, TX"	"48439"	"2004"	"2004"	"Suicide"	"2"	152	1580595	9.6
+	"Tarrant County, TX"	"48439"	"2004"	"2004"	"Homicide"	"3"	86	1580595	5.4
+	"Tarrant County, TX"	"48439"	"2004"	"2004"	"Undetermined "	"4"	12	1580595	Unreliable
+	"Tarrant County, TX"	"48439"	"2005"	"2005"	"Unintentional"	"1"	473	1612048	29.3
+	"Tarrant County, TX"	"48439"	"2005"	"2005"	"Suicide"	"2"	189	1612048	11.7
+	"Tarrant County, TX"	"48439"	"2005"	"2005"	"Homicide"	"3"	98	1612048	6.1
+	"Tarrant County, TX"	"48439"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	11	1612048	Unreliable
+	"Tarrant County, TX"	"48439"	"2006"	"2006"	"Unintentional"	"1"	484	1662005	29.1
+	"Tarrant County, TX"	"48439"	"2006"	"2006"	"Suicide"	"2"	167	1662005	10.0
+	"Tarrant County, TX"	"48439"	"2006"	"2006"	"Homicide"	"3"	76	1662005	4.6
+	"Tarrant County, TX"	"48439"	"2007"	"2007"	"Unintentional"	"1"	505	1707157	29.6
+	"Tarrant County, TX"	"48439"	"2007"	"2007"	"Suicide"	"2"	171	1707157	10.0
+	"Tarrant County, TX"	"48439"	"2007"	"2007"	"Homicide"	"3"	88	1707157	5.2
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Unintentional"	"1"	519	1745602	29.7
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Suicide"	"2"	186	1745602	10.7
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Homicide"	"3"	101	1745602	5.8
+	"Tarrant County, TX"	"48439"	"2008"	"2008"	"Undetermined "	"4"	11	1745602	Unreliable
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Unintentional"	"1"	541	1784078	30.3
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Suicide"	"2"	170	1784078	9.5
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	"Homicide"	"3"	71	1784078	4.0
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Unintentional"	"1"	479	1809034	26.5
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Suicide"	"2"	184	1809034	10.2
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Homicide"	"3"	107	1809034	5.9
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Undetermined "	"4"	14	1809034	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	15	1809034	Unreliable
+	"Tarrant County, TX"	"48439"	"2011"	"2011"	"Unintentional"	"1"	528	1849815	28.5
+	"Tarrant County, TX"	"48439"	"2011"	"2011"	"Suicide"	"2"	194	1849815	10.5
+	"Tarrant County, TX"	"48439"	"2011"	"2011"	"Homicide"	"3"	107	1849815	5.8
+	"Tarrant County, TX"	"48439"	"2011"	"2011"	"Undetermined "	"4"	15	1849815	Unreliable
+	"Tarrant County, TX"	"48439"	"2012"	"2012"	"Unintentional"	"1"	526	1880153	28.0
+	"Tarrant County, TX"	"48439"	"2012"	"2012"	"Suicide"	"2"	214	1880153	11.4
+	"Tarrant County, TX"	"48439"	"2012"	"2012"	"Homicide"	"3"	78	1880153	4.1
+	"Tarrant County, TX"	"48439"	"2012"	"2012"	"Undetermined "	"4"	16	1880153	Unreliable
+	"Tarrant County, TX"	"48439"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	13	1880153	Unreliable
+	"Tarrant County, TX"	"48439"	"2013"	"2013"	"Unintentional"	"1"	516	1911541	27.0
+	"Tarrant County, TX"	"48439"	"2013"	"2013"	"Suicide"	"2"	209	1911541	10.9
+	"Tarrant County, TX"	"48439"	"2013"	"2013"	"Homicide"	"3"	104	1911541	5.4
+	"Tarrant County, TX"	"48439"	"2013"	"2013"	"Undetermined "	"4"	17	1911541	Unreliable
+	"Tarrant County, TX"	"48439"	"2014"	"2014"	"Unintentional"	"1"	562	1945360	28.9
+	"Tarrant County, TX"	"48439"	"2014"	"2014"	"Suicide"	"2"	218	1945360	11.2
+	"Tarrant County, TX"	"48439"	"2014"	"2014"	"Homicide"	"3"	87	1945360	4.5
+	"Tarrant County, TX"	"48439"	"2014"	"2014"	"Undetermined "	"4"	23	1945360	1.2
+	"Tarrant County, TX"	"48439"	"2015"	"2015"	"Unintentional"	"1"	566	1982498	28.5
+	"Tarrant County, TX"	"48439"	"2015"	"2015"	"Suicide"	"2"	227	1982498	11.5
+	"Tarrant County, TX"	"48439"	"2015"	"2015"	"Homicide"	"3"	104	1982498	5.2
+	"Tarrant County, TX"	"48439"	"2015"	"2015"	"Undetermined "	"4"	38	1982498	1.9
+	"Tarrant County, TX"	"48439"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	11	1982498	Unreliable
+	"Tarrant County, TX"	"48439"	"2016"	"2016"	"Unintentional"	"1"	640	2016872	31.7
+	"Tarrant County, TX"	"48439"	"2016"	"2016"	"Suicide"	"2"	261	2016872	12.9
+	"Tarrant County, TX"	"48439"	"2016"	"2016"	"Homicide"	"3"	112	2016872	5.6
+	"Tarrant County, TX"	"48439"	"2016"	"2016"	"Undetermined "	"4"	29	2016872	1.4
+	"Tarrant County, TX"	"48439"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	15	2016872	Unreliable
+	"Tarrant County, TX"	"48439"	"2017"	"2017"	"Unintentional"	"1"	628	2054475	30.6
+	"Tarrant County, TX"	"48439"	"2017"	"2017"	"Suicide"	"2"	257	2054475	12.5
+	"Tarrant County, TX"	"48439"	"2017"	"2017"	"Homicide"	"3"	125	2054475	6.1
+	"Tarrant County, TX"	"48439"	"2017"	"2017"	"Undetermined "	"4"	22	2054475	1.1
+	"Tarrant County, TX"	"48439"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	15	2054475	Unreliable
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	"Unintentional"	"1"	628	2084931	30.1
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	"Suicide"	"2"	296	2084931	14.2
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	"Homicide"	"3"	87	2084931	4.2
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	"Undetermined "	"4"	16	2084931	Unreliable
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	20	2084931	1.0
+	"Travis County, TX"	"48453"	"1999"	"1999"	"Unintentional"	"1"	221	788500	28.0
+	"Travis County, TX"	"48453"	"1999"	"1999"	"Suicide"	"2"	71	788500	9.0
+	"Travis County, TX"	"48453"	"1999"	"1999"	"Homicide"	"3"	37	788500	4.7
+	"Travis County, TX"	"48453"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	11	788500	Unreliable
+	"Travis County, TX"	"48453"	"2000"	"2000"	"Unintentional"	"1"	242	812280	29.8
+	"Travis County, TX"	"48453"	"2000"	"2000"	"Suicide"	"2"	88	812280	10.8
+	"Travis County, TX"	"48453"	"2000"	"2000"	"Homicide"	"3"	36	812280	4.4
+	"Travis County, TX"	"48453"	"2001"	"2001"	"Unintentional"	"1"	278	844877	32.9
+	"Travis County, TX"	"48453"	"2001"	"2001"	"Suicide"	"2"	101	844877	12.0
+	"Travis County, TX"	"48453"	"2001"	"2001"	"Homicide"	"3"	39	844877	4.6
+	"Travis County, TX"	"48453"	"2002"	"2002"	"Unintentional"	"1"	325	848090	38.3
+	"Travis County, TX"	"48453"	"2002"	"2002"	"Suicide"	"2"	110	848090	13.0
+	"Travis County, TX"	"48453"	"2002"	"2002"	"Homicide"	"3"	25	848090	2.9
+	"Travis County, TX"	"48453"	"2003"	"2003"	"Unintentional"	"1"	271	856315	31.6
+	"Travis County, TX"	"48453"	"2003"	"2003"	"Suicide"	"2"	93	856315	10.9
+	"Travis County, TX"	"48453"	"2003"	"2003"	"Homicide"	"3"	35	856315	4.1
+	"Travis County, TX"	"48453"	"2004"	"2004"	"Unintentional"	"1"	260	870809	29.9
+	"Travis County, TX"	"48453"	"2004"	"2004"	"Suicide"	"2"	91	870809	10.5
+	"Travis County, TX"	"48453"	"2004"	"2004"	"Homicide"	"3"	31	870809	3.6
+	"Travis County, TX"	"48453"	"2005"	"2005"	"Unintentional"	"1"	252	891266	28.3
+	"Travis County, TX"	"48453"	"2005"	"2005"	"Suicide"	"2"	108	891266	12.1
+	"Travis County, TX"	"48453"	"2005"	"2005"	"Homicide"	"3"	30	891266	3.4
+	"Travis County, TX"	"48453"	"2006"	"2006"	"Unintentional"	"1"	315	925151	34.0
+	"Travis County, TX"	"48453"	"2006"	"2006"	"Suicide"	"2"	113	925151	12.2
+	"Travis County, TX"	"48453"	"2006"	"2006"	"Homicide"	"3"	27	925151	2.9
+	"Travis County, TX"	"48453"	"2007"	"2007"	"Unintentional"	"1"	331	955399	34.6
+	"Travis County, TX"	"48453"	"2007"	"2007"	"Suicide"	"2"	108	955399	11.3
+	"Travis County, TX"	"48453"	"2007"	"2007"	"Homicide"	"3"	29	955399	3.0
+	"Travis County, TX"	"48453"	"2008"	"2008"	"Unintentional"	"1"	320	980699	32.6
+	"Travis County, TX"	"48453"	"2008"	"2008"	"Suicide"	"2"	104	980699	10.6
+	"Travis County, TX"	"48453"	"2008"	"2008"	"Homicide"	"3"	27	980699	2.8
+	"Travis County, TX"	"48453"	"2009"	"2009"	"Unintentional"	"1"	372	1006503	37.0
+	"Travis County, TX"	"48453"	"2009"	"2009"	"Suicide"	"2"	113	1006503	11.2
+	"Travis County, TX"	"48453"	"2009"	"2009"	"Homicide"	"3"	29	1006503	2.9
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Unintentional"	"1"	377	1024266	36.8
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Suicide"	"2"	127	1024266	12.4
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Homicide"	"3"	51	1024266	5.0
+	"Travis County, TX"	"48453"	"2011"	"2011"	"Unintentional"	"1"	437	1063130	41.1
+	"Travis County, TX"	"48453"	"2011"	"2011"	"Suicide"	"2"	107	1063130	10.1
+	"Travis County, TX"	"48453"	"2011"	"2011"	"Homicide"	"3"	33	1063130	3.1
+	"Travis County, TX"	"48453"	"2011"	"2011"	"Undetermined "	"4"	10	1063130	Unreliable
+	"Travis County, TX"	"48453"	"2012"	"2012"	"Unintentional"	"1"	432	1095584	39.4
+	"Travis County, TX"	"48453"	"2012"	"2012"	"Suicide"	"2"	142	1095584	13.0
+	"Travis County, TX"	"48453"	"2012"	"2012"	"Homicide"	"3"	27	1095584	2.5
+	"Travis County, TX"	"48453"	"2013"	"2013"	"Unintentional"	"1"	485	1120954	43.3
+	"Travis County, TX"	"48453"	"2013"	"2013"	"Suicide"	"2"	138	1120954	12.3
+	"Travis County, TX"	"48453"	"2013"	"2013"	"Homicide"	"3"	35	1120954	3.1
+	"Travis County, TX"	"48453"	"2014"	"2014"	"Unintentional"	"1"	488	1151145	42.4
+	"Travis County, TX"	"48453"	"2014"	"2014"	"Suicide"	"2"	141	1151145	12.2
+	"Travis County, TX"	"48453"	"2014"	"2014"	"Homicide"	"3"	33	1151145	2.9
+	"Travis County, TX"	"48453"	"2015"	"2015"	"Unintentional"	"1"	482	1176558	41.0
+	"Travis County, TX"	"48453"	"2015"	"2015"	"Suicide"	"2"	159	1176558	13.5
+	"Travis County, TX"	"48453"	"2015"	"2015"	"Homicide"	"3"	35	1176558	3.0
+	"Travis County, TX"	"48453"	"2016"	"2016"	"Unintentional"	"1"	458	1199323	38.2
+	"Travis County, TX"	"48453"	"2016"	"2016"	"Suicide"	"2"	134	1199323	11.2
+	"Travis County, TX"	"48453"	"2016"	"2016"	"Homicide"	"3"	46	1199323	3.8
+	"Travis County, TX"	"48453"	"2017"	"2017"	"Unintentional"	"1"	449	1226698	36.6
+	"Travis County, TX"	"48453"	"2017"	"2017"	"Suicide"	"2"	164	1226698	13.4
+	"Travis County, TX"	"48453"	"2017"	"2017"	"Homicide"	"3"	39	1226698	3.2
+	"Travis County, TX"	"48453"	"2018"	"2018"	"Unintentional"	"1"	512	1248743	41.0
+	"Travis County, TX"	"48453"	"2018"	"2018"	"Suicide"	"2"	157	1248743	12.6
+	"Travis County, TX"	"48453"	"2018"	"2018"	"Homicide"	"3"	42	1248743	3.4
+	"Waller County, TX"	"48473"	"1999"	"1999"	"Unintentional"	"1"	13	31743	Unreliable
+	"Waller County, TX"	"48473"	"2000"	"2000"	"Unintentional"	"1"	23	32663	70.4
+	"Waller County, TX"	"48473"	"2001"	"2001"	"Unintentional"	"1"	17	33747	Unreliable
+	"Waller County, TX"	"48473"	"2002"	"2002"	"Unintentional"	"1"	16	35060	Unreliable
+	"Waller County, TX"	"48473"	"2003"	"2003"	"Unintentional"	"1"	14	36333	Unreliable
+	"Waller County, TX"	"48473"	"2004"	"2004"	"Unintentional"	"1"	20	36850	54.3
+	"Waller County, TX"	"48473"	"2005"	"2005"	"Unintentional"	"1"	22	37242	59.1
+	"Waller County, TX"	"48473"	"2006"	"2006"	"Unintentional"	"1"	20	38260	52.3
+	"Waller County, TX"	"48473"	"2007"	"2007"	"Unintentional"	"1"	23	39809	57.8
+	"Waller County, TX"	"48473"	"2008"	"2008"	"Unintentional"	"1"	19	40578	Unreliable
+	"Waller County, TX"	"48473"	"2009"	"2009"	"Unintentional"	"1"	20	42087	47.5
+	"Waller County, TX"	"48473"	"2010"	"2010"	"Unintentional"	"1"	24	43205	55.5
+	"Waller County, TX"	"48473"	"2011"	"2011"	"Unintentional"	"1"	18	44013	Unreliable
+	"Waller County, TX"	"48473"	"2012"	"2012"	"Unintentional"	"1"	17	44357	Unreliable
+	"Waller County, TX"	"48473"	"2013"	"2013"	"Unintentional"	"1"	23	45213	50.9
+	"Waller County, TX"	"48473"	"2014"	"2014"	"Unintentional"	"1"	22	46820	47.0
+	"Waller County, TX"	"48473"	"2015"	"2015"	"Unintentional"	"1"	29	48656	59.6
+	"Waller County, TX"	"48473"	"2016"	"2016"	"Unintentional"	"1"	17	50115	Unreliable
+	"Waller County, TX"	"48473"	"2017"	"2017"	"Unintentional"	"1"	27	51307	52.6
+	"Waller County, TX"	"48473"	"2018"	"2018"	"Unintentional"	"1"	16	53126	Unreliable
+	"Webb County, TX"	"48479"	"1999"	"1999"	"Unintentional"	"1"	36	189014	19.0
+	"Webb County, TX"	"48479"	"1999"	"1999"	"Homicide"	"3"	10	189014	Unreliable
+	"Webb County, TX"	"48479"	"2000"	"2000"	"Unintentional"	"1"	33	193117	17.1
+	"Webb County, TX"	"48479"	"2000"	"2000"	"Homicide"	"3"	13	193117	Unreliable
+	"Webb County, TX"	"48479"	"2001"	"2001"	"Unintentional"	"1"	71	200347	35.4
+	"Webb County, TX"	"48479"	"2001"	"2001"	"Suicide"	"2"	12	200347	Unreliable
+	"Webb County, TX"	"48479"	"2001"	"2001"	"Homicide"	"3"	11	200347	Unreliable
+	"Webb County, TX"	"48479"	"2002"	"2002"	"Unintentional"	"1"	45	206001	21.8
+	"Webb County, TX"	"48479"	"2002"	"2002"	"Homicide"	"3"	10	206001	Unreliable
+	"Webb County, TX"	"48479"	"2003"	"2003"	"Unintentional"	"1"	51	211786	24.1
+	"Webb County, TX"	"48479"	"2003"	"2003"	"Suicide"	"2"	20	211786	9.4
+	"Webb County, TX"	"48479"	"2003"	"2003"	"Homicide"	"3"	29	211786	13.7
+	"Webb County, TX"	"48479"	"2004"	"2004"	"Unintentional"	"1"	47	217858	21.6
+	"Webb County, TX"	"48479"	"2004"	"2004"	"Suicide"	"2"	18	217858	Unreliable
+	"Webb County, TX"	"48479"	"2004"	"2004"	"Homicide"	"3"	19	217858	Unreliable
+	"Webb County, TX"	"48479"	"2005"	"2005"	"Unintentional"	"1"	64	223703	28.6
+	"Webb County, TX"	"48479"	"2005"	"2005"	"Homicide"	"3"	26	223703	11.6
+	"Webb County, TX"	"48479"	"2006"	"2006"	"Unintentional"	"1"	38	229307	16.6
+	"Webb County, TX"	"48479"	"2006"	"2006"	"Homicide"	"3"	25	229307	10.9
+	"Webb County, TX"	"48479"	"2007"	"2007"	"Unintentional"	"1"	68	234594	29.0
+	"Webb County, TX"	"48479"	"2007"	"2007"	"Suicide"	"2"	12	234594	Unreliable
+	"Webb County, TX"	"48479"	"2007"	"2007"	"Homicide"	"3"	15	234594	Unreliable
+	"Webb County, TX"	"48479"	"2008"	"2008"	"Unintentional"	"1"	84	240287	35.0
+	"Webb County, TX"	"48479"	"2008"	"2008"	"Suicide"	"2"	18	240287	Unreliable
+	"Webb County, TX"	"48479"	"2008"	"2008"	"Homicide"	"3"	11	240287	Unreliable
+	"Webb County, TX"	"48479"	"2009"	"2009"	"Unintentional"	"1"	72	245908	29.3
+	"Webb County, TX"	"48479"	"2009"	"2009"	"Suicide"	"2"	14	245908	Unreliable
+	"Webb County, TX"	"48479"	"2009"	"2009"	"Homicide"	"3"	16	245908	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Unintentional"	"1"	80	250304	32.0
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Suicide"	"2"	16	250304	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Homicide"	"3"	10	250304	Unreliable
+	"Webb County, TX"	"48479"	"2011"	"2011"	"Unintentional"	"1"	71	256496	27.7
+	"Webb County, TX"	"48479"	"2011"	"2011"	"Suicide"	"2"	12	256496	Unreliable
+	"Webb County, TX"	"48479"	"2011"	"2011"	"Homicide"	"3"	13	256496	Unreliable
+	"Webb County, TX"	"48479"	"2012"	"2012"	"Unintentional"	"1"	81	259172	31.3
+	"Webb County, TX"	"48479"	"2012"	"2012"	"Suicide"	"2"	14	259172	Unreliable
+	"Webb County, TX"	"48479"	"2013"	"2013"	"Unintentional"	"1"	82	262495	31.2
+	"Webb County, TX"	"48479"	"2013"	"2013"	"Suicide"	"2"	17	262495	Unreliable
+	"Webb County, TX"	"48479"	"2014"	"2014"	"Unintentional"	"1"	70	266673	26.2
+	"Webb County, TX"	"48479"	"2014"	"2014"	"Homicide"	"3"	17	266673	Unreliable
+	"Webb County, TX"	"48479"	"2015"	"2015"	"Unintentional"	"1"	92	269721	34.1
+	"Webb County, TX"	"48479"	"2015"	"2015"	"Suicide"	"2"	16	269721	Unreliable
+	"Webb County, TX"	"48479"	"2016"	"2016"	"Unintentional"	"1"	94	271193	34.7
+	"Webb County, TX"	"48479"	"2016"	"2016"	"Suicide"	"2"	15	271193	Unreliable
+	"Webb County, TX"	"48479"	"2016"	"2016"	"Homicide"	"3"	14	271193	Unreliable
+	"Webb County, TX"	"48479"	"2017"	"2017"	"Unintentional"	"1"	89	274794	32.4
+	"Webb County, TX"	"48479"	"2017"	"2017"	"Suicide"	"2"	14	274794	Unreliable
+	"Webb County, TX"	"48479"	"2017"	"2017"	"Homicide"	"3"	11	274794	Unreliable
+	"Webb County, TX"	"48479"	"2018"	"2018"	"Unintentional"	"1"	88	275910	31.9
+	"Webb County, TX"	"48479"	"2018"	"2018"	"Suicide"	"2"	13	275910	Unreliable
+	"Webb County, TX"	"48479"	"2018"	"2018"	"Homicide"	"3"	16	275910	Unreliable
+	"Williamson County, TX"	"48491"	"1999"	"1999"	"Unintentional"	"1"	68	236609	28.7
+	"Williamson County, TX"	"48491"	"1999"	"1999"	"Suicide"	"2"	21	236609	8.9
+	"Williamson County, TX"	"48491"	"2000"	"2000"	"Unintentional"	"1"	72	249967	28.8
+	"Williamson County, TX"	"48491"	"2000"	"2000"	"Suicide"	"2"	22	249967	8.8
+	"Williamson County, TX"	"48491"	"2001"	"2001"	"Unintentional"	"1"	92	276940	33.2
+	"Williamson County, TX"	"48491"	"2001"	"2001"	"Suicide"	"2"	20	276940	7.2
+	"Williamson County, TX"	"48491"	"2002"	"2002"	"Unintentional"	"1"	74	290112	25.5
+	"Williamson County, TX"	"48491"	"2002"	"2002"	"Suicide"	"2"	23	290112	7.9
+	"Williamson County, TX"	"48491"	"2003"	"2003"	"Unintentional"	"1"	83	302895	27.4
+	"Williamson County, TX"	"48491"	"2003"	"2003"	"Suicide"	"2"	23	302895	7.6
+	"Williamson County, TX"	"48491"	"2003"	"2003"	"Homicide"	"3"	10	302895	Unreliable
+	"Williamson County, TX"	"48491"	"2004"	"2004"	"Unintentional"	"1"	80	316532	25.3
+	"Williamson County, TX"	"48491"	"2004"	"2004"	"Suicide"	"2"	22	316532	7.0
+	"Williamson County, TX"	"48491"	"2005"	"2005"	"Unintentional"	"1"	83	332169	25.0
+	"Williamson County, TX"	"48491"	"2005"	"2005"	"Suicide"	"2"	22	332169	6.6
+	"Williamson County, TX"	"48491"	"2006"	"2006"	"Unintentional"	"1"	114	351970	32.4
+	"Williamson County, TX"	"48491"	"2006"	"2006"	"Suicide"	"2"	23	351970	6.5
+	"Williamson County, TX"	"48491"	"2007"	"2007"	"Unintentional"	"1"	108	373723	28.9
+	"Williamson County, TX"	"48491"	"2007"	"2007"	"Suicide"	"2"	29	373723	7.8
+	"Williamson County, TX"	"48491"	"2008"	"2008"	"Unintentional"	"1"	105	395437	26.6
+	"Williamson County, TX"	"48491"	"2008"	"2008"	"Suicide"	"2"	33	395437	8.3
+	"Williamson County, TX"	"48491"	"2009"	"2009"	"Unintentional"	"1"	96	410800	23.4
+	"Williamson County, TX"	"48491"	"2009"	"2009"	"Suicide"	"2"	48	410800	11.7
+	"Williamson County, TX"	"48491"	"2009"	"2009"	"Homicide"	"3"	10	410800	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Unintentional"	"1"	108	422679	25.6
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Suicide"	"2"	48	422679	11.4
+	"Williamson County, TX"	"48491"	"2011"	"2011"	"Unintentional"	"1"	106	442782	23.9
+	"Williamson County, TX"	"48491"	"2011"	"2011"	"Suicide"	"2"	43	442782	9.7
+	"Williamson County, TX"	"48491"	"2012"	"2012"	"Unintentional"	"1"	111	456232	24.3
+	"Williamson County, TX"	"48491"	"2012"	"2012"	"Suicide"	"2"	56	456232	12.3
+	"Williamson County, TX"	"48491"	"2013"	"2013"	"Unintentional"	"1"	122	471014	25.9
+	"Williamson County, TX"	"48491"	"2013"	"2013"	"Suicide"	"2"	53	471014	11.3
+	"Williamson County, TX"	"48491"	"2014"	"2014"	"Unintentional"	"1"	123	489250	25.1
+	"Williamson County, TX"	"48491"	"2014"	"2014"	"Suicide"	"2"	61	489250	12.5
+	"Williamson County, TX"	"48491"	"2015"	"2015"	"Unintentional"	"1"	142	508514	27.9
+	"Williamson County, TX"	"48491"	"2015"	"2015"	"Suicide"	"2"	69	508514	13.6
+	"Williamson County, TX"	"48491"	"2016"	"2016"	"Unintentional"	"1"	141	528718	26.7
+	"Williamson County, TX"	"48491"	"2016"	"2016"	"Suicide"	"2"	81	528718	15.3
+	"Williamson County, TX"	"48491"	"2017"	"2017"	"Unintentional"	"1"	125	547545	22.8
+	"Williamson County, TX"	"48491"	"2017"	"2017"	"Suicide"	"2"	63	547545	11.5
+	"Williamson County, TX"	"48491"	"2018"	"2018"	"Unintentional"	"1"	139	566719	24.5
+	"Williamson County, TX"	"48491"	"2018"	"2018"	"Suicide"	"2"	85	566719	15.0
+	"Wilson County, TX"	"48493"	"1999"	"1999"	"Unintentional"	"1"	13	31631	Unreliable
+	"Wilson County, TX"	"48493"	"2000"	"2000"	"Unintentional"	"1"	13	32408	Unreliable
+	"Wilson County, TX"	"48493"	"2002"	"2002"	"Unintentional"	"1"	15	34254	Unreliable
+	"Wilson County, TX"	"48493"	"2003"	"2003"	"Unintentional"	"1"	13	35458	Unreliable
+	"Wilson County, TX"	"48493"	"2004"	"2004"	"Unintentional"	"1"	14	36721	Unreliable
+	"Wilson County, TX"	"48493"	"2005"	"2005"	"Unintentional"	"1"	13	37706	Unreliable
+	"Wilson County, TX"	"48493"	"2006"	"2006"	"Unintentional"	"1"	13	39007	Unreliable
+	"Wilson County, TX"	"48493"	"2007"	"2007"	"Unintentional"	"1"	21	40354	52.0
+	"Wilson County, TX"	"48493"	"2008"	"2008"	"Unintentional"	"1"	17	41657	Unreliable
+	"Wilson County, TX"	"48493"	"2009"	"2009"	"Unintentional"	"1"	14	42181	Unreliable
+	"Wilson County, TX"	"48493"	"2010"	"2010"	"Unintentional"	"1"	23	42918	53.6
+	"Wilson County, TX"	"48493"	"2011"	"2011"	"Unintentional"	"1"	13	43789	Unreliable
+	"Wilson County, TX"	"48493"	"2012"	"2012"	"Unintentional"	"1"	15	44370	Unreliable
+	"Wilson County, TX"	"48493"	"2013"	"2013"	"Unintentional"	"1"	12	45418	Unreliable
+	"Wilson County, TX"	"48493"	"2014"	"2014"	"Unintentional"	"1"	25	46402	53.9
+	"Wilson County, TX"	"48493"	"2015"	"2015"	"Unintentional"	"1"	20	47520	42.1
+	"Wilson County, TX"	"48493"	"2016"	"2016"	"Unintentional"	"1"	11	48480	Unreliable
+	"Wilson County, TX"	"48493"	"2017"	"2017"	"Unintentional"	"1"	12	49304	Unreliable
+	"Wilson County, TX"	"48493"	"2017"	"2017"	"Homicide"	"3"	27	49304	54.8
+	"Wilson County, TX"	"48493"	"2018"	"2018"	"Unintentional"	"1"	26	50224	51.8
+	"Wise County, TX"	"48497"	"1999"	"1999"	"Unintentional"	"1"	34	46965	72.4
+	"Wise County, TX"	"48497"	"2000"	"2000"	"Unintentional"	"1"	31	48793	63.5
+	"Wise County, TX"	"48497"	"2001"	"2001"	"Unintentional"	"1"	28	50927	55.0
+	"Wise County, TX"	"48497"	"2002"	"2002"	"Unintentional"	"1"	37	52381	70.6
+	"Wise County, TX"	"48497"	"2003"	"2003"	"Unintentional"	"1"	30	53691	55.9
+	"Wise County, TX"	"48497"	"2004"	"2004"	"Unintentional"	"1"	37	54497	67.9
+	"Wise County, TX"	"48497"	"2005"	"2005"	"Unintentional"	"1"	35	55613	62.9
+	"Wise County, TX"	"48497"	"2005"	"2005"	"Suicide"	"2"	10	55613	Unreliable
+	"Wise County, TX"	"48497"	"2006"	"2006"	"Unintentional"	"1"	41	56569	72.5
+	"Wise County, TX"	"48497"	"2007"	"2007"	"Unintentional"	"1"	36	57247	62.9
+	"Wise County, TX"	"48497"	"2008"	"2008"	"Unintentional"	"1"	30	58181	51.6
+	"Wise County, TX"	"48497"	"2009"	"2009"	"Unintentional"	"1"	33	59134	55.8
+	"Wise County, TX"	"48497"	"2010"	"2010"	"Unintentional"	"1"	37	59127	62.6
+	"Wise County, TX"	"48497"	"2011"	"2011"	"Unintentional"	"1"	19	59833	Unreliable
+	"Wise County, TX"	"48497"	"2012"	"2012"	"Unintentional"	"1"	38	60432	62.9
+	"Wise County, TX"	"48497"	"2012"	"2012"	"Suicide"	"2"	11	60432	Unreliable
+	"Wise County, TX"	"48497"	"2013"	"2013"	"Unintentional"	"1"	34	60939	55.8
+	"Wise County, TX"	"48497"	"2014"	"2014"	"Unintentional"	"1"	29	61638	47.0
+	"Wise County, TX"	"48497"	"2014"	"2014"	"Suicide"	"2"	11	61638	Unreliable
+	"Wise County, TX"	"48497"	"2015"	"2015"	"Unintentional"	"1"	39	62953	62.0
+	"Wise County, TX"	"48497"	"2016"	"2016"	"Unintentional"	"1"	26	64455	40.3
+	"Wise County, TX"	"48497"	"2016"	"2016"	"Suicide"	"2"	14	64455	Unreliable
+	"Wise County, TX"	"48497"	"2017"	"2017"	"Unintentional"	"1"	43	66181	65.0
+	"Wise County, TX"	"48497"	"2017"	"2017"	"Suicide"	"2"	15	66181	Unreliable
+	"Wise County, TX"	"48497"	"2018"	"2018"	"Unintentional"	"1"	39	68305	57.1
+	"Wise County, TX"	"48497"	"2018"	"2018"	"Suicide"	"2"	11	68305	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Texas_Urban"
+"2013 Urbanization: Large Central Metro; Large Fringe Metro; Medium Metro"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Texas (48)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 8:44:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 8:44:27 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Selections made to any variable in [Census Regions, HHS Regions, States, 2013 Urbanization] cause equivalent selections in"
+"the other variables. More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"3. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

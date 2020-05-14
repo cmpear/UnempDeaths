@@ -1,0 +1,1140 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Atlantic County, NJ"	"34001"	"1999"	"1999"	"Unintentional"	"1"	95	250432	37.9
+	"Atlantic County, NJ"	"34001"	"1999"	"1999"	"Suicide"	"2"	26	250432	10.4
+	"Atlantic County, NJ"	"34001"	"2000"	"2000"	"Unintentional"	"1"	88	252552	34.8
+	"Atlantic County, NJ"	"34001"	"2000"	"2000"	"Suicide"	"2"	21	252552	8.3
+	"Atlantic County, NJ"	"34001"	"2000"	"2000"	"Homicide"	"3"	14	252552	Unreliable
+	"Atlantic County, NJ"	"34001"	"2001"	"2001"	"Unintentional"	"1"	123	255737	48.1
+	"Atlantic County, NJ"	"34001"	"2001"	"2001"	"Suicide"	"2"	12	255737	Unreliable
+	"Atlantic County, NJ"	"34001"	"2001"	"2001"	"Homicide"	"3"	16	255737	Unreliable
+	"Atlantic County, NJ"	"34001"	"2002"	"2002"	"Unintentional"	"1"	105	259263	40.5
+	"Atlantic County, NJ"	"34001"	"2002"	"2002"	"Suicide"	"2"	23	259263	8.9
+	"Atlantic County, NJ"	"34001"	"2003"	"2003"	"Unintentional"	"1"	129	263285	49.0
+	"Atlantic County, NJ"	"34001"	"2003"	"2003"	"Suicide"	"2"	34	263285	12.9
+	"Atlantic County, NJ"	"34001"	"2003"	"2003"	"Homicide"	"3"	16	263285	Unreliable
+	"Atlantic County, NJ"	"34001"	"2004"	"2004"	"Unintentional"	"1"	130	267723	48.6
+	"Atlantic County, NJ"	"34001"	"2004"	"2004"	"Suicide"	"2"	24	267723	9.0
+	"Atlantic County, NJ"	"34001"	"2004"	"2004"	"Homicide"	"3"	11	267723	Unreliable
+	"Atlantic County, NJ"	"34001"	"2005"	"2005"	"Unintentional"	"1"	137	270332	50.7
+	"Atlantic County, NJ"	"34001"	"2005"	"2005"	"Suicide"	"2"	25	270332	9.2
+	"Atlantic County, NJ"	"34001"	"2005"	"2005"	"Homicide"	"3"	16	270332	Unreliable
+	"Atlantic County, NJ"	"34001"	"2006"	"2006"	"Unintentional"	"1"	118	271759	43.4
+	"Atlantic County, NJ"	"34001"	"2006"	"2006"	"Suicide"	"2"	21	271759	7.7
+	"Atlantic County, NJ"	"34001"	"2006"	"2006"	"Homicide"	"3"	25	271759	9.2
+	"Atlantic County, NJ"	"34001"	"2007"	"2007"	"Unintentional"	"1"	114	272303	41.9
+	"Atlantic County, NJ"	"34001"	"2007"	"2007"	"Suicide"	"2"	25	272303	9.2
+	"Atlantic County, NJ"	"34001"	"2007"	"2007"	"Homicide"	"3"	13	272303	Unreliable
+	"Atlantic County, NJ"	"34001"	"2008"	"2008"	"Unintentional"	"1"	116	273014	42.5
+	"Atlantic County, NJ"	"34001"	"2008"	"2008"	"Suicide"	"2"	25	273014	9.2
+	"Atlantic County, NJ"	"34001"	"2008"	"2008"	"Homicide"	"3"	17	273014	Unreliable
+	"Atlantic County, NJ"	"34001"	"2009"	"2009"	"Unintentional"	"1"	90	274049	32.8
+	"Atlantic County, NJ"	"34001"	"2009"	"2009"	"Suicide"	"2"	27	274049	9.9
+	"Atlantic County, NJ"	"34001"	"2009"	"2009"	"Homicide"	"3"	19	274049	Unreliable
+	"Atlantic County, NJ"	"34001"	"2010"	"2010"	"Unintentional"	"1"	103	274549	37.5
+	"Atlantic County, NJ"	"34001"	"2010"	"2010"	"Suicide"	"2"	36	274549	13.1
+	"Atlantic County, NJ"	"34001"	"2010"	"2010"	"Homicide"	"3"	16	274549	Unreliable
+	"Atlantic County, NJ"	"34001"	"2011"	"2011"	"Unintentional"	"1"	136	274338	49.6
+	"Atlantic County, NJ"	"34001"	"2011"	"2011"	"Suicide"	"2"	30	274338	10.9
+	"Atlantic County, NJ"	"34001"	"2011"	"2011"	"Homicide"	"3"	20	274338	7.3
+	"Atlantic County, NJ"	"34001"	"2012"	"2012"	"Unintentional"	"1"	144	275422	52.3
+	"Atlantic County, NJ"	"34001"	"2012"	"2012"	"Suicide"	"2"	39	275422	14.2
+	"Atlantic County, NJ"	"34001"	"2012"	"2012"	"Homicide"	"3"	30	275422	10.9
+	"Atlantic County, NJ"	"34001"	"2013"	"2013"	"Unintentional"	"1"	155	275862	56.2
+	"Atlantic County, NJ"	"34001"	"2013"	"2013"	"Suicide"	"2"	28	275862	10.2
+	"Atlantic County, NJ"	"34001"	"2013"	"2013"	"Homicide"	"3"	13	275862	Unreliable
+	"Atlantic County, NJ"	"34001"	"2014"	"2014"	"Unintentional"	"1"	125	275209	45.4
+	"Atlantic County, NJ"	"34001"	"2014"	"2014"	"Suicide"	"2"	38	275209	13.8
+	"Atlantic County, NJ"	"34001"	"2014"	"2014"	"Homicide"	"3"	15	275209	Unreliable
+	"Atlantic County, NJ"	"34001"	"2015"	"2015"	"Unintentional"	"1"	123	274219	44.9
+	"Atlantic County, NJ"	"34001"	"2015"	"2015"	"Suicide"	"2"	36	274219	13.1
+	"Atlantic County, NJ"	"34001"	"2015"	"2015"	"Homicide"	"3"	19	274219	Unreliable
+	"Atlantic County, NJ"	"34001"	"2016"	"2016"	"Unintentional"	"1"	173	270991	63.8
+	"Atlantic County, NJ"	"34001"	"2016"	"2016"	"Suicide"	"2"	33	270991	12.2
+	"Atlantic County, NJ"	"34001"	"2016"	"2016"	"Homicide"	"3"	21	270991	7.7
+	"Atlantic County, NJ"	"34001"	"2017"	"2017"	"Unintentional"	"1"	221	269918	81.9
+	"Atlantic County, NJ"	"34001"	"2017"	"2017"	"Suicide"	"2"	47	269918	17.4
+	"Atlantic County, NJ"	"34001"	"2017"	"2017"	"Homicide"	"3"	18	269918	Unreliable
+	"Atlantic County, NJ"	"34001"	"2018"	"2018"	"Unintentional"	"1"	238	265429	89.7
+	"Atlantic County, NJ"	"34001"	"2018"	"2018"	"Suicide"	"2"	29	265429	10.9
+	"Atlantic County, NJ"	"34001"	"2018"	"2018"	"Homicide"	"3"	18	265429	Unreliable
+	"Bergen County, NJ"	"34003"	"1999"	"1999"	"Unintentional"	"1"	180	880225	20.4
+	"Bergen County, NJ"	"34003"	"1999"	"1999"	"Suicide"	"2"	44	880225	5.0
+	"Bergen County, NJ"	"34003"	"1999"	"1999"	"Homicide"	"3"	15	880225	Unreliable
+	"Bergen County, NJ"	"34003"	"1999"	"1999"	"Undetermined "	"4"	11	880225	Unreliable
+	"Bergen County, NJ"	"34003"	"2000"	"2000"	"Unintentional"	"1"	196	884118	22.2
+	"Bergen County, NJ"	"34003"	"2000"	"2000"	"Suicide"	"2"	53	884118	6.0
+	"Bergen County, NJ"	"34003"	"2000"	"2000"	"Undetermined "	"4"	16	884118	Unreliable
+	"Bergen County, NJ"	"34003"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	10	884118	Unreliable
+	"Bergen County, NJ"	"34003"	"2001"	"2001"	"Unintentional"	"1"	188	888782	21.2
+	"Bergen County, NJ"	"34003"	"2001"	"2001"	"Suicide"	"2"	61	888782	6.9
+	"Bergen County, NJ"	"34003"	"2001"	"2001"	"Homicide"	"3"	15	888782	Unreliable
+	"Bergen County, NJ"	"34003"	"2001"	"2001"	"Undetermined "	"4"	11	888782	Unreliable
+	"Bergen County, NJ"	"34003"	"2002"	"2002"	"Unintentional"	"1"	210	890647	23.6
+	"Bergen County, NJ"	"34003"	"2002"	"2002"	"Suicide"	"2"	61	890647	6.8
+	"Bergen County, NJ"	"34003"	"2002"	"2002"	"Homicide"	"3"	11	890647	Unreliable
+	"Bergen County, NJ"	"34003"	"2002"	"2002"	"Undetermined "	"4"	12	890647	Unreliable
+	"Bergen County, NJ"	"34003"	"2003"	"2003"	"Unintentional"	"1"	197	892214	22.1
+	"Bergen County, NJ"	"34003"	"2003"	"2003"	"Suicide"	"2"	53	892214	5.9
+	"Bergen County, NJ"	"34003"	"2003"	"2003"	"Homicide"	"3"	17	892214	Unreliable
+	"Bergen County, NJ"	"34003"	"2004"	"2004"	"Unintentional"	"1"	197	893378	22.1
+	"Bergen County, NJ"	"34003"	"2004"	"2004"	"Suicide"	"2"	64	893378	7.2
+	"Bergen County, NJ"	"34003"	"2004"	"2004"	"Homicide"	"3"	12	893378	Unreliable
+	"Bergen County, NJ"	"34003"	"2004"	"2004"	"Undetermined "	"4"	10	893378	Unreliable
+	"Bergen County, NJ"	"34003"	"2005"	"2005"	"Unintentional"	"1"	223	891446	25.0
+	"Bergen County, NJ"	"34003"	"2005"	"2005"	"Suicide"	"2"	48	891446	5.4
+	"Bergen County, NJ"	"34003"	"2006"	"2006"	"Unintentional"	"1"	179	889406	20.1
+	"Bergen County, NJ"	"34003"	"2006"	"2006"	"Suicide"	"2"	64	889406	7.2
+	"Bergen County, NJ"	"34003"	"2006"	"2006"	"Homicide"	"3"	13	889406	Unreliable
+	"Bergen County, NJ"	"34003"	"2007"	"2007"	"Unintentional"	"1"	214	890817	24.0
+	"Bergen County, NJ"	"34003"	"2007"	"2007"	"Suicide"	"2"	74	890817	8.3
+	"Bergen County, NJ"	"34003"	"2007"	"2007"	"Homicide"	"3"	16	890817	Unreliable
+	"Bergen County, NJ"	"34003"	"2007"	"2007"	"Undetermined "	"4"	12	890817	Unreliable
+	"Bergen County, NJ"	"34003"	"2008"	"2008"	"Unintentional"	"1"	216	895328	24.1
+	"Bergen County, NJ"	"34003"	"2008"	"2008"	"Suicide"	"2"	68	895328	7.6
+	"Bergen County, NJ"	"34003"	"2009"	"2009"	"Unintentional"	"1"	140	900319	15.6
+	"Bergen County, NJ"	"34003"	"2009"	"2009"	"Suicide"	"2"	44	900319	4.9
+	"Bergen County, NJ"	"34003"	"2010"	"2010"	"Unintentional"	"1"	203	905116	22.4
+	"Bergen County, NJ"	"34003"	"2010"	"2010"	"Suicide"	"2"	74	905116	8.2
+	"Bergen County, NJ"	"34003"	"2010"	"2010"	"Homicide"	"3"	17	905116	Unreliable
+	"Bergen County, NJ"	"34003"	"2011"	"2011"	"Unintentional"	"1"	210	911004	23.1
+	"Bergen County, NJ"	"34003"	"2011"	"2011"	"Suicide"	"2"	59	911004	6.5
+	"Bergen County, NJ"	"34003"	"2011"	"2011"	"Homicide"	"3"	11	911004	Unreliable
+	"Bergen County, NJ"	"34003"	"2012"	"2012"	"Unintentional"	"1"	245	918888	26.7
+	"Bergen County, NJ"	"34003"	"2012"	"2012"	"Suicide"	"2"	70	918888	7.6
+	"Bergen County, NJ"	"34003"	"2013"	"2013"	"Unintentional"	"1"	254	925328	27.4
+	"Bergen County, NJ"	"34003"	"2013"	"2013"	"Suicide"	"2"	70	925328	7.6
+	"Bergen County, NJ"	"34003"	"2013"	"2013"	"Homicide"	"3"	11	925328	Unreliable
+	"Bergen County, NJ"	"34003"	"2014"	"2014"	"Unintentional"	"1"	254	933572	27.2
+	"Bergen County, NJ"	"34003"	"2014"	"2014"	"Suicide"	"2"	84	933572	9.0
+	"Bergen County, NJ"	"34003"	"2014"	"2014"	"Homicide"	"3"	15	933572	Unreliable
+	"Bergen County, NJ"	"34003"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	933572	Unreliable
+	"Bergen County, NJ"	"34003"	"2015"	"2015"	"Unintentional"	"1"	246	938506	26.2
+	"Bergen County, NJ"	"34003"	"2015"	"2015"	"Suicide"	"2"	66	938506	7.0
+	"Bergen County, NJ"	"34003"	"2015"	"2015"	"Homicide"	"3"	20	938506	2.1
+	"Bergen County, NJ"	"34003"	"2016"	"2016"	"Unintentional"	"1"	273	939151	29.1
+	"Bergen County, NJ"	"34003"	"2016"	"2016"	"Suicide"	"2"	77	939151	8.2
+	"Bergen County, NJ"	"34003"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	10	939151	Unreliable
+	"Bergen County, NJ"	"34003"	"2017"	"2017"	"Unintentional"	"1"	302	948406	31.8
+	"Bergen County, NJ"	"34003"	"2017"	"2017"	"Suicide"	"2"	71	948406	7.5
+	"Bergen County, NJ"	"34003"	"2017"	"2017"	"Homicide"	"3"	10	948406	Unreliable
+	"Bergen County, NJ"	"34003"	"2018"	"2018"	"Unintentional"	"1"	323	936692	34.5
+	"Bergen County, NJ"	"34003"	"2018"	"2018"	"Suicide"	"2"	89	936692	9.5
+	"Burlington County, NJ"	"34005"	"1999"	"1999"	"Unintentional"	"1"	134	420542	31.9
+	"Burlington County, NJ"	"34005"	"1999"	"1999"	"Suicide"	"2"	33	420542	7.8
+	"Burlington County, NJ"	"34005"	"2000"	"2000"	"Unintentional"	"1"	120	423394	28.3
+	"Burlington County, NJ"	"34005"	"2000"	"2000"	"Suicide"	"2"	42	423394	9.9
+	"Burlington County, NJ"	"34005"	"2001"	"2001"	"Unintentional"	"1"	150	429727	34.9
+	"Burlington County, NJ"	"34005"	"2001"	"2001"	"Suicide"	"2"	29	429727	6.7
+	"Burlington County, NJ"	"34005"	"2001"	"2001"	"Homicide"	"3"	10	429727	Unreliable
+	"Burlington County, NJ"	"34005"	"2002"	"2002"	"Unintentional"	"1"	146	436445	33.5
+	"Burlington County, NJ"	"34005"	"2002"	"2002"	"Suicide"	"2"	39	436445	8.9
+	"Burlington County, NJ"	"34005"	"2002"	"2002"	"Homicide"	"3"	14	436445	Unreliable
+	"Burlington County, NJ"	"34005"	"2003"	"2003"	"Unintentional"	"1"	134	442434	30.3
+	"Burlington County, NJ"	"34005"	"2003"	"2003"	"Suicide"	"2"	38	442434	8.6
+	"Burlington County, NJ"	"34005"	"2003"	"2003"	"Homicide"	"3"	17	442434	Unreliable
+	"Burlington County, NJ"	"34005"	"2004"	"2004"	"Unintentional"	"1"	145	446548	32.5
+	"Burlington County, NJ"	"34005"	"2004"	"2004"	"Suicide"	"2"	31	446548	6.9
+	"Burlington County, NJ"	"34005"	"2005"	"2005"	"Unintentional"	"1"	119	447245	26.6
+	"Burlington County, NJ"	"34005"	"2005"	"2005"	"Suicide"	"2"	29	447245	6.5
+	"Burlington County, NJ"	"34005"	"2005"	"2005"	"Homicide"	"3"	11	447245	Unreliable
+	"Burlington County, NJ"	"34005"	"2005"	"2005"	"Undetermined "	"4"	10	447245	Unreliable
+	"Burlington County, NJ"	"34005"	"2006"	"2006"	"Unintentional"	"1"	153	448373	34.1
+	"Burlington County, NJ"	"34005"	"2006"	"2006"	"Suicide"	"2"	36	448373	8.0
+	"Burlington County, NJ"	"34005"	"2006"	"2006"	"Homicide"	"3"	16	448373	Unreliable
+	"Burlington County, NJ"	"34005"	"2007"	"2007"	"Unintentional"	"1"	132	447560	29.5
+	"Burlington County, NJ"	"34005"	"2007"	"2007"	"Suicide"	"2"	27	447560	6.0
+	"Burlington County, NJ"	"34005"	"2008"	"2008"	"Unintentional"	"1"	139	446831	31.1
+	"Burlington County, NJ"	"34005"	"2008"	"2008"	"Suicide"	"2"	32	446831	7.2
+	"Burlington County, NJ"	"34005"	"2008"	"2008"	"Homicide"	"3"	12	446831	Unreliable
+	"Burlington County, NJ"	"34005"	"2009"	"2009"	"Unintentional"	"1"	131	447391	29.3
+	"Burlington County, NJ"	"34005"	"2009"	"2009"	"Suicide"	"2"	28	447391	6.3
+	"Burlington County, NJ"	"34005"	"2009"	"2009"	"Homicide"	"3"	10	447391	Unreliable
+	"Burlington County, NJ"	"34005"	"2010"	"2010"	"Unintentional"	"1"	132	448734	29.4
+	"Burlington County, NJ"	"34005"	"2010"	"2010"	"Suicide"	"2"	38	448734	8.5
+	"Burlington County, NJ"	"34005"	"2010"	"2010"	"Homicide"	"3"	10	448734	Unreliable
+	"Burlington County, NJ"	"34005"	"2011"	"2011"	"Unintentional"	"1"	175	449576	38.9
+	"Burlington County, NJ"	"34005"	"2011"	"2011"	"Suicide"	"2"	37	449576	8.2
+	"Burlington County, NJ"	"34005"	"2011"	"2011"	"Homicide"	"3"	10	449576	Unreliable
+	"Burlington County, NJ"	"34005"	"2011"	"2011"	"Undetermined "	"4"	11	449576	Unreliable
+	"Burlington County, NJ"	"34005"	"2012"	"2012"	"Unintentional"	"1"	186	451336	41.2
+	"Burlington County, NJ"	"34005"	"2012"	"2012"	"Suicide"	"2"	34	451336	7.5
+	"Burlington County, NJ"	"34005"	"2012"	"2012"	"Undetermined "	"4"	10	451336	Unreliable
+	"Burlington County, NJ"	"34005"	"2013"	"2013"	"Unintentional"	"1"	166	450838	36.8
+	"Burlington County, NJ"	"34005"	"2013"	"2013"	"Suicide"	"2"	48	450838	10.6
+	"Burlington County, NJ"	"34005"	"2013"	"2013"	"Homicide"	"3"	10	450838	Unreliable
+	"Burlington County, NJ"	"34005"	"2014"	"2014"	"Unintentional"	"1"	164	449722	36.5
+	"Burlington County, NJ"	"34005"	"2014"	"2014"	"Suicide"	"2"	58	449722	12.9
+	"Burlington County, NJ"	"34005"	"2014"	"2014"	"Homicide"	"3"	14	449722	Unreliable
+	"Burlington County, NJ"	"34005"	"2015"	"2015"	"Unintentional"	"1"	195	450226	43.3
+	"Burlington County, NJ"	"34005"	"2015"	"2015"	"Suicide"	"2"	48	450226	10.7
+	"Burlington County, NJ"	"34005"	"2016"	"2016"	"Unintentional"	"1"	219	449284	48.7
+	"Burlington County, NJ"	"34005"	"2016"	"2016"	"Suicide"	"2"	49	449284	10.9
+	"Burlington County, NJ"	"34005"	"2016"	"2016"	"Homicide"	"3"	21	449284	4.7
+	"Burlington County, NJ"	"34005"	"2017"	"2017"	"Unintentional"	"1"	284	448596	63.3
+	"Burlington County, NJ"	"34005"	"2017"	"2017"	"Suicide"	"2"	47	448596	10.5
+	"Burlington County, NJ"	"34005"	"2017"	"2017"	"Homicide"	"3"	13	448596	Unreliable
+	"Burlington County, NJ"	"34005"	"2018"	"2018"	"Unintentional"	"1"	271	445384	60.8
+	"Burlington County, NJ"	"34005"	"2018"	"2018"	"Suicide"	"2"	48	445384	10.8
+	"Camden County, NJ"	"34007"	"1999"	"1999"	"Unintentional"	"1"	159	509410	31.2
+	"Camden County, NJ"	"34007"	"1999"	"1999"	"Suicide"	"2"	39	509410	7.7
+	"Camden County, NJ"	"34007"	"1999"	"1999"	"Homicide"	"3"	34	509410	6.7
+	"Camden County, NJ"	"34007"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	17	509410	Unreliable
+	"Camden County, NJ"	"34007"	"2000"	"2000"	"Unintentional"	"1"	206	508932	40.5
+	"Camden County, NJ"	"34007"	"2000"	"2000"	"Suicide"	"2"	38	508932	7.5
+	"Camden County, NJ"	"34007"	"2000"	"2000"	"Homicide"	"3"	35	508932	6.9
+	"Camden County, NJ"	"34007"	"2001"	"2001"	"Unintentional"	"1"	185	506326	36.5
+	"Camden County, NJ"	"34007"	"2001"	"2001"	"Suicide"	"2"	47	506326	9.3
+	"Camden County, NJ"	"34007"	"2001"	"2001"	"Homicide"	"3"	27	506326	5.3
+	"Camden County, NJ"	"34007"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	16	506326	Unreliable
+	"Camden County, NJ"	"34007"	"2002"	"2002"	"Unintentional"	"1"	193	507899	38.0
+	"Camden County, NJ"	"34007"	"2002"	"2002"	"Suicide"	"2"	39	507899	7.7
+	"Camden County, NJ"	"34007"	"2002"	"2002"	"Homicide"	"3"	46	507899	9.1
+	"Camden County, NJ"	"34007"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	12	507899	Unreliable
+	"Camden County, NJ"	"34007"	"2003"	"2003"	"Unintentional"	"1"	152	508563	29.9
+	"Camden County, NJ"	"34007"	"2003"	"2003"	"Suicide"	"2"	66	508563	13.0
+	"Camden County, NJ"	"34007"	"2003"	"2003"	"Homicide"	"3"	51	508563	10.0
+	"Camden County, NJ"	"34007"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	18	508563	Unreliable
+	"Camden County, NJ"	"34007"	"2004"	"2004"	"Unintentional"	"1"	178	510137	34.9
+	"Camden County, NJ"	"34007"	"2004"	"2004"	"Suicide"	"2"	51	510137	10.0
+	"Camden County, NJ"	"34007"	"2004"	"2004"	"Homicide"	"3"	61	510137	12.0
+	"Camden County, NJ"	"34007"	"2005"	"2005"	"Unintentional"	"1"	197	511982	38.5
+	"Camden County, NJ"	"34007"	"2005"	"2005"	"Suicide"	"2"	55	511982	10.7
+	"Camden County, NJ"	"34007"	"2005"	"2005"	"Homicide"	"3"	36	511982	7.0
+	"Camden County, NJ"	"34007"	"2006"	"2006"	"Unintentional"	"1"	270	513195	52.6
+	"Camden County, NJ"	"34007"	"2006"	"2006"	"Suicide"	"2"	47	513195	9.2
+	"Camden County, NJ"	"34007"	"2006"	"2006"	"Homicide"	"3"	36	513195	7.0
+	"Camden County, NJ"	"34007"	"2007"	"2007"	"Unintentional"	"1"	225	513546	43.8
+	"Camden County, NJ"	"34007"	"2007"	"2007"	"Suicide"	"2"	55	513546	10.7
+	"Camden County, NJ"	"34007"	"2007"	"2007"	"Homicide"	"3"	46	513546	9.0
+	"Camden County, NJ"	"34007"	"2008"	"2008"	"Unintentional"	"1"	197	513853	38.3
+	"Camden County, NJ"	"34007"	"2008"	"2008"	"Suicide"	"2"	40	513853	7.8
+	"Camden County, NJ"	"34007"	"2008"	"2008"	"Homicide"	"3"	62	513853	12.1
+	"Camden County, NJ"	"34007"	"2009"	"2009"	"Unintentional"	"1"	190	513668	37.0
+	"Camden County, NJ"	"34007"	"2009"	"2009"	"Suicide"	"2"	50	513668	9.7
+	"Camden County, NJ"	"34007"	"2009"	"2009"	"Homicide"	"3"	43	513668	8.4
+	"Camden County, NJ"	"34007"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	14	513668	Unreliable
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Unintentional"	"1"	203	513657	39.5
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Suicide"	"2"	59	513657	11.5
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Homicide"	"3"	40	513657	7.8
+	"Camden County, NJ"	"34007"	"2011"	"2011"	"Unintentional"	"1"	238	513241	46.4
+	"Camden County, NJ"	"34007"	"2011"	"2011"	"Suicide"	"2"	55	513241	10.7
+	"Camden County, NJ"	"34007"	"2011"	"2011"	"Homicide"	"3"	56	513241	10.9
+	"Camden County, NJ"	"34007"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	11	513241	Unreliable
+	"Camden County, NJ"	"34007"	"2012"	"2012"	"Unintentional"	"1"	212	513539	41.3
+	"Camden County, NJ"	"34007"	"2012"	"2012"	"Suicide"	"2"	49	513539	9.5
+	"Camden County, NJ"	"34007"	"2012"	"2012"	"Homicide"	"3"	72	513539	14.0
+	"Camden County, NJ"	"34007"	"2013"	"2013"	"Unintentional"	"1"	252	512854	49.1
+	"Camden County, NJ"	"34007"	"2013"	"2013"	"Suicide"	"2"	51	512854	9.9
+	"Camden County, NJ"	"34007"	"2013"	"2013"	"Homicide"	"3"	55	512854	10.7
+	"Camden County, NJ"	"34007"	"2014"	"2014"	"Unintentional"	"1"	257	511038	50.3
+	"Camden County, NJ"	"34007"	"2014"	"2014"	"Suicide"	"2"	54	511038	10.6
+	"Camden County, NJ"	"34007"	"2014"	"2014"	"Homicide"	"3"	40	511038	7.8
+	"Camden County, NJ"	"34007"	"2015"	"2015"	"Unintentional"	"1"	254	510923	49.7
+	"Camden County, NJ"	"34007"	"2015"	"2015"	"Suicide"	"2"	56	510923	11.0
+	"Camden County, NJ"	"34007"	"2015"	"2015"	"Homicide"	"3"	38	510923	7.4
+	"Camden County, NJ"	"34007"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	15	510923	Unreliable
+	"Camden County, NJ"	"34007"	"2016"	"2016"	"Unintentional"	"1"	311	510150	61.0
+	"Camden County, NJ"	"34007"	"2016"	"2016"	"Suicide"	"2"	49	510150	9.6
+	"Camden County, NJ"	"34007"	"2016"	"2016"	"Homicide"	"3"	54	510150	10.6
+	"Camden County, NJ"	"34007"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	12	510150	Unreliable
+	"Camden County, NJ"	"34007"	"2017"	"2017"	"Unintentional"	"1"	396	510719	77.5
+	"Camden County, NJ"	"34007"	"2017"	"2017"	"Suicide"	"2"	53	510719	10.4
+	"Camden County, NJ"	"34007"	"2017"	"2017"	"Homicide"	"3"	36	510719	7.0
+	"Camden County, NJ"	"34007"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	21	510719	4.1
+	"Camden County, NJ"	"34007"	"2018"	"2018"	"Unintentional"	"1"	415	507078	81.8
+	"Camden County, NJ"	"34007"	"2018"	"2018"	"Suicide"	"2"	57	507078	11.2
+	"Camden County, NJ"	"34007"	"2018"	"2018"	"Homicide"	"3"	35	507078	6.9
+	"Cape May County, NJ"	"34009"	"1999"	"1999"	"Unintentional"	"1"	36	102135	35.2
+	"Cape May County, NJ"	"34009"	"2000"	"2000"	"Unintentional"	"1"	32	102326	31.3
+	"Cape May County, NJ"	"34009"	"2001"	"2001"	"Unintentional"	"1"	31	102023	30.4
+	"Cape May County, NJ"	"34009"	"2001"	"2001"	"Suicide"	"2"	11	102023	Unreliable
+	"Cape May County, NJ"	"34009"	"2002"	"2002"	"Unintentional"	"1"	34	101694	33.4
+	"Cape May County, NJ"	"34009"	"2003"	"2003"	"Unintentional"	"1"	45	101710	44.2
+	"Cape May County, NJ"	"34009"	"2004"	"2004"	"Unintentional"	"1"	41	100482	40.8
+	"Cape May County, NJ"	"34009"	"2005"	"2005"	"Unintentional"	"1"	58	99269	58.4
+	"Cape May County, NJ"	"34009"	"2005"	"2005"	"Suicide"	"2"	14	99269	Unreliable
+	"Cape May County, NJ"	"34009"	"2006"	"2006"	"Unintentional"	"1"	61	98695	61.8
+	"Cape May County, NJ"	"34009"	"2006"	"2006"	"Suicide"	"2"	15	98695	Unreliable
+	"Cape May County, NJ"	"34009"	"2007"	"2007"	"Unintentional"	"1"	45	97686	46.1
+	"Cape May County, NJ"	"34009"	"2008"	"2008"	"Unintentional"	"1"	39	97550	40.0
+	"Cape May County, NJ"	"34009"	"2008"	"2008"	"Suicide"	"2"	14	97550	Unreliable
+	"Cape May County, NJ"	"34009"	"2009"	"2009"	"Unintentional"	"1"	30	97238	30.9
+	"Cape May County, NJ"	"34009"	"2009"	"2009"	"Suicide"	"2"	17	97238	Unreliable
+	"Cape May County, NJ"	"34009"	"2010"	"2010"	"Unintentional"	"1"	39	97265	40.1
+	"Cape May County, NJ"	"34009"	"2010"	"2010"	"Suicide"	"2"	15	97265	Unreliable
+	"Cape May County, NJ"	"34009"	"2011"	"2011"	"Unintentional"	"1"	41	96601	42.4
+	"Cape May County, NJ"	"34009"	"2011"	"2011"	"Suicide"	"2"	10	96601	Unreliable
+	"Cape May County, NJ"	"34009"	"2012"	"2012"	"Unintentional"	"1"	60	96304	62.3
+	"Cape May County, NJ"	"34009"	"2012"	"2012"	"Suicide"	"2"	14	96304	Unreliable
+	"Cape May County, NJ"	"34009"	"2013"	"2013"	"Unintentional"	"1"	66	95897	68.8
+	"Cape May County, NJ"	"34009"	"2013"	"2013"	"Suicide"	"2"	11	95897	Unreliable
+	"Cape May County, NJ"	"34009"	"2014"	"2014"	"Unintentional"	"1"	60	95344	62.9
+	"Cape May County, NJ"	"34009"	"2014"	"2014"	"Suicide"	"2"	15	95344	Unreliable
+	"Cape May County, NJ"	"34009"	"2015"	"2015"	"Unintentional"	"1"	62	94727	65.5
+	"Cape May County, NJ"	"34009"	"2015"	"2015"	"Suicide"	"2"	16	94727	Unreliable
+	"Cape May County, NJ"	"34009"	"2016"	"2016"	"Unintentional"	"1"	71	94430	75.2
+	"Cape May County, NJ"	"34009"	"2017"	"2017"	"Unintentional"	"1"	90	93553	96.2
+	"Cape May County, NJ"	"34009"	"2017"	"2017"	"Suicide"	"2"	10	93553	Unreliable
+	"Cape May County, NJ"	"34009"	"2018"	"2018"	"Unintentional"	"1"	84	92560	90.8
+	"Cumberland County, NJ"	"34011"	"1999"	"1999"	"Unintentional"	"1"	55	146293	37.6
+	"Cumberland County, NJ"	"34011"	"1999"	"1999"	"Suicide"	"2"	15	146293	Unreliable
+	"Cumberland County, NJ"	"34011"	"2000"	"2000"	"Unintentional"	"1"	50	146438	34.1
+	"Cumberland County, NJ"	"34011"	"2000"	"2000"	"Suicide"	"2"	13	146438	Unreliable
+	"Cumberland County, NJ"	"34011"	"2001"	"2001"	"Unintentional"	"1"	62	146451	42.3
+	"Cumberland County, NJ"	"34011"	"2002"	"2002"	"Unintentional"	"1"	58	147294	39.4
+	"Cumberland County, NJ"	"34011"	"2002"	"2002"	"Suicide"	"2"	12	147294	Unreliable
+	"Cumberland County, NJ"	"34011"	"2003"	"2003"	"Unintentional"	"1"	82	148437	55.2
+	"Cumberland County, NJ"	"34011"	"2003"	"2003"	"Suicide"	"2"	11	148437	Unreliable
+	"Cumberland County, NJ"	"34011"	"2003"	"2003"	"Homicide"	"3"	16	148437	Unreliable
+	"Cumberland County, NJ"	"34011"	"2004"	"2004"	"Unintentional"	"1"	60	149837	40.0
+	"Cumberland County, NJ"	"34011"	"2004"	"2004"	"Suicide"	"2"	19	149837	Unreliable
+	"Cumberland County, NJ"	"34011"	"2005"	"2005"	"Unintentional"	"1"	84	152022	55.3
+	"Cumberland County, NJ"	"34011"	"2005"	"2005"	"Suicide"	"2"	16	152022	Unreliable
+	"Cumberland County, NJ"	"34011"	"2005"	"2005"	"Homicide"	"3"	11	152022	Unreliable
+	"Cumberland County, NJ"	"34011"	"2006"	"2006"	"Unintentional"	"1"	85	153371	55.4
+	"Cumberland County, NJ"	"34011"	"2006"	"2006"	"Homicide"	"3"	15	153371	Unreliable
+	"Cumberland County, NJ"	"34011"	"2007"	"2007"	"Unintentional"	"1"	59	154489	38.2
+	"Cumberland County, NJ"	"34011"	"2007"	"2007"	"Suicide"	"2"	11	154489	Unreliable
+	"Cumberland County, NJ"	"34011"	"2007"	"2007"	"Homicide"	"3"	11	154489	Unreliable
+	"Cumberland County, NJ"	"34011"	"2008"	"2008"	"Unintentional"	"1"	56	155738	36.0
+	"Cumberland County, NJ"	"34011"	"2008"	"2008"	"Suicide"	"2"	19	155738	Unreliable
+	"Cumberland County, NJ"	"34011"	"2008"	"2008"	"Homicide"	"3"	19	155738	Unreliable
+	"Cumberland County, NJ"	"34011"	"2009"	"2009"	"Unintentional"	"1"	55	156531	35.1
+	"Cumberland County, NJ"	"34011"	"2009"	"2009"	"Suicide"	"2"	13	156531	Unreliable
+	"Cumberland County, NJ"	"34011"	"2010"	"2010"	"Unintentional"	"1"	56	156898	35.7
+	"Cumberland County, NJ"	"34011"	"2010"	"2010"	"Suicide"	"2"	11	156898	Unreliable
+	"Cumberland County, NJ"	"34011"	"2010"	"2010"	"Homicide"	"3"	13	156898	Unreliable
+	"Cumberland County, NJ"	"34011"	"2011"	"2011"	"Unintentional"	"1"	53	157095	33.7
+	"Cumberland County, NJ"	"34011"	"2011"	"2011"	"Suicide"	"2"	16	157095	Unreliable
+	"Cumberland County, NJ"	"34011"	"2011"	"2011"	"Homicide"	"3"	12	157095	Unreliable
+	"Cumberland County, NJ"	"34011"	"2012"	"2012"	"Unintentional"	"1"	70	157785	44.4
+	"Cumberland County, NJ"	"34011"	"2012"	"2012"	"Suicide"	"2"	11	157785	Unreliable
+	"Cumberland County, NJ"	"34011"	"2013"	"2013"	"Unintentional"	"1"	83	157332	52.8
+	"Cumberland County, NJ"	"34011"	"2013"	"2013"	"Suicide"	"2"	17	157332	Unreliable
+	"Cumberland County, NJ"	"34011"	"2014"	"2014"	"Unintentional"	"1"	73	157389	46.4
+	"Cumberland County, NJ"	"34011"	"2014"	"2014"	"Suicide"	"2"	10	157389	Unreliable
+	"Cumberland County, NJ"	"34011"	"2014"	"2014"	"Homicide"	"3"	17	157389	Unreliable
+	"Cumberland County, NJ"	"34011"	"2015"	"2015"	"Unintentional"	"1"	80	155854	51.3
+	"Cumberland County, NJ"	"34011"	"2015"	"2015"	"Suicide"	"2"	18	155854	Unreliable
+	"Cumberland County, NJ"	"34011"	"2015"	"2015"	"Homicide"	"3"	17	155854	Unreliable
+	"Cumberland County, NJ"	"34011"	"2016"	"2016"	"Unintentional"	"1"	115	153797	74.8
+	"Cumberland County, NJ"	"34011"	"2016"	"2016"	"Homicide"	"3"	12	153797	Unreliable
+	"Cumberland County, NJ"	"34011"	"2017"	"2017"	"Unintentional"	"1"	131	152538	85.9
+	"Cumberland County, NJ"	"34011"	"2017"	"2017"	"Suicide"	"2"	13	152538	Unreliable
+	"Cumberland County, NJ"	"34011"	"2017"	"2017"	"Homicide"	"3"	13	152538	Unreliable
+	"Cumberland County, NJ"	"34011"	"2018"	"2018"	"Unintentional"	"1"	153	150972	101.3
+	"Cumberland County, NJ"	"34011"	"2018"	"2018"	"Suicide"	"2"	17	150972	Unreliable
+	"Cumberland County, NJ"	"34011"	"2018"	"2018"	"Homicide"	"3"	14	150972	Unreliable
+	"Essex County, NJ"	"34013"	"1999"	"1999"	"Unintentional"	"1"	265	789678	33.6
+	"Essex County, NJ"	"34013"	"1999"	"1999"	"Suicide"	"2"	40	789678	5.1
+	"Essex County, NJ"	"34013"	"1999"	"1999"	"Homicide"	"3"	104	789678	13.2
+	"Essex County, NJ"	"34013"	"2000"	"2000"	"Unintentional"	"1"	243	793633	30.6
+	"Essex County, NJ"	"34013"	"2000"	"2000"	"Suicide"	"2"	40	793633	5.0
+	"Essex County, NJ"	"34013"	"2000"	"2000"	"Homicide"	"3"	106	793633	13.4
+	"Essex County, NJ"	"34013"	"2001"	"2001"	"Unintentional"	"1"	259	794312	32.6
+	"Essex County, NJ"	"34013"	"2001"	"2001"	"Suicide"	"2"	57	794312	7.2
+	"Essex County, NJ"	"34013"	"2001"	"2001"	"Homicide"	"3"	126	794312	15.9
+	"Essex County, NJ"	"34013"	"2002"	"2002"	"Unintentional"	"1"	314	795625	39.5
+	"Essex County, NJ"	"34013"	"2002"	"2002"	"Suicide"	"2"	38	795625	4.8
+	"Essex County, NJ"	"34013"	"2002"	"2002"	"Homicide"	"3"	90	795625	11.3
+	"Essex County, NJ"	"34013"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	11	795625	Unreliable
+	"Essex County, NJ"	"34013"	"2003"	"2003"	"Unintentional"	"1"	262	795167	32.9
+	"Essex County, NJ"	"34013"	"2003"	"2003"	"Suicide"	"2"	36	795167	4.5
+	"Essex County, NJ"	"34013"	"2003"	"2003"	"Homicide"	"3"	137	795167	17.2
+	"Essex County, NJ"	"34013"	"2004"	"2004"	"Unintentional"	"1"	226	791305	28.6
+	"Essex County, NJ"	"34013"	"2004"	"2004"	"Suicide"	"2"	47	791305	5.9
+	"Essex County, NJ"	"34013"	"2004"	"2004"	"Homicide"	"3"	141	791305	17.8
+	"Essex County, NJ"	"34013"	"2005"	"2005"	"Unintentional"	"1"	301	786341	38.3
+	"Essex County, NJ"	"34013"	"2005"	"2005"	"Suicide"	"2"	33	786341	4.2
+	"Essex County, NJ"	"34013"	"2005"	"2005"	"Homicide"	"3"	150	786341	19.1
+	"Essex County, NJ"	"34013"	"2005"	"2005"	"Undetermined "	"4"	12	786341	Unreliable
+	"Essex County, NJ"	"34013"	"2006"	"2006"	"Unintentional"	"1"	248	781027	31.8
+	"Essex County, NJ"	"34013"	"2006"	"2006"	"Suicide"	"2"	39	781027	5.0
+	"Essex County, NJ"	"34013"	"2006"	"2006"	"Homicide"	"3"	147	781027	18.8
+	"Essex County, NJ"	"34013"	"2007"	"2007"	"Unintentional"	"1"	215	778996	27.6
+	"Essex County, NJ"	"34013"	"2007"	"2007"	"Suicide"	"2"	38	778996	4.9
+	"Essex County, NJ"	"34013"	"2007"	"2007"	"Homicide"	"3"	133	778996	17.1
+	"Essex County, NJ"	"34013"	"2008"	"2008"	"Unintentional"	"1"	219	778165	28.1
+	"Essex County, NJ"	"34013"	"2008"	"2008"	"Suicide"	"2"	29	778165	3.7
+	"Essex County, NJ"	"34013"	"2008"	"2008"	"Homicide"	"3"	106	778165	13.6
+	"Essex County, NJ"	"34013"	"2009"	"2009"	"Unintentional"	"1"	132	781943	16.9
+	"Essex County, NJ"	"34013"	"2009"	"2009"	"Suicide"	"2"	38	781943	4.9
+	"Essex County, NJ"	"34013"	"2009"	"2009"	"Homicide"	"3"	114	781943	14.6
+	"Essex County, NJ"	"34013"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	10	781943	Unreliable
+	"Essex County, NJ"	"34013"	"2010"	"2010"	"Unintentional"	"1"	225	783969	28.7
+	"Essex County, NJ"	"34013"	"2010"	"2010"	"Suicide"	"2"	45	783969	5.7
+	"Essex County, NJ"	"34013"	"2010"	"2010"	"Homicide"	"3"	118	783969	15.1
+	"Essex County, NJ"	"34013"	"2011"	"2011"	"Unintentional"	"1"	234	785137	29.8
+	"Essex County, NJ"	"34013"	"2011"	"2011"	"Suicide"	"2"	47	785137	6.0
+	"Essex County, NJ"	"34013"	"2011"	"2011"	"Homicide"	"3"	128	785137	16.3
+	"Essex County, NJ"	"34013"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	785137	Unreliable
+	"Essex County, NJ"	"34013"	"2012"	"2012"	"Unintentional"	"1"	244	787744	31.0
+	"Essex County, NJ"	"34013"	"2012"	"2012"	"Suicide"	"2"	49	787744	6.2
+	"Essex County, NJ"	"34013"	"2012"	"2012"	"Homicide"	"3"	124	787744	15.7
+	"Essex County, NJ"	"34013"	"2012"	"2012"	"Undetermined "	"4"	11	787744	Unreliable
+	"Essex County, NJ"	"34013"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	14	787744	Unreliable
+	"Essex County, NJ"	"34013"	"2013"	"2013"	"Unintentional"	"1"	254	789565	32.2
+	"Essex County, NJ"	"34013"	"2013"	"2013"	"Suicide"	"2"	50	789565	6.3
+	"Essex County, NJ"	"34013"	"2013"	"2013"	"Homicide"	"3"	138	789565	17.5
+	"Essex County, NJ"	"34013"	"2014"	"2014"	"Unintentional"	"1"	230	795723	28.9
+	"Essex County, NJ"	"34013"	"2014"	"2014"	"Suicide"	"2"	47	795723	5.9
+	"Essex County, NJ"	"34013"	"2014"	"2014"	"Homicide"	"3"	113	795723	14.2
+	"Essex County, NJ"	"34013"	"2015"	"2015"	"Unintentional"	"1"	273	797434	34.2
+	"Essex County, NJ"	"34013"	"2015"	"2015"	"Suicide"	"2"	42	797434	5.3
+	"Essex County, NJ"	"34013"	"2015"	"2015"	"Homicide"	"3"	128	797434	16.1
+	"Essex County, NJ"	"34013"	"2016"	"2016"	"Unintentional"	"1"	349	796914	43.8
+	"Essex County, NJ"	"34013"	"2016"	"2016"	"Suicide"	"2"	47	796914	5.9
+	"Essex County, NJ"	"34013"	"2016"	"2016"	"Homicide"	"3"	115	796914	14.4
+	"Essex County, NJ"	"34013"	"2016"	"2016"	"Undetermined "	"4"	10	796914	Unreliable
+	"Essex County, NJ"	"34013"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	14	796914	Unreliable
+	"Essex County, NJ"	"34013"	"2017"	"2017"	"Unintentional"	"1"	418	808285	51.7
+	"Essex County, NJ"	"34013"	"2017"	"2017"	"Suicide"	"2"	42	808285	5.2
+	"Essex County, NJ"	"34013"	"2017"	"2017"	"Homicide"	"3"	108	808285	13.4
+	"Essex County, NJ"	"34013"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	19	808285	Unreliable
+	"Essex County, NJ"	"34013"	"2018"	"2018"	"Unintentional"	"1"	411	799767	51.4
+	"Essex County, NJ"	"34013"	"2018"	"2018"	"Suicide"	"2"	53	799767	6.6
+	"Essex County, NJ"	"34013"	"2018"	"2018"	"Homicide"	"3"	92	799767	11.5
+	"Essex County, NJ"	"34013"	"2018"	"2018"	"Undetermined "	"4"	12	799767	Unreliable
+	"Essex County, NJ"	"34013"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	799767	Unreliable
+	"Gloucester County, NJ"	"34015"	"1999"	"1999"	"Unintentional"	"1"	66	252536	26.1
+	"Gloucester County, NJ"	"34015"	"1999"	"1999"	"Suicide"	"2"	29	252536	11.5
+	"Gloucester County, NJ"	"34015"	"2000"	"2000"	"Unintentional"	"1"	89	254673	34.9
+	"Gloucester County, NJ"	"34015"	"2000"	"2000"	"Suicide"	"2"	21	254673	8.2
+	"Gloucester County, NJ"	"34015"	"2001"	"2001"	"Unintentional"	"1"	88	258783	34.0
+	"Gloucester County, NJ"	"34015"	"2001"	"2001"	"Suicide"	"2"	30	258783	11.6
+	"Gloucester County, NJ"	"34015"	"2002"	"2002"	"Unintentional"	"1"	100	262909	38.0
+	"Gloucester County, NJ"	"34015"	"2002"	"2002"	"Suicide"	"2"	19	262909	Unreliable
+	"Gloucester County, NJ"	"34015"	"2003"	"2003"	"Unintentional"	"1"	79	267445	29.5
+	"Gloucester County, NJ"	"34015"	"2003"	"2003"	"Suicide"	"2"	23	267445	8.6
+	"Gloucester County, NJ"	"34015"	"2004"	"2004"	"Unintentional"	"1"	90	271714	33.1
+	"Gloucester County, NJ"	"34015"	"2004"	"2004"	"Suicide"	"2"	12	271714	Unreliable
+	"Gloucester County, NJ"	"34015"	"2005"	"2005"	"Unintentional"	"1"	106	275122	38.5
+	"Gloucester County, NJ"	"34015"	"2005"	"2005"	"Suicide"	"2"	29	275122	10.5
+	"Gloucester County, NJ"	"34015"	"2006"	"2006"	"Unintentional"	"1"	147	280015	52.5
+	"Gloucester County, NJ"	"34015"	"2006"	"2006"	"Suicide"	"2"	26	280015	9.3
+	"Gloucester County, NJ"	"34015"	"2006"	"2006"	"Homicide"	"3"	10	280015	Unreliable
+	"Gloucester County, NJ"	"34015"	"2007"	"2007"	"Unintentional"	"1"	122	284086	42.9
+	"Gloucester County, NJ"	"34015"	"2007"	"2007"	"Suicide"	"2"	33	284086	11.6
+	"Gloucester County, NJ"	"34015"	"2008"	"2008"	"Unintentional"	"1"	123	286072	43.0
+	"Gloucester County, NJ"	"34015"	"2008"	"2008"	"Suicide"	"2"	27	286072	9.4
+	"Gloucester County, NJ"	"34015"	"2009"	"2009"	"Unintentional"	"1"	93	287362	32.4
+	"Gloucester County, NJ"	"34015"	"2009"	"2009"	"Suicide"	"2"	27	287362	9.4
+	"Gloucester County, NJ"	"34015"	"2010"	"2010"	"Unintentional"	"1"	106	288288	36.8
+	"Gloucester County, NJ"	"34015"	"2010"	"2010"	"Suicide"	"2"	20	288288	6.9
+	"Gloucester County, NJ"	"34015"	"2011"	"2011"	"Unintentional"	"1"	120	289104	41.5
+	"Gloucester County, NJ"	"34015"	"2011"	"2011"	"Suicide"	"2"	29	289104	10.0
+	"Gloucester County, NJ"	"34015"	"2012"	"2012"	"Unintentional"	"1"	145	289586	50.1
+	"Gloucester County, NJ"	"34015"	"2012"	"2012"	"Suicide"	"2"	34	289586	11.7
+	"Gloucester County, NJ"	"34015"	"2013"	"2013"	"Unintentional"	"1"	143	290265	49.3
+	"Gloucester County, NJ"	"34015"	"2013"	"2013"	"Suicide"	"2"	41	290265	14.1
+	"Gloucester County, NJ"	"34015"	"2013"	"2013"	"Homicide"	"3"	14	290265	Unreliable
+	"Gloucester County, NJ"	"34015"	"2014"	"2014"	"Unintentional"	"1"	141	290951	48.5
+	"Gloucester County, NJ"	"34015"	"2014"	"2014"	"Suicide"	"2"	20	290951	6.9
+	"Gloucester County, NJ"	"34015"	"2015"	"2015"	"Unintentional"	"1"	144	291479	49.4
+	"Gloucester County, NJ"	"34015"	"2015"	"2015"	"Suicide"	"2"	34	291479	11.7
+	"Gloucester County, NJ"	"34015"	"2016"	"2016"	"Unintentional"	"1"	174	292330	59.5
+	"Gloucester County, NJ"	"34015"	"2016"	"2016"	"Suicide"	"2"	28	292330	9.6
+	"Gloucester County, NJ"	"34015"	"2016"	"2016"	"Homicide"	"3"	12	292330	Unreliable
+	"Gloucester County, NJ"	"34015"	"2017"	"2017"	"Unintentional"	"1"	217	292206	74.3
+	"Gloucester County, NJ"	"34015"	"2017"	"2017"	"Suicide"	"2"	40	292206	13.7
+	"Gloucester County, NJ"	"34015"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	14	292206	Unreliable
+	"Gloucester County, NJ"	"34015"	"2018"	"2018"	"Unintentional"	"1"	227	291408	77.9
+	"Gloucester County, NJ"	"34015"	"2018"	"2018"	"Suicide"	"2"	33	291408	11.3
+	"Hudson County, NJ"	"34017"	"1999"	"1999"	"Unintentional"	"1"	135	603993	22.4
+	"Hudson County, NJ"	"34017"	"1999"	"1999"	"Suicide"	"2"	34	603993	5.6
+	"Hudson County, NJ"	"34017"	"1999"	"1999"	"Homicide"	"3"	20	603993	3.3
+	"Hudson County, NJ"	"34017"	"2000"	"2000"	"Unintentional"	"1"	145	608975	23.8
+	"Hudson County, NJ"	"34017"	"2000"	"2000"	"Suicide"	"2"	34	608975	5.6
+	"Hudson County, NJ"	"34017"	"2000"	"2000"	"Homicide"	"3"	28	608975	4.6
+	"Hudson County, NJ"	"34017"	"2001"	"2001"	"Unintentional"	"1"	165	616629	26.8
+	"Hudson County, NJ"	"34017"	"2001"	"2001"	"Suicide"	"2"	26	616629	4.2
+	"Hudson County, NJ"	"34017"	"2001"	"2001"	"Homicide"	"3"	32	616629	5.2
+	"Hudson County, NJ"	"34017"	"2002"	"2002"	"Unintentional"	"1"	170	615554	27.6
+	"Hudson County, NJ"	"34017"	"2002"	"2002"	"Suicide"	"2"	36	615554	5.8
+	"Hudson County, NJ"	"34017"	"2002"	"2002"	"Homicide"	"3"	32	615554	5.2
+	"Hudson County, NJ"	"34017"	"2003"	"2003"	"Unintentional"	"1"	141	614813	22.9
+	"Hudson County, NJ"	"34017"	"2003"	"2003"	"Suicide"	"2"	26	614813	4.2
+	"Hudson County, NJ"	"34017"	"2003"	"2003"	"Homicide"	"3"	39	614813	6.3
+	"Hudson County, NJ"	"34017"	"2004"	"2004"	"Unintentional"	"1"	132	614607	21.5
+	"Hudson County, NJ"	"34017"	"2004"	"2004"	"Suicide"	"2"	25	614607	4.1
+	"Hudson County, NJ"	"34017"	"2004"	"2004"	"Homicide"	"3"	33	614607	5.4
+	"Hudson County, NJ"	"34017"	"2005"	"2005"	"Unintentional"	"1"	161	614664	26.2
+	"Hudson County, NJ"	"34017"	"2005"	"2005"	"Suicide"	"2"	32	614664	5.2
+	"Hudson County, NJ"	"34017"	"2005"	"2005"	"Homicide"	"3"	47	614664	7.6
+	"Hudson County, NJ"	"34017"	"2006"	"2006"	"Unintentional"	"1"	139	613577	22.7
+	"Hudson County, NJ"	"34017"	"2006"	"2006"	"Suicide"	"2"	27	613577	4.4
+	"Hudson County, NJ"	"34017"	"2006"	"2006"	"Homicide"	"3"	33	613577	5.4
+	"Hudson County, NJ"	"34017"	"2007"	"2007"	"Unintentional"	"1"	120	613637	19.6
+	"Hudson County, NJ"	"34017"	"2007"	"2007"	"Suicide"	"2"	29	613637	4.7
+	"Hudson County, NJ"	"34017"	"2007"	"2007"	"Homicide"	"3"	34	613637	5.5
+	"Hudson County, NJ"	"34017"	"2008"	"2008"	"Unintentional"	"1"	131	619533	21.1
+	"Hudson County, NJ"	"34017"	"2008"	"2008"	"Suicide"	"2"	27	619533	4.4
+	"Hudson County, NJ"	"34017"	"2008"	"2008"	"Homicide"	"3"	34	619533	5.5
+	"Hudson County, NJ"	"34017"	"2009"	"2009"	"Unintentional"	"1"	81	628572	12.9
+	"Hudson County, NJ"	"34017"	"2009"	"2009"	"Suicide"	"2"	24	628572	3.8
+	"Hudson County, NJ"	"34017"	"2009"	"2009"	"Homicide"	"3"	30	628572	4.8
+	"Hudson County, NJ"	"34017"	"2010"	"2010"	"Unintentional"	"1"	122	634266	19.2
+	"Hudson County, NJ"	"34017"	"2010"	"2010"	"Suicide"	"2"	44	634266	6.9
+	"Hudson County, NJ"	"34017"	"2010"	"2010"	"Homicide"	"3"	38	634266	6.0
+	"Hudson County, NJ"	"34017"	"2011"	"2011"	"Unintentional"	"1"	138	641224	21.5
+	"Hudson County, NJ"	"34017"	"2011"	"2011"	"Suicide"	"2"	36	641224	5.6
+	"Hudson County, NJ"	"34017"	"2011"	"2011"	"Homicide"	"3"	27	641224	4.2
+	"Hudson County, NJ"	"34017"	"2012"	"2012"	"Unintentional"	"1"	162	652302	24.8
+	"Hudson County, NJ"	"34017"	"2012"	"2012"	"Suicide"	"2"	36	652302	5.5
+	"Hudson County, NJ"	"34017"	"2012"	"2012"	"Homicide"	"3"	20	652302	3.1
+	"Hudson County, NJ"	"34017"	"2013"	"2013"	"Unintentional"	"1"	156	660282	23.6
+	"Hudson County, NJ"	"34017"	"2013"	"2013"	"Suicide"	"2"	45	660282	6.8
+	"Hudson County, NJ"	"34017"	"2013"	"2013"	"Homicide"	"3"	26	660282	3.9
+	"Hudson County, NJ"	"34017"	"2014"	"2014"	"Unintentional"	"1"	149	669115	22.3
+	"Hudson County, NJ"	"34017"	"2014"	"2014"	"Suicide"	"2"	41	669115	6.1
+	"Hudson County, NJ"	"34017"	"2014"	"2014"	"Homicide"	"3"	25	669115	3.7
+	"Hudson County, NJ"	"34017"	"2015"	"2015"	"Unintentional"	"1"	167	674836	24.7
+	"Hudson County, NJ"	"34017"	"2015"	"2015"	"Suicide"	"2"	44	674836	6.5
+	"Hudson County, NJ"	"34017"	"2015"	"2015"	"Homicide"	"3"	33	674836	4.9
+	"Hudson County, NJ"	"34017"	"2016"	"2016"	"Unintentional"	"1"	182	677983	26.8
+	"Hudson County, NJ"	"34017"	"2016"	"2016"	"Suicide"	"2"	37	677983	5.5
+	"Hudson County, NJ"	"34017"	"2016"	"2016"	"Homicide"	"3"	33	677983	4.9
+	"Hudson County, NJ"	"34017"	"2017"	"2017"	"Unintentional"	"1"	243	691643	35.1
+	"Hudson County, NJ"	"34017"	"2017"	"2017"	"Suicide"	"2"	51	691643	7.4
+	"Hudson County, NJ"	"34017"	"2017"	"2017"	"Homicide"	"3"	27	691643	3.9
+	"Hudson County, NJ"	"34017"	"2018"	"2018"	"Unintentional"	"1"	238	676061	35.2
+	"Hudson County, NJ"	"34017"	"2018"	"2018"	"Suicide"	"2"	56	676061	8.3
+	"Hudson County, NJ"	"34017"	"2018"	"2018"	"Homicide"	"3"	27	676061	4.0
+	"Hunterdon County, NJ"	"34019"	"1999"	"1999"	"Unintentional"	"1"	26	120689	21.5
+	"Hunterdon County, NJ"	"34019"	"2000"	"2000"	"Unintentional"	"1"	32	121989	26.2
+	"Hunterdon County, NJ"	"34019"	"2001"	"2001"	"Unintentional"	"1"	29	124500	23.3
+	"Hunterdon County, NJ"	"34019"	"2001"	"2001"	"Suicide"	"2"	11	124500	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2002"	"2002"	"Unintentional"	"1"	32	125892	25.4
+	"Hunterdon County, NJ"	"34019"	"2002"	"2002"	"Suicide"	"2"	14	125892	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2003"	"2003"	"Unintentional"	"1"	33	126935	26.0
+	"Hunterdon County, NJ"	"34019"	"2003"	"2003"	"Suicide"	"2"	10	126935	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2004"	"2004"	"Unintentional"	"1"	26	127583	20.4
+	"Hunterdon County, NJ"	"34019"	"2005"	"2005"	"Unintentional"	"1"	26	128072	20.3
+	"Hunterdon County, NJ"	"34019"	"2005"	"2005"	"Suicide"	"2"	13	128072	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2006"	"2006"	"Unintentional"	"1"	45	128535	35.0
+	"Hunterdon County, NJ"	"34019"	"2007"	"2007"	"Unintentional"	"1"	27	128568	21.0
+	"Hunterdon County, NJ"	"34019"	"2007"	"2007"	"Suicide"	"2"	12	128568	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2008"	"2008"	"Unintentional"	"1"	33	128449	25.7
+	"Hunterdon County, NJ"	"34019"	"2008"	"2008"	"Suicide"	"2"	12	128449	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2009"	"2009"	"Unintentional"	"1"	24	128364	18.7
+	"Hunterdon County, NJ"	"34019"	"2009"	"2009"	"Suicide"	"2"	17	128364	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2010"	"2010"	"Unintentional"	"1"	21	128349	16.4
+	"Hunterdon County, NJ"	"34019"	"2010"	"2010"	"Suicide"	"2"	15	128349	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2011"	"2011"	"Unintentional"	"1"	38	128038	29.7
+	"Hunterdon County, NJ"	"34019"	"2011"	"2011"	"Suicide"	"2"	12	128038	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2012"	"2012"	"Unintentional"	"1"	34	127050	26.8
+	"Hunterdon County, NJ"	"34019"	"2012"	"2012"	"Suicide"	"2"	15	127050	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2013"	"2013"	"Unintentional"	"1"	31	126250	24.6
+	"Hunterdon County, NJ"	"34019"	"2014"	"2014"	"Unintentional"	"1"	35	126067	27.8
+	"Hunterdon County, NJ"	"34019"	"2014"	"2014"	"Suicide"	"2"	15	126067	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2015"	"2015"	"Unintentional"	"1"	47	125488	37.5
+	"Hunterdon County, NJ"	"34019"	"2015"	"2015"	"Suicide"	"2"	16	125488	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2016"	"2016"	"Unintentional"	"1"	48	124676	38.5
+	"Hunterdon County, NJ"	"34019"	"2016"	"2016"	"Suicide"	"2"	18	124676	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2017"	"2017"	"Unintentional"	"1"	48	125059	38.4
+	"Hunterdon County, NJ"	"34019"	"2017"	"2017"	"Suicide"	"2"	10	125059	Unreliable
+	"Hunterdon County, NJ"	"34019"	"2018"	"2018"	"Unintentional"	"1"	38	124714	30.5
+	"Hunterdon County, NJ"	"34019"	"2018"	"2018"	"Suicide"	"2"	14	124714	Unreliable
+	"Mercer County, NJ"	"34021"	"1999"	"1999"	"Unintentional"	"1"	82	348435	23.5
+	"Mercer County, NJ"	"34021"	"1999"	"1999"	"Suicide"	"2"	16	348435	Unreliable
+	"Mercer County, NJ"	"34021"	"1999"	"1999"	"Homicide"	"3"	14	348435	Unreliable
+	"Mercer County, NJ"	"34021"	"2000"	"2000"	"Unintentional"	"1"	101	350761	28.8
+	"Mercer County, NJ"	"34021"	"2000"	"2000"	"Suicide"	"2"	27	350761	7.7
+	"Mercer County, NJ"	"34021"	"2000"	"2000"	"Homicide"	"3"	14	350761	Unreliable
+	"Mercer County, NJ"	"34021"	"2001"	"2001"	"Unintentional"	"1"	90	353816	25.4
+	"Mercer County, NJ"	"34021"	"2001"	"2001"	"Suicide"	"2"	18	353816	Unreliable
+	"Mercer County, NJ"	"34021"	"2001"	"2001"	"Homicide"	"3"	18	353816	Unreliable
+	"Mercer County, NJ"	"34021"	"2002"	"2002"	"Unintentional"	"1"	108	355935	30.3
+	"Mercer County, NJ"	"34021"	"2002"	"2002"	"Suicide"	"2"	12	355935	Unreliable
+	"Mercer County, NJ"	"34021"	"2002"	"2002"	"Homicide"	"3"	21	355935	5.9
+	"Mercer County, NJ"	"34021"	"2003"	"2003"	"Unintentional"	"1"	94	358724	26.2
+	"Mercer County, NJ"	"34021"	"2003"	"2003"	"Suicide"	"2"	20	358724	5.6
+	"Mercer County, NJ"	"34021"	"2003"	"2003"	"Homicide"	"3"	15	358724	Unreliable
+	"Mercer County, NJ"	"34021"	"2004"	"2004"	"Unintentional"	"1"	84	361248	23.3
+	"Mercer County, NJ"	"34021"	"2004"	"2004"	"Suicide"	"2"	29	361248	8.0
+	"Mercer County, NJ"	"34021"	"2004"	"2004"	"Homicide"	"3"	24	361248	6.6
+	"Mercer County, NJ"	"34021"	"2005"	"2005"	"Unintentional"	"1"	88	362015	24.3
+	"Mercer County, NJ"	"34021"	"2005"	"2005"	"Suicide"	"2"	16	362015	Unreliable
+	"Mercer County, NJ"	"34021"	"2005"	"2005"	"Homicide"	"3"	34	362015	9.4
+	"Mercer County, NJ"	"34021"	"2006"	"2006"	"Unintentional"	"1"	95	362840	26.2
+	"Mercer County, NJ"	"34021"	"2006"	"2006"	"Suicide"	"2"	23	362840	6.3
+	"Mercer County, NJ"	"34021"	"2006"	"2006"	"Homicide"	"3"	25	362840	6.9
+	"Mercer County, NJ"	"34021"	"2007"	"2007"	"Unintentional"	"1"	117	363088	32.2
+	"Mercer County, NJ"	"34021"	"2007"	"2007"	"Suicide"	"2"	27	363088	7.4
+	"Mercer County, NJ"	"34021"	"2007"	"2007"	"Homicide"	"3"	23	363088	6.3
+	"Mercer County, NJ"	"34021"	"2008"	"2008"	"Unintentional"	"1"	89	364119	24.4
+	"Mercer County, NJ"	"34021"	"2008"	"2008"	"Suicide"	"2"	29	364119	8.0
+	"Mercer County, NJ"	"34021"	"2008"	"2008"	"Homicide"	"3"	22	364119	6.0
+	"Mercer County, NJ"	"34021"	"2009"	"2009"	"Unintentional"	"1"	84	365388	23.0
+	"Mercer County, NJ"	"34021"	"2009"	"2009"	"Suicide"	"2"	14	365388	Unreliable
+	"Mercer County, NJ"	"34021"	"2009"	"2009"	"Homicide"	"3"	17	365388	Unreliable
+	"Mercer County, NJ"	"34021"	"2010"	"2010"	"Unintentional"	"1"	104	366513	28.4
+	"Mercer County, NJ"	"34021"	"2010"	"2010"	"Suicide"	"2"	38	366513	10.4
+	"Mercer County, NJ"	"34021"	"2010"	"2010"	"Homicide"	"3"	20	366513	5.5
+	"Mercer County, NJ"	"34021"	"2011"	"2011"	"Unintentional"	"1"	116	367063	31.6
+	"Mercer County, NJ"	"34021"	"2011"	"2011"	"Suicide"	"2"	26	367063	7.1
+	"Mercer County, NJ"	"34021"	"2011"	"2011"	"Homicide"	"3"	28	367063	7.6
+	"Mercer County, NJ"	"34021"	"2012"	"2012"	"Unintentional"	"1"	110	368303	29.9
+	"Mercer County, NJ"	"34021"	"2012"	"2012"	"Suicide"	"2"	22	368303	6.0
+	"Mercer County, NJ"	"34021"	"2012"	"2012"	"Homicide"	"3"	25	368303	6.8
+	"Mercer County, NJ"	"34021"	"2013"	"2013"	"Unintentional"	"1"	131	370414	35.4
+	"Mercer County, NJ"	"34021"	"2013"	"2013"	"Suicide"	"2"	27	370414	7.3
+	"Mercer County, NJ"	"34021"	"2013"	"2013"	"Homicide"	"3"	41	370414	11.1
+	"Mercer County, NJ"	"34021"	"2014"	"2014"	"Unintentional"	"1"	120	371537	32.3
+	"Mercer County, NJ"	"34021"	"2014"	"2014"	"Suicide"	"2"	24	371537	6.5
+	"Mercer County, NJ"	"34021"	"2014"	"2014"	"Homicide"	"3"	33	371537	8.9
+	"Mercer County, NJ"	"34021"	"2015"	"2015"	"Unintentional"	"1"	151	371398	40.7
+	"Mercer County, NJ"	"34021"	"2015"	"2015"	"Suicide"	"2"	30	371398	8.1
+	"Mercer County, NJ"	"34021"	"2015"	"2015"	"Homicide"	"3"	20	371398	5.4
+	"Mercer County, NJ"	"34021"	"2016"	"2016"	"Unintentional"	"1"	129	371023	34.8
+	"Mercer County, NJ"	"34021"	"2016"	"2016"	"Suicide"	"2"	21	371023	5.7
+	"Mercer County, NJ"	"34021"	"2016"	"2016"	"Homicide"	"3"	27	371023	7.3
+	"Mercer County, NJ"	"34021"	"2017"	"2017"	"Unintentional"	"1"	166	374733	44.3
+	"Mercer County, NJ"	"34021"	"2017"	"2017"	"Suicide"	"2"	43	374733	11.5
+	"Mercer County, NJ"	"34021"	"2017"	"2017"	"Homicide"	"3"	22	374733	5.9
+	"Mercer County, NJ"	"34021"	"2018"	"2018"	"Unintentional"	"1"	213	369811	57.6
+	"Mercer County, NJ"	"34021"	"2018"	"2018"	"Suicide"	"2"	21	369811	5.7
+	"Mercer County, NJ"	"34021"	"2018"	"2018"	"Homicide"	"3"	22	369811	5.9
+	"Middlesex County, NJ"	"34023"	"1999"	"1999"	"Unintentional"	"1"	185	742213	24.9
+	"Middlesex County, NJ"	"34023"	"1999"	"1999"	"Suicide"	"2"	49	742213	6.6
+	"Middlesex County, NJ"	"34023"	"1999"	"1999"	"Homicide"	"3"	15	742213	Unreliable
+	"Middlesex County, NJ"	"34023"	"2000"	"2000"	"Unintentional"	"1"	194	750162	25.9
+	"Middlesex County, NJ"	"34023"	"2000"	"2000"	"Suicide"	"2"	49	750162	6.5
+	"Middlesex County, NJ"	"34023"	"2000"	"2000"	"Homicide"	"3"	18	750162	Unreliable
+	"Middlesex County, NJ"	"34023"	"2001"	"2001"	"Unintentional"	"1"	165	761770	21.7
+	"Middlesex County, NJ"	"34023"	"2001"	"2001"	"Suicide"	"2"	49	761770	6.4
+	"Middlesex County, NJ"	"34023"	"2001"	"2001"	"Homicide"	"3"	13	761770	Unreliable
+	"Middlesex County, NJ"	"34023"	"2002"	"2002"	"Unintentional"	"1"	195	769280	25.3
+	"Middlesex County, NJ"	"34023"	"2002"	"2002"	"Suicide"	"2"	40	769280	5.2
+	"Middlesex County, NJ"	"34023"	"2002"	"2002"	"Homicide"	"3"	16	769280	Unreliable
+	"Middlesex County, NJ"	"34023"	"2003"	"2003"	"Unintentional"	"1"	168	775973	21.7
+	"Middlesex County, NJ"	"34023"	"2003"	"2003"	"Suicide"	"2"	54	775973	7.0
+	"Middlesex County, NJ"	"34023"	"2003"	"2003"	"Homicide"	"3"	25	775973	3.2
+	"Middlesex County, NJ"	"34023"	"2004"	"2004"	"Unintentional"	"1"	178	781582	22.8
+	"Middlesex County, NJ"	"34023"	"2004"	"2004"	"Suicide"	"2"	39	781582	5.0
+	"Middlesex County, NJ"	"34023"	"2004"	"2004"	"Homicide"	"3"	18	781582	Unreliable
+	"Middlesex County, NJ"	"34023"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	12	781582	Unreliable
+	"Middlesex County, NJ"	"34023"	"2005"	"2005"	"Unintentional"	"1"	172	787329	21.8
+	"Middlesex County, NJ"	"34023"	"2005"	"2005"	"Suicide"	"2"	35	787329	4.4
+	"Middlesex County, NJ"	"34023"	"2005"	"2005"	"Homicide"	"3"	12	787329	Unreliable
+	"Middlesex County, NJ"	"34023"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	11	787329	Unreliable
+	"Middlesex County, NJ"	"34023"	"2006"	"2006"	"Unintentional"	"1"	200	786890	25.4
+	"Middlesex County, NJ"	"34023"	"2006"	"2006"	"Suicide"	"2"	41	786890	5.2
+	"Middlesex County, NJ"	"34023"	"2006"	"2006"	"Homicide"	"3"	19	786890	Unreliable
+	"Middlesex County, NJ"	"34023"	"2007"	"2007"	"Unintentional"	"1"	180	792137	22.7
+	"Middlesex County, NJ"	"34023"	"2007"	"2007"	"Suicide"	"2"	43	792137	5.4
+	"Middlesex County, NJ"	"34023"	"2007"	"2007"	"Homicide"	"3"	12	792137	Unreliable
+	"Middlesex County, NJ"	"34023"	"2008"	"2008"	"Unintentional"	"1"	202	799191	25.3
+	"Middlesex County, NJ"	"34023"	"2008"	"2008"	"Suicide"	"2"	48	799191	6.0
+	"Middlesex County, NJ"	"34023"	"2008"	"2008"	"Homicide"	"3"	18	799191	Unreliable
+	"Middlesex County, NJ"	"34023"	"2009"	"2009"	"Unintentional"	"1"	172	805204	21.4
+	"Middlesex County, NJ"	"34023"	"2009"	"2009"	"Suicide"	"2"	48	805204	6.0
+	"Middlesex County, NJ"	"34023"	"2009"	"2009"	"Homicide"	"3"	11	805204	Unreliable
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	"Unintentional"	"1"	210	809858	25.9
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	"Suicide"	"2"	59	809858	7.3
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	"Homicide"	"3"	16	809858	Unreliable
+	"Middlesex County, NJ"	"34023"	"2011"	"2011"	"Unintentional"	"1"	207	814217	25.4
+	"Middlesex County, NJ"	"34023"	"2011"	"2011"	"Suicide"	"2"	63	814217	7.7
+	"Middlesex County, NJ"	"34023"	"2011"	"2011"	"Homicide"	"3"	18	814217	Unreliable
+	"Middlesex County, NJ"	"34023"	"2012"	"2012"	"Unintentional"	"1"	277	823041	33.7
+	"Middlesex County, NJ"	"34023"	"2012"	"2012"	"Suicide"	"2"	57	823041	6.9
+	"Middlesex County, NJ"	"34023"	"2012"	"2012"	"Homicide"	"3"	13	823041	Unreliable
+	"Middlesex County, NJ"	"34023"	"2013"	"2013"	"Unintentional"	"1"	240	828919	29.0
+	"Middlesex County, NJ"	"34023"	"2013"	"2013"	"Suicide"	"2"	53	828919	6.4
+	"Middlesex County, NJ"	"34023"	"2013"	"2013"	"Homicide"	"3"	13	828919	Unreliable
+	"Middlesex County, NJ"	"34023"	"2014"	"2014"	"Unintentional"	"1"	236	836297	28.2
+	"Middlesex County, NJ"	"34023"	"2014"	"2014"	"Suicide"	"2"	54	836297	6.5
+	"Middlesex County, NJ"	"34023"	"2014"	"2014"	"Homicide"	"3"	15	836297	Unreliable
+	"Middlesex County, NJ"	"34023"	"2015"	"2015"	"Unintentional"	"1"	227	840900	27.0
+	"Middlesex County, NJ"	"34023"	"2015"	"2015"	"Suicide"	"2"	70	840900	8.3
+	"Middlesex County, NJ"	"34023"	"2015"	"2015"	"Homicide"	"3"	18	840900	Unreliable
+	"Middlesex County, NJ"	"34023"	"2016"	"2016"	"Unintentional"	"1"	332	837073	39.7
+	"Middlesex County, NJ"	"34023"	"2016"	"2016"	"Suicide"	"2"	65	837073	7.8
+	"Middlesex County, NJ"	"34023"	"2016"	"2016"	"Homicide"	"3"	13	837073	Unreliable
+	"Middlesex County, NJ"	"34023"	"2017"	"2017"	"Unintentional"	"1"	344	842798	40.8
+	"Middlesex County, NJ"	"34023"	"2017"	"2017"	"Suicide"	"2"	57	842798	6.8
+	"Middlesex County, NJ"	"34023"	"2017"	"2017"	"Homicide"	"3"	13	842798	Unreliable
+	"Middlesex County, NJ"	"34023"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	17	842798	Unreliable
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	"Unintentional"	"1"	324	829685	39.1
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	"Suicide"	"2"	77	829685	9.3
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	"Homicide"	"3"	13	829685	Unreliable
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	"Undetermined "	"4"	12	829685	Unreliable
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	12	829685	Unreliable
+	"Monmouth County, NJ"	"34025"	"1999"	"1999"	"Unintentional"	"1"	136	610811	22.3
+	"Monmouth County, NJ"	"34025"	"1999"	"1999"	"Suicide"	"2"	40	610811	6.5
+	"Monmouth County, NJ"	"34025"	"1999"	"1999"	"Homicide"	"3"	14	610811	Unreliable
+	"Monmouth County, NJ"	"34025"	"2000"	"2000"	"Unintentional"	"1"	159	615301	25.8
+	"Monmouth County, NJ"	"34025"	"2000"	"2000"	"Suicide"	"2"	43	615301	7.0
+	"Monmouth County, NJ"	"34025"	"2001"	"2001"	"Unintentional"	"1"	156	620563	25.1
+	"Monmouth County, NJ"	"34025"	"2001"	"2001"	"Suicide"	"2"	48	620563	7.7
+	"Monmouth County, NJ"	"34025"	"2002"	"2002"	"Unintentional"	"1"	155	624532	24.8
+	"Monmouth County, NJ"	"34025"	"2002"	"2002"	"Suicide"	"2"	45	624532	7.2
+	"Monmouth County, NJ"	"34025"	"2002"	"2002"	"Homicide"	"3"	12	624532	Unreliable
+	"Monmouth County, NJ"	"34025"	"2003"	"2003"	"Unintentional"	"1"	165	627413	26.3
+	"Monmouth County, NJ"	"34025"	"2003"	"2003"	"Suicide"	"2"	49	627413	7.8
+	"Monmouth County, NJ"	"34025"	"2003"	"2003"	"Homicide"	"3"	10	627413	Unreliable
+	"Monmouth County, NJ"	"34025"	"2004"	"2004"	"Unintentional"	"1"	139	628605	22.1
+	"Monmouth County, NJ"	"34025"	"2004"	"2004"	"Suicide"	"2"	50	628605	8.0
+	"Monmouth County, NJ"	"34025"	"2004"	"2004"	"Homicide"	"3"	10	628605	Unreliable
+	"Monmouth County, NJ"	"34025"	"2005"	"2005"	"Unintentional"	"1"	172	627838	27.4
+	"Monmouth County, NJ"	"34025"	"2005"	"2005"	"Suicide"	"2"	36	627838	5.7
+	"Monmouth County, NJ"	"34025"	"2006"	"2006"	"Unintentional"	"1"	155	626934	24.7
+	"Monmouth County, NJ"	"34025"	"2006"	"2006"	"Suicide"	"2"	46	626934	7.3
+	"Monmouth County, NJ"	"34025"	"2006"	"2006"	"Homicide"	"3"	17	626934	Unreliable
+	"Monmouth County, NJ"	"34025"	"2007"	"2007"	"Unintentional"	"1"	183	626644	29.2
+	"Monmouth County, NJ"	"34025"	"2007"	"2007"	"Suicide"	"2"	30	626644	4.8
+	"Monmouth County, NJ"	"34025"	"2007"	"2007"	"Homicide"	"3"	13	626644	Unreliable
+	"Monmouth County, NJ"	"34025"	"2008"	"2008"	"Unintentional"	"1"	174	627348	27.7
+	"Monmouth County, NJ"	"34025"	"2008"	"2008"	"Suicide"	"2"	53	627348	8.4
+	"Monmouth County, NJ"	"34025"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	627348	Unreliable
+	"Monmouth County, NJ"	"34025"	"2009"	"2009"	"Unintentional"	"1"	121	628669	19.2
+	"Monmouth County, NJ"	"34025"	"2009"	"2009"	"Suicide"	"2"	37	628669	5.9
+	"Monmouth County, NJ"	"34025"	"2009"	"2009"	"Homicide"	"3"	11	628669	Unreliable
+	"Monmouth County, NJ"	"34025"	"2010"	"2010"	"Unintentional"	"1"	196	630380	31.1
+	"Monmouth County, NJ"	"34025"	"2010"	"2010"	"Suicide"	"2"	50	630380	7.9
+	"Monmouth County, NJ"	"34025"	"2010"	"2010"	"Homicide"	"3"	14	630380	Unreliable
+	"Monmouth County, NJ"	"34025"	"2011"	"2011"	"Unintentional"	"1"	191	631020	30.3
+	"Monmouth County, NJ"	"34025"	"2011"	"2011"	"Suicide"	"2"	57	631020	9.0
+	"Monmouth County, NJ"	"34025"	"2011"	"2011"	"Homicide"	"3"	13	631020	Unreliable
+	"Monmouth County, NJ"	"34025"	"2011"	"2011"	"Undetermined "	"4"	11	631020	Unreliable
+	"Monmouth County, NJ"	"34025"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	631020	Unreliable
+	"Monmouth County, NJ"	"34025"	"2012"	"2012"	"Unintentional"	"1"	199	629384	31.6
+	"Monmouth County, NJ"	"34025"	"2012"	"2012"	"Suicide"	"2"	52	629384	8.3
+	"Monmouth County, NJ"	"34025"	"2012"	"2012"	"Homicide"	"3"	10	629384	Unreliable
+	"Monmouth County, NJ"	"34025"	"2013"	"2013"	"Unintentional"	"1"	197	629672	31.3
+	"Monmouth County, NJ"	"34025"	"2013"	"2013"	"Suicide"	"2"	52	629672	8.3
+	"Monmouth County, NJ"	"34025"	"2013"	"2013"	"Homicide"	"3"	13	629672	Unreliable
+	"Monmouth County, NJ"	"34025"	"2014"	"2014"	"Unintentional"	"1"	225	629279	35.8
+	"Monmouth County, NJ"	"34025"	"2014"	"2014"	"Suicide"	"2"	56	629279	8.9
+	"Monmouth County, NJ"	"34025"	"2014"	"2014"	"Homicide"	"3"	10	629279	Unreliable
+	"Monmouth County, NJ"	"34025"	"2014"	"2014"	"Undetermined "	"4"	10	629279	Unreliable
+	"Monmouth County, NJ"	"34025"	"2015"	"2015"	"Unintentional"	"1"	234	628715	37.2
+	"Monmouth County, NJ"	"34025"	"2015"	"2015"	"Suicide"	"2"	71	628715	11.3
+	"Monmouth County, NJ"	"34025"	"2015"	"2015"	"Homicide"	"3"	11	628715	Unreliable
+	"Monmouth County, NJ"	"34025"	"2016"	"2016"	"Unintentional"	"1"	274	625846	43.8
+	"Monmouth County, NJ"	"34025"	"2016"	"2016"	"Suicide"	"2"	51	625846	8.1
+	"Monmouth County, NJ"	"34025"	"2017"	"2017"	"Unintentional"	"1"	319	626351	50.9
+	"Monmouth County, NJ"	"34025"	"2017"	"2017"	"Suicide"	"2"	67	626351	10.7
+	"Monmouth County, NJ"	"34025"	"2017"	"2017"	"Homicide"	"3"	13	626351	Unreliable
+	"Monmouth County, NJ"	"34025"	"2018"	"2018"	"Unintentional"	"1"	353	621354	56.8
+	"Monmouth County, NJ"	"34025"	"2018"	"2018"	"Suicide"	"2"	50	621354	8.0
+	"Monmouth County, NJ"	"34025"	"2018"	"2018"	"Homicide"	"3"	16	621354	Unreliable
+	"Monmouth County, NJ"	"34025"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	11	621354	Unreliable
+	"Morris County, NJ"	"34027"	"1999"	"1999"	"Unintentional"	"1"	108	467678	23.1
+	"Morris County, NJ"	"34027"	"1999"	"1999"	"Suicide"	"2"	34	467678	7.3
+	"Morris County, NJ"	"34027"	"2000"	"2000"	"Unintentional"	"1"	93	470212	19.8
+	"Morris County, NJ"	"34027"	"2000"	"2000"	"Suicide"	"2"	20	470212	4.3
+	"Morris County, NJ"	"34027"	"2001"	"2001"	"Unintentional"	"1"	111	473515	23.4
+	"Morris County, NJ"	"34027"	"2001"	"2001"	"Suicide"	"2"	31	473515	6.5
+	"Morris County, NJ"	"34027"	"2002"	"2002"	"Unintentional"	"1"	104	477234	21.8
+	"Morris County, NJ"	"34027"	"2002"	"2002"	"Suicide"	"2"	27	477234	5.7
+	"Morris County, NJ"	"34027"	"2003"	"2003"	"Unintentional"	"1"	107	481000	22.2
+	"Morris County, NJ"	"34027"	"2003"	"2003"	"Suicide"	"2"	24	481000	5.0
+	"Morris County, NJ"	"34027"	"2004"	"2004"	"Unintentional"	"1"	104	483997	21.5
+	"Morris County, NJ"	"34027"	"2004"	"2004"	"Suicide"	"2"	21	483997	4.3
+	"Morris County, NJ"	"34027"	"2005"	"2005"	"Unintentional"	"1"	107	485472	22.0
+	"Morris County, NJ"	"34027"	"2005"	"2005"	"Suicide"	"2"	34	485472	7.0
+	"Morris County, NJ"	"34027"	"2006"	"2006"	"Unintentional"	"1"	99	487486	20.3
+	"Morris County, NJ"	"34027"	"2006"	"2006"	"Suicide"	"2"	32	487486	6.6
+	"Morris County, NJ"	"34027"	"2007"	"2007"	"Unintentional"	"1"	96	488355	19.7
+	"Morris County, NJ"	"34027"	"2007"	"2007"	"Suicide"	"2"	36	488355	7.4
+	"Morris County, NJ"	"34027"	"2008"	"2008"	"Unintentional"	"1"	110	489743	22.5
+	"Morris County, NJ"	"34027"	"2008"	"2008"	"Suicide"	"2"	32	489743	6.5
+	"Morris County, NJ"	"34027"	"2009"	"2009"	"Unintentional"	"1"	70	490779	14.3
+	"Morris County, NJ"	"34027"	"2009"	"2009"	"Suicide"	"2"	18	490779	Unreliable
+	"Morris County, NJ"	"34027"	"2010"	"2010"	"Unintentional"	"1"	126	492276	25.6
+	"Morris County, NJ"	"34027"	"2010"	"2010"	"Suicide"	"2"	38	492276	7.7
+	"Morris County, NJ"	"34027"	"2011"	"2011"	"Unintentional"	"1"	116	494976	23.4
+	"Morris County, NJ"	"34027"	"2011"	"2011"	"Suicide"	"2"	37	494976	7.5
+	"Morris County, NJ"	"34027"	"2012"	"2012"	"Unintentional"	"1"	136	497999	27.3
+	"Morris County, NJ"	"34027"	"2012"	"2012"	"Suicide"	"2"	27	497999	5.4
+	"Morris County, NJ"	"34027"	"2013"	"2013"	"Unintentional"	"1"	127	499397	25.4
+	"Morris County, NJ"	"34027"	"2013"	"2013"	"Suicide"	"2"	45	499397	9.0
+	"Morris County, NJ"	"34027"	"2014"	"2014"	"Unintentional"	"1"	131	499727	26.2
+	"Morris County, NJ"	"34027"	"2014"	"2014"	"Suicide"	"2"	53	499727	10.6
+	"Morris County, NJ"	"34027"	"2015"	"2015"	"Unintentional"	"1"	147	499509	29.4
+	"Morris County, NJ"	"34027"	"2015"	"2015"	"Suicide"	"2"	47	499509	9.4
+	"Morris County, NJ"	"34027"	"2016"	"2016"	"Unintentional"	"1"	160	498423	32.1
+	"Morris County, NJ"	"34027"	"2016"	"2016"	"Suicide"	"2"	31	498423	6.2
+	"Morris County, NJ"	"34027"	"2017"	"2017"	"Unintentional"	"1"	186	499693	37.2
+	"Morris County, NJ"	"34027"	"2017"	"2017"	"Suicide"	"2"	38	499693	7.6
+	"Morris County, NJ"	"34027"	"2018"	"2018"	"Unintentional"	"1"	178	494228	36.0
+	"Morris County, NJ"	"34027"	"2018"	"2018"	"Suicide"	"2"	41	494228	8.3
+	"Ocean County, NJ"	"34029"	"1999"	"1999"	"Unintentional"	"1"	141	504007	28.0
+	"Ocean County, NJ"	"34029"	"1999"	"1999"	"Suicide"	"2"	59	504007	11.7
+	"Ocean County, NJ"	"34029"	"2000"	"2000"	"Unintentional"	"1"	155	510916	30.3
+	"Ocean County, NJ"	"34029"	"2000"	"2000"	"Suicide"	"2"	52	510916	10.2
+	"Ocean County, NJ"	"34029"	"2000"	"2000"	"Homicide"	"3"	14	510916	Unreliable
+	"Ocean County, NJ"	"34029"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	10	510916	Unreliable
+	"Ocean County, NJ"	"34029"	"2001"	"2001"	"Unintentional"	"1"	166	523357	31.7
+	"Ocean County, NJ"	"34029"	"2001"	"2001"	"Suicide"	"2"	39	523357	7.5
+	"Ocean County, NJ"	"34029"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	12	523357	Unreliable
+	"Ocean County, NJ"	"34029"	"2002"	"2002"	"Unintentional"	"1"	177	536069	33.0
+	"Ocean County, NJ"	"34029"	"2002"	"2002"	"Suicide"	"2"	46	536069	8.6
+	"Ocean County, NJ"	"34029"	"2002"	"2002"	"Homicide"	"3"	15	536069	Unreliable
+	"Ocean County, NJ"	"34029"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	15	536069	Unreliable
+	"Ocean County, NJ"	"34029"	"2003"	"2003"	"Unintentional"	"1"	146	545093	26.8
+	"Ocean County, NJ"	"34029"	"2003"	"2003"	"Suicide"	"2"	40	545093	7.3
+	"Ocean County, NJ"	"34029"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	10	545093	Unreliable
+	"Ocean County, NJ"	"34029"	"2004"	"2004"	"Unintentional"	"1"	159	551262	28.8
+	"Ocean County, NJ"	"34029"	"2004"	"2004"	"Suicide"	"2"	65	551262	11.8
+	"Ocean County, NJ"	"34029"	"2004"	"2004"	"Homicide"	"3"	12	551262	Unreliable
+	"Ocean County, NJ"	"34029"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	11	551262	Unreliable
+	"Ocean County, NJ"	"34029"	"2005"	"2005"	"Unintentional"	"1"	171	556012	30.8
+	"Ocean County, NJ"	"34029"	"2005"	"2005"	"Suicide"	"2"	38	556012	6.8
+	"Ocean County, NJ"	"34029"	"2006"	"2006"	"Unintentional"	"1"	158	561302	28.1
+	"Ocean County, NJ"	"34029"	"2006"	"2006"	"Suicide"	"2"	50	561302	8.9
+	"Ocean County, NJ"	"34029"	"2006"	"2006"	"Homicide"	"3"	10	561302	Unreliable
+	"Ocean County, NJ"	"34029"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	16	561302	Unreliable
+	"Ocean County, NJ"	"34029"	"2007"	"2007"	"Unintentional"	"1"	173	565356	30.6
+	"Ocean County, NJ"	"34029"	"2007"	"2007"	"Suicide"	"2"	33	565356	5.8
+	"Ocean County, NJ"	"34029"	"2007"	"2007"	"Homicide"	"3"	10	565356	Unreliable
+	"Ocean County, NJ"	"34029"	"2008"	"2008"	"Unintentional"	"1"	175	569485	30.7
+	"Ocean County, NJ"	"34029"	"2008"	"2008"	"Suicide"	"2"	56	569485	9.8
+	"Ocean County, NJ"	"34029"	"2009"	"2009"	"Unintentional"	"1"	149	573123	26.0
+	"Ocean County, NJ"	"34029"	"2009"	"2009"	"Suicide"	"2"	50	573123	8.7
+	"Ocean County, NJ"	"34029"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	10	573123	Unreliable
+	"Ocean County, NJ"	"34029"	"2010"	"2010"	"Unintentional"	"1"	195	576567	33.8
+	"Ocean County, NJ"	"34029"	"2010"	"2010"	"Suicide"	"2"	55	576567	9.5
+	"Ocean County, NJ"	"34029"	"2010"	"2010"	"Homicide"	"3"	11	576567	Unreliable
+	"Ocean County, NJ"	"34029"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	15	576567	Unreliable
+	"Ocean County, NJ"	"34029"	"2011"	"2011"	"Unintentional"	"1"	214	579369	36.9
+	"Ocean County, NJ"	"34029"	"2011"	"2011"	"Suicide"	"2"	53	579369	9.1
+	"Ocean County, NJ"	"34029"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	10	579369	Unreliable
+	"Ocean County, NJ"	"34029"	"2012"	"2012"	"Unintentional"	"1"	260	580470	44.8
+	"Ocean County, NJ"	"34029"	"2012"	"2012"	"Suicide"	"2"	51	580470	8.8
+	"Ocean County, NJ"	"34029"	"2012"	"2012"	"Undetermined "	"4"	13	580470	Unreliable
+	"Ocean County, NJ"	"34029"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	11	580470	Unreliable
+	"Ocean County, NJ"	"34029"	"2013"	"2013"	"Unintentional"	"1"	262	583414	44.9
+	"Ocean County, NJ"	"34029"	"2013"	"2013"	"Suicide"	"2"	72	583414	12.3
+	"Ocean County, NJ"	"34029"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	12	583414	Unreliable
+	"Ocean County, NJ"	"34029"	"2014"	"2014"	"Unintentional"	"1"	265	586301	45.2
+	"Ocean County, NJ"	"34029"	"2014"	"2014"	"Suicide"	"2"	69	586301	11.8
+	"Ocean County, NJ"	"34029"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	10	586301	Unreliable
+	"Ocean County, NJ"	"34029"	"2015"	"2015"	"Unintentional"	"1"	291	588721	49.4
+	"Ocean County, NJ"	"34029"	"2015"	"2015"	"Suicide"	"2"	67	588721	11.4
+	"Ocean County, NJ"	"34029"	"2015"	"2015"	"Homicide"	"3"	11	588721	Unreliable
+	"Ocean County, NJ"	"34029"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	11	588721	Unreliable
+	"Ocean County, NJ"	"34029"	"2016"	"2016"	"Unintentional"	"1"	379	592497	64.0
+	"Ocean County, NJ"	"34029"	"2016"	"2016"	"Suicide"	"2"	37	592497	6.2
+	"Ocean County, NJ"	"34029"	"2017"	"2017"	"Unintentional"	"1"	368	597943	61.5
+	"Ocean County, NJ"	"34029"	"2017"	"2017"	"Suicide"	"2"	63	597943	10.5
+	"Ocean County, NJ"	"34029"	"2018"	"2018"	"Unintentional"	"1"	397	601651	66.0
+	"Ocean County, NJ"	"34029"	"2018"	"2018"	"Suicide"	"2"	54	601651	9.0
+	"Ocean County, NJ"	"34029"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	10	601651	Unreliable
+	"Passaic County, NJ"	"34031"	"1999"	"1999"	"Unintentional"	"1"	107	488131	21.9
+	"Passaic County, NJ"	"34031"	"1999"	"1999"	"Suicide"	"2"	25	488131	5.1
+	"Passaic County, NJ"	"34031"	"1999"	"1999"	"Homicide"	"3"	19	488131	Unreliable
+	"Passaic County, NJ"	"34031"	"2000"	"2000"	"Unintentional"	"1"	112	489049	22.9
+	"Passaic County, NJ"	"34031"	"2000"	"2000"	"Suicide"	"2"	23	489049	4.7
+	"Passaic County, NJ"	"34031"	"2000"	"2000"	"Homicide"	"3"	27	489049	5.5
+	"Passaic County, NJ"	"34031"	"2001"	"2001"	"Unintentional"	"1"	131	493252	26.6
+	"Passaic County, NJ"	"34031"	"2001"	"2001"	"Suicide"	"2"	36	493252	7.3
+	"Passaic County, NJ"	"34031"	"2001"	"2001"	"Homicide"	"3"	23	493252	4.7
+	"Passaic County, NJ"	"34031"	"2002"	"2002"	"Unintentional"	"1"	158	494571	31.9
+	"Passaic County, NJ"	"34031"	"2002"	"2002"	"Suicide"	"2"	22	494571	4.4
+	"Passaic County, NJ"	"34031"	"2002"	"2002"	"Homicide"	"3"	19	494571	Unreliable
+	"Passaic County, NJ"	"34031"	"2003"	"2003"	"Unintentional"	"1"	132	494915	26.7
+	"Passaic County, NJ"	"34031"	"2003"	"2003"	"Suicide"	"2"	39	494915	7.9
+	"Passaic County, NJ"	"34031"	"2003"	"2003"	"Homicide"	"3"	27	494915	5.5
+	"Passaic County, NJ"	"34031"	"2004"	"2004"	"Unintentional"	"1"	123	493981	24.9
+	"Passaic County, NJ"	"34031"	"2004"	"2004"	"Suicide"	"2"	31	493981	6.3
+	"Passaic County, NJ"	"34031"	"2004"	"2004"	"Homicide"	"3"	25	493981	5.1
+	"Passaic County, NJ"	"34031"	"2005"	"2005"	"Unintentional"	"1"	163	493600	33.0
+	"Passaic County, NJ"	"34031"	"2005"	"2005"	"Suicide"	"2"	18	493600	Unreliable
+	"Passaic County, NJ"	"34031"	"2005"	"2005"	"Homicide"	"3"	24	493600	4.9
+	"Passaic County, NJ"	"34031"	"2006"	"2006"	"Unintentional"	"1"	127	492730	25.8
+	"Passaic County, NJ"	"34031"	"2006"	"2006"	"Suicide"	"2"	26	492730	5.3
+	"Passaic County, NJ"	"34031"	"2006"	"2006"	"Homicide"	"3"	21	492730	4.3
+	"Passaic County, NJ"	"34031"	"2007"	"2007"	"Unintentional"	"1"	111	492886	22.5
+	"Passaic County, NJ"	"34031"	"2007"	"2007"	"Suicide"	"2"	31	492886	6.3
+	"Passaic County, NJ"	"34031"	"2007"	"2007"	"Homicide"	"3"	23	492886	4.7
+	"Passaic County, NJ"	"34031"	"2008"	"2008"	"Unintentional"	"1"	113	494904	22.8
+	"Passaic County, NJ"	"34031"	"2008"	"2008"	"Suicide"	"2"	36	494904	7.3
+	"Passaic County, NJ"	"34031"	"2008"	"2008"	"Homicide"	"3"	19	494904	Unreliable
+	"Passaic County, NJ"	"34031"	"2009"	"2009"	"Unintentional"	"1"	76	498641	15.2
+	"Passaic County, NJ"	"34031"	"2009"	"2009"	"Suicide"	"2"	36	498641	7.2
+	"Passaic County, NJ"	"34031"	"2009"	"2009"	"Homicide"	"3"	22	498641	4.4
+	"Passaic County, NJ"	"34031"	"2010"	"2010"	"Unintentional"	"1"	133	501226	26.5
+	"Passaic County, NJ"	"34031"	"2010"	"2010"	"Suicide"	"2"	35	501226	7.0
+	"Passaic County, NJ"	"34031"	"2010"	"2010"	"Homicide"	"3"	22	501226	4.4
+	"Passaic County, NJ"	"34031"	"2011"	"2011"	"Unintentional"	"1"	136	502007	27.1
+	"Passaic County, NJ"	"34031"	"2011"	"2011"	"Suicide"	"2"	26	502007	5.2
+	"Passaic County, NJ"	"34031"	"2011"	"2011"	"Homicide"	"3"	23	502007	4.6
+	"Passaic County, NJ"	"34031"	"2012"	"2012"	"Unintentional"	"1"	161	502885	32.0
+	"Passaic County, NJ"	"34031"	"2012"	"2012"	"Suicide"	"2"	30	502885	6.0
+	"Passaic County, NJ"	"34031"	"2012"	"2012"	"Homicide"	"3"	27	502885	5.4
+	"Passaic County, NJ"	"34031"	"2013"	"2013"	"Unintentional"	"1"	172	505672	34.0
+	"Passaic County, NJ"	"34031"	"2013"	"2013"	"Suicide"	"2"	36	505672	7.1
+	"Passaic County, NJ"	"34031"	"2013"	"2013"	"Homicide"	"3"	23	505672	4.5
+	"Passaic County, NJ"	"34031"	"2014"	"2014"	"Unintentional"	"1"	153	508856	30.1
+	"Passaic County, NJ"	"34031"	"2014"	"2014"	"Suicide"	"2"	32	508856	6.3
+	"Passaic County, NJ"	"34031"	"2014"	"2014"	"Homicide"	"3"	26	508856	5.1
+	"Passaic County, NJ"	"34031"	"2015"	"2015"	"Unintentional"	"1"	147	510916	28.8
+	"Passaic County, NJ"	"34031"	"2015"	"2015"	"Suicide"	"2"	26	510916	5.1
+	"Passaic County, NJ"	"34031"	"2015"	"2015"	"Homicide"	"3"	21	510916	4.1
+	"Passaic County, NJ"	"34031"	"2016"	"2016"	"Unintentional"	"1"	192	507945	37.8
+	"Passaic County, NJ"	"34031"	"2016"	"2016"	"Suicide"	"2"	26	507945	5.1
+	"Passaic County, NJ"	"34031"	"2016"	"2016"	"Homicide"	"3"	19	507945	Unreliable
+	"Passaic County, NJ"	"34031"	"2017"	"2017"	"Unintentional"	"1"	199	512607	38.8
+	"Passaic County, NJ"	"34031"	"2017"	"2017"	"Suicide"	"2"	38	512607	7.4
+	"Passaic County, NJ"	"34031"	"2017"	"2017"	"Homicide"	"3"	27	512607	5.3
+	"Passaic County, NJ"	"34031"	"2018"	"2018"	"Unintentional"	"1"	242	503310	48.1
+	"Passaic County, NJ"	"34031"	"2018"	"2018"	"Suicide"	"2"	35	503310	7.0
+	"Passaic County, NJ"	"34031"	"2018"	"2018"	"Homicide"	"3"	17	503310	Unreliable
+	"Passaic County, NJ"	"34031"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	10	503310	Unreliable
+	"Salem County, NJ"	"34033"	"1999"	"1999"	"Unintentional"	"1"	33	64483	51.2
+	"Salem County, NJ"	"34033"	"2000"	"2000"	"Unintentional"	"1"	28	64285	43.6
+	"Salem County, NJ"	"34033"	"2001"	"2001"	"Unintentional"	"1"	30	64069	46.8
+	"Salem County, NJ"	"34033"	"2002"	"2002"	"Unintentional"	"1"	25	64434	38.8
+	"Salem County, NJ"	"34033"	"2003"	"2003"	"Unintentional"	"1"	26	64345	40.4
+	"Salem County, NJ"	"34033"	"2004"	"2004"	"Unintentional"	"1"	38	64835	58.6
+	"Salem County, NJ"	"34033"	"2005"	"2005"	"Unintentional"	"1"	35	65388	53.5
+	"Salem County, NJ"	"34033"	"2006"	"2006"	"Unintentional"	"1"	42	65831	63.8
+	"Salem County, NJ"	"34033"	"2007"	"2007"	"Unintentional"	"1"	34	65864	51.6
+	"Salem County, NJ"	"34033"	"2008"	"2008"	"Unintentional"	"1"	40	65974	60.6
+	"Salem County, NJ"	"34033"	"2009"	"2009"	"Unintentional"	"1"	30	66183	45.3
+	"Salem County, NJ"	"34033"	"2010"	"2010"	"Unintentional"	"1"	27	66083	40.9
+	"Salem County, NJ"	"34033"	"2011"	"2011"	"Unintentional"	"1"	34	65902	51.6
+	"Salem County, NJ"	"34033"	"2011"	"2011"	"Suicide"	"2"	14	65902	Unreliable
+	"Salem County, NJ"	"34033"	"2012"	"2012"	"Unintentional"	"1"	22	65774	33.4
+	"Salem County, NJ"	"34033"	"2012"	"2012"	"Suicide"	"2"	10	65774	Unreliable
+	"Salem County, NJ"	"34033"	"2013"	"2013"	"Unintentional"	"1"	26	65166	39.9
+	"Salem County, NJ"	"34033"	"2013"	"2013"	"Suicide"	"2"	13	65166	Unreliable
+	"Salem County, NJ"	"34033"	"2014"	"2014"	"Unintentional"	"1"	28	64715	43.3
+	"Salem County, NJ"	"34033"	"2014"	"2014"	"Suicide"	"2"	13	64715	Unreliable
+	"Salem County, NJ"	"34033"	"2015"	"2015"	"Unintentional"	"1"	39	64180	60.8
+	"Salem County, NJ"	"34033"	"2016"	"2016"	"Unintentional"	"1"	45	63436	70.9
+	"Salem County, NJ"	"34033"	"2017"	"2017"	"Unintentional"	"1"	50	62792	79.6
+	"Salem County, NJ"	"34033"	"2018"	"2018"	"Unintentional"	"1"	73	62607	116.6
+	"Somerset County, NJ"	"34035"	"1999"	"1999"	"Unintentional"	"1"	64	293770	21.8
+	"Somerset County, NJ"	"34035"	"1999"	"1999"	"Suicide"	"2"	15	293770	Unreliable
+	"Somerset County, NJ"	"34035"	"2000"	"2000"	"Unintentional"	"1"	54	297490	18.2
+	"Somerset County, NJ"	"34035"	"2000"	"2000"	"Suicide"	"2"	16	297490	Unreliable
+	"Somerset County, NJ"	"34035"	"2001"	"2001"	"Unintentional"	"1"	66	301671	21.9
+	"Somerset County, NJ"	"34035"	"2001"	"2001"	"Suicide"	"2"	20	301671	6.6
+	"Somerset County, NJ"	"34035"	"2002"	"2002"	"Unintentional"	"1"	83	305255	27.2
+	"Somerset County, NJ"	"34035"	"2002"	"2002"	"Suicide"	"2"	16	305255	Unreliable
+	"Somerset County, NJ"	"34035"	"2003"	"2003"	"Unintentional"	"1"	64	307902	20.8
+	"Somerset County, NJ"	"34035"	"2003"	"2003"	"Suicide"	"2"	12	307902	Unreliable
+	"Somerset County, NJ"	"34035"	"2004"	"2004"	"Unintentional"	"1"	52	310424	16.8
+	"Somerset County, NJ"	"34035"	"2004"	"2004"	"Suicide"	"2"	24	310424	7.7
+	"Somerset County, NJ"	"34035"	"2005"	"2005"	"Unintentional"	"1"	67	312617	21.4
+	"Somerset County, NJ"	"34035"	"2005"	"2005"	"Suicide"	"2"	20	312617	6.4
+	"Somerset County, NJ"	"34035"	"2006"	"2006"	"Unintentional"	"1"	76	314993	24.1
+	"Somerset County, NJ"	"34035"	"2006"	"2006"	"Suicide"	"2"	19	314993	Unreliable
+	"Somerset County, NJ"	"34035"	"2007"	"2007"	"Unintentional"	"1"	63	317128	19.9
+	"Somerset County, NJ"	"34035"	"2007"	"2007"	"Suicide"	"2"	26	317128	8.2
+	"Somerset County, NJ"	"34035"	"2008"	"2008"	"Unintentional"	"1"	55	318856	17.2
+	"Somerset County, NJ"	"34035"	"2008"	"2008"	"Suicide"	"2"	16	318856	Unreliable
+	"Somerset County, NJ"	"34035"	"2009"	"2009"	"Unintentional"	"1"	58	321564	18.0
+	"Somerset County, NJ"	"34035"	"2009"	"2009"	"Suicide"	"2"	14	321564	Unreliable
+	"Somerset County, NJ"	"34035"	"2010"	"2010"	"Unintentional"	"1"	72	323444	22.3
+	"Somerset County, NJ"	"34035"	"2010"	"2010"	"Suicide"	"2"	22	323444	6.8
+	"Somerset County, NJ"	"34035"	"2011"	"2011"	"Unintentional"	"1"	77	324893	23.7
+	"Somerset County, NJ"	"34035"	"2011"	"2011"	"Suicide"	"2"	23	324893	7.1
+	"Somerset County, NJ"	"34035"	"2012"	"2012"	"Unintentional"	"1"	82	327707	25.0
+	"Somerset County, NJ"	"34035"	"2012"	"2012"	"Suicide"	"2"	23	327707	7.0
+	"Somerset County, NJ"	"34035"	"2013"	"2013"	"Unintentional"	"1"	102	330585	30.9
+	"Somerset County, NJ"	"34035"	"2013"	"2013"	"Suicide"	"2"	21	330585	6.4
+	"Somerset County, NJ"	"34035"	"2014"	"2014"	"Unintentional"	"1"	89	332568	26.8
+	"Somerset County, NJ"	"34035"	"2014"	"2014"	"Suicide"	"2"	27	332568	8.1
+	"Somerset County, NJ"	"34035"	"2015"	"2015"	"Unintentional"	"1"	101	333654	30.3
+	"Somerset County, NJ"	"34035"	"2015"	"2015"	"Suicide"	"2"	18	333654	Unreliable
+	"Somerset County, NJ"	"34035"	"2016"	"2016"	"Unintentional"	"1"	102	333751	30.6
+	"Somerset County, NJ"	"34035"	"2016"	"2016"	"Suicide"	"2"	24	333751	7.2
+	"Somerset County, NJ"	"34035"	"2017"	"2017"	"Unintentional"	"1"	142	335432	42.3
+	"Somerset County, NJ"	"34035"	"2017"	"2017"	"Suicide"	"2"	24	335432	7.2
+	"Somerset County, NJ"	"34035"	"2018"	"2018"	"Unintentional"	"1"	104	331164	31.4
+	"Somerset County, NJ"	"34035"	"2018"	"2018"	"Suicide"	"2"	28	331164	8.5
+	"Sussex County, NJ"	"34037"	"1999"	"1999"	"Unintentional"	"1"	34	142750	23.8
+	"Sussex County, NJ"	"34037"	"1999"	"1999"	"Suicide"	"2"	10	142750	Unreliable
+	"Sussex County, NJ"	"34037"	"2000"	"2000"	"Unintentional"	"1"	25	144166	17.3
+	"Sussex County, NJ"	"34037"	"2000"	"2000"	"Suicide"	"2"	10	144166	Unreliable
+	"Sussex County, NJ"	"34037"	"2001"	"2001"	"Unintentional"	"1"	33	146004	22.6
+	"Sussex County, NJ"	"34037"	"2002"	"2002"	"Unintentional"	"1"	34	147712	23.0
+	"Sussex County, NJ"	"34037"	"2002"	"2002"	"Suicide"	"2"	14	147712	Unreliable
+	"Sussex County, NJ"	"34037"	"2003"	"2003"	"Unintentional"	"1"	52	149260	34.8
+	"Sussex County, NJ"	"34037"	"2003"	"2003"	"Suicide"	"2"	12	149260	Unreliable
+	"Sussex County, NJ"	"34037"	"2004"	"2004"	"Unintentional"	"1"	53	149906	35.4
+	"Sussex County, NJ"	"34037"	"2004"	"2004"	"Suicide"	"2"	10	149906	Unreliable
+	"Sussex County, NJ"	"34037"	"2005"	"2005"	"Unintentional"	"1"	45	150192	30.0
+	"Sussex County, NJ"	"34037"	"2006"	"2006"	"Unintentional"	"1"	35	150508	23.3
+	"Sussex County, NJ"	"34037"	"2006"	"2006"	"Suicide"	"2"	20	150508	13.3
+	"Sussex County, NJ"	"34037"	"2007"	"2007"	"Unintentional"	"1"	29	150600	19.3
+	"Sussex County, NJ"	"34037"	"2007"	"2007"	"Suicide"	"2"	10	150600	Unreliable
+	"Sussex County, NJ"	"34037"	"2008"	"2008"	"Unintentional"	"1"	46	150145	30.6
+	"Sussex County, NJ"	"34037"	"2008"	"2008"	"Suicide"	"2"	12	150145	Unreliable
+	"Sussex County, NJ"	"34037"	"2009"	"2009"	"Unintentional"	"1"	24	149487	16.1
+	"Sussex County, NJ"	"34037"	"2009"	"2009"	"Suicide"	"2"	16	149487	Unreliable
+	"Sussex County, NJ"	"34037"	"2010"	"2010"	"Unintentional"	"1"	53	149265	35.5
+	"Sussex County, NJ"	"34037"	"2010"	"2010"	"Suicide"	"2"	19	149265	Unreliable
+	"Sussex County, NJ"	"34037"	"2011"	"2011"	"Unintentional"	"1"	48	148517	32.3
+	"Sussex County, NJ"	"34037"	"2011"	"2011"	"Suicide"	"2"	21	148517	14.1
+	"Sussex County, NJ"	"34037"	"2012"	"2012"	"Unintentional"	"1"	51	147442	34.6
+	"Sussex County, NJ"	"34037"	"2012"	"2012"	"Suicide"	"2"	19	147442	Unreliable
+	"Sussex County, NJ"	"34037"	"2013"	"2013"	"Unintentional"	"1"	41	145992	28.1
+	"Sussex County, NJ"	"34037"	"2013"	"2013"	"Suicide"	"2"	17	145992	Unreliable
+	"Sussex County, NJ"	"34037"	"2014"	"2014"	"Unintentional"	"1"	52	144909	35.9
+	"Sussex County, NJ"	"34037"	"2014"	"2014"	"Suicide"	"2"	22	144909	15.2
+	"Sussex County, NJ"	"34037"	"2015"	"2015"	"Unintentional"	"1"	62	143673	43.2
+	"Sussex County, NJ"	"34037"	"2015"	"2015"	"Suicide"	"2"	29	143673	20.2
+	"Sussex County, NJ"	"34037"	"2016"	"2016"	"Unintentional"	"1"	76	142522	53.3
+	"Sussex County, NJ"	"34037"	"2016"	"2016"	"Suicide"	"2"	24	142522	16.8
+	"Sussex County, NJ"	"34037"	"2017"	"2017"	"Unintentional"	"1"	74	141682	52.2
+	"Sussex County, NJ"	"34037"	"2018"	"2018"	"Unintentional"	"1"	80	140799	56.8
+	"Sussex County, NJ"	"34037"	"2018"	"2018"	"Suicide"	"2"	14	140799	Unreliable
+	"Union County, NJ"	"34039"	"1999"	"1999"	"Unintentional"	"1"	150	520341	28.8
+	"Union County, NJ"	"34039"	"1999"	"1999"	"Suicide"	"2"	28	520341	5.4
+	"Union County, NJ"	"34039"	"1999"	"1999"	"Homicide"	"3"	16	520341	Unreliable
+	"Union County, NJ"	"34039"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	10	520341	Unreliable
+	"Union County, NJ"	"34039"	"2000"	"2000"	"Unintentional"	"1"	127	522541	24.3
+	"Union County, NJ"	"34039"	"2000"	"2000"	"Suicide"	"2"	28	522541	5.4
+	"Union County, NJ"	"34039"	"2000"	"2000"	"Homicide"	"3"	23	522541	4.4
+	"Union County, NJ"	"34039"	"2001"	"2001"	"Unintentional"	"1"	147	526183	27.9
+	"Union County, NJ"	"34039"	"2001"	"2001"	"Suicide"	"2"	33	526183	6.3
+	"Union County, NJ"	"34039"	"2001"	"2001"	"Homicide"	"3"	27	526183	5.1
+	"Union County, NJ"	"34039"	"2002"	"2002"	"Unintentional"	"1"	160	527625	30.3
+	"Union County, NJ"	"34039"	"2002"	"2002"	"Suicide"	"2"	29	527625	5.5
+	"Union County, NJ"	"34039"	"2002"	"2002"	"Homicide"	"3"	22	527625	4.2
+	"Union County, NJ"	"34039"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	10	527625	Unreliable
+	"Union County, NJ"	"34039"	"2003"	"2003"	"Unintentional"	"1"	128	527611	24.3
+	"Union County, NJ"	"34039"	"2003"	"2003"	"Suicide"	"2"	26	527611	4.9
+	"Union County, NJ"	"34039"	"2003"	"2003"	"Homicide"	"3"	28	527611	5.3
+	"Union County, NJ"	"34039"	"2004"	"2004"	"Unintentional"	"1"	136	526916	25.8
+	"Union County, NJ"	"34039"	"2004"	"2004"	"Suicide"	"2"	26	526916	4.9
+	"Union County, NJ"	"34039"	"2004"	"2004"	"Homicide"	"3"	22	526916	4.2
+	"Union County, NJ"	"34039"	"2005"	"2005"	"Unintentional"	"1"	103	526161	19.6
+	"Union County, NJ"	"34039"	"2005"	"2005"	"Suicide"	"2"	28	526161	5.3
+	"Union County, NJ"	"34039"	"2005"	"2005"	"Homicide"	"3"	34	526161	6.5
+	"Union County, NJ"	"34039"	"2006"	"2006"	"Unintentional"	"1"	118	525153	22.5
+	"Union County, NJ"	"34039"	"2006"	"2006"	"Suicide"	"2"	26	525153	5.0
+	"Union County, NJ"	"34039"	"2006"	"2006"	"Homicide"	"3"	43	525153	8.2
+	"Union County, NJ"	"34039"	"2007"	"2007"	"Unintentional"	"1"	133	524960	25.3
+	"Union County, NJ"	"34039"	"2007"	"2007"	"Suicide"	"2"	37	524960	7.0
+	"Union County, NJ"	"34039"	"2007"	"2007"	"Homicide"	"3"	31	524960	5.9
+	"Union County, NJ"	"34039"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	10	524960	Unreliable
+	"Union County, NJ"	"34039"	"2008"	"2008"	"Unintentional"	"1"	140	527528	26.5
+	"Union County, NJ"	"34039"	"2008"	"2008"	"Suicide"	"2"	31	527528	5.9
+	"Union County, NJ"	"34039"	"2008"	"2008"	"Homicide"	"3"	25	527528	4.7
+	"Union County, NJ"	"34039"	"2009"	"2009"	"Unintentional"	"1"	98	532434	18.4
+	"Union County, NJ"	"34039"	"2009"	"2009"	"Suicide"	"2"	28	532434	5.3
+	"Union County, NJ"	"34039"	"2009"	"2009"	"Homicide"	"3"	20	532434	3.8
+	"Union County, NJ"	"34039"	"2010"	"2010"	"Unintentional"	"1"	120	536499	22.4
+	"Union County, NJ"	"34039"	"2010"	"2010"	"Suicide"	"2"	29	536499	5.4
+	"Union County, NJ"	"34039"	"2010"	"2010"	"Homicide"	"3"	32	536499	6.0
+	"Union County, NJ"	"34039"	"2011"	"2011"	"Unintentional"	"1"	124	539494	23.0
+	"Union County, NJ"	"34039"	"2011"	"2011"	"Suicide"	"2"	23	539494	4.3
+	"Union County, NJ"	"34039"	"2011"	"2011"	"Homicide"	"3"	38	539494	7.0
+	"Union County, NJ"	"34039"	"2012"	"2012"	"Unintentional"	"1"	139	543976	25.6
+	"Union County, NJ"	"34039"	"2012"	"2012"	"Suicide"	"2"	30	543976	5.5
+	"Union County, NJ"	"34039"	"2012"	"2012"	"Homicide"	"3"	31	543976	5.7
+	"Union County, NJ"	"34039"	"2013"	"2013"	"Unintentional"	"1"	136	548256	24.8
+	"Union County, NJ"	"34039"	"2013"	"2013"	"Suicide"	"2"	36	548256	6.6
+	"Union County, NJ"	"34039"	"2013"	"2013"	"Homicide"	"3"	30	548256	5.5
+	"Union County, NJ"	"34039"	"2014"	"2014"	"Unintentional"	"1"	135	552939	24.4
+	"Union County, NJ"	"34039"	"2014"	"2014"	"Suicide"	"2"	40	552939	7.2
+	"Union County, NJ"	"34039"	"2014"	"2014"	"Homicide"	"3"	23	552939	4.2
+	"Union County, NJ"	"34039"	"2015"	"2015"	"Unintentional"	"1"	172	555786	30.9
+	"Union County, NJ"	"34039"	"2015"	"2015"	"Suicide"	"2"	40	555786	7.2
+	"Union County, NJ"	"34039"	"2015"	"2015"	"Homicide"	"3"	23	555786	4.1
+	"Union County, NJ"	"34039"	"2016"	"2016"	"Unintentional"	"1"	182	555630	32.8
+	"Union County, NJ"	"34039"	"2016"	"2016"	"Suicide"	"2"	32	555630	5.8
+	"Union County, NJ"	"34039"	"2016"	"2016"	"Homicide"	"3"	23	555630	4.1
+	"Union County, NJ"	"34039"	"2017"	"2017"	"Unintentional"	"1"	219	563892	38.8
+	"Union County, NJ"	"34039"	"2017"	"2017"	"Suicide"	"2"	47	563892	8.3
+	"Union County, NJ"	"34039"	"2017"	"2017"	"Homicide"	"3"	22	563892	3.9
+	"Union County, NJ"	"34039"	"2018"	"2018"	"Unintentional"	"1"	250	558067	44.8
+	"Union County, NJ"	"34039"	"2018"	"2018"	"Suicide"	"2"	37	558067	6.6
+	"Union County, NJ"	"34039"	"2018"	"2018"	"Homicide"	"3"	11	558067	Unreliable
+	"Warren County, NJ"	"34041"	"1999"	"1999"	"Unintentional"	"1"	36	101040	35.6
+	"Warren County, NJ"	"34041"	"1999"	"1999"	"Suicide"	"2"	10	101040	Unreliable
+	"Warren County, NJ"	"34041"	"2000"	"2000"	"Unintentional"	"1"	35	102437	34.2
+	"Warren County, NJ"	"34041"	"2000"	"2000"	"Suicide"	"2"	10	102437	Unreliable
+	"Warren County, NJ"	"34041"	"2001"	"2001"	"Unintentional"	"1"	30	105201	28.5
+	"Warren County, NJ"	"34041"	"2001"	"2001"	"Suicide"	"2"	12	105201	Unreliable
+	"Warren County, NJ"	"34041"	"2002"	"2002"	"Unintentional"	"1"	38	106774	35.6
+	"Warren County, NJ"	"34041"	"2003"	"2003"	"Unintentional"	"1"	35	108163	32.4
+	"Warren County, NJ"	"34041"	"2004"	"2004"	"Unintentional"	"1"	33	108491	30.4
+	"Warren County, NJ"	"34041"	"2005"	"2005"	"Unintentional"	"1"	26	108855	23.9
+	"Warren County, NJ"	"34041"	"2006"	"2006"	"Unintentional"	"1"	40	109059	36.7
+	"Warren County, NJ"	"34041"	"2006"	"2006"	"Suicide"	"2"	12	109059	Unreliable
+	"Warren County, NJ"	"34041"	"2007"	"2007"	"Unintentional"	"1"	33	109179	30.2
+	"Warren County, NJ"	"34041"	"2008"	"2008"	"Unintentional"	"1"	23	109264	21.0
+	"Warren County, NJ"	"34041"	"2009"	"2009"	"Unintentional"	"1"	27	108693	24.8
+	"Warren County, NJ"	"34041"	"2010"	"2010"	"Unintentional"	"1"	40	108692	36.8
+	"Warren County, NJ"	"34041"	"2010"	"2010"	"Suicide"	"2"	10	108692	Unreliable
+	"Warren County, NJ"	"34041"	"2011"	"2011"	"Unintentional"	"1"	39	108339	36.0
+	"Warren County, NJ"	"34041"	"2011"	"2011"	"Suicide"	"2"	15	108339	Unreliable
+	"Warren County, NJ"	"34041"	"2012"	"2012"	"Unintentional"	"1"	51	107653	47.4
+	"Warren County, NJ"	"34041"	"2012"	"2012"	"Suicide"	"2"	11	107653	Unreliable
+	"Warren County, NJ"	"34041"	"2013"	"2013"	"Unintentional"	"1"	34	107379	31.7
+	"Warren County, NJ"	"34041"	"2013"	"2013"	"Suicide"	"2"	17	107379	Unreliable
+	"Warren County, NJ"	"34041"	"2014"	"2014"	"Unintentional"	"1"	48	106917	44.9
+	"Warren County, NJ"	"34041"	"2014"	"2014"	"Suicide"	"2"	14	106917	Unreliable
+	"Warren County, NJ"	"34041"	"2015"	"2015"	"Unintentional"	"1"	56	106869	52.4
+	"Warren County, NJ"	"34041"	"2016"	"2016"	"Unintentional"	"1"	53	106617	49.7
+	"Warren County, NJ"	"34041"	"2016"	"2016"	"Suicide"	"2"	15	106617	Unreliable
+	"Warren County, NJ"	"34041"	"2017"	"2017"	"Unintentional"	"1"	65	106798	60.9
+	"Warren County, NJ"	"34041"	"2017"	"2017"	"Suicide"	"2"	18	106798	Unreliable
+	"Warren County, NJ"	"34041"	"2018"	"2018"	"Unintentional"	"1"	64	105779	60.5
+	"Warren County, NJ"	"34041"	"2018"	"2018"	"Suicide"	"2"	13	105779	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: New_Jersey"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: New Jersey (34)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:53:42 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:53:42 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

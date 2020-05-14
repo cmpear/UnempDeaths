@@ -1,0 +1,270 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Hawaii County, HI"	"15001"	"1999"	"1999"	"Unintentional"	"1"	66	146970	44.9
+	"Hawaii County, HI"	"15001"	"1999"	"1999"	"Suicide"	"2"	18	146970	Unreliable
+	"Hawaii County, HI"	"15001"	"2000"	"2000"	"Unintentional"	"1"	70	148677	47.1
+	"Hawaii County, HI"	"15001"	"2000"	"2000"	"Suicide"	"2"	21	148677	14.1
+	"Hawaii County, HI"	"15001"	"2001"	"2001"	"Unintentional"	"1"	72	151690	47.5
+	"Hawaii County, HI"	"15001"	"2001"	"2001"	"Suicide"	"2"	19	151690	Unreliable
+	"Hawaii County, HI"	"15001"	"2002"	"2002"	"Unintentional"	"1"	64	154576	41.4
+	"Hawaii County, HI"	"15001"	"2002"	"2002"	"Suicide"	"2"	19	154576	Unreliable
+	"Hawaii County, HI"	"15001"	"2003"	"2003"	"Unintentional"	"1"	82	158442	51.8
+	"Hawaii County, HI"	"15001"	"2003"	"2003"	"Suicide"	"2"	24	158442	15.1
+	"Hawaii County, HI"	"15001"	"2004"	"2004"	"Unintentional"	"1"	66	162852	40.5
+	"Hawaii County, HI"	"15001"	"2004"	"2004"	"Suicide"	"2"	17	162852	Unreliable
+	"Hawaii County, HI"	"15001"	"2004"	"2004"	"Undetermined "	"4"	14	162852	Unreliable
+	"Hawaii County, HI"	"15001"	"2005"	"2005"	"Unintentional"	"1"	75	168237	44.6
+	"Hawaii County, HI"	"15001"	"2005"	"2005"	"Suicide"	"2"	11	168237	Unreliable
+	"Hawaii County, HI"	"15001"	"2005"	"2005"	"Undetermined "	"4"	26	168237	15.5
+	"Hawaii County, HI"	"15001"	"2006"	"2006"	"Unintentional"	"1"	82	173536	47.3
+	"Hawaii County, HI"	"15001"	"2006"	"2006"	"Suicide"	"2"	18	173536	Unreliable
+	"Hawaii County, HI"	"15001"	"2006"	"2006"	"Undetermined "	"4"	14	173536	Unreliable
+	"Hawaii County, HI"	"15001"	"2007"	"2007"	"Unintentional"	"1"	77	177733	43.3
+	"Hawaii County, HI"	"15001"	"2007"	"2007"	"Suicide"	"2"	20	177733	11.3
+	"Hawaii County, HI"	"15001"	"2007"	"2007"	"Undetermined "	"4"	18	177733	Unreliable
+	"Hawaii County, HI"	"15001"	"2008"	"2008"	"Unintentional"	"1"	77	181506	42.4
+	"Hawaii County, HI"	"15001"	"2008"	"2008"	"Suicide"	"2"	29	181506	16.0
+	"Hawaii County, HI"	"15001"	"2008"	"2008"	"Undetermined "	"4"	17	181506	Unreliable
+	"Hawaii County, HI"	"15001"	"2009"	"2009"	"Unintentional"	"1"	75	183629	40.8
+	"Hawaii County, HI"	"15001"	"2009"	"2009"	"Suicide"	"2"	36	183629	19.6
+	"Hawaii County, HI"	"15001"	"2009"	"2009"	"Undetermined "	"4"	20	183629	10.9
+	"Hawaii County, HI"	"15001"	"2010"	"2010"	"Unintentional"	"1"	61	185079	33.0
+	"Hawaii County, HI"	"15001"	"2010"	"2010"	"Suicide"	"2"	30	185079	16.2
+	"Hawaii County, HI"	"15001"	"2010"	"2010"	"Undetermined "	"4"	16	185079	Unreliable
+	"Hawaii County, HI"	"15001"	"2011"	"2011"	"Unintentional"	"1"	68	186738	36.4
+	"Hawaii County, HI"	"15001"	"2011"	"2011"	"Suicide"	"2"	37	186738	19.8
+	"Hawaii County, HI"	"15001"	"2011"	"2011"	"Undetermined "	"4"	17	186738	Unreliable
+	"Hawaii County, HI"	"15001"	"2012"	"2012"	"Unintentional"	"1"	81	189191	42.8
+	"Hawaii County, HI"	"15001"	"2012"	"2012"	"Suicide"	"2"	32	189191	16.9
+	"Hawaii County, HI"	"15001"	"2013"	"2013"	"Unintentional"	"1"	66	190821	34.6
+	"Hawaii County, HI"	"15001"	"2013"	"2013"	"Suicide"	"2"	47	190821	24.6
+	"Hawaii County, HI"	"15001"	"2013"	"2013"	"Undetermined "	"4"	10	190821	Unreliable
+	"Hawaii County, HI"	"15001"	"2014"	"2014"	"Unintentional"	"1"	51	194190	26.3
+	"Hawaii County, HI"	"15001"	"2014"	"2014"	"Suicide"	"2"	40	194190	20.6
+	"Hawaii County, HI"	"15001"	"2014"	"2014"	"Undetermined "	"4"	10	194190	Unreliable
+	"Hawaii County, HI"	"15001"	"2015"	"2015"	"Unintentional"	"1"	76	196428	38.7
+	"Hawaii County, HI"	"15001"	"2015"	"2015"	"Suicide"	"2"	35	196428	17.8
+	"Hawaii County, HI"	"15001"	"2015"	"2015"	"Homicide"	"3"	10	196428	Unreliable
+	"Hawaii County, HI"	"15001"	"2015"	"2015"	"Undetermined "	"4"	11	196428	Unreliable
+	"Hawaii County, HI"	"15001"	"2016"	"2016"	"Unintentional"	"1"	72	198449	36.3
+	"Hawaii County, HI"	"15001"	"2016"	"2016"	"Suicide"	"2"	32	198449	16.1
+	"Hawaii County, HI"	"15001"	"2016"	"2016"	"Homicide"	"3"	11	198449	Unreliable
+	"Hawaii County, HI"	"15001"	"2017"	"2017"	"Unintentional"	"1"	82	200381	40.9
+	"Hawaii County, HI"	"15001"	"2017"	"2017"	"Suicide"	"2"	41	200381	20.5
+	"Hawaii County, HI"	"15001"	"2017"	"2017"	"Undetermined "	"4"	15	200381	Unreliable
+	"Hawaii County, HI"	"15001"	"2018"	"2018"	"Unintentional"	"1"	100	200983	49.8
+	"Hawaii County, HI"	"15001"	"2018"	"2018"	"Suicide"	"2"	41	200983	20.4
+	"Honolulu County, HI"	"15003"	"1999"	"1999"	"Unintentional"	"1"	181	878906	20.6
+	"Honolulu County, HI"	"15003"	"1999"	"1999"	"Suicide"	"2"	91	878906	10.4
+	"Honolulu County, HI"	"15003"	"1999"	"1999"	"Homicide"	"3"	31	878906	3.5
+	"Honolulu County, HI"	"15003"	"1999"	"1999"	"Undetermined "	"4"	18	878906	Unreliable
+	"Honolulu County, HI"	"15003"	"2000"	"2000"	"Unintentional"	"1"	219	876156	25.0
+	"Honolulu County, HI"	"15003"	"2000"	"2000"	"Suicide"	"2"	94	876156	10.7
+	"Honolulu County, HI"	"15003"	"2000"	"2000"	"Homicide"	"3"	21	876156	2.4
+	"Honolulu County, HI"	"15003"	"2000"	"2000"	"Undetermined "	"4"	18	876156	Unreliable
+	"Honolulu County, HI"	"15003"	"2001"	"2001"	"Unintentional"	"1"	240	882755	27.2
+	"Honolulu County, HI"	"15003"	"2001"	"2001"	"Suicide"	"2"	93	882755	10.5
+	"Honolulu County, HI"	"15003"	"2001"	"2001"	"Homicide"	"3"	19	882755	Unreliable
+	"Honolulu County, HI"	"15003"	"2001"	"2001"	"Undetermined "	"4"	22	882755	2.5
+	"Honolulu County, HI"	"15003"	"2002"	"2002"	"Unintentional"	"1"	269	890473	30.2
+	"Honolulu County, HI"	"15003"	"2002"	"2002"	"Suicide"	"2"	80	890473	9.0
+	"Honolulu County, HI"	"15003"	"2002"	"2002"	"Homicide"	"3"	29	890473	3.3
+	"Honolulu County, HI"	"15003"	"2002"	"2002"	"Undetermined "	"4"	19	890473	Unreliable
+	"Honolulu County, HI"	"15003"	"2003"	"2003"	"Unintentional"	"1"	279	894311	31.2
+	"Honolulu County, HI"	"15003"	"2003"	"2003"	"Suicide"	"2"	85	894311	9.5
+	"Honolulu County, HI"	"15003"	"2003"	"2003"	"Homicide"	"3"	14	894311	Unreliable
+	"Honolulu County, HI"	"15003"	"2003"	"2003"	"Undetermined "	"4"	14	894311	Unreliable
+	"Honolulu County, HI"	"15003"	"2004"	"2004"	"Unintentional"	"1"	266	907997	29.3
+	"Honolulu County, HI"	"15003"	"2004"	"2004"	"Suicide"	"2"	81	907997	8.9
+	"Honolulu County, HI"	"15003"	"2004"	"2004"	"Homicide"	"3"	24	907997	2.6
+	"Honolulu County, HI"	"15003"	"2004"	"2004"	"Undetermined "	"4"	19	907997	Unreliable
+	"Honolulu County, HI"	"15003"	"2005"	"2005"	"Unintentional"	"1"	306	918181	33.3
+	"Honolulu County, HI"	"15003"	"2005"	"2005"	"Suicide"	"2"	68	918181	7.4
+	"Honolulu County, HI"	"15003"	"2005"	"2005"	"Homicide"	"3"	16	918181	Unreliable
+	"Honolulu County, HI"	"15003"	"2005"	"2005"	"Undetermined "	"4"	22	918181	2.4
+	"Honolulu County, HI"	"15003"	"2006"	"2006"	"Unintentional"	"1"	300	926954	32.4
+	"Honolulu County, HI"	"15003"	"2006"	"2006"	"Suicide"	"2"	78	926954	8.4
+	"Honolulu County, HI"	"15003"	"2006"	"2006"	"Homicide"	"3"	20	926954	2.2
+	"Honolulu County, HI"	"15003"	"2006"	"2006"	"Undetermined "	"4"	36	926954	3.9
+	"Honolulu County, HI"	"15003"	"2007"	"2007"	"Unintentional"	"1"	317	925335	34.3
+	"Honolulu County, HI"	"15003"	"2007"	"2007"	"Suicide"	"2"	83	925335	9.0
+	"Honolulu County, HI"	"15003"	"2007"	"2007"	"Homicide"	"3"	20	925335	2.2
+	"Honolulu County, HI"	"15003"	"2007"	"2007"	"Undetermined "	"4"	20	925335	2.2
+	"Honolulu County, HI"	"15003"	"2008"	"2008"	"Unintentional"	"1"	262	933680	28.1
+	"Honolulu County, HI"	"15003"	"2008"	"2008"	"Suicide"	"2"	76	933680	8.1
+	"Honolulu County, HI"	"15003"	"2008"	"2008"	"Homicide"	"3"	19	933680	Unreliable
+	"Honolulu County, HI"	"15003"	"2008"	"2008"	"Undetermined "	"4"	10	933680	Unreliable
+	"Honolulu County, HI"	"15003"	"2009"	"2009"	"Unintentional"	"1"	304	943177	32.2
+	"Honolulu County, HI"	"15003"	"2009"	"2009"	"Suicide"	"2"	96	943177	10.2
+	"Honolulu County, HI"	"15003"	"2009"	"2009"	"Homicide"	"3"	14	943177	Unreliable
+	"Honolulu County, HI"	"15003"	"2009"	"2009"	"Undetermined "	"4"	14	943177	Unreliable
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Unintentional"	"1"	312	953207	32.7
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Suicide"	"2"	125	953207	13.1
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Homicide"	"3"	17	953207	Unreliable
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Undetermined "	"4"	14	953207	Unreliable
+	"Honolulu County, HI"	"15003"	"2011"	"2011"	"Unintentional"	"1"	350	963607	36.3
+	"Honolulu County, HI"	"15003"	"2011"	"2011"	"Suicide"	"2"	110	963607	11.4
+	"Honolulu County, HI"	"15003"	"2011"	"2011"	"Homicide"	"3"	15	963607	Unreliable
+	"Honolulu County, HI"	"15003"	"2011"	"2011"	"Undetermined "	"4"	30	963607	3.1
+	"Honolulu County, HI"	"15003"	"2012"	"2012"	"Unintentional"	"1"	295	976372	30.2
+	"Honolulu County, HI"	"15003"	"2012"	"2012"	"Suicide"	"2"	121	976372	12.4
+	"Honolulu County, HI"	"15003"	"2012"	"2012"	"Homicide"	"3"	14	976372	Unreliable
+	"Honolulu County, HI"	"15003"	"2012"	"2012"	"Undetermined "	"4"	26	976372	2.7
+	"Honolulu County, HI"	"15003"	"2013"	"2013"	"Unintentional"	"1"	330	983429	33.6
+	"Honolulu County, HI"	"15003"	"2013"	"2013"	"Suicide"	"2"	94	983429	9.6
+	"Honolulu County, HI"	"15003"	"2013"	"2013"	"Homicide"	"3"	22	983429	2.2
+	"Honolulu County, HI"	"15003"	"2013"	"2013"	"Undetermined "	"4"	13	983429	Unreliable
+	"Honolulu County, HI"	"15003"	"2014"	"2014"	"Unintentional"	"1"	324	991788	32.7
+	"Honolulu County, HI"	"15003"	"2014"	"2014"	"Suicide"	"2"	121	991788	12.2
+	"Honolulu County, HI"	"15003"	"2014"	"2014"	"Homicide"	"3"	22	991788	2.2
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	"Unintentional"	"1"	363	998714	36.3
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	"Suicide"	"2"	122	998714	12.2
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	"Homicide"	"3"	16	998714	Unreliable
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	"Undetermined "	"4"	14	998714	Unreliable
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	11	998714	Unreliable
+	"Honolulu County, HI"	"15003"	"2016"	"2016"	"Unintentional"	"1"	410	992605	41.3
+	"Honolulu County, HI"	"15003"	"2016"	"2016"	"Suicide"	"2"	105	992605	10.6
+	"Honolulu County, HI"	"15003"	"2016"	"2016"	"Homicide"	"3"	21	992605	2.1
+	"Honolulu County, HI"	"15003"	"2017"	"2017"	"Unintentional"	"1"	415	988650	42.0
+	"Honolulu County, HI"	"15003"	"2017"	"2017"	"Suicide"	"2"	125	988650	12.6
+	"Honolulu County, HI"	"15003"	"2017"	"2017"	"Homicide"	"3"	32	988650	3.2
+	"Honolulu County, HI"	"15003"	"2017"	"2017"	"Undetermined "	"4"	13	988650	Unreliable
+	"Honolulu County, HI"	"15003"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	10	988650	Unreliable
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	"Unintentional"	"1"	429	980080	43.8
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	"Suicide"	"2"	95	980080	9.7
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	"Homicide"	"3"	23	980080	2.3
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	"Undetermined "	"4"	11	980080	Unreliable
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	15	980080	Unreliable
+	"Kauai County, HI"	"15007"	"1999"	"1999"	"Unintentional"	"1"	19	58264	Unreliable
+	"Kauai County, HI"	"15007"	"2000"	"2000"	"Unintentional"	"1"	17	58463	Unreliable
+	"Kauai County, HI"	"15007"	"2001"	"2001"	"Unintentional"	"1"	15	59075	Unreliable
+	"Kauai County, HI"	"15007"	"2001"	"2001"	"Suicide"	"2"	10	59075	Unreliable
+	"Kauai County, HI"	"15007"	"2002"	"2002"	"Unintentional"	"1"	18	59981	Unreliable
+	"Kauai County, HI"	"15007"	"2003"	"2003"	"Unintentional"	"1"	20	60805	32.9
+	"Kauai County, HI"	"15007"	"2004"	"2004"	"Unintentional"	"1"	21	62095	33.8
+	"Kauai County, HI"	"15007"	"2005"	"2005"	"Unintentional"	"1"	18	62863	Unreliable
+	"Kauai County, HI"	"15007"	"2005"	"2005"	"Suicide"	"2"	11	62863	Unreliable
+	"Kauai County, HI"	"15007"	"2006"	"2006"	"Unintentional"	"1"	24	63465	37.8
+	"Kauai County, HI"	"15007"	"2007"	"2007"	"Unintentional"	"1"	32	64490	49.6
+	"Kauai County, HI"	"15007"	"2008"	"2008"	"Unintentional"	"1"	23	65603	35.1
+	"Kauai County, HI"	"15007"	"2008"	"2008"	"Suicide"	"2"	10	65603	Unreliable
+	"Kauai County, HI"	"15007"	"2009"	"2009"	"Unintentional"	"1"	20	66518	30.1
+	"Kauai County, HI"	"15007"	"2010"	"2010"	"Unintentional"	"1"	20	67091	29.8
+	"Kauai County, HI"	"15007"	"2010"	"2010"	"Suicide"	"2"	18	67091	Unreliable
+	"Kauai County, HI"	"15007"	"2011"	"2011"	"Unintentional"	"1"	23	67701	34.0
+	"Kauai County, HI"	"15007"	"2012"	"2012"	"Unintentional"	"1"	23	68434	33.6
+	"Kauai County, HI"	"15007"	"2012"	"2012"	"Suicide"	"2"	12	68434	Unreliable
+	"Kauai County, HI"	"15007"	"2013"	"2013"	"Unintentional"	"1"	18	69512	Unreliable
+	"Kauai County, HI"	"15007"	"2014"	"2014"	"Unintentional"	"1"	21	70475	29.8
+	"Kauai County, HI"	"15007"	"2014"	"2014"	"Suicide"	"2"	15	70475	Unreliable
+	"Kauai County, HI"	"15007"	"2015"	"2015"	"Unintentional"	"1"	20	71735	27.9
+	"Kauai County, HI"	"15007"	"2015"	"2015"	"Suicide"	"2"	16	71735	Unreliable
+	"Kauai County, HI"	"15007"	"2016"	"2016"	"Unintentional"	"1"	31	72029	43.0
+	"Kauai County, HI"	"15007"	"2016"	"2016"	"Suicide"	"2"	13	72029	Unreliable
+	"Kauai County, HI"	"15007"	"2017"	"2017"	"Unintentional"	"1"	28	72159	38.8
+	"Kauai County, HI"	"15007"	"2017"	"2017"	"Suicide"	"2"	26	72159	36.0
+	"Kauai County, HI"	"15007"	"2018"	"2018"	"Unintentional"	"1"	34	72133	47.1
+	"Kauai County, HI"	"15007"	"2018"	"2018"	"Suicide"	"2"	14	72133	Unreliable
+	"Maui County, HI"	"15009"	"1999"	"1999"	"Unintentional"	"1"	27	126002	21.4
+	"Maui County, HI"	"15009"	"1999"	"1999"	"Suicide"	"2"	20	126002	15.9
+	"Maui County, HI"	"15009"	"2000"	"2000"	"Unintentional"	"1"	37	128094	28.9
+	"Maui County, HI"	"15009"	"2000"	"2000"	"Suicide"	"2"	18	128094	Unreliable
+	"Maui County, HI"	"15009"	"2001"	"2001"	"Unintentional"	"1"	45	132290	34.0
+	"Maui County, HI"	"15009"	"2001"	"2001"	"Suicide"	"2"	14	132290	Unreliable
+	"Maui County, HI"	"15009"	"2002"	"2002"	"Unintentional"	"1"	42	134450	31.2
+	"Maui County, HI"	"15009"	"2002"	"2002"	"Suicide"	"2"	13	134450	Unreliable
+	"Maui County, HI"	"15009"	"2002"	"2002"	"Undetermined "	"4"	11	134450	Unreliable
+	"Maui County, HI"	"15009"	"2003"	"2003"	"Unintentional"	"1"	34	137469	24.7
+	"Maui County, HI"	"15009"	"2003"	"2003"	"Suicide"	"2"	18	137469	Unreliable
+	"Maui County, HI"	"15009"	"2004"	"2004"	"Unintentional"	"1"	37	140508	26.3
+	"Maui County, HI"	"15009"	"2004"	"2004"	"Suicide"	"2"	14	140508	Unreliable
+	"Maui County, HI"	"15009"	"2005"	"2005"	"Unintentional"	"1"	37	143334	25.8
+	"Maui County, HI"	"15009"	"2005"	"2005"	"Suicide"	"2"	17	143334	Unreliable
+	"Maui County, HI"	"15009"	"2005"	"2005"	"Undetermined "	"4"	14	143334	Unreliable
+	"Maui County, HI"	"15009"	"2006"	"2006"	"Unintentional"	"1"	35	145667	24.0
+	"Maui County, HI"	"15009"	"2006"	"2006"	"Suicide"	"2"	17	145667	Unreliable
+	"Maui County, HI"	"15009"	"2006"	"2006"	"Undetermined "	"4"	18	145667	Unreliable
+	"Maui County, HI"	"15009"	"2007"	"2007"	"Unintentional"	"1"	44	148012	29.7
+	"Maui County, HI"	"15009"	"2007"	"2007"	"Suicide"	"2"	22	148012	14.9
+	"Maui County, HI"	"15009"	"2007"	"2007"	"Undetermined "	"4"	22	148012	14.9
+	"Maui County, HI"	"15009"	"2008"	"2008"	"Unintentional"	"1"	44	151325	29.1
+	"Maui County, HI"	"15009"	"2008"	"2008"	"Suicide"	"2"	18	151325	Unreliable
+	"Maui County, HI"	"15009"	"2008"	"2008"	"Undetermined "	"4"	15	151325	Unreliable
+	"Maui County, HI"	"15009"	"2009"	"2009"	"Unintentional"	"1"	37	153300	24.1
+	"Maui County, HI"	"15009"	"2009"	"2009"	"Suicide"	"2"	34	153300	22.2
+	"Maui County, HI"	"15009"	"2009"	"2009"	"Undetermined "	"4"	17	153300	Unreliable
+	"Maui County, HI"	"15009"	"2010"	"2010"	"Unintentional"	"1"	39	154834	25.2
+	"Maui County, HI"	"15009"	"2010"	"2010"	"Suicide"	"2"	34	154834	22.0
+	"Maui County, HI"	"15009"	"2010"	"2010"	"Undetermined "	"4"	23	154834	14.9
+	"Maui County, HI"	"15009"	"2011"	"2011"	"Unintentional"	"1"	76	156674	48.5
+	"Maui County, HI"	"15009"	"2011"	"2011"	"Suicide"	"2"	25	156674	16.0
+	"Maui County, HI"	"15009"	"2011"	"2011"	"Undetermined "	"4"	15	156674	Unreliable
+	"Maui County, HI"	"15009"	"2012"	"2012"	"Unintentional"	"1"	59	158226	37.3
+	"Maui County, HI"	"15009"	"2012"	"2012"	"Suicide"	"2"	25	158226	15.8
+	"Maui County, HI"	"15009"	"2012"	"2012"	"Undetermined "	"4"	14	158226	Unreliable
+	"Maui County, HI"	"15009"	"2013"	"2013"	"Unintentional"	"1"	53	160202	33.1
+	"Maui County, HI"	"15009"	"2013"	"2013"	"Suicide"	"2"	26	160202	16.2
+	"Maui County, HI"	"15009"	"2014"	"2014"	"Unintentional"	"1"	80	163019	49.1
+	"Maui County, HI"	"15009"	"2014"	"2014"	"Suicide"	"2"	28	163019	17.2
+	"Maui County, HI"	"15009"	"2015"	"2015"	"Unintentional"	"1"	77	164637	46.8
+	"Maui County, HI"	"15009"	"2015"	"2015"	"Suicide"	"2"	28	164637	17.0
+	"Maui County, HI"	"15009"	"2016"	"2016"	"Unintentional"	"1"	64	165386	38.7
+	"Maui County, HI"	"15009"	"2016"	"2016"	"Suicide"	"2"	24	165386	14.5
+	"Maui County, HI"	"15009"	"2017"	"2017"	"Unintentional"	"1"	60	166260	36.1
+	"Maui County, HI"	"15009"	"2017"	"2017"	"Suicide"	"2"	35	166260	21.1
+	"Maui County, HI"	"15009"	"2018"	"2018"	"Unintentional"	"1"	62	167207	37.1
+	"Maui County, HI"	"15009"	"2018"	"2018"	"Suicide"	"2"	26	167207	15.5
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Hawaii"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Hawaii (15)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:00:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:00:20 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,338 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Addison County, VT"	"50001"	"1999"	"1999"	"Unintentional"	"1"	20	35687	56.0
+	"Addison County, VT"	"50001"	"2000"	"2000"	"Unintentional"	"1"	13	35974	Unreliable
+	"Addison County, VT"	"50001"	"2001"	"2001"	"Unintentional"	"1"	18	36055	Unreliable
+	"Addison County, VT"	"50001"	"2002"	"2002"	"Unintentional"	"1"	13	36320	Unreliable
+	"Addison County, VT"	"50001"	"2003"	"2003"	"Unintentional"	"1"	14	36432	Unreliable
+	"Addison County, VT"	"50001"	"2004"	"2004"	"Unintentional"	"1"	18	36580	Unreliable
+	"Addison County, VT"	"50001"	"2005"	"2005"	"Unintentional"	"1"	13	36611	Unreliable
+	"Addison County, VT"	"50001"	"2006"	"2006"	"Unintentional"	"1"	19	36758	Unreliable
+	"Addison County, VT"	"50001"	"2007"	"2007"	"Unintentional"	"1"	14	36886	Unreliable
+	"Addison County, VT"	"50001"	"2008"	"2008"	"Unintentional"	"1"	19	36905	Unreliable
+	"Addison County, VT"	"50001"	"2009"	"2009"	"Unintentional"	"1"	18	36847	Unreliable
+	"Addison County, VT"	"50001"	"2010"	"2010"	"Unintentional"	"1"	18	36821	Unreliable
+	"Addison County, VT"	"50001"	"2011"	"2011"	"Unintentional"	"1"	17	36742	Unreliable
+	"Addison County, VT"	"50001"	"2012"	"2012"	"Unintentional"	"1"	19	36745	Unreliable
+	"Addison County, VT"	"50001"	"2013"	"2013"	"Unintentional"	"1"	21	36791	57.1
+	"Addison County, VT"	"50001"	"2014"	"2014"	"Unintentional"	"1"	16	37009	Unreliable
+	"Addison County, VT"	"50001"	"2015"	"2015"	"Unintentional"	"1"	16	37035	Unreliable
+	"Addison County, VT"	"50001"	"2016"	"2016"	"Unintentional"	"1"	20	36959	54.1
+	"Addison County, VT"	"50001"	"2017"	"2017"	"Unintentional"	"1"	17	36776	Unreliable
+	"Addison County, VT"	"50001"	"2018"	"2018"	"Unintentional"	"1"	18	36973	Unreliable
+	"Bennington County, VT"	"50003"	"1999"	"1999"	"Unintentional"	"1"	13	36927	Unreliable
+	"Bennington County, VT"	"50003"	"2000"	"2000"	"Unintentional"	"1"	23	36994	62.2
+	"Bennington County, VT"	"50003"	"2001"	"2001"	"Unintentional"	"1"	21	36974	56.8
+	"Bennington County, VT"	"50003"	"2003"	"2003"	"Unintentional"	"1"	15	37083	Unreliable
+	"Bennington County, VT"	"50003"	"2004"	"2004"	"Unintentional"	"1"	18	37062	Unreliable
+	"Bennington County, VT"	"50003"	"2005"	"2005"	"Unintentional"	"1"	26	36960	70.3
+	"Bennington County, VT"	"50003"	"2006"	"2006"	"Unintentional"	"1"	14	37127	Unreliable
+	"Bennington County, VT"	"50003"	"2007"	"2007"	"Unintentional"	"1"	20	37077	53.9
+	"Bennington County, VT"	"50003"	"2008"	"2008"	"Unintentional"	"1"	27	37168	72.6
+	"Bennington County, VT"	"50003"	"2009"	"2009"	"Unintentional"	"1"	21	37151	56.5
+	"Bennington County, VT"	"50003"	"2010"	"2010"	"Unintentional"	"1"	24	37125	64.6
+	"Bennington County, VT"	"50003"	"2011"	"2011"	"Unintentional"	"1"	26	36970	70.3
+	"Bennington County, VT"	"50003"	"2011"	"2011"	"Suicide"	"2"	14	36970	Unreliable
+	"Bennington County, VT"	"50003"	"2012"	"2012"	"Unintentional"	"1"	19	36697	Unreliable
+	"Bennington County, VT"	"50003"	"2013"	"2013"	"Unintentional"	"1"	24	36659	65.5
+	"Bennington County, VT"	"50003"	"2014"	"2014"	"Unintentional"	"1"	24	36445	65.9
+	"Bennington County, VT"	"50003"	"2015"	"2015"	"Unintentional"	"1"	18	36317	Unreliable
+	"Bennington County, VT"	"50003"	"2016"	"2016"	"Unintentional"	"1"	18	36191	Unreliable
+	"Bennington County, VT"	"50003"	"2017"	"2017"	"Unintentional"	"1"	25	35594	70.2
+	"Bennington County, VT"	"50003"	"2017"	"2017"	"Suicide"	"2"	10	35594	Unreliable
+	"Bennington County, VT"	"50003"	"2018"	"2018"	"Unintentional"	"1"	38	35631	106.6
+	"Caledonia County, VT"	"50005"	"2000"	"2000"	"Unintentional"	"1"	21	29702	70.7
+	"Caledonia County, VT"	"50005"	"2001"	"2001"	"Unintentional"	"1"	13	29704	Unreliable
+	"Caledonia County, VT"	"50005"	"2002"	"2002"	"Unintentional"	"1"	11	30046	Unreliable
+	"Caledonia County, VT"	"50005"	"2003"	"2003"	"Unintentional"	"1"	10	30188	Unreliable
+	"Caledonia County, VT"	"50005"	"2004"	"2004"	"Unintentional"	"1"	14	30642	Unreliable
+	"Caledonia County, VT"	"50005"	"2006"	"2006"	"Unintentional"	"1"	14	31252	Unreliable
+	"Caledonia County, VT"	"50005"	"2007"	"2007"	"Unintentional"	"1"	13	31238	Unreliable
+	"Caledonia County, VT"	"50005"	"2008"	"2008"	"Unintentional"	"1"	16	31167	Unreliable
+	"Caledonia County, VT"	"50005"	"2009"	"2009"	"Unintentional"	"1"	20	31213	64.1
+	"Caledonia County, VT"	"50005"	"2010"	"2010"	"Unintentional"	"1"	15	31227	Unreliable
+	"Caledonia County, VT"	"50005"	"2011"	"2011"	"Unintentional"	"1"	12	31166	Unreliable
+	"Caledonia County, VT"	"50005"	"2012"	"2012"	"Unintentional"	"1"	16	31121	Unreliable
+	"Caledonia County, VT"	"50005"	"2013"	"2013"	"Unintentional"	"1"	14	31157	Unreliable
+	"Caledonia County, VT"	"50005"	"2014"	"2014"	"Unintentional"	"1"	11	30981	Unreliable
+	"Caledonia County, VT"	"50005"	"2015"	"2015"	"Unintentional"	"1"	21	30780	68.2
+	"Caledonia County, VT"	"50005"	"2016"	"2016"	"Unintentional"	"1"	15	30333	Unreliable
+	"Caledonia County, VT"	"50005"	"2016"	"2016"	"Suicide"	"2"	11	30333	Unreliable
+	"Caledonia County, VT"	"50005"	"2017"	"2017"	"Unintentional"	"1"	18	30164	Unreliable
+	"Caledonia County, VT"	"50005"	"2017"	"2017"	"Suicide"	"2"	12	30164	Unreliable
+	"Caledonia County, VT"	"50005"	"2018"	"2018"	"Unintentional"	"1"	20	30302	66.0
+	"Caledonia County, VT"	"50005"	"2018"	"2018"	"Suicide"	"2"	11	30302	Unreliable
+	"Chittenden County, VT"	"50007"	"1999"	"1999"	"Unintentional"	"1"	43	145379	29.6
+	"Chittenden County, VT"	"50007"	"2000"	"2000"	"Unintentional"	"1"	45	146571	30.7
+	"Chittenden County, VT"	"50007"	"2000"	"2000"	"Suicide"	"2"	16	146571	Unreliable
+	"Chittenden County, VT"	"50007"	"2001"	"2001"	"Unintentional"	"1"	44	148441	29.6
+	"Chittenden County, VT"	"50007"	"2001"	"2001"	"Suicide"	"2"	21	148441	14.1
+	"Chittenden County, VT"	"50007"	"2002"	"2002"	"Unintentional"	"1"	63	149639	42.1
+	"Chittenden County, VT"	"50007"	"2002"	"2002"	"Suicide"	"2"	21	149639	14.0
+	"Chittenden County, VT"	"50007"	"2003"	"2003"	"Unintentional"	"1"	45	150410	29.9
+	"Chittenden County, VT"	"50007"	"2003"	"2003"	"Suicide"	"2"	21	150410	14.0
+	"Chittenden County, VT"	"50007"	"2004"	"2004"	"Unintentional"	"1"	52	151445	34.3
+	"Chittenden County, VT"	"50007"	"2004"	"2004"	"Suicide"	"2"	20	151445	13.2
+	"Chittenden County, VT"	"50007"	"2005"	"2005"	"Unintentional"	"1"	52	152163	34.2
+	"Chittenden County, VT"	"50007"	"2005"	"2005"	"Suicide"	"2"	14	152163	Unreliable
+	"Chittenden County, VT"	"50007"	"2006"	"2006"	"Unintentional"	"1"	55	152861	36.0
+	"Chittenden County, VT"	"50007"	"2006"	"2006"	"Suicide"	"2"	17	152861	Unreliable
+	"Chittenden County, VT"	"50007"	"2007"	"2007"	"Unintentional"	"1"	62	153625	40.4
+	"Chittenden County, VT"	"50007"	"2007"	"2007"	"Suicide"	"2"	21	153625	13.7
+	"Chittenden County, VT"	"50007"	"2008"	"2008"	"Unintentional"	"1"	43	154659	27.8
+	"Chittenden County, VT"	"50007"	"2008"	"2008"	"Suicide"	"2"	17	154659	Unreliable
+	"Chittenden County, VT"	"50007"	"2009"	"2009"	"Unintentional"	"1"	42	155793	27.0
+	"Chittenden County, VT"	"50007"	"2009"	"2009"	"Suicide"	"2"	16	155793	Unreliable
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Unintentional"	"1"	58	156545	37.1
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Suicide"	"2"	17	156545	Unreliable
+	"Chittenden County, VT"	"50007"	"2011"	"2011"	"Unintentional"	"1"	57	157491	36.2
+	"Chittenden County, VT"	"50007"	"2011"	"2011"	"Suicide"	"2"	22	157491	14.0
+	"Chittenden County, VT"	"50007"	"2012"	"2012"	"Unintentional"	"1"	65	158504	41.0
+	"Chittenden County, VT"	"50007"	"2012"	"2012"	"Suicide"	"2"	21	158504	13.2
+	"Chittenden County, VT"	"50007"	"2013"	"2013"	"Unintentional"	"1"	73	159515	45.8
+	"Chittenden County, VT"	"50007"	"2013"	"2013"	"Suicide"	"2"	17	159515	Unreliable
+	"Chittenden County, VT"	"50007"	"2014"	"2014"	"Unintentional"	"1"	75	160531	46.7
+	"Chittenden County, VT"	"50007"	"2014"	"2014"	"Suicide"	"2"	27	160531	16.8
+	"Chittenden County, VT"	"50007"	"2015"	"2015"	"Unintentional"	"1"	77	161382	47.7
+	"Chittenden County, VT"	"50007"	"2015"	"2015"	"Suicide"	"2"	26	161382	16.1
+	"Chittenden County, VT"	"50007"	"2016"	"2016"	"Unintentional"	"1"	71	161531	44.0
+	"Chittenden County, VT"	"50007"	"2016"	"2016"	"Suicide"	"2"	20	161531	12.4
+	"Chittenden County, VT"	"50007"	"2017"	"2017"	"Unintentional"	"1"	89	162372	54.8
+	"Chittenden County, VT"	"50007"	"2017"	"2017"	"Suicide"	"2"	18	162372	Unreliable
+	"Chittenden County, VT"	"50007"	"2018"	"2018"	"Unintentional"	"1"	80	164572	48.6
+	"Chittenden County, VT"	"50007"	"2018"	"2018"	"Suicide"	"2"	25	164572	15.2
+	"Franklin County, VT"	"50011"	"1999"	"1999"	"Unintentional"	"1"	17	44898	Unreliable
+	"Franklin County, VT"	"50011"	"2000"	"2000"	"Unintentional"	"1"	18	45417	Unreliable
+	"Franklin County, VT"	"50011"	"2001"	"2001"	"Unintentional"	"1"	13	45900	Unreliable
+	"Franklin County, VT"	"50011"	"2002"	"2002"	"Unintentional"	"1"	14	46305	Unreliable
+	"Franklin County, VT"	"50011"	"2003"	"2003"	"Unintentional"	"1"	25	46590	53.7
+	"Franklin County, VT"	"50011"	"2004"	"2004"	"Unintentional"	"1"	11	46942	Unreliable
+	"Franklin County, VT"	"50011"	"2004"	"2004"	"Suicide"	"2"	10	46942	Unreliable
+	"Franklin County, VT"	"50011"	"2005"	"2005"	"Unintentional"	"1"	14	47192	Unreliable
+	"Franklin County, VT"	"50011"	"2005"	"2005"	"Suicide"	"2"	12	47192	Unreliable
+	"Franklin County, VT"	"50011"	"2006"	"2006"	"Unintentional"	"1"	24	47392	50.6
+	"Franklin County, VT"	"50011"	"2007"	"2007"	"Unintentional"	"1"	29	47455	61.1
+	"Franklin County, VT"	"50011"	"2007"	"2007"	"Suicide"	"2"	10	47455	Unreliable
+	"Franklin County, VT"	"50011"	"2008"	"2008"	"Unintentional"	"1"	21	47462	44.2
+	"Franklin County, VT"	"50011"	"2009"	"2009"	"Unintentional"	"1"	24	47620	50.4
+	"Franklin County, VT"	"50011"	"2010"	"2010"	"Unintentional"	"1"	15	47746	Unreliable
+	"Franklin County, VT"	"50011"	"2011"	"2011"	"Unintentional"	"1"	23	48113	47.8
+	"Franklin County, VT"	"50011"	"2012"	"2012"	"Unintentional"	"1"	30	48214	62.2
+	"Franklin County, VT"	"50011"	"2013"	"2013"	"Unintentional"	"1"	28	48294	58.0
+	"Franklin County, VT"	"50011"	"2013"	"2013"	"Suicide"	"2"	11	48294	Unreliable
+	"Franklin County, VT"	"50011"	"2014"	"2014"	"Unintentional"	"1"	25	48642	51.4
+	"Franklin County, VT"	"50011"	"2015"	"2015"	"Unintentional"	"1"	31	48799	63.5
+	"Franklin County, VT"	"50011"	"2016"	"2016"	"Unintentional"	"1"	28	48915	57.2
+	"Franklin County, VT"	"50011"	"2017"	"2017"	"Unintentional"	"1"	30	49025	61.2
+	"Franklin County, VT"	"50011"	"2017"	"2017"	"Suicide"	"2"	14	49025	Unreliable
+	"Franklin County, VT"	"50011"	"2018"	"2018"	"Unintentional"	"1"	33	49421	66.8
+	"Lamoille County, VT"	"50015"	"1999"	"1999"	"Unintentional"	"1"	14	22792	Unreliable
+	"Lamoille County, VT"	"50015"	"2004"	"2004"	"Unintentional"	"1"	13	23444	Unreliable
+	"Lamoille County, VT"	"50015"	"2005"	"2005"	"Unintentional"	"1"	12	23421	Unreliable
+	"Lamoille County, VT"	"50015"	"2006"	"2006"	"Unintentional"	"1"	16	23642	Unreliable
+	"Lamoille County, VT"	"50015"	"2008"	"2008"	"Unintentional"	"1"	14	23971	Unreliable
+	"Lamoille County, VT"	"50015"	"2009"	"2009"	"Unintentional"	"1"	13	24193	Unreliable
+	"Lamoille County, VT"	"50015"	"2011"	"2011"	"Unintentional"	"1"	13	24701	Unreliable
+	"Lamoille County, VT"	"50015"	"2012"	"2012"	"Unintentional"	"1"	14	24958	Unreliable
+	"Lamoille County, VT"	"50015"	"2013"	"2013"	"Unintentional"	"1"	14	25067	Unreliable
+	"Lamoille County, VT"	"50015"	"2014"	"2014"	"Unintentional"	"1"	11	25082	Unreliable
+	"Lamoille County, VT"	"50015"	"2015"	"2015"	"Unintentional"	"1"	10	25235	Unreliable
+	"Lamoille County, VT"	"50015"	"2016"	"2016"	"Unintentional"	"1"	17	25333	Unreliable
+	"Orange County, VT"	"50017"	"2003"	"2003"	"Unintentional"	"1"	18	28921	Unreliable
+	"Orange County, VT"	"50017"	"2006"	"2006"	"Unintentional"	"1"	17	29249	Unreliable
+	"Orange County, VT"	"50017"	"2007"	"2007"	"Unintentional"	"1"	15	29119	Unreliable
+	"Orange County, VT"	"50017"	"2008"	"2008"	"Unintentional"	"1"	16	29032	Unreliable
+	"Orange County, VT"	"50017"	"2009"	"2009"	"Unintentional"	"1"	12	28965	Unreliable
+	"Orange County, VT"	"50017"	"2010"	"2010"	"Unintentional"	"1"	12	28936	Unreliable
+	"Orange County, VT"	"50017"	"2011"	"2011"	"Unintentional"	"1"	17	29006	Unreliable
+	"Orange County, VT"	"50017"	"2012"	"2012"	"Unintentional"	"1"	16	28924	Unreliable
+	"Orange County, VT"	"50017"	"2013"	"2013"	"Unintentional"	"1"	14	28915	Unreliable
+	"Orange County, VT"	"50017"	"2014"	"2014"	"Unintentional"	"1"	11	28859	Unreliable
+	"Orange County, VT"	"50017"	"2015"	"2015"	"Unintentional"	"1"	21	28899	72.7
+	"Orange County, VT"	"50017"	"2016"	"2016"	"Unintentional"	"1"	18	28919	Unreliable
+	"Orange County, VT"	"50017"	"2017"	"2017"	"Unintentional"	"1"	19	28974	Unreliable
+	"Orange County, VT"	"50017"	"2018"	"2018"	"Unintentional"	"1"	21	28999	72.4
+	"Orleans County, VT"	"50019"	"1999"	"1999"	"Unintentional"	"1"	13	26052	Unreliable
+	"Orleans County, VT"	"50019"	"2000"	"2000"	"Unintentional"	"1"	13	26277	Unreliable
+	"Orleans County, VT"	"50019"	"2001"	"2001"	"Unintentional"	"1"	15	26443	Unreliable
+	"Orleans County, VT"	"50019"	"2002"	"2002"	"Unintentional"	"1"	14	26540	Unreliable
+	"Orleans County, VT"	"50019"	"2003"	"2003"	"Unintentional"	"1"	17	26908	Unreliable
+	"Orleans County, VT"	"50019"	"2004"	"2004"	"Unintentional"	"1"	18	27064	Unreliable
+	"Orleans County, VT"	"50019"	"2005"	"2005"	"Unintentional"	"1"	24	27224	88.2
+	"Orleans County, VT"	"50019"	"2006"	"2006"	"Unintentional"	"1"	11	27215	Unreliable
+	"Orleans County, VT"	"50019"	"2007"	"2007"	"Unintentional"	"1"	13	27332	Unreliable
+	"Orleans County, VT"	"50019"	"2008"	"2008"	"Unintentional"	"1"	18	27269	Unreliable
+	"Orleans County, VT"	"50019"	"2009"	"2009"	"Unintentional"	"1"	14	27234	Unreliable
+	"Orleans County, VT"	"50019"	"2010"	"2010"	"Unintentional"	"1"	20	27231	73.4
+	"Orleans County, VT"	"50019"	"2011"	"2011"	"Unintentional"	"1"	17	27173	Unreliable
+	"Orleans County, VT"	"50019"	"2012"	"2012"	"Unintentional"	"1"	25	27109	92.2
+	"Orleans County, VT"	"50019"	"2013"	"2013"	"Unintentional"	"1"	22	27169	81.0
+	"Orleans County, VT"	"50019"	"2014"	"2014"	"Unintentional"	"1"	20	27082	73.8
+	"Orleans County, VT"	"50019"	"2015"	"2015"	"Unintentional"	"1"	24	27100	88.6
+	"Orleans County, VT"	"50019"	"2016"	"2016"	"Unintentional"	"1"	29	26863	108.0
+	"Orleans County, VT"	"50019"	"2017"	"2017"	"Unintentional"	"1"	19	26841	Unreliable
+	"Orleans County, VT"	"50019"	"2018"	"2018"	"Unintentional"	"1"	15	26907	Unreliable
+	"Rutland County, VT"	"50021"	"1999"	"1999"	"Unintentional"	"1"	22	63257	34.8
+	"Rutland County, VT"	"50021"	"1999"	"1999"	"Suicide"	"2"	13	63257	Unreliable
+	"Rutland County, VT"	"50021"	"2000"	"2000"	"Unintentional"	"1"	20	63400	31.5
+	"Rutland County, VT"	"50021"	"2000"	"2000"	"Suicide"	"2"	11	63400	Unreliable
+	"Rutland County, VT"	"50021"	"2001"	"2001"	"Unintentional"	"1"	25	63132	39.6
+	"Rutland County, VT"	"50021"	"2002"	"2002"	"Unintentional"	"1"	31	62982	49.2
+	"Rutland County, VT"	"50021"	"2003"	"2003"	"Unintentional"	"1"	14	63113	Unreliable
+	"Rutland County, VT"	"50021"	"2004"	"2004"	"Unintentional"	"1"	21	62997	33.3
+	"Rutland County, VT"	"50021"	"2005"	"2005"	"Unintentional"	"1"	24	63003	38.1
+	"Rutland County, VT"	"50021"	"2006"	"2006"	"Unintentional"	"1"	31	62894	49.3
+	"Rutland County, VT"	"50021"	"2006"	"2006"	"Suicide"	"2"	17	62894	Unreliable
+	"Rutland County, VT"	"50021"	"2007"	"2007"	"Unintentional"	"1"	33	62618	52.7
+	"Rutland County, VT"	"50021"	"2008"	"2008"	"Unintentional"	"1"	40	62368	64.1
+	"Rutland County, VT"	"50021"	"2009"	"2009"	"Unintentional"	"1"	47	61946	75.9
+	"Rutland County, VT"	"50021"	"2010"	"2010"	"Unintentional"	"1"	35	61642	56.8
+	"Rutland County, VT"	"50021"	"2011"	"2011"	"Unintentional"	"1"	29	61289	47.3
+	"Rutland County, VT"	"50021"	"2012"	"2012"	"Unintentional"	"1"	36	60869	59.1
+	"Rutland County, VT"	"50021"	"2013"	"2013"	"Unintentional"	"1"	45	60622	74.2
+	"Rutland County, VT"	"50021"	"2013"	"2013"	"Suicide"	"2"	13	60622	Unreliable
+	"Rutland County, VT"	"50021"	"2014"	"2014"	"Unintentional"	"1"	42	60086	69.9
+	"Rutland County, VT"	"50021"	"2014"	"2014"	"Suicide"	"2"	15	60086	Unreliable
+	"Rutland County, VT"	"50021"	"2015"	"2015"	"Unintentional"	"1"	30	59736	50.2
+	"Rutland County, VT"	"50021"	"2015"	"2015"	"Suicide"	"2"	10	59736	Unreliable
+	"Rutland County, VT"	"50021"	"2016"	"2016"	"Unintentional"	"1"	43	59310	72.5
+	"Rutland County, VT"	"50021"	"2016"	"2016"	"Suicide"	"2"	13	59310	Unreliable
+	"Rutland County, VT"	"50021"	"2017"	"2017"	"Unintentional"	"1"	47	59087	79.5
+	"Rutland County, VT"	"50021"	"2017"	"2017"	"Suicide"	"2"	10	59087	Unreliable
+	"Rutland County, VT"	"50021"	"2018"	"2018"	"Unintentional"	"1"	62	58672	105.7
+	"Rutland County, VT"	"50021"	"2018"	"2018"	"Suicide"	"2"	17	58672	Unreliable
+	"Washington County, VT"	"50023"	"1999"	"1999"	"Unintentional"	"1"	16	57759	Unreliable
+	"Washington County, VT"	"50023"	"2000"	"2000"	"Unintentional"	"1"	27	58039	46.5
+	"Washington County, VT"	"50023"	"2001"	"2001"	"Unintentional"	"1"	21	58526	35.9
+	"Washington County, VT"	"50023"	"2001"	"2001"	"Suicide"	"2"	10	58526	Unreliable
+	"Washington County, VT"	"50023"	"2002"	"2002"	"Unintentional"	"1"	16	58889	Unreliable
+	"Washington County, VT"	"50023"	"2002"	"2002"	"Suicide"	"2"	11	58889	Unreliable
+	"Washington County, VT"	"50023"	"2003"	"2003"	"Unintentional"	"1"	20	58958	33.9
+	"Washington County, VT"	"50023"	"2004"	"2004"	"Unintentional"	"1"	29	59081	49.1
+	"Washington County, VT"	"50023"	"2005"	"2005"	"Unintentional"	"1"	30	59366	50.5
+	"Washington County, VT"	"50023"	"2006"	"2006"	"Unintentional"	"1"	34	59414	57.2
+	"Washington County, VT"	"50023"	"2007"	"2007"	"Unintentional"	"1"	28	59275	47.2
+	"Washington County, VT"	"50023"	"2008"	"2008"	"Unintentional"	"1"	23	59278	38.8
+	"Washington County, VT"	"50023"	"2009"	"2009"	"Unintentional"	"1"	34	59353	57.3
+	"Washington County, VT"	"50023"	"2010"	"2010"	"Unintentional"	"1"	20	59534	33.6
+	"Washington County, VT"	"50023"	"2011"	"2011"	"Unintentional"	"1"	28	59626	47.0
+	"Washington County, VT"	"50023"	"2011"	"2011"	"Suicide"	"2"	12	59626	Unreliable
+	"Washington County, VT"	"50023"	"2012"	"2012"	"Unintentional"	"1"	39	59465	65.6
+	"Washington County, VT"	"50023"	"2013"	"2013"	"Unintentional"	"1"	26	59319	43.8
+	"Washington County, VT"	"50023"	"2013"	"2013"	"Suicide"	"2"	16	59319	Unreliable
+	"Washington County, VT"	"50023"	"2014"	"2014"	"Unintentional"	"1"	26	58998	44.1
+	"Washington County, VT"	"50023"	"2014"	"2014"	"Suicide"	"2"	16	58998	Unreliable
+	"Washington County, VT"	"50023"	"2015"	"2015"	"Unintentional"	"1"	22	58612	37.5
+	"Washington County, VT"	"50023"	"2016"	"2016"	"Unintentional"	"1"	41	58504	70.1
+	"Washington County, VT"	"50023"	"2016"	"2016"	"Suicide"	"2"	17	58504	Unreliable
+	"Washington County, VT"	"50023"	"2017"	"2017"	"Unintentional"	"1"	35	58290	60.0
+	"Washington County, VT"	"50023"	"2018"	"2018"	"Unintentional"	"1"	42	58140	72.2
+	"Windham County, VT"	"50025"	"1999"	"1999"	"Unintentional"	"1"	16	44179	Unreliable
+	"Windham County, VT"	"50025"	"2000"	"2000"	"Unintentional"	"1"	18	44216	Unreliable
+	"Windham County, VT"	"50025"	"2001"	"2001"	"Unintentional"	"1"	21	43998	47.7
+	"Windham County, VT"	"50025"	"2002"	"2002"	"Unintentional"	"1"	22	44122	49.9
+	"Windham County, VT"	"50025"	"2003"	"2003"	"Unintentional"	"1"	24	44353	54.1
+	"Windham County, VT"	"50025"	"2004"	"2004"	"Unintentional"	"1"	18	44241	Unreliable
+	"Windham County, VT"	"50025"	"2005"	"2005"	"Unintentional"	"1"	24	44187	54.3
+	"Windham County, VT"	"50025"	"2006"	"2006"	"Unintentional"	"1"	23	44390	51.8
+	"Windham County, VT"	"50025"	"2007"	"2007"	"Unintentional"	"1"	24	44444	54.0
+	"Windham County, VT"	"50025"	"2008"	"2008"	"Unintentional"	"1"	39	44407	87.8
+	"Windham County, VT"	"50025"	"2008"	"2008"	"Suicide"	"2"	10	44407	Unreliable
+	"Windham County, VT"	"50025"	"2009"	"2009"	"Unintentional"	"1"	25	44441	56.3
+	"Windham County, VT"	"50025"	"2010"	"2010"	"Unintentional"	"1"	30	44513	67.4
+	"Windham County, VT"	"50025"	"2010"	"2010"	"Suicide"	"2"	10	44513	Unreliable
+	"Windham County, VT"	"50025"	"2011"	"2011"	"Unintentional"	"1"	28	44266	63.3
+	"Windham County, VT"	"50025"	"2011"	"2011"	"Suicide"	"2"	11	44266	Unreliable
+	"Windham County, VT"	"50025"	"2012"	"2012"	"Unintentional"	"1"	22	43985	50.0
+	"Windham County, VT"	"50025"	"2012"	"2012"	"Suicide"	"2"	11	43985	Unreliable
+	"Windham County, VT"	"50025"	"2013"	"2013"	"Unintentional"	"1"	22	43857	50.2
+	"Windham County, VT"	"50025"	"2014"	"2014"	"Unintentional"	"1"	23	43714	52.6
+	"Windham County, VT"	"50025"	"2015"	"2015"	"Unintentional"	"1"	26	43386	59.9
+	"Windham County, VT"	"50025"	"2015"	"2015"	"Suicide"	"2"	10	43386	Unreliable
+	"Windham County, VT"	"50025"	"2016"	"2016"	"Unintentional"	"1"	26	43145	60.3
+	"Windham County, VT"	"50025"	"2016"	"2016"	"Suicide"	"2"	18	43145	Unreliable
+	"Windham County, VT"	"50025"	"2017"	"2017"	"Unintentional"	"1"	34	42869	79.3
+	"Windham County, VT"	"50025"	"2017"	"2017"	"Suicide"	"2"	12	42869	Unreliable
+	"Windham County, VT"	"50025"	"2018"	"2018"	"Unintentional"	"1"	53	42756	124.0
+	"Windham County, VT"	"50025"	"2018"	"2018"	"Suicide"	"2"	10	42756	Unreliable
+	"Windsor County, VT"	"50027"	"1999"	"1999"	"Unintentional"	"1"	16	56985	Unreliable
+	"Windsor County, VT"	"50027"	"2000"	"2000"	"Unintentional"	"1"	14	57418	Unreliable
+	"Windsor County, VT"	"50027"	"2001"	"2001"	"Unintentional"	"1"	21	57489	36.5
+	"Windsor County, VT"	"50027"	"2002"	"2002"	"Unintentional"	"1"	30	57673	52.0
+	"Windsor County, VT"	"50027"	"2002"	"2002"	"Suicide"	"2"	14	57673	Unreliable
+	"Windsor County, VT"	"50027"	"2003"	"2003"	"Unintentional"	"1"	17	57682	Unreliable
+	"Windsor County, VT"	"50027"	"2003"	"2003"	"Suicide"	"2"	13	57682	Unreliable
+	"Windsor County, VT"	"50027"	"2004"	"2004"	"Unintentional"	"1"	29	57639	50.3
+	"Windsor County, VT"	"50027"	"2005"	"2005"	"Unintentional"	"1"	29	57409	50.5
+	"Windsor County, VT"	"50027"	"2006"	"2006"	"Unintentional"	"1"	43	57184	75.2
+	"Windsor County, VT"	"50027"	"2007"	"2007"	"Unintentional"	"1"	37	57061	64.8
+	"Windsor County, VT"	"50027"	"2008"	"2008"	"Unintentional"	"1"	25	56850	44.0
+	"Windsor County, VT"	"50027"	"2009"	"2009"	"Unintentional"	"1"	35	56708	61.7
+	"Windsor County, VT"	"50027"	"2010"	"2010"	"Unintentional"	"1"	33	56670	58.2
+	"Windsor County, VT"	"50027"	"2010"	"2010"	"Suicide"	"2"	10	56670	Unreliable
+	"Windsor County, VT"	"50027"	"2011"	"2011"	"Unintentional"	"1"	30	56666	52.9
+	"Windsor County, VT"	"50027"	"2011"	"2011"	"Suicide"	"2"	11	56666	Unreliable
+	"Windsor County, VT"	"50027"	"2012"	"2012"	"Unintentional"	"1"	25	56211	44.5
+	"Windsor County, VT"	"50027"	"2013"	"2013"	"Unintentional"	"1"	43	56067	76.7
+	"Windsor County, VT"	"50027"	"2013"	"2013"	"Suicide"	"2"	10	56067	Unreliable
+	"Windsor County, VT"	"50027"	"2014"	"2014"	"Unintentional"	"1"	31	56014	55.3
+	"Windsor County, VT"	"50027"	"2014"	"2014"	"Suicide"	"2"	11	56014	Unreliable
+	"Windsor County, VT"	"50027"	"2015"	"2015"	"Unintentional"	"1"	35	55737	62.8
+	"Windsor County, VT"	"50027"	"2015"	"2015"	"Suicide"	"2"	12	55737	Unreliable
+	"Windsor County, VT"	"50027"	"2016"	"2016"	"Unintentional"	"1"	36	55496	64.9
+	"Windsor County, VT"	"50027"	"2017"	"2017"	"Unintentional"	"1"	42	55100	76.2
+	"Windsor County, VT"	"50027"	"2017"	"2017"	"Suicide"	"2"	11	55100	Unreliable
+	"Windsor County, VT"	"50027"	"2018"	"2018"	"Unintentional"	"1"	47	55286	85.0
+	"Windsor County, VT"	"50027"	"2018"	"2018"	"Suicide"	"2"	16	55286	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Vermont"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Vermont (50)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 8:51:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 8:51:48 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

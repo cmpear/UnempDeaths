@@ -1,0 +1,261 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Bristol County, RI"	"44001"	"1999"	"1999"	"Unintentional"	"1"	10	50466	Unreliable
+	"Bristol County, RI"	"44001"	"2000"	"2000"	"Unintentional"	"1"	10	50648	Unreliable
+	"Bristol County, RI"	"44001"	"2001"	"2001"	"Unintentional"	"1"	13	50942	Unreliable
+	"Bristol County, RI"	"44001"	"2002"	"2002"	"Unintentional"	"1"	14	51850	Unreliable
+	"Bristol County, RI"	"44001"	"2003"	"2003"	"Unintentional"	"1"	19	51658	Unreliable
+	"Bristol County, RI"	"44001"	"2005"	"2005"	"Unintentional"	"1"	15	51667	Unreliable
+	"Bristol County, RI"	"44001"	"2006"	"2006"	"Unintentional"	"1"	15	50996	Unreliable
+	"Bristol County, RI"	"44001"	"2007"	"2007"	"Unintentional"	"1"	22	50914	43.2
+	"Bristol County, RI"	"44001"	"2008"	"2008"	"Unintentional"	"1"	22	50668	43.4
+	"Bristol County, RI"	"44001"	"2009"	"2009"	"Unintentional"	"1"	20	50075	39.9
+	"Bristol County, RI"	"44001"	"2010"	"2010"	"Unintentional"	"1"	22	49875	44.1
+	"Bristol County, RI"	"44001"	"2011"	"2011"	"Unintentional"	"1"	26	49800	52.2
+	"Bristol County, RI"	"44001"	"2012"	"2012"	"Unintentional"	"1"	26	49144	52.9
+	"Bristol County, RI"	"44001"	"2013"	"2013"	"Unintentional"	"1"	14	49220	Unreliable
+	"Bristol County, RI"	"44001"	"2013"	"2013"	"Suicide"	"2"	11	49220	Unreliable
+	"Bristol County, RI"	"44001"	"2014"	"2014"	"Unintentional"	"1"	31	49060	63.2
+	"Bristol County, RI"	"44001"	"2015"	"2015"	"Unintentional"	"1"	32	49084	65.2
+	"Bristol County, RI"	"44001"	"2016"	"2016"	"Unintentional"	"1"	28	49067	57.1
+	"Bristol County, RI"	"44001"	"2017"	"2017"	"Unintentional"	"1"	27	48912	55.2
+	"Bristol County, RI"	"44001"	"2018"	"2018"	"Unintentional"	"1"	34	48649	69.9
+	"Kent County, RI"	"44003"	"1999"	"1999"	"Unintentional"	"1"	39	166044	23.5
+	"Kent County, RI"	"44003"	"1999"	"1999"	"Suicide"	"2"	17	166044	Unreliable
+	"Kent County, RI"	"44003"	"2000"	"2000"	"Unintentional"	"1"	44	167090	26.3
+	"Kent County, RI"	"44003"	"2000"	"2000"	"Suicide"	"2"	14	167090	Unreliable
+	"Kent County, RI"	"44003"	"2000"	"2000"	"Undetermined "	"4"	12	167090	Unreliable
+	"Kent County, RI"	"44003"	"2001"	"2001"	"Unintentional"	"1"	64	168516	38.0
+	"Kent County, RI"	"44003"	"2001"	"2001"	"Suicide"	"2"	19	168516	Unreliable
+	"Kent County, RI"	"44003"	"2001"	"2001"	"Undetermined "	"4"	16	168516	Unreliable
+	"Kent County, RI"	"44003"	"2002"	"2002"	"Unintentional"	"1"	65	169478	38.4
+	"Kent County, RI"	"44003"	"2002"	"2002"	"Suicide"	"2"	10	169478	Unreliable
+	"Kent County, RI"	"44003"	"2002"	"2002"	"Undetermined "	"4"	13	169478	Unreliable
+	"Kent County, RI"	"44003"	"2003"	"2003"	"Unintentional"	"1"	83	170641	48.6
+	"Kent County, RI"	"44003"	"2003"	"2003"	"Suicide"	"2"	20	170641	11.7
+	"Kent County, RI"	"44003"	"2003"	"2003"	"Undetermined "	"4"	22	170641	12.9
+	"Kent County, RI"	"44003"	"2004"	"2004"	"Unintentional"	"1"	53	170539	31.1
+	"Kent County, RI"	"44003"	"2004"	"2004"	"Suicide"	"2"	13	170539	Unreliable
+	"Kent County, RI"	"44003"	"2004"	"2004"	"Undetermined "	"4"	19	170539	Unreliable
+	"Kent County, RI"	"44003"	"2005"	"2005"	"Unintentional"	"1"	56	169815	33.0
+	"Kent County, RI"	"44003"	"2005"	"2005"	"Suicide"	"2"	20	169815	11.8
+	"Kent County, RI"	"44003"	"2005"	"2005"	"Undetermined "	"4"	22	169815	13.0
+	"Kent County, RI"	"44003"	"2006"	"2006"	"Unintentional"	"1"	67	168522	39.8
+	"Kent County, RI"	"44003"	"2006"	"2006"	"Suicide"	"2"	17	168522	Unreliable
+	"Kent County, RI"	"44003"	"2007"	"2007"	"Unintentional"	"1"	71	167515	42.4
+	"Kent County, RI"	"44003"	"2007"	"2007"	"Suicide"	"2"	20	167515	11.9
+	"Kent County, RI"	"44003"	"2008"	"2008"	"Unintentional"	"1"	85	167269	50.8
+	"Kent County, RI"	"44003"	"2008"	"2008"	"Suicide"	"2"	12	167269	Unreliable
+	"Kent County, RI"	"44003"	"2009"	"2009"	"Unintentional"	"1"	89	166766	53.4
+	"Kent County, RI"	"44003"	"2009"	"2009"	"Suicide"	"2"	23	166766	13.8
+	"Kent County, RI"	"44003"	"2010"	"2010"	"Unintentional"	"1"	75	166158	45.1
+	"Kent County, RI"	"44003"	"2010"	"2010"	"Suicide"	"2"	29	166158	17.5
+	"Kent County, RI"	"44003"	"2011"	"2011"	"Unintentional"	"1"	88	165535	53.2
+	"Kent County, RI"	"44003"	"2011"	"2011"	"Suicide"	"2"	18	165535	Unreliable
+	"Kent County, RI"	"44003"	"2012"	"2012"	"Unintentional"	"1"	89	164843	54.0
+	"Kent County, RI"	"44003"	"2012"	"2012"	"Suicide"	"2"	18	164843	Unreliable
+	"Kent County, RI"	"44003"	"2013"	"2013"	"Unintentional"	"1"	98	165035	59.4
+	"Kent County, RI"	"44003"	"2013"	"2013"	"Suicide"	"2"	20	165035	12.1
+	"Kent County, RI"	"44003"	"2014"	"2014"	"Unintentional"	"1"	104	165128	63.0
+	"Kent County, RI"	"44003"	"2014"	"2014"	"Suicide"	"2"	15	165128	Unreliable
+	"Kent County, RI"	"44003"	"2015"	"2015"	"Unintentional"	"1"	97	164801	58.9
+	"Kent County, RI"	"44003"	"2015"	"2015"	"Suicide"	"2"	20	164801	12.1
+	"Kent County, RI"	"44003"	"2016"	"2016"	"Unintentional"	"1"	121	164614	73.5
+	"Kent County, RI"	"44003"	"2016"	"2016"	"Suicide"	"2"	24	164614	14.6
+	"Kent County, RI"	"44003"	"2017"	"2017"	"Unintentional"	"1"	116	163760	70.8
+	"Kent County, RI"	"44003"	"2017"	"2017"	"Suicide"	"2"	21	163760	12.8
+	"Kent County, RI"	"44003"	"2018"	"2018"	"Unintentional"	"1"	129	163861	78.7
+	"Kent County, RI"	"44003"	"2018"	"2018"	"Suicide"	"2"	27	163861	16.5
+	"Newport County, RI"	"44005"	"1999"	"1999"	"Unintentional"	"1"	20	84840	23.6
+	"Newport County, RI"	"44005"	"2001"	"2001"	"Unintentional"	"1"	19	85754	Unreliable
+	"Newport County, RI"	"44005"	"2002"	"2002"	"Unintentional"	"1"	17	85953	Unreliable
+	"Newport County, RI"	"44005"	"2003"	"2003"	"Unintentional"	"1"	36	85646	42.0
+	"Newport County, RI"	"44005"	"2004"	"2004"	"Unintentional"	"1"	30	85509	35.1
+	"Newport County, RI"	"44005"	"2004"	"2004"	"Undetermined "	"4"	10	85509	Unreliable
+	"Newport County, RI"	"44005"	"2005"	"2005"	"Unintentional"	"1"	28	83962	33.3
+	"Newport County, RI"	"44005"	"2006"	"2006"	"Unintentional"	"1"	38	85130	44.6
+	"Newport County, RI"	"44005"	"2007"	"2007"	"Unintentional"	"1"	29	82881	35.0
+	"Newport County, RI"	"44005"	"2007"	"2007"	"Suicide"	"2"	10	82881	Unreliable
+	"Newport County, RI"	"44005"	"2008"	"2008"	"Unintentional"	"1"	37	82505	44.8
+	"Newport County, RI"	"44005"	"2008"	"2008"	"Suicide"	"2"	10	82505	Unreliable
+	"Newport County, RI"	"44005"	"2009"	"2009"	"Unintentional"	"1"	21	82896	25.3
+	"Newport County, RI"	"44005"	"2010"	"2010"	"Unintentional"	"1"	29	82888	35.0
+	"Newport County, RI"	"44005"	"2011"	"2011"	"Unintentional"	"1"	29	82695	35.1
+	"Newport County, RI"	"44005"	"2012"	"2012"	"Unintentional"	"1"	40	82036	48.8
+	"Newport County, RI"	"44005"	"2012"	"2012"	"Suicide"	"2"	13	82036	Unreliable
+	"Newport County, RI"	"44005"	"2013"	"2013"	"Unintentional"	"1"	46	82397	55.8
+	"Newport County, RI"	"44005"	"2014"	"2014"	"Unintentional"	"1"	37	82358	44.9
+	"Newport County, RI"	"44005"	"2015"	"2015"	"Unintentional"	"1"	41	82423	49.7
+	"Newport County, RI"	"44005"	"2016"	"2016"	"Unintentional"	"1"	52	82784	62.8
+	"Newport County, RI"	"44005"	"2016"	"2016"	"Suicide"	"2"	13	82784	Unreliable
+	"Newport County, RI"	"44005"	"2017"	"2017"	"Unintentional"	"1"	54	83460	64.7
+	"Newport County, RI"	"44005"	"2017"	"2017"	"Suicide"	"2"	14	83460	Unreliable
+	"Newport County, RI"	"44005"	"2018"	"2018"	"Unintentional"	"1"	43	82542	52.1
+	"Providence County, RI"	"44007"	"1999"	"1999"	"Unintentional"	"1"	134	616607	21.7
+	"Providence County, RI"	"44007"	"1999"	"1999"	"Suicide"	"2"	57	616607	9.2
+	"Providence County, RI"	"44007"	"1999"	"1999"	"Homicide"	"3"	30	616607	4.9
+	"Providence County, RI"	"44007"	"1999"	"1999"	"Undetermined "	"4"	33	616607	5.4
+	"Providence County, RI"	"44007"	"2000"	"2000"	"Unintentional"	"1"	153	621602	24.6
+	"Providence County, RI"	"44007"	"2000"	"2000"	"Suicide"	"2"	45	621602	7.2
+	"Providence County, RI"	"44007"	"2000"	"2000"	"Homicide"	"3"	34	621602	5.5
+	"Providence County, RI"	"44007"	"2000"	"2000"	"Undetermined "	"4"	48	621602	7.7
+	"Providence County, RI"	"44007"	"2001"	"2001"	"Unintentional"	"1"	174	626935	27.8
+	"Providence County, RI"	"44007"	"2001"	"2001"	"Suicide"	"2"	43	626935	6.9
+	"Providence County, RI"	"44007"	"2001"	"2001"	"Homicide"	"3"	27	626935	4.3
+	"Providence County, RI"	"44007"	"2001"	"2001"	"Undetermined "	"4"	56	626935	8.9
+	"Providence County, RI"	"44007"	"2002"	"2002"	"Unintentional"	"1"	151	632252	23.9
+	"Providence County, RI"	"44007"	"2002"	"2002"	"Suicide"	"2"	52	632252	8.2
+	"Providence County, RI"	"44007"	"2002"	"2002"	"Homicide"	"3"	26	632252	4.1
+	"Providence County, RI"	"44007"	"2002"	"2002"	"Undetermined "	"4"	60	632252	9.5
+	"Providence County, RI"	"44007"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	13	632252	Unreliable
+	"Providence County, RI"	"44007"	"2003"	"2003"	"Unintentional"	"1"	207	636149	32.5
+	"Providence County, RI"	"44007"	"2003"	"2003"	"Suicide"	"2"	47	636149	7.4
+	"Providence County, RI"	"44007"	"2003"	"2003"	"Homicide"	"3"	25	636149	3.9
+	"Providence County, RI"	"44007"	"2003"	"2003"	"Undetermined "	"4"	87	636149	13.7
+	"Providence County, RI"	"44007"	"2004"	"2004"	"Unintentional"	"1"	177	638358	27.7
+	"Providence County, RI"	"44007"	"2004"	"2004"	"Suicide"	"2"	49	638358	7.7
+	"Providence County, RI"	"44007"	"2004"	"2004"	"Homicide"	"3"	24	638358	3.8
+	"Providence County, RI"	"44007"	"2004"	"2004"	"Undetermined "	"4"	56	638358	8.8
+	"Providence County, RI"	"44007"	"2005"	"2005"	"Unintentional"	"1"	197	635060	31.0
+	"Providence County, RI"	"44007"	"2005"	"2005"	"Suicide"	"2"	34	635060	5.4
+	"Providence County, RI"	"44007"	"2005"	"2005"	"Homicide"	"3"	28	635060	4.4
+	"Providence County, RI"	"44007"	"2005"	"2005"	"Undetermined "	"4"	74	635060	11.7
+	"Providence County, RI"	"44007"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	10	635060	Unreliable
+	"Providence County, RI"	"44007"	"2006"	"2006"	"Unintentional"	"1"	276	631691	43.7
+	"Providence County, RI"	"44007"	"2006"	"2006"	"Suicide"	"2"	51	631691	8.1
+	"Providence County, RI"	"44007"	"2006"	"2006"	"Homicide"	"3"	33	631691	5.2
+	"Providence County, RI"	"44007"	"2006"	"2006"	"Undetermined "	"4"	24	631691	3.8
+	"Providence County, RI"	"44007"	"2007"	"2007"	"Unintentional"	"1"	241	629110	38.3
+	"Providence County, RI"	"44007"	"2007"	"2007"	"Suicide"	"2"	44	629110	7.0
+	"Providence County, RI"	"44007"	"2007"	"2007"	"Homicide"	"3"	20	629110	3.2
+	"Providence County, RI"	"44007"	"2007"	"2007"	"Undetermined "	"4"	10	629110	Unreliable
+	"Providence County, RI"	"44007"	"2008"	"2008"	"Unintentional"	"1"	284	627889	45.2
+	"Providence County, RI"	"44007"	"2008"	"2008"	"Suicide"	"2"	65	627889	10.4
+	"Providence County, RI"	"44007"	"2008"	"2008"	"Homicide"	"3"	25	627889	4.0
+	"Providence County, RI"	"44007"	"2009"	"2009"	"Unintentional"	"1"	246	626304	39.3
+	"Providence County, RI"	"44007"	"2009"	"2009"	"Suicide"	"2"	68	626304	10.9
+	"Providence County, RI"	"44007"	"2009"	"2009"	"Homicide"	"3"	26	626304	4.2
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Unintentional"	"1"	297	626667	47.4
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Suicide"	"2"	74	626667	11.8
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Homicide"	"3"	25	626667	4.0
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	11	626667	Unreliable
+	"Providence County, RI"	"44007"	"2011"	"2011"	"Unintentional"	"1"	328	626709	52.3
+	"Providence County, RI"	"44007"	"2011"	"2011"	"Suicide"	"2"	55	626709	8.8
+	"Providence County, RI"	"44007"	"2011"	"2011"	"Homicide"	"3"	15	626709	Unreliable
+	"Providence County, RI"	"44007"	"2012"	"2012"	"Unintentional"	"1"	305	628323	48.5
+	"Providence County, RI"	"44007"	"2012"	"2012"	"Suicide"	"2"	58	628323	9.2
+	"Providence County, RI"	"44007"	"2012"	"2012"	"Homicide"	"3"	23	628323	3.7
+	"Providence County, RI"	"44007"	"2013"	"2013"	"Unintentional"	"1"	309	628600	49.2
+	"Providence County, RI"	"44007"	"2013"	"2013"	"Suicide"	"2"	67	628600	10.7
+	"Providence County, RI"	"44007"	"2013"	"2013"	"Homicide"	"3"	25	628600	4.0
+	"Providence County, RI"	"44007"	"2013"	"2013"	"Undetermined "	"4"	16	628600	Unreliable
+	"Providence County, RI"	"44007"	"2014"	"2014"	"Unintentional"	"1"	342	631974	54.1
+	"Providence County, RI"	"44007"	"2014"	"2014"	"Suicide"	"2"	73	631974	11.6
+	"Providence County, RI"	"44007"	"2014"	"2014"	"Homicide"	"3"	26	631974	4.1
+	"Providence County, RI"	"44007"	"2015"	"2015"	"Unintentional"	"1"	398	633473	62.8
+	"Providence County, RI"	"44007"	"2015"	"2015"	"Suicide"	"2"	76	633473	12.0
+	"Providence County, RI"	"44007"	"2015"	"2015"	"Homicide"	"3"	23	633473	3.6
+	"Providence County, RI"	"44007"	"2016"	"2016"	"Unintentional"	"1"	420	633673	66.3
+	"Providence County, RI"	"44007"	"2016"	"2016"	"Suicide"	"2"	64	633673	10.1
+	"Providence County, RI"	"44007"	"2016"	"2016"	"Homicide"	"3"	21	633673	3.3
+	"Providence County, RI"	"44007"	"2017"	"2017"	"Unintentional"	"1"	446	637357	70.0
+	"Providence County, RI"	"44007"	"2017"	"2017"	"Suicide"	"2"	69	637357	10.8
+	"Providence County, RI"	"44007"	"2017"	"2017"	"Homicide"	"3"	16	637357	Unreliable
+	"Providence County, RI"	"44007"	"2017"	"2017"	"Undetermined "	"4"	10	637357	Unreliable
+	"Providence County, RI"	"44007"	"2018"	"2018"	"Unintentional"	"1"	436	636084	68.5
+	"Providence County, RI"	"44007"	"2018"	"2018"	"Suicide"	"2"	53	636084	8.3
+	"Providence County, RI"	"44007"	"2018"	"2018"	"Homicide"	"3"	13	636084	Unreliable
+	"Providence County, RI"	"44007"	"2018"	"2018"	"Undetermined "	"4"	13	636084	Unreliable
+	"Washington County, RI"	"44009"	"1999"	"1999"	"Unintentional"	"1"	40	122445	32.7
+	"Washington County, RI"	"44009"	"1999"	"1999"	"Suicide"	"2"	14	122445	Unreliable
+	"Washington County, RI"	"44009"	"2000"	"2000"	"Unintentional"	"1"	19	123546	Unreliable
+	"Washington County, RI"	"44009"	"2001"	"2001"	"Unintentional"	"1"	23	124995	18.4
+	"Washington County, RI"	"44009"	"2001"	"2001"	"Suicide"	"2"	18	124995	Unreliable
+	"Washington County, RI"	"44009"	"2002"	"2002"	"Unintentional"	"1"	30	126462	23.7
+	"Washington County, RI"	"44009"	"2002"	"2002"	"Suicide"	"2"	10	126462	Unreliable
+	"Washington County, RI"	"44009"	"2002"	"2002"	"Undetermined "	"4"	12	126462	Unreliable
+	"Washington County, RI"	"44009"	"2003"	"2003"	"Unintentional"	"1"	48	127248	37.7
+	"Washington County, RI"	"44009"	"2003"	"2003"	"Suicide"	"2"	10	127248	Unreliable
+	"Washington County, RI"	"44009"	"2004"	"2004"	"Unintentional"	"1"	32	127960	25.0
+	"Washington County, RI"	"44009"	"2004"	"2004"	"Suicide"	"2"	10	127960	Unreliable
+	"Washington County, RI"	"44009"	"2005"	"2005"	"Unintentional"	"1"	38	127412	29.8
+	"Washington County, RI"	"44009"	"2006"	"2006"	"Unintentional"	"1"	38	126757	30.0
+	"Washington County, RI"	"44009"	"2006"	"2006"	"Suicide"	"2"	11	126757	Unreliable
+	"Washington County, RI"	"44009"	"2007"	"2007"	"Unintentional"	"1"	53	126895	41.8
+	"Washington County, RI"	"44009"	"2007"	"2007"	"Suicide"	"2"	15	126895	Unreliable
+	"Washington County, RI"	"44009"	"2008"	"2008"	"Unintentional"	"1"	52	126672	41.1
+	"Washington County, RI"	"44009"	"2008"	"2008"	"Suicide"	"2"	18	126672	Unreliable
+	"Washington County, RI"	"44009"	"2009"	"2009"	"Unintentional"	"1"	52	127605	40.8
+	"Washington County, RI"	"44009"	"2009"	"2009"	"Suicide"	"2"	15	127605	Unreliable
+	"Washington County, RI"	"44009"	"2010"	"2010"	"Unintentional"	"1"	52	126979	41.0
+	"Washington County, RI"	"44009"	"2010"	"2010"	"Suicide"	"2"	14	126979	Unreliable
+	"Washington County, RI"	"44009"	"2011"	"2011"	"Unintentional"	"1"	70	126563	55.3
+	"Washington County, RI"	"44009"	"2011"	"2011"	"Suicide"	"2"	15	126563	Unreliable
+	"Washington County, RI"	"44009"	"2012"	"2012"	"Unintentional"	"1"	65	125946	51.6
+	"Washington County, RI"	"44009"	"2012"	"2012"	"Suicide"	"2"	13	125946	Unreliable
+	"Washington County, RI"	"44009"	"2013"	"2013"	"Unintentional"	"1"	70	126259	55.4
+	"Washington County, RI"	"44009"	"2013"	"2013"	"Suicide"	"2"	25	126259	19.8
+	"Washington County, RI"	"44009"	"2014"	"2014"	"Unintentional"	"1"	78	126653	61.6
+	"Washington County, RI"	"44009"	"2014"	"2014"	"Suicide"	"2"	10	126653	Unreliable
+	"Washington County, RI"	"44009"	"2015"	"2015"	"Unintentional"	"1"	81	126517	64.0
+	"Washington County, RI"	"44009"	"2015"	"2015"	"Suicide"	"2"	15	126517	Unreliable
+	"Washington County, RI"	"44009"	"2016"	"2016"	"Unintentional"	"1"	54	126288	42.8
+	"Washington County, RI"	"44009"	"2016"	"2016"	"Suicide"	"2"	19	126288	Unreliable
+	"Washington County, RI"	"44009"	"2017"	"2017"	"Unintentional"	"1"	75	126150	59.5
+	"Washington County, RI"	"44009"	"2017"	"2017"	"Suicide"	"2"	20	126150	15.9
+	"Washington County, RI"	"44009"	"2018"	"2018"	"Unintentional"	"1"	77	126179	61.0
+	"Washington County, RI"	"44009"	"2018"	"2018"	"Suicide"	"2"	12	126179	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Rhode_Island"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Rhode Island (44)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 7:03:33 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 7:03:33 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

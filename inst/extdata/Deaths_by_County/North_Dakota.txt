@@ -1,0 +1,281 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Barnes County, ND"	"38003"	"2012"	"2012"	"Unintentional"	"1"	10	11015	Unreliable
+	"Benson County, ND"	"38005"	"2005"	"2005"	"Unintentional"	"1"	10	6745	Unreliable
+	"Benson County, ND"	"38005"	"2009"	"2009"	"Unintentional"	"1"	12	6609	Unreliable
+	"Benson County, ND"	"38005"	"2014"	"2014"	"Unintentional"	"1"	12	6833	Unreliable
+	"Burleigh County, ND"	"38015"	"1999"	"1999"	"Unintentional"	"1"	24	68998	34.8
+	"Burleigh County, ND"	"38015"	"2000"	"2000"	"Unintentional"	"1"	23	69416	33.1
+	"Burleigh County, ND"	"38015"	"2001"	"2001"	"Unintentional"	"1"	13	70121	Unreliable
+	"Burleigh County, ND"	"38015"	"2002"	"2002"	"Unintentional"	"1"	19	71090	Unreliable
+	"Burleigh County, ND"	"38015"	"2002"	"2002"	"Suicide"	"2"	12	71090	Unreliable
+	"Burleigh County, ND"	"38015"	"2003"	"2003"	"Unintentional"	"1"	19	71987	Unreliable
+	"Burleigh County, ND"	"38015"	"2003"	"2003"	"Suicide"	"2"	11	71987	Unreliable
+	"Burleigh County, ND"	"38015"	"2004"	"2004"	"Unintentional"	"1"	21	72837	28.8
+	"Burleigh County, ND"	"38015"	"2004"	"2004"	"Suicide"	"2"	10	72837	Unreliable
+	"Burleigh County, ND"	"38015"	"2005"	"2005"	"Unintentional"	"1"	23	74375	30.9
+	"Burleigh County, ND"	"38015"	"2005"	"2005"	"Suicide"	"2"	10	74375	Unreliable
+	"Burleigh County, ND"	"38015"	"2006"	"2006"	"Unintentional"	"1"	22	75940	29.0
+	"Burleigh County, ND"	"38015"	"2006"	"2006"	"Suicide"	"2"	12	75940	Unreliable
+	"Burleigh County, ND"	"38015"	"2007"	"2007"	"Unintentional"	"1"	25	77473	32.3
+	"Burleigh County, ND"	"38015"	"2007"	"2007"	"Suicide"	"2"	17	77473	Unreliable
+	"Burleigh County, ND"	"38015"	"2008"	"2008"	"Unintentional"	"1"	35	78678	44.5
+	"Burleigh County, ND"	"38015"	"2008"	"2008"	"Suicide"	"2"	11	78678	Unreliable
+	"Burleigh County, ND"	"38015"	"2009"	"2009"	"Unintentional"	"1"	25	80122	31.2
+	"Burleigh County, ND"	"38015"	"2009"	"2009"	"Suicide"	"2"	13	80122	Unreliable
+	"Burleigh County, ND"	"38015"	"2010"	"2010"	"Unintentional"	"1"	32	81308	39.4
+	"Burleigh County, ND"	"38015"	"2010"	"2010"	"Suicide"	"2"	13	81308	Unreliable
+	"Burleigh County, ND"	"38015"	"2011"	"2011"	"Unintentional"	"1"	27	83145	32.5
+	"Burleigh County, ND"	"38015"	"2011"	"2011"	"Suicide"	"2"	12	83145	Unreliable
+	"Burleigh County, ND"	"38015"	"2012"	"2012"	"Unintentional"	"1"	26	85774	30.3
+	"Burleigh County, ND"	"38015"	"2013"	"2013"	"Unintentional"	"1"	25	88457	28.3
+	"Burleigh County, ND"	"38015"	"2013"	"2013"	"Suicide"	"2"	14	88457	Unreliable
+	"Burleigh County, ND"	"38015"	"2014"	"2014"	"Unintentional"	"1"	28	90503	30.9
+	"Burleigh County, ND"	"38015"	"2014"	"2014"	"Suicide"	"2"	25	90503	27.6
+	"Burleigh County, ND"	"38015"	"2015"	"2015"	"Unintentional"	"1"	45	92991	48.4
+	"Burleigh County, ND"	"38015"	"2015"	"2015"	"Suicide"	"2"	16	92991	Unreliable
+	"Burleigh County, ND"	"38015"	"2016"	"2016"	"Unintentional"	"1"	37	94487	39.2
+	"Burleigh County, ND"	"38015"	"2017"	"2017"	"Unintentional"	"1"	30	95030	31.6
+	"Burleigh County, ND"	"38015"	"2017"	"2017"	"Suicide"	"2"	19	95030	Unreliable
+	"Burleigh County, ND"	"38015"	"2018"	"2018"	"Unintentional"	"1"	40	95273	42.0
+	"Burleigh County, ND"	"38015"	"2018"	"2018"	"Suicide"	"2"	17	95273	Unreliable
+	"Cass County, ND"	"38017"	"1999"	"1999"	"Unintentional"	"1"	32	121921	26.2
+	"Cass County, ND"	"38017"	"2000"	"2000"	"Unintentional"	"1"	33	123138	26.8
+	"Cass County, ND"	"38017"	"2001"	"2001"	"Unintentional"	"1"	29	125520	23.1
+	"Cass County, ND"	"38017"	"2001"	"2001"	"Suicide"	"2"	12	125520	Unreliable
+	"Cass County, ND"	"38017"	"2002"	"2002"	"Unintentional"	"1"	24	127119	18.9
+	"Cass County, ND"	"38017"	"2002"	"2002"	"Suicide"	"2"	12	127119	Unreliable
+	"Cass County, ND"	"38017"	"2003"	"2003"	"Unintentional"	"1"	39	129356	30.1
+	"Cass County, ND"	"38017"	"2003"	"2003"	"Suicide"	"2"	12	129356	Unreliable
+	"Cass County, ND"	"38017"	"2004"	"2004"	"Unintentional"	"1"	32	133197	24.0
+	"Cass County, ND"	"38017"	"2004"	"2004"	"Suicide"	"2"	13	133197	Unreliable
+	"Cass County, ND"	"38017"	"2005"	"2005"	"Unintentional"	"1"	28	135181	20.7
+	"Cass County, ND"	"38017"	"2005"	"2005"	"Suicide"	"2"	16	135181	Unreliable
+	"Cass County, ND"	"38017"	"2006"	"2006"	"Unintentional"	"1"	31	138340	22.4
+	"Cass County, ND"	"38017"	"2006"	"2006"	"Suicide"	"2"	12	138340	Unreliable
+	"Cass County, ND"	"38017"	"2007"	"2007"	"Unintentional"	"1"	39	141316	27.6
+	"Cass County, ND"	"38017"	"2007"	"2007"	"Suicide"	"2"	24	141316	17.0
+	"Cass County, ND"	"38017"	"2008"	"2008"	"Unintentional"	"1"	43	144290	29.8
+	"Cass County, ND"	"38017"	"2008"	"2008"	"Suicide"	"2"	11	144290	Unreliable
+	"Cass County, ND"	"38017"	"2009"	"2009"	"Unintentional"	"1"	33	147872	22.3
+	"Cass County, ND"	"38017"	"2009"	"2009"	"Suicide"	"2"	17	147872	Unreliable
+	"Cass County, ND"	"38017"	"2010"	"2010"	"Unintentional"	"1"	43	149778	28.7
+	"Cass County, ND"	"38017"	"2010"	"2010"	"Suicide"	"2"	23	149778	15.4
+	"Cass County, ND"	"38017"	"2011"	"2011"	"Unintentional"	"1"	34	152368	22.3
+	"Cass County, ND"	"38017"	"2011"	"2011"	"Suicide"	"2"	16	152368	Unreliable
+	"Cass County, ND"	"38017"	"2012"	"2012"	"Unintentional"	"1"	40	156157	25.6
+	"Cass County, ND"	"38017"	"2012"	"2012"	"Suicide"	"2"	19	156157	Unreliable
+	"Cass County, ND"	"38017"	"2013"	"2013"	"Unintentional"	"1"	45	162829	27.6
+	"Cass County, ND"	"38017"	"2013"	"2013"	"Suicide"	"2"	17	162829	Unreliable
+	"Cass County, ND"	"38017"	"2014"	"2014"	"Unintentional"	"1"	48	167005	28.7
+	"Cass County, ND"	"38017"	"2014"	"2014"	"Suicide"	"2"	28	167005	16.8
+	"Cass County, ND"	"38017"	"2015"	"2015"	"Unintentional"	"1"	43	171512	25.1
+	"Cass County, ND"	"38017"	"2015"	"2015"	"Suicide"	"2"	20	171512	11.7
+	"Cass County, ND"	"38017"	"2016"	"2016"	"Unintentional"	"1"	72	175249	41.1
+	"Cass County, ND"	"38017"	"2016"	"2016"	"Suicide"	"2"	34	175249	19.4
+	"Cass County, ND"	"38017"	"2017"	"2017"	"Unintentional"	"1"	52	177787	29.2
+	"Cass County, ND"	"38017"	"2017"	"2017"	"Suicide"	"2"	28	177787	15.7
+	"Cass County, ND"	"38017"	"2018"	"2018"	"Unintentional"	"1"	61	181516	33.6
+	"Cass County, ND"	"38017"	"2018"	"2018"	"Suicide"	"2"	32	181516	17.6
+	"Grand Forks County, ND"	"38035"	"1999"	"1999"	"Unintentional"	"1"	16	66625	Unreliable
+	"Grand Forks County, ND"	"38035"	"2000"	"2000"	"Unintentional"	"1"	19	66109	Unreliable
+	"Grand Forks County, ND"	"38035"	"2001"	"2001"	"Unintentional"	"1"	26	65567	39.7
+	"Grand Forks County, ND"	"38035"	"2002"	"2002"	"Unintentional"	"1"	12	65409	Unreliable
+	"Grand Forks County, ND"	"38035"	"2003"	"2003"	"Unintentional"	"1"	15	65287	Unreliable
+	"Grand Forks County, ND"	"38035"	"2004"	"2004"	"Unintentional"	"1"	22	67071	32.8
+	"Grand Forks County, ND"	"38035"	"2005"	"2005"	"Unintentional"	"1"	21	66629	31.5
+	"Grand Forks County, ND"	"38035"	"2006"	"2006"	"Unintentional"	"1"	21	67096	31.3
+	"Grand Forks County, ND"	"38035"	"2006"	"2006"	"Suicide"	"2"	11	67096	Unreliable
+	"Grand Forks County, ND"	"38035"	"2007"	"2007"	"Unintentional"	"1"	22	66333	33.2
+	"Grand Forks County, ND"	"38035"	"2007"	"2007"	"Suicide"	"2"	12	66333	Unreliable
+	"Grand Forks County, ND"	"38035"	"2008"	"2008"	"Unintentional"	"1"	22	66917	32.9
+	"Grand Forks County, ND"	"38035"	"2008"	"2008"	"Suicide"	"2"	11	66917	Unreliable
+	"Grand Forks County, ND"	"38035"	"2009"	"2009"	"Unintentional"	"1"	26	66518	39.1
+	"Grand Forks County, ND"	"38035"	"2010"	"2010"	"Unintentional"	"1"	17	66861	Unreliable
+	"Grand Forks County, ND"	"38035"	"2011"	"2011"	"Unintentional"	"1"	18	66598	Unreliable
+	"Grand Forks County, ND"	"38035"	"2011"	"2011"	"Suicide"	"2"	12	66598	Unreliable
+	"Grand Forks County, ND"	"38035"	"2012"	"2012"	"Unintentional"	"1"	26	67472	38.5
+	"Grand Forks County, ND"	"38035"	"2013"	"2013"	"Unintentional"	"1"	20	69179	28.9
+	"Grand Forks County, ND"	"38035"	"2014"	"2014"	"Unintentional"	"1"	25	70138	35.6
+	"Grand Forks County, ND"	"38035"	"2015"	"2015"	"Unintentional"	"1"	28	70916	39.5
+	"Grand Forks County, ND"	"38035"	"2015"	"2015"	"Suicide"	"2"	10	70916	Unreliable
+	"Grand Forks County, ND"	"38035"	"2016"	"2016"	"Unintentional"	"1"	27	71083	38.0
+	"Grand Forks County, ND"	"38035"	"2017"	"2017"	"Unintentional"	"1"	29	70795	41.0
+	"Grand Forks County, ND"	"38035"	"2017"	"2017"	"Suicide"	"2"	16	70795	Unreliable
+	"Grand Forks County, ND"	"38035"	"2018"	"2018"	"Unintentional"	"1"	34	70770	48.0
+	"Grand Forks County, ND"	"38035"	"2018"	"2018"	"Suicide"	"2"	18	70770	Unreliable
+	"McKenzie County, ND"	"38053"	"2011"	"2011"	"Unintentional"	"1"	11	7019	Unreliable
+	"McKenzie County, ND"	"38053"	"2013"	"2013"	"Unintentional"	"1"	17	9314	Unreliable
+	"McKenzie County, ND"	"38053"	"2014"	"2014"	"Unintentional"	"1"	17	10996	Unreliable
+	"McKenzie County, ND"	"38053"	"2015"	"2015"	"Unintentional"	"1"	10	12826	Unreliable
+	"McLean County, ND"	"38055"	"2008"	"2008"	"Unintentional"	"1"	12	8883	Unreliable
+	"McLean County, ND"	"38055"	"2017"	"2017"	"Unintentional"	"1"	11	9685	Unreliable
+	"Mercer County, ND"	"38057"	"1999"	"1999"	"Unintentional"	"1"	11	8794	Unreliable
+	"Morton County, ND"	"38059"	"2000"	"2000"	"Unintentional"	"1"	13	25303	Unreliable
+	"Morton County, ND"	"38059"	"2001"	"2001"	"Unintentional"	"1"	12	25143	Unreliable
+	"Morton County, ND"	"38059"	"2003"	"2003"	"Unintentional"	"1"	11	25197	Unreliable
+	"Morton County, ND"	"38059"	"2004"	"2004"	"Unintentional"	"1"	13	25372	Unreliable
+	"Morton County, ND"	"38059"	"2005"	"2005"	"Unintentional"	"1"	11	25576	Unreliable
+	"Morton County, ND"	"38059"	"2006"	"2006"	"Unintentional"	"1"	11	25910	Unreliable
+	"Morton County, ND"	"38059"	"2007"	"2007"	"Unintentional"	"1"	13	26310	Unreliable
+	"Morton County, ND"	"38059"	"2008"	"2008"	"Unintentional"	"1"	12	26696	Unreliable
+	"Morton County, ND"	"38059"	"2009"	"2009"	"Unintentional"	"1"	11	27043	Unreliable
+	"Morton County, ND"	"38059"	"2010"	"2010"	"Unintentional"	"1"	17	27471	Unreliable
+	"Morton County, ND"	"38059"	"2011"	"2011"	"Unintentional"	"1"	13	27734	Unreliable
+	"Morton County, ND"	"38059"	"2013"	"2013"	"Unintentional"	"1"	17	28990	Unreliable
+	"Morton County, ND"	"38059"	"2014"	"2014"	"Unintentional"	"1"	12	29822	Unreliable
+	"Morton County, ND"	"38059"	"2015"	"2015"	"Unintentional"	"1"	16	30310	Unreliable
+	"Morton County, ND"	"38059"	"2016"	"2016"	"Unintentional"	"1"	13	30809	Unreliable
+	"Morton County, ND"	"38059"	"2018"	"2018"	"Unintentional"	"1"	13	31095	Unreliable
+	"Mountrail County, ND"	"38061"	"2015"	"2015"	"Unintentional"	"1"	13	10331	Unreliable
+	"Mountrail County, ND"	"38061"	"2017"	"2017"	"Unintentional"	"1"	11	10265	Unreliable
+	"Mountrail County, ND"	"38061"	"2018"	"2018"	"Unintentional"	"1"	15	10218	Unreliable
+	"Ramsey County, ND"	"38071"	"2002"	"2002"	"Unintentional"	"1"	10	11789	Unreliable
+	"Ramsey County, ND"	"38071"	"2005"	"2005"	"Unintentional"	"1"	10	11344	Unreliable
+	"Ramsey County, ND"	"38071"	"2014"	"2014"	"Unintentional"	"1"	10	11564	Unreliable
+	"Richland County, ND"	"38077"	"2009"	"2009"	"Unintentional"	"1"	10	16178	Unreliable
+	"Richland County, ND"	"38077"	"2014"	"2014"	"Unintentional"	"1"	10	16432	Unreliable
+	"Rolette County, ND"	"38079"	"1999"	"1999"	"Unintentional"	"1"	15	13676	Unreliable
+	"Rolette County, ND"	"38079"	"2001"	"2001"	"Unintentional"	"1"	10	13718	Unreliable
+	"Rolette County, ND"	"38079"	"2002"	"2002"	"Unintentional"	"1"	10	13680	Unreliable
+	"Rolette County, ND"	"38079"	"2004"	"2004"	"Unintentional"	"1"	13	13646	Unreliable
+	"Rolette County, ND"	"38079"	"2005"	"2005"	"Unintentional"	"1"	13	13663	Unreliable
+	"Rolette County, ND"	"38079"	"2006"	"2006"	"Unintentional"	"1"	13	13625	Unreliable
+	"Rolette County, ND"	"38079"	"2007"	"2007"	"Unintentional"	"1"	11	13679	Unreliable
+	"Rolette County, ND"	"38079"	"2008"	"2008"	"Unintentional"	"1"	12	13744	Unreliable
+	"Rolette County, ND"	"38079"	"2009"	"2009"	"Unintentional"	"1"	17	13798	Unreliable
+	"Rolette County, ND"	"38079"	"2010"	"2010"	"Unintentional"	"1"	11	13937	Unreliable
+	"Rolette County, ND"	"38079"	"2011"	"2011"	"Unintentional"	"1"	15	14206	Unreliable
+	"Rolette County, ND"	"38079"	"2012"	"2012"	"Unintentional"	"1"	11	14382	Unreliable
+	"Rolette County, ND"	"38079"	"2014"	"2014"	"Unintentional"	"1"	11	14616	Unreliable
+	"Rolette County, ND"	"38079"	"2016"	"2016"	"Unintentional"	"1"	12	14659	Unreliable
+	"Rolette County, ND"	"38079"	"2017"	"2017"	"Unintentional"	"1"	16	14531	Unreliable
+	"Stark County, ND"	"38089"	"1999"	"1999"	"Unintentional"	"1"	10	22914	Unreliable
+	"Stark County, ND"	"38089"	"2000"	"2000"	"Unintentional"	"1"	11	22636	Unreliable
+	"Stark County, ND"	"38089"	"2002"	"2002"	"Unintentional"	"1"	10	22384	Unreliable
+	"Stark County, ND"	"38089"	"2006"	"2006"	"Unintentional"	"1"	10	22770	Unreliable
+	"Stark County, ND"	"38089"	"2007"	"2007"	"Unintentional"	"1"	10	23176	Unreliable
+	"Stark County, ND"	"38089"	"2008"	"2008"	"Unintentional"	"1"	16	23375	Unreliable
+	"Stark County, ND"	"38089"	"2009"	"2009"	"Unintentional"	"1"	16	23786	Unreliable
+	"Stark County, ND"	"38089"	"2010"	"2010"	"Unintentional"	"1"	17	24199	Unreliable
+	"Stark County, ND"	"38089"	"2011"	"2011"	"Unintentional"	"1"	10	25177	Unreliable
+	"Stark County, ND"	"38089"	"2012"	"2012"	"Unintentional"	"1"	13	26771	Unreliable
+	"Stark County, ND"	"38089"	"2013"	"2013"	"Unintentional"	"1"	10	28212	Unreliable
+	"Stark County, ND"	"38089"	"2014"	"2014"	"Unintentional"	"1"	17	30372	Unreliable
+	"Stark County, ND"	"38089"	"2014"	"2014"	"Suicide"	"2"	10	30372	Unreliable
+	"Stark County, ND"	"38089"	"2015"	"2015"	"Unintentional"	"1"	15	32154	Unreliable
+	"Stark County, ND"	"38089"	"2016"	"2016"	"Unintentional"	"1"	17	31199	Unreliable
+	"Stark County, ND"	"38089"	"2017"	"2017"	"Unintentional"	"1"	16	30209	Unreliable
+	"Stutsman County, ND"	"38093"	"2004"	"2004"	"Unintentional"	"1"	11	21175	Unreliable
+	"Stutsman County, ND"	"38093"	"2006"	"2006"	"Unintentional"	"1"	14	21115	Unreliable
+	"Stutsman County, ND"	"38093"	"2007"	"2007"	"Unintentional"	"1"	10	20876	Unreliable
+	"Stutsman County, ND"	"38093"	"2009"	"2009"	"Unintentional"	"1"	11	21009	Unreliable
+	"Stutsman County, ND"	"38093"	"2010"	"2010"	"Unintentional"	"1"	12	21100	Unreliable
+	"Stutsman County, ND"	"38093"	"2011"	"2011"	"Unintentional"	"1"	15	21062	Unreliable
+	"Stutsman County, ND"	"38093"	"2012"	"2012"	"Unintentional"	"1"	10	20934	Unreliable
+	"Stutsman County, ND"	"38093"	"2014"	"2014"	"Unintentional"	"1"	11	21129	Unreliable
+	"Stutsman County, ND"	"38093"	"2015"	"2015"	"Unintentional"	"1"	16	21103	Unreliable
+	"Stutsman County, ND"	"38093"	"2016"	"2016"	"Unintentional"	"1"	15	21128	Unreliable
+	"Stutsman County, ND"	"38093"	"2017"	"2017"	"Unintentional"	"1"	11	21087	Unreliable
+	"Stutsman County, ND"	"38093"	"2018"	"2018"	"Unintentional"	"1"	14	20917	Unreliable
+	"Traill County, ND"	"38097"	"2015"	"2015"	"Unintentional"	"1"	11	8014	Unreliable
+	"Walsh County, ND"	"38099"	"2013"	"2013"	"Unintentional"	"1"	12	11104	Unreliable
+	"Walsh County, ND"	"38099"	"2014"	"2014"	"Unintentional"	"1"	10	10970	Unreliable
+	"Ward County, ND"	"38101"	"1999"	"1999"	"Unintentional"	"1"	17	59188	Unreliable
+	"Ward County, ND"	"38101"	"1999"	"1999"	"Suicide"	"2"	10	59188	Unreliable
+	"Ward County, ND"	"38101"	"2000"	"2000"	"Unintentional"	"1"	14	58795	Unreliable
+	"Ward County, ND"	"38101"	"2001"	"2001"	"Unintentional"	"1"	19	58246	Unreliable
+	"Ward County, ND"	"38101"	"2002"	"2002"	"Unintentional"	"1"	18	57741	Unreliable
+	"Ward County, ND"	"38101"	"2003"	"2003"	"Unintentional"	"1"	20	57193	35.0
+	"Ward County, ND"	"38101"	"2004"	"2004"	"Unintentional"	"1"	18	58054	Unreliable
+	"Ward County, ND"	"38101"	"2005"	"2005"	"Unintentional"	"1"	12	57878	Unreliable
+	"Ward County, ND"	"38101"	"2006"	"2006"	"Unintentional"	"1"	17	58030	Unreliable
+	"Ward County, ND"	"38101"	"2007"	"2007"	"Unintentional"	"1"	20	58297	34.3
+	"Ward County, ND"	"38101"	"2008"	"2008"	"Unintentional"	"1"	30	58670	51.1
+	"Ward County, ND"	"38101"	"2009"	"2009"	"Unintentional"	"1"	23	60213	38.2
+	"Ward County, ND"	"38101"	"2010"	"2010"	"Unintentional"	"1"	21	61675	34.0
+	"Ward County, ND"	"38101"	"2011"	"2011"	"Unintentional"	"1"	19	64072	Unreliable
+	"Ward County, ND"	"38101"	"2011"	"2011"	"Suicide"	"2"	11	64072	Unreliable
+	"Ward County, ND"	"38101"	"2012"	"2012"	"Unintentional"	"1"	27	64798	41.7
+	"Ward County, ND"	"38101"	"2012"	"2012"	"Suicide"	"2"	14	64798	Unreliable
+	"Ward County, ND"	"38101"	"2013"	"2013"	"Unintentional"	"1"	33	67990	48.5
+	"Ward County, ND"	"38101"	"2013"	"2013"	"Suicide"	"2"	16	67990	Unreliable
+	"Ward County, ND"	"38101"	"2014"	"2014"	"Unintentional"	"1"	24	69384	34.6
+	"Ward County, ND"	"38101"	"2014"	"2014"	"Suicide"	"2"	16	69384	Unreliable
+	"Ward County, ND"	"38101"	"2015"	"2015"	"Unintentional"	"1"	18	71275	Unreliable
+	"Ward County, ND"	"38101"	"2015"	"2015"	"Suicide"	"2"	11	71275	Unreliable
+	"Ward County, ND"	"38101"	"2016"	"2016"	"Unintentional"	"1"	20	70210	28.5
+	"Ward County, ND"	"38101"	"2016"	"2016"	"Suicide"	"2"	15	70210	Unreliable
+	"Ward County, ND"	"38101"	"2017"	"2017"	"Unintentional"	"1"	22	68946	31.9
+	"Ward County, ND"	"38101"	"2017"	"2017"	"Suicide"	"2"	11	68946	Unreliable
+	"Ward County, ND"	"38101"	"2018"	"2018"	"Unintentional"	"1"	25	67744	36.9
+	"Ward County, ND"	"38101"	"2018"	"2018"	"Suicide"	"2"	11	67744	Unreliable
+	"Williams County, ND"	"38105"	"2002"	"2002"	"Unintentional"	"1"	11	19729	Unreliable
+	"Williams County, ND"	"38105"	"2004"	"2004"	"Unintentional"	"1"	11	19724	Unreliable
+	"Williams County, ND"	"38105"	"2005"	"2005"	"Unintentional"	"1"	15	19855	Unreliable
+	"Williams County, ND"	"38105"	"2007"	"2007"	"Unintentional"	"1"	11	20547	Unreliable
+	"Williams County, ND"	"38105"	"2008"	"2008"	"Unintentional"	"1"	13	20928	Unreliable
+	"Williams County, ND"	"38105"	"2009"	"2009"	"Unintentional"	"1"	16	21820	Unreliable
+	"Williams County, ND"	"38105"	"2010"	"2010"	"Unintentional"	"1"	14	22398	Unreliable
+	"Williams County, ND"	"38105"	"2011"	"2011"	"Unintentional"	"1"	14	24374	Unreliable
+	"Williams County, ND"	"38105"	"2012"	"2012"	"Unintentional"	"1"	28	26697	104.9
+	"Williams County, ND"	"38105"	"2012"	"2012"	"Suicide"	"2"	11	26697	Unreliable
+	"Williams County, ND"	"38105"	"2013"	"2013"	"Unintentional"	"1"	21	29595	71.0
+	"Williams County, ND"	"38105"	"2014"	"2014"	"Unintentional"	"1"	22	32130	68.5
+	"Williams County, ND"	"38105"	"2015"	"2015"	"Unintentional"	"1"	28	35294	79.3
+	"Williams County, ND"	"38105"	"2016"	"2016"	"Unintentional"	"1"	12	34337	Unreliable
+	"Williams County, ND"	"38105"	"2017"	"2017"	"Unintentional"	"1"	14	33349	Unreliable
+	"Williams County, ND"	"38105"	"2018"	"2018"	"Unintentional"	"1"	21	35350	59.4
+	"Williams County, ND"	"38105"	"2018"	"2018"	"Suicide"	"2"	11	35350	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: North_Dakota"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: North Dakota (38)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 7:00:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 7:00:27 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

@@ -1,0 +1,214 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Kent County, DE"	"10001"	"1999"	"1999"	"Unintentional"	"1"	43	125611	34.2
+	"Kent County, DE"	"10001"	"1999"	"1999"	"Suicide"	"2"	16	125611	Unreliable
+	"Kent County, DE"	"10001"	"2000"	"2000"	"Unintentional"	"1"	51	126697	40.3
+	"Kent County, DE"	"10001"	"2000"	"2000"	"Suicide"	"2"	15	126697	Unreliable
+	"Kent County, DE"	"10001"	"2001"	"2001"	"Unintentional"	"1"	45	129228	34.8
+	"Kent County, DE"	"10001"	"2001"	"2001"	"Suicide"	"2"	15	129228	Unreliable
+	"Kent County, DE"	"10001"	"2002"	"2002"	"Unintentional"	"1"	44	131824	33.4
+	"Kent County, DE"	"10001"	"2002"	"2002"	"Suicide"	"2"	15	131824	Unreliable
+	"Kent County, DE"	"10001"	"2003"	"2003"	"Unintentional"	"1"	47	134605	34.9
+	"Kent County, DE"	"10001"	"2003"	"2003"	"Suicide"	"2"	13	134605	Unreliable
+	"Kent County, DE"	"10001"	"2004"	"2004"	"Unintentional"	"1"	54	139342	38.8
+	"Kent County, DE"	"10001"	"2004"	"2004"	"Suicide"	"2"	11	139342	Unreliable
+	"Kent County, DE"	"10001"	"2005"	"2005"	"Unintentional"	"1"	63	144585	43.6
+	"Kent County, DE"	"10001"	"2005"	"2005"	"Suicide"	"2"	15	144585	Unreliable
+	"Kent County, DE"	"10001"	"2006"	"2006"	"Unintentional"	"1"	69	149704	46.1
+	"Kent County, DE"	"10001"	"2006"	"2006"	"Suicide"	"2"	19	149704	Unreliable
+	"Kent County, DE"	"10001"	"2007"	"2007"	"Unintentional"	"1"	48	153969	31.2
+	"Kent County, DE"	"10001"	"2007"	"2007"	"Suicide"	"2"	14	153969	Unreliable
+	"Kent County, DE"	"10001"	"2008"	"2008"	"Unintentional"	"1"	61	157925	38.6
+	"Kent County, DE"	"10001"	"2008"	"2008"	"Suicide"	"2"	21	157925	13.3
+	"Kent County, DE"	"10001"	"2008"	"2008"	"Homicide"	"3"	10	157925	Unreliable
+	"Kent County, DE"	"10001"	"2009"	"2009"	"Unintentional"	"1"	55	160081	34.4
+	"Kent County, DE"	"10001"	"2009"	"2009"	"Suicide"	"2"	21	160081	13.1
+	"Kent County, DE"	"10001"	"2010"	"2010"	"Unintentional"	"1"	66	162310	40.7
+	"Kent County, DE"	"10001"	"2010"	"2010"	"Suicide"	"2"	16	162310	Unreliable
+	"Kent County, DE"	"10001"	"2011"	"2011"	"Unintentional"	"1"	52	164834	31.5
+	"Kent County, DE"	"10001"	"2011"	"2011"	"Suicide"	"2"	21	164834	12.7
+	"Kent County, DE"	"10001"	"2012"	"2012"	"Unintentional"	"1"	79	167626	47.1
+	"Kent County, DE"	"10001"	"2012"	"2012"	"Suicide"	"2"	23	167626	13.7
+	"Kent County, DE"	"10001"	"2013"	"2013"	"Unintentional"	"1"	74	169416	43.7
+	"Kent County, DE"	"10001"	"2013"	"2013"	"Suicide"	"2"	27	169416	15.9
+	"Kent County, DE"	"10001"	"2014"	"2014"	"Unintentional"	"1"	93	171987	54.1
+	"Kent County, DE"	"10001"	"2014"	"2014"	"Suicide"	"2"	29	171987	16.9
+	"Kent County, DE"	"10001"	"2015"	"2015"	"Unintentional"	"1"	94	173533	54.2
+	"Kent County, DE"	"10001"	"2015"	"2015"	"Suicide"	"2"	21	173533	12.1
+	"Kent County, DE"	"10001"	"2015"	"2015"	"Homicide"	"3"	10	173533	Unreliable
+	"Kent County, DE"	"10001"	"2016"	"2016"	"Unintentional"	"1"	97	174827	55.5
+	"Kent County, DE"	"10001"	"2016"	"2016"	"Suicide"	"2"	20	174827	11.4
+	"Kent County, DE"	"10001"	"2016"	"2016"	"Homicide"	"3"	11	174827	Unreliable
+	"Kent County, DE"	"10001"	"2017"	"2017"	"Unintentional"	"1"	94	176824	53.2
+	"Kent County, DE"	"10001"	"2017"	"2017"	"Suicide"	"2"	21	176824	11.9
+	"Kent County, DE"	"10001"	"2017"	"2017"	"Homicide"	"3"	11	176824	Unreliable
+	"Kent County, DE"	"10001"	"2018"	"2018"	"Unintentional"	"1"	114	178550	63.8
+	"Kent County, DE"	"10001"	"2018"	"2018"	"Suicide"	"2"	25	178550	14.0
+	"New Castle County, DE"	"10003"	"1999"	"1999"	"Unintentional"	"1"	170	496079	34.3
+	"New Castle County, DE"	"10003"	"1999"	"1999"	"Suicide"	"2"	53	496079	10.7
+	"New Castle County, DE"	"10003"	"1999"	"1999"	"Homicide"	"3"	22	496079	4.4
+	"New Castle County, DE"	"10003"	"2000"	"2000"	"Unintentional"	"1"	165	500265	33.0
+	"New Castle County, DE"	"10003"	"2000"	"2000"	"Suicide"	"2"	45	500265	9.0
+	"New Castle County, DE"	"10003"	"2000"	"2000"	"Homicide"	"3"	21	500265	4.2
+	"New Castle County, DE"	"10003"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	10	500265	Unreliable
+	"New Castle County, DE"	"10003"	"2001"	"2001"	"Unintentional"	"1"	163	506026	32.2
+	"New Castle County, DE"	"10003"	"2001"	"2001"	"Suicide"	"2"	75	506026	14.8
+	"New Castle County, DE"	"10003"	"2001"	"2001"	"Homicide"	"3"	25	506026	4.9
+	"New Castle County, DE"	"10003"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	12	506026	Unreliable
+	"New Castle County, DE"	"10003"	"2002"	"2002"	"Unintentional"	"1"	180	510158	35.3
+	"New Castle County, DE"	"10003"	"2002"	"2002"	"Suicide"	"2"	37	510158	7.3
+	"New Castle County, DE"	"10003"	"2002"	"2002"	"Homicide"	"3"	26	510158	5.1
+	"New Castle County, DE"	"10003"	"2003"	"2003"	"Unintentional"	"1"	160	514769	31.1
+	"New Castle County, DE"	"10003"	"2003"	"2003"	"Suicide"	"2"	61	514769	11.8
+	"New Castle County, DE"	"10003"	"2003"	"2003"	"Homicide"	"3"	17	514769	Unreliable
+	"New Castle County, DE"	"10003"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	12	514769	Unreliable
+	"New Castle County, DE"	"10003"	"2004"	"2004"	"Unintentional"	"1"	151	518944	29.1
+	"New Castle County, DE"	"10003"	"2004"	"2004"	"Suicide"	"2"	63	518944	12.1
+	"New Castle County, DE"	"10003"	"2004"	"2004"	"Homicide"	"3"	30	518944	5.8
+	"New Castle County, DE"	"10003"	"2005"	"2005"	"Unintentional"	"1"	158	523343	30.2
+	"New Castle County, DE"	"10003"	"2005"	"2005"	"Suicide"	"2"	53	523343	10.1
+	"New Castle County, DE"	"10003"	"2005"	"2005"	"Homicide"	"3"	41	523343	7.8
+	"New Castle County, DE"	"10003"	"2005"	"2005"	"Undetermined "	"4"	10	523343	Unreliable
+	"New Castle County, DE"	"10003"	"2006"	"2006"	"Unintentional"	"1"	181	527174	34.3
+	"New Castle County, DE"	"10003"	"2006"	"2006"	"Suicide"	"2"	49	527174	9.3
+	"New Castle County, DE"	"10003"	"2006"	"2006"	"Homicide"	"3"	41	527174	7.8
+	"New Castle County, DE"	"10003"	"2006"	"2006"	"Undetermined "	"4"	11	527174	Unreliable
+	"New Castle County, DE"	"10003"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	13	527174	Unreliable
+	"New Castle County, DE"	"10003"	"2007"	"2007"	"Unintentional"	"1"	190	530555	35.8
+	"New Castle County, DE"	"10003"	"2007"	"2007"	"Suicide"	"2"	54	530555	10.2
+	"New Castle County, DE"	"10003"	"2007"	"2007"	"Homicide"	"3"	34	530555	6.4
+	"New Castle County, DE"	"10003"	"2007"	"2007"	"Undetermined "	"4"	10	530555	Unreliable
+	"New Castle County, DE"	"10003"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	10	530555	Unreliable
+	"New Castle County, DE"	"10003"	"2008"	"2008"	"Unintentional"	"1"	197	533958	36.9
+	"New Castle County, DE"	"10003"	"2008"	"2008"	"Suicide"	"2"	61	533958	11.4
+	"New Castle County, DE"	"10003"	"2008"	"2008"	"Homicide"	"3"	48	533958	9.0
+	"New Castle County, DE"	"10003"	"2009"	"2009"	"Unintentional"	"1"	169	536898	31.5
+	"New Castle County, DE"	"10003"	"2009"	"2009"	"Suicide"	"2"	63	536898	11.7
+	"New Castle County, DE"	"10003"	"2009"	"2009"	"Homicide"	"3"	37	536898	6.9
+	"New Castle County, DE"	"10003"	"2010"	"2010"	"Unintentional"	"1"	190	538479	35.3
+	"New Castle County, DE"	"10003"	"2010"	"2010"	"Suicide"	"2"	56	538479	10.4
+	"New Castle County, DE"	"10003"	"2010"	"2010"	"Homicide"	"3"	47	538479	8.7
+	"New Castle County, DE"	"10003"	"2011"	"2011"	"Unintentional"	"1"	200	541971	36.9
+	"New Castle County, DE"	"10003"	"2011"	"2011"	"Suicide"	"2"	63	541971	11.6
+	"New Castle County, DE"	"10003"	"2011"	"2011"	"Homicide"	"3"	37	541971	6.8
+	"New Castle County, DE"	"10003"	"2012"	"2012"	"Unintentional"	"1"	207	546076	37.9
+	"New Castle County, DE"	"10003"	"2012"	"2012"	"Suicide"	"2"	67	546076	12.3
+	"New Castle County, DE"	"10003"	"2012"	"2012"	"Homicide"	"3"	50	546076	9.2
+	"New Castle County, DE"	"10003"	"2012"	"2012"	"Undetermined "	"4"	10	546076	Unreliable
+	"New Castle County, DE"	"10003"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	10	546076	Unreliable
+	"New Castle County, DE"	"10003"	"2013"	"2013"	"Unintentional"	"1"	236	549684	42.9
+	"New Castle County, DE"	"10003"	"2013"	"2013"	"Suicide"	"2"	69	549684	12.6
+	"New Castle County, DE"	"10003"	"2013"	"2013"	"Homicide"	"3"	40	549684	7.3
+	"New Castle County, DE"	"10003"	"2013"	"2013"	"Undetermined "	"4"	15	549684	Unreliable
+	"New Castle County, DE"	"10003"	"2014"	"2014"	"Unintentional"	"1"	217	552778	39.3
+	"New Castle County, DE"	"10003"	"2014"	"2014"	"Suicide"	"2"	69	552778	12.5
+	"New Castle County, DE"	"10003"	"2014"	"2014"	"Homicide"	"3"	42	552778	7.6
+	"New Castle County, DE"	"10003"	"2015"	"2015"	"Unintentional"	"1"	242	556779	43.5
+	"New Castle County, DE"	"10003"	"2015"	"2015"	"Suicide"	"2"	73	556779	13.1
+	"New Castle County, DE"	"10003"	"2015"	"2015"	"Homicide"	"3"	51	556779	9.2
+	"New Castle County, DE"	"10003"	"2015"	"2015"	"Undetermined "	"4"	11	556779	Unreliable
+	"New Castle County, DE"	"10003"	"2016"	"2016"	"Unintentional"	"1"	275	556987	49.4
+	"New Castle County, DE"	"10003"	"2016"	"2016"	"Suicide"	"2"	65	556987	11.7
+	"New Castle County, DE"	"10003"	"2016"	"2016"	"Homicide"	"3"	45	556987	8.1
+	"New Castle County, DE"	"10003"	"2017"	"2017"	"Unintentional"	"1"	377	559793	67.3
+	"New Castle County, DE"	"10003"	"2017"	"2017"	"Suicide"	"2"	61	559793	10.9
+	"New Castle County, DE"	"10003"	"2017"	"2017"	"Homicide"	"3"	47	559793	8.4
+	"New Castle County, DE"	"10003"	"2017"	"2017"	"Undetermined "	"4"	11	559793	Unreliable
+	"New Castle County, DE"	"10003"	"2018"	"2018"	"Unintentional"	"1"	388	559335	69.4
+	"New Castle County, DE"	"10003"	"2018"	"2018"	"Suicide"	"2"	61	559335	10.9
+	"New Castle County, DE"	"10003"	"2018"	"2018"	"Homicide"	"3"	40	559335	7.2
+	"Sussex County, DE"	"10005"	"1999"	"1999"	"Unintentional"	"1"	54	153300	35.2
+	"Sussex County, DE"	"10005"	"1999"	"1999"	"Suicide"	"2"	17	153300	Unreliable
+	"Sussex County, DE"	"10005"	"2000"	"2000"	"Unintentional"	"1"	74	156638	47.2
+	"Sussex County, DE"	"10005"	"2000"	"2000"	"Suicide"	"2"	22	156638	14.0
+	"Sussex County, DE"	"10005"	"2001"	"2001"	"Unintentional"	"1"	82	160445	51.1
+	"Sussex County, DE"	"10005"	"2001"	"2001"	"Suicide"	"2"	18	160445	Unreliable
+	"Sussex County, DE"	"10005"	"2002"	"2002"	"Unintentional"	"1"	68	164187	41.4
+	"Sussex County, DE"	"10005"	"2002"	"2002"	"Suicide"	"2"	22	164187	13.4
+	"Sussex County, DE"	"10005"	"2003"	"2003"	"Unintentional"	"1"	80	168629	47.4
+	"Sussex County, DE"	"10005"	"2003"	"2003"	"Suicide"	"2"	20	168629	11.9
+	"Sussex County, DE"	"10005"	"2004"	"2004"	"Unintentional"	"1"	89	172517	51.6
+	"Sussex County, DE"	"10005"	"2004"	"2004"	"Suicide"	"2"	19	172517	Unreliable
+	"Sussex County, DE"	"10005"	"2005"	"2005"	"Unintentional"	"1"	72	177222	40.6
+	"Sussex County, DE"	"10005"	"2005"	"2005"	"Suicide"	"2"	15	177222	Unreliable
+	"Sussex County, DE"	"10005"	"2006"	"2006"	"Unintentional"	"1"	79	182390	43.3
+	"Sussex County, DE"	"10005"	"2006"	"2006"	"Suicide"	"2"	23	182390	12.6
+	"Sussex County, DE"	"10005"	"2007"	"2007"	"Unintentional"	"1"	71	187225	37.9
+	"Sussex County, DE"	"10005"	"2007"	"2007"	"Suicide"	"2"	27	187225	14.4
+	"Sussex County, DE"	"10005"	"2008"	"2008"	"Unintentional"	"1"	94	191991	49.0
+	"Sussex County, DE"	"10005"	"2008"	"2008"	"Suicide"	"2"	27	191991	14.1
+	"Sussex County, DE"	"10005"	"2009"	"2009"	"Unintentional"	"1"	109	194751	56.0
+	"Sussex County, DE"	"10005"	"2009"	"2009"	"Suicide"	"2"	23	194751	11.8
+	"Sussex County, DE"	"10005"	"2010"	"2010"	"Unintentional"	"1"	101	197145	51.2
+	"Sussex County, DE"	"10005"	"2010"	"2010"	"Suicide"	"2"	34	197145	17.2
+	"Sussex County, DE"	"10005"	"2011"	"2011"	"Unintentional"	"1"	86	200330	42.9
+	"Sussex County, DE"	"10005"	"2011"	"2011"	"Suicide"	"2"	21	200330	10.5
+	"Sussex County, DE"	"10005"	"2011"	"2011"	"Undetermined "	"4"	11	200330	Unreliable
+	"Sussex County, DE"	"10005"	"2012"	"2012"	"Unintentional"	"1"	88	203390	43.3
+	"Sussex County, DE"	"10005"	"2012"	"2012"	"Suicide"	"2"	35	203390	17.2
+	"Sussex County, DE"	"10005"	"2013"	"2013"	"Unintentional"	"1"	102	206649	49.4
+	"Sussex County, DE"	"10005"	"2013"	"2013"	"Suicide"	"2"	26	206649	12.6
+	"Sussex County, DE"	"10005"	"2014"	"2014"	"Unintentional"	"1"	115	210849	54.5
+	"Sussex County, DE"	"10005"	"2014"	"2014"	"Suicide"	"2"	28	210849	13.3
+	"Sussex County, DE"	"10005"	"2015"	"2015"	"Unintentional"	"1"	113	215622	52.4
+	"Sussex County, DE"	"10005"	"2015"	"2015"	"Suicide"	"2"	28	215622	13.0
+	"Sussex County, DE"	"10005"	"2016"	"2016"	"Unintentional"	"1"	144	220251	65.4
+	"Sussex County, DE"	"10005"	"2016"	"2016"	"Suicide"	"2"	34	220251	15.4
+	"Sussex County, DE"	"10005"	"2017"	"2017"	"Unintentional"	"1"	137	225322	60.8
+	"Sussex County, DE"	"10005"	"2017"	"2017"	"Suicide"	"2"	30	225322	13.3
+	"Sussex County, DE"	"10005"	"2018"	"2018"	"Unintentional"	"1"	160	229286	69.8
+	"Sussex County, DE"	"10005"	"2018"	"2018"	"Suicide"	"2"	27	229286	11.8
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Delaware"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Delaware (10)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:55:29 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:55:29 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

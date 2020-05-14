@@ -1,0 +1,494 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Androscoggin County, ME"	"23001"	"1999"	"1999"	"Unintentional"	"1"	35	103403	33.8
+	"Androscoggin County, ME"	"23001"	"1999"	"1999"	"Suicide"	"2"	10	103403	Unreliable
+	"Androscoggin County, ME"	"23001"	"2000"	"2000"	"Unintentional"	"1"	22	103793	21.2
+	"Androscoggin County, ME"	"23001"	"2000"	"2000"	"Suicide"	"2"	12	103793	Unreliable
+	"Androscoggin County, ME"	"23001"	"2001"	"2001"	"Unintentional"	"1"	36	104260	34.5
+	"Androscoggin County, ME"	"23001"	"2001"	"2001"	"Suicide"	"2"	11	104260	Unreliable
+	"Androscoggin County, ME"	"23001"	"2002"	"2002"	"Unintentional"	"1"	41	105063	39.0
+	"Androscoggin County, ME"	"23001"	"2003"	"2003"	"Unintentional"	"1"	39	106140	36.7
+	"Androscoggin County, ME"	"23001"	"2004"	"2004"	"Unintentional"	"1"	32	106867	29.9
+	"Androscoggin County, ME"	"23001"	"2005"	"2005"	"Unintentional"	"1"	37	107352	34.5
+	"Androscoggin County, ME"	"23001"	"2006"	"2006"	"Unintentional"	"1"	42	107932	38.9
+	"Androscoggin County, ME"	"23001"	"2006"	"2006"	"Suicide"	"2"	10	107932	Unreliable
+	"Androscoggin County, ME"	"23001"	"2007"	"2007"	"Unintentional"	"1"	34	107739	31.6
+	"Androscoggin County, ME"	"23001"	"2007"	"2007"	"Suicide"	"2"	16	107739	Unreliable
+	"Androscoggin County, ME"	"23001"	"2008"	"2008"	"Unintentional"	"1"	40	108284	36.9
+	"Androscoggin County, ME"	"23001"	"2008"	"2008"	"Suicide"	"2"	15	108284	Unreliable
+	"Androscoggin County, ME"	"23001"	"2009"	"2009"	"Unintentional"	"1"	54	107830	50.1
+	"Androscoggin County, ME"	"23001"	"2009"	"2009"	"Suicide"	"2"	11	107830	Unreliable
+	"Androscoggin County, ME"	"23001"	"2010"	"2010"	"Unintentional"	"1"	44	107702	40.9
+	"Androscoggin County, ME"	"23001"	"2010"	"2010"	"Suicide"	"2"	16	107702	Unreliable
+	"Androscoggin County, ME"	"23001"	"2011"	"2011"	"Unintentional"	"1"	47	107398	43.8
+	"Androscoggin County, ME"	"23001"	"2011"	"2011"	"Suicide"	"2"	12	107398	Unreliable
+	"Androscoggin County, ME"	"23001"	"2012"	"2012"	"Unintentional"	"1"	42	107609	39.0
+	"Androscoggin County, ME"	"23001"	"2012"	"2012"	"Suicide"	"2"	19	107609	Unreliable
+	"Androscoggin County, ME"	"23001"	"2013"	"2013"	"Unintentional"	"1"	43	107604	40.0
+	"Androscoggin County, ME"	"23001"	"2013"	"2013"	"Suicide"	"2"	16	107604	Unreliable
+	"Androscoggin County, ME"	"23001"	"2014"	"2014"	"Unintentional"	"1"	65	107440	60.5
+	"Androscoggin County, ME"	"23001"	"2014"	"2014"	"Suicide"	"2"	20	107440	18.6
+	"Androscoggin County, ME"	"23001"	"2015"	"2015"	"Unintentional"	"1"	49	107233	45.7
+	"Androscoggin County, ME"	"23001"	"2015"	"2015"	"Suicide"	"2"	21	107233	19.6
+	"Androscoggin County, ME"	"23001"	"2016"	"2016"	"Unintentional"	"1"	64	107319	59.6
+	"Androscoggin County, ME"	"23001"	"2016"	"2016"	"Suicide"	"2"	22	107319	20.5
+	"Androscoggin County, ME"	"23001"	"2017"	"2017"	"Unintentional"	"1"	71	107651	66.0
+	"Androscoggin County, ME"	"23001"	"2017"	"2017"	"Suicide"	"2"	20	107651	18.6
+	"Androscoggin County, ME"	"23001"	"2018"	"2018"	"Unintentional"	"1"	80	107679	74.3
+	"Androscoggin County, ME"	"23001"	"2018"	"2018"	"Suicide"	"2"	19	107679	Unreliable
+	"Aroostook County, ME"	"23003"	"1999"	"1999"	"Unintentional"	"1"	28	74227	37.7
+	"Aroostook County, ME"	"23003"	"2000"	"2000"	"Unintentional"	"1"	19	73938	Unreliable
+	"Aroostook County, ME"	"23003"	"2001"	"2001"	"Unintentional"	"1"	23	72962	31.5
+	"Aroostook County, ME"	"23003"	"2001"	"2001"	"Suicide"	"2"	10	72962	Unreliable
+	"Aroostook County, ME"	"23003"	"2002"	"2002"	"Unintentional"	"1"	29	72942	39.8
+	"Aroostook County, ME"	"23003"	"2003"	"2003"	"Unintentional"	"1"	36	72944	49.4
+	"Aroostook County, ME"	"23003"	"2003"	"2003"	"Suicide"	"2"	10	72944	Unreliable
+	"Aroostook County, ME"	"23003"	"2004"	"2004"	"Unintentional"	"1"	23	72959	31.5
+	"Aroostook County, ME"	"23003"	"2005"	"2005"	"Unintentional"	"1"	45	72881	61.7
+	"Aroostook County, ME"	"23003"	"2006"	"2006"	"Unintentional"	"1"	30	72827	41.2
+	"Aroostook County, ME"	"23003"	"2007"	"2007"	"Unintentional"	"1"	40	72711	55.0
+	"Aroostook County, ME"	"23003"	"2007"	"2007"	"Suicide"	"2"	16	72711	Unreliable
+	"Aroostook County, ME"	"23003"	"2008"	"2008"	"Unintentional"	"1"	31	72542	42.7
+	"Aroostook County, ME"	"23003"	"2008"	"2008"	"Suicide"	"2"	12	72542	Unreliable
+	"Aroostook County, ME"	"23003"	"2009"	"2009"	"Unintentional"	"1"	34	72258	47.1
+	"Aroostook County, ME"	"23003"	"2009"	"2009"	"Suicide"	"2"	11	72258	Unreliable
+	"Aroostook County, ME"	"23003"	"2010"	"2010"	"Unintentional"	"1"	25	71870	34.8
+	"Aroostook County, ME"	"23003"	"2011"	"2011"	"Unintentional"	"1"	43	71482	60.2
+	"Aroostook County, ME"	"23003"	"2012"	"2012"	"Unintentional"	"1"	34	70868	48.0
+	"Aroostook County, ME"	"23003"	"2012"	"2012"	"Suicide"	"2"	16	70868	Unreliable
+	"Aroostook County, ME"	"23003"	"2013"	"2013"	"Unintentional"	"1"	39	70055	55.7
+	"Aroostook County, ME"	"23003"	"2013"	"2013"	"Suicide"	"2"	16	70055	Unreliable
+	"Aroostook County, ME"	"23003"	"2014"	"2014"	"Unintentional"	"1"	31	69447	44.6
+	"Aroostook County, ME"	"23003"	"2014"	"2014"	"Suicide"	"2"	17	69447	Unreliable
+	"Aroostook County, ME"	"23003"	"2015"	"2015"	"Unintentional"	"1"	41	68628	59.7
+	"Aroostook County, ME"	"23003"	"2015"	"2015"	"Suicide"	"2"	14	68628	Unreliable
+	"Aroostook County, ME"	"23003"	"2016"	"2016"	"Unintentional"	"1"	43	67959	63.3
+	"Aroostook County, ME"	"23003"	"2016"	"2016"	"Suicide"	"2"	15	67959	Unreliable
+	"Aroostook County, ME"	"23003"	"2017"	"2017"	"Unintentional"	"1"	37	67653	54.7
+	"Aroostook County, ME"	"23003"	"2017"	"2017"	"Suicide"	"2"	10	67653	Unreliable
+	"Aroostook County, ME"	"23003"	"2018"	"2018"	"Unintentional"	"1"	40	67111	59.6
+	"Aroostook County, ME"	"23003"	"2018"	"2018"	"Suicide"	"2"	12	67111	Unreliable
+	"Cumberland County, ME"	"23005"	"1999"	"1999"	"Unintentional"	"1"	77	263931	29.2
+	"Cumberland County, ME"	"23005"	"1999"	"1999"	"Suicide"	"2"	44	263931	16.7
+	"Cumberland County, ME"	"23005"	"2000"	"2000"	"Unintentional"	"1"	84	265612	31.6
+	"Cumberland County, ME"	"23005"	"2000"	"2000"	"Suicide"	"2"	26	265612	9.8
+	"Cumberland County, ME"	"23005"	"2001"	"2001"	"Unintentional"	"1"	89	268391	33.2
+	"Cumberland County, ME"	"23005"	"2001"	"2001"	"Suicide"	"2"	29	268391	10.8
+	"Cumberland County, ME"	"23005"	"2002"	"2002"	"Unintentional"	"1"	109	270533	40.3
+	"Cumberland County, ME"	"23005"	"2002"	"2002"	"Suicide"	"2"	29	270533	10.7
+	"Cumberland County, ME"	"23005"	"2003"	"2003"	"Unintentional"	"1"	95	273041	34.8
+	"Cumberland County, ME"	"23005"	"2003"	"2003"	"Suicide"	"2"	25	273041	9.2
+	"Cumberland County, ME"	"23005"	"2004"	"2004"	"Unintentional"	"1"	106	274920	38.6
+	"Cumberland County, ME"	"23005"	"2004"	"2004"	"Suicide"	"2"	27	274920	9.8
+	"Cumberland County, ME"	"23005"	"2005"	"2005"	"Unintentional"	"1"	92	276275	33.3
+	"Cumberland County, ME"	"23005"	"2005"	"2005"	"Suicide"	"2"	36	276275	13.0
+	"Cumberland County, ME"	"23005"	"2006"	"2006"	"Unintentional"	"1"	98	277084	35.4
+	"Cumberland County, ME"	"23005"	"2006"	"2006"	"Suicide"	"2"	30	277084	10.8
+	"Cumberland County, ME"	"23005"	"2007"	"2007"	"Unintentional"	"1"	108	278781	38.7
+	"Cumberland County, ME"	"23005"	"2007"	"2007"	"Suicide"	"2"	37	278781	13.3
+	"Cumberland County, ME"	"23005"	"2008"	"2008"	"Unintentional"	"1"	123	280681	43.8
+	"Cumberland County, ME"	"23005"	"2008"	"2008"	"Suicide"	"2"	36	280681	12.8
+	"Cumberland County, ME"	"23005"	"2009"	"2009"	"Unintentional"	"1"	123	281969	43.6
+	"Cumberland County, ME"	"23005"	"2009"	"2009"	"Suicide"	"2"	39	281969	13.8
+	"Cumberland County, ME"	"23005"	"2010"	"2010"	"Unintentional"	"1"	99	281674	35.1
+	"Cumberland County, ME"	"23005"	"2010"	"2010"	"Suicide"	"2"	32	281674	11.4
+	"Cumberland County, ME"	"23005"	"2011"	"2011"	"Unintentional"	"1"	96	282401	34.0
+	"Cumberland County, ME"	"23005"	"2011"	"2011"	"Suicide"	"2"	46	282401	16.3
+	"Cumberland County, ME"	"23005"	"2012"	"2012"	"Unintentional"	"1"	116	283921	40.9
+	"Cumberland County, ME"	"23005"	"2012"	"2012"	"Suicide"	"2"	40	283921	14.1
+	"Cumberland County, ME"	"23005"	"2013"	"2013"	"Unintentional"	"1"	123	285456	43.1
+	"Cumberland County, ME"	"23005"	"2013"	"2013"	"Suicide"	"2"	47	285456	16.5
+	"Cumberland County, ME"	"23005"	"2014"	"2014"	"Unintentional"	"1"	131	287797	45.5
+	"Cumberland County, ME"	"23005"	"2014"	"2014"	"Suicide"	"2"	37	287797	12.9
+	"Cumberland County, ME"	"23005"	"2015"	"2015"	"Unintentional"	"1"	186	289977	64.1
+	"Cumberland County, ME"	"23005"	"2015"	"2015"	"Suicide"	"2"	39	289977	13.4
+	"Cumberland County, ME"	"23005"	"2016"	"2016"	"Unintentional"	"1"	188	292041	64.4
+	"Cumberland County, ME"	"23005"	"2016"	"2016"	"Suicide"	"2"	33	292041	11.3
+	"Cumberland County, ME"	"23005"	"2017"	"2017"	"Unintentional"	"1"	193	292500	66.0
+	"Cumberland County, ME"	"23005"	"2017"	"2017"	"Suicide"	"2"	44	292500	15.0
+	"Cumberland County, ME"	"23005"	"2018"	"2018"	"Unintentional"	"1"	181	293557	61.7
+	"Cumberland County, ME"	"23005"	"2018"	"2018"	"Suicide"	"2"	41	293557	14.0
+	"Franklin County, ME"	"23007"	"1999"	"1999"	"Unintentional"	"1"	16	29370	Unreliable
+	"Franklin County, ME"	"23007"	"2000"	"2000"	"Unintentional"	"1"	10	29467	Unreliable
+	"Franklin County, ME"	"23007"	"2002"	"2002"	"Unintentional"	"1"	11	30019	Unreliable
+	"Franklin County, ME"	"23007"	"2003"	"2003"	"Unintentional"	"1"	10	30026	Unreliable
+	"Franklin County, ME"	"23007"	"2005"	"2005"	"Unintentional"	"1"	15	30226	Unreliable
+	"Franklin County, ME"	"23007"	"2006"	"2006"	"Unintentional"	"1"	14	30528	Unreliable
+	"Franklin County, ME"	"23007"	"2007"	"2007"	"Unintentional"	"1"	18	30596	Unreliable
+	"Franklin County, ME"	"23007"	"2008"	"2008"	"Unintentional"	"1"	15	30652	Unreliable
+	"Franklin County, ME"	"23007"	"2009"	"2009"	"Unintentional"	"1"	15	30779	Unreliable
+	"Franklin County, ME"	"23007"	"2010"	"2010"	"Unintentional"	"1"	14	30768	Unreliable
+	"Franklin County, ME"	"23007"	"2011"	"2011"	"Unintentional"	"1"	11	30746	Unreliable
+	"Franklin County, ME"	"23007"	"2012"	"2012"	"Unintentional"	"1"	18	30630	Unreliable
+	"Franklin County, ME"	"23007"	"2013"	"2013"	"Unintentional"	"1"	13	30495	Unreliable
+	"Franklin County, ME"	"23007"	"2014"	"2014"	"Unintentional"	"1"	12	30296	Unreliable
+	"Franklin County, ME"	"23007"	"2015"	"2015"	"Unintentional"	"1"	16	29991	Unreliable
+	"Franklin County, ME"	"23007"	"2016"	"2016"	"Unintentional"	"1"	19	30001	Unreliable
+	"Franklin County, ME"	"23007"	"2017"	"2017"	"Unintentional"	"1"	24	29988	80.0
+	"Franklin County, ME"	"23007"	"2018"	"2018"	"Unintentional"	"1"	23	29897	76.9
+	"Hancock County, ME"	"23009"	"1999"	"1999"	"Unintentional"	"1"	25	51404	48.6
+	"Hancock County, ME"	"23009"	"2000"	"2000"	"Unintentional"	"1"	20	51791	38.6
+	"Hancock County, ME"	"23009"	"2001"	"2001"	"Unintentional"	"1"	26	52109	49.9
+	"Hancock County, ME"	"23009"	"2002"	"2002"	"Unintentional"	"1"	23	52327	44.0
+	"Hancock County, ME"	"23009"	"2003"	"2003"	"Unintentional"	"1"	23	53030	43.4
+	"Hancock County, ME"	"23009"	"2004"	"2004"	"Unintentional"	"1"	23	53613	42.9
+	"Hancock County, ME"	"23009"	"2005"	"2005"	"Unintentional"	"1"	29	53745	54.0
+	"Hancock County, ME"	"23009"	"2006"	"2006"	"Unintentional"	"1"	23	54009	42.6
+	"Hancock County, ME"	"23009"	"2007"	"2007"	"Unintentional"	"1"	23	54300	42.4
+	"Hancock County, ME"	"23009"	"2008"	"2008"	"Unintentional"	"1"	36	54371	66.2
+	"Hancock County, ME"	"23009"	"2009"	"2009"	"Unintentional"	"1"	30	54499	55.0
+	"Hancock County, ME"	"23009"	"2009"	"2009"	"Suicide"	"2"	11	54499	Unreliable
+	"Hancock County, ME"	"23009"	"2010"	"2010"	"Unintentional"	"1"	24	54418	44.1
+	"Hancock County, ME"	"23009"	"2011"	"2011"	"Unintentional"	"1"	25	54578	45.8
+	"Hancock County, ME"	"23009"	"2012"	"2012"	"Unintentional"	"1"	27	54558	49.5
+	"Hancock County, ME"	"23009"	"2013"	"2013"	"Unintentional"	"1"	30	54845	54.7
+	"Hancock County, ME"	"23009"	"2014"	"2014"	"Unintentional"	"1"	30	54696	54.8
+	"Hancock County, ME"	"23009"	"2014"	"2014"	"Suicide"	"2"	11	54696	Unreliable
+	"Hancock County, ME"	"23009"	"2015"	"2015"	"Unintentional"	"1"	34	54659	62.2
+	"Hancock County, ME"	"23009"	"2015"	"2015"	"Suicide"	"2"	11	54659	Unreliable
+	"Hancock County, ME"	"23009"	"2016"	"2016"	"Unintentional"	"1"	39	54419	71.7
+	"Hancock County, ME"	"23009"	"2016"	"2016"	"Suicide"	"2"	10	54419	Unreliable
+	"Hancock County, ME"	"23009"	"2017"	"2017"	"Unintentional"	"1"	43	54497	78.9
+	"Hancock County, ME"	"23009"	"2018"	"2018"	"Unintentional"	"1"	40	54811	73.0
+	"Hancock County, ME"	"23009"	"2018"	"2018"	"Suicide"	"2"	10	54811	Unreliable
+	"Kennebec County, ME"	"23011"	"1999"	"1999"	"Unintentional"	"1"	41	116679	35.1
+	"Kennebec County, ME"	"23011"	"1999"	"1999"	"Suicide"	"2"	13	116679	Unreliable
+	"Kennebec County, ME"	"23011"	"2000"	"2000"	"Unintentional"	"1"	34	117114	29.0
+	"Kennebec County, ME"	"23011"	"2000"	"2000"	"Suicide"	"2"	11	117114	Unreliable
+	"Kennebec County, ME"	"23011"	"2001"	"2001"	"Unintentional"	"1"	47	118024	39.8
+	"Kennebec County, ME"	"23011"	"2001"	"2001"	"Suicide"	"2"	17	118024	Unreliable
+	"Kennebec County, ME"	"23011"	"2002"	"2002"	"Unintentional"	"1"	59	118611	49.7
+	"Kennebec County, ME"	"23011"	"2002"	"2002"	"Suicide"	"2"	16	118611	Unreliable
+	"Kennebec County, ME"	"23011"	"2003"	"2003"	"Unintentional"	"1"	36	119538	30.1
+	"Kennebec County, ME"	"23011"	"2003"	"2003"	"Suicide"	"2"	16	119538	Unreliable
+	"Kennebec County, ME"	"23011"	"2004"	"2004"	"Unintentional"	"1"	44	120303	36.6
+	"Kennebec County, ME"	"23011"	"2004"	"2004"	"Suicide"	"2"	16	120303	Unreliable
+	"Kennebec County, ME"	"23011"	"2005"	"2005"	"Unintentional"	"1"	53	120957	43.8
+	"Kennebec County, ME"	"23011"	"2005"	"2005"	"Suicide"	"2"	18	120957	Unreliable
+	"Kennebec County, ME"	"23011"	"2006"	"2006"	"Unintentional"	"1"	62	121508	51.0
+	"Kennebec County, ME"	"23011"	"2006"	"2006"	"Suicide"	"2"	10	121508	Unreliable
+	"Kennebec County, ME"	"23011"	"2007"	"2007"	"Unintentional"	"1"	56	121741	46.0
+	"Kennebec County, ME"	"23011"	"2007"	"2007"	"Suicide"	"2"	10	121741	Unreliable
+	"Kennebec County, ME"	"23011"	"2008"	"2008"	"Unintentional"	"1"	57	122147	46.7
+	"Kennebec County, ME"	"23011"	"2008"	"2008"	"Suicide"	"2"	17	122147	Unreliable
+	"Kennebec County, ME"	"23011"	"2009"	"2009"	"Unintentional"	"1"	48	122084	39.3
+	"Kennebec County, ME"	"23011"	"2009"	"2009"	"Suicide"	"2"	20	122084	16.4
+	"Kennebec County, ME"	"23011"	"2010"	"2010"	"Unintentional"	"1"	52	122151	42.6
+	"Kennebec County, ME"	"23011"	"2010"	"2010"	"Suicide"	"2"	15	122151	Unreliable
+	"Kennebec County, ME"	"23011"	"2011"	"2011"	"Unintentional"	"1"	62	121935	50.8
+	"Kennebec County, ME"	"23011"	"2011"	"2011"	"Suicide"	"2"	23	121935	18.9
+	"Kennebec County, ME"	"23011"	"2012"	"2012"	"Unintentional"	"1"	57	121853	46.8
+	"Kennebec County, ME"	"23011"	"2012"	"2012"	"Suicide"	"2"	19	121853	Unreliable
+	"Kennebec County, ME"	"23011"	"2013"	"2013"	"Unintentional"	"1"	72	121164	59.4
+	"Kennebec County, ME"	"23011"	"2013"	"2013"	"Suicide"	"2"	15	121164	Unreliable
+	"Kennebec County, ME"	"23011"	"2014"	"2014"	"Unintentional"	"1"	55	121112	45.4
+	"Kennebec County, ME"	"23011"	"2014"	"2014"	"Suicide"	"2"	24	121112	19.8
+	"Kennebec County, ME"	"23011"	"2015"	"2015"	"Unintentional"	"1"	79	119980	65.8
+	"Kennebec County, ME"	"23011"	"2015"	"2015"	"Suicide"	"2"	29	119980	24.2
+	"Kennebec County, ME"	"23011"	"2016"	"2016"	"Unintentional"	"1"	72	120569	59.7
+	"Kennebec County, ME"	"23011"	"2016"	"2016"	"Suicide"	"2"	19	120569	Unreliable
+	"Kennebec County, ME"	"23011"	"2017"	"2017"	"Unintentional"	"1"	102	121821	83.7
+	"Kennebec County, ME"	"23011"	"2017"	"2017"	"Suicide"	"2"	28	121821	23.0
+	"Kennebec County, ME"	"23011"	"2018"	"2018"	"Unintentional"	"1"	102	122083	83.5
+	"Kennebec County, ME"	"23011"	"2018"	"2018"	"Suicide"	"2"	24	122083	19.7
+	"Knox County, ME"	"23013"	"1999"	"1999"	"Unintentional"	"1"	20	39303	50.9
+	"Knox County, ME"	"23013"	"1999"	"1999"	"Suicide"	"2"	10	39303	Unreliable
+	"Knox County, ME"	"23013"	"2000"	"2000"	"Unintentional"	"1"	14	39618	Unreliable
+	"Knox County, ME"	"23013"	"2001"	"2001"	"Unintentional"	"1"	25	39884	62.7
+	"Knox County, ME"	"23013"	"2002"	"2002"	"Unintentional"	"1"	18	40258	Unreliable
+	"Knox County, ME"	"23013"	"2003"	"2003"	"Unintentional"	"1"	26	40393	64.4
+	"Knox County, ME"	"23013"	"2004"	"2004"	"Unintentional"	"1"	20	40514	49.4
+	"Knox County, ME"	"23013"	"2005"	"2005"	"Unintentional"	"1"	26	40571	64.1
+	"Knox County, ME"	"23013"	"2006"	"2006"	"Unintentional"	"1"	25	40417	61.9
+	"Knox County, ME"	"23013"	"2006"	"2006"	"Suicide"	"2"	10	40417	Unreliable
+	"Knox County, ME"	"23013"	"2007"	"2007"	"Unintentional"	"1"	26	40297	64.5
+	"Knox County, ME"	"23013"	"2008"	"2008"	"Unintentional"	"1"	21	40225	52.2
+	"Knox County, ME"	"23013"	"2008"	"2008"	"Suicide"	"2"	10	40225	Unreliable
+	"Knox County, ME"	"23013"	"2009"	"2009"	"Unintentional"	"1"	21	39924	52.6
+	"Knox County, ME"	"23013"	"2010"	"2010"	"Unintentional"	"1"	24	39736	60.4
+	"Knox County, ME"	"23013"	"2011"	"2011"	"Unintentional"	"1"	14	39708	Unreliable
+	"Knox County, ME"	"23013"	"2012"	"2012"	"Unintentional"	"1"	21	39668	52.9
+	"Knox County, ME"	"23013"	"2013"	"2013"	"Unintentional"	"1"	23	39550	58.2
+	"Knox County, ME"	"23013"	"2014"	"2014"	"Unintentional"	"1"	30	39676	75.6
+	"Knox County, ME"	"23013"	"2015"	"2015"	"Unintentional"	"1"	26	39855	65.2
+	"Knox County, ME"	"23013"	"2016"	"2016"	"Unintentional"	"1"	33	39744	83.0
+	"Knox County, ME"	"23013"	"2016"	"2016"	"Suicide"	"2"	12	39744	Unreliable
+	"Knox County, ME"	"23013"	"2017"	"2017"	"Unintentional"	"1"	35	39790	88.0
+	"Knox County, ME"	"23013"	"2018"	"2018"	"Unintentional"	"1"	27	39771	67.9
+	"Lincoln County, ME"	"23015"	"1999"	"1999"	"Unintentional"	"1"	11	33212	Unreliable
+	"Lincoln County, ME"	"23015"	"2000"	"2000"	"Unintentional"	"1"	16	33616	Unreliable
+	"Lincoln County, ME"	"23015"	"2001"	"2001"	"Unintentional"	"1"	20	33968	58.9
+	"Lincoln County, ME"	"23015"	"2002"	"2002"	"Unintentional"	"1"	14	34206	Unreliable
+	"Lincoln County, ME"	"23015"	"2004"	"2004"	"Unintentional"	"1"	19	34827	Unreliable
+	"Lincoln County, ME"	"23015"	"2004"	"2004"	"Suicide"	"2"	11	34827	Unreliable
+	"Lincoln County, ME"	"23015"	"2005"	"2005"	"Unintentional"	"1"	19	34864	Unreliable
+	"Lincoln County, ME"	"23015"	"2006"	"2006"	"Unintentional"	"1"	11	34904	Unreliable
+	"Lincoln County, ME"	"23015"	"2007"	"2007"	"Unintentional"	"1"	23	34899	65.9
+	"Lincoln County, ME"	"23015"	"2008"	"2008"	"Unintentional"	"1"	22	34768	63.3
+	"Lincoln County, ME"	"23015"	"2009"	"2009"	"Unintentional"	"1"	19	34627	Unreliable
+	"Lincoln County, ME"	"23015"	"2010"	"2010"	"Unintentional"	"1"	18	34457	Unreliable
+	"Lincoln County, ME"	"23015"	"2011"	"2011"	"Unintentional"	"1"	24	34224	70.1
+	"Lincoln County, ME"	"23015"	"2012"	"2012"	"Unintentional"	"1"	21	34180	61.4
+	"Lincoln County, ME"	"23015"	"2013"	"2013"	"Unintentional"	"1"	16	34088	Unreliable
+	"Lincoln County, ME"	"23015"	"2014"	"2014"	"Unintentional"	"1"	24	34170	70.2
+	"Lincoln County, ME"	"23015"	"2015"	"2015"	"Unintentional"	"1"	15	33969	Unreliable
+	"Lincoln County, ME"	"23015"	"2016"	"2016"	"Unintentional"	"1"	31	34216	90.6
+	"Lincoln County, ME"	"23015"	"2017"	"2017"	"Unintentional"	"1"	26	34204	76.0
+	"Lincoln County, ME"	"23015"	"2018"	"2018"	"Unintentional"	"1"	22	34342	64.1
+	"Oxford County, ME"	"23017"	"1999"	"1999"	"Unintentional"	"1"	23	54454	42.2
+	"Oxford County, ME"	"23017"	"2000"	"2000"	"Unintentional"	"1"	21	54755	38.4
+	"Oxford County, ME"	"23017"	"2001"	"2001"	"Unintentional"	"1"	28	55157	50.8
+	"Oxford County, ME"	"23017"	"2001"	"2001"	"Suicide"	"2"	11	55157	Unreliable
+	"Oxford County, ME"	"23017"	"2002"	"2002"	"Unintentional"	"1"	17	55843	Unreliable
+	"Oxford County, ME"	"23017"	"2003"	"2003"	"Unintentional"	"1"	33	56206	58.7
+	"Oxford County, ME"	"23017"	"2004"	"2004"	"Unintentional"	"1"	26	56763	45.8
+	"Oxford County, ME"	"23017"	"2004"	"2004"	"Suicide"	"2"	10	56763	Unreliable
+	"Oxford County, ME"	"23017"	"2005"	"2005"	"Unintentional"	"1"	32	57235	55.9
+	"Oxford County, ME"	"23017"	"2006"	"2006"	"Unintentional"	"1"	31	57556	53.9
+	"Oxford County, ME"	"23017"	"2007"	"2007"	"Unintentional"	"1"	29	57966	50.0
+	"Oxford County, ME"	"23017"	"2008"	"2008"	"Unintentional"	"1"	30	58138	51.6
+	"Oxford County, ME"	"23017"	"2009"	"2009"	"Unintentional"	"1"	29	57923	50.1
+	"Oxford County, ME"	"23017"	"2010"	"2010"	"Unintentional"	"1"	25	57833	43.2
+	"Oxford County, ME"	"23017"	"2011"	"2011"	"Unintentional"	"1"	30	57695	52.0
+	"Oxford County, ME"	"23017"	"2012"	"2012"	"Unintentional"	"1"	30	57481	52.2
+	"Oxford County, ME"	"23017"	"2013"	"2013"	"Unintentional"	"1"	28	57277	48.9
+	"Oxford County, ME"	"23017"	"2013"	"2013"	"Suicide"	"2"	17	57277	Unreliable
+	"Oxford County, ME"	"23017"	"2014"	"2014"	"Unintentional"	"1"	22	57238	38.4
+	"Oxford County, ME"	"23017"	"2014"	"2014"	"Suicide"	"2"	11	57238	Unreliable
+	"Oxford County, ME"	"23017"	"2015"	"2015"	"Unintentional"	"1"	31	57202	54.2
+	"Oxford County, ME"	"23017"	"2015"	"2015"	"Suicide"	"2"	10	57202	Unreliable
+	"Oxford County, ME"	"23017"	"2016"	"2016"	"Unintentional"	"1"	34	57217	59.4
+	"Oxford County, ME"	"23017"	"2017"	"2017"	"Unintentional"	"1"	37	57439	64.4
+	"Oxford County, ME"	"23017"	"2017"	"2017"	"Suicide"	"2"	15	57439	Unreliable
+	"Oxford County, ME"	"23017"	"2018"	"2018"	"Unintentional"	"1"	52	57618	90.2
+	"Oxford County, ME"	"23017"	"2018"	"2018"	"Suicide"	"2"	13	57618	Unreliable
+	"Penobscot County, ME"	"23019"	"1999"	"1999"	"Unintentional"	"1"	60	144902	41.4
+	"Penobscot County, ME"	"23019"	"1999"	"1999"	"Suicide"	"2"	23	144902	15.9
+	"Penobscot County, ME"	"23019"	"2000"	"2000"	"Unintentional"	"1"	43	144919	29.7
+	"Penobscot County, ME"	"23019"	"2000"	"2000"	"Suicide"	"2"	17	144919	Unreliable
+	"Penobscot County, ME"	"23019"	"2001"	"2001"	"Unintentional"	"1"	46	146110	31.5
+	"Penobscot County, ME"	"23019"	"2001"	"2001"	"Suicide"	"2"	25	146110	17.1
+	"Penobscot County, ME"	"23019"	"2002"	"2002"	"Unintentional"	"1"	59	147298	40.1
+	"Penobscot County, ME"	"23019"	"2002"	"2002"	"Suicide"	"2"	28	147298	19.0
+	"Penobscot County, ME"	"23019"	"2003"	"2003"	"Unintentional"	"1"	50	148759	33.6
+	"Penobscot County, ME"	"23019"	"2003"	"2003"	"Suicide"	"2"	10	148759	Unreliable
+	"Penobscot County, ME"	"23019"	"2004"	"2004"	"Unintentional"	"1"	46	148814	30.9
+	"Penobscot County, ME"	"23019"	"2004"	"2004"	"Suicide"	"2"	18	148814	Unreliable
+	"Penobscot County, ME"	"23019"	"2005"	"2005"	"Unintentional"	"1"	68	149726	45.4
+	"Penobscot County, ME"	"23019"	"2005"	"2005"	"Suicide"	"2"	15	149726	Unreliable
+	"Penobscot County, ME"	"23019"	"2006"	"2006"	"Unintentional"	"1"	60	151446	39.6
+	"Penobscot County, ME"	"23019"	"2006"	"2006"	"Suicide"	"2"	25	151446	16.5
+	"Penobscot County, ME"	"23019"	"2007"	"2007"	"Unintentional"	"1"	61	152232	40.1
+	"Penobscot County, ME"	"23019"	"2007"	"2007"	"Suicide"	"2"	16	152232	Unreliable
+	"Penobscot County, ME"	"23019"	"2008"	"2008"	"Unintentional"	"1"	82	153372	53.5
+	"Penobscot County, ME"	"23019"	"2008"	"2008"	"Suicide"	"2"	22	153372	14.3
+	"Penobscot County, ME"	"23019"	"2009"	"2009"	"Unintentional"	"1"	56	153770	36.4
+	"Penobscot County, ME"	"23019"	"2009"	"2009"	"Suicide"	"2"	26	153770	16.9
+	"Penobscot County, ME"	"23019"	"2010"	"2010"	"Unintentional"	"1"	50	153923	32.5
+	"Penobscot County, ME"	"23019"	"2010"	"2010"	"Suicide"	"2"	18	153923	Unreliable
+	"Penobscot County, ME"	"23019"	"2011"	"2011"	"Unintentional"	"1"	63	153786	41.0
+	"Penobscot County, ME"	"23019"	"2011"	"2011"	"Suicide"	"2"	23	153786	15.0
+	"Penobscot County, ME"	"23019"	"2012"	"2012"	"Unintentional"	"1"	56	153746	36.4
+	"Penobscot County, ME"	"23019"	"2012"	"2012"	"Suicide"	"2"	24	153746	15.6
+	"Penobscot County, ME"	"23019"	"2013"	"2013"	"Unintentional"	"1"	63	153364	41.1
+	"Penobscot County, ME"	"23019"	"2013"	"2013"	"Suicide"	"2"	30	153364	19.6
+	"Penobscot County, ME"	"23019"	"2014"	"2014"	"Unintentional"	"1"	76	153414	49.5
+	"Penobscot County, ME"	"23019"	"2014"	"2014"	"Suicide"	"2"	16	153414	Unreliable
+	"Penobscot County, ME"	"23019"	"2015"	"2015"	"Unintentional"	"1"	82	152692	53.7
+	"Penobscot County, ME"	"23019"	"2015"	"2015"	"Suicide"	"2"	25	152692	16.4
+	"Penobscot County, ME"	"23019"	"2016"	"2016"	"Unintentional"	"1"	105	151806	69.2
+	"Penobscot County, ME"	"23019"	"2016"	"2016"	"Suicide"	"2"	24	151806	15.8
+	"Penobscot County, ME"	"23019"	"2017"	"2017"	"Unintentional"	"1"	118	151957	77.7
+	"Penobscot County, ME"	"23019"	"2017"	"2017"	"Suicide"	"2"	34	151957	22.4
+	"Penobscot County, ME"	"23019"	"2018"	"2018"	"Unintentional"	"1"	120	151096	79.4
+	"Penobscot County, ME"	"23019"	"2018"	"2018"	"Suicide"	"2"	42	151096	27.8
+	"Piscataquis County, ME"	"23021"	"2001"	"2001"	"Unintentional"	"1"	11	17203	Unreliable
+	"Piscataquis County, ME"	"23021"	"2002"	"2002"	"Unintentional"	"1"	11	17269	Unreliable
+	"Piscataquis County, ME"	"23021"	"2003"	"2003"	"Unintentional"	"1"	17	17433	Unreliable
+	"Piscataquis County, ME"	"23021"	"2004"	"2004"	"Unintentional"	"1"	12	17493	Unreliable
+	"Piscataquis County, ME"	"23021"	"2008"	"2008"	"Unintentional"	"1"	18	17534	Unreliable
+	"Piscataquis County, ME"	"23021"	"2009"	"2009"	"Unintentional"	"1"	10	17433	Unreliable
+	"Piscataquis County, ME"	"23021"	"2014"	"2014"	"Unintentional"	"1"	15	17026	Unreliable
+	"Piscataquis County, ME"	"23021"	"2015"	"2015"	"Unintentional"	"1"	12	16931	Unreliable
+	"Piscataquis County, ME"	"23021"	"2016"	"2016"	"Unintentional"	"1"	18	16843	Unreliable
+	"Piscataquis County, ME"	"23021"	"2017"	"2017"	"Unintentional"	"1"	10	16773	Unreliable
+	"Piscataquis County, ME"	"23021"	"2018"	"2018"	"Unintentional"	"1"	16	16800	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2002"	"2002"	"Unintentional"	"1"	10	35545	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2003"	"2003"	"Unintentional"	"1"	15	35966	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2004"	"2004"	"Unintentional"	"1"	13	36100	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2005"	"2005"	"Unintentional"	"1"	19	35813	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2006"	"2006"	"Unintentional"	"1"	10	35895	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2007"	"2007"	"Unintentional"	"1"	12	35890	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2008"	"2008"	"Unintentional"	"1"	10	35860	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2009"	"2009"	"Unintentional"	"1"	13	35567	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2012"	"2012"	"Unintentional"	"1"	11	35191	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2013"	"2013"	"Unintentional"	"1"	17	35013	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2014"	"2014"	"Unintentional"	"1"	12	35045	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2015"	"2015"	"Unintentional"	"1"	24	35149	68.3
+	"Sagadahoc County, ME"	"23023"	"2016"	"2016"	"Unintentional"	"1"	14	35273	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2017"	"2017"	"Unintentional"	"1"	20	35392	56.5
+	"Sagadahoc County, ME"	"23023"	"2017"	"2017"	"Suicide"	"2"	12	35392	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2018"	"2018"	"Unintentional"	"1"	19	35634	Unreliable
+	"Sagadahoc County, ME"	"23023"	"2018"	"2018"	"Suicide"	"2"	11	35634	Unreliable
+	"Somerset County, ME"	"23025"	"1999"	"1999"	"Unintentional"	"1"	18	50786	Unreliable
+	"Somerset County, ME"	"23025"	"2000"	"2000"	"Unintentional"	"1"	28	50888	55.0
+	"Somerset County, ME"	"23025"	"2001"	"2001"	"Unintentional"	"1"	26	50871	51.1
+	"Somerset County, ME"	"23025"	"2002"	"2002"	"Unintentional"	"1"	21	51017	41.2
+	"Somerset County, ME"	"23025"	"2003"	"2003"	"Unintentional"	"1"	24	51336	46.8
+	"Somerset County, ME"	"23025"	"2004"	"2004"	"Unintentional"	"1"	15	51328	Unreliable
+	"Somerset County, ME"	"23025"	"2004"	"2004"	"Suicide"	"2"	10	51328	Unreliable
+	"Somerset County, ME"	"23025"	"2005"	"2005"	"Unintentional"	"1"	22	51600	42.6
+	"Somerset County, ME"	"23025"	"2006"	"2006"	"Unintentional"	"1"	33	52195	63.2
+	"Somerset County, ME"	"23025"	"2007"	"2007"	"Unintentional"	"1"	24	52459	45.8
+	"Somerset County, ME"	"23025"	"2008"	"2008"	"Unintentional"	"1"	30	52316	57.3
+	"Somerset County, ME"	"23025"	"2009"	"2009"	"Unintentional"	"1"	23	52104	44.1
+	"Somerset County, ME"	"23025"	"2010"	"2010"	"Unintentional"	"1"	26	52228	49.8
+	"Somerset County, ME"	"23025"	"2011"	"2011"	"Unintentional"	"1"	27	52028	51.9
+	"Somerset County, ME"	"23025"	"2011"	"2011"	"Suicide"	"2"	13	52028	Unreliable
+	"Somerset County, ME"	"23025"	"2012"	"2012"	"Unintentional"	"1"	24	51910	46.2
+	"Somerset County, ME"	"23025"	"2013"	"2013"	"Unintentional"	"1"	27	51706	52.2
+	"Somerset County, ME"	"23025"	"2013"	"2013"	"Suicide"	"2"	12	51706	Unreliable
+	"Somerset County, ME"	"23025"	"2014"	"2014"	"Unintentional"	"1"	34	51163	66.5
+	"Somerset County, ME"	"23025"	"2015"	"2015"	"Unintentional"	"1"	41	51113	80.2
+	"Somerset County, ME"	"23025"	"2015"	"2015"	"Suicide"	"2"	13	51113	Unreliable
+	"Somerset County, ME"	"23025"	"2016"	"2016"	"Unintentional"	"1"	34	50915	66.8
+	"Somerset County, ME"	"23025"	"2017"	"2017"	"Unintentional"	"1"	33	50626	65.2
+	"Somerset County, ME"	"23025"	"2017"	"2017"	"Suicide"	"2"	17	50626	Unreliable
+	"Somerset County, ME"	"23025"	"2018"	"2018"	"Unintentional"	"1"	41	50592	81.0
+	"Somerset County, ME"	"23025"	"2018"	"2018"	"Suicide"	"2"	13	50592	Unreliable
+	"Waldo County, ME"	"23027"	"1999"	"1999"	"Unintentional"	"1"	11	35736	Unreliable
+	"Waldo County, ME"	"23027"	"2000"	"2000"	"Unintentional"	"1"	18	36280	Unreliable
+	"Waldo County, ME"	"23027"	"2001"	"2001"	"Unintentional"	"1"	12	37039	Unreliable
+	"Waldo County, ME"	"23027"	"2002"	"2002"	"Unintentional"	"1"	14	37584	Unreliable
+	"Waldo County, ME"	"23027"	"2003"	"2003"	"Unintentional"	"1"	24	37952	63.2
+	"Waldo County, ME"	"23027"	"2004"	"2004"	"Unintentional"	"1"	18	38209	Unreliable
+	"Waldo County, ME"	"23027"	"2005"	"2005"	"Unintentional"	"1"	14	38410	Unreliable
+	"Waldo County, ME"	"23027"	"2006"	"2006"	"Unintentional"	"1"	16	38763	Unreliable
+	"Waldo County, ME"	"23027"	"2007"	"2007"	"Unintentional"	"1"	22	38751	56.8
+	"Waldo County, ME"	"23027"	"2008"	"2008"	"Unintentional"	"1"	13	38680	Unreliable
+	"Waldo County, ME"	"23027"	"2009"	"2009"	"Unintentional"	"1"	17	38706	Unreliable
+	"Waldo County, ME"	"23027"	"2010"	"2010"	"Unintentional"	"1"	18	38786	Unreliable
+	"Waldo County, ME"	"23027"	"2011"	"2011"	"Unintentional"	"1"	18	38745	Unreliable
+	"Waldo County, ME"	"23027"	"2012"	"2012"	"Unintentional"	"1"	29	38820	74.7
+	"Waldo County, ME"	"23027"	"2013"	"2013"	"Unintentional"	"1"	21	38940	53.9
+	"Waldo County, ME"	"23027"	"2014"	"2014"	"Unintentional"	"1"	21	39051	53.8
+	"Waldo County, ME"	"23027"	"2015"	"2015"	"Unintentional"	"1"	21	39155	53.6
+	"Waldo County, ME"	"23027"	"2016"	"2016"	"Unintentional"	"1"	22	39364	55.9
+	"Waldo County, ME"	"23027"	"2016"	"2016"	"Suicide"	"2"	14	39364	Unreliable
+	"Waldo County, ME"	"23027"	"2017"	"2017"	"Unintentional"	"1"	40	39832	100.4
+	"Waldo County, ME"	"23027"	"2018"	"2018"	"Unintentional"	"1"	22	39694	55.4
+	"Washington County, ME"	"23029"	"1999"	"1999"	"Unintentional"	"1"	19	34148	Unreliable
+	"Washington County, ME"	"23029"	"2000"	"2000"	"Unintentional"	"1"	10	33941	Unreliable
+	"Washington County, ME"	"23029"	"2001"	"2001"	"Unintentional"	"1"	23	33499	68.7
+	"Washington County, ME"	"23029"	"2002"	"2002"	"Unintentional"	"1"	23	33345	69.0
+	"Washington County, ME"	"23029"	"2003"	"2003"	"Unintentional"	"1"	16	33403	Unreliable
+	"Washington County, ME"	"23029"	"2004"	"2004"	"Unintentional"	"1"	19	33474	Unreliable
+	"Washington County, ME"	"23029"	"2005"	"2005"	"Unintentional"	"1"	19	33319	Unreliable
+	"Washington County, ME"	"23029"	"2006"	"2006"	"Unintentional"	"1"	27	33323	81.0
+	"Washington County, ME"	"23029"	"2007"	"2007"	"Unintentional"	"1"	21	33424	62.8
+	"Washington County, ME"	"23029"	"2008"	"2008"	"Unintentional"	"1"	18	33289	Unreliable
+	"Washington County, ME"	"23029"	"2009"	"2009"	"Unintentional"	"1"	26	32925	79.0
+	"Washington County, ME"	"23029"	"2010"	"2010"	"Unintentional"	"1"	26	32856	79.1
+	"Washington County, ME"	"23029"	"2010"	"2010"	"Suicide"	"2"	10	32856	Unreliable
+	"Washington County, ME"	"23029"	"2011"	"2011"	"Unintentional"	"1"	25	32637	76.6
+	"Washington County, ME"	"23029"	"2011"	"2011"	"Suicide"	"2"	15	32637	Unreliable
+	"Washington County, ME"	"23029"	"2012"	"2012"	"Unintentional"	"1"	24	32462	73.9
+	"Washington County, ME"	"23029"	"2013"	"2013"	"Unintentional"	"1"	30	32190	93.2
+	"Washington County, ME"	"23029"	"2014"	"2014"	"Unintentional"	"1"	21	31808	66.0
+	"Washington County, ME"	"23029"	"2015"	"2015"	"Unintentional"	"1"	24	31625	75.9
+	"Washington County, ME"	"23029"	"2016"	"2016"	"Unintentional"	"1"	40	31450	127.2
+	"Washington County, ME"	"23029"	"2017"	"2017"	"Unintentional"	"1"	34	31593	107.6
+	"Washington County, ME"	"23029"	"2018"	"2018"	"Unintentional"	"1"	33	31490	104.8
+	"Washington County, ME"	"23029"	"2018"	"2018"	"Suicide"	"2"	11	31490	Unreliable
+	"York County, ME"	"23031"	"1999"	"1999"	"Unintentional"	"1"	62	182817	33.9
+	"York County, ME"	"23031"	"1999"	"1999"	"Suicide"	"2"	24	182817	13.1
+	"York County, ME"	"23031"	"2000"	"2000"	"Unintentional"	"1"	54	186742	28.9
+	"York County, ME"	"23031"	"2000"	"2000"	"Suicide"	"2"	21	186742	11.2
+	"York County, ME"	"23031"	"2001"	"2001"	"Unintentional"	"1"	61	191261	31.9
+	"York County, ME"	"23031"	"2001"	"2001"	"Suicide"	"2"	14	191261	Unreliable
+	"York County, ME"	"23031"	"2002"	"2002"	"Unintentional"	"1"	52	194100	26.8
+	"York County, ME"	"23031"	"2002"	"2002"	"Suicide"	"2"	28	194100	14.4
+	"York County, ME"	"23031"	"2003"	"2003"	"Unintentional"	"1"	63	195851	32.2
+	"York County, ME"	"23031"	"2003"	"2003"	"Suicide"	"2"	18	195851	Unreliable
+	"York County, ME"	"23031"	"2004"	"2004"	"Unintentional"	"1"	57	197408	28.9
+	"York County, ME"	"23031"	"2004"	"2004"	"Suicide"	"2"	24	197408	12.2
+	"York County, ME"	"23031"	"2005"	"2005"	"Unintentional"	"1"	81	198199	40.9
+	"York County, ME"	"23031"	"2005"	"2005"	"Suicide"	"2"	34	198199	17.2
+	"York County, ME"	"23031"	"2006"	"2006"	"Unintentional"	"1"	83	197635	42.0
+	"York County, ME"	"23031"	"2006"	"2006"	"Suicide"	"2"	21	197635	10.6
+	"York County, ME"	"23031"	"2007"	"2007"	"Unintentional"	"1"	79	197594	40.0
+	"York County, ME"	"23031"	"2007"	"2007"	"Suicide"	"2"	36	197594	18.2
+	"York County, ME"	"23031"	"2008"	"2008"	"Unintentional"	"1"	82	197650	41.5
+	"York County, ME"	"23031"	"2008"	"2008"	"Suicide"	"2"	24	197650	12.1
+	"York County, ME"	"23031"	"2009"	"2009"	"Unintentional"	"1"	84	197192	42.6
+	"York County, ME"	"23031"	"2009"	"2009"	"Suicide"	"2"	33	197192	16.7
+	"York County, ME"	"23031"	"2010"	"2010"	"Unintentional"	"1"	77	197131	39.1
+	"York County, ME"	"23031"	"2010"	"2010"	"Suicide"	"2"	30	197131	15.2
+	"York County, ME"	"23031"	"2011"	"2011"	"Unintentional"	"1"	73	198199	36.8
+	"York County, ME"	"23031"	"2011"	"2011"	"Suicide"	"2"	46	198199	23.2
+	"York County, ME"	"23031"	"2012"	"2012"	"Unintentional"	"1"	88	199005	44.2
+	"York County, ME"	"23031"	"2012"	"2012"	"Suicide"	"2"	31	199005	15.6
+	"York County, ME"	"23031"	"2013"	"2013"	"Unintentional"	"1"	91	199431	45.6
+	"York County, ME"	"23031"	"2013"	"2013"	"Suicide"	"2"	46	199431	23.1
+	"York County, ME"	"23031"	"2014"	"2014"	"Unintentional"	"1"	111	200710	55.3
+	"York County, ME"	"23031"	"2014"	"2014"	"Suicide"	"2"	37	200710	18.4
+	"York County, ME"	"23031"	"2015"	"2015"	"Unintentional"	"1"	121	201169	60.1
+	"York County, ME"	"23031"	"2015"	"2015"	"Suicide"	"2"	29	201169	14.4
+	"York County, ME"	"23031"	"2016"	"2016"	"Unintentional"	"1"	153	202343	75.6
+	"York County, ME"	"23031"	"2016"	"2016"	"Suicide"	"2"	35	202343	17.3
+	"York County, ME"	"23031"	"2017"	"2017"	"Unintentional"	"1"	167	204191	81.8
+	"York County, ME"	"23031"	"2017"	"2017"	"Suicide"	"2"	43	204191	21.1
+	"York County, ME"	"23031"	"2018"	"2018"	"Unintentional"	"1"	182	206229	88.3
+	"York County, ME"	"23031"	"2018"	"2018"	"Suicide"	"2"	37	206229	17.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Maine"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Maine (23)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:45:11 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:45:11 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

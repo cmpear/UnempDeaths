@@ -1,0 +1,761 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Barnstable County, MA"	"25001"	"1999"	"1999"	"Unintentional"	"1"	75	218960	34.3
+	"Barnstable County, MA"	"25001"	"1999"	"1999"	"Suicide"	"2"	14	218960	Unreliable
+	"Barnstable County, MA"	"25001"	"2000"	"2000"	"Unintentional"	"1"	63	222230	28.3
+	"Barnstable County, MA"	"25001"	"2000"	"2000"	"Suicide"	"2"	14	222230	Unreliable
+	"Barnstable County, MA"	"25001"	"2000"	"2000"	"Undetermined "	"4"	13	222230	Unreliable
+	"Barnstable County, MA"	"25001"	"2001"	"2001"	"Unintentional"	"1"	78	224087	34.8
+	"Barnstable County, MA"	"25001"	"2001"	"2001"	"Suicide"	"2"	18	224087	Unreliable
+	"Barnstable County, MA"	"25001"	"2001"	"2001"	"Undetermined "	"4"	23	224087	10.3
+	"Barnstable County, MA"	"25001"	"2002"	"2002"	"Unintentional"	"1"	78	225421	34.6
+	"Barnstable County, MA"	"25001"	"2002"	"2002"	"Suicide"	"2"	22	225421	9.8
+	"Barnstable County, MA"	"25001"	"2002"	"2002"	"Undetermined "	"4"	25	225421	11.1
+	"Barnstable County, MA"	"25001"	"2003"	"2003"	"Unintentional"	"1"	58	226011	25.7
+	"Barnstable County, MA"	"25001"	"2003"	"2003"	"Suicide"	"2"	17	226011	Unreliable
+	"Barnstable County, MA"	"25001"	"2003"	"2003"	"Undetermined "	"4"	25	226011	11.1
+	"Barnstable County, MA"	"25001"	"2004"	"2004"	"Unintentional"	"1"	70	224264	31.2
+	"Barnstable County, MA"	"25001"	"2004"	"2004"	"Suicide"	"2"	29	224264	12.9
+	"Barnstable County, MA"	"25001"	"2004"	"2004"	"Undetermined "	"4"	24	224264	10.7
+	"Barnstable County, MA"	"25001"	"2005"	"2005"	"Unintentional"	"1"	97	221995	43.7
+	"Barnstable County, MA"	"25001"	"2005"	"2005"	"Suicide"	"2"	19	221995	Unreliable
+	"Barnstable County, MA"	"25001"	"2006"	"2006"	"Unintentional"	"1"	107	220037	48.6
+	"Barnstable County, MA"	"25001"	"2006"	"2006"	"Suicide"	"2"	20	220037	9.1
+	"Barnstable County, MA"	"25001"	"2007"	"2007"	"Unintentional"	"1"	140	218380	64.1
+	"Barnstable County, MA"	"25001"	"2007"	"2007"	"Suicide"	"2"	31	218380	14.2
+	"Barnstable County, MA"	"25001"	"2008"	"2008"	"Unintentional"	"1"	109	217066	50.2
+	"Barnstable County, MA"	"25001"	"2008"	"2008"	"Suicide"	"2"	35	217066	16.1
+	"Barnstable County, MA"	"25001"	"2009"	"2009"	"Unintentional"	"1"	97	215994	44.9
+	"Barnstable County, MA"	"25001"	"2009"	"2009"	"Suicide"	"2"	27	215994	12.5
+	"Barnstable County, MA"	"25001"	"2010"	"2010"	"Unintentional"	"1"	119	215888	55.1
+	"Barnstable County, MA"	"25001"	"2010"	"2010"	"Suicide"	"2"	35	215888	16.2
+	"Barnstable County, MA"	"25001"	"2011"	"2011"	"Unintentional"	"1"	104	215769	48.2
+	"Barnstable County, MA"	"25001"	"2011"	"2011"	"Suicide"	"2"	31	215769	14.4
+	"Barnstable County, MA"	"25001"	"2012"	"2012"	"Unintentional"	"1"	76	215423	35.3
+	"Barnstable County, MA"	"25001"	"2012"	"2012"	"Suicide"	"2"	29	215423	13.5
+	"Barnstable County, MA"	"25001"	"2013"	"2013"	"Unintentional"	"1"	100	214990	46.5
+	"Barnstable County, MA"	"25001"	"2013"	"2013"	"Suicide"	"2"	23	214990	10.7
+	"Barnstable County, MA"	"25001"	"2014"	"2014"	"Unintentional"	"1"	99	214914	46.1
+	"Barnstable County, MA"	"25001"	"2014"	"2014"	"Suicide"	"2"	30	214914	14.0
+	"Barnstable County, MA"	"25001"	"2015"	"2015"	"Unintentional"	"1"	129	214333	60.2
+	"Barnstable County, MA"	"25001"	"2015"	"2015"	"Suicide"	"2"	38	214333	17.7
+	"Barnstable County, MA"	"25001"	"2016"	"2016"	"Unintentional"	"1"	184	214276	85.9
+	"Barnstable County, MA"	"25001"	"2016"	"2016"	"Suicide"	"2"	25	214276	11.7
+	"Barnstable County, MA"	"25001"	"2017"	"2017"	"Unintentional"	"1"	161	213444	75.4
+	"Barnstable County, MA"	"25001"	"2017"	"2017"	"Suicide"	"2"	31	213444	14.5
+	"Barnstable County, MA"	"25001"	"2018"	"2018"	"Unintentional"	"1"	187	213413	87.6
+	"Barnstable County, MA"	"25001"	"2018"	"2018"	"Suicide"	"2"	43	213413	20.1
+	"Berkshire County, MA"	"25003"	"1999"	"1999"	"Unintentional"	"1"	46	135227	34.0
+	"Berkshire County, MA"	"25003"	"1999"	"1999"	"Suicide"	"2"	16	135227	Unreliable
+	"Berkshire County, MA"	"25003"	"2000"	"2000"	"Unintentional"	"1"	31	134953	23.0
+	"Berkshire County, MA"	"25003"	"2000"	"2000"	"Suicide"	"2"	10	134953	Unreliable
+	"Berkshire County, MA"	"25003"	"2001"	"2001"	"Unintentional"	"1"	53	133928	39.6
+	"Berkshire County, MA"	"25003"	"2001"	"2001"	"Suicide"	"2"	15	133928	Unreliable
+	"Berkshire County, MA"	"25003"	"2002"	"2002"	"Unintentional"	"1"	42	133529	31.5
+	"Berkshire County, MA"	"25003"	"2002"	"2002"	"Suicide"	"2"	13	133529	Unreliable
+	"Berkshire County, MA"	"25003"	"2003"	"2003"	"Unintentional"	"1"	38	133423	28.5
+	"Berkshire County, MA"	"25003"	"2003"	"2003"	"Suicide"	"2"	10	133423	Unreliable
+	"Berkshire County, MA"	"25003"	"2004"	"2004"	"Unintentional"	"1"	55	133076	41.3
+	"Berkshire County, MA"	"25003"	"2004"	"2004"	"Suicide"	"2"	14	133076	Unreliable
+	"Berkshire County, MA"	"25003"	"2005"	"2005"	"Unintentional"	"1"	52	132563	39.2
+	"Berkshire County, MA"	"25003"	"2006"	"2006"	"Unintentional"	"1"	54	131977	40.9
+	"Berkshire County, MA"	"25003"	"2006"	"2006"	"Suicide"	"2"	13	131977	Unreliable
+	"Berkshire County, MA"	"25003"	"2007"	"2007"	"Unintentional"	"1"	48	131883	36.4
+	"Berkshire County, MA"	"25003"	"2007"	"2007"	"Suicide"	"2"	16	131883	Unreliable
+	"Berkshire County, MA"	"25003"	"2008"	"2008"	"Unintentional"	"1"	49	131372	37.3
+	"Berkshire County, MA"	"25003"	"2008"	"2008"	"Suicide"	"2"	17	131372	Unreliable
+	"Berkshire County, MA"	"25003"	"2009"	"2009"	"Unintentional"	"1"	60	131264	45.7
+	"Berkshire County, MA"	"25003"	"2009"	"2009"	"Suicide"	"2"	10	131264	Unreliable
+	"Berkshire County, MA"	"25003"	"2010"	"2010"	"Unintentional"	"1"	49	131219	37.3
+	"Berkshire County, MA"	"25003"	"2010"	"2010"	"Suicide"	"2"	11	131219	Unreliable
+	"Berkshire County, MA"	"25003"	"2011"	"2011"	"Unintentional"	"1"	57	130458	43.7
+	"Berkshire County, MA"	"25003"	"2011"	"2011"	"Suicide"	"2"	17	130458	Unreliable
+	"Berkshire County, MA"	"25003"	"2012"	"2012"	"Unintentional"	"1"	54	130016	41.5
+	"Berkshire County, MA"	"25003"	"2012"	"2012"	"Suicide"	"2"	16	130016	Unreliable
+	"Berkshire County, MA"	"25003"	"2013"	"2013"	"Unintentional"	"1"	69	129585	53.2
+	"Berkshire County, MA"	"25003"	"2013"	"2013"	"Suicide"	"2"	21	129585	16.2
+	"Berkshire County, MA"	"25003"	"2014"	"2014"	"Unintentional"	"1"	57	128715	44.3
+	"Berkshire County, MA"	"25003"	"2014"	"2014"	"Suicide"	"2"	13	128715	Unreliable
+	"Berkshire County, MA"	"25003"	"2015"	"2015"	"Unintentional"	"1"	81	127828	63.4
+	"Berkshire County, MA"	"25003"	"2015"	"2015"	"Suicide"	"2"	16	127828	Unreliable
+	"Berkshire County, MA"	"25003"	"2016"	"2016"	"Unintentional"	"1"	93	126903	73.3
+	"Berkshire County, MA"	"25003"	"2016"	"2016"	"Suicide"	"2"	15	126903	Unreliable
+	"Berkshire County, MA"	"25003"	"2017"	"2017"	"Unintentional"	"1"	95	126313	75.2
+	"Berkshire County, MA"	"25003"	"2017"	"2017"	"Suicide"	"2"	21	126313	16.6
+	"Berkshire County, MA"	"25003"	"2018"	"2018"	"Unintentional"	"1"	100	126348	79.1
+	"Berkshire County, MA"	"25003"	"2018"	"2018"	"Suicide"	"2"	15	126348	Unreliable
+	"Bristol County, MA"	"25005"	"1999"	"1999"	"Unintentional"	"1"	119	531208	22.4
+	"Bristol County, MA"	"25005"	"1999"	"1999"	"Suicide"	"2"	37	531208	7.0
+	"Bristol County, MA"	"25005"	"1999"	"1999"	"Homicide"	"3"	11	531208	Unreliable
+	"Bristol County, MA"	"25005"	"1999"	"1999"	"Undetermined "	"4"	50	531208	9.4
+	"Bristol County, MA"	"25005"	"2000"	"2000"	"Unintentional"	"1"	109	534678	20.4
+	"Bristol County, MA"	"25005"	"2000"	"2000"	"Suicide"	"2"	24	534678	4.5
+	"Bristol County, MA"	"25005"	"2000"	"2000"	"Undetermined "	"4"	48	534678	9.0
+	"Bristol County, MA"	"25005"	"2001"	"2001"	"Unintentional"	"1"	137	538282	25.5
+	"Bristol County, MA"	"25005"	"2001"	"2001"	"Suicide"	"2"	28	538282	5.2
+	"Bristol County, MA"	"25005"	"2001"	"2001"	"Homicide"	"3"	11	538282	Unreliable
+	"Bristol County, MA"	"25005"	"2001"	"2001"	"Undetermined "	"4"	73	538282	13.6
+	"Bristol County, MA"	"25005"	"2002"	"2002"	"Unintentional"	"1"	140	542721	25.8
+	"Bristol County, MA"	"25005"	"2002"	"2002"	"Suicide"	"2"	43	542721	7.9
+	"Bristol County, MA"	"25005"	"2002"	"2002"	"Homicide"	"3"	15	542721	Unreliable
+	"Bristol County, MA"	"25005"	"2002"	"2002"	"Undetermined "	"4"	82	542721	15.1
+	"Bristol County, MA"	"25005"	"2003"	"2003"	"Unintentional"	"1"	154	546281	28.2
+	"Bristol County, MA"	"25005"	"2003"	"2003"	"Suicide"	"2"	29	546281	5.3
+	"Bristol County, MA"	"25005"	"2003"	"2003"	"Homicide"	"3"	18	546281	Unreliable
+	"Bristol County, MA"	"25005"	"2003"	"2003"	"Undetermined "	"4"	102	546281	18.7
+	"Bristol County, MA"	"25005"	"2004"	"2004"	"Unintentional"	"1"	155	545988	28.4
+	"Bristol County, MA"	"25005"	"2004"	"2004"	"Suicide"	"2"	40	545988	7.3
+	"Bristol County, MA"	"25005"	"2004"	"2004"	"Homicide"	"3"	12	545988	Unreliable
+	"Bristol County, MA"	"25005"	"2004"	"2004"	"Undetermined "	"4"	78	545988	14.3
+	"Bristol County, MA"	"25005"	"2005"	"2005"	"Unintentional"	"1"	210	545437	38.5
+	"Bristol County, MA"	"25005"	"2005"	"2005"	"Suicide"	"2"	29	545437	5.3
+	"Bristol County, MA"	"25005"	"2005"	"2005"	"Homicide"	"3"	17	545437	Unreliable
+	"Bristol County, MA"	"25005"	"2006"	"2006"	"Unintentional"	"1"	237	544487	43.5
+	"Bristol County, MA"	"25005"	"2006"	"2006"	"Suicide"	"2"	45	544487	8.3
+	"Bristol County, MA"	"25005"	"2006"	"2006"	"Homicide"	"3"	15	544487	Unreliable
+	"Bristol County, MA"	"25005"	"2007"	"2007"	"Unintentional"	"1"	216	545288	39.6
+	"Bristol County, MA"	"25005"	"2007"	"2007"	"Suicide"	"2"	54	545288	9.9
+	"Bristol County, MA"	"25005"	"2007"	"2007"	"Homicide"	"3"	14	545288	Unreliable
+	"Bristol County, MA"	"25005"	"2007"	"2007"	"Undetermined "	"4"	15	545288	Unreliable
+	"Bristol County, MA"	"25005"	"2008"	"2008"	"Unintentional"	"1"	225	546456	41.2
+	"Bristol County, MA"	"25005"	"2008"	"2008"	"Suicide"	"2"	55	546456	10.1
+	"Bristol County, MA"	"25005"	"2008"	"2008"	"Homicide"	"3"	11	546456	Unreliable
+	"Bristol County, MA"	"25005"	"2009"	"2009"	"Unintentional"	"1"	191	547324	34.9
+	"Bristol County, MA"	"25005"	"2009"	"2009"	"Suicide"	"2"	63	547324	11.5
+	"Bristol County, MA"	"25005"	"2009"	"2009"	"Homicide"	"3"	20	547324	3.7
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Unintentional"	"1"	232	548285	42.3
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Suicide"	"2"	49	548285	8.9
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Homicide"	"3"	18	548285	Unreliable
+	"Bristol County, MA"	"25005"	"2011"	"2011"	"Unintentional"	"1"	233	548922	42.4
+	"Bristol County, MA"	"25005"	"2011"	"2011"	"Suicide"	"2"	51	548922	9.3
+	"Bristol County, MA"	"25005"	"2011"	"2011"	"Homicide"	"3"	12	548922	Unreliable
+	"Bristol County, MA"	"25005"	"2012"	"2012"	"Unintentional"	"1"	252	551082	45.7
+	"Bristol County, MA"	"25005"	"2012"	"2012"	"Suicide"	"2"	48	551082	8.7
+	"Bristol County, MA"	"25005"	"2013"	"2013"	"Unintentional"	"1"	235	552780	42.5
+	"Bristol County, MA"	"25005"	"2013"	"2013"	"Suicide"	"2"	56	552780	10.1
+	"Bristol County, MA"	"25005"	"2013"	"2013"	"Homicide"	"3"	14	552780	Unreliable
+	"Bristol County, MA"	"25005"	"2014"	"2014"	"Unintentional"	"1"	271	554194	48.9
+	"Bristol County, MA"	"25005"	"2014"	"2014"	"Suicide"	"2"	72	554194	13.0
+	"Bristol County, MA"	"25005"	"2014"	"2014"	"Homicide"	"3"	10	554194	Unreliable
+	"Bristol County, MA"	"25005"	"2015"	"2015"	"Unintentional"	"1"	303	556772	54.4
+	"Bristol County, MA"	"25005"	"2015"	"2015"	"Suicide"	"2"	69	556772	12.4
+	"Bristol County, MA"	"25005"	"2015"	"2015"	"Homicide"	"3"	11	556772	Unreliable
+	"Bristol County, MA"	"25005"	"2016"	"2016"	"Unintentional"	"1"	414	558324	74.2
+	"Bristol County, MA"	"25005"	"2016"	"2016"	"Suicide"	"2"	60	558324	10.7
+	"Bristol County, MA"	"25005"	"2016"	"2016"	"Homicide"	"3"	10	558324	Unreliable
+	"Bristol County, MA"	"25005"	"2017"	"2017"	"Unintentional"	"1"	421	561483	75.0
+	"Bristol County, MA"	"25005"	"2017"	"2017"	"Suicide"	"2"	71	561483	12.6
+	"Bristol County, MA"	"25005"	"2017"	"2017"	"Homicide"	"3"	14	561483	Unreliable
+	"Bristol County, MA"	"25005"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	11	561483	Unreliable
+	"Bristol County, MA"	"25005"	"2018"	"2018"	"Unintentional"	"1"	409	564022	72.5
+	"Bristol County, MA"	"25005"	"2018"	"2018"	"Suicide"	"2"	79	564022	14.0
+	"Dukes County, MA"	"25007"	"2016"	"2016"	"Unintentional"	"1"	12	17246	Unreliable
+	"Dukes County, MA"	"25007"	"2017"	"2017"	"Unintentional"	"1"	10	17325	Unreliable
+	"Dukes County, MA"	"25007"	"2018"	"2018"	"Unintentional"	"1"	11	17352	Unreliable
+	"Essex County, MA"	"25009"	"1999"	"1999"	"Unintentional"	"1"	148	718629	20.6
+	"Essex County, MA"	"25009"	"1999"	"1999"	"Suicide"	"2"	43	718629	6.0
+	"Essex County, MA"	"25009"	"1999"	"1999"	"Homicide"	"3"	14	718629	Unreliable
+	"Essex County, MA"	"25009"	"1999"	"1999"	"Undetermined "	"4"	34	718629	4.7
+	"Essex County, MA"	"25009"	"2000"	"2000"	"Unintentional"	"1"	156	723419	21.6
+	"Essex County, MA"	"25009"	"2000"	"2000"	"Suicide"	"2"	53	723419	7.3
+	"Essex County, MA"	"25009"	"2000"	"2000"	"Homicide"	"3"	16	723419	Unreliable
+	"Essex County, MA"	"25009"	"2000"	"2000"	"Undetermined "	"4"	47	723419	6.5
+	"Essex County, MA"	"25009"	"2001"	"2001"	"Unintentional"	"1"	160	730206	21.9
+	"Essex County, MA"	"25009"	"2001"	"2001"	"Suicide"	"2"	41	730206	5.6
+	"Essex County, MA"	"25009"	"2001"	"2001"	"Homicide"	"3"	15	730206	Unreliable
+	"Essex County, MA"	"25009"	"2001"	"2001"	"Undetermined "	"4"	74	730206	10.1
+	"Essex County, MA"	"25009"	"2002"	"2002"	"Unintentional"	"1"	154	732232	21.0
+	"Essex County, MA"	"25009"	"2002"	"2002"	"Suicide"	"2"	45	732232	6.1
+	"Essex County, MA"	"25009"	"2002"	"2002"	"Homicide"	"3"	17	732232	Unreliable
+	"Essex County, MA"	"25009"	"2002"	"2002"	"Undetermined "	"4"	60	732232	8.2
+	"Essex County, MA"	"25009"	"2003"	"2003"	"Unintentional"	"1"	148	731544	20.2
+	"Essex County, MA"	"25009"	"2003"	"2003"	"Suicide"	"2"	58	731544	7.9
+	"Essex County, MA"	"25009"	"2003"	"2003"	"Homicide"	"3"	12	731544	Unreliable
+	"Essex County, MA"	"25009"	"2003"	"2003"	"Undetermined "	"4"	103	731544	14.1
+	"Essex County, MA"	"25009"	"2004"	"2004"	"Unintentional"	"1"	158	729783	21.7
+	"Essex County, MA"	"25009"	"2004"	"2004"	"Suicide"	"2"	53	729783	7.3
+	"Essex County, MA"	"25009"	"2004"	"2004"	"Homicide"	"3"	12	729783	Unreliable
+	"Essex County, MA"	"25009"	"2004"	"2004"	"Undetermined "	"4"	72	729783	9.9
+	"Essex County, MA"	"25009"	"2005"	"2005"	"Unintentional"	"1"	231	728877	31.7
+	"Essex County, MA"	"25009"	"2005"	"2005"	"Suicide"	"2"	67	728877	9.2
+	"Essex County, MA"	"25009"	"2005"	"2005"	"Homicide"	"3"	12	728877	Unreliable
+	"Essex County, MA"	"25009"	"2006"	"2006"	"Unintentional"	"1"	259	729455	35.5
+	"Essex County, MA"	"25009"	"2006"	"2006"	"Suicide"	"2"	55	729455	7.5
+	"Essex County, MA"	"25009"	"2006"	"2006"	"Homicide"	"3"	16	729455	Unreliable
+	"Essex County, MA"	"25009"	"2007"	"2007"	"Unintentional"	"1"	272	730664	37.2
+	"Essex County, MA"	"25009"	"2007"	"2007"	"Suicide"	"2"	60	730664	8.2
+	"Essex County, MA"	"25009"	"2007"	"2007"	"Homicide"	"3"	16	730664	Unreliable
+	"Essex County, MA"	"25009"	"2007"	"2007"	"Undetermined "	"4"	17	730664	Unreliable
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Unintentional"	"1"	225	734361	30.6
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Suicide"	"2"	50	734361	6.8
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Homicide"	"3"	17	734361	Unreliable
+	"Essex County, MA"	"25009"	"2008"	"2008"	"Undetermined "	"4"	13	734361	Unreliable
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Unintentional"	"1"	232	739086	31.4
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Suicide"	"2"	57	739086	7.7
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Homicide"	"3"	15	739086	Unreliable
+	"Essex County, MA"	"25009"	"2009"	"2009"	"Undetermined "	"4"	11	739086	Unreliable
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Unintentional"	"1"	217	743159	29.2
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Suicide"	"2"	75	743159	10.1
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Homicide"	"3"	21	743159	2.8
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Undetermined "	"4"	13	743159	Unreliable
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	14	743159	Unreliable
+	"Essex County, MA"	"25009"	"2011"	"2011"	"Unintentional"	"1"	244	748930	32.6
+	"Essex County, MA"	"25009"	"2011"	"2011"	"Suicide"	"2"	61	748930	8.1
+	"Essex County, MA"	"25009"	"2011"	"2011"	"Homicide"	"3"	20	748930	2.7
+	"Essex County, MA"	"25009"	"2011"	"2011"	"Undetermined "	"4"	15	748930	Unreliable
+	"Essex County, MA"	"25009"	"2012"	"2012"	"Unintentional"	"1"	284	755618	37.6
+	"Essex County, MA"	"25009"	"2012"	"2012"	"Suicide"	"2"	54	755618	7.1
+	"Essex County, MA"	"25009"	"2013"	"2013"	"Unintentional"	"1"	283	762550	37.1
+	"Essex County, MA"	"25009"	"2013"	"2013"	"Suicide"	"2"	66	762550	8.7
+	"Essex County, MA"	"25009"	"2013"	"2013"	"Homicide"	"3"	11	762550	Unreliable
+	"Essex County, MA"	"25009"	"2014"	"2014"	"Unintentional"	"1"	341	769091	44.3
+	"Essex County, MA"	"25009"	"2014"	"2014"	"Suicide"	"2"	68	769091	8.8
+	"Essex County, MA"	"25009"	"2014"	"2014"	"Homicide"	"3"	14	769091	Unreliable
+	"Essex County, MA"	"25009"	"2015"	"2015"	"Unintentional"	"1"	399	776043	51.4
+	"Essex County, MA"	"25009"	"2015"	"2015"	"Suicide"	"2"	62	776043	8.0
+	"Essex County, MA"	"25009"	"2015"	"2015"	"Homicide"	"3"	18	776043	Unreliable
+	"Essex County, MA"	"25009"	"2016"	"2016"	"Unintentional"	"1"	448	779018	57.5
+	"Essex County, MA"	"25009"	"2016"	"2016"	"Suicide"	"2"	72	779018	9.2
+	"Essex County, MA"	"25009"	"2016"	"2016"	"Homicide"	"3"	17	779018	Unreliable
+	"Essex County, MA"	"25009"	"2017"	"2017"	"Unintentional"	"1"	501	785205	63.8
+	"Essex County, MA"	"25009"	"2017"	"2017"	"Suicide"	"2"	93	785205	11.8
+	"Essex County, MA"	"25009"	"2017"	"2017"	"Homicide"	"3"	24	785205	3.1
+	"Essex County, MA"	"25009"	"2018"	"2018"	"Unintentional"	"1"	501	790638	63.4
+	"Essex County, MA"	"25009"	"2018"	"2018"	"Suicide"	"2"	75	790638	9.5
+	"Essex County, MA"	"25009"	"2018"	"2018"	"Homicide"	"3"	12	790638	Unreliable
+	"Essex County, MA"	"25009"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	13	790638	Unreliable
+	"Franklin County, MA"	"25011"	"1999"	"1999"	"Unintentional"	"1"	15	71450	Unreliable
+	"Franklin County, MA"	"25011"	"2000"	"2000"	"Unintentional"	"1"	28	71535	39.1
+	"Franklin County, MA"	"25011"	"2001"	"2001"	"Unintentional"	"1"	21	71557	29.3
+	"Franklin County, MA"	"25011"	"2002"	"2002"	"Unintentional"	"1"	18	71761	Unreliable
+	"Franklin County, MA"	"25011"	"2003"	"2003"	"Unintentional"	"1"	16	71837	Unreliable
+	"Franklin County, MA"	"25011"	"2004"	"2004"	"Unintentional"	"1"	18	71875	Unreliable
+	"Franklin County, MA"	"25011"	"2005"	"2005"	"Unintentional"	"1"	21	71879	29.2
+	"Franklin County, MA"	"25011"	"2005"	"2005"	"Suicide"	"2"	11	71879	Unreliable
+	"Franklin County, MA"	"25011"	"2006"	"2006"	"Unintentional"	"1"	30	71708	41.8
+	"Franklin County, MA"	"25011"	"2007"	"2007"	"Unintentional"	"1"	20	71577	27.9
+	"Franklin County, MA"	"25011"	"2008"	"2008"	"Unintentional"	"1"	24	71571	33.5
+	"Franklin County, MA"	"25011"	"2009"	"2009"	"Unintentional"	"1"	18	71392	Unreliable
+	"Franklin County, MA"	"25011"	"2010"	"2010"	"Unintentional"	"1"	32	71372	44.8
+	"Franklin County, MA"	"25011"	"2010"	"2010"	"Suicide"	"2"	11	71372	Unreliable
+	"Franklin County, MA"	"25011"	"2011"	"2011"	"Unintentional"	"1"	27	71599	37.7
+	"Franklin County, MA"	"25011"	"2012"	"2012"	"Unintentional"	"1"	22	71540	30.8
+	"Franklin County, MA"	"25011"	"2012"	"2012"	"Suicide"	"2"	10	71540	Unreliable
+	"Franklin County, MA"	"25011"	"2013"	"2013"	"Unintentional"	"1"	28	71221	39.3
+	"Franklin County, MA"	"25011"	"2014"	"2014"	"Unintentional"	"1"	26	70862	36.7
+	"Franklin County, MA"	"25011"	"2014"	"2014"	"Suicide"	"2"	10	70862	Unreliable
+	"Franklin County, MA"	"25011"	"2015"	"2015"	"Unintentional"	"1"	37	70601	52.4
+	"Franklin County, MA"	"25011"	"2015"	"2015"	"Suicide"	"2"	10	70601	Unreliable
+	"Franklin County, MA"	"25011"	"2016"	"2016"	"Unintentional"	"1"	45	70382	63.9
+	"Franklin County, MA"	"25011"	"2017"	"2017"	"Unintentional"	"1"	36	70702	50.9
+	"Franklin County, MA"	"25011"	"2018"	"2018"	"Unintentional"	"1"	47	70963	66.2
+	"Hampden County, MA"	"25013"	"1999"	"1999"	"Unintentional"	"1"	91	455391	20.0
+	"Hampden County, MA"	"25013"	"1999"	"1999"	"Suicide"	"2"	44	455391	9.7
+	"Hampden County, MA"	"25013"	"1999"	"1999"	"Homicide"	"3"	19	455391	Unreliable
+	"Hampden County, MA"	"25013"	"1999"	"1999"	"Undetermined "	"4"	31	455391	6.8
+	"Hampden County, MA"	"25013"	"2000"	"2000"	"Unintentional"	"1"	105	456228	23.0
+	"Hampden County, MA"	"25013"	"2000"	"2000"	"Suicide"	"2"	34	456228	7.5
+	"Hampden County, MA"	"25013"	"2000"	"2000"	"Homicide"	"3"	14	456228	Unreliable
+	"Hampden County, MA"	"25013"	"2000"	"2000"	"Undetermined "	"4"	34	456228	7.5
+	"Hampden County, MA"	"25013"	"2001"	"2001"	"Unintentional"	"1"	125	456557	27.4
+	"Hampden County, MA"	"25013"	"2001"	"2001"	"Suicide"	"2"	38	456557	8.3
+	"Hampden County, MA"	"25013"	"2001"	"2001"	"Homicide"	"3"	16	456557	Unreliable
+	"Hampden County, MA"	"25013"	"2001"	"2001"	"Undetermined "	"4"	44	456557	9.6
+	"Hampden County, MA"	"25013"	"2002"	"2002"	"Unintentional"	"1"	113	458780	24.6
+	"Hampden County, MA"	"25013"	"2002"	"2002"	"Suicide"	"2"	30	458780	6.5
+	"Hampden County, MA"	"25013"	"2002"	"2002"	"Homicide"	"3"	19	458780	Unreliable
+	"Hampden County, MA"	"25013"	"2002"	"2002"	"Undetermined "	"4"	41	458780	8.9
+	"Hampden County, MA"	"25013"	"2003"	"2003"	"Unintentional"	"1"	131	460673	28.4
+	"Hampden County, MA"	"25013"	"2003"	"2003"	"Suicide"	"2"	42	460673	9.1
+	"Hampden County, MA"	"25013"	"2003"	"2003"	"Homicide"	"3"	21	460673	4.6
+	"Hampden County, MA"	"25013"	"2003"	"2003"	"Undetermined "	"4"	54	460673	11.7
+	"Hampden County, MA"	"25013"	"2004"	"2004"	"Unintentional"	"1"	111	460841	24.1
+	"Hampden County, MA"	"25013"	"2004"	"2004"	"Suicide"	"2"	29	460841	6.3
+	"Hampden County, MA"	"25013"	"2004"	"2004"	"Homicide"	"3"	23	460841	5.0
+	"Hampden County, MA"	"25013"	"2004"	"2004"	"Undetermined "	"4"	42	460841	9.1
+	"Hampden County, MA"	"25013"	"2005"	"2005"	"Unintentional"	"1"	148	461147	32.1
+	"Hampden County, MA"	"25013"	"2005"	"2005"	"Suicide"	"2"	48	461147	10.4
+	"Hampden County, MA"	"25013"	"2005"	"2005"	"Homicide"	"3"	26	461147	5.6
+	"Hampden County, MA"	"25013"	"2005"	"2005"	"Undetermined "	"4"	13	461147	Unreliable
+	"Hampden County, MA"	"25013"	"2006"	"2006"	"Unintentional"	"1"	148	461408	32.1
+	"Hampden County, MA"	"25013"	"2006"	"2006"	"Suicide"	"2"	34	461408	7.4
+	"Hampden County, MA"	"25013"	"2006"	"2006"	"Homicide"	"3"	21	461408	4.6
+	"Hampden County, MA"	"25013"	"2007"	"2007"	"Unintentional"	"1"	155	461434	33.6
+	"Hampden County, MA"	"25013"	"2007"	"2007"	"Suicide"	"2"	29	461434	6.3
+	"Hampden County, MA"	"25013"	"2007"	"2007"	"Homicide"	"3"	25	461434	5.4
+	"Hampden County, MA"	"25013"	"2008"	"2008"	"Unintentional"	"1"	136	462053	29.4
+	"Hampden County, MA"	"25013"	"2008"	"2008"	"Suicide"	"2"	44	462053	9.5
+	"Hampden County, MA"	"25013"	"2008"	"2008"	"Homicide"	"3"	17	462053	Unreliable
+	"Hampden County, MA"	"25013"	"2009"	"2009"	"Unintentional"	"1"	140	462777	30.3
+	"Hampden County, MA"	"25013"	"2009"	"2009"	"Suicide"	"2"	53	462777	11.5
+	"Hampden County, MA"	"25013"	"2009"	"2009"	"Homicide"	"3"	22	462777	4.8
+	"Hampden County, MA"	"25013"	"2010"	"2010"	"Unintentional"	"1"	153	463490	33.0
+	"Hampden County, MA"	"25013"	"2010"	"2010"	"Suicide"	"2"	50	463490	10.8
+	"Hampden County, MA"	"25013"	"2010"	"2010"	"Homicide"	"3"	22	463490	4.7
+	"Hampden County, MA"	"25013"	"2010"	"2010"	"Undetermined "	"4"	10	463490	Unreliable
+	"Hampden County, MA"	"25013"	"2011"	"2011"	"Unintentional"	"1"	173	463783	37.3
+	"Hampden County, MA"	"25013"	"2011"	"2011"	"Suicide"	"2"	42	463783	9.1
+	"Hampden County, MA"	"25013"	"2011"	"2011"	"Homicide"	"3"	23	463783	5.0
+	"Hampden County, MA"	"25013"	"2012"	"2012"	"Unintentional"	"1"	158	465923	33.9
+	"Hampden County, MA"	"25013"	"2012"	"2012"	"Suicide"	"2"	49	465923	10.5
+	"Hampden County, MA"	"25013"	"2012"	"2012"	"Homicide"	"3"	17	465923	Unreliable
+	"Hampden County, MA"	"25013"	"2013"	"2013"	"Unintentional"	"1"	209	467319	44.7
+	"Hampden County, MA"	"25013"	"2013"	"2013"	"Suicide"	"2"	52	467319	11.1
+	"Hampden County, MA"	"25013"	"2013"	"2013"	"Homicide"	"3"	22	467319	4.7
+	"Hampden County, MA"	"25013"	"2014"	"2014"	"Unintentional"	"1"	163	468161	34.8
+	"Hampden County, MA"	"25013"	"2014"	"2014"	"Suicide"	"2"	51	468161	10.9
+	"Hampden County, MA"	"25013"	"2014"	"2014"	"Homicide"	"3"	16	468161	Unreliable
+	"Hampden County, MA"	"25013"	"2015"	"2015"	"Unintentional"	"1"	243	470690	51.6
+	"Hampden County, MA"	"25013"	"2015"	"2015"	"Suicide"	"2"	47	470690	10.0
+	"Hampden County, MA"	"25013"	"2015"	"2015"	"Homicide"	"3"	26	470690	5.5
+	"Hampden County, MA"	"25013"	"2016"	"2016"	"Unintentional"	"1"	250	468467	53.4
+	"Hampden County, MA"	"25013"	"2016"	"2016"	"Suicide"	"2"	37	468467	7.9
+	"Hampden County, MA"	"25013"	"2016"	"2016"	"Homicide"	"3"	20	468467	4.3
+	"Hampden County, MA"	"25013"	"2017"	"2017"	"Unintentional"	"1"	282	469818	60.0
+	"Hampden County, MA"	"25013"	"2017"	"2017"	"Suicide"	"2"	53	469818	11.3
+	"Hampden County, MA"	"25013"	"2017"	"2017"	"Homicide"	"3"	22	469818	4.7
+	"Hampden County, MA"	"25013"	"2018"	"2018"	"Unintentional"	"1"	368	470406	78.2
+	"Hampden County, MA"	"25013"	"2018"	"2018"	"Suicide"	"2"	68	470406	14.5
+	"Hampden County, MA"	"25013"	"2018"	"2018"	"Homicide"	"3"	27	470406	5.7
+	"Hampshire County, MA"	"25015"	"1999"	"1999"	"Unintentional"	"1"	36	151756	23.7
+	"Hampshire County, MA"	"25015"	"1999"	"1999"	"Undetermined "	"4"	12	151756	Unreliable
+	"Hampshire County, MA"	"25015"	"2000"	"2000"	"Unintentional"	"1"	35	152251	23.0
+	"Hampshire County, MA"	"25015"	"2001"	"2001"	"Unintentional"	"1"	22	152518	14.4
+	"Hampshire County, MA"	"25015"	"2002"	"2002"	"Unintentional"	"1"	45	153461	29.3
+	"Hampshire County, MA"	"25015"	"2003"	"2003"	"Unintentional"	"1"	32	154621	20.7
+	"Hampshire County, MA"	"25015"	"2003"	"2003"	"Undetermined "	"4"	10	154621	Unreliable
+	"Hampshire County, MA"	"25015"	"2004"	"2004"	"Unintentional"	"1"	30	155019	19.4
+	"Hampshire County, MA"	"25015"	"2004"	"2004"	"Suicide"	"2"	17	155019	Unreliable
+	"Hampshire County, MA"	"25015"	"2004"	"2004"	"Undetermined "	"4"	13	155019	Unreliable
+	"Hampshire County, MA"	"25015"	"2005"	"2005"	"Unintentional"	"1"	36	155383	23.2
+	"Hampshire County, MA"	"25015"	"2005"	"2005"	"Suicide"	"2"	10	155383	Unreliable
+	"Hampshire County, MA"	"25015"	"2006"	"2006"	"Unintentional"	"1"	46	156168	29.5
+	"Hampshire County, MA"	"25015"	"2007"	"2007"	"Unintentional"	"1"	46	156842	29.3
+	"Hampshire County, MA"	"25015"	"2007"	"2007"	"Suicide"	"2"	12	156842	Unreliable
+	"Hampshire County, MA"	"25015"	"2008"	"2008"	"Unintentional"	"1"	38	157615	24.1
+	"Hampshire County, MA"	"25015"	"2008"	"2008"	"Suicide"	"2"	12	157615	Unreliable
+	"Hampshire County, MA"	"25015"	"2009"	"2009"	"Unintentional"	"1"	41	157910	26.0
+	"Hampshire County, MA"	"25015"	"2009"	"2009"	"Suicide"	"2"	20	157910	12.7
+	"Hampshire County, MA"	"25015"	"2010"	"2010"	"Unintentional"	"1"	41	158080	25.9
+	"Hampshire County, MA"	"25015"	"2010"	"2010"	"Suicide"	"2"	21	158080	13.3
+	"Hampshire County, MA"	"25015"	"2011"	"2011"	"Unintentional"	"1"	50	157822	31.7
+	"Hampshire County, MA"	"25015"	"2011"	"2011"	"Suicide"	"2"	12	157822	Unreliable
+	"Hampshire County, MA"	"25015"	"2012"	"2012"	"Unintentional"	"1"	39	159795	24.4
+	"Hampshire County, MA"	"25015"	"2012"	"2012"	"Suicide"	"2"	11	159795	Unreliable
+	"Hampshire County, MA"	"25015"	"2013"	"2013"	"Unintentional"	"1"	65	159596	40.7
+	"Hampshire County, MA"	"25015"	"2013"	"2013"	"Suicide"	"2"	15	159596	Unreliable
+	"Hampshire County, MA"	"25015"	"2014"	"2014"	"Unintentional"	"1"	50	160939	31.1
+	"Hampshire County, MA"	"25015"	"2014"	"2014"	"Suicide"	"2"	15	160939	Unreliable
+	"Hampshire County, MA"	"25015"	"2015"	"2015"	"Unintentional"	"1"	57	161292	35.3
+	"Hampshire County, MA"	"25015"	"2015"	"2015"	"Suicide"	"2"	19	161292	Unreliable
+	"Hampshire County, MA"	"25015"	"2016"	"2016"	"Unintentional"	"1"	65	161816	40.2
+	"Hampshire County, MA"	"25015"	"2016"	"2016"	"Suicide"	"2"	16	161816	Unreliable
+	"Hampshire County, MA"	"25015"	"2017"	"2017"	"Unintentional"	"1"	64	161834	39.5
+	"Hampshire County, MA"	"25015"	"2017"	"2017"	"Suicide"	"2"	17	161834	Unreliable
+	"Hampshire County, MA"	"25015"	"2018"	"2018"	"Unintentional"	"1"	90	161355	55.8
+	"Hampshire County, MA"	"25015"	"2018"	"2018"	"Suicide"	"2"	14	161355	Unreliable
+	"Middlesex County, MA"	"25017"	"1999"	"1999"	"Unintentional"	"1"	259	1459797	17.7
+	"Middlesex County, MA"	"25017"	"1999"	"1999"	"Suicide"	"2"	89	1459797	6.1
+	"Middlesex County, MA"	"25017"	"1999"	"1999"	"Homicide"	"3"	15	1459797	Unreliable
+	"Middlesex County, MA"	"25017"	"1999"	"1999"	"Undetermined "	"4"	66	1459797	4.5
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	"Unintentional"	"1"	300	1465396	20.5
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	"Suicide"	"2"	66	1465396	4.5
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	"Homicide"	"3"	16	1465396	Unreliable
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	"Undetermined "	"4"	60	1465396	4.1
+	"Middlesex County, MA"	"25017"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	11	1465396	Unreliable
+	"Middlesex County, MA"	"25017"	"2001"	"2001"	"Unintentional"	"1"	294	1473021	20.0
+	"Middlesex County, MA"	"25017"	"2001"	"2001"	"Suicide"	"2"	97	1473021	6.6
+	"Middlesex County, MA"	"25017"	"2001"	"2001"	"Homicide"	"3"	18	1473021	Unreliable
+	"Middlesex County, MA"	"25017"	"2001"	"2001"	"Undetermined "	"4"	102	1473021	6.9
+	"Middlesex County, MA"	"25017"	"2002"	"2002"	"Unintentional"	"1"	296	1468488	20.2
+	"Middlesex County, MA"	"25017"	"2002"	"2002"	"Suicide"	"2"	96	1468488	6.5
+	"Middlesex County, MA"	"25017"	"2002"	"2002"	"Homicide"	"3"	17	1468488	Unreliable
+	"Middlesex County, MA"	"25017"	"2002"	"2002"	"Undetermined "	"4"	114	1468488	7.8
+	"Middlesex County, MA"	"25017"	"2003"	"2003"	"Unintentional"	"1"	277	1464083	18.9
+	"Middlesex County, MA"	"25017"	"2003"	"2003"	"Suicide"	"2"	85	1464083	5.8
+	"Middlesex County, MA"	"25017"	"2003"	"2003"	"Undetermined "	"4"	133	1464083	9.1
+	"Middlesex County, MA"	"25017"	"2004"	"2004"	"Unintentional"	"1"	241	1459232	16.5
+	"Middlesex County, MA"	"25017"	"2004"	"2004"	"Suicide"	"2"	75	1459232	5.1
+	"Middlesex County, MA"	"25017"	"2004"	"2004"	"Homicide"	"3"	22	1459232	1.5
+	"Middlesex County, MA"	"25017"	"2004"	"2004"	"Undetermined "	"4"	104	1459232	7.1
+	"Middlesex County, MA"	"25017"	"2005"	"2005"	"Unintentional"	"1"	358	1454868	24.6
+	"Middlesex County, MA"	"25017"	"2005"	"2005"	"Suicide"	"2"	107	1454868	7.4
+	"Middlesex County, MA"	"25017"	"2005"	"2005"	"Homicide"	"3"	22	1454868	1.5
+	"Middlesex County, MA"	"25017"	"2005"	"2005"	"Undetermined "	"4"	22	1454868	1.5
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	"Unintentional"	"1"	429	1456528	29.5
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	"Suicide"	"2"	93	1456528	6.4
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	"Homicide"	"3"	28	1456528	1.9
+	"Middlesex County, MA"	"25017"	"2006"	"2006"	"Undetermined "	"4"	10	1456528	Unreliable
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	"Unintentional"	"1"	382	1463106	26.1
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	"Suicide"	"2"	93	1463106	6.4
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	"Homicide"	"3"	15	1463106	Unreliable
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	"Undetermined "	"4"	16	1463106	Unreliable
+	"Middlesex County, MA"	"25017"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	10	1463106	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Unintentional"	"1"	394	1477049	26.7
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Suicide"	"2"	103	1477049	7.0
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Homicide"	"3"	17	1477049	Unreliable
+	"Middlesex County, MA"	"25017"	"2008"	"2008"	"Undetermined "	"4"	14	1477049	Unreliable
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Unintentional"	"1"	438	1494764	29.3
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Suicide"	"2"	96	1494764	6.4
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Homicide"	"3"	23	1494764	1.5
+	"Middlesex County, MA"	"25017"	"2009"	"2009"	"Undetermined "	"4"	20	1494764	1.3
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Unintentional"	"1"	394	1503085	26.2
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Suicide"	"2"	125	1503085	8.3
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Homicide"	"3"	27	1503085	1.8
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Undetermined "	"4"	23	1503085	1.5
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	31	1503085	2.1
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	"Unintentional"	"1"	445	1518171	29.3
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	"Suicide"	"2"	123	1518171	8.1
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	"Homicide"	"3"	29	1518171	1.9
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	"Undetermined "	"4"	19	1518171	Unreliable
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	11	1518171	Unreliable
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	"Unintentional"	"1"	425	1537215	27.6
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	"Suicide"	"2"	131	1537215	8.5
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	"Homicide"	"3"	13	1537215	Unreliable
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	"Undetermined "	"4"	14	1537215	Unreliable
+	"Middlesex County, MA"	"25017"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	10	1537215	Unreliable
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	"Unintentional"	"1"	443	1552802	28.5
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	"Suicide"	"2"	116	1552802	7.5
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	"Homicide"	"3"	18	1552802	Unreliable
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	"Undetermined "	"4"	10	1552802	Unreliable
+	"Middlesex County, MA"	"25017"	"2014"	"2014"	"Unintentional"	"1"	572	1570315	36.4
+	"Middlesex County, MA"	"25017"	"2014"	"2014"	"Suicide"	"2"	120	1570315	7.6
+	"Middlesex County, MA"	"25017"	"2014"	"2014"	"Homicide"	"3"	14	1570315	Unreliable
+	"Middlesex County, MA"	"25017"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	11	1570315	Unreliable
+	"Middlesex County, MA"	"25017"	"2015"	"2015"	"Unintentional"	"1"	630	1585139	39.7
+	"Middlesex County, MA"	"25017"	"2015"	"2015"	"Suicide"	"2"	138	1585139	8.7
+	"Middlesex County, MA"	"25017"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	12	1585139	Unreliable
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	"Unintentional"	"1"	726	1589774	45.7
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	"Suicide"	"2"	156	1589774	9.8
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	"Homicide"	"3"	15	1589774	Unreliable
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	"Undetermined "	"4"	10	1589774	Unreliable
+	"Middlesex County, MA"	"25017"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	10	1589774	Unreliable
+	"Middlesex County, MA"	"25017"	"2017"	"2017"	"Unintentional"	"1"	685	1602947	42.7
+	"Middlesex County, MA"	"25017"	"2017"	"2017"	"Suicide"	"2"	161	1602947	10.0
+	"Middlesex County, MA"	"25017"	"2017"	"2017"	"Homicide"	"3"	18	1602947	Unreliable
+	"Middlesex County, MA"	"25017"	"2017"	"2017"	"Undetermined "	"4"	10	1602947	Unreliable
+	"Middlesex County, MA"	"25017"	"2018"	"2018"	"Unintentional"	"1"	708	1614714	43.8
+	"Middlesex County, MA"	"25017"	"2018"	"2018"	"Suicide"	"2"	152	1614714	9.4
+	"Middlesex County, MA"	"25017"	"2018"	"2018"	"Homicide"	"3"	13	1614714	Unreliable
+	"Middlesex County, MA"	"25017"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	19	1614714	Unreliable
+	"Norfolk County, MA"	"25021"	"1999"	"1999"	"Unintentional"	"1"	116	648262	17.9
+	"Norfolk County, MA"	"25021"	"1999"	"1999"	"Suicide"	"2"	51	648262	7.9
+	"Norfolk County, MA"	"25021"	"1999"	"1999"	"Undetermined "	"4"	35	648262	5.4
+	"Norfolk County, MA"	"25021"	"2000"	"2000"	"Unintentional"	"1"	129	650308	19.8
+	"Norfolk County, MA"	"25021"	"2000"	"2000"	"Suicide"	"2"	45	650308	6.9
+	"Norfolk County, MA"	"25021"	"2000"	"2000"	"Undetermined "	"4"	24	650308	3.7
+	"Norfolk County, MA"	"25021"	"2001"	"2001"	"Unintentional"	"1"	141	653137	21.6
+	"Norfolk County, MA"	"25021"	"2001"	"2001"	"Suicide"	"2"	48	653137	7.3
+	"Norfolk County, MA"	"25021"	"2001"	"2001"	"Undetermined "	"4"	45	653137	6.9
+	"Norfolk County, MA"	"25021"	"2002"	"2002"	"Unintentional"	"1"	120	653860	18.4
+	"Norfolk County, MA"	"25021"	"2002"	"2002"	"Suicide"	"2"	35	653860	5.4
+	"Norfolk County, MA"	"25021"	"2002"	"2002"	"Undetermined "	"4"	45	653860	6.9
+	"Norfolk County, MA"	"25021"	"2003"	"2003"	"Unintentional"	"1"	136	653032	20.8
+	"Norfolk County, MA"	"25021"	"2003"	"2003"	"Suicide"	"2"	41	653032	6.3
+	"Norfolk County, MA"	"25021"	"2003"	"2003"	"Undetermined "	"4"	44	653032	6.7
+	"Norfolk County, MA"	"25021"	"2004"	"2004"	"Unintentional"	"1"	114	652630	17.5
+	"Norfolk County, MA"	"25021"	"2004"	"2004"	"Suicide"	"2"	35	652630	5.4
+	"Norfolk County, MA"	"25021"	"2004"	"2004"	"Undetermined "	"4"	56	652630	8.6
+	"Norfolk County, MA"	"25021"	"2005"	"2005"	"Unintentional"	"1"	166	651538	25.5
+	"Norfolk County, MA"	"25021"	"2005"	"2005"	"Suicide"	"2"	44	651538	6.8
+	"Norfolk County, MA"	"25021"	"2006"	"2006"	"Unintentional"	"1"	194	653421	29.7
+	"Norfolk County, MA"	"25021"	"2006"	"2006"	"Suicide"	"2"	51	653421	7.8
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	"Unintentional"	"1"	201	656582	30.6
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	"Suicide"	"2"	50	656582	7.6
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	"Homicide"	"3"	12	656582	Unreliable
+	"Norfolk County, MA"	"25021"	"2007"	"2007"	"Undetermined "	"4"	14	656582	Unreliable
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	"Unintentional"	"1"	197	661703	29.8
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	"Suicide"	"2"	47	661703	7.1
+	"Norfolk County, MA"	"25021"	"2008"	"2008"	"Undetermined "	"4"	10	661703	Unreliable
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	"Unintentional"	"1"	213	666301	32.0
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	"Suicide"	"2"	43	666301	6.5
+	"Norfolk County, MA"	"25021"	"2009"	"2009"	"Homicide"	"3"	12	666301	Unreliable
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Unintentional"	"1"	184	670850	27.4
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Suicide"	"2"	50	670850	7.5
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Undetermined "	"4"	11	670850	Unreliable
+	"Norfolk County, MA"	"25021"	"2011"	"2011"	"Unintentional"	"1"	206	675436	30.5
+	"Norfolk County, MA"	"25021"	"2011"	"2011"	"Suicide"	"2"	52	675436	7.7
+	"Norfolk County, MA"	"25021"	"2011"	"2011"	"Homicide"	"3"	13	675436	Unreliable
+	"Norfolk County, MA"	"25021"	"2012"	"2012"	"Unintentional"	"1"	216	681845	31.7
+	"Norfolk County, MA"	"25021"	"2012"	"2012"	"Suicide"	"2"	64	681845	9.4
+	"Norfolk County, MA"	"25021"	"2013"	"2013"	"Unintentional"	"1"	222	687802	32.3
+	"Norfolk County, MA"	"25021"	"2013"	"2013"	"Suicide"	"2"	46	687802	6.7
+	"Norfolk County, MA"	"25021"	"2013"	"2013"	"Homicide"	"3"	11	687802	Unreliable
+	"Norfolk County, MA"	"25021"	"2014"	"2014"	"Unintentional"	"1"	282	692254	40.7
+	"Norfolk County, MA"	"25021"	"2014"	"2014"	"Suicide"	"2"	59	692254	8.5
+	"Norfolk County, MA"	"25021"	"2015"	"2015"	"Unintentional"	"1"	330	696023	47.4
+	"Norfolk County, MA"	"25021"	"2015"	"2015"	"Suicide"	"2"	55	696023	7.9
+	"Norfolk County, MA"	"25021"	"2016"	"2016"	"Unintentional"	"1"	406	697181	58.2
+	"Norfolk County, MA"	"25021"	"2016"	"2016"	"Suicide"	"2"	57	697181	8.2
+	"Norfolk County, MA"	"25021"	"2016"	"2016"	"Homicide"	"3"	11	697181	Unreliable
+	"Norfolk County, MA"	"25021"	"2017"	"2017"	"Unintentional"	"1"	329	700322	47.0
+	"Norfolk County, MA"	"25021"	"2017"	"2017"	"Suicide"	"2"	56	700322	8.0
+	"Norfolk County, MA"	"25021"	"2018"	"2018"	"Unintentional"	"1"	376	705388	53.3
+	"Norfolk County, MA"	"25021"	"2018"	"2018"	"Suicide"	"2"	75	705388	10.6
+	"Plymouth County, MA"	"25023"	"1999"	"1999"	"Unintentional"	"1"	90	469065	19.2
+	"Plymouth County, MA"	"25023"	"1999"	"1999"	"Suicide"	"2"	29	469065	6.2
+	"Plymouth County, MA"	"25023"	"1999"	"1999"	"Homicide"	"3"	12	469065	Unreliable
+	"Plymouth County, MA"	"25023"	"1999"	"1999"	"Undetermined "	"4"	38	469065	8.1
+	"Plymouth County, MA"	"25023"	"2000"	"2000"	"Unintentional"	"1"	110	472822	23.3
+	"Plymouth County, MA"	"25023"	"2000"	"2000"	"Suicide"	"2"	26	472822	5.5
+	"Plymouth County, MA"	"25023"	"2000"	"2000"	"Homicide"	"3"	10	472822	Unreliable
+	"Plymouth County, MA"	"25023"	"2000"	"2000"	"Undetermined "	"4"	28	472822	5.9
+	"Plymouth County, MA"	"25023"	"2001"	"2001"	"Unintentional"	"1"	134	478222	28.0
+	"Plymouth County, MA"	"25023"	"2001"	"2001"	"Suicide"	"2"	45	478222	9.4
+	"Plymouth County, MA"	"25023"	"2001"	"2001"	"Homicide"	"3"	10	478222	Unreliable
+	"Plymouth County, MA"	"25023"	"2001"	"2001"	"Undetermined "	"4"	34	478222	7.1
+	"Plymouth County, MA"	"25023"	"2002"	"2002"	"Unintentional"	"1"	96	482092	19.9
+	"Plymouth County, MA"	"25023"	"2002"	"2002"	"Suicide"	"2"	41	482092	8.5
+	"Plymouth County, MA"	"25023"	"2002"	"2002"	"Homicide"	"3"	14	482092	Unreliable
+	"Plymouth County, MA"	"25023"	"2002"	"2002"	"Undetermined "	"4"	49	482092	10.2
+	"Plymouth County, MA"	"25023"	"2003"	"2003"	"Unintentional"	"1"	115	484245	23.7
+	"Plymouth County, MA"	"25023"	"2003"	"2003"	"Suicide"	"2"	28	484245	5.8
+	"Plymouth County, MA"	"25023"	"2003"	"2003"	"Homicide"	"3"	11	484245	Unreliable
+	"Plymouth County, MA"	"25023"	"2003"	"2003"	"Undetermined "	"4"	50	484245	10.3
+	"Plymouth County, MA"	"25023"	"2004"	"2004"	"Unintentional"	"1"	128	485010	26.4
+	"Plymouth County, MA"	"25023"	"2004"	"2004"	"Suicide"	"2"	39	485010	8.0
+	"Plymouth County, MA"	"25023"	"2004"	"2004"	"Homicide"	"3"	19	485010	Unreliable
+	"Plymouth County, MA"	"25023"	"2004"	"2004"	"Undetermined "	"4"	32	485010	6.6
+	"Plymouth County, MA"	"25023"	"2005"	"2005"	"Unintentional"	"1"	158	486292	32.5
+	"Plymouth County, MA"	"25023"	"2005"	"2005"	"Suicide"	"2"	39	486292	8.0
+	"Plymouth County, MA"	"25023"	"2005"	"2005"	"Homicide"	"3"	11	486292	Unreliable
+	"Plymouth County, MA"	"25023"	"2005"	"2005"	"Undetermined "	"4"	10	486292	Unreliable
+	"Plymouth County, MA"	"25023"	"2006"	"2006"	"Unintentional"	"1"	158	486779	32.5
+	"Plymouth County, MA"	"25023"	"2006"	"2006"	"Suicide"	"2"	32	486779	6.6
+	"Plymouth County, MA"	"25023"	"2006"	"2006"	"Homicide"	"3"	15	486779	Unreliable
+	"Plymouth County, MA"	"25023"	"2007"	"2007"	"Unintentional"	"1"	153	488251	31.3
+	"Plymouth County, MA"	"25023"	"2007"	"2007"	"Suicide"	"2"	44	488251	9.0
+	"Plymouth County, MA"	"25023"	"2007"	"2007"	"Homicide"	"3"	16	488251	Unreliable
+	"Plymouth County, MA"	"25023"	"2008"	"2008"	"Unintentional"	"1"	186	490371	37.9
+	"Plymouth County, MA"	"25023"	"2008"	"2008"	"Suicide"	"2"	40	490371	8.2
+	"Plymouth County, MA"	"25023"	"2008"	"2008"	"Homicide"	"3"	10	490371	Unreliable
+	"Plymouth County, MA"	"25023"	"2009"	"2009"	"Unintentional"	"1"	161	492738	32.7
+	"Plymouth County, MA"	"25023"	"2009"	"2009"	"Suicide"	"2"	47	492738	9.5
+	"Plymouth County, MA"	"25023"	"2009"	"2009"	"Homicide"	"3"	15	492738	Unreliable
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	"Unintentional"	"1"	155	494919	31.3
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	"Suicide"	"2"	53	494919	10.7
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	"Homicide"	"3"	10	494919	Unreliable
+	"Plymouth County, MA"	"25023"	"2011"	"2011"	"Unintentional"	"1"	174	497579	35.0
+	"Plymouth County, MA"	"25023"	"2011"	"2011"	"Suicide"	"2"	51	497579	10.2
+	"Plymouth County, MA"	"25023"	"2011"	"2011"	"Homicide"	"3"	22	497579	4.4
+	"Plymouth County, MA"	"25023"	"2012"	"2012"	"Unintentional"	"1"	169	499759	33.8
+	"Plymouth County, MA"	"25023"	"2012"	"2012"	"Suicide"	"2"	47	499759	9.4
+	"Plymouth County, MA"	"25023"	"2013"	"2013"	"Unintentional"	"1"	199	501915	39.6
+	"Plymouth County, MA"	"25023"	"2013"	"2013"	"Suicide"	"2"	43	501915	8.6
+	"Plymouth County, MA"	"25023"	"2014"	"2014"	"Unintentional"	"1"	229	507022	45.2
+	"Plymouth County, MA"	"25023"	"2014"	"2014"	"Suicide"	"2"	53	507022	10.5
+	"Plymouth County, MA"	"25023"	"2014"	"2014"	"Homicide"	"3"	13	507022	Unreliable
+	"Plymouth County, MA"	"25023"	"2015"	"2015"	"Unintentional"	"1"	279	510393	54.7
+	"Plymouth County, MA"	"25023"	"2015"	"2015"	"Suicide"	"2"	49	510393	9.6
+	"Plymouth County, MA"	"25023"	"2015"	"2015"	"Homicide"	"3"	11	510393	Unreliable
+	"Plymouth County, MA"	"25023"	"2016"	"2016"	"Unintentional"	"1"	351	513565	68.3
+	"Plymouth County, MA"	"25023"	"2016"	"2016"	"Suicide"	"2"	54	513565	10.5
+	"Plymouth County, MA"	"25023"	"2017"	"2017"	"Unintentional"	"1"	380	515142	73.8
+	"Plymouth County, MA"	"25023"	"2017"	"2017"	"Suicide"	"2"	45	515142	8.7
+	"Plymouth County, MA"	"25023"	"2018"	"2018"	"Unintentional"	"1"	306	518132	59.1
+	"Plymouth County, MA"	"25023"	"2018"	"2018"	"Suicide"	"2"	61	518132	11.8
+	"Plymouth County, MA"	"25023"	"2018"	"2018"	"Homicide"	"3"	14	518132	Unreliable
+	"Suffolk County, MA"	"25025"	"1999"	"1999"	"Unintentional"	"1"	126	689109	18.3
+	"Suffolk County, MA"	"25025"	"1999"	"1999"	"Suicide"	"2"	35	689109	5.1
+	"Suffolk County, MA"	"25025"	"1999"	"1999"	"Homicide"	"3"	34	689109	4.9
+	"Suffolk County, MA"	"25025"	"1999"	"1999"	"Undetermined "	"4"	73	689109	10.6
+	"Suffolk County, MA"	"25025"	"2000"	"2000"	"Unintentional"	"1"	113	689807	16.4
+	"Suffolk County, MA"	"25025"	"2000"	"2000"	"Suicide"	"2"	38	689807	5.5
+	"Suffolk County, MA"	"25025"	"2000"	"2000"	"Homicide"	"3"	40	689807	5.8
+	"Suffolk County, MA"	"25025"	"2000"	"2000"	"Undetermined "	"4"	60	689807	8.7
+	"Suffolk County, MA"	"25025"	"2001"	"2001"	"Unintentional"	"1"	137	700232	19.6
+	"Suffolk County, MA"	"25025"	"2001"	"2001"	"Suicide"	"2"	37	700232	5.3
+	"Suffolk County, MA"	"25025"	"2001"	"2001"	"Homicide"	"3"	65	700232	9.3
+	"Suffolk County, MA"	"25025"	"2001"	"2001"	"Undetermined "	"4"	104	700232	14.9
+	"Suffolk County, MA"	"25025"	"2002"	"2002"	"Unintentional"	"1"	141	701333	20.1
+	"Suffolk County, MA"	"25025"	"2002"	"2002"	"Suicide"	"2"	34	701333	4.8
+	"Suffolk County, MA"	"25025"	"2002"	"2002"	"Homicide"	"3"	70	701333	10.0
+	"Suffolk County, MA"	"25025"	"2002"	"2002"	"Undetermined "	"4"	104	701333	14.8
+	"Suffolk County, MA"	"25025"	"2003"	"2003"	"Unintentional"	"1"	126	697080	18.1
+	"Suffolk County, MA"	"25025"	"2003"	"2003"	"Suicide"	"2"	51	697080	7.3
+	"Suffolk County, MA"	"25025"	"2003"	"2003"	"Homicide"	"3"	43	697080	6.2
+	"Suffolk County, MA"	"25025"	"2003"	"2003"	"Undetermined "	"4"	129	697080	18.5
+	"Suffolk County, MA"	"25025"	"2004"	"2004"	"Unintentional"	"1"	113	691272	16.3
+	"Suffolk County, MA"	"25025"	"2004"	"2004"	"Suicide"	"2"	35	691272	5.1
+	"Suffolk County, MA"	"25025"	"2004"	"2004"	"Homicide"	"3"	63	691272	9.1
+	"Suffolk County, MA"	"25025"	"2004"	"2004"	"Undetermined "	"4"	104	691272	15.0
+	"Suffolk County, MA"	"25025"	"2005"	"2005"	"Unintentional"	"1"	195	686600	28.4
+	"Suffolk County, MA"	"25025"	"2005"	"2005"	"Suicide"	"2"	34	686600	5.0
+	"Suffolk County, MA"	"25025"	"2005"	"2005"	"Homicide"	"3"	69	686600	10.0
+	"Suffolk County, MA"	"25025"	"2005"	"2005"	"Undetermined "	"4"	11	686600	Unreliable
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	"Unintentional"	"1"	267	687192	38.9
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	"Suicide"	"2"	35	687192	5.1
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	"Homicide"	"3"	62	687192	9.0
+	"Suffolk County, MA"	"25025"	"2006"	"2006"	"Undetermined "	"4"	13	687192	Unreliable
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	"Unintentional"	"1"	237	693368	34.2
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	"Suicide"	"2"	42	693368	6.1
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	"Homicide"	"3"	69	693368	10.0
+	"Suffolk County, MA"	"25025"	"2007"	"2007"	"Undetermined "	"4"	21	693368	3.0
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Unintentional"	"1"	196	702201	27.9
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Suicide"	"2"	40	702201	5.7
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Homicide"	"3"	73	702201	10.4
+	"Suffolk County, MA"	"25025"	"2008"	"2008"	"Undetermined "	"4"	17	702201	Unreliable
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Unintentional"	"1"	235	716214	32.8
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Suicide"	"2"	47	716214	6.6
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Homicide"	"3"	40	716214	5.6
+	"Suffolk County, MA"	"25025"	"2009"	"2009"	"Undetermined "	"4"	13	716214	Unreliable
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Unintentional"	"1"	198	722023	27.4
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Suicide"	"2"	54	722023	7.5
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Homicide"	"3"	80	722023	11.1
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Undetermined "	"4"	12	722023	Unreliable
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	15	722023	Unreliable
+	"Suffolk County, MA"	"25025"	"2011"	"2011"	"Unintentional"	"1"	229	730932	31.3
+	"Suffolk County, MA"	"25025"	"2011"	"2011"	"Suicide"	"2"	53	730932	7.3
+	"Suffolk County, MA"	"25025"	"2011"	"2011"	"Homicide"	"3"	59	730932	8.1
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	"Unintentional"	"1"	214	744426	28.7
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	"Suicide"	"2"	44	744426	5.9
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	"Homicide"	"3"	53	744426	7.1
+	"Suffolk County, MA"	"25025"	"2012"	"2012"	"Undetermined "	"4"	10	744426	Unreliable
+	"Suffolk County, MA"	"25025"	"2013"	"2013"	"Unintentional"	"1"	230	755503	30.4
+	"Suffolk County, MA"	"25025"	"2013"	"2013"	"Suicide"	"2"	48	755503	6.4
+	"Suffolk County, MA"	"25025"	"2013"	"2013"	"Homicide"	"3"	42	755503	5.6
+	"Suffolk County, MA"	"25025"	"2013"	"2013"	"Undetermined "	"4"	12	755503	Unreliable
+	"Suffolk County, MA"	"25025"	"2014"	"2014"	"Unintentional"	"1"	262	767254	34.1
+	"Suffolk County, MA"	"25025"	"2014"	"2014"	"Suicide"	"2"	36	767254	4.7
+	"Suffolk County, MA"	"25025"	"2014"	"2014"	"Homicide"	"3"	47	767254	6.1
+	"Suffolk County, MA"	"25025"	"2015"	"2015"	"Unintentional"	"1"	316	778121	40.6
+	"Suffolk County, MA"	"25025"	"2015"	"2015"	"Suicide"	"2"	47	778121	6.0
+	"Suffolk County, MA"	"25025"	"2015"	"2015"	"Homicide"	"3"	41	778121	5.3
+	"Suffolk County, MA"	"25025"	"2016"	"2016"	"Unintentional"	"1"	421	784230	53.7
+	"Suffolk County, MA"	"25025"	"2016"	"2016"	"Suicide"	"2"	50	784230	6.4
+	"Suffolk County, MA"	"25025"	"2016"	"2016"	"Homicide"	"3"	40	784230	5.1
+	"Suffolk County, MA"	"25025"	"2016"	"2016"	"Undetermined "	"4"	13	784230	Unreliable
+	"Suffolk County, MA"	"25025"	"2017"	"2017"	"Unintentional"	"1"	387	797939	48.5
+	"Suffolk County, MA"	"25025"	"2017"	"2017"	"Suicide"	"2"	35	797939	4.4
+	"Suffolk County, MA"	"25025"	"2017"	"2017"	"Homicide"	"3"	56	797939	7.0
+	"Suffolk County, MA"	"25025"	"2018"	"2018"	"Unintentional"	"1"	345	807252	42.7
+	"Suffolk County, MA"	"25025"	"2018"	"2018"	"Suicide"	"2"	62	807252	7.7
+	"Suffolk County, MA"	"25025"	"2018"	"2018"	"Homicide"	"3"	54	807252	6.7
+	"Worcester County, MA"	"25027"	"1999"	"1999"	"Unintentional"	"1"	175	744571	23.5
+	"Worcester County, MA"	"25027"	"1999"	"1999"	"Suicide"	"2"	56	744571	7.5
+	"Worcester County, MA"	"25027"	"1999"	"1999"	"Homicide"	"3"	13	744571	Unreliable
+	"Worcester County, MA"	"25027"	"1999"	"1999"	"Undetermined "	"4"	59	744571	7.9
+	"Worcester County, MA"	"25027"	"2000"	"2000"	"Unintentional"	"1"	171	750963	22.8
+	"Worcester County, MA"	"25027"	"2000"	"2000"	"Suicide"	"2"	60	750963	8.0
+	"Worcester County, MA"	"25027"	"2000"	"2000"	"Homicide"	"3"	10	750963	Unreliable
+	"Worcester County, MA"	"25027"	"2000"	"2000"	"Undetermined "	"4"	61	750963	8.1
+	"Worcester County, MA"	"25027"	"2001"	"2001"	"Unintentional"	"1"	199	761211	26.1
+	"Worcester County, MA"	"25027"	"2001"	"2001"	"Suicide"	"2"	42	761211	5.5
+	"Worcester County, MA"	"25027"	"2001"	"2001"	"Homicide"	"3"	13	761211	Unreliable
+	"Worcester County, MA"	"25027"	"2001"	"2001"	"Undetermined "	"4"	92	761211	12.1
+	"Worcester County, MA"	"25027"	"2002"	"2002"	"Unintentional"	"1"	165	768490	21.5
+	"Worcester County, MA"	"25027"	"2002"	"2002"	"Suicide"	"2"	62	768490	8.1
+	"Worcester County, MA"	"25027"	"2002"	"2002"	"Homicide"	"3"	15	768490	Unreliable
+	"Worcester County, MA"	"25027"	"2002"	"2002"	"Undetermined "	"4"	79	768490	10.3
+	"Worcester County, MA"	"25027"	"2003"	"2003"	"Unintentional"	"1"	188	774476	24.3
+	"Worcester County, MA"	"25027"	"2003"	"2003"	"Suicide"	"2"	56	774476	7.2
+	"Worcester County, MA"	"25027"	"2003"	"2003"	"Homicide"	"3"	16	774476	Unreliable
+	"Worcester County, MA"	"25027"	"2003"	"2003"	"Undetermined "	"4"	72	774476	9.3
+	"Worcester County, MA"	"25027"	"2004"	"2004"	"Unintentional"	"1"	169	777855	21.7
+	"Worcester County, MA"	"25027"	"2004"	"2004"	"Suicide"	"2"	52	777855	6.7
+	"Worcester County, MA"	"25027"	"2004"	"2004"	"Homicide"	"3"	14	777855	Unreliable
+	"Worcester County, MA"	"25027"	"2004"	"2004"	"Undetermined "	"4"	44	777855	5.7
+	"Worcester County, MA"	"25027"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	11	777855	Unreliable
+	"Worcester County, MA"	"25027"	"2005"	"2005"	"Unintentional"	"1"	228	781265	29.2
+	"Worcester County, MA"	"25027"	"2005"	"2005"	"Suicide"	"2"	62	781265	7.9
+	"Worcester County, MA"	"25027"	"2005"	"2005"	"Homicide"	"3"	11	781265	Unreliable
+	"Worcester County, MA"	"25027"	"2006"	"2006"	"Unintentional"	"1"	276	785345	35.1
+	"Worcester County, MA"	"25027"	"2006"	"2006"	"Suicide"	"2"	54	785345	6.9
+	"Worcester County, MA"	"25027"	"2006"	"2006"	"Homicide"	"3"	13	785345	Unreliable
+	"Worcester County, MA"	"25027"	"2006"	"2006"	"Undetermined "	"4"	12	785345	Unreliable
+	"Worcester County, MA"	"25027"	"2007"	"2007"	"Unintentional"	"1"	259	788280	32.9
+	"Worcester County, MA"	"25027"	"2007"	"2007"	"Suicide"	"2"	76	788280	9.6
+	"Worcester County, MA"	"25027"	"2007"	"2007"	"Homicide"	"3"	16	788280	Unreliable
+	"Worcester County, MA"	"25027"	"2007"	"2007"	"Undetermined "	"4"	16	788280	Unreliable
+	"Worcester County, MA"	"25027"	"2008"	"2008"	"Unintentional"	"1"	255	790847	32.2
+	"Worcester County, MA"	"25027"	"2008"	"2008"	"Suicide"	"2"	58	790847	7.3
+	"Worcester County, MA"	"25027"	"2008"	"2008"	"Undetermined "	"4"	10	790847	Unreliable
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Unintentional"	"1"	246	795251	30.9
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Suicide"	"2"	59	795251	7.4
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Homicide"	"3"	20	795251	2.5
+	"Worcester County, MA"	"25027"	"2009"	"2009"	"Undetermined "	"4"	15	795251	Unreliable
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Unintentional"	"1"	277	798552	34.7
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Suicide"	"2"	62	798552	7.8
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Homicide"	"3"	14	798552	Unreliable
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	19	798552	Unreliable
+	"Worcester County, MA"	"25027"	"2011"	"2011"	"Unintentional"	"1"	276	801227	34.4
+	"Worcester County, MA"	"25027"	"2011"	"2011"	"Suicide"	"2"	85	801227	10.6
+	"Worcester County, MA"	"25027"	"2011"	"2011"	"Homicide"	"3"	13	801227	Unreliable
+	"Worcester County, MA"	"25027"	"2011"	"2011"	"Undetermined "	"4"	12	801227	Unreliable
+	"Worcester County, MA"	"25027"	"2012"	"2012"	"Unintentional"	"1"	278	806163	34.5
+	"Worcester County, MA"	"25027"	"2012"	"2012"	"Suicide"	"2"	95	806163	11.8
+	"Worcester County, MA"	"25027"	"2012"	"2012"	"Homicide"	"3"	20	806163	2.5
+	"Worcester County, MA"	"25027"	"2012"	"2012"	"Undetermined "	"4"	12	806163	Unreliable
+	"Worcester County, MA"	"25027"	"2013"	"2013"	"Unintentional"	"1"	304	809106	37.6
+	"Worcester County, MA"	"25027"	"2013"	"2013"	"Suicide"	"2"	76	809106	9.4
+	"Worcester County, MA"	"25027"	"2013"	"2013"	"Undetermined "	"4"	24	809106	3.0
+	"Worcester County, MA"	"25027"	"2014"	"2014"	"Unintentional"	"1"	303	813475	37.2
+	"Worcester County, MA"	"25027"	"2014"	"2014"	"Suicide"	"2"	65	813475	8.0
+	"Worcester County, MA"	"25027"	"2014"	"2014"	"Undetermined "	"4"	10	813475	Unreliable
+	"Worcester County, MA"	"25027"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	13	813475	Unreliable
+	"Worcester County, MA"	"25027"	"2015"	"2015"	"Unintentional"	"1"	410	818963	50.1
+	"Worcester County, MA"	"25027"	"2015"	"2015"	"Suicide"	"2"	89	818963	10.9
+	"Worcester County, MA"	"25027"	"2015"	"2015"	"Homicide"	"3"	15	818963	Unreliable
+	"Worcester County, MA"	"25027"	"2016"	"2016"	"Unintentional"	"1"	413	819589	50.4
+	"Worcester County, MA"	"25027"	"2016"	"2016"	"Suicide"	"2"	76	819589	9.3
+	"Worcester County, MA"	"25027"	"2016"	"2016"	"Homicide"	"3"	11	819589	Unreliable
+	"Worcester County, MA"	"25027"	"2017"	"2017"	"Unintentional"	"1"	467	826116	56.5
+	"Worcester County, MA"	"25027"	"2017"	"2017"	"Suicide"	"2"	89	826116	10.8
+	"Worcester County, MA"	"25027"	"2017"	"2017"	"Homicide"	"3"	14	826116	Unreliable
+	"Worcester County, MA"	"25027"	"2018"	"2018"	"Unintentional"	"1"	520	830839	62.6
+	"Worcester County, MA"	"25027"	"2018"	"2018"	"Suicide"	"2"	84	830839	10.1
+	"Worcester County, MA"	"25027"	"2018"	"2018"	"Homicide"	"3"	16	830839	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Massachusetts"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Massachusetts (25)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:46:05 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:46:05 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

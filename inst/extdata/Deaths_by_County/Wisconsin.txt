@@ -1,0 +1,1696 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adams County, WI"	"55001"	"1999"	"1999"	"Unintentional"	"1"	13	18462	Unreliable
+	"Adams County, WI"	"55001"	"2000"	"2000"	"Unintentional"	"1"	19	18643	Unreliable
+	"Adams County, WI"	"55001"	"2001"	"2001"	"Unintentional"	"1"	12	20337	Unreliable
+	"Adams County, WI"	"55001"	"2002"	"2002"	"Unintentional"	"1"	13	20578	Unreliable
+	"Adams County, WI"	"55001"	"2003"	"2003"	"Unintentional"	"1"	13	20644	Unreliable
+	"Adams County, WI"	"55001"	"2004"	"2004"	"Unintentional"	"1"	12	20774	Unreliable
+	"Adams County, WI"	"55001"	"2005"	"2005"	"Unintentional"	"1"	14	21211	Unreliable
+	"Adams County, WI"	"55001"	"2006"	"2006"	"Unintentional"	"1"	10	21185	Unreliable
+	"Adams County, WI"	"55001"	"2008"	"2008"	"Unintentional"	"1"	13	21101	Unreliable
+	"Adams County, WI"	"55001"	"2009"	"2009"	"Unintentional"	"1"	13	20930	Unreliable
+	"Adams County, WI"	"55001"	"2011"	"2011"	"Unintentional"	"1"	12	20733	Unreliable
+	"Adams County, WI"	"55001"	"2012"	"2012"	"Unintentional"	"1"	19	20679	Unreliable
+	"Adams County, WI"	"55001"	"2013"	"2013"	"Unintentional"	"1"	19	20480	Unreliable
+	"Adams County, WI"	"55001"	"2014"	"2014"	"Unintentional"	"1"	28	20215	138.5
+	"Adams County, WI"	"55001"	"2015"	"2015"	"Unintentional"	"1"	11	20148	Unreliable
+	"Adams County, WI"	"55001"	"2015"	"2015"	"Suicide"	"2"	10	20148	Unreliable
+	"Adams County, WI"	"55001"	"2016"	"2016"	"Unintentional"	"1"	16	20069	Unreliable
+	"Adams County, WI"	"55001"	"2017"	"2017"	"Unintentional"	"1"	24	19973	120.2
+	"Adams County, WI"	"55001"	"2018"	"2018"	"Unintentional"	"1"	20	20348	98.3
+	"Ashland County, WI"	"55003"	"2000"	"2000"	"Unintentional"	"1"	11	16866	Unreliable
+	"Ashland County, WI"	"55003"	"2001"	"2001"	"Unintentional"	"1"	10	16773	Unreliable
+	"Ashland County, WI"	"55003"	"2005"	"2005"	"Unintentional"	"1"	10	16407	Unreliable
+	"Ashland County, WI"	"55003"	"2008"	"2008"	"Unintentional"	"1"	12	16145	Unreliable
+	"Ashland County, WI"	"55003"	"2014"	"2014"	"Unintentional"	"1"	10	16103	Unreliable
+	"Ashland County, WI"	"55003"	"2016"	"2016"	"Unintentional"	"1"	14	15714	Unreliable
+	"Ashland County, WI"	"55003"	"2017"	"2017"	"Unintentional"	"1"	11	15500	Unreliable
+	"Ashland County, WI"	"55003"	"2018"	"2018"	"Unintentional"	"1"	13	15600	Unreliable
+	"Barron County, WI"	"55005"	"1999"	"1999"	"Unintentional"	"1"	33	44705	73.8
+	"Barron County, WI"	"55005"	"2000"	"2000"	"Unintentional"	"1"	20	44963	44.5
+	"Barron County, WI"	"55005"	"2001"	"2001"	"Unintentional"	"1"	19	45225	Unreliable
+	"Barron County, WI"	"55005"	"2002"	"2002"	"Unintentional"	"1"	21	45515	46.1
+	"Barron County, WI"	"55005"	"2003"	"2003"	"Unintentional"	"1"	23	45601	50.4
+	"Barron County, WI"	"55005"	"2004"	"2004"	"Unintentional"	"1"	23	45804	50.2
+	"Barron County, WI"	"55005"	"2005"	"2005"	"Unintentional"	"1"	23	45808	50.2
+	"Barron County, WI"	"55005"	"2006"	"2006"	"Unintentional"	"1"	21	45968	45.7
+	"Barron County, WI"	"55005"	"2007"	"2007"	"Unintentional"	"1"	17	45874	Unreliable
+	"Barron County, WI"	"55005"	"2008"	"2008"	"Unintentional"	"1"	15	46009	Unreliable
+	"Barron County, WI"	"55005"	"2009"	"2009"	"Unintentional"	"1"	18	45876	Unreliable
+	"Barron County, WI"	"55005"	"2010"	"2010"	"Unintentional"	"1"	16	45870	Unreliable
+	"Barron County, WI"	"55005"	"2011"	"2011"	"Unintentional"	"1"	21	45883	45.8
+	"Barron County, WI"	"55005"	"2012"	"2012"	"Unintentional"	"1"	25	45733	54.7
+	"Barron County, WI"	"55005"	"2013"	"2013"	"Unintentional"	"1"	30	45676	65.7
+	"Barron County, WI"	"55005"	"2014"	"2014"	"Unintentional"	"1"	24	45455	52.8
+	"Barron County, WI"	"55005"	"2015"	"2015"	"Unintentional"	"1"	27	45563	59.3
+	"Barron County, WI"	"55005"	"2016"	"2016"	"Unintentional"	"1"	26	45412	57.3
+	"Barron County, WI"	"55005"	"2017"	"2017"	"Unintentional"	"1"	36	45251	79.6
+	"Barron County, WI"	"55005"	"2017"	"2017"	"Suicide"	"2"	11	45251	Unreliable
+	"Barron County, WI"	"55005"	"2018"	"2018"	"Unintentional"	"1"	33	45164	73.1
+	"Bayfield County, WI"	"55007"	"2003"	"2003"	"Unintentional"	"1"	13	15165	Unreliable
+	"Bayfield County, WI"	"55007"	"2007"	"2007"	"Unintentional"	"1"	13	15255	Unreliable
+	"Bayfield County, WI"	"55007"	"2008"	"2008"	"Unintentional"	"1"	13	15160	Unreliable
+	"Bayfield County, WI"	"55007"	"2012"	"2012"	"Unintentional"	"1"	12	15099	Unreliable
+	"Bayfield County, WI"	"55007"	"2013"	"2013"	"Unintentional"	"1"	12	15156	Unreliable
+	"Bayfield County, WI"	"55007"	"2015"	"2015"	"Unintentional"	"1"	14	14977	Unreliable
+	"Bayfield County, WI"	"55007"	"2016"	"2016"	"Unintentional"	"1"	10	14891	Unreliable
+	"Bayfield County, WI"	"55007"	"2017"	"2017"	"Unintentional"	"1"	12	15008	Unreliable
+	"Bayfield County, WI"	"55007"	"2018"	"2018"	"Unintentional"	"1"	14	15042	Unreliable
+	"Brown County, WI"	"55009"	"1999"	"1999"	"Unintentional"	"1"	60	224825	26.7
+	"Brown County, WI"	"55009"	"1999"	"1999"	"Suicide"	"2"	33	224825	14.7
+	"Brown County, WI"	"55009"	"2000"	"2000"	"Unintentional"	"1"	85	226778	37.5
+	"Brown County, WI"	"55009"	"2000"	"2000"	"Suicide"	"2"	18	226778	Unreliable
+	"Brown County, WI"	"55009"	"2001"	"2001"	"Unintentional"	"1"	69	229332	30.1
+	"Brown County, WI"	"55009"	"2001"	"2001"	"Suicide"	"2"	33	229332	14.4
+	"Brown County, WI"	"55009"	"2002"	"2002"	"Unintentional"	"1"	73	231821	31.5
+	"Brown County, WI"	"55009"	"2002"	"2002"	"Suicide"	"2"	23	231821	9.9
+	"Brown County, WI"	"55009"	"2003"	"2003"	"Unintentional"	"1"	82	233878	35.1
+	"Brown County, WI"	"55009"	"2003"	"2003"	"Suicide"	"2"	25	233878	10.7
+	"Brown County, WI"	"55009"	"2004"	"2004"	"Unintentional"	"1"	88	236654	37.2
+	"Brown County, WI"	"55009"	"2004"	"2004"	"Suicide"	"2"	22	236654	9.3
+	"Brown County, WI"	"55009"	"2005"	"2005"	"Unintentional"	"1"	72	238587	30.2
+	"Brown County, WI"	"55009"	"2005"	"2005"	"Suicide"	"2"	30	238587	12.6
+	"Brown County, WI"	"55009"	"2006"	"2006"	"Unintentional"	"1"	73	240191	30.4
+	"Brown County, WI"	"55009"	"2006"	"2006"	"Suicide"	"2"	29	240191	12.1
+	"Brown County, WI"	"55009"	"2007"	"2007"	"Unintentional"	"1"	88	242691	36.3
+	"Brown County, WI"	"55009"	"2007"	"2007"	"Suicide"	"2"	43	242691	17.7
+	"Brown County, WI"	"55009"	"2008"	"2008"	"Unintentional"	"1"	82	244016	33.6
+	"Brown County, WI"	"55009"	"2008"	"2008"	"Suicide"	"2"	30	244016	12.3
+	"Brown County, WI"	"55009"	"2009"	"2009"	"Unintentional"	"1"	82	246476	33.3
+	"Brown County, WI"	"55009"	"2009"	"2009"	"Suicide"	"2"	33	246476	13.4
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Unintentional"	"1"	84	248007	33.9
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Suicide"	"2"	29	248007	11.7
+	"Brown County, WI"	"55009"	"2011"	"2011"	"Unintentional"	"1"	80	251412	31.8
+	"Brown County, WI"	"55009"	"2011"	"2011"	"Suicide"	"2"	27	251412	10.7
+	"Brown County, WI"	"55009"	"2012"	"2012"	"Unintentional"	"1"	87	253032	34.4
+	"Brown County, WI"	"55009"	"2012"	"2012"	"Suicide"	"2"	35	253032	13.8
+	"Brown County, WI"	"55009"	"2013"	"2013"	"Unintentional"	"1"	88	254586	34.6
+	"Brown County, WI"	"55009"	"2013"	"2013"	"Suicide"	"2"	42	254586	16.5
+	"Brown County, WI"	"55009"	"2014"	"2014"	"Unintentional"	"1"	87	256670	33.9
+	"Brown County, WI"	"55009"	"2014"	"2014"	"Suicide"	"2"	34	256670	13.2
+	"Brown County, WI"	"55009"	"2015"	"2015"	"Unintentional"	"1"	94	258718	36.3
+	"Brown County, WI"	"55009"	"2015"	"2015"	"Suicide"	"2"	42	258718	16.2
+	"Brown County, WI"	"55009"	"2016"	"2016"	"Unintentional"	"1"	126	260401	48.4
+	"Brown County, WI"	"55009"	"2016"	"2016"	"Suicide"	"2"	56	260401	21.5
+	"Brown County, WI"	"55009"	"2017"	"2017"	"Unintentional"	"1"	138	262052	52.7
+	"Brown County, WI"	"55009"	"2017"	"2017"	"Suicide"	"2"	46	262052	17.6
+	"Brown County, WI"	"55009"	"2018"	"2018"	"Unintentional"	"1"	146	263378	55.4
+	"Brown County, WI"	"55009"	"2018"	"2018"	"Suicide"	"2"	28	263378	10.6
+	"Burnett County, WI"	"55013"	"1999"	"1999"	"Unintentional"	"1"	10	15433	Unreliable
+	"Burnett County, WI"	"55013"	"2000"	"2000"	"Unintentional"	"1"	10	15674	Unreliable
+	"Burnett County, WI"	"55013"	"2001"	"2001"	"Unintentional"	"1"	13	15797	Unreliable
+	"Burnett County, WI"	"55013"	"2002"	"2002"	"Unintentional"	"1"	10	15906	Unreliable
+	"Burnett County, WI"	"55013"	"2003"	"2003"	"Unintentional"	"1"	14	16063	Unreliable
+	"Burnett County, WI"	"55013"	"2004"	"2004"	"Unintentional"	"1"	14	16180	Unreliable
+	"Burnett County, WI"	"55013"	"2007"	"2007"	"Unintentional"	"1"	13	15965	Unreliable
+	"Burnett County, WI"	"55013"	"2011"	"2011"	"Unintentional"	"1"	10	15504	Unreliable
+	"Burnett County, WI"	"55013"	"2012"	"2012"	"Unintentional"	"1"	10	15382	Unreliable
+	"Burnett County, WI"	"55013"	"2013"	"2013"	"Unintentional"	"1"	12	15333	Unreliable
+	"Burnett County, WI"	"55013"	"2014"	"2014"	"Unintentional"	"1"	16	15328	Unreliable
+	"Burnett County, WI"	"55013"	"2016"	"2016"	"Unintentional"	"1"	11	15213	Unreliable
+	"Burnett County, WI"	"55013"	"2017"	"2017"	"Unintentional"	"1"	12	15352	Unreliable
+	"Calumet County, WI"	"55015"	"1999"	"1999"	"Unintentional"	"1"	10	40276	Unreliable
+	"Calumet County, WI"	"55015"	"2000"	"2000"	"Unintentional"	"1"	10	40631	Unreliable
+	"Calumet County, WI"	"55015"	"2001"	"2001"	"Unintentional"	"1"	11	41950	Unreliable
+	"Calumet County, WI"	"55015"	"2003"	"2003"	"Unintentional"	"1"	12	44660	Unreliable
+	"Calumet County, WI"	"55015"	"2004"	"2004"	"Unintentional"	"1"	16	45456	Unreliable
+	"Calumet County, WI"	"55015"	"2005"	"2005"	"Unintentional"	"1"	14	46185	Unreliable
+	"Calumet County, WI"	"55015"	"2006"	"2006"	"Unintentional"	"1"	19	46809	Unreliable
+	"Calumet County, WI"	"55015"	"2007"	"2007"	"Unintentional"	"1"	19	47188	Unreliable
+	"Calumet County, WI"	"55015"	"2008"	"2008"	"Unintentional"	"1"	12	48014	Unreliable
+	"Calumet County, WI"	"55015"	"2009"	"2009"	"Unintentional"	"1"	13	48457	Unreliable
+	"Calumet County, WI"	"55015"	"2009"	"2009"	"Suicide"	"2"	12	48457	Unreliable
+	"Calumet County, WI"	"55015"	"2010"	"2010"	"Unintentional"	"1"	13	48971	Unreliable
+	"Calumet County, WI"	"55015"	"2011"	"2011"	"Unintentional"	"1"	13	49490	Unreliable
+	"Calumet County, WI"	"55015"	"2012"	"2012"	"Unintentional"	"1"	10	49634	Unreliable
+	"Calumet County, WI"	"55015"	"2013"	"2013"	"Unintentional"	"1"	26	49617	52.4
+	"Calumet County, WI"	"55015"	"2014"	"2014"	"Unintentional"	"1"	28	49491	56.6
+	"Calumet County, WI"	"55015"	"2014"	"2014"	"Suicide"	"2"	10	49491	Unreliable
+	"Calumet County, WI"	"55015"	"2015"	"2015"	"Unintentional"	"1"	23	49762	46.2
+	"Calumet County, WI"	"55015"	"2016"	"2016"	"Unintentional"	"1"	22	49553	44.4
+	"Calumet County, WI"	"55015"	"2017"	"2017"	"Unintentional"	"1"	18	50067	Unreliable
+	"Calumet County, WI"	"55015"	"2018"	"2018"	"Unintentional"	"1"	21	50159	41.9
+	"Chippewa County, WI"	"55017"	"1999"	"1999"	"Unintentional"	"1"	26	54760	47.5
+	"Chippewa County, WI"	"55017"	"2000"	"2000"	"Unintentional"	"1"	41	55195	74.3
+	"Chippewa County, WI"	"55017"	"2000"	"2000"	"Suicide"	"2"	11	55195	Unreliable
+	"Chippewa County, WI"	"55017"	"2001"	"2001"	"Unintentional"	"1"	37	55820	66.3
+	"Chippewa County, WI"	"55017"	"2002"	"2002"	"Unintentional"	"1"	30	56353	53.2
+	"Chippewa County, WI"	"55017"	"2003"	"2003"	"Unintentional"	"1"	34	57184	59.5
+	"Chippewa County, WI"	"55017"	"2004"	"2004"	"Unintentional"	"1"	24	58801	40.8
+	"Chippewa County, WI"	"55017"	"2004"	"2004"	"Suicide"	"2"	10	58801	Unreliable
+	"Chippewa County, WI"	"55017"	"2005"	"2005"	"Unintentional"	"1"	35	59802	58.5
+	"Chippewa County, WI"	"55017"	"2006"	"2006"	"Unintentional"	"1"	25	60271	41.5
+	"Chippewa County, WI"	"55017"	"2006"	"2006"	"Suicide"	"2"	13	60271	Unreliable
+	"Chippewa County, WI"	"55017"	"2007"	"2007"	"Unintentional"	"1"	35	61022	57.4
+	"Chippewa County, WI"	"55017"	"2008"	"2008"	"Unintentional"	"1"	24	61524	39.0
+	"Chippewa County, WI"	"55017"	"2009"	"2009"	"Unintentional"	"1"	35	61997	56.5
+	"Chippewa County, WI"	"55017"	"2010"	"2010"	"Unintentional"	"1"	29	62415	46.5
+	"Chippewa County, WI"	"55017"	"2010"	"2010"	"Suicide"	"2"	14	62415	Unreliable
+	"Chippewa County, WI"	"55017"	"2011"	"2011"	"Unintentional"	"1"	26	62778	41.4
+	"Chippewa County, WI"	"55017"	"2012"	"2012"	"Unintentional"	"1"	18	62922	Unreliable
+	"Chippewa County, WI"	"55017"	"2012"	"2012"	"Suicide"	"2"	10	62922	Unreliable
+	"Chippewa County, WI"	"55017"	"2013"	"2013"	"Unintentional"	"1"	38	63132	60.2
+	"Chippewa County, WI"	"55017"	"2013"	"2013"	"Suicide"	"2"	13	63132	Unreliable
+	"Chippewa County, WI"	"55017"	"2014"	"2014"	"Unintentional"	"1"	24	63460	37.8
+	"Chippewa County, WI"	"55017"	"2014"	"2014"	"Suicide"	"2"	10	63460	Unreliable
+	"Chippewa County, WI"	"55017"	"2015"	"2015"	"Unintentional"	"1"	39	63531	61.4
+	"Chippewa County, WI"	"55017"	"2015"	"2015"	"Suicide"	"2"	15	63531	Unreliable
+	"Chippewa County, WI"	"55017"	"2016"	"2016"	"Unintentional"	"1"	32	63649	50.3
+	"Chippewa County, WI"	"55017"	"2016"	"2016"	"Suicide"	"2"	14	63649	Unreliable
+	"Chippewa County, WI"	"55017"	"2017"	"2017"	"Unintentional"	"1"	37	63813	58.0
+	"Chippewa County, WI"	"55017"	"2017"	"2017"	"Suicide"	"2"	10	63813	Unreliable
+	"Chippewa County, WI"	"55017"	"2018"	"2018"	"Unintentional"	"1"	32	64135	49.9
+	"Chippewa County, WI"	"55017"	"2018"	"2018"	"Suicide"	"2"	14	64135	Unreliable
+	"Clark County, WI"	"55019"	"1999"	"1999"	"Unintentional"	"1"	13	33418	Unreliable
+	"Clark County, WI"	"55019"	"2000"	"2000"	"Unintentional"	"1"	19	33557	Unreliable
+	"Clark County, WI"	"55019"	"2001"	"2001"	"Unintentional"	"1"	15	33763	Unreliable
+	"Clark County, WI"	"55019"	"2002"	"2002"	"Unintentional"	"1"	35	33851	103.4
+	"Clark County, WI"	"55019"	"2003"	"2003"	"Unintentional"	"1"	24	34066	70.5
+	"Clark County, WI"	"55019"	"2004"	"2004"	"Unintentional"	"1"	21	34234	61.3
+	"Clark County, WI"	"55019"	"2005"	"2005"	"Unintentional"	"1"	24	34334	69.9
+	"Clark County, WI"	"55019"	"2006"	"2006"	"Unintentional"	"1"	18	34399	Unreliable
+	"Clark County, WI"	"55019"	"2007"	"2007"	"Unintentional"	"1"	15	34435	Unreliable
+	"Clark County, WI"	"55019"	"2008"	"2008"	"Unintentional"	"1"	18	34644	Unreliable
+	"Clark County, WI"	"55019"	"2009"	"2009"	"Unintentional"	"1"	15	34589	Unreliable
+	"Clark County, WI"	"55019"	"2010"	"2010"	"Unintentional"	"1"	15	34690	Unreliable
+	"Clark County, WI"	"55019"	"2011"	"2011"	"Unintentional"	"1"	14	34742	Unreliable
+	"Clark County, WI"	"55019"	"2012"	"2012"	"Unintentional"	"1"	19	34435	Unreliable
+	"Clark County, WI"	"55019"	"2013"	"2013"	"Unintentional"	"1"	20	34615	57.8
+	"Clark County, WI"	"55019"	"2015"	"2015"	"Unintentional"	"1"	14	34445	Unreliable
+	"Clark County, WI"	"55019"	"2016"	"2016"	"Unintentional"	"1"	22	34557	63.7
+	"Clark County, WI"	"55019"	"2017"	"2017"	"Unintentional"	"1"	25	34679	72.1
+	"Clark County, WI"	"55019"	"2018"	"2018"	"Unintentional"	"1"	20	34709	57.6
+	"Columbia County, WI"	"55021"	"1999"	"1999"	"Unintentional"	"1"	17	51949	Unreliable
+	"Columbia County, WI"	"55021"	"1999"	"1999"	"Suicide"	"2"	12	51949	Unreliable
+	"Columbia County, WI"	"55021"	"2000"	"2000"	"Unintentional"	"1"	20	52468	38.1
+	"Columbia County, WI"	"55021"	"2001"	"2001"	"Unintentional"	"1"	22	53167	41.4
+	"Columbia County, WI"	"55021"	"2002"	"2002"	"Unintentional"	"1"	30	53488	56.1
+	"Columbia County, WI"	"55021"	"2003"	"2003"	"Unintentional"	"1"	28	54168	51.7
+	"Columbia County, WI"	"55021"	"2004"	"2004"	"Unintentional"	"1"	26	55048	47.2
+	"Columbia County, WI"	"55021"	"2005"	"2005"	"Unintentional"	"1"	25	55409	45.1
+	"Columbia County, WI"	"55021"	"2006"	"2006"	"Unintentional"	"1"	32	55820	57.3
+	"Columbia County, WI"	"55021"	"2007"	"2007"	"Unintentional"	"1"	35	56197	62.3
+	"Columbia County, WI"	"55021"	"2007"	"2007"	"Suicide"	"2"	12	56197	Unreliable
+	"Columbia County, WI"	"55021"	"2008"	"2008"	"Unintentional"	"1"	32	56362	56.8
+	"Columbia County, WI"	"55021"	"2009"	"2009"	"Unintentional"	"1"	22	56469	39.0
+	"Columbia County, WI"	"55021"	"2010"	"2010"	"Unintentional"	"1"	27	56833	47.5
+	"Columbia County, WI"	"55021"	"2011"	"2011"	"Unintentional"	"1"	43	56909	75.6
+	"Columbia County, WI"	"55021"	"2012"	"2012"	"Unintentional"	"1"	32	56539	56.6
+	"Columbia County, WI"	"55021"	"2012"	"2012"	"Suicide"	"2"	12	56539	Unreliable
+	"Columbia County, WI"	"55021"	"2013"	"2013"	"Unintentional"	"1"	40	56653	70.6
+	"Columbia County, WI"	"55021"	"2013"	"2013"	"Suicide"	"2"	15	56653	Unreliable
+	"Columbia County, WI"	"55021"	"2014"	"2014"	"Unintentional"	"1"	26	56615	45.9
+	"Columbia County, WI"	"55021"	"2014"	"2014"	"Suicide"	"2"	10	56615	Unreliable
+	"Columbia County, WI"	"55021"	"2015"	"2015"	"Unintentional"	"1"	46	56743	81.1
+	"Columbia County, WI"	"55021"	"2015"	"2015"	"Suicide"	"2"	15	56743	Unreliable
+	"Columbia County, WI"	"55021"	"2016"	"2016"	"Unintentional"	"1"	47	56927	82.6
+	"Columbia County, WI"	"55021"	"2016"	"2016"	"Suicide"	"2"	14	56927	Unreliable
+	"Columbia County, WI"	"55021"	"2017"	"2017"	"Unintentional"	"1"	47	57248	82.1
+	"Columbia County, WI"	"55021"	"2018"	"2018"	"Unintentional"	"1"	45	57358	78.5
+	"Crawford County, WI"	"55023"	"2002"	"2002"	"Unintentional"	"1"	11	16984	Unreliable
+	"Crawford County, WI"	"55023"	"2005"	"2005"	"Unintentional"	"1"	17	16895	Unreliable
+	"Crawford County, WI"	"55023"	"2006"	"2006"	"Unintentional"	"1"	12	16953	Unreliable
+	"Crawford County, WI"	"55023"	"2007"	"2007"	"Unintentional"	"1"	12	16924	Unreliable
+	"Crawford County, WI"	"55023"	"2008"	"2008"	"Unintentional"	"1"	10	16808	Unreliable
+	"Crawford County, WI"	"55023"	"2009"	"2009"	"Unintentional"	"1"	11	16692	Unreliable
+	"Crawford County, WI"	"55023"	"2010"	"2010"	"Unintentional"	"1"	13	16644	Unreliable
+	"Crawford County, WI"	"55023"	"2011"	"2011"	"Unintentional"	"1"	13	16714	Unreliable
+	"Dane County, WI"	"55025"	"1999"	"1999"	"Unintentional"	"1"	115	423248	27.2
+	"Dane County, WI"	"55025"	"1999"	"1999"	"Suicide"	"2"	51	423248	12.0
+	"Dane County, WI"	"55025"	"2000"	"2000"	"Unintentional"	"1"	114	426526	26.7
+	"Dane County, WI"	"55025"	"2000"	"2000"	"Suicide"	"2"	38	426526	8.9
+	"Dane County, WI"	"55025"	"2001"	"2001"	"Unintentional"	"1"	125	434745	28.8
+	"Dane County, WI"	"55025"	"2001"	"2001"	"Suicide"	"2"	49	434745	11.3
+	"Dane County, WI"	"55025"	"2002"	"2002"	"Unintentional"	"1"	122	441623	27.6
+	"Dane County, WI"	"55025"	"2002"	"2002"	"Suicide"	"2"	60	441623	13.6
+	"Dane County, WI"	"55025"	"2003"	"2003"	"Unintentional"	"1"	128	447515	28.6
+	"Dane County, WI"	"55025"	"2003"	"2003"	"Suicide"	"2"	45	447515	10.1
+	"Dane County, WI"	"55025"	"2003"	"2003"	"Homicide"	"3"	12	447515	Unreliable
+	"Dane County, WI"	"55025"	"2004"	"2004"	"Unintentional"	"1"	139	453327	30.7
+	"Dane County, WI"	"55025"	"2004"	"2004"	"Suicide"	"2"	50	453327	11.0
+	"Dane County, WI"	"55025"	"2005"	"2005"	"Unintentional"	"1"	133	459048	29.0
+	"Dane County, WI"	"55025"	"2005"	"2005"	"Suicide"	"2"	49	459048	10.7
+	"Dane County, WI"	"55025"	"2006"	"2006"	"Unintentional"	"1"	150	465018	32.3
+	"Dane County, WI"	"55025"	"2006"	"2006"	"Suicide"	"2"	57	465018	12.3
+	"Dane County, WI"	"55025"	"2007"	"2007"	"Unintentional"	"1"	160	471644	33.9
+	"Dane County, WI"	"55025"	"2007"	"2007"	"Suicide"	"2"	56	471644	11.9
+	"Dane County, WI"	"55025"	"2008"	"2008"	"Unintentional"	"1"	136	477791	28.5
+	"Dane County, WI"	"55025"	"2008"	"2008"	"Suicide"	"2"	51	477791	10.7
+	"Dane County, WI"	"55025"	"2008"	"2008"	"Homicide"	"3"	10	477791	Unreliable
+	"Dane County, WI"	"55025"	"2009"	"2009"	"Unintentional"	"1"	136	484979	28.0
+	"Dane County, WI"	"55025"	"2009"	"2009"	"Suicide"	"2"	57	484979	11.8
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Unintentional"	"1"	157	488073	32.2
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Suicide"	"2"	49	488073	10.0
+	"Dane County, WI"	"55025"	"2011"	"2011"	"Unintentional"	"1"	211	495959	42.5
+	"Dane County, WI"	"55025"	"2011"	"2011"	"Suicide"	"2"	70	495959	14.1
+	"Dane County, WI"	"55025"	"2012"	"2012"	"Unintentional"	"1"	218	503523	43.3
+	"Dane County, WI"	"55025"	"2012"	"2012"	"Suicide"	"2"	65	503523	12.9
+	"Dane County, WI"	"55025"	"2013"	"2013"	"Unintentional"	"1"	259	509939	50.8
+	"Dane County, WI"	"55025"	"2013"	"2013"	"Suicide"	"2"	64	509939	12.6
+	"Dane County, WI"	"55025"	"2014"	"2014"	"Unintentional"	"1"	216	516284	41.8
+	"Dane County, WI"	"55025"	"2014"	"2014"	"Suicide"	"2"	64	516284	12.4
+	"Dane County, WI"	"55025"	"2015"	"2015"	"Unintentional"	"1"	263	523643	50.2
+	"Dane County, WI"	"55025"	"2015"	"2015"	"Suicide"	"2"	69	523643	13.2
+	"Dane County, WI"	"55025"	"2015"	"2015"	"Homicide"	"3"	14	523643	Unreliable
+	"Dane County, WI"	"55025"	"2016"	"2016"	"Unintentional"	"1"	317	531273	59.7
+	"Dane County, WI"	"55025"	"2016"	"2016"	"Suicide"	"2"	72	531273	13.6
+	"Dane County, WI"	"55025"	"2016"	"2016"	"Homicide"	"3"	10	531273	Unreliable
+	"Dane County, WI"	"55025"	"2017"	"2017"	"Unintentional"	"1"	310	536416	57.8
+	"Dane County, WI"	"55025"	"2017"	"2017"	"Suicide"	"2"	72	536416	13.4
+	"Dane County, WI"	"55025"	"2017"	"2017"	"Homicide"	"3"	14	536416	Unreliable
+	"Dane County, WI"	"55025"	"2018"	"2018"	"Unintentional"	"1"	320	542364	59.0
+	"Dane County, WI"	"55025"	"2018"	"2018"	"Suicide"	"2"	75	542364	13.8
+	"Dodge County, WI"	"55027"	"1999"	"1999"	"Unintentional"	"1"	30	85397	35.1
+	"Dodge County, WI"	"55027"	"2000"	"2000"	"Unintentional"	"1"	34	85897	39.6
+	"Dodge County, WI"	"55027"	"2001"	"2001"	"Unintentional"	"1"	30	86385	34.7
+	"Dodge County, WI"	"55027"	"2002"	"2002"	"Unintentional"	"1"	46	86908	52.9
+	"Dodge County, WI"	"55027"	"2002"	"2002"	"Suicide"	"2"	11	86908	Unreliable
+	"Dodge County, WI"	"55027"	"2003"	"2003"	"Unintentional"	"1"	47	87415	53.8
+	"Dodge County, WI"	"55027"	"2003"	"2003"	"Suicide"	"2"	11	87415	Unreliable
+	"Dodge County, WI"	"55027"	"2004"	"2004"	"Unintentional"	"1"	30	88070	34.1
+	"Dodge County, WI"	"55027"	"2005"	"2005"	"Unintentional"	"1"	42	88168	47.6
+	"Dodge County, WI"	"55027"	"2005"	"2005"	"Suicide"	"2"	10	88168	Unreliable
+	"Dodge County, WI"	"55027"	"2006"	"2006"	"Unintentional"	"1"	41	89003	46.1
+	"Dodge County, WI"	"55027"	"2007"	"2007"	"Unintentional"	"1"	51	89007	57.3
+	"Dodge County, WI"	"55027"	"2007"	"2007"	"Suicide"	"2"	15	89007	Unreliable
+	"Dodge County, WI"	"55027"	"2008"	"2008"	"Unintentional"	"1"	54	89239	60.5
+	"Dodge County, WI"	"55027"	"2008"	"2008"	"Suicide"	"2"	18	89239	Unreliable
+	"Dodge County, WI"	"55027"	"2009"	"2009"	"Unintentional"	"1"	56	88677	63.2
+	"Dodge County, WI"	"55027"	"2009"	"2009"	"Suicide"	"2"	15	88677	Unreliable
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Unintentional"	"1"	50	88759	56.3
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Suicide"	"2"	17	88759	Unreliable
+	"Dodge County, WI"	"55027"	"2011"	"2011"	"Unintentional"	"1"	46	88661	51.9
+	"Dodge County, WI"	"55027"	"2011"	"2011"	"Suicide"	"2"	12	88661	Unreliable
+	"Dodge County, WI"	"55027"	"2012"	"2012"	"Unintentional"	"1"	50	88415	56.6
+	"Dodge County, WI"	"55027"	"2012"	"2012"	"Suicide"	"2"	10	88415	Unreliable
+	"Dodge County, WI"	"55027"	"2013"	"2013"	"Unintentional"	"1"	55	88344	62.3
+	"Dodge County, WI"	"55027"	"2013"	"2013"	"Suicide"	"2"	11	88344	Unreliable
+	"Dodge County, WI"	"55027"	"2014"	"2014"	"Unintentional"	"1"	57	88574	64.4
+	"Dodge County, WI"	"55027"	"2014"	"2014"	"Suicide"	"2"	13	88574	Unreliable
+	"Dodge County, WI"	"55027"	"2015"	"2015"	"Unintentional"	"1"	69	88502	78.0
+	"Dodge County, WI"	"55027"	"2015"	"2015"	"Suicide"	"2"	17	88502	Unreliable
+	"Dodge County, WI"	"55027"	"2016"	"2016"	"Unintentional"	"1"	67	88068	76.1
+	"Dodge County, WI"	"55027"	"2016"	"2016"	"Suicide"	"2"	12	88068	Unreliable
+	"Dodge County, WI"	"55027"	"2017"	"2017"	"Unintentional"	"1"	73	87786	83.2
+	"Dodge County, WI"	"55027"	"2017"	"2017"	"Suicide"	"2"	17	87786	Unreliable
+	"Dodge County, WI"	"55027"	"2018"	"2018"	"Unintentional"	"1"	80	87847	91.1
+	"Dodge County, WI"	"55027"	"2018"	"2018"	"Suicide"	"2"	13	87847	Unreliable
+	"Door County, WI"	"55029"	"1999"	"1999"	"Unintentional"	"1"	21	27681	75.9
+	"Door County, WI"	"55029"	"2000"	"2000"	"Unintentional"	"1"	15	27961	Unreliable
+	"Door County, WI"	"55029"	"2001"	"2001"	"Unintentional"	"1"	14	28159	Unreliable
+	"Door County, WI"	"55029"	"2002"	"2002"	"Unintentional"	"1"	17	28249	Unreliable
+	"Door County, WI"	"55029"	"2003"	"2003"	"Unintentional"	"1"	18	28313	Unreliable
+	"Door County, WI"	"55029"	"2004"	"2004"	"Unintentional"	"1"	10	28213	Unreliable
+	"Door County, WI"	"55029"	"2005"	"2005"	"Unintentional"	"1"	16	28146	Unreliable
+	"Door County, WI"	"55029"	"2006"	"2006"	"Unintentional"	"1"	13	28167	Unreliable
+	"Door County, WI"	"55029"	"2007"	"2007"	"Unintentional"	"1"	14	27957	Unreliable
+	"Door County, WI"	"55029"	"2008"	"2008"	"Unintentional"	"1"	17	28023	Unreliable
+	"Door County, WI"	"55029"	"2009"	"2009"	"Unintentional"	"1"	10	27919	Unreliable
+	"Door County, WI"	"55029"	"2010"	"2010"	"Unintentional"	"1"	12	27785	Unreliable
+	"Door County, WI"	"55029"	"2011"	"2011"	"Unintentional"	"1"	11	27820	Unreliable
+	"Door County, WI"	"55029"	"2012"	"2012"	"Unintentional"	"1"	10	27817	Unreliable
+	"Door County, WI"	"55029"	"2013"	"2013"	"Unintentional"	"1"	11	27896	Unreliable
+	"Door County, WI"	"55029"	"2014"	"2014"	"Unintentional"	"1"	18	27766	Unreliable
+	"Door County, WI"	"55029"	"2015"	"2015"	"Unintentional"	"1"	14	27554	Unreliable
+	"Door County, WI"	"55029"	"2016"	"2016"	"Unintentional"	"1"	21	27587	76.1
+	"Door County, WI"	"55029"	"2017"	"2017"	"Unintentional"	"1"	22	27483	80.0
+	"Door County, WI"	"55029"	"2018"	"2018"	"Unintentional"	"1"	28	27610	101.4
+	"Douglas County, WI"	"55031"	"1999"	"1999"	"Unintentional"	"1"	19	42960	Unreliable
+	"Douglas County, WI"	"55031"	"2000"	"2000"	"Unintentional"	"1"	22	43287	50.8
+	"Douglas County, WI"	"55031"	"2001"	"2001"	"Unintentional"	"1"	26	43529	59.7
+	"Douglas County, WI"	"55031"	"2001"	"2001"	"Suicide"	"2"	12	43529	Unreliable
+	"Douglas County, WI"	"55031"	"2002"	"2002"	"Unintentional"	"1"	25	43593	57.3
+	"Douglas County, WI"	"55031"	"2003"	"2003"	"Unintentional"	"1"	16	43790	Unreliable
+	"Douglas County, WI"	"55031"	"2004"	"2004"	"Unintentional"	"1"	16	43833	Unreliable
+	"Douglas County, WI"	"55031"	"2005"	"2005"	"Unintentional"	"1"	35	43872	79.8
+	"Douglas County, WI"	"55031"	"2006"	"2006"	"Unintentional"	"1"	20	43815	45.6
+	"Douglas County, WI"	"55031"	"2007"	"2007"	"Unintentional"	"1"	34	43710	77.8
+	"Douglas County, WI"	"55031"	"2008"	"2008"	"Unintentional"	"1"	18	43830	Unreliable
+	"Douglas County, WI"	"55031"	"2008"	"2008"	"Suicide"	"2"	10	43830	Unreliable
+	"Douglas County, WI"	"55031"	"2009"	"2009"	"Unintentional"	"1"	21	43998	47.7
+	"Douglas County, WI"	"55031"	"2010"	"2010"	"Unintentional"	"1"	17	44159	Unreliable
+	"Douglas County, WI"	"55031"	"2010"	"2010"	"Suicide"	"2"	12	44159	Unreliable
+	"Douglas County, WI"	"55031"	"2011"	"2011"	"Unintentional"	"1"	25	44105	56.7
+	"Douglas County, WI"	"55031"	"2012"	"2012"	"Unintentional"	"1"	25	43785	57.1
+	"Douglas County, WI"	"55031"	"2013"	"2013"	"Unintentional"	"1"	23	43887	52.4
+	"Douglas County, WI"	"55031"	"2014"	"2014"	"Unintentional"	"1"	15	43698	Unreliable
+	"Douglas County, WI"	"55031"	"2015"	"2015"	"Unintentional"	"1"	17	43601	Unreliable
+	"Douglas County, WI"	"55031"	"2016"	"2016"	"Unintentional"	"1"	18	43509	Unreliable
+	"Douglas County, WI"	"55031"	"2017"	"2017"	"Unintentional"	"1"	27	43284	62.4
+	"Douglas County, WI"	"55031"	"2018"	"2018"	"Unintentional"	"1"	25	43208	57.9
+	"Douglas County, WI"	"55031"	"2018"	"2018"	"Suicide"	"2"	13	43208	Unreliable
+	"Dunn County, WI"	"55033"	"1999"	"1999"	"Unintentional"	"1"	10	39518	Unreliable
+	"Dunn County, WI"	"55033"	"2000"	"2000"	"Unintentional"	"1"	14	39858	Unreliable
+	"Dunn County, WI"	"55033"	"2001"	"2001"	"Unintentional"	"1"	17	40599	Unreliable
+	"Dunn County, WI"	"55033"	"2002"	"2002"	"Unintentional"	"1"	16	40947	Unreliable
+	"Dunn County, WI"	"55033"	"2003"	"2003"	"Unintentional"	"1"	14	41222	Unreliable
+	"Dunn County, WI"	"55033"	"2004"	"2004"	"Unintentional"	"1"	21	41690	50.4
+	"Dunn County, WI"	"55033"	"2005"	"2005"	"Unintentional"	"1"	19	41988	Unreliable
+	"Dunn County, WI"	"55033"	"2006"	"2006"	"Unintentional"	"1"	13	42828	Unreliable
+	"Dunn County, WI"	"55033"	"2007"	"2007"	"Unintentional"	"1"	14	43148	Unreliable
+	"Dunn County, WI"	"55033"	"2008"	"2008"	"Unintentional"	"1"	24	43382	55.3
+	"Dunn County, WI"	"55033"	"2009"	"2009"	"Unintentional"	"1"	20	43570	45.9
+	"Dunn County, WI"	"55033"	"2010"	"2010"	"Unintentional"	"1"	23	43857	52.4
+	"Dunn County, WI"	"55033"	"2011"	"2011"	"Unintentional"	"1"	21	43971	47.8
+	"Dunn County, WI"	"55033"	"2012"	"2012"	"Unintentional"	"1"	16	44072	Unreliable
+	"Dunn County, WI"	"55033"	"2013"	"2013"	"Unintentional"	"1"	30	44122	68.0
+	"Dunn County, WI"	"55033"	"2014"	"2014"	"Unintentional"	"1"	23	44305	51.9
+	"Dunn County, WI"	"55033"	"2015"	"2015"	"Unintentional"	"1"	24	44497	53.9
+	"Dunn County, WI"	"55033"	"2016"	"2016"	"Unintentional"	"1"	28	44704	62.6
+	"Dunn County, WI"	"55033"	"2017"	"2017"	"Unintentional"	"1"	18	44693	Unreliable
+	"Dunn County, WI"	"55033"	"2018"	"2018"	"Unintentional"	"1"	36	45131	79.8
+	"Eau Claire County, WI"	"55035"	"1999"	"1999"	"Unintentional"	"1"	31	92618	33.5
+	"Eau Claire County, WI"	"55035"	"2000"	"2000"	"Unintentional"	"1"	29	93142	31.1
+	"Eau Claire County, WI"	"55035"	"2000"	"2000"	"Suicide"	"2"	13	93142	Unreliable
+	"Eau Claire County, WI"	"55035"	"2001"	"2001"	"Unintentional"	"1"	28	93835	29.8
+	"Eau Claire County, WI"	"55035"	"2001"	"2001"	"Suicide"	"2"	10	93835	Unreliable
+	"Eau Claire County, WI"	"55035"	"2002"	"2002"	"Unintentional"	"1"	32	94493	33.9
+	"Eau Claire County, WI"	"55035"	"2002"	"2002"	"Suicide"	"2"	13	94493	Unreliable
+	"Eau Claire County, WI"	"55035"	"2003"	"2003"	"Unintentional"	"1"	27	94632	28.5
+	"Eau Claire County, WI"	"55035"	"2003"	"2003"	"Suicide"	"2"	12	94632	Unreliable
+	"Eau Claire County, WI"	"55035"	"2004"	"2004"	"Unintentional"	"1"	22	94618	23.3
+	"Eau Claire County, WI"	"55035"	"2004"	"2004"	"Suicide"	"2"	13	94618	Unreliable
+	"Eau Claire County, WI"	"55035"	"2005"	"2005"	"Unintentional"	"1"	27	95007	28.4
+	"Eau Claire County, WI"	"55035"	"2006"	"2006"	"Unintentional"	"1"	39	95896	40.7
+	"Eau Claire County, WI"	"55035"	"2006"	"2006"	"Suicide"	"2"	11	95896	Unreliable
+	"Eau Claire County, WI"	"55035"	"2007"	"2007"	"Unintentional"	"1"	30	96632	31.0
+	"Eau Claire County, WI"	"55035"	"2007"	"2007"	"Suicide"	"2"	17	96632	Unreliable
+	"Eau Claire County, WI"	"55035"	"2008"	"2008"	"Unintentional"	"1"	39	97176	40.1
+	"Eau Claire County, WI"	"55035"	"2009"	"2009"	"Unintentional"	"1"	29	98274	29.5
+	"Eau Claire County, WI"	"55035"	"2009"	"2009"	"Suicide"	"2"	12	98274	Unreliable
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Unintentional"	"1"	44	98736	44.6
+	"Eau Claire County, WI"	"55035"	"2010"	"2010"	"Suicide"	"2"	12	98736	Unreliable
+	"Eau Claire County, WI"	"55035"	"2011"	"2011"	"Unintentional"	"1"	35	99879	35.0
+	"Eau Claire County, WI"	"55035"	"2011"	"2011"	"Suicide"	"2"	10	99879	Unreliable
+	"Eau Claire County, WI"	"55035"	"2012"	"2012"	"Unintentional"	"1"	39	100677	38.7
+	"Eau Claire County, WI"	"55035"	"2012"	"2012"	"Suicide"	"2"	14	100677	Unreliable
+	"Eau Claire County, WI"	"55035"	"2013"	"2013"	"Unintentional"	"1"	34	101438	33.5
+	"Eau Claire County, WI"	"55035"	"2013"	"2013"	"Suicide"	"2"	18	101438	Unreliable
+	"Eau Claire County, WI"	"55035"	"2014"	"2014"	"Unintentional"	"1"	47	101564	46.3
+	"Eau Claire County, WI"	"55035"	"2014"	"2014"	"Suicide"	"2"	14	101564	Unreliable
+	"Eau Claire County, WI"	"55035"	"2015"	"2015"	"Unintentional"	"1"	52	102105	50.9
+	"Eau Claire County, WI"	"55035"	"2015"	"2015"	"Suicide"	"2"	21	102105	20.6
+	"Eau Claire County, WI"	"55035"	"2016"	"2016"	"Unintentional"	"1"	51	102965	49.5
+	"Eau Claire County, WI"	"55035"	"2016"	"2016"	"Suicide"	"2"	21	102965	20.4
+	"Eau Claire County, WI"	"55035"	"2017"	"2017"	"Unintentional"	"1"	63	103671	60.8
+	"Eau Claire County, WI"	"55035"	"2017"	"2017"	"Suicide"	"2"	17	103671	Unreliable
+	"Eau Claire County, WI"	"55035"	"2018"	"2018"	"Unintentional"	"1"	54	104534	51.7
+	"Eau Claire County, WI"	"55035"	"2018"	"2018"	"Suicide"	"2"	18	104534	Unreliable
+	"Fond du Lac County, WI"	"55039"	"1999"	"1999"	"Unintentional"	"1"	36	96985	37.1
+	"Fond du Lac County, WI"	"55039"	"1999"	"1999"	"Suicide"	"2"	11	96985	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2000"	"2000"	"Unintentional"	"1"	45	97296	46.3
+	"Fond du Lac County, WI"	"55039"	"2001"	"2001"	"Unintentional"	"1"	39	97856	39.9
+	"Fond du Lac County, WI"	"55039"	"2001"	"2001"	"Suicide"	"2"	16	97856	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2002"	"2002"	"Unintentional"	"1"	36	98097	36.7
+	"Fond du Lac County, WI"	"55039"	"2002"	"2002"	"Suicide"	"2"	13	98097	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2003"	"2003"	"Unintentional"	"1"	35	98470	35.5
+	"Fond du Lac County, WI"	"55039"	"2003"	"2003"	"Suicide"	"2"	18	98470	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2004"	"2004"	"Unintentional"	"1"	41	98929	41.4
+	"Fond du Lac County, WI"	"55039"	"2004"	"2004"	"Suicide"	"2"	13	98929	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2005"	"2005"	"Unintentional"	"1"	46	99297	46.3
+	"Fond du Lac County, WI"	"55039"	"2005"	"2005"	"Suicide"	"2"	14	99297	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2006"	"2006"	"Unintentional"	"1"	47	99920	47.0
+	"Fond du Lac County, WI"	"55039"	"2006"	"2006"	"Suicide"	"2"	18	99920	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2007"	"2007"	"Unintentional"	"1"	62	100520	61.7
+	"Fond du Lac County, WI"	"55039"	"2007"	"2007"	"Suicide"	"2"	18	100520	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2008"	"2008"	"Unintentional"	"1"	40	101122	39.6
+	"Fond du Lac County, WI"	"55039"	"2008"	"2008"	"Suicide"	"2"	13	101122	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2009"	"2009"	"Unintentional"	"1"	49	101370	48.3
+	"Fond du Lac County, WI"	"55039"	"2009"	"2009"	"Suicide"	"2"	16	101370	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Unintentional"	"1"	41	101633	40.3
+	"Fond du Lac County, WI"	"55039"	"2010"	"2010"	"Suicide"	"2"	10	101633	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2011"	"2011"	"Unintentional"	"1"	47	102079	46.0
+	"Fond du Lac County, WI"	"55039"	"2011"	"2011"	"Suicide"	"2"	15	102079	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2012"	"2012"	"Unintentional"	"1"	69	101843	67.8
+	"Fond du Lac County, WI"	"55039"	"2012"	"2012"	"Suicide"	"2"	12	101843	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2013"	"2013"	"Unintentional"	"1"	51	101798	50.1
+	"Fond du Lac County, WI"	"55039"	"2013"	"2013"	"Suicide"	"2"	10	101798	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2014"	"2014"	"Unintentional"	"1"	56	101759	55.0
+	"Fond du Lac County, WI"	"55039"	"2014"	"2014"	"Suicide"	"2"	16	101759	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2015"	"2015"	"Unintentional"	"1"	46	101973	45.1
+	"Fond du Lac County, WI"	"55039"	"2015"	"2015"	"Suicide"	"2"	16	101973	Unreliable
+	"Fond du Lac County, WI"	"55039"	"2016"	"2016"	"Unintentional"	"1"	64	102144	62.7
+	"Fond du Lac County, WI"	"55039"	"2016"	"2016"	"Suicide"	"2"	20	102144	19.6
+	"Fond du Lac County, WI"	"55039"	"2017"	"2017"	"Unintentional"	"1"	65	102548	63.4
+	"Fond du Lac County, WI"	"55039"	"2017"	"2017"	"Suicide"	"2"	23	102548	22.4
+	"Fond du Lac County, WI"	"55039"	"2018"	"2018"	"Unintentional"	"1"	83	103066	80.5
+	"Fond du Lac County, WI"	"55039"	"2018"	"2018"	"Suicide"	"2"	11	103066	Unreliable
+	"Forest County, WI"	"55041"	"2010"	"2010"	"Unintentional"	"1"	14	9304	Unreliable
+	"Forest County, WI"	"55041"	"2016"	"2016"	"Unintentional"	"1"	14	9064	Unreliable
+	"Forest County, WI"	"55041"	"2017"	"2017"	"Unintentional"	"1"	12	8970	Unreliable
+	"Forest County, WI"	"55041"	"2018"	"2018"	"Unintentional"	"1"	11	8991	Unreliable
+	"Grant County, WI"	"55043"	"1999"	"1999"	"Unintentional"	"1"	25	49708	50.3
+	"Grant County, WI"	"55043"	"2000"	"2000"	"Unintentional"	"1"	35	49597	70.6
+	"Grant County, WI"	"55043"	"2001"	"2001"	"Unintentional"	"1"	27	49739	54.3
+	"Grant County, WI"	"55043"	"2002"	"2002"	"Unintentional"	"1"	22	49667	44.3
+	"Grant County, WI"	"55043"	"2003"	"2003"	"Unintentional"	"1"	19	49925	Unreliable
+	"Grant County, WI"	"55043"	"2004"	"2004"	"Unintentional"	"1"	27	50143	53.8
+	"Grant County, WI"	"55043"	"2005"	"2005"	"Unintentional"	"1"	15	50244	Unreliable
+	"Grant County, WI"	"55043"	"2005"	"2005"	"Suicide"	"2"	11	50244	Unreliable
+	"Grant County, WI"	"55043"	"2006"	"2006"	"Unintentional"	"1"	18	50051	Unreliable
+	"Grant County, WI"	"55043"	"2007"	"2007"	"Unintentional"	"1"	26	50544	51.4
+	"Grant County, WI"	"55043"	"2008"	"2008"	"Unintentional"	"1"	23	50834	45.2
+	"Grant County, WI"	"55043"	"2008"	"2008"	"Suicide"	"2"	10	50834	Unreliable
+	"Grant County, WI"	"55043"	"2009"	"2009"	"Unintentional"	"1"	16	50916	Unreliable
+	"Grant County, WI"	"55043"	"2009"	"2009"	"Suicide"	"2"	11	50916	Unreliable
+	"Grant County, WI"	"55043"	"2010"	"2010"	"Unintentional"	"1"	25	51208	48.8
+	"Grant County, WI"	"55043"	"2011"	"2011"	"Unintentional"	"1"	18	51210	Unreliable
+	"Grant County, WI"	"55043"	"2012"	"2012"	"Unintentional"	"1"	14	51087	Unreliable
+	"Grant County, WI"	"55043"	"2013"	"2013"	"Unintentional"	"1"	24	51069	47.0
+	"Grant County, WI"	"55043"	"2014"	"2014"	"Unintentional"	"1"	19	51829	Unreliable
+	"Grant County, WI"	"55043"	"2015"	"2015"	"Unintentional"	"1"	29	52250	55.5
+	"Grant County, WI"	"55043"	"2016"	"2016"	"Unintentional"	"1"	32	52214	61.3
+	"Grant County, WI"	"55043"	"2017"	"2017"	"Unintentional"	"1"	24	51999	46.2
+	"Grant County, WI"	"55043"	"2018"	"2018"	"Unintentional"	"1"	21	51554	40.7
+	"Green County, WI"	"55045"	"1999"	"1999"	"Unintentional"	"1"	12	33474	Unreliable
+	"Green County, WI"	"55045"	"2000"	"2000"	"Unintentional"	"1"	13	33647	Unreliable
+	"Green County, WI"	"55045"	"2001"	"2001"	"Unintentional"	"1"	10	33929	Unreliable
+	"Green County, WI"	"55045"	"2002"	"2002"	"Unintentional"	"1"	14	34177	Unreliable
+	"Green County, WI"	"55045"	"2003"	"2003"	"Unintentional"	"1"	19	34301	Unreliable
+	"Green County, WI"	"55045"	"2004"	"2004"	"Unintentional"	"1"	15	34801	Unreliable
+	"Green County, WI"	"55045"	"2005"	"2005"	"Unintentional"	"1"	14	35174	Unreliable
+	"Green County, WI"	"55045"	"2006"	"2006"	"Unintentional"	"1"	18	35869	Unreliable
+	"Green County, WI"	"55045"	"2007"	"2007"	"Unintentional"	"1"	15	36234	Unreliable
+	"Green County, WI"	"55045"	"2008"	"2008"	"Unintentional"	"1"	17	36598	Unreliable
+	"Green County, WI"	"55045"	"2009"	"2009"	"Unintentional"	"1"	17	36672	Unreliable
+	"Green County, WI"	"55045"	"2010"	"2010"	"Unintentional"	"1"	24	36842	65.1
+	"Green County, WI"	"55045"	"2011"	"2011"	"Unintentional"	"1"	18	36891	Unreliable
+	"Green County, WI"	"55045"	"2012"	"2012"	"Unintentional"	"1"	19	36909	Unreliable
+	"Green County, WI"	"55045"	"2013"	"2013"	"Unintentional"	"1"	23	37090	62.0
+	"Green County, WI"	"55045"	"2014"	"2014"	"Unintentional"	"1"	17	37063	Unreliable
+	"Green County, WI"	"55045"	"2015"	"2015"	"Unintentional"	"1"	17	37186	Unreliable
+	"Green County, WI"	"55045"	"2016"	"2016"	"Unintentional"	"1"	22	37075	59.3
+	"Green County, WI"	"55045"	"2017"	"2017"	"Unintentional"	"1"	15	36851	Unreliable
+	"Green County, WI"	"55045"	"2018"	"2018"	"Unintentional"	"1"	16	36929	Unreliable
+	"Green Lake County, WI"	"55047"	"2003"	"2003"	"Unintentional"	"1"	11	19253	Unreliable
+	"Green Lake County, WI"	"55047"	"2005"	"2005"	"Unintentional"	"1"	10	19187	Unreliable
+	"Green Lake County, WI"	"55047"	"2007"	"2007"	"Unintentional"	"1"	13	19144	Unreliable
+	"Green Lake County, WI"	"55047"	"2008"	"2008"	"Unintentional"	"1"	13	19102	Unreliable
+	"Green Lake County, WI"	"55047"	"2009"	"2009"	"Unintentional"	"1"	12	19056	Unreliable
+	"Green Lake County, WI"	"55047"	"2010"	"2010"	"Unintentional"	"1"	10	19051	Unreliable
+	"Green Lake County, WI"	"55047"	"2012"	"2012"	"Unintentional"	"1"	11	19039	Unreliable
+	"Green Lake County, WI"	"55047"	"2014"	"2014"	"Unintentional"	"1"	14	18836	Unreliable
+	"Green Lake County, WI"	"55047"	"2015"	"2015"	"Unintentional"	"1"	11	18856	Unreliable
+	"Green Lake County, WI"	"55047"	"2016"	"2016"	"Unintentional"	"1"	21	18719	112.2
+	"Green Lake County, WI"	"55047"	"2017"	"2017"	"Unintentional"	"1"	17	18760	Unreliable
+	"Green Lake County, WI"	"55047"	"2018"	"2018"	"Unintentional"	"1"	14	18918	Unreliable
+	"Iowa County, WI"	"55049"	"2001"	"2001"	"Unintentional"	"1"	16	22932	Unreliable
+	"Iowa County, WI"	"55049"	"2002"	"2002"	"Unintentional"	"1"	15	23017	Unreliable
+	"Iowa County, WI"	"55049"	"2003"	"2003"	"Unintentional"	"1"	14	23154	Unreliable
+	"Iowa County, WI"	"55049"	"2004"	"2004"	"Unintentional"	"1"	13	23187	Unreliable
+	"Iowa County, WI"	"55049"	"2005"	"2005"	"Unintentional"	"1"	10	23405	Unreliable
+	"Iowa County, WI"	"55049"	"2006"	"2006"	"Unintentional"	"1"	12	23589	Unreliable
+	"Iowa County, WI"	"55049"	"2007"	"2007"	"Unintentional"	"1"	11	23636	Unreliable
+	"Iowa County, WI"	"55049"	"2008"	"2008"	"Unintentional"	"1"	12	23701	Unreliable
+	"Iowa County, WI"	"55049"	"2010"	"2010"	"Unintentional"	"1"	12	23687	Unreliable
+	"Iowa County, WI"	"55049"	"2012"	"2012"	"Unintentional"	"1"	12	23807	Unreliable
+	"Iowa County, WI"	"55049"	"2013"	"2013"	"Unintentional"	"1"	15	23749	Unreliable
+	"Iowa County, WI"	"55049"	"2014"	"2014"	"Unintentional"	"1"	13	23825	Unreliable
+	"Iowa County, WI"	"55049"	"2016"	"2016"	"Unintentional"	"1"	23	23654	97.2
+	"Iowa County, WI"	"55049"	"2017"	"2017"	"Unintentional"	"1"	16	23715	Unreliable
+	"Iowa County, WI"	"55049"	"2018"	"2018"	"Unintentional"	"1"	14	23771	Unreliable
+	"Jackson County, WI"	"55053"	"2003"	"2003"	"Unintentional"	"1"	10	19641	Unreliable
+	"Jackson County, WI"	"55053"	"2005"	"2005"	"Unintentional"	"1"	22	19885	110.6
+	"Jackson County, WI"	"55053"	"2006"	"2006"	"Unintentional"	"1"	15	20016	Unreliable
+	"Jackson County, WI"	"55053"	"2007"	"2007"	"Unintentional"	"1"	15	20227	Unreliable
+	"Jackson County, WI"	"55053"	"2011"	"2011"	"Unintentional"	"1"	10	20565	Unreliable
+	"Jackson County, WI"	"55053"	"2012"	"2012"	"Unintentional"	"1"	13	20485	Unreliable
+	"Jackson County, WI"	"55053"	"2013"	"2013"	"Unintentional"	"1"	12	20644	Unreliable
+	"Jackson County, WI"	"55053"	"2014"	"2014"	"Unintentional"	"1"	19	20652	Unreliable
+	"Jackson County, WI"	"55053"	"2015"	"2015"	"Unintentional"	"1"	21	20554	102.2
+	"Jackson County, WI"	"55053"	"2016"	"2016"	"Unintentional"	"1"	17	20562	Unreliable
+	"Jackson County, WI"	"55053"	"2017"	"2017"	"Unintentional"	"1"	19	20529	Unreliable
+	"Jackson County, WI"	"55053"	"2018"	"2018"	"Unintentional"	"1"	19	20478	Unreliable
+	"Jefferson County, WI"	"55055"	"1999"	"1999"	"Unintentional"	"1"	21	73660	28.5
+	"Jefferson County, WI"	"55055"	"1999"	"1999"	"Suicide"	"2"	10	73660	Unreliable
+	"Jefferson County, WI"	"55055"	"2000"	"2000"	"Unintentional"	"1"	35	74021	47.3
+	"Jefferson County, WI"	"55055"	"2001"	"2001"	"Unintentional"	"1"	29	76736	37.8
+	"Jefferson County, WI"	"55055"	"2001"	"2001"	"Suicide"	"2"	11	76736	Unreliable
+	"Jefferson County, WI"	"55055"	"2002"	"2002"	"Unintentional"	"1"	28	77376	36.2
+	"Jefferson County, WI"	"55055"	"2002"	"2002"	"Suicide"	"2"	14	77376	Unreliable
+	"Jefferson County, WI"	"55055"	"2003"	"2003"	"Unintentional"	"1"	30	78148	38.4
+	"Jefferson County, WI"	"55055"	"2003"	"2003"	"Suicide"	"2"	15	78148	Unreliable
+	"Jefferson County, WI"	"55055"	"2004"	"2004"	"Unintentional"	"1"	24	79408	30.2
+	"Jefferson County, WI"	"55055"	"2004"	"2004"	"Suicide"	"2"	11	79408	Unreliable
+	"Jefferson County, WI"	"55055"	"2005"	"2005"	"Unintentional"	"1"	35	80392	43.5
+	"Jefferson County, WI"	"55055"	"2005"	"2005"	"Suicide"	"2"	12	80392	Unreliable
+	"Jefferson County, WI"	"55055"	"2006"	"2006"	"Unintentional"	"1"	29	81300	35.7
+	"Jefferson County, WI"	"55055"	"2006"	"2006"	"Suicide"	"2"	11	81300	Unreliable
+	"Jefferson County, WI"	"55055"	"2007"	"2007"	"Unintentional"	"1"	45	82276	54.7
+	"Jefferson County, WI"	"55055"	"2008"	"2008"	"Unintentional"	"1"	37	83140	44.5
+	"Jefferson County, WI"	"55055"	"2008"	"2008"	"Suicide"	"2"	14	83140	Unreliable
+	"Jefferson County, WI"	"55055"	"2009"	"2009"	"Unintentional"	"1"	41	83480	49.1
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Unintentional"	"1"	30	83686	35.8
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Suicide"	"2"	14	83686	Unreliable
+	"Jefferson County, WI"	"55055"	"2011"	"2011"	"Unintentional"	"1"	23	83943	27.4
+	"Jefferson County, WI"	"55055"	"2012"	"2012"	"Unintentional"	"1"	24	84498	28.4
+	"Jefferson County, WI"	"55055"	"2013"	"2013"	"Unintentional"	"1"	35	84509	41.4
+	"Jefferson County, WI"	"55055"	"2014"	"2014"	"Unintentional"	"1"	40	84395	47.4
+	"Jefferson County, WI"	"55055"	"2014"	"2014"	"Suicide"	"2"	12	84395	Unreliable
+	"Jefferson County, WI"	"55055"	"2015"	"2015"	"Unintentional"	"1"	41	84559	48.5
+	"Jefferson County, WI"	"55055"	"2015"	"2015"	"Suicide"	"2"	13	84559	Unreliable
+	"Jefferson County, WI"	"55055"	"2016"	"2016"	"Unintentional"	"1"	50	84625	59.1
+	"Jefferson County, WI"	"55055"	"2016"	"2016"	"Suicide"	"2"	10	84625	Unreliable
+	"Jefferson County, WI"	"55055"	"2017"	"2017"	"Unintentional"	"1"	64	84832	75.4
+	"Jefferson County, WI"	"55055"	"2017"	"2017"	"Suicide"	"2"	17	84832	Unreliable
+	"Jefferson County, WI"	"55055"	"2018"	"2018"	"Unintentional"	"1"	61	85129	71.7
+	"Jefferson County, WI"	"55055"	"2018"	"2018"	"Suicide"	"2"	14	85129	Unreliable
+	"Juneau County, WI"	"55057"	"1999"	"1999"	"Unintentional"	"1"	14	24184	Unreliable
+	"Juneau County, WI"	"55057"	"2000"	"2000"	"Unintentional"	"1"	16	24316	Unreliable
+	"Juneau County, WI"	"55057"	"2001"	"2001"	"Unintentional"	"1"	15	24546	Unreliable
+	"Juneau County, WI"	"55057"	"2002"	"2002"	"Unintentional"	"1"	17	25050	Unreliable
+	"Juneau County, WI"	"55057"	"2003"	"2003"	"Unintentional"	"1"	20	25186	79.4
+	"Juneau County, WI"	"55057"	"2004"	"2004"	"Unintentional"	"1"	17	25445	Unreliable
+	"Juneau County, WI"	"55057"	"2005"	"2005"	"Unintentional"	"1"	17	26589	Unreliable
+	"Juneau County, WI"	"55057"	"2006"	"2006"	"Unintentional"	"1"	15	26695	Unreliable
+	"Juneau County, WI"	"55057"	"2007"	"2007"	"Unintentional"	"1"	23	26755	86.0
+	"Juneau County, WI"	"55057"	"2008"	"2008"	"Unintentional"	"1"	15	26825	Unreliable
+	"Juneau County, WI"	"55057"	"2009"	"2009"	"Unintentional"	"1"	21	26728	78.6
+	"Juneau County, WI"	"55057"	"2010"	"2010"	"Unintentional"	"1"	19	26664	Unreliable
+	"Juneau County, WI"	"55057"	"2011"	"2011"	"Unintentional"	"1"	23	26722	86.1
+	"Juneau County, WI"	"55057"	"2012"	"2012"	"Unintentional"	"1"	19	26631	Unreliable
+	"Juneau County, WI"	"55057"	"2013"	"2013"	"Unintentional"	"1"	22	26547	82.9
+	"Juneau County, WI"	"55057"	"2014"	"2014"	"Unintentional"	"1"	18	26395	Unreliable
+	"Juneau County, WI"	"55057"	"2015"	"2015"	"Unintentional"	"1"	26	26224	99.1
+	"Juneau County, WI"	"55057"	"2016"	"2016"	"Unintentional"	"1"	17	26274	Unreliable
+	"Juneau County, WI"	"55057"	"2017"	"2017"	"Unintentional"	"1"	18	26576	Unreliable
+	"Juneau County, WI"	"55057"	"2018"	"2018"	"Unintentional"	"1"	23	26617	86.4
+	"Kenosha County, WI"	"55059"	"1999"	"1999"	"Unintentional"	"1"	52	148321	35.1
+	"Kenosha County, WI"	"55059"	"1999"	"1999"	"Suicide"	"2"	20	148321	13.5
+	"Kenosha County, WI"	"55059"	"2000"	"2000"	"Unintentional"	"1"	66	149577	44.1
+	"Kenosha County, WI"	"55059"	"2000"	"2000"	"Suicide"	"2"	20	149577	13.4
+	"Kenosha County, WI"	"55059"	"2001"	"2001"	"Unintentional"	"1"	59	151962	38.8
+	"Kenosha County, WI"	"55059"	"2001"	"2001"	"Suicide"	"2"	25	151962	16.5
+	"Kenosha County, WI"	"55059"	"2002"	"2002"	"Unintentional"	"1"	52	153905	33.8
+	"Kenosha County, WI"	"55059"	"2002"	"2002"	"Suicide"	"2"	19	153905	Unreliable
+	"Kenosha County, WI"	"55059"	"2003"	"2003"	"Unintentional"	"1"	54	155946	34.6
+	"Kenosha County, WI"	"55059"	"2003"	"2003"	"Suicide"	"2"	19	155946	Unreliable
+	"Kenosha County, WI"	"55059"	"2004"	"2004"	"Unintentional"	"1"	62	157968	39.2
+	"Kenosha County, WI"	"55059"	"2004"	"2004"	"Suicide"	"2"	19	157968	Unreliable
+	"Kenosha County, WI"	"55059"	"2005"	"2005"	"Unintentional"	"1"	62	160088	38.7
+	"Kenosha County, WI"	"55059"	"2005"	"2005"	"Suicide"	"2"	24	160088	15.0
+	"Kenosha County, WI"	"55059"	"2006"	"2006"	"Unintentional"	"1"	74	161607	45.8
+	"Kenosha County, WI"	"55059"	"2006"	"2006"	"Suicide"	"2"	29	161607	17.9
+	"Kenosha County, WI"	"55059"	"2007"	"2007"	"Unintentional"	"1"	80	163223	49.0
+	"Kenosha County, WI"	"55059"	"2007"	"2007"	"Suicide"	"2"	30	163223	18.4
+	"Kenosha County, WI"	"55059"	"2008"	"2008"	"Unintentional"	"1"	76	164636	46.2
+	"Kenosha County, WI"	"55059"	"2008"	"2008"	"Suicide"	"2"	17	164636	Unreliable
+	"Kenosha County, WI"	"55059"	"2009"	"2009"	"Unintentional"	"1"	52	165502	31.4
+	"Kenosha County, WI"	"55059"	"2009"	"2009"	"Suicide"	"2"	18	165502	Unreliable
+	"Kenosha County, WI"	"55059"	"2009"	"2009"	"Undetermined "	"4"	14	165502	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Unintentional"	"1"	68	166426	40.9
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Suicide"	"2"	24	166426	14.4
+	"Kenosha County, WI"	"55059"	"2011"	"2011"	"Unintentional"	"1"	77	167293	46.0
+	"Kenosha County, WI"	"55059"	"2011"	"2011"	"Suicide"	"2"	21	167293	12.6
+	"Kenosha County, WI"	"55059"	"2012"	"2012"	"Unintentional"	"1"	85	167936	50.6
+	"Kenosha County, WI"	"55059"	"2012"	"2012"	"Suicide"	"2"	20	167936	11.9
+	"Kenosha County, WI"	"55059"	"2013"	"2013"	"Unintentional"	"1"	112	167757	66.8
+	"Kenosha County, WI"	"55059"	"2013"	"2013"	"Suicide"	"2"	23	167757	13.7
+	"Kenosha County, WI"	"55059"	"2014"	"2014"	"Unintentional"	"1"	109	168068	64.9
+	"Kenosha County, WI"	"55059"	"2014"	"2014"	"Suicide"	"2"	24	168068	14.3
+	"Kenosha County, WI"	"55059"	"2015"	"2015"	"Unintentional"	"1"	111	168437	65.9
+	"Kenosha County, WI"	"55059"	"2015"	"2015"	"Suicide"	"2"	31	168437	18.4
+	"Kenosha County, WI"	"55059"	"2015"	"2015"	"Homicide"	"3"	10	168437	Unreliable
+	"Kenosha County, WI"	"55059"	"2016"	"2016"	"Unintentional"	"1"	118	168183	70.2
+	"Kenosha County, WI"	"55059"	"2016"	"2016"	"Suicide"	"2"	23	168183	13.7
+	"Kenosha County, WI"	"55059"	"2017"	"2017"	"Unintentional"	"1"	118	168521	70.0
+	"Kenosha County, WI"	"55059"	"2017"	"2017"	"Suicide"	"2"	24	168521	14.2
+	"Kenosha County, WI"	"55059"	"2018"	"2018"	"Unintentional"	"1"	121	169290	71.5
+	"Kenosha County, WI"	"55059"	"2018"	"2018"	"Suicide"	"2"	19	169290	Unreliable
+	"Kewaunee County, WI"	"55061"	"2002"	"2002"	"Unintentional"	"1"	12	20434	Unreliable
+	"Kewaunee County, WI"	"55061"	"2003"	"2003"	"Unintentional"	"1"	12	20402	Unreliable
+	"Kewaunee County, WI"	"55061"	"2005"	"2005"	"Unintentional"	"1"	16	20650	Unreliable
+	"Kewaunee County, WI"	"55061"	"2007"	"2007"	"Unintentional"	"1"	11	20694	Unreliable
+	"Kewaunee County, WI"	"55061"	"2011"	"2011"	"Unintentional"	"1"	15	20589	Unreliable
+	"Kewaunee County, WI"	"55061"	"2012"	"2012"	"Unintentional"	"1"	10	20624	Unreliable
+	"Kewaunee County, WI"	"55061"	"2013"	"2013"	"Unintentional"	"1"	12	20505	Unreliable
+	"Kewaunee County, WI"	"55061"	"2017"	"2017"	"Unintentional"	"1"	14	20445	Unreliable
+	"Kewaunee County, WI"	"55061"	"2018"	"2018"	"Unintentional"	"1"	15	20383	Unreliable
+	"La Crosse County, WI"	"55063"	"1999"	"1999"	"Unintentional"	"1"	30	106410	28.2
+	"La Crosse County, WI"	"55063"	"2000"	"2000"	"Unintentional"	"1"	26	107120	24.3
+	"La Crosse County, WI"	"55063"	"2001"	"2001"	"Unintentional"	"1"	54	107761	50.1
+	"La Crosse County, WI"	"55063"	"2002"	"2002"	"Unintentional"	"1"	32	108477	29.5
+	"La Crosse County, WI"	"55063"	"2002"	"2002"	"Suicide"	"2"	19	108477	Unreliable
+	"La Crosse County, WI"	"55063"	"2003"	"2003"	"Unintentional"	"1"	33	109065	30.3
+	"La Crosse County, WI"	"55063"	"2004"	"2004"	"Unintentional"	"1"	49	109410	44.8
+	"La Crosse County, WI"	"55063"	"2004"	"2004"	"Suicide"	"2"	15	109410	Unreliable
+	"La Crosse County, WI"	"55063"	"2005"	"2005"	"Unintentional"	"1"	24	109976	21.8
+	"La Crosse County, WI"	"55063"	"2005"	"2005"	"Suicide"	"2"	10	109976	Unreliable
+	"La Crosse County, WI"	"55063"	"2006"	"2006"	"Unintentional"	"1"	34	110641	30.7
+	"La Crosse County, WI"	"55063"	"2006"	"2006"	"Suicide"	"2"	13	110641	Unreliable
+	"La Crosse County, WI"	"55063"	"2007"	"2007"	"Unintentional"	"1"	32	111798	28.6
+	"La Crosse County, WI"	"55063"	"2007"	"2007"	"Suicide"	"2"	15	111798	Unreliable
+	"La Crosse County, WI"	"55063"	"2008"	"2008"	"Unintentional"	"1"	30	112761	26.6
+	"La Crosse County, WI"	"55063"	"2008"	"2008"	"Suicide"	"2"	11	112761	Unreliable
+	"La Crosse County, WI"	"55063"	"2009"	"2009"	"Unintentional"	"1"	44	114021	38.6
+	"La Crosse County, WI"	"55063"	"2009"	"2009"	"Suicide"	"2"	15	114021	Unreliable
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Unintentional"	"1"	66	114638	57.6
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Suicide"	"2"	21	114638	18.3
+	"La Crosse County, WI"	"55063"	"2011"	"2011"	"Unintentional"	"1"	57	115572	49.3
+	"La Crosse County, WI"	"55063"	"2011"	"2011"	"Suicide"	"2"	13	115572	Unreliable
+	"La Crosse County, WI"	"55063"	"2012"	"2012"	"Unintentional"	"1"	54	116461	46.4
+	"La Crosse County, WI"	"55063"	"2012"	"2012"	"Suicide"	"2"	13	116461	Unreliable
+	"La Crosse County, WI"	"55063"	"2013"	"2013"	"Unintentional"	"1"	60	116713	51.4
+	"La Crosse County, WI"	"55063"	"2013"	"2013"	"Suicide"	"2"	18	116713	Unreliable
+	"La Crosse County, WI"	"55063"	"2014"	"2014"	"Unintentional"	"1"	70	118011	59.3
+	"La Crosse County, WI"	"55063"	"2014"	"2014"	"Suicide"	"2"	26	118011	22.0
+	"La Crosse County, WI"	"55063"	"2015"	"2015"	"Unintentional"	"1"	55	118212	46.5
+	"La Crosse County, WI"	"55063"	"2015"	"2015"	"Suicide"	"2"	25	118212	21.1
+	"La Crosse County, WI"	"55063"	"2016"	"2016"	"Unintentional"	"1"	74	118122	62.6
+	"La Crosse County, WI"	"55063"	"2016"	"2016"	"Suicide"	"2"	19	118122	Unreliable
+	"La Crosse County, WI"	"55063"	"2017"	"2017"	"Unintentional"	"1"	78	118274	65.9
+	"La Crosse County, WI"	"55063"	"2017"	"2017"	"Suicide"	"2"	24	118274	20.3
+	"La Crosse County, WI"	"55063"	"2018"	"2018"	"Unintentional"	"1"	86	118230	72.7
+	"La Crosse County, WI"	"55063"	"2018"	"2018"	"Suicide"	"2"	22	118230	18.6
+	"Lafayette County, WI"	"55065"	"2004"	"2004"	"Unintentional"	"1"	15	16615	Unreliable
+	"Lafayette County, WI"	"55065"	"2005"	"2005"	"Unintentional"	"1"	11	16703	Unreliable
+	"Lafayette County, WI"	"55065"	"2006"	"2006"	"Unintentional"	"1"	11	16785	Unreliable
+	"Lafayette County, WI"	"55065"	"2007"	"2007"	"Unintentional"	"1"	15	16670	Unreliable
+	"Lafayette County, WI"	"55065"	"2009"	"2009"	"Unintentional"	"1"	12	16851	Unreliable
+	"Lafayette County, WI"	"55065"	"2013"	"2013"	"Unintentional"	"1"	12	16766	Unreliable
+	"Lafayette County, WI"	"55065"	"2016"	"2016"	"Unintentional"	"1"	17	16753	Unreliable
+	"Lafayette County, WI"	"55065"	"2017"	"2017"	"Unintentional"	"1"	12	16741	Unreliable
+	"Langlade County, WI"	"55067"	"1999"	"1999"	"Unintentional"	"1"	14	20693	Unreliable
+	"Langlade County, WI"	"55067"	"2001"	"2001"	"Unintentional"	"1"	10	20820	Unreliable
+	"Langlade County, WI"	"55067"	"2003"	"2003"	"Unintentional"	"1"	20	20668	96.8
+	"Langlade County, WI"	"55067"	"2004"	"2004"	"Unintentional"	"1"	14	20686	Unreliable
+	"Langlade County, WI"	"55067"	"2005"	"2005"	"Unintentional"	"1"	10	20477	Unreliable
+	"Langlade County, WI"	"55067"	"2006"	"2006"	"Unintentional"	"1"	13	20440	Unreliable
+	"Langlade County, WI"	"55067"	"2007"	"2007"	"Unintentional"	"1"	13	20379	Unreliable
+	"Langlade County, WI"	"55067"	"2008"	"2008"	"Unintentional"	"1"	16	20248	Unreliable
+	"Langlade County, WI"	"55067"	"2009"	"2009"	"Unintentional"	"1"	12	20086	Unreliable
+	"Langlade County, WI"	"55067"	"2012"	"2012"	"Unintentional"	"1"	14	19646	Unreliable
+	"Langlade County, WI"	"55067"	"2013"	"2013"	"Unintentional"	"1"	21	19575	107.3
+	"Langlade County, WI"	"55067"	"2014"	"2014"	"Unintentional"	"1"	12	19410	Unreliable
+	"Langlade County, WI"	"55067"	"2015"	"2015"	"Unintentional"	"1"	15	19223	Unreliable
+	"Langlade County, WI"	"55067"	"2017"	"2017"	"Unintentional"	"1"	12	19160	Unreliable
+	"Langlade County, WI"	"55067"	"2018"	"2018"	"Unintentional"	"1"	11	19268	Unreliable
+	"Lincoln County, WI"	"55069"	"2000"	"2000"	"Unintentional"	"1"	23	29641	77.6
+	"Lincoln County, WI"	"55069"	"2001"	"2001"	"Unintentional"	"1"	18	29548	Unreliable
+	"Lincoln County, WI"	"55069"	"2002"	"2002"	"Unintentional"	"1"	13	29641	Unreliable
+	"Lincoln County, WI"	"55069"	"2003"	"2003"	"Unintentional"	"1"	19	29621	Unreliable
+	"Lincoln County, WI"	"55069"	"2004"	"2004"	"Unintentional"	"1"	11	29666	Unreliable
+	"Lincoln County, WI"	"55069"	"2005"	"2005"	"Unintentional"	"1"	18	29602	Unreliable
+	"Lincoln County, WI"	"55069"	"2006"	"2006"	"Unintentional"	"1"	17	29457	Unreliable
+	"Lincoln County, WI"	"55069"	"2007"	"2007"	"Unintentional"	"1"	14	29272	Unreliable
+	"Lincoln County, WI"	"55069"	"2008"	"2008"	"Unintentional"	"1"	16	29094	Unreliable
+	"Lincoln County, WI"	"55069"	"2008"	"2008"	"Suicide"	"2"	10	29094	Unreliable
+	"Lincoln County, WI"	"55069"	"2009"	"2009"	"Unintentional"	"1"	16	28833	Unreliable
+	"Lincoln County, WI"	"55069"	"2010"	"2010"	"Unintentional"	"1"	13	28743	Unreliable
+	"Lincoln County, WI"	"55069"	"2011"	"2011"	"Unintentional"	"1"	16	28602	Unreliable
+	"Lincoln County, WI"	"55069"	"2012"	"2012"	"Unintentional"	"1"	22	28392	77.5
+	"Lincoln County, WI"	"55069"	"2013"	"2013"	"Unintentional"	"1"	25	28684	87.2
+	"Lincoln County, WI"	"55069"	"2014"	"2014"	"Unintentional"	"1"	19	28493	Unreliable
+	"Lincoln County, WI"	"55069"	"2015"	"2015"	"Unintentional"	"1"	13	27980	Unreliable
+	"Lincoln County, WI"	"55069"	"2016"	"2016"	"Unintentional"	"1"	16	27902	Unreliable
+	"Lincoln County, WI"	"55069"	"2017"	"2017"	"Unintentional"	"1"	22	27838	79.0
+	"Lincoln County, WI"	"55069"	"2018"	"2018"	"Unintentional"	"1"	24	27689	86.7
+	"Manitowoc County, WI"	"55071"	"1999"	"1999"	"Unintentional"	"1"	68	82803	82.1
+	"Manitowoc County, WI"	"55071"	"2000"	"2000"	"Unintentional"	"1"	64	82887	77.2
+	"Manitowoc County, WI"	"55071"	"2000"	"2000"	"Suicide"	"2"	12	82887	Unreliable
+	"Manitowoc County, WI"	"55071"	"2001"	"2001"	"Unintentional"	"1"	55	82788	66.4
+	"Manitowoc County, WI"	"55071"	"2001"	"2001"	"Suicide"	"2"	10	82788	Unreliable
+	"Manitowoc County, WI"	"55071"	"2002"	"2002"	"Unintentional"	"1"	47	82338	57.1
+	"Manitowoc County, WI"	"55071"	"2002"	"2002"	"Suicide"	"2"	10	82338	Unreliable
+	"Manitowoc County, WI"	"55071"	"2003"	"2003"	"Unintentional"	"1"	60	82010	73.2
+	"Manitowoc County, WI"	"55071"	"2004"	"2004"	"Unintentional"	"1"	47	81846	57.4
+	"Manitowoc County, WI"	"55071"	"2004"	"2004"	"Suicide"	"2"	12	81846	Unreliable
+	"Manitowoc County, WI"	"55071"	"2005"	"2005"	"Unintentional"	"1"	54	81827	66.0
+	"Manitowoc County, WI"	"55071"	"2006"	"2006"	"Unintentional"	"1"	59	81869	72.1
+	"Manitowoc County, WI"	"55071"	"2006"	"2006"	"Suicide"	"2"	11	81869	Unreliable
+	"Manitowoc County, WI"	"55071"	"2007"	"2007"	"Unintentional"	"1"	65	81872	79.4
+	"Manitowoc County, WI"	"55071"	"2007"	"2007"	"Suicide"	"2"	14	81872	Unreliable
+	"Manitowoc County, WI"	"55071"	"2008"	"2008"	"Unintentional"	"1"	56	81698	68.5
+	"Manitowoc County, WI"	"55071"	"2008"	"2008"	"Suicide"	"2"	10	81698	Unreliable
+	"Manitowoc County, WI"	"55071"	"2009"	"2009"	"Unintentional"	"1"	46	81600	56.4
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Unintentional"	"1"	57	81442	70.0
+	"Manitowoc County, WI"	"55071"	"2010"	"2010"	"Suicide"	"2"	11	81442	Unreliable
+	"Manitowoc County, WI"	"55071"	"2011"	"2011"	"Unintentional"	"1"	51	80976	63.0
+	"Manitowoc County, WI"	"55071"	"2011"	"2011"	"Suicide"	"2"	10	80976	Unreliable
+	"Manitowoc County, WI"	"55071"	"2012"	"2012"	"Unintentional"	"1"	60	80671	74.4
+	"Manitowoc County, WI"	"55071"	"2012"	"2012"	"Suicide"	"2"	13	80671	Unreliable
+	"Manitowoc County, WI"	"55071"	"2013"	"2013"	"Unintentional"	"1"	55	80654	68.2
+	"Manitowoc County, WI"	"55071"	"2013"	"2013"	"Suicide"	"2"	15	80654	Unreliable
+	"Manitowoc County, WI"	"55071"	"2014"	"2014"	"Unintentional"	"1"	48	80160	59.9
+	"Manitowoc County, WI"	"55071"	"2014"	"2014"	"Suicide"	"2"	13	80160	Unreliable
+	"Manitowoc County, WI"	"55071"	"2015"	"2015"	"Unintentional"	"1"	46	79806	57.6
+	"Manitowoc County, WI"	"55071"	"2015"	"2015"	"Suicide"	"2"	24	79806	30.1
+	"Manitowoc County, WI"	"55071"	"2016"	"2016"	"Unintentional"	"1"	31	79536	39.0
+	"Manitowoc County, WI"	"55071"	"2016"	"2016"	"Suicide"	"2"	16	79536	Unreliable
+	"Manitowoc County, WI"	"55071"	"2017"	"2017"	"Unintentional"	"1"	39	79175	49.3
+	"Manitowoc County, WI"	"55071"	"2017"	"2017"	"Suicide"	"2"	15	79175	Unreliable
+	"Manitowoc County, WI"	"55071"	"2018"	"2018"	"Unintentional"	"1"	53	79074	67.0
+	"Manitowoc County, WI"	"55071"	"2018"	"2018"	"Suicide"	"2"	12	79074	Unreliable
+	"Marathon County, WI"	"55073"	"1999"	"1999"	"Unintentional"	"1"	40	125404	31.9
+	"Marathon County, WI"	"55073"	"1999"	"1999"	"Suicide"	"2"	24	125404	19.1
+	"Marathon County, WI"	"55073"	"2000"	"2000"	"Unintentional"	"1"	46	125834	36.6
+	"Marathon County, WI"	"55073"	"2000"	"2000"	"Suicide"	"2"	15	125834	Unreliable
+	"Marathon County, WI"	"55073"	"2001"	"2001"	"Unintentional"	"1"	39	126459	30.8
+	"Marathon County, WI"	"55073"	"2001"	"2001"	"Suicide"	"2"	14	126459	Unreliable
+	"Marathon County, WI"	"55073"	"2002"	"2002"	"Unintentional"	"1"	53	126880	41.8
+	"Marathon County, WI"	"55073"	"2002"	"2002"	"Suicide"	"2"	15	126880	Unreliable
+	"Marathon County, WI"	"55073"	"2003"	"2003"	"Unintentional"	"1"	59	127311	46.3
+	"Marathon County, WI"	"55073"	"2004"	"2004"	"Unintentional"	"1"	47	127855	36.8
+	"Marathon County, WI"	"55073"	"2004"	"2004"	"Suicide"	"2"	16	127855	Unreliable
+	"Marathon County, WI"	"55073"	"2005"	"2005"	"Unintentional"	"1"	40	128958	31.0
+	"Marathon County, WI"	"55073"	"2005"	"2005"	"Suicide"	"2"	21	128958	16.3
+	"Marathon County, WI"	"55073"	"2006"	"2006"	"Unintentional"	"1"	49	130516	37.5
+	"Marathon County, WI"	"55073"	"2006"	"2006"	"Suicide"	"2"	20	130516	15.3
+	"Marathon County, WI"	"55073"	"2007"	"2007"	"Unintentional"	"1"	59	131773	44.8
+	"Marathon County, WI"	"55073"	"2007"	"2007"	"Suicide"	"2"	22	131773	16.7
+	"Marathon County, WI"	"55073"	"2008"	"2008"	"Unintentional"	"1"	52	133036	39.1
+	"Marathon County, WI"	"55073"	"2008"	"2008"	"Suicide"	"2"	23	133036	17.3
+	"Marathon County, WI"	"55073"	"2009"	"2009"	"Unintentional"	"1"	44	133793	32.9
+	"Marathon County, WI"	"55073"	"2009"	"2009"	"Suicide"	"2"	19	133793	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Unintentional"	"1"	48	134063	35.8
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Suicide"	"2"	16	134063	Unreliable
+	"Marathon County, WI"	"55073"	"2011"	"2011"	"Unintentional"	"1"	59	134400	43.9
+	"Marathon County, WI"	"55073"	"2011"	"2011"	"Suicide"	"2"	12	134400	Unreliable
+	"Marathon County, WI"	"55073"	"2012"	"2012"	"Unintentional"	"1"	51	134735	37.9
+	"Marathon County, WI"	"55073"	"2012"	"2012"	"Suicide"	"2"	20	134735	14.8
+	"Marathon County, WI"	"55073"	"2013"	"2013"	"Unintentional"	"1"	58	135416	42.8
+	"Marathon County, WI"	"55073"	"2013"	"2013"	"Suicide"	"2"	16	135416	Unreliable
+	"Marathon County, WI"	"55073"	"2014"	"2014"	"Unintentional"	"1"	54	135780	39.8
+	"Marathon County, WI"	"55073"	"2014"	"2014"	"Suicide"	"2"	26	135780	19.1
+	"Marathon County, WI"	"55073"	"2015"	"2015"	"Unintentional"	"1"	73	135868	53.7
+	"Marathon County, WI"	"55073"	"2015"	"2015"	"Suicide"	"2"	16	135868	Unreliable
+	"Marathon County, WI"	"55073"	"2016"	"2016"	"Unintentional"	"1"	61	135603	45.0
+	"Marathon County, WI"	"55073"	"2016"	"2016"	"Suicide"	"2"	18	135603	Unreliable
+	"Marathon County, WI"	"55073"	"2017"	"2017"	"Unintentional"	"1"	66	135732	48.6
+	"Marathon County, WI"	"55073"	"2017"	"2017"	"Suicide"	"2"	20	135732	14.7
+	"Marathon County, WI"	"55073"	"2018"	"2018"	"Unintentional"	"1"	42	135428	31.0
+	"Marathon County, WI"	"55073"	"2018"	"2018"	"Suicide"	"2"	25	135428	18.5
+	"Marinette County, WI"	"55075"	"1999"	"1999"	"Unintentional"	"1"	15	43226	Unreliable
+	"Marinette County, WI"	"55075"	"2000"	"2000"	"Unintentional"	"1"	18	43384	Unreliable
+	"Marinette County, WI"	"55075"	"2001"	"2001"	"Unintentional"	"1"	24	43157	55.6
+	"Marinette County, WI"	"55075"	"2002"	"2002"	"Unintentional"	"1"	25	43122	58.0
+	"Marinette County, WI"	"55075"	"2003"	"2003"	"Unintentional"	"1"	24	42946	55.9
+	"Marinette County, WI"	"55075"	"2004"	"2004"	"Unintentional"	"1"	21	42680	49.2
+	"Marinette County, WI"	"55075"	"2005"	"2005"	"Unintentional"	"1"	18	42850	Unreliable
+	"Marinette County, WI"	"55075"	"2006"	"2006"	"Unintentional"	"1"	29	42389	68.4
+	"Marinette County, WI"	"55075"	"2007"	"2007"	"Unintentional"	"1"	21	42190	49.8
+	"Marinette County, WI"	"55075"	"2007"	"2007"	"Suicide"	"2"	10	42190	Unreliable
+	"Marinette County, WI"	"55075"	"2008"	"2008"	"Unintentional"	"1"	20	42019	47.6
+	"Marinette County, WI"	"55075"	"2009"	"2009"	"Unintentional"	"1"	21	41792	50.2
+	"Marinette County, WI"	"55075"	"2010"	"2010"	"Unintentional"	"1"	15	41749	Unreliable
+	"Marinette County, WI"	"55075"	"2010"	"2010"	"Suicide"	"2"	10	41749	Unreliable
+	"Marinette County, WI"	"55075"	"2011"	"2011"	"Unintentional"	"1"	31	41656	74.4
+	"Marinette County, WI"	"55075"	"2011"	"2011"	"Suicide"	"2"	10	41656	Unreliable
+	"Marinette County, WI"	"55075"	"2012"	"2012"	"Unintentional"	"1"	26	41563	62.6
+	"Marinette County, WI"	"55075"	"2013"	"2013"	"Unintentional"	"1"	29	41610	69.7
+	"Marinette County, WI"	"55075"	"2014"	"2014"	"Unintentional"	"1"	18	41298	Unreliable
+	"Marinette County, WI"	"55075"	"2015"	"2015"	"Unintentional"	"1"	22	40884	53.8
+	"Marinette County, WI"	"55075"	"2016"	"2016"	"Unintentional"	"1"	16	40491	Unreliable
+	"Marinette County, WI"	"55075"	"2017"	"2017"	"Unintentional"	"1"	29	40310	71.9
+	"Marinette County, WI"	"55075"	"2017"	"2017"	"Suicide"	"2"	12	40310	Unreliable
+	"Marinette County, WI"	"55075"	"2018"	"2018"	"Unintentional"	"1"	25	40434	61.8
+	"Marquette County, WI"	"55077"	"2000"	"2000"	"Unintentional"	"1"	18	15832	Unreliable
+	"Marquette County, WI"	"55077"	"2001"	"2001"	"Unintentional"	"1"	19	14624	Unreliable
+	"Marquette County, WI"	"55077"	"2002"	"2002"	"Unintentional"	"1"	14	14798	Unreliable
+	"Marquette County, WI"	"55077"	"2003"	"2003"	"Unintentional"	"1"	18	14931	Unreliable
+	"Marquette County, WI"	"55077"	"2004"	"2004"	"Unintentional"	"1"	15	15157	Unreliable
+	"Marquette County, WI"	"55077"	"2006"	"2006"	"Unintentional"	"1"	17	15437	Unreliable
+	"Marquette County, WI"	"55077"	"2008"	"2008"	"Unintentional"	"1"	12	15485	Unreliable
+	"Marquette County, WI"	"55077"	"2009"	"2009"	"Unintentional"	"1"	13	15405	Unreliable
+	"Marquette County, WI"	"55077"	"2010"	"2010"	"Unintentional"	"1"	13	15404	Unreliable
+	"Marquette County, WI"	"55077"	"2011"	"2011"	"Unintentional"	"1"	14	15439	Unreliable
+	"Marquette County, WI"	"55077"	"2012"	"2012"	"Unintentional"	"1"	10	15205	Unreliable
+	"Marquette County, WI"	"55077"	"2014"	"2014"	"Unintentional"	"1"	13	15050	Unreliable
+	"Marquette County, WI"	"55077"	"2015"	"2015"	"Unintentional"	"1"	11	15075	Unreliable
+	"Marquette County, WI"	"55077"	"2016"	"2016"	"Unintentional"	"1"	21	15067	139.4
+	"Marquette County, WI"	"55077"	"2017"	"2017"	"Unintentional"	"1"	25	15308	163.3
+	"Marquette County, WI"	"55077"	"2018"	"2018"	"Unintentional"	"1"	20	15434	129.6
+	"Milwaukee County, WI"	"55079"	"1999"	"1999"	"Unintentional"	"1"	360	940529	38.3
+	"Milwaukee County, WI"	"55079"	"1999"	"1999"	"Suicide"	"2"	91	940529	9.7
+	"Milwaukee County, WI"	"55079"	"1999"	"1999"	"Homicide"	"3"	132	940529	14.0
+	"Milwaukee County, WI"	"55079"	"1999"	"1999"	"Undetermined "	"4"	11	940529	Unreliable
+	"Milwaukee County, WI"	"55079"	"1999"	"1999"	"Non-Injury, no intent classified"	"9"	13	940529	Unreliable
+	"Milwaukee County, WI"	"55079"	"2000"	"2000"	"Unintentional"	"1"	359	940164	38.2
+	"Milwaukee County, WI"	"55079"	"2000"	"2000"	"Suicide"	"2"	110	940164	11.7
+	"Milwaukee County, WI"	"55079"	"2000"	"2000"	"Homicide"	"3"	125	940164	13.3
+	"Milwaukee County, WI"	"55079"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	14	940164	Unreliable
+	"Milwaukee County, WI"	"55079"	"2001"	"2001"	"Unintentional"	"1"	346	939305	36.8
+	"Milwaukee County, WI"	"55079"	"2001"	"2001"	"Suicide"	"2"	120	939305	12.8
+	"Milwaukee County, WI"	"55079"	"2001"	"2001"	"Homicide"	"3"	140	939305	14.9
+	"Milwaukee County, WI"	"55079"	"2001"	"2001"	"Undetermined "	"4"	12	939305	Unreliable
+	"Milwaukee County, WI"	"55079"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	13	939305	Unreliable
+	"Milwaukee County, WI"	"55079"	"2002"	"2002"	"Unintentional"	"1"	446	939854	47.5
+	"Milwaukee County, WI"	"55079"	"2002"	"2002"	"Suicide"	"2"	90	939854	9.6
+	"Milwaukee County, WI"	"55079"	"2002"	"2002"	"Homicide"	"3"	126	939854	13.4
+	"Milwaukee County, WI"	"55079"	"2002"	"2002"	"Undetermined "	"4"	21	939854	2.2
+	"Milwaukee County, WI"	"55079"	"2003"	"2003"	"Unintentional"	"1"	426	939513	45.3
+	"Milwaukee County, WI"	"55079"	"2003"	"2003"	"Suicide"	"2"	106	939513	11.3
+	"Milwaukee County, WI"	"55079"	"2003"	"2003"	"Homicide"	"3"	117	939513	12.5
+	"Milwaukee County, WI"	"55079"	"2003"	"2003"	"Undetermined "	"4"	10	939513	Unreliable
+	"Milwaukee County, WI"	"55079"	"2004"	"2004"	"Unintentional"	"1"	471	936914	50.3
+	"Milwaukee County, WI"	"55079"	"2004"	"2004"	"Suicide"	"2"	111	936914	11.8
+	"Milwaukee County, WI"	"55079"	"2004"	"2004"	"Homicide"	"3"	89	936914	9.5
+	"Milwaukee County, WI"	"55079"	"2004"	"2004"	"Undetermined "	"4"	13	936914	Unreliable
+	"Milwaukee County, WI"	"55079"	"2005"	"2005"	"Unintentional"	"1"	465	932540	49.9
+	"Milwaukee County, WI"	"55079"	"2005"	"2005"	"Suicide"	"2"	91	932540	9.8
+	"Milwaukee County, WI"	"55079"	"2005"	"2005"	"Homicide"	"3"	150	932540	16.1
+	"Milwaukee County, WI"	"55079"	"2005"	"2005"	"Undetermined "	"4"	29	932540	3.1
+	"Milwaukee County, WI"	"55079"	"2006"	"2006"	"Unintentional"	"1"	527	930263	56.7
+	"Milwaukee County, WI"	"55079"	"2006"	"2006"	"Suicide"	"2"	102	930263	11.0
+	"Milwaukee County, WI"	"55079"	"2006"	"2006"	"Homicide"	"3"	115	930263	12.4
+	"Milwaukee County, WI"	"55079"	"2007"	"2007"	"Unintentional"	"1"	508	931453	54.5
+	"Milwaukee County, WI"	"55079"	"2007"	"2007"	"Suicide"	"2"	98	931453	10.5
+	"Milwaukee County, WI"	"55079"	"2007"	"2007"	"Homicide"	"3"	121	931453	13.0
+	"Milwaukee County, WI"	"55079"	"2007"	"2007"	"Undetermined "	"4"	20	931453	2.1
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Unintentional"	"1"	514	934752	55.0
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Suicide"	"2"	119	934752	12.7
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Homicide"	"3"	81	934752	8.7
+	"Milwaukee County, WI"	"55079"	"2008"	"2008"	"Undetermined "	"4"	15	934752	Unreliable
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Unintentional"	"1"	489	942668	51.9
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Suicide"	"2"	100	942668	10.6
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Homicide"	"3"	83	942668	8.8
+	"Milwaukee County, WI"	"55079"	"2009"	"2009"	"Undetermined "	"4"	18	942668	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Unintentional"	"1"	482	947735	50.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Suicide"	"2"	116	947735	12.2
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Homicide"	"3"	103	947735	10.9
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Undetermined "	"4"	18	947735	Unreliable
+	"Milwaukee County, WI"	"55079"	"2011"	"2011"	"Unintentional"	"1"	501	952532	52.6
+	"Milwaukee County, WI"	"55079"	"2011"	"2011"	"Suicide"	"2"	96	952532	10.1
+	"Milwaukee County, WI"	"55079"	"2011"	"2011"	"Homicide"	"3"	94	952532	9.9
+	"Milwaukee County, WI"	"55079"	"2011"	"2011"	"Undetermined "	"4"	20	952532	2.1
+	"Milwaukee County, WI"	"55079"	"2012"	"2012"	"Unintentional"	"1"	531	955205	55.6
+	"Milwaukee County, WI"	"55079"	"2012"	"2012"	"Suicide"	"2"	102	955205	10.7
+	"Milwaukee County, WI"	"55079"	"2012"	"2012"	"Homicide"	"3"	111	955205	11.6
+	"Milwaukee County, WI"	"55079"	"2012"	"2012"	"Undetermined "	"4"	17	955205	Unreliable
+	"Milwaukee County, WI"	"55079"	"2013"	"2013"	"Unintentional"	"1"	567	956023	59.3
+	"Milwaukee County, WI"	"55079"	"2013"	"2013"	"Suicide"	"2"	107	956023	11.2
+	"Milwaukee County, WI"	"55079"	"2013"	"2013"	"Homicide"	"3"	114	956023	11.9
+	"Milwaukee County, WI"	"55079"	"2013"	"2013"	"Undetermined "	"4"	14	956023	Unreliable
+	"Milwaukee County, WI"	"55079"	"2014"	"2014"	"Unintentional"	"1"	655	956406	68.5
+	"Milwaukee County, WI"	"55079"	"2014"	"2014"	"Suicide"	"2"	94	956406	9.8
+	"Milwaukee County, WI"	"55079"	"2014"	"2014"	"Homicide"	"3"	95	956406	9.9
+	"Milwaukee County, WI"	"55079"	"2014"	"2014"	"Undetermined "	"4"	22	956406	2.3
+	"Milwaukee County, WI"	"55079"	"2015"	"2015"	"Unintentional"	"1"	640	957735	66.8
+	"Milwaukee County, WI"	"55079"	"2015"	"2015"	"Suicide"	"2"	96	957735	10.0
+	"Milwaukee County, WI"	"55079"	"2015"	"2015"	"Homicide"	"3"	152	957735	15.9
+	"Milwaukee County, WI"	"55079"	"2016"	"2016"	"Unintentional"	"1"	741	951448	77.9
+	"Milwaukee County, WI"	"55079"	"2016"	"2016"	"Suicide"	"2"	112	951448	11.8
+	"Milwaukee County, WI"	"55079"	"2016"	"2016"	"Homicide"	"3"	164	951448	17.2
+	"Milwaukee County, WI"	"55079"	"2016"	"2016"	"Undetermined "	"4"	14	951448	Unreliable
+	"Milwaukee County, WI"	"55079"	"2017"	"2017"	"Unintentional"	"1"	747	952085	78.5
+	"Milwaukee County, WI"	"55079"	"2017"	"2017"	"Suicide"	"2"	154	952085	16.2
+	"Milwaukee County, WI"	"55079"	"2017"	"2017"	"Homicide"	"3"	132	952085	13.9
+	"Milwaukee County, WI"	"55079"	"2017"	"2017"	"Undetermined "	"4"	21	952085	2.2
+	"Milwaukee County, WI"	"55079"	"2018"	"2018"	"Unintentional"	"1"	790	948201	83.3
+	"Milwaukee County, WI"	"55079"	"2018"	"2018"	"Suicide"	"2"	121	948201	12.8
+	"Milwaukee County, WI"	"55079"	"2018"	"2018"	"Homicide"	"3"	124	948201	13.1
+	"Milwaukee County, WI"	"55079"	"2018"	"2018"	"Undetermined "	"4"	19	948201	Unreliable
+	"Monroe County, WI"	"55081"	"1999"	"1999"	"Unintentional"	"1"	19	40541	Unreliable
+	"Monroe County, WI"	"55081"	"2000"	"2000"	"Unintentional"	"1"	20	40899	48.9
+	"Monroe County, WI"	"55081"	"2001"	"2001"	"Unintentional"	"1"	17	41298	Unreliable
+	"Monroe County, WI"	"55081"	"2002"	"2002"	"Unintentional"	"1"	18	41611	Unreliable
+	"Monroe County, WI"	"55081"	"2003"	"2003"	"Unintentional"	"1"	22	41712	52.7
+	"Monroe County, WI"	"55081"	"2004"	"2004"	"Unintentional"	"1"	14	42229	Unreliable
+	"Monroe County, WI"	"55081"	"2005"	"2005"	"Unintentional"	"1"	22	42604	51.6
+	"Monroe County, WI"	"55081"	"2006"	"2006"	"Unintentional"	"1"	18	43208	Unreliable
+	"Monroe County, WI"	"55081"	"2007"	"2007"	"Unintentional"	"1"	21	43729	48.0
+	"Monroe County, WI"	"55081"	"2008"	"2008"	"Unintentional"	"1"	19	44157	Unreliable
+	"Monroe County, WI"	"55081"	"2009"	"2009"	"Unintentional"	"1"	18	44437	Unreliable
+	"Monroe County, WI"	"55081"	"2009"	"2009"	"Suicide"	"2"	10	44437	Unreliable
+	"Monroe County, WI"	"55081"	"2010"	"2010"	"Unintentional"	"1"	23	44673	51.5
+	"Monroe County, WI"	"55081"	"2011"	"2011"	"Unintentional"	"1"	15	45050	Unreliable
+	"Monroe County, WI"	"55081"	"2011"	"2011"	"Suicide"	"2"	11	45050	Unreliable
+	"Monroe County, WI"	"55081"	"2012"	"2012"	"Unintentional"	"1"	19	45100	Unreliable
+	"Monroe County, WI"	"55081"	"2013"	"2013"	"Unintentional"	"1"	27	45298	59.6
+	"Monroe County, WI"	"55081"	"2014"	"2014"	"Unintentional"	"1"	22	45379	48.5
+	"Monroe County, WI"	"55081"	"2015"	"2015"	"Unintentional"	"1"	20	45549	43.9
+	"Monroe County, WI"	"55081"	"2015"	"2015"	"Suicide"	"2"	10	45549	Unreliable
+	"Monroe County, WI"	"55081"	"2016"	"2016"	"Unintentional"	"1"	21	45623	46.0
+	"Monroe County, WI"	"55081"	"2017"	"2017"	"Unintentional"	"1"	21	45625	46.0
+	"Monroe County, WI"	"55081"	"2018"	"2018"	"Unintentional"	"1"	17	46051	Unreliable
+	"Oconto County, WI"	"55083"	"1999"	"1999"	"Unintentional"	"1"	13	35166	Unreliable
+	"Oconto County, WI"	"55083"	"2000"	"2000"	"Unintentional"	"1"	22	35634	61.7
+	"Oconto County, WI"	"55083"	"2001"	"2001"	"Unintentional"	"1"	17	36149	Unreliable
+	"Oconto County, WI"	"55083"	"2002"	"2002"	"Unintentional"	"1"	14	36458	Unreliable
+	"Oconto County, WI"	"55083"	"2003"	"2003"	"Unintentional"	"1"	30	36889	81.3
+	"Oconto County, WI"	"55083"	"2004"	"2004"	"Unintentional"	"1"	17	37354	Unreliable
+	"Oconto County, WI"	"55083"	"2005"	"2005"	"Unintentional"	"1"	21	37563	55.9
+	"Oconto County, WI"	"55083"	"2007"	"2007"	"Unintentional"	"1"	20	37805	52.9
+	"Oconto County, WI"	"55083"	"2008"	"2008"	"Unintentional"	"1"	10	37816	Unreliable
+	"Oconto County, WI"	"55083"	"2009"	"2009"	"Unintentional"	"1"	25	37655	66.4
+	"Oconto County, WI"	"55083"	"2009"	"2009"	"Suicide"	"2"	11	37655	Unreliable
+	"Oconto County, WI"	"55083"	"2010"	"2010"	"Unintentional"	"1"	24	37660	63.7
+	"Oconto County, WI"	"55083"	"2011"	"2011"	"Unintentional"	"1"	16	37468	Unreliable
+	"Oconto County, WI"	"55083"	"2012"	"2012"	"Unintentional"	"1"	14	37442	Unreliable
+	"Oconto County, WI"	"55083"	"2013"	"2013"	"Unintentional"	"1"	13	37318	Unreliable
+	"Oconto County, WI"	"55083"	"2014"	"2014"	"Unintentional"	"1"	15	37417	Unreliable
+	"Oconto County, WI"	"55083"	"2015"	"2015"	"Unintentional"	"1"	23	37435	61.4
+	"Oconto County, WI"	"55083"	"2016"	"2016"	"Unintentional"	"1"	25	37430	66.8
+	"Oconto County, WI"	"55083"	"2017"	"2017"	"Unintentional"	"1"	22	37553	58.6
+	"Oconto County, WI"	"55083"	"2018"	"2018"	"Unintentional"	"1"	28	37830	74.0
+	"Oneida County, WI"	"55085"	"1999"	"1999"	"Unintentional"	"1"	18	36503	Unreliable
+	"Oneida County, WI"	"55085"	"2000"	"2000"	"Unintentional"	"1"	28	36776	76.1
+	"Oneida County, WI"	"55085"	"2001"	"2001"	"Unintentional"	"1"	23	36912	62.3
+	"Oneida County, WI"	"55085"	"2002"	"2002"	"Unintentional"	"1"	13	36875	Unreliable
+	"Oneida County, WI"	"55085"	"2003"	"2003"	"Unintentional"	"1"	14	37223	Unreliable
+	"Oneida County, WI"	"55085"	"2004"	"2004"	"Unintentional"	"1"	16	37035	Unreliable
+	"Oneida County, WI"	"55085"	"2005"	"2005"	"Unintentional"	"1"	28	36896	75.9
+	"Oneida County, WI"	"55085"	"2006"	"2006"	"Unintentional"	"1"	19	36746	Unreliable
+	"Oneida County, WI"	"55085"	"2007"	"2007"	"Unintentional"	"1"	17	36553	Unreliable
+	"Oneida County, WI"	"55085"	"2008"	"2008"	"Unintentional"	"1"	14	36500	Unreliable
+	"Oneida County, WI"	"55085"	"2009"	"2009"	"Unintentional"	"1"	17	36175	Unreliable
+	"Oneida County, WI"	"55085"	"2010"	"2010"	"Unintentional"	"1"	17	35998	Unreliable
+	"Oneida County, WI"	"55085"	"2011"	"2011"	"Unintentional"	"1"	18	35801	Unreliable
+	"Oneida County, WI"	"55085"	"2012"	"2012"	"Unintentional"	"1"	27	35714	75.6
+	"Oneida County, WI"	"55085"	"2013"	"2013"	"Unintentional"	"1"	23	35689	64.4
+	"Oneida County, WI"	"55085"	"2014"	"2014"	"Unintentional"	"1"	25	35563	70.3
+	"Oneida County, WI"	"55085"	"2015"	"2015"	"Unintentional"	"1"	16	35567	Unreliable
+	"Oneida County, WI"	"55085"	"2016"	"2016"	"Unintentional"	"1"	23	35601	64.6
+	"Oneida County, WI"	"55085"	"2017"	"2017"	"Unintentional"	"1"	19	35254	Unreliable
+	"Oneida County, WI"	"55085"	"2018"	"2018"	"Unintentional"	"1"	30	35470	84.6
+	"Outagamie County, WI"	"55087"	"1999"	"1999"	"Unintentional"	"1"	43	159219	27.0
+	"Outagamie County, WI"	"55087"	"1999"	"1999"	"Suicide"	"2"	15	159219	Unreliable
+	"Outagamie County, WI"	"55087"	"2000"	"2000"	"Unintentional"	"1"	64	160971	39.8
+	"Outagamie County, WI"	"55087"	"2000"	"2000"	"Suicide"	"2"	18	160971	Unreliable
+	"Outagamie County, WI"	"55087"	"2001"	"2001"	"Unintentional"	"1"	48	163726	29.3
+	"Outagamie County, WI"	"55087"	"2001"	"2001"	"Suicide"	"2"	16	163726	Unreliable
+	"Outagamie County, WI"	"55087"	"2002"	"2002"	"Unintentional"	"1"	50	165336	30.2
+	"Outagamie County, WI"	"55087"	"2002"	"2002"	"Suicide"	"2"	14	165336	Unreliable
+	"Outagamie County, WI"	"55087"	"2003"	"2003"	"Unintentional"	"1"	51	166690	30.6
+	"Outagamie County, WI"	"55087"	"2003"	"2003"	"Suicide"	"2"	18	166690	Unreliable
+	"Outagamie County, WI"	"55087"	"2004"	"2004"	"Unintentional"	"1"	58	168136	34.5
+	"Outagamie County, WI"	"55087"	"2004"	"2004"	"Suicide"	"2"	20	168136	11.9
+	"Outagamie County, WI"	"55087"	"2005"	"2005"	"Unintentional"	"1"	69	169740	40.7
+	"Outagamie County, WI"	"55087"	"2005"	"2005"	"Suicide"	"2"	20	169740	11.8
+	"Outagamie County, WI"	"55087"	"2006"	"2006"	"Unintentional"	"1"	45	171632	26.2
+	"Outagamie County, WI"	"55087"	"2006"	"2006"	"Suicide"	"2"	14	171632	Unreliable
+	"Outagamie County, WI"	"55087"	"2007"	"2007"	"Unintentional"	"1"	59	173180	34.1
+	"Outagamie County, WI"	"55087"	"2007"	"2007"	"Suicide"	"2"	28	173180	16.2
+	"Outagamie County, WI"	"55087"	"2008"	"2008"	"Unintentional"	"1"	55	174388	31.5
+	"Outagamie County, WI"	"55087"	"2008"	"2008"	"Suicide"	"2"	22	174388	12.6
+	"Outagamie County, WI"	"55087"	"2009"	"2009"	"Unintentional"	"1"	57	176175	32.4
+	"Outagamie County, WI"	"55087"	"2009"	"2009"	"Suicide"	"2"	20	176175	11.4
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Unintentional"	"1"	58	176695	32.8
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Suicide"	"2"	22	176695	12.5
+	"Outagamie County, WI"	"55087"	"2011"	"2011"	"Unintentional"	"1"	61	177913	34.3
+	"Outagamie County, WI"	"55087"	"2011"	"2011"	"Suicide"	"2"	33	177913	18.5
+	"Outagamie County, WI"	"55087"	"2012"	"2012"	"Unintentional"	"1"	47	178816	26.3
+	"Outagamie County, WI"	"55087"	"2012"	"2012"	"Suicide"	"2"	23	178816	12.9
+	"Outagamie County, WI"	"55087"	"2013"	"2013"	"Unintentional"	"1"	54	180345	29.9
+	"Outagamie County, WI"	"55087"	"2013"	"2013"	"Suicide"	"2"	31	180345	17.2
+	"Outagamie County, WI"	"55087"	"2014"	"2014"	"Unintentional"	"1"	58	182006	31.9
+	"Outagamie County, WI"	"55087"	"2014"	"2014"	"Suicide"	"2"	26	182006	14.3
+	"Outagamie County, WI"	"55087"	"2015"	"2015"	"Unintentional"	"1"	82	183245	44.7
+	"Outagamie County, WI"	"55087"	"2015"	"2015"	"Suicide"	"2"	29	183245	15.8
+	"Outagamie County, WI"	"55087"	"2016"	"2016"	"Unintentional"	"1"	60	184526	32.5
+	"Outagamie County, WI"	"55087"	"2016"	"2016"	"Suicide"	"2"	26	184526	14.1
+	"Outagamie County, WI"	"55087"	"2017"	"2017"	"Unintentional"	"1"	80	186059	43.0
+	"Outagamie County, WI"	"55087"	"2017"	"2017"	"Suicide"	"2"	31	186059	16.7
+	"Outagamie County, WI"	"55087"	"2018"	"2018"	"Unintentional"	"1"	75	187365	40.0
+	"Outagamie County, WI"	"55087"	"2018"	"2018"	"Suicide"	"2"	36	187365	19.2
+	"Ozaukee County, WI"	"55089"	"1999"	"1999"	"Unintentional"	"1"	14	81766	Unreliable
+	"Ozaukee County, WI"	"55089"	"2000"	"2000"	"Unintentional"	"1"	19	82317	Unreliable
+	"Ozaukee County, WI"	"55089"	"2000"	"2000"	"Suicide"	"2"	10	82317	Unreliable
+	"Ozaukee County, WI"	"55089"	"2001"	"2001"	"Unintentional"	"1"	25	83001	30.1
+	"Ozaukee County, WI"	"55089"	"2001"	"2001"	"Suicide"	"2"	10	83001	Unreliable
+	"Ozaukee County, WI"	"55089"	"2002"	"2002"	"Unintentional"	"1"	17	83605	Unreliable
+	"Ozaukee County, WI"	"55089"	"2002"	"2002"	"Suicide"	"2"	10	83605	Unreliable
+	"Ozaukee County, WI"	"55089"	"2003"	"2003"	"Unintentional"	"1"	12	84303	Unreliable
+	"Ozaukee County, WI"	"55089"	"2003"	"2003"	"Suicide"	"2"	14	84303	Unreliable
+	"Ozaukee County, WI"	"55089"	"2004"	"2004"	"Unintentional"	"1"	17	85069	Unreliable
+	"Ozaukee County, WI"	"55089"	"2005"	"2005"	"Unintentional"	"1"	25	85178	29.4
+	"Ozaukee County, WI"	"55089"	"2006"	"2006"	"Unintentional"	"1"	25	85362	29.3
+	"Ozaukee County, WI"	"55089"	"2007"	"2007"	"Unintentional"	"1"	19	85597	Unreliable
+	"Ozaukee County, WI"	"55089"	"2007"	"2007"	"Suicide"	"2"	10	85597	Unreliable
+	"Ozaukee County, WI"	"55089"	"2008"	"2008"	"Unintentional"	"1"	17	85994	Unreliable
+	"Ozaukee County, WI"	"55089"	"2009"	"2009"	"Unintentional"	"1"	27	86409	31.2
+	"Ozaukee County, WI"	"55089"	"2010"	"2010"	"Unintentional"	"1"	26	86395	30.1
+	"Ozaukee County, WI"	"55089"	"2011"	"2011"	"Unintentional"	"1"	19	86568	Unreliable
+	"Ozaukee County, WI"	"55089"	"2012"	"2012"	"Unintentional"	"1"	23	86823	26.5
+	"Ozaukee County, WI"	"55089"	"2013"	"2013"	"Unintentional"	"1"	20	87054	23.0
+	"Ozaukee County, WI"	"55089"	"2013"	"2013"	"Suicide"	"2"	12	87054	Unreliable
+	"Ozaukee County, WI"	"55089"	"2014"	"2014"	"Unintentional"	"1"	28	87470	32.0
+	"Ozaukee County, WI"	"55089"	"2015"	"2015"	"Unintentional"	"1"	31	87850	35.3
+	"Ozaukee County, WI"	"55089"	"2016"	"2016"	"Unintentional"	"1"	42	88314	47.6
+	"Ozaukee County, WI"	"55089"	"2016"	"2016"	"Suicide"	"2"	13	88314	Unreliable
+	"Ozaukee County, WI"	"55089"	"2017"	"2017"	"Unintentional"	"1"	49	88429	55.4
+	"Ozaukee County, WI"	"55089"	"2017"	"2017"	"Suicide"	"2"	10	88429	Unreliable
+	"Ozaukee County, WI"	"55089"	"2018"	"2018"	"Unintentional"	"1"	40	89147	44.9
+	"Pierce County, WI"	"55093"	"1999"	"1999"	"Unintentional"	"1"	18	36501	Unreliable
+	"Pierce County, WI"	"55093"	"2000"	"2000"	"Unintentional"	"1"	12	36804	Unreliable
+	"Pierce County, WI"	"55093"	"2001"	"2001"	"Unintentional"	"1"	13	37204	Unreliable
+	"Pierce County, WI"	"55093"	"2003"	"2003"	"Unintentional"	"1"	22	38090	57.8
+	"Pierce County, WI"	"55093"	"2004"	"2004"	"Unintentional"	"1"	18	38789	Unreliable
+	"Pierce County, WI"	"55093"	"2005"	"2005"	"Unintentional"	"1"	17	39318	Unreliable
+	"Pierce County, WI"	"55093"	"2006"	"2006"	"Unintentional"	"1"	18	39915	Unreliable
+	"Pierce County, WI"	"55093"	"2007"	"2007"	"Unintentional"	"1"	22	40238	54.7
+	"Pierce County, WI"	"55093"	"2008"	"2008"	"Unintentional"	"1"	15	40758	Unreliable
+	"Pierce County, WI"	"55093"	"2009"	"2009"	"Unintentional"	"1"	18	40613	Unreliable
+	"Pierce County, WI"	"55093"	"2010"	"2010"	"Unintentional"	"1"	14	41019	Unreliable
+	"Pierce County, WI"	"55093"	"2011"	"2011"	"Unintentional"	"1"	14	40862	Unreliable
+	"Pierce County, WI"	"55093"	"2012"	"2012"	"Unintentional"	"1"	17	40814	Unreliable
+	"Pierce County, WI"	"55093"	"2013"	"2013"	"Unintentional"	"1"	17	40976	Unreliable
+	"Pierce County, WI"	"55093"	"2014"	"2014"	"Unintentional"	"1"	15	40958	Unreliable
+	"Pierce County, WI"	"55093"	"2015"	"2015"	"Unintentional"	"1"	18	40889	Unreliable
+	"Pierce County, WI"	"55093"	"2016"	"2016"	"Unintentional"	"1"	20	41238	48.5
+	"Pierce County, WI"	"55093"	"2017"	"2017"	"Unintentional"	"1"	25	41901	59.7
+	"Pierce County, WI"	"55093"	"2018"	"2018"	"Unintentional"	"1"	17	42555	Unreliable
+	"Polk County, WI"	"55095"	"1999"	"1999"	"Unintentional"	"1"	20	40785	49.0
+	"Polk County, WI"	"55095"	"2000"	"2000"	"Unintentional"	"1"	25	41319	60.5
+	"Polk County, WI"	"55095"	"2001"	"2001"	"Unintentional"	"1"	23	42212	54.5
+	"Polk County, WI"	"55095"	"2002"	"2002"	"Unintentional"	"1"	30	42576	70.5
+	"Polk County, WI"	"55095"	"2003"	"2003"	"Unintentional"	"1"	18	43032	Unreliable
+	"Polk County, WI"	"55095"	"2004"	"2004"	"Unintentional"	"1"	22	43584	50.5
+	"Polk County, WI"	"55095"	"2005"	"2005"	"Unintentional"	"1"	25	44014	56.8
+	"Polk County, WI"	"55095"	"2006"	"2006"	"Unintentional"	"1"	24	44367	54.1
+	"Polk County, WI"	"55095"	"2007"	"2007"	"Unintentional"	"1"	28	44318	63.2
+	"Polk County, WI"	"55095"	"2008"	"2008"	"Unintentional"	"1"	30	44331	67.7
+	"Polk County, WI"	"55095"	"2008"	"2008"	"Suicide"	"2"	12	44331	Unreliable
+	"Polk County, WI"	"55095"	"2009"	"2009"	"Unintentional"	"1"	23	44376	51.8
+	"Polk County, WI"	"55095"	"2009"	"2009"	"Suicide"	"2"	10	44376	Unreliable
+	"Polk County, WI"	"55095"	"2010"	"2010"	"Unintentional"	"1"	20	44205	45.2
+	"Polk County, WI"	"55095"	"2010"	"2010"	"Suicide"	"2"	10	44205	Unreliable
+	"Polk County, WI"	"55095"	"2011"	"2011"	"Unintentional"	"1"	26	44040	59.0
+	"Polk County, WI"	"55095"	"2011"	"2011"	"Suicide"	"2"	13	44040	Unreliable
+	"Polk County, WI"	"55095"	"2012"	"2012"	"Unintentional"	"1"	21	43610	48.2
+	"Polk County, WI"	"55095"	"2013"	"2013"	"Unintentional"	"1"	28	43476	64.4
+	"Polk County, WI"	"55095"	"2014"	"2014"	"Unintentional"	"1"	25	43437	57.6
+	"Polk County, WI"	"55095"	"2015"	"2015"	"Unintentional"	"1"	26	43441	59.9
+	"Polk County, WI"	"55095"	"2015"	"2015"	"Suicide"	"2"	15	43441	Unreliable
+	"Polk County, WI"	"55095"	"2016"	"2016"	"Unintentional"	"1"	31	43481	71.3
+	"Polk County, WI"	"55095"	"2017"	"2017"	"Unintentional"	"1"	26	43450	59.8
+	"Polk County, WI"	"55095"	"2017"	"2017"	"Suicide"	"2"	14	43450	Unreliable
+	"Polk County, WI"	"55095"	"2018"	"2018"	"Unintentional"	"1"	24	43598	55.0
+	"Portage County, WI"	"55097"	"1999"	"1999"	"Unintentional"	"1"	30	66963	44.8
+	"Portage County, WI"	"55097"	"1999"	"1999"	"Suicide"	"2"	11	66963	Unreliable
+	"Portage County, WI"	"55097"	"2000"	"2000"	"Unintentional"	"1"	21	67182	31.3
+	"Portage County, WI"	"55097"	"2001"	"2001"	"Unintentional"	"1"	23	67422	34.1
+	"Portage County, WI"	"55097"	"2002"	"2002"	"Unintentional"	"1"	32	67644	47.3
+	"Portage County, WI"	"55097"	"2003"	"2003"	"Unintentional"	"1"	15	67728	Unreliable
+	"Portage County, WI"	"55097"	"2004"	"2004"	"Unintentional"	"1"	21	67789	31.0
+	"Portage County, WI"	"55097"	"2005"	"2005"	"Unintentional"	"1"	38	68045	55.8
+	"Portage County, WI"	"55097"	"2005"	"2005"	"Suicide"	"2"	10	68045	Unreliable
+	"Portage County, WI"	"55097"	"2006"	"2006"	"Unintentional"	"1"	23	68481	33.6
+	"Portage County, WI"	"55097"	"2007"	"2007"	"Unintentional"	"1"	39	69133	56.4
+	"Portage County, WI"	"55097"	"2008"	"2008"	"Unintentional"	"1"	25	69641	35.9
+	"Portage County, WI"	"55097"	"2009"	"2009"	"Unintentional"	"1"	25	69876	35.8
+	"Portage County, WI"	"55097"	"2010"	"2010"	"Unintentional"	"1"	19	70019	Unreliable
+	"Portage County, WI"	"55097"	"2010"	"2010"	"Suicide"	"2"	11	70019	Unreliable
+	"Portage County, WI"	"55097"	"2011"	"2011"	"Unintentional"	"1"	32	70084	45.7
+	"Portage County, WI"	"55097"	"2012"	"2012"	"Unintentional"	"1"	36	70433	51.1
+	"Portage County, WI"	"55097"	"2012"	"2012"	"Suicide"	"2"	10	70433	Unreliable
+	"Portage County, WI"	"55097"	"2013"	"2013"	"Unintentional"	"1"	28	70380	39.8
+	"Portage County, WI"	"55097"	"2013"	"2013"	"Suicide"	"2"	14	70380	Unreliable
+	"Portage County, WI"	"55097"	"2014"	"2014"	"Unintentional"	"1"	21	70482	29.8
+	"Portage County, WI"	"55097"	"2014"	"2014"	"Suicide"	"2"	12	70482	Unreliable
+	"Portage County, WI"	"55097"	"2015"	"2015"	"Unintentional"	"1"	17	70408	Unreliable
+	"Portage County, WI"	"55097"	"2015"	"2015"	"Suicide"	"2"	12	70408	Unreliable
+	"Portage County, WI"	"55097"	"2016"	"2016"	"Unintentional"	"1"	25	70447	35.5
+	"Portage County, WI"	"55097"	"2017"	"2017"	"Unintentional"	"1"	28	70474	39.7
+	"Portage County, WI"	"55097"	"2018"	"2018"	"Unintentional"	"1"	29	70942	40.9
+	"Portage County, WI"	"55097"	"2018"	"2018"	"Suicide"	"2"	11	70942	Unreliable
+	"Price County, WI"	"55099"	"2003"	"2003"	"Unintentional"	"1"	13	15361	Unreliable
+	"Price County, WI"	"55099"	"2004"	"2004"	"Unintentional"	"1"	14	15189	Unreliable
+	"Price County, WI"	"55099"	"2005"	"2005"	"Unintentional"	"1"	10	15046	Unreliable
+	"Price County, WI"	"55099"	"2006"	"2006"	"Unintentional"	"1"	12	14882	Unreliable
+	"Price County, WI"	"55099"	"2016"	"2016"	"Unintentional"	"1"	15	13517	Unreliable
+	"Price County, WI"	"55099"	"2017"	"2017"	"Unintentional"	"1"	10	13442	Unreliable
+	"Racine County, WI"	"55101"	"1999"	"1999"	"Unintentional"	"1"	63	188361	33.4
+	"Racine County, WI"	"55101"	"1999"	"1999"	"Suicide"	"2"	21	188361	11.1
+	"Racine County, WI"	"55101"	"2000"	"2000"	"Unintentional"	"1"	72	188831	38.1
+	"Racine County, WI"	"55101"	"2000"	"2000"	"Suicide"	"2"	33	188831	17.5
+	"Racine County, WI"	"55101"	"2001"	"2001"	"Unintentional"	"1"	69	189047	36.5
+	"Racine County, WI"	"55101"	"2001"	"2001"	"Suicide"	"2"	13	189047	Unreliable
+	"Racine County, WI"	"55101"	"2002"	"2002"	"Unintentional"	"1"	81	189833	42.7
+	"Racine County, WI"	"55101"	"2002"	"2002"	"Suicide"	"2"	30	189833	15.8
+	"Racine County, WI"	"55101"	"2003"	"2003"	"Unintentional"	"1"	65	190845	34.1
+	"Racine County, WI"	"55101"	"2003"	"2003"	"Suicide"	"2"	24	190845	12.6
+	"Racine County, WI"	"55101"	"2004"	"2004"	"Unintentional"	"1"	78	191808	40.7
+	"Racine County, WI"	"55101"	"2004"	"2004"	"Suicide"	"2"	17	191808	Unreliable
+	"Racine County, WI"	"55101"	"2005"	"2005"	"Unintentional"	"1"	80	193251	41.4
+	"Racine County, WI"	"55101"	"2005"	"2005"	"Suicide"	"2"	27	193251	14.0
+	"Racine County, WI"	"55101"	"2005"	"2005"	"Homicide"	"3"	14	193251	Unreliable
+	"Racine County, WI"	"55101"	"2006"	"2006"	"Unintentional"	"1"	103	193915	53.1
+	"Racine County, WI"	"55101"	"2006"	"2006"	"Suicide"	"2"	22	193915	11.3
+	"Racine County, WI"	"55101"	"2007"	"2007"	"Unintentional"	"1"	64	194395	32.9
+	"Racine County, WI"	"55101"	"2007"	"2007"	"Suicide"	"2"	18	194395	Unreliable
+	"Racine County, WI"	"55101"	"2008"	"2008"	"Unintentional"	"1"	75	194730	38.5
+	"Racine County, WI"	"55101"	"2008"	"2008"	"Suicide"	"2"	28	194730	14.4
+	"Racine County, WI"	"55101"	"2008"	"2008"	"Homicide"	"3"	12	194730	Unreliable
+	"Racine County, WI"	"55101"	"2009"	"2009"	"Unintentional"	"1"	65	195130	33.3
+	"Racine County, WI"	"55101"	"2009"	"2009"	"Suicide"	"2"	21	195130	10.8
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Unintentional"	"1"	72	195408	36.8
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Suicide"	"2"	26	195408	13.3
+	"Racine County, WI"	"55101"	"2011"	"2011"	"Unintentional"	"1"	74	195388	37.9
+	"Racine County, WI"	"55101"	"2011"	"2011"	"Suicide"	"2"	25	195388	12.8
+	"Racine County, WI"	"55101"	"2012"	"2012"	"Unintentional"	"1"	96	194797	49.3
+	"Racine County, WI"	"55101"	"2012"	"2012"	"Suicide"	"2"	25	194797	12.8
+	"Racine County, WI"	"55101"	"2013"	"2013"	"Unintentional"	"1"	81	195041	41.5
+	"Racine County, WI"	"55101"	"2013"	"2013"	"Suicide"	"2"	27	195041	13.8
+	"Racine County, WI"	"55101"	"2014"	"2014"	"Unintentional"	"1"	103	195163	52.8
+	"Racine County, WI"	"55101"	"2014"	"2014"	"Suicide"	"2"	30	195163	15.4
+	"Racine County, WI"	"55101"	"2015"	"2015"	"Unintentional"	"1"	96	195080	49.2
+	"Racine County, WI"	"55101"	"2015"	"2015"	"Suicide"	"2"	38	195080	19.5
+	"Racine County, WI"	"55101"	"2016"	"2016"	"Unintentional"	"1"	79	195140	40.5
+	"Racine County, WI"	"55101"	"2016"	"2016"	"Suicide"	"2"	32	195140	16.4
+	"Racine County, WI"	"55101"	"2017"	"2017"	"Unintentional"	"1"	100	196071	51.0
+	"Racine County, WI"	"55101"	"2017"	"2017"	"Suicide"	"2"	30	196071	15.3
+	"Racine County, WI"	"55101"	"2018"	"2018"	"Unintentional"	"1"	79	196584	40.2
+	"Racine County, WI"	"55101"	"2018"	"2018"	"Suicide"	"2"	22	196584	11.2
+	"Richland County, WI"	"55103"	"2000"	"2000"	"Unintentional"	"1"	12	17924	Unreliable
+	"Richland County, WI"	"55103"	"2001"	"2001"	"Unintentional"	"1"	15	18061	Unreliable
+	"Richland County, WI"	"55103"	"2002"	"2002"	"Unintentional"	"1"	17	17976	Unreliable
+	"Richland County, WI"	"55103"	"2003"	"2003"	"Unintentional"	"1"	13	18106	Unreliable
+	"Richland County, WI"	"55103"	"2004"	"2004"	"Unintentional"	"1"	11	18322	Unreliable
+	"Richland County, WI"	"55103"	"2005"	"2005"	"Unintentional"	"1"	11	18256	Unreliable
+	"Richland County, WI"	"55103"	"2006"	"2006"	"Unintentional"	"1"	10	18299	Unreliable
+	"Richland County, WI"	"55103"	"2007"	"2007"	"Unintentional"	"1"	12	18428	Unreliable
+	"Richland County, WI"	"55103"	"2008"	"2008"	"Unintentional"	"1"	15	18205	Unreliable
+	"Richland County, WI"	"55103"	"2012"	"2012"	"Unintentional"	"1"	14	17818	Unreliable
+	"Richland County, WI"	"55103"	"2014"	"2014"	"Unintentional"	"1"	11	17662	Unreliable
+	"Richland County, WI"	"55103"	"2016"	"2016"	"Unintentional"	"1"	16	17476	Unreliable
+	"Richland County, WI"	"55103"	"2017"	"2017"	"Unintentional"	"1"	15	17516	Unreliable
+	"Richland County, WI"	"55103"	"2018"	"2018"	"Unintentional"	"1"	12	17377	Unreliable
+	"Rock County, WI"	"55105"	"1999"	"1999"	"Unintentional"	"1"	44	151541	29.0
+	"Rock County, WI"	"55105"	"1999"	"1999"	"Suicide"	"2"	27	151541	17.8
+	"Rock County, WI"	"55105"	"2000"	"2000"	"Unintentional"	"1"	51	152307	33.5
+	"Rock County, WI"	"55105"	"2000"	"2000"	"Suicide"	"2"	19	152307	Unreliable
+	"Rock County, WI"	"55105"	"2001"	"2001"	"Unintentional"	"1"	48	153174	31.3
+	"Rock County, WI"	"55105"	"2001"	"2001"	"Suicide"	"2"	22	153174	14.4
+	"Rock County, WI"	"55105"	"2002"	"2002"	"Unintentional"	"1"	59	153628	38.4
+	"Rock County, WI"	"55105"	"2002"	"2002"	"Suicide"	"2"	11	153628	Unreliable
+	"Rock County, WI"	"55105"	"2003"	"2003"	"Unintentional"	"1"	64	154268	41.5
+	"Rock County, WI"	"55105"	"2003"	"2003"	"Suicide"	"2"	14	154268	Unreliable
+	"Rock County, WI"	"55105"	"2004"	"2004"	"Unintentional"	"1"	46	155685	29.5
+	"Rock County, WI"	"55105"	"2004"	"2004"	"Suicide"	"2"	20	155685	12.8
+	"Rock County, WI"	"55105"	"2005"	"2005"	"Unintentional"	"1"	85	156761	54.2
+	"Rock County, WI"	"55105"	"2005"	"2005"	"Suicide"	"2"	19	156761	Unreliable
+	"Rock County, WI"	"55105"	"2006"	"2006"	"Unintentional"	"1"	99	158538	62.4
+	"Rock County, WI"	"55105"	"2006"	"2006"	"Suicide"	"2"	17	158538	Unreliable
+	"Rock County, WI"	"55105"	"2007"	"2007"	"Unintentional"	"1"	83	159912	51.9
+	"Rock County, WI"	"55105"	"2007"	"2007"	"Suicide"	"2"	17	159912	Unreliable
+	"Rock County, WI"	"55105"	"2008"	"2008"	"Unintentional"	"1"	85	160647	52.9
+	"Rock County, WI"	"55105"	"2008"	"2008"	"Suicide"	"2"	17	160647	Unreliable
+	"Rock County, WI"	"55105"	"2009"	"2009"	"Unintentional"	"1"	76	160411	47.4
+	"Rock County, WI"	"55105"	"2009"	"2009"	"Suicide"	"2"	22	160411	13.7
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Unintentional"	"1"	76	160331	47.4
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Suicide"	"2"	28	160331	17.5
+	"Rock County, WI"	"55105"	"2011"	"2011"	"Unintentional"	"1"	92	160092	57.5
+	"Rock County, WI"	"55105"	"2011"	"2011"	"Suicide"	"2"	33	160092	20.6
+	"Rock County, WI"	"55105"	"2012"	"2012"	"Unintentional"	"1"	84	160418	52.4
+	"Rock County, WI"	"55105"	"2012"	"2012"	"Suicide"	"2"	22	160418	13.7
+	"Rock County, WI"	"55105"	"2013"	"2013"	"Unintentional"	"1"	86	160739	53.5
+	"Rock County, WI"	"55105"	"2013"	"2013"	"Suicide"	"2"	21	160739	13.1
+	"Rock County, WI"	"55105"	"2014"	"2014"	"Unintentional"	"1"	84	161188	52.1
+	"Rock County, WI"	"55105"	"2014"	"2014"	"Suicide"	"2"	25	161188	15.5
+	"Rock County, WI"	"55105"	"2015"	"2015"	"Unintentional"	"1"	96	161448	59.5
+	"Rock County, WI"	"55105"	"2015"	"2015"	"Suicide"	"2"	30	161448	18.6
+	"Rock County, WI"	"55105"	"2016"	"2016"	"Unintentional"	"1"	124	161620	76.7
+	"Rock County, WI"	"55105"	"2016"	"2016"	"Suicide"	"2"	26	161620	16.1
+	"Rock County, WI"	"55105"	"2017"	"2017"	"Unintentional"	"1"	131	162309	80.7
+	"Rock County, WI"	"55105"	"2017"	"2017"	"Suicide"	"2"	35	162309	21.6
+	"Rock County, WI"	"55105"	"2018"	"2018"	"Unintentional"	"1"	149	163129	91.3
+	"Rock County, WI"	"55105"	"2018"	"2018"	"Suicide"	"2"	34	163129	20.8
+	"Rusk County, WI"	"55107"	"2001"	"2001"	"Unintentional"	"1"	10	15245	Unreliable
+	"Rusk County, WI"	"55107"	"2002"	"2002"	"Unintentional"	"1"	12	15257	Unreliable
+	"Rusk County, WI"	"55107"	"2005"	"2005"	"Unintentional"	"1"	14	15091	Unreliable
+	"Rusk County, WI"	"55107"	"2008"	"2008"	"Unintentional"	"1"	10	14884	Unreliable
+	"Rusk County, WI"	"55107"	"2014"	"2014"	"Unintentional"	"1"	10	14333	Unreliable
+	"Rusk County, WI"	"55107"	"2015"	"2015"	"Unintentional"	"1"	11	14124	Unreliable
+	"Rusk County, WI"	"55107"	"2017"	"2017"	"Unintentional"	"1"	11	14151	Unreliable
+	"Rusk County, WI"	"55107"	"2018"	"2018"	"Unintentional"	"1"	11	14147	Unreliable
+	"St. Croix County, WI"	"55109"	"1999"	"1999"	"Unintentional"	"1"	24	61634	38.9
+	"St. Croix County, WI"	"55109"	"2000"	"2000"	"Unintentional"	"1"	15	63155	Unreliable
+	"St. Croix County, WI"	"55109"	"2001"	"2001"	"Unintentional"	"1"	13	65711	Unreliable
+	"St. Croix County, WI"	"55109"	"2002"	"2002"	"Unintentional"	"1"	32	68268	46.9
+	"St. Croix County, WI"	"55109"	"2003"	"2003"	"Unintentional"	"1"	29	71076	40.8
+	"St. Croix County, WI"	"55109"	"2003"	"2003"	"Suicide"	"2"	12	71076	Unreliable
+	"St. Croix County, WI"	"55109"	"2004"	"2004"	"Unintentional"	"1"	17	73988	Unreliable
+	"St. Croix County, WI"	"55109"	"2005"	"2005"	"Unintentional"	"1"	22	77061	28.5
+	"St. Croix County, WI"	"55109"	"2006"	"2006"	"Unintentional"	"1"	23	79784	28.8
+	"St. Croix County, WI"	"55109"	"2007"	"2007"	"Unintentional"	"1"	21	81708	25.7
+	"St. Croix County, WI"	"55109"	"2008"	"2008"	"Unintentional"	"1"	23	83192	27.6
+	"St. Croix County, WI"	"55109"	"2008"	"2008"	"Suicide"	"2"	15	83192	Unreliable
+	"St. Croix County, WI"	"55109"	"2009"	"2009"	"Unintentional"	"1"	26	84055	30.9
+	"St. Croix County, WI"	"55109"	"2010"	"2010"	"Unintentional"	"1"	30	84345	35.6
+	"St. Croix County, WI"	"55109"	"2010"	"2010"	"Suicide"	"2"	13	84345	Unreliable
+	"St. Croix County, WI"	"55109"	"2011"	"2011"	"Unintentional"	"1"	28	84922	33.0
+	"St. Croix County, WI"	"55109"	"2011"	"2011"	"Suicide"	"2"	17	84922	Unreliable
+	"St. Croix County, WI"	"55109"	"2012"	"2012"	"Unintentional"	"1"	25	85242	29.3
+	"St. Croix County, WI"	"55109"	"2012"	"2012"	"Suicide"	"2"	12	85242	Unreliable
+	"St. Croix County, WI"	"55109"	"2013"	"2013"	"Unintentional"	"1"	27	85930	31.4
+	"St. Croix County, WI"	"55109"	"2013"	"2013"	"Suicide"	"2"	11	85930	Unreliable
+	"St. Croix County, WI"	"55109"	"2014"	"2014"	"Unintentional"	"1"	23	86759	26.5
+	"St. Croix County, WI"	"55109"	"2014"	"2014"	"Suicide"	"2"	11	86759	Unreliable
+	"St. Croix County, WI"	"55109"	"2015"	"2015"	"Unintentional"	"1"	27	87513	30.9
+	"St. Croix County, WI"	"55109"	"2015"	"2015"	"Suicide"	"2"	10	87513	Unreliable
+	"St. Croix County, WI"	"55109"	"2016"	"2016"	"Unintentional"	"1"	25	88029	28.4
+	"St. Croix County, WI"	"55109"	"2016"	"2016"	"Suicide"	"2"	10	88029	Unreliable
+	"St. Croix County, WI"	"55109"	"2017"	"2017"	"Unintentional"	"1"	26	88703	29.3
+	"St. Croix County, WI"	"55109"	"2017"	"2017"	"Suicide"	"2"	19	88703	Unreliable
+	"St. Croix County, WI"	"55109"	"2018"	"2018"	"Unintentional"	"1"	27	89694	30.1
+	"St. Croix County, WI"	"55109"	"2018"	"2018"	"Suicide"	"2"	16	89694	Unreliable
+	"Sauk County, WI"	"55111"	"1999"	"1999"	"Unintentional"	"1"	21	54647	38.4
+	"Sauk County, WI"	"55111"	"2000"	"2000"	"Unintentional"	"1"	21	55225	38.0
+	"Sauk County, WI"	"55111"	"2001"	"2001"	"Unintentional"	"1"	25	55660	44.9
+	"Sauk County, WI"	"55111"	"2001"	"2001"	"Suicide"	"2"	16	55660	Unreliable
+	"Sauk County, WI"	"55111"	"2002"	"2002"	"Unintentional"	"1"	20	56316	35.5
+	"Sauk County, WI"	"55111"	"2003"	"2003"	"Unintentional"	"1"	24	57096	42.0
+	"Sauk County, WI"	"55111"	"2004"	"2004"	"Unintentional"	"1"	36	58020	62.0
+	"Sauk County, WI"	"55111"	"2005"	"2005"	"Unintentional"	"1"	33	58856	56.1
+	"Sauk County, WI"	"55111"	"2006"	"2006"	"Unintentional"	"1"	30	59580	50.4
+	"Sauk County, WI"	"55111"	"2006"	"2006"	"Suicide"	"2"	10	59580	Unreliable
+	"Sauk County, WI"	"55111"	"2007"	"2007"	"Unintentional"	"1"	33	60389	54.6
+	"Sauk County, WI"	"55111"	"2008"	"2008"	"Unintentional"	"1"	33	61231	53.9
+	"Sauk County, WI"	"55111"	"2009"	"2009"	"Unintentional"	"1"	33	61562	53.6
+	"Sauk County, WI"	"55111"	"2009"	"2009"	"Suicide"	"2"	14	61562	Unreliable
+	"Sauk County, WI"	"55111"	"2010"	"2010"	"Unintentional"	"1"	31	61976	50.0
+	"Sauk County, WI"	"55111"	"2010"	"2010"	"Suicide"	"2"	12	61976	Unreliable
+	"Sauk County, WI"	"55111"	"2011"	"2011"	"Unintentional"	"1"	30	62290	48.2
+	"Sauk County, WI"	"55111"	"2011"	"2011"	"Suicide"	"2"	16	62290	Unreliable
+	"Sauk County, WI"	"55111"	"2012"	"2012"	"Unintentional"	"1"	31	62597	49.5
+	"Sauk County, WI"	"55111"	"2013"	"2013"	"Unintentional"	"1"	32	63162	50.7
+	"Sauk County, WI"	"55111"	"2014"	"2014"	"Unintentional"	"1"	35	63379	55.2
+	"Sauk County, WI"	"55111"	"2015"	"2015"	"Unintentional"	"1"	41	63642	64.4
+	"Sauk County, WI"	"55111"	"2015"	"2015"	"Suicide"	"2"	12	63642	Unreliable
+	"Sauk County, WI"	"55111"	"2016"	"2016"	"Unintentional"	"1"	45	63949	70.4
+	"Sauk County, WI"	"55111"	"2017"	"2017"	"Unintentional"	"1"	43	63981	67.2
+	"Sauk County, WI"	"55111"	"2018"	"2018"	"Unintentional"	"1"	45	64249	70.0
+	"Sawyer County, WI"	"55113"	"1999"	"1999"	"Unintentional"	"1"	12	16066	Unreliable
+	"Sawyer County, WI"	"55113"	"2000"	"2000"	"Unintentional"	"1"	11	16196	Unreliable
+	"Sawyer County, WI"	"55113"	"2001"	"2001"	"Unintentional"	"1"	16	16249	Unreliable
+	"Sawyer County, WI"	"55113"	"2002"	"2002"	"Unintentional"	"1"	12	16391	Unreliable
+	"Sawyer County, WI"	"55113"	"2003"	"2003"	"Unintentional"	"1"	11	16510	Unreliable
+	"Sawyer County, WI"	"55113"	"2004"	"2004"	"Unintentional"	"1"	10	16552	Unreliable
+	"Sawyer County, WI"	"55113"	"2006"	"2006"	"Unintentional"	"1"	13	16624	Unreliable
+	"Sawyer County, WI"	"55113"	"2007"	"2007"	"Unintentional"	"1"	14	16674	Unreliable
+	"Sawyer County, WI"	"55113"	"2009"	"2009"	"Unintentional"	"1"	15	16559	Unreliable
+	"Sawyer County, WI"	"55113"	"2012"	"2012"	"Unintentional"	"1"	13	16581	Unreliable
+	"Sawyer County, WI"	"55113"	"2013"	"2013"	"Unintentional"	"1"	14	16513	Unreliable
+	"Sawyer County, WI"	"55113"	"2014"	"2014"	"Unintentional"	"1"	21	16437	127.8
+	"Sawyer County, WI"	"55113"	"2016"	"2016"	"Unintentional"	"1"	13	16369	Unreliable
+	"Sawyer County, WI"	"55113"	"2017"	"2017"	"Unintentional"	"1"	12	16418	Unreliable
+	"Sawyer County, WI"	"55113"	"2018"	"2018"	"Unintentional"	"1"	16	16489	Unreliable
+	"Shawano County, WI"	"55115"	"1999"	"1999"	"Unintentional"	"1"	16	40222	Unreliable
+	"Shawano County, WI"	"55115"	"2000"	"2000"	"Unintentional"	"1"	26	40664	63.9
+	"Shawano County, WI"	"55115"	"2001"	"2001"	"Unintentional"	"1"	15	40878	Unreliable
+	"Shawano County, WI"	"55115"	"2002"	"2002"	"Unintentional"	"1"	20	40976	48.8
+	"Shawano County, WI"	"55115"	"2003"	"2003"	"Unintentional"	"1"	18	41083	Unreliable
+	"Shawano County, WI"	"55115"	"2004"	"2004"	"Unintentional"	"1"	20	41273	48.5
+	"Shawano County, WI"	"55115"	"2005"	"2005"	"Unintentional"	"1"	18	41437	Unreliable
+	"Shawano County, WI"	"55115"	"2006"	"2006"	"Unintentional"	"1"	16	41639	Unreliable
+	"Shawano County, WI"	"55115"	"2007"	"2007"	"Unintentional"	"1"	23	41829	55.0
+	"Shawano County, WI"	"55115"	"2008"	"2008"	"Unintentional"	"1"	29	41894	69.2
+	"Shawano County, WI"	"55115"	"2009"	"2009"	"Unintentional"	"1"	14	41889	Unreliable
+	"Shawano County, WI"	"55115"	"2010"	"2010"	"Unintentional"	"1"	10	41949	Unreliable
+	"Shawano County, WI"	"55115"	"2011"	"2011"	"Unintentional"	"1"	17	41754	Unreliable
+	"Shawano County, WI"	"55115"	"2012"	"2012"	"Unintentional"	"1"	20	41607	48.1
+	"Shawano County, WI"	"55115"	"2013"	"2013"	"Unintentional"	"1"	22	41643	52.8
+	"Shawano County, WI"	"55115"	"2014"	"2014"	"Unintentional"	"1"	27	41579	64.9
+	"Shawano County, WI"	"55115"	"2015"	"2015"	"Unintentional"	"1"	17	41304	Unreliable
+	"Shawano County, WI"	"55115"	"2016"	"2016"	"Unintentional"	"1"	29	41062	70.6
+	"Shawano County, WI"	"55115"	"2017"	"2017"	"Unintentional"	"1"	31	40935	75.7
+	"Shawano County, WI"	"55115"	"2018"	"2018"	"Unintentional"	"1"	28	40796	68.6
+	"Sheboygan County, WI"	"55117"	"1999"	"1999"	"Unintentional"	"1"	35	112088	31.2
+	"Sheboygan County, WI"	"55117"	"2000"	"2000"	"Unintentional"	"1"	38	112646	33.7
+	"Sheboygan County, WI"	"55117"	"2000"	"2000"	"Suicide"	"2"	16	112646	Unreliable
+	"Sheboygan County, WI"	"55117"	"2001"	"2001"	"Unintentional"	"1"	37	113023	32.7
+	"Sheboygan County, WI"	"55117"	"2001"	"2001"	"Suicide"	"2"	13	113023	Unreliable
+	"Sheboygan County, WI"	"55117"	"2002"	"2002"	"Unintentional"	"1"	53	113251	46.8
+	"Sheboygan County, WI"	"55117"	"2002"	"2002"	"Suicide"	"2"	16	113251	Unreliable
+	"Sheboygan County, WI"	"55117"	"2003"	"2003"	"Unintentional"	"1"	37	113433	32.6
+	"Sheboygan County, WI"	"55117"	"2003"	"2003"	"Suicide"	"2"	19	113433	Unreliable
+	"Sheboygan County, WI"	"55117"	"2004"	"2004"	"Unintentional"	"1"	42	113832	36.9
+	"Sheboygan County, WI"	"55117"	"2004"	"2004"	"Suicide"	"2"	17	113832	Unreliable
+	"Sheboygan County, WI"	"55117"	"2005"	"2005"	"Unintentional"	"1"	52	114454	45.4
+	"Sheboygan County, WI"	"55117"	"2005"	"2005"	"Suicide"	"2"	21	114454	18.3
+	"Sheboygan County, WI"	"55117"	"2006"	"2006"	"Unintentional"	"1"	34	114775	29.6
+	"Sheboygan County, WI"	"55117"	"2006"	"2006"	"Suicide"	"2"	15	114775	Unreliable
+	"Sheboygan County, WI"	"55117"	"2007"	"2007"	"Unintentional"	"1"	42	115178	36.5
+	"Sheboygan County, WI"	"55117"	"2007"	"2007"	"Suicide"	"2"	12	115178	Unreliable
+	"Sheboygan County, WI"	"55117"	"2008"	"2008"	"Unintentional"	"1"	27	115652	23.3
+	"Sheboygan County, WI"	"55117"	"2008"	"2008"	"Suicide"	"2"	21	115652	18.2
+	"Sheboygan County, WI"	"55117"	"2009"	"2009"	"Unintentional"	"1"	53	115562	45.9
+	"Sheboygan County, WI"	"55117"	"2009"	"2009"	"Suicide"	"2"	15	115562	Unreliable
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Unintentional"	"1"	48	115507	41.6
+	"Sheboygan County, WI"	"55117"	"2010"	"2010"	"Suicide"	"2"	13	115507	Unreliable
+	"Sheboygan County, WI"	"55117"	"2011"	"2011"	"Unintentional"	"1"	48	115149	41.7
+	"Sheboygan County, WI"	"55117"	"2011"	"2011"	"Suicide"	"2"	15	115149	Unreliable
+	"Sheboygan County, WI"	"55117"	"2012"	"2012"	"Unintentional"	"1"	69	115009	60.0
+	"Sheboygan County, WI"	"55117"	"2012"	"2012"	"Suicide"	"2"	14	115009	Unreliable
+	"Sheboygan County, WI"	"55117"	"2013"	"2013"	"Unintentional"	"1"	44	114922	38.3
+	"Sheboygan County, WI"	"55117"	"2013"	"2013"	"Suicide"	"2"	17	114922	Unreliable
+	"Sheboygan County, WI"	"55117"	"2014"	"2014"	"Unintentional"	"1"	44	115290	38.2
+	"Sheboygan County, WI"	"55117"	"2014"	"2014"	"Suicide"	"2"	21	115290	18.2
+	"Sheboygan County, WI"	"55117"	"2015"	"2015"	"Unintentional"	"1"	63	115569	54.5
+	"Sheboygan County, WI"	"55117"	"2015"	"2015"	"Suicide"	"2"	15	115569	Unreliable
+	"Sheboygan County, WI"	"55117"	"2016"	"2016"	"Unintentional"	"1"	63	115427	54.6
+	"Sheboygan County, WI"	"55117"	"2016"	"2016"	"Suicide"	"2"	20	115427	17.3
+	"Sheboygan County, WI"	"55117"	"2017"	"2017"	"Unintentional"	"1"	75	115344	65.0
+	"Sheboygan County, WI"	"55117"	"2017"	"2017"	"Suicide"	"2"	20	115344	17.3
+	"Sheboygan County, WI"	"55117"	"2018"	"2018"	"Unintentional"	"1"	65	115456	56.3
+	"Sheboygan County, WI"	"55117"	"2018"	"2018"	"Suicide"	"2"	16	115456	Unreliable
+	"Taylor County, WI"	"55119"	"2004"	"2004"	"Unintentional"	"1"	15	20186	Unreliable
+	"Taylor County, WI"	"55119"	"2005"	"2005"	"Unintentional"	"1"	13	20330	Unreliable
+	"Taylor County, WI"	"55119"	"2008"	"2008"	"Unintentional"	"1"	12	20577	Unreliable
+	"Taylor County, WI"	"55119"	"2010"	"2010"	"Unintentional"	"1"	10	20689	Unreliable
+	"Taylor County, WI"	"55119"	"2011"	"2011"	"Unintentional"	"1"	13	20661	Unreliable
+	"Taylor County, WI"	"55119"	"2014"	"2014"	"Unintentional"	"1"	10	20540	Unreliable
+	"Taylor County, WI"	"55119"	"2016"	"2016"	"Unintentional"	"1"	15	20439	Unreliable
+	"Taylor County, WI"	"55119"	"2018"	"2018"	"Unintentional"	"1"	12	20412	Unreliable
+	"Trempealeau County, WI"	"55121"	"2001"	"2001"	"Unintentional"	"1"	14	27118	Unreliable
+	"Trempealeau County, WI"	"55121"	"2002"	"2002"	"Unintentional"	"1"	16	27249	Unreliable
+	"Trempealeau County, WI"	"55121"	"2003"	"2003"	"Unintentional"	"1"	10	27413	Unreliable
+	"Trempealeau County, WI"	"55121"	"2004"	"2004"	"Unintentional"	"1"	20	27676	72.3
+	"Trempealeau County, WI"	"55121"	"2005"	"2005"	"Unintentional"	"1"	19	28065	Unreliable
+	"Trempealeau County, WI"	"55121"	"2006"	"2006"	"Unintentional"	"1"	13	28286	Unreliable
+	"Trempealeau County, WI"	"55121"	"2007"	"2007"	"Unintentional"	"1"	15	28396	Unreliable
+	"Trempealeau County, WI"	"55121"	"2008"	"2008"	"Unintentional"	"1"	16	28452	Unreliable
+	"Trempealeau County, WI"	"55121"	"2009"	"2009"	"Unintentional"	"1"	19	28627	Unreliable
+	"Trempealeau County, WI"	"55121"	"2011"	"2011"	"Unintentional"	"1"	16	29001	Unreliable
+	"Trempealeau County, WI"	"55121"	"2012"	"2012"	"Unintentional"	"1"	11	29297	Unreliable
+	"Trempealeau County, WI"	"55121"	"2013"	"2013"	"Unintentional"	"1"	16	29582	Unreliable
+	"Trempealeau County, WI"	"55121"	"2014"	"2014"	"Unintentional"	"1"	21	29509	71.2
+	"Trempealeau County, WI"	"55121"	"2015"	"2015"	"Unintentional"	"1"	20	29550	67.7
+	"Trempealeau County, WI"	"55121"	"2016"	"2016"	"Unintentional"	"1"	14	29633	Unreliable
+	"Trempealeau County, WI"	"55121"	"2017"	"2017"	"Unintentional"	"1"	16	29472	Unreliable
+	"Trempealeau County, WI"	"55121"	"2018"	"2018"	"Unintentional"	"1"	17	29442	Unreliable
+	"Vernon County, WI"	"55123"	"1999"	"1999"	"Unintentional"	"1"	17	28016	Unreliable
+	"Vernon County, WI"	"55123"	"2000"	"2000"	"Unintentional"	"1"	13	28056	Unreliable
+	"Vernon County, WI"	"55123"	"2001"	"2001"	"Unintentional"	"1"	14	28157	Unreliable
+	"Vernon County, WI"	"55123"	"2003"	"2003"	"Unintentional"	"1"	15	28395	Unreliable
+	"Vernon County, WI"	"55123"	"2005"	"2005"	"Unintentional"	"1"	18	28959	Unreliable
+	"Vernon County, WI"	"55123"	"2006"	"2006"	"Unintentional"	"1"	16	29123	Unreliable
+	"Vernon County, WI"	"55123"	"2007"	"2007"	"Unintentional"	"1"	16	29313	Unreliable
+	"Vernon County, WI"	"55123"	"2009"	"2009"	"Unintentional"	"1"	15	29659	Unreliable
+	"Vernon County, WI"	"55123"	"2010"	"2010"	"Unintentional"	"1"	11	29773	Unreliable
+	"Vernon County, WI"	"55123"	"2011"	"2011"	"Unintentional"	"1"	21	29954	70.1
+	"Vernon County, WI"	"55123"	"2012"	"2012"	"Unintentional"	"1"	23	30260	76.0
+	"Vernon County, WI"	"55123"	"2013"	"2013"	"Unintentional"	"1"	15	30329	Unreliable
+	"Vernon County, WI"	"55123"	"2014"	"2014"	"Unintentional"	"1"	16	30362	Unreliable
+	"Vernon County, WI"	"55123"	"2015"	"2015"	"Unintentional"	"1"	12	30506	Unreliable
+	"Vernon County, WI"	"55123"	"2016"	"2016"	"Unintentional"	"1"	19	30814	Unreliable
+	"Vernon County, WI"	"55123"	"2017"	"2017"	"Unintentional"	"1"	12	30759	Unreliable
+	"Vilas County, WI"	"55125"	"2000"	"2000"	"Unintentional"	"1"	10	21033	Unreliable
+	"Vilas County, WI"	"55125"	"2001"	"2001"	"Unintentional"	"1"	12	21464	Unreliable
+	"Vilas County, WI"	"55125"	"2002"	"2002"	"Unintentional"	"1"	15	21766	Unreliable
+	"Vilas County, WI"	"55125"	"2005"	"2005"	"Unintentional"	"1"	10	22116	Unreliable
+	"Vilas County, WI"	"55125"	"2006"	"2006"	"Unintentional"	"1"	17	22064	Unreliable
+	"Vilas County, WI"	"55125"	"2007"	"2007"	"Unintentional"	"1"	11	21997	Unreliable
+	"Vilas County, WI"	"55125"	"2008"	"2008"	"Unintentional"	"1"	20	21767	91.9
+	"Vilas County, WI"	"55125"	"2009"	"2009"	"Unintentional"	"1"	14	21524	Unreliable
+	"Vilas County, WI"	"55125"	"2010"	"2010"	"Unintentional"	"1"	13	21430	Unreliable
+	"Vilas County, WI"	"55125"	"2011"	"2011"	"Unintentional"	"1"	11	21442	Unreliable
+	"Vilas County, WI"	"55125"	"2012"	"2012"	"Unintentional"	"1"	15	21338	Unreliable
+	"Vilas County, WI"	"55125"	"2013"	"2013"	"Unintentional"	"1"	17	21368	Unreliable
+	"Vilas County, WI"	"55125"	"2014"	"2014"	"Unintentional"	"1"	19	21398	Unreliable
+	"Vilas County, WI"	"55125"	"2015"	"2015"	"Unintentional"	"1"	23	21387	107.5
+	"Vilas County, WI"	"55125"	"2016"	"2016"	"Unintentional"	"1"	29	21435	135.3
+	"Vilas County, WI"	"55125"	"2017"	"2017"	"Unintentional"	"1"	12	21683	Unreliable
+	"Vilas County, WI"	"55125"	"2018"	"2018"	"Unintentional"	"1"	21	21938	95.7
+	"Walworth County, WI"	"55127"	"1999"	"1999"	"Unintentional"	"1"	40	92407	43.3
+	"Walworth County, WI"	"55127"	"2000"	"2000"	"Unintentional"	"1"	25	93759	26.7
+	"Walworth County, WI"	"55127"	"2001"	"2001"	"Unintentional"	"1"	29	93462	31.0
+	"Walworth County, WI"	"55127"	"2002"	"2002"	"Unintentional"	"1"	35	95370	36.7
+	"Walworth County, WI"	"55127"	"2002"	"2002"	"Suicide"	"2"	16	95370	Unreliable
+	"Walworth County, WI"	"55127"	"2003"	"2003"	"Unintentional"	"1"	44	97087	45.3
+	"Walworth County, WI"	"55127"	"2003"	"2003"	"Suicide"	"2"	15	97087	Unreliable
+	"Walworth County, WI"	"55127"	"2004"	"2004"	"Unintentional"	"1"	36	98128	36.7
+	"Walworth County, WI"	"55127"	"2004"	"2004"	"Suicide"	"2"	12	98128	Unreliable
+	"Walworth County, WI"	"55127"	"2005"	"2005"	"Unintentional"	"1"	52	99848	52.1
+	"Walworth County, WI"	"55127"	"2005"	"2005"	"Suicide"	"2"	13	99848	Unreliable
+	"Walworth County, WI"	"55127"	"2006"	"2006"	"Unintentional"	"1"	38	101026	37.6
+	"Walworth County, WI"	"55127"	"2006"	"2006"	"Suicide"	"2"	13	101026	Unreliable
+	"Walworth County, WI"	"55127"	"2007"	"2007"	"Unintentional"	"1"	45	101449	44.4
+	"Walworth County, WI"	"55127"	"2007"	"2007"	"Suicide"	"2"	13	101449	Unreliable
+	"Walworth County, WI"	"55127"	"2008"	"2008"	"Unintentional"	"1"	35	101916	34.3
+	"Walworth County, WI"	"55127"	"2008"	"2008"	"Suicide"	"2"	13	101916	Unreliable
+	"Walworth County, WI"	"55127"	"2009"	"2009"	"Unintentional"	"1"	56	102077	54.9
+	"Walworth County, WI"	"55127"	"2009"	"2009"	"Suicide"	"2"	13	102077	Unreliable
+	"Walworth County, WI"	"55127"	"2010"	"2010"	"Unintentional"	"1"	39	102228	38.2
+	"Walworth County, WI"	"55127"	"2010"	"2010"	"Suicide"	"2"	11	102228	Unreliable
+	"Walworth County, WI"	"55127"	"2011"	"2011"	"Unintentional"	"1"	62	102931	60.2
+	"Walworth County, WI"	"55127"	"2011"	"2011"	"Suicide"	"2"	16	102931	Unreliable
+	"Walworth County, WI"	"55127"	"2012"	"2012"	"Unintentional"	"1"	51	102851	49.6
+	"Walworth County, WI"	"55127"	"2012"	"2012"	"Suicide"	"2"	12	102851	Unreliable
+	"Walworth County, WI"	"55127"	"2013"	"2013"	"Unintentional"	"1"	54	102945	52.5
+	"Walworth County, WI"	"55127"	"2013"	"2013"	"Suicide"	"2"	16	102945	Unreliable
+	"Walworth County, WI"	"55127"	"2014"	"2014"	"Unintentional"	"1"	41	103527	39.6
+	"Walworth County, WI"	"55127"	"2014"	"2014"	"Suicide"	"2"	16	103527	Unreliable
+	"Walworth County, WI"	"55127"	"2015"	"2015"	"Unintentional"	"1"	51	102804	49.6
+	"Walworth County, WI"	"55127"	"2015"	"2015"	"Suicide"	"2"	16	102804	Unreliable
+	"Walworth County, WI"	"55127"	"2016"	"2016"	"Unintentional"	"1"	62	102959	60.2
+	"Walworth County, WI"	"55127"	"2016"	"2016"	"Suicide"	"2"	12	102959	Unreliable
+	"Walworth County, WI"	"55127"	"2017"	"2017"	"Unintentional"	"1"	75	103082	72.8
+	"Walworth County, WI"	"55127"	"2017"	"2017"	"Suicide"	"2"	13	103082	Unreliable
+	"Walworth County, WI"	"55127"	"2018"	"2018"	"Unintentional"	"1"	69	103718	66.5
+	"Walworth County, WI"	"55127"	"2018"	"2018"	"Suicide"	"2"	19	103718	Unreliable
+	"Washburn County, WI"	"55129"	"2000"	"2000"	"Unintentional"	"1"	10	16036	Unreliable
+	"Washburn County, WI"	"55129"	"2003"	"2003"	"Unintentional"	"1"	10	16138	Unreliable
+	"Washburn County, WI"	"55129"	"2005"	"2005"	"Unintentional"	"1"	17	16097	Unreliable
+	"Washburn County, WI"	"55129"	"2006"	"2006"	"Unintentional"	"1"	13	16098	Unreliable
+	"Washburn County, WI"	"55129"	"2008"	"2008"	"Unintentional"	"1"	10	16003	Unreliable
+	"Washburn County, WI"	"55129"	"2011"	"2011"	"Unintentional"	"1"	13	15912	Unreliable
+	"Washburn County, WI"	"55129"	"2012"	"2012"	"Unintentional"	"1"	19	15826	Unreliable
+	"Washburn County, WI"	"55129"	"2013"	"2013"	"Unintentional"	"1"	14	15686	Unreliable
+	"Washburn County, WI"	"55129"	"2015"	"2015"	"Unintentional"	"1"	12	15552	Unreliable
+	"Washburn County, WI"	"55129"	"2017"	"2017"	"Unintentional"	"1"	11	15758	Unreliable
+	"Washington County, WI"	"55131"	"1999"	"1999"	"Unintentional"	"1"	44	116131	37.9
+	"Washington County, WI"	"55131"	"1999"	"1999"	"Suicide"	"2"	11	116131	Unreliable
+	"Washington County, WI"	"55131"	"2000"	"2000"	"Unintentional"	"1"	35	117493	29.8
+	"Washington County, WI"	"55131"	"2001"	"2001"	"Unintentional"	"1"	48	119387	40.2
+	"Washington County, WI"	"55131"	"2001"	"2001"	"Suicide"	"2"	12	119387	Unreliable
+	"Washington County, WI"	"55131"	"2002"	"2002"	"Unintentional"	"1"	57	120741	47.2
+	"Washington County, WI"	"55131"	"2002"	"2002"	"Suicide"	"2"	10	120741	Unreliable
+	"Washington County, WI"	"55131"	"2003"	"2003"	"Unintentional"	"1"	65	122143	53.2
+	"Washington County, WI"	"55131"	"2003"	"2003"	"Suicide"	"2"	14	122143	Unreliable
+	"Washington County, WI"	"55131"	"2004"	"2004"	"Unintentional"	"1"	41	124076	33.0
+	"Washington County, WI"	"55131"	"2004"	"2004"	"Suicide"	"2"	10	124076	Unreliable
+	"Washington County, WI"	"55131"	"2005"	"2005"	"Unintentional"	"1"	44	125788	35.0
+	"Washington County, WI"	"55131"	"2005"	"2005"	"Suicide"	"2"	13	125788	Unreliable
+	"Washington County, WI"	"55131"	"2006"	"2006"	"Unintentional"	"1"	45	127483	35.3
+	"Washington County, WI"	"55131"	"2006"	"2006"	"Suicide"	"2"	13	127483	Unreliable
+	"Washington County, WI"	"55131"	"2007"	"2007"	"Unintentional"	"1"	62	129203	48.0
+	"Washington County, WI"	"55131"	"2007"	"2007"	"Suicide"	"2"	15	129203	Unreliable
+	"Washington County, WI"	"55131"	"2008"	"2008"	"Unintentional"	"1"	60	130795	45.9
+	"Washington County, WI"	"55131"	"2008"	"2008"	"Suicide"	"2"	19	130795	Unreliable
+	"Washington County, WI"	"55131"	"2009"	"2009"	"Unintentional"	"1"	50	131579	38.0
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Unintentional"	"1"	65	131887	49.3
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Suicide"	"2"	23	131887	17.4
+	"Washington County, WI"	"55131"	"2011"	"2011"	"Unintentional"	"1"	61	132386	46.1
+	"Washington County, WI"	"55131"	"2011"	"2011"	"Suicide"	"2"	19	132386	Unreliable
+	"Washington County, WI"	"55131"	"2012"	"2012"	"Unintentional"	"1"	84	132661	63.3
+	"Washington County, WI"	"55131"	"2012"	"2012"	"Suicide"	"2"	13	132661	Unreliable
+	"Washington County, WI"	"55131"	"2013"	"2013"	"Unintentional"	"1"	82	132739	61.8
+	"Washington County, WI"	"55131"	"2013"	"2013"	"Suicide"	"2"	27	132739	20.3
+	"Washington County, WI"	"55131"	"2014"	"2014"	"Unintentional"	"1"	90	133251	67.5
+	"Washington County, WI"	"55131"	"2014"	"2014"	"Suicide"	"2"	12	133251	Unreliable
+	"Washington County, WI"	"55131"	"2015"	"2015"	"Unintentional"	"1"	74	133674	55.4
+	"Washington County, WI"	"55131"	"2015"	"2015"	"Suicide"	"2"	14	133674	Unreliable
+	"Washington County, WI"	"55131"	"2016"	"2016"	"Unintentional"	"1"	98	134296	73.0
+	"Washington County, WI"	"55131"	"2016"	"2016"	"Suicide"	"2"	21	134296	15.6
+	"Washington County, WI"	"55131"	"2017"	"2017"	"Unintentional"	"1"	89	135101	65.9
+	"Washington County, WI"	"55131"	"2017"	"2017"	"Suicide"	"2"	20	135101	14.8
+	"Washington County, WI"	"55131"	"2018"	"2018"	"Unintentional"	"1"	93	135693	68.5
+	"Washington County, WI"	"55131"	"2018"	"2018"	"Suicide"	"2"	18	135693	Unreliable
+	"Waukesha County, WI"	"55133"	"1999"	"1999"	"Unintentional"	"1"	106	357829	29.6
+	"Waukesha County, WI"	"55133"	"1999"	"1999"	"Suicide"	"2"	28	357829	7.8
+	"Waukesha County, WI"	"55133"	"2000"	"2000"	"Unintentional"	"1"	139	360767	38.5
+	"Waukesha County, WI"	"55133"	"2000"	"2000"	"Suicide"	"2"	29	360767	8.0
+	"Waukesha County, WI"	"55133"	"2001"	"2001"	"Unintentional"	"1"	135	365564	36.9
+	"Waukesha County, WI"	"55133"	"2001"	"2001"	"Suicide"	"2"	32	365564	8.8
+	"Waukesha County, WI"	"55133"	"2002"	"2002"	"Unintentional"	"1"	151	370051	40.8
+	"Waukesha County, WI"	"55133"	"2002"	"2002"	"Suicide"	"2"	29	370051	7.8
+	"Waukesha County, WI"	"55133"	"2003"	"2003"	"Unintentional"	"1"	162	373787	43.3
+	"Waukesha County, WI"	"55133"	"2003"	"2003"	"Suicide"	"2"	31	373787	8.3
+	"Waukesha County, WI"	"55133"	"2004"	"2004"	"Unintentional"	"1"	134	376243	35.6
+	"Waukesha County, WI"	"55133"	"2004"	"2004"	"Suicide"	"2"	28	376243	7.4
+	"Waukesha County, WI"	"55133"	"2005"	"2005"	"Unintentional"	"1"	174	378885	45.9
+	"Waukesha County, WI"	"55133"	"2005"	"2005"	"Suicide"	"2"	35	378885	9.2
+	"Waukesha County, WI"	"55133"	"2006"	"2006"	"Unintentional"	"1"	184	380799	48.3
+	"Waukesha County, WI"	"55133"	"2006"	"2006"	"Suicide"	"2"	36	380799	9.5
+	"Waukesha County, WI"	"55133"	"2007"	"2007"	"Unintentional"	"1"	158	384239	41.1
+	"Waukesha County, WI"	"55133"	"2007"	"2007"	"Suicide"	"2"	41	384239	10.7
+	"Waukesha County, WI"	"55133"	"2008"	"2008"	"Unintentional"	"1"	176	386691	45.5
+	"Waukesha County, WI"	"55133"	"2008"	"2008"	"Suicide"	"2"	36	386691	9.3
+	"Waukesha County, WI"	"55133"	"2009"	"2009"	"Unintentional"	"1"	178	388957	45.8
+	"Waukesha County, WI"	"55133"	"2009"	"2009"	"Suicide"	"2"	44	388957	11.3
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Unintentional"	"1"	190	389891	48.7
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Suicide"	"2"	51	389891	13.1
+	"Waukesha County, WI"	"55133"	"2011"	"2011"	"Unintentional"	"1"	199	390730	50.9
+	"Waukesha County, WI"	"55133"	"2011"	"2011"	"Suicide"	"2"	37	390730	9.5
+	"Waukesha County, WI"	"55133"	"2012"	"2012"	"Unintentional"	"1"	213	392292	54.3
+	"Waukesha County, WI"	"55133"	"2012"	"2012"	"Suicide"	"2"	50	392292	12.7
+	"Waukesha County, WI"	"55133"	"2013"	"2013"	"Unintentional"	"1"	195	393843	49.5
+	"Waukesha County, WI"	"55133"	"2013"	"2013"	"Suicide"	"2"	57	393843	14.5
+	"Waukesha County, WI"	"55133"	"2014"	"2014"	"Unintentional"	"1"	196	395118	49.6
+	"Waukesha County, WI"	"55133"	"2014"	"2014"	"Suicide"	"2"	48	395118	12.1
+	"Waukesha County, WI"	"55133"	"2015"	"2015"	"Unintentional"	"1"	229	396488	57.8
+	"Waukesha County, WI"	"55133"	"2015"	"2015"	"Suicide"	"2"	58	396488	14.6
+	"Waukesha County, WI"	"55133"	"2016"	"2016"	"Unintentional"	"1"	266	398424	66.8
+	"Waukesha County, WI"	"55133"	"2016"	"2016"	"Suicide"	"2"	56	398424	14.1
+	"Waukesha County, WI"	"55133"	"2017"	"2017"	"Unintentional"	"1"	288	400621	71.9
+	"Waukesha County, WI"	"55133"	"2017"	"2017"	"Suicide"	"2"	60	400621	15.0
+	"Waukesha County, WI"	"55133"	"2018"	"2018"	"Unintentional"	"1"	277	403072	68.7
+	"Waukesha County, WI"	"55133"	"2018"	"2018"	"Suicide"	"2"	60	403072	14.9
+	"Waupaca County, WI"	"55135"	"1999"	"1999"	"Unintentional"	"1"	31	51378	60.3
+	"Waupaca County, WI"	"55135"	"2000"	"2000"	"Unintentional"	"1"	30	51731	58.0
+	"Waupaca County, WI"	"55135"	"2001"	"2001"	"Unintentional"	"1"	30	52092	57.6
+	"Waupaca County, WI"	"55135"	"2002"	"2002"	"Unintentional"	"1"	38	52380	72.5
+	"Waupaca County, WI"	"55135"	"2003"	"2003"	"Unintentional"	"1"	38	52579	72.3
+	"Waupaca County, WI"	"55135"	"2004"	"2004"	"Unintentional"	"1"	33	52605	62.7
+	"Waupaca County, WI"	"55135"	"2005"	"2005"	"Unintentional"	"1"	36	52508	68.6
+	"Waupaca County, WI"	"55135"	"2006"	"2006"	"Unintentional"	"1"	32	52634	60.8
+	"Waupaca County, WI"	"55135"	"2007"	"2007"	"Unintentional"	"1"	24	52677	45.6
+	"Waupaca County, WI"	"55135"	"2008"	"2008"	"Unintentional"	"1"	29	52593	55.1
+	"Waupaca County, WI"	"55135"	"2009"	"2009"	"Unintentional"	"1"	28	52392	53.4
+	"Waupaca County, WI"	"55135"	"2010"	"2010"	"Unintentional"	"1"	33	52410	63.0
+	"Waupaca County, WI"	"55135"	"2011"	"2011"	"Unintentional"	"1"	36	52682	68.3
+	"Waupaca County, WI"	"55135"	"2012"	"2012"	"Unintentional"	"1"	36	52131	69.1
+	"Waupaca County, WI"	"55135"	"2013"	"2013"	"Unintentional"	"1"	26	52285	49.7
+	"Waupaca County, WI"	"55135"	"2013"	"2013"	"Suicide"	"2"	12	52285	Unreliable
+	"Waupaca County, WI"	"55135"	"2014"	"2014"	"Unintentional"	"1"	32	52066	61.5
+	"Waupaca County, WI"	"55135"	"2014"	"2014"	"Suicide"	"2"	10	52066	Unreliable
+	"Waupaca County, WI"	"55135"	"2015"	"2015"	"Unintentional"	"1"	40	51945	77.0
+	"Waupaca County, WI"	"55135"	"2016"	"2016"	"Unintentional"	"1"	24	51533	46.6
+	"Waupaca County, WI"	"55135"	"2017"	"2017"	"Unintentional"	"1"	46	51225	89.8
+	"Waupaca County, WI"	"55135"	"2017"	"2017"	"Suicide"	"2"	12	51225	Unreliable
+	"Waupaca County, WI"	"55135"	"2018"	"2018"	"Unintentional"	"1"	35	51128	68.5
+	"Waushara County, WI"	"55137"	"1999"	"1999"	"Unintentional"	"1"	13	22843	Unreliable
+	"Waushara County, WI"	"55137"	"2000"	"2000"	"Unintentional"	"1"	16	23154	Unreliable
+	"Waushara County, WI"	"55137"	"2001"	"2001"	"Unintentional"	"1"	15	23343	Unreliable
+	"Waushara County, WI"	"55137"	"2002"	"2002"	"Unintentional"	"1"	11	24257	Unreliable
+	"Waushara County, WI"	"55137"	"2003"	"2003"	"Unintentional"	"1"	11	24464	Unreliable
+	"Waushara County, WI"	"55137"	"2004"	"2004"	"Unintentional"	"1"	13	24534	Unreliable
+	"Waushara County, WI"	"55137"	"2006"	"2006"	"Unintentional"	"1"	13	24690	Unreliable
+	"Waushara County, WI"	"55137"	"2007"	"2007"	"Unintentional"	"1"	10	24686	Unreliable
+	"Waushara County, WI"	"55137"	"2008"	"2008"	"Unintentional"	"1"	16	24760	Unreliable
+	"Waushara County, WI"	"55137"	"2009"	"2009"	"Unintentional"	"1"	11	24554	Unreliable
+	"Waushara County, WI"	"55137"	"2011"	"2011"	"Unintentional"	"1"	14	24576	Unreliable
+	"Waushara County, WI"	"55137"	"2012"	"2012"	"Unintentional"	"1"	15	24461	Unreliable
+	"Waushara County, WI"	"55137"	"2014"	"2014"	"Unintentional"	"1"	10	24178	Unreliable
+	"Waushara County, WI"	"55137"	"2015"	"2015"	"Unintentional"	"1"	13	24033	Unreliable
+	"Waushara County, WI"	"55137"	"2016"	"2016"	"Unintentional"	"1"	14	24162	Unreliable
+	"Waushara County, WI"	"55137"	"2017"	"2017"	"Unintentional"	"1"	11	24369	Unreliable
+	"Waushara County, WI"	"55137"	"2018"	"2018"	"Unintentional"	"1"	12	24263	Unreliable
+	"Winnebago County, WI"	"55139"	"1999"	"1999"	"Unintentional"	"1"	40	155801	25.7
+	"Winnebago County, WI"	"55139"	"1999"	"1999"	"Suicide"	"2"	24	155801	15.4
+	"Winnebago County, WI"	"55139"	"2000"	"2000"	"Unintentional"	"1"	49	156763	31.3
+	"Winnebago County, WI"	"55139"	"2000"	"2000"	"Suicide"	"2"	18	156763	Unreliable
+	"Winnebago County, WI"	"55139"	"2001"	"2001"	"Unintentional"	"1"	37	158163	23.4
+	"Winnebago County, WI"	"55139"	"2001"	"2001"	"Suicide"	"2"	18	158163	Unreliable
+	"Winnebago County, WI"	"55139"	"2002"	"2002"	"Unintentional"	"1"	33	159134	20.7
+	"Winnebago County, WI"	"55139"	"2002"	"2002"	"Suicide"	"2"	22	159134	13.8
+	"Winnebago County, WI"	"55139"	"2003"	"2003"	"Unintentional"	"1"	65	159440	40.8
+	"Winnebago County, WI"	"55139"	"2003"	"2003"	"Suicide"	"2"	21	159440	13.2
+	"Winnebago County, WI"	"55139"	"2004"	"2004"	"Unintentional"	"1"	77	160130	48.1
+	"Winnebago County, WI"	"55139"	"2004"	"2004"	"Suicide"	"2"	19	160130	Unreliable
+	"Winnebago County, WI"	"55139"	"2005"	"2005"	"Unintentional"	"1"	66	161451	40.9
+	"Winnebago County, WI"	"55139"	"2005"	"2005"	"Suicide"	"2"	14	161451	Unreliable
+	"Winnebago County, WI"	"55139"	"2006"	"2006"	"Unintentional"	"1"	61	162727	37.5
+	"Winnebago County, WI"	"55139"	"2006"	"2006"	"Suicide"	"2"	22	162727	13.5
+	"Winnebago County, WI"	"55139"	"2007"	"2007"	"Unintentional"	"1"	73	164037	44.5
+	"Winnebago County, WI"	"55139"	"2007"	"2007"	"Suicide"	"2"	24	164037	14.6
+	"Winnebago County, WI"	"55139"	"2008"	"2008"	"Unintentional"	"1"	62	164910	37.6
+	"Winnebago County, WI"	"55139"	"2008"	"2008"	"Suicide"	"2"	17	164910	Unreliable
+	"Winnebago County, WI"	"55139"	"2009"	"2009"	"Unintentional"	"1"	82	166429	49.3
+	"Winnebago County, WI"	"55139"	"2009"	"2009"	"Suicide"	"2"	20	166429	12.0
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Unintentional"	"1"	89	166994	53.3
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Suicide"	"2"	28	166994	16.8
+	"Winnebago County, WI"	"55139"	"2011"	"2011"	"Unintentional"	"1"	76	167699	45.3
+	"Winnebago County, WI"	"55139"	"2011"	"2011"	"Suicide"	"2"	24	167699	14.3
+	"Winnebago County, WI"	"55139"	"2012"	"2012"	"Unintentional"	"1"	71	168794	42.1
+	"Winnebago County, WI"	"55139"	"2012"	"2012"	"Suicide"	"2"	31	168794	18.4
+	"Winnebago County, WI"	"55139"	"2013"	"2013"	"Unintentional"	"1"	64	169541	37.7
+	"Winnebago County, WI"	"55139"	"2013"	"2013"	"Suicide"	"2"	30	169541	17.7
+	"Winnebago County, WI"	"55139"	"2014"	"2014"	"Unintentional"	"1"	93	169511	54.9
+	"Winnebago County, WI"	"55139"	"2014"	"2014"	"Suicide"	"2"	21	169511	12.4
+	"Winnebago County, WI"	"55139"	"2015"	"2015"	"Unintentional"	"1"	107	169546	63.1
+	"Winnebago County, WI"	"55139"	"2015"	"2015"	"Suicide"	"2"	20	169546	11.8
+	"Winnebago County, WI"	"55139"	"2016"	"2016"	"Unintentional"	"1"	93	169886	54.7
+	"Winnebago County, WI"	"55139"	"2016"	"2016"	"Suicide"	"2"	30	169886	17.7
+	"Winnebago County, WI"	"55139"	"2017"	"2017"	"Unintentional"	"1"	96	170414	56.3
+	"Winnebago County, WI"	"55139"	"2017"	"2017"	"Suicide"	"2"	25	170414	14.7
+	"Winnebago County, WI"	"55139"	"2018"	"2018"	"Unintentional"	"1"	104	171020	60.8
+	"Winnebago County, WI"	"55139"	"2018"	"2018"	"Suicide"	"2"	36	171020	21.1
+	"Wood County, WI"	"55141"	"1999"	"1999"	"Unintentional"	"1"	29	75551	38.4
+	"Wood County, WI"	"55141"	"2000"	"2000"	"Unintentional"	"1"	34	75555	45.0
+	"Wood County, WI"	"55141"	"2000"	"2000"	"Suicide"	"2"	10	75555	Unreliable
+	"Wood County, WI"	"55141"	"2001"	"2001"	"Unintentional"	"1"	33	75376	43.8
+	"Wood County, WI"	"55141"	"2002"	"2002"	"Unintentional"	"1"	18	75223	Unreliable
+	"Wood County, WI"	"55141"	"2003"	"2003"	"Unintentional"	"1"	34	75179	45.2
+	"Wood County, WI"	"55141"	"2003"	"2003"	"Suicide"	"2"	14	75179	Unreliable
+	"Wood County, WI"	"55141"	"2004"	"2004"	"Unintentional"	"1"	28	75164	37.3
+	"Wood County, WI"	"55141"	"2005"	"2005"	"Unintentional"	"1"	18	74981	Unreliable
+	"Wood County, WI"	"55141"	"2005"	"2005"	"Suicide"	"2"	12	74981	Unreliable
+	"Wood County, WI"	"55141"	"2006"	"2006"	"Unintentional"	"1"	31	74603	41.6
+	"Wood County, WI"	"55141"	"2006"	"2006"	"Suicide"	"2"	13	74603	Unreliable
+	"Wood County, WI"	"55141"	"2007"	"2007"	"Unintentional"	"1"	41	74465	55.1
+	"Wood County, WI"	"55141"	"2008"	"2008"	"Unintentional"	"1"	26	74519	34.9
+	"Wood County, WI"	"55141"	"2008"	"2008"	"Suicide"	"2"	11	74519	Unreliable
+	"Wood County, WI"	"55141"	"2009"	"2009"	"Unintentional"	"1"	27	74627	36.2
+	"Wood County, WI"	"55141"	"2009"	"2009"	"Suicide"	"2"	14	74627	Unreliable
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Unintentional"	"1"	35	74749	46.8
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Suicide"	"2"	13	74749	Unreliable
+	"Wood County, WI"	"55141"	"2011"	"2011"	"Unintentional"	"1"	32	74785	42.8
+	"Wood County, WI"	"55141"	"2012"	"2012"	"Unintentional"	"1"	30	74424	40.3
+	"Wood County, WI"	"55141"	"2013"	"2013"	"Unintentional"	"1"	47	73959	63.5
+	"Wood County, WI"	"55141"	"2013"	"2013"	"Suicide"	"2"	17	73959	Unreliable
+	"Wood County, WI"	"55141"	"2014"	"2014"	"Unintentional"	"1"	29	73608	39.4
+	"Wood County, WI"	"55141"	"2015"	"2015"	"Unintentional"	"1"	44	73435	59.9
+	"Wood County, WI"	"55141"	"2015"	"2015"	"Suicide"	"2"	15	73435	Unreliable
+	"Wood County, WI"	"55141"	"2016"	"2016"	"Unintentional"	"1"	51	73107	69.8
+	"Wood County, WI"	"55141"	"2016"	"2016"	"Suicide"	"2"	11	73107	Unreliable
+	"Wood County, WI"	"55141"	"2017"	"2017"	"Unintentional"	"1"	50	73126	68.4
+	"Wood County, WI"	"55141"	"2018"	"2018"	"Unintentional"	"1"	43	73055	58.9
+	"Wood County, WI"	"55141"	"2018"	"2018"	"Suicide"	"2"	14	73055	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Wisconsin"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Wisconsin (55)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 8:55:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 8:55:14 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

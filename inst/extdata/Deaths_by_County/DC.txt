@@ -1,0 +1,138 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"District of Columbia, DC"	"11001"	"1999"	"1999"	"Unintentional"	"1"	161	570213	28.2
+	"District of Columbia, DC"	"11001"	"1999"	"1999"	"Suicide"	"2"	30	570213	5.3
+	"District of Columbia, DC"	"11001"	"1999"	"1999"	"Homicide"	"3"	186	570213	32.6
+	"District of Columbia, DC"	"11001"	"2000"	"2000"	"Unintentional"	"1"	204	572059	35.7
+	"District of Columbia, DC"	"11001"	"2000"	"2000"	"Suicide"	"2"	23	572059	4.0
+	"District of Columbia, DC"	"11001"	"2000"	"2000"	"Homicide"	"3"	184	572059	32.2
+	"District of Columbia, DC"	"11001"	"2001"	"2001"	"Unintentional"	"1"	223	574504	38.8
+	"District of Columbia, DC"	"11001"	"2001"	"2001"	"Suicide"	"2"	40	574504	7.0
+	"District of Columbia, DC"	"11001"	"2001"	"2001"	"Homicide"	"3"	182	574504	31.7
+	"District of Columbia, DC"	"11001"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	11	574504	Unreliable
+	"District of Columbia, DC"	"11001"	"2002"	"2002"	"Unintentional"	"1"	200	573158	34.9
+	"District of Columbia, DC"	"11001"	"2002"	"2002"	"Suicide"	"2"	31	573158	5.4
+	"District of Columbia, DC"	"11001"	"2002"	"2002"	"Homicide"	"3"	229	573158	40.0
+	"District of Columbia, DC"	"11001"	"2002"	"2002"	"Undetermined "	"4"	13	573158	Unreliable
+	"District of Columbia, DC"	"11001"	"2003"	"2003"	"Unintentional"	"1"	233	568502	41.0
+	"District of Columbia, DC"	"11001"	"2003"	"2003"	"Suicide"	"2"	36	568502	6.3
+	"District of Columbia, DC"	"11001"	"2003"	"2003"	"Homicide"	"3"	194	568502	34.1
+	"District of Columbia, DC"	"11001"	"2003"	"2003"	"Undetermined "	"4"	12	568502	Unreliable
+	"District of Columbia, DC"	"11001"	"2004"	"2004"	"Unintentional"	"1"	219	567754	38.6
+	"District of Columbia, DC"	"11001"	"2004"	"2004"	"Suicide"	"2"	33	567754	5.8
+	"District of Columbia, DC"	"11001"	"2004"	"2004"	"Homicide"	"3"	174	567754	30.6
+	"District of Columbia, DC"	"11001"	"2004"	"2004"	"Undetermined "	"4"	16	567754	Unreliable
+	"District of Columbia, DC"	"11001"	"2005"	"2005"	"Unintentional"	"1"	207	567136	36.5
+	"District of Columbia, DC"	"11001"	"2005"	"2005"	"Suicide"	"2"	33	567136	5.8
+	"District of Columbia, DC"	"11001"	"2005"	"2005"	"Homicide"	"3"	180	567136	31.7
+	"District of Columbia, DC"	"11001"	"2005"	"2005"	"Undetermined "	"4"	27	567136	4.8
+	"District of Columbia, DC"	"11001"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	11	567136	Unreliable
+	"District of Columbia, DC"	"11001"	"2006"	"2006"	"Unintentional"	"1"	224	570681	39.3
+	"District of Columbia, DC"	"11001"	"2006"	"2006"	"Suicide"	"2"	30	570681	5.3
+	"District of Columbia, DC"	"11001"	"2006"	"2006"	"Homicide"	"3"	150	570681	26.3
+	"District of Columbia, DC"	"11001"	"2006"	"2006"	"Undetermined "	"4"	19	570681	Unreliable
+	"District of Columbia, DC"	"11001"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	14	570681	Unreliable
+	"District of Columbia, DC"	"11001"	"2007"	"2007"	"Unintentional"	"1"	193	574404	33.6
+	"District of Columbia, DC"	"11001"	"2007"	"2007"	"Suicide"	"2"	36	574404	6.3
+	"District of Columbia, DC"	"11001"	"2007"	"2007"	"Homicide"	"3"	159	574404	27.7
+	"District of Columbia, DC"	"11001"	"2007"	"2007"	"Undetermined "	"4"	21	574404	3.7
+	"District of Columbia, DC"	"11001"	"2008"	"2008"	"Unintentional"	"1"	160	580236	27.6
+	"District of Columbia, DC"	"11001"	"2008"	"2008"	"Suicide"	"2"	43	580236	7.4
+	"District of Columbia, DC"	"11001"	"2008"	"2008"	"Homicide"	"3"	164	580236	28.3
+	"District of Columbia, DC"	"11001"	"2008"	"2008"	"Undetermined "	"4"	18	580236	Unreliable
+	"District of Columbia, DC"	"11001"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	11	580236	Unreliable
+	"District of Columbia, DC"	"11001"	"2009"	"2009"	"Unintentional"	"1"	145	592228	24.5
+	"District of Columbia, DC"	"11001"	"2009"	"2009"	"Suicide"	"2"	29	592228	4.9
+	"District of Columbia, DC"	"11001"	"2009"	"2009"	"Homicide"	"3"	135	592228	22.8
+	"District of Columbia, DC"	"11001"	"2009"	"2009"	"Undetermined "	"4"	14	592228	Unreliable
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Unintentional"	"1"	212	601723	35.2
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Suicide"	"2"	41	601723	6.8
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Homicide"	"3"	119	601723	19.8
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Undetermined "	"4"	22	601723	3.7
+	"District of Columbia, DC"	"11001"	"2011"	"2011"	"Unintentional"	"1"	185	617996	29.9
+	"District of Columbia, DC"	"11001"	"2011"	"2011"	"Suicide"	"2"	37	617996	6.0
+	"District of Columbia, DC"	"11001"	"2011"	"2011"	"Homicide"	"3"	109	617996	17.6
+	"District of Columbia, DC"	"11001"	"2011"	"2011"	"Undetermined "	"4"	25	617996	4.0
+	"District of Columbia, DC"	"11001"	"2012"	"2012"	"Unintentional"	"1"	194	632323	30.7
+	"District of Columbia, DC"	"11001"	"2012"	"2012"	"Suicide"	"2"	37	632323	5.9
+	"District of Columbia, DC"	"11001"	"2012"	"2012"	"Homicide"	"3"	82	632323	13.0
+	"District of Columbia, DC"	"11001"	"2012"	"2012"	"Undetermined "	"4"	18	632323	Unreliable
+	"District of Columbia, DC"	"11001"	"2013"	"2013"	"Unintentional"	"1"	216	646449	33.4
+	"District of Columbia, DC"	"11001"	"2013"	"2013"	"Suicide"	"2"	38	646449	5.9
+	"District of Columbia, DC"	"11001"	"2013"	"2013"	"Homicide"	"3"	90	646449	13.9
+	"District of Columbia, DC"	"11001"	"2013"	"2013"	"Undetermined "	"4"	22	646449	3.4
+	"District of Columbia, DC"	"11001"	"2014"	"2014"	"Unintentional"	"1"	217	658893	32.9
+	"District of Columbia, DC"	"11001"	"2014"	"2014"	"Suicide"	"2"	52	658893	7.9
+	"District of Columbia, DC"	"11001"	"2014"	"2014"	"Homicide"	"3"	97	658893	14.7
+	"District of Columbia, DC"	"11001"	"2014"	"2014"	"Undetermined "	"4"	14	658893	Unreliable
+	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Unintentional"	"1"	265	672228	39.4
+	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Suicide"	"2"	34	672228	5.1
+	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Homicide"	"3"	136	672228	20.2
+	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Undetermined "	"4"	18	672228	Unreliable
+	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Unintentional"	"1"	401	681170	58.9
+	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Suicide"	"2"	40	681170	5.9
+	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Homicide"	"3"	127	681170	18.6
+	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Undetermined "	"4"	25	681170	3.7
+	"District of Columbia, DC"	"11001"	"2017"	"2017"	"Unintentional"	"1"	427	693972	61.5
+	"District of Columbia, DC"	"11001"	"2017"	"2017"	"Suicide"	"2"	47	693972	6.8
+	"District of Columbia, DC"	"11001"	"2017"	"2017"	"Homicide"	"3"	117	693972	16.9
+	"District of Columbia, DC"	"11001"	"2017"	"2017"	"Undetermined "	"4"	25	693972	3.6
+	"District of Columbia, DC"	"11001"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	12	693972	Unreliable
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	"Unintentional"	"1"	395	702455	56.2
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	"Suicide"	"2"	54	702455	7.7
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	"Homicide"	"3"	144	702455	20.5
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	"Undetermined "	"4"	21	702455	3.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: DC"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: District of Columbia (11)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 5:55:47 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 5:55:47 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

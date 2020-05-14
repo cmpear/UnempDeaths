@@ -1,0 +1,442 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Churchill County, NV"	"32001"	"2000"	"2000"	"Unintentional"	"1"	17	23982	Unreliable
+	"Churchill County, NV"	"32001"	"2001"	"2001"	"Unintentional"	"1"	14	24342	Unreliable
+	"Churchill County, NV"	"32001"	"2002"	"2002"	"Unintentional"	"1"	12	24155	Unreliable
+	"Churchill County, NV"	"32001"	"2003"	"2003"	"Unintentional"	"1"	13	24026	Unreliable
+	"Churchill County, NV"	"32001"	"2004"	"2004"	"Suicide"	"2"	10	24226	Unreliable
+	"Churchill County, NV"	"32001"	"2005"	"2005"	"Unintentional"	"1"	10	24593	Unreliable
+	"Churchill County, NV"	"32001"	"2006"	"2006"	"Unintentional"	"1"	17	24842	Unreliable
+	"Churchill County, NV"	"32001"	"2006"	"2006"	"Suicide"	"2"	10	24842	Unreliable
+	"Churchill County, NV"	"32001"	"2007"	"2007"	"Unintentional"	"1"	18	24961	Unreliable
+	"Churchill County, NV"	"32001"	"2008"	"2008"	"Unintentional"	"1"	23	25049	91.8
+	"Churchill County, NV"	"32001"	"2009"	"2009"	"Unintentional"	"1"	20	25067	79.8
+	"Churchill County, NV"	"32001"	"2010"	"2010"	"Unintentional"	"1"	22	24877	88.4
+	"Churchill County, NV"	"32001"	"2011"	"2011"	"Unintentional"	"1"	11	24637	Unreliable
+	"Churchill County, NV"	"32001"	"2012"	"2012"	"Unintentional"	"1"	15	24375	Unreliable
+	"Churchill County, NV"	"32001"	"2013"	"2013"	"Unintentional"	"1"	11	24063	Unreliable
+	"Churchill County, NV"	"32001"	"2014"	"2014"	"Unintentional"	"1"	15	23989	Unreliable
+	"Churchill County, NV"	"32001"	"2015"	"2015"	"Unintentional"	"1"	13	24200	Unreliable
+	"Churchill County, NV"	"32001"	"2016"	"2016"	"Unintentional"	"1"	15	24198	Unreliable
+	"Churchill County, NV"	"32001"	"2017"	"2017"	"Unintentional"	"1"	16	24230	Unreliable
+	"Churchill County, NV"	"32001"	"2018"	"2018"	"Unintentional"	"1"	32	24440	130.9
+	"Clark County, NV"	"32003"	"1999"	"1999"	"Unintentional"	"1"	470	1321254	35.6
+	"Clark County, NV"	"32003"	"1999"	"1999"	"Suicide"	"2"	260	1321254	19.7
+	"Clark County, NV"	"32003"	"1999"	"1999"	"Homicide"	"3"	121	1321254	9.2
+	"Clark County, NV"	"32003"	"1999"	"1999"	"Undetermined "	"4"	51	1321254	3.9
+	"Clark County, NV"	"32003"	"2000"	"2000"	"Unintentional"	"1"	467	1375765	33.9
+	"Clark County, NV"	"32003"	"2000"	"2000"	"Suicide"	"2"	260	1375765	18.9
+	"Clark County, NV"	"32003"	"2000"	"2000"	"Homicide"	"3"	111	1375765	8.1
+	"Clark County, NV"	"32003"	"2000"	"2000"	"Undetermined "	"4"	50	1375765	3.6
+	"Clark County, NV"	"32003"	"2000"	"2000"	"Non-Injury, no intent classified"	"9"	21	1375765	1.5
+	"Clark County, NV"	"32003"	"2001"	"2001"	"Unintentional"	"1"	498	1460500	34.1
+	"Clark County, NV"	"32003"	"2001"	"2001"	"Suicide"	"2"	267	1460500	18.3
+	"Clark County, NV"	"32003"	"2001"	"2001"	"Homicide"	"3"	149	1460500	10.2
+	"Clark County, NV"	"32003"	"2001"	"2001"	"Undetermined "	"4"	47	1460500	3.2
+	"Clark County, NV"	"32003"	"2001"	"2001"	"Non-Injury, no intent classified"	"9"	14	1460500	Unreliable
+	"Clark County, NV"	"32003"	"2002"	"2002"	"Unintentional"	"1"	580	1522962	38.1
+	"Clark County, NV"	"32003"	"2002"	"2002"	"Suicide"	"2"	280	1522962	18.4
+	"Clark County, NV"	"32003"	"2002"	"2002"	"Homicide"	"3"	153	1522962	10.0
+	"Clark County, NV"	"32003"	"2002"	"2002"	"Undetermined "	"4"	48	1522962	3.2
+	"Clark County, NV"	"32003"	"2002"	"2002"	"Non-Injury, no intent classified"	"9"	13	1522962	Unreliable
+	"Clark County, NV"	"32003"	"2003"	"2003"	"Unintentional"	"1"	617	1584166	38.9
+	"Clark County, NV"	"32003"	"2003"	"2003"	"Suicide"	"2"	270	1584166	17.0
+	"Clark County, NV"	"32003"	"2003"	"2003"	"Homicide"	"3"	161	1584166	10.2
+	"Clark County, NV"	"32003"	"2003"	"2003"	"Undetermined "	"4"	15	1584166	Unreliable
+	"Clark County, NV"	"32003"	"2003"	"2003"	"Non-Injury, no intent classified"	"9"	11	1584166	Unreliable
+	"Clark County, NV"	"32003"	"2004"	"2004"	"Unintentional"	"1"	697	1662773	41.9
+	"Clark County, NV"	"32003"	"2004"	"2004"	"Suicide"	"2"	278	1662773	16.7
+	"Clark County, NV"	"32003"	"2004"	"2004"	"Homicide"	"3"	159	1662773	9.6
+	"Clark County, NV"	"32003"	"2004"	"2004"	"Undetermined "	"4"	10	1662773	Unreliable
+	"Clark County, NV"	"32003"	"2004"	"2004"	"Non-Injury, no intent classified"	"9"	14	1662773	Unreliable
+	"Clark County, NV"	"32003"	"2005"	"2005"	"Unintentional"	"1"	774	1729522	44.8
+	"Clark County, NV"	"32003"	"2005"	"2005"	"Suicide"	"2"	307	1729522	17.8
+	"Clark County, NV"	"32003"	"2005"	"2005"	"Homicide"	"3"	158	1729522	9.1
+	"Clark County, NV"	"32003"	"2005"	"2005"	"Undetermined "	"4"	10	1729522	Unreliable
+	"Clark County, NV"	"32003"	"2005"	"2005"	"Non-Injury, no intent classified"	"9"	10	1729522	Unreliable
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Unintentional"	"1"	761	1803774	42.2
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Suicide"	"2"	309	1803774	17.1
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Homicide"	"3"	176	1803774	9.8
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Undetermined "	"4"	13	1803774	Unreliable
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Legal Intervention / Operations of War"	"5"	10	1803774	Unreliable
+	"Clark County, NV"	"32003"	"2006"	"2006"	"Non-Injury, no intent classified"	"9"	12	1803774	Unreliable
+	"Clark County, NV"	"32003"	"2007"	"2007"	"Unintentional"	"1"	837	1867817	44.8
+	"Clark County, NV"	"32003"	"2007"	"2007"	"Suicide"	"2"	328	1867817	17.6
+	"Clark County, NV"	"32003"	"2007"	"2007"	"Homicide"	"3"	146	1867817	7.8
+	"Clark County, NV"	"32003"	"2007"	"2007"	"Non-Injury, no intent classified"	"9"	23	1867817	1.2
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Unintentional"	"1"	734	1912349	38.4
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Suicide"	"2"	348	1912349	18.2
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Homicide"	"3"	132	1912349	6.9
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Undetermined "	"4"	19	1912349	Unreliable
+	"Clark County, NV"	"32003"	"2008"	"2008"	"Non-Injury, no intent classified"	"9"	10	1912349	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Unintentional"	"1"	675	1939407	34.8
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Suicide"	"2"	336	1939407	17.3
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Homicide"	"3"	128	1939407	6.6
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Undetermined "	"4"	15	1939407	Unreliable
+	"Clark County, NV"	"32003"	"2009"	"2009"	"Non-Injury, no intent classified"	"9"	15	1939407	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Unintentional"	"1"	705	1951269	36.1
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Suicide"	"2"	376	1951269	19.3
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Homicide"	"3"	134	1951269	6.9
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Undetermined "	"4"	14	1951269	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Non-Injury, no intent classified"	"9"	18	1951269	Unreliable
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Unintentional"	"1"	760	1969975	38.6
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Suicide"	"2"	330	1969975	16.8
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Homicide"	"3"	87	1969975	4.4
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Undetermined "	"4"	16	1969975	Unreliable
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Legal Intervention / Operations of War"	"5"	10	1969975	Unreliable
+	"Clark County, NV"	"32003"	"2011"	"2011"	"Non-Injury, no intent classified"	"9"	29	1969975	1.5
+	"Clark County, NV"	"32003"	"2012"	"2012"	"Unintentional"	"1"	809	2000759	40.4
+	"Clark County, NV"	"32003"	"2012"	"2012"	"Suicide"	"2"	368	2000759	18.4
+	"Clark County, NV"	"32003"	"2012"	"2012"	"Homicide"	"3"	97	2000759	4.8
+	"Clark County, NV"	"32003"	"2012"	"2012"	"Undetermined "	"4"	13	2000759	Unreliable
+	"Clark County, NV"	"32003"	"2012"	"2012"	"Non-Injury, no intent classified"	"9"	15	2000759	Unreliable
+	"Clark County, NV"	"32003"	"2013"	"2013"	"Unintentional"	"1"	813	2027868	40.1
+	"Clark County, NV"	"32003"	"2013"	"2013"	"Suicide"	"2"	350	2027868	17.3
+	"Clark County, NV"	"32003"	"2013"	"2013"	"Homicide"	"3"	112	2027868	5.5
+	"Clark County, NV"	"32003"	"2013"	"2013"	"Undetermined "	"4"	22	2027868	1.1
+	"Clark County, NV"	"32003"	"2013"	"2013"	"Non-Injury, no intent classified"	"9"	16	2027868	Unreliable
+	"Clark County, NV"	"32003"	"2014"	"2014"	"Unintentional"	"1"	787	2069681	38.0
+	"Clark County, NV"	"32003"	"2014"	"2014"	"Suicide"	"2"	369	2069681	17.8
+	"Clark County, NV"	"32003"	"2014"	"2014"	"Homicide"	"3"	142	2069681	6.9
+	"Clark County, NV"	"32003"	"2014"	"2014"	"Undetermined "	"4"	14	2069681	Unreliable
+	"Clark County, NV"	"32003"	"2014"	"2014"	"Non-Injury, no intent classified"	"9"	21	2069681	1.0
+	"Clark County, NV"	"32003"	"2015"	"2015"	"Unintentional"	"1"	908	2114801	42.9
+	"Clark County, NV"	"32003"	"2015"	"2015"	"Suicide"	"2"	374	2114801	17.7
+	"Clark County, NV"	"32003"	"2015"	"2015"	"Homicide"	"3"	150	2114801	7.1
+	"Clark County, NV"	"32003"	"2015"	"2015"	"Non-Injury, no intent classified"	"9"	12	2114801	Unreliable
+	"Clark County, NV"	"32003"	"2016"	"2016"	"Unintentional"	"1"	919	2155664	42.6
+	"Clark County, NV"	"32003"	"2016"	"2016"	"Suicide"	"2"	419	2155664	19.4
+	"Clark County, NV"	"32003"	"2016"	"2016"	"Homicide"	"3"	182	2155664	8.4
+	"Clark County, NV"	"32003"	"2016"	"2016"	"Undetermined "	"4"	20	2155664	0.9
+	"Clark County, NV"	"32003"	"2016"	"2016"	"Non-Injury, no intent classified"	"9"	28	2155664	1.3
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Unintentional"	"1"	986	2204079	44.7
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Suicide"	"2"	433	2204079	19.6
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Homicide"	"3"	186	2204079	8.4
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Undetermined "	"4"	30	2204079	1.4
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Legal Intervention / Operations of War"	"5"	11	2204079	Unreliable
+	"Clark County, NV"	"32003"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	30	2204079	1.4
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Unintentional"	"1"	1050	2231647	47.1
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Suicide"	"2"	465	2231647	20.8
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Homicide"	"3"	189	2231647	8.5
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Undetermined "	"4"	11	2231647	Unreliable
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	14	2231647	Unreliable
+	"Clark County, NV"	"32003"	"2018"	"2018"	"Non-Injury, no intent classified"	"9"	37	2231647	1.7
+	"Douglas County, NV"	"32005"	"1999"	"1999"	"Unintentional"	"1"	13	40458	Unreliable
+	"Douglas County, NV"	"32005"	"2000"	"2000"	"Unintentional"	"1"	13	41259	Unreliable
+	"Douglas County, NV"	"32005"	"2001"	"2001"	"Unintentional"	"1"	13	42327	Unreliable
+	"Douglas County, NV"	"32005"	"2002"	"2002"	"Unintentional"	"1"	17	43436	Unreliable
+	"Douglas County, NV"	"32005"	"2002"	"2002"	"Suicide"	"2"	12	43436	Unreliable
+	"Douglas County, NV"	"32005"	"2003"	"2003"	"Unintentional"	"1"	18	44524	Unreliable
+	"Douglas County, NV"	"32005"	"2004"	"2004"	"Unintentional"	"1"	20	46388	43.1
+	"Douglas County, NV"	"32005"	"2005"	"2005"	"Unintentional"	"1"	25	46731	53.5
+	"Douglas County, NV"	"32005"	"2006"	"2006"	"Unintentional"	"1"	24	46855	51.2
+	"Douglas County, NV"	"32005"	"2007"	"2007"	"Unintentional"	"1"	19	47166	Unreliable
+	"Douglas County, NV"	"32005"	"2007"	"2007"	"Suicide"	"2"	11	47166	Unreliable
+	"Douglas County, NV"	"32005"	"2008"	"2008"	"Unintentional"	"1"	25	47270	52.9
+	"Douglas County, NV"	"32005"	"2008"	"2008"	"Suicide"	"2"	19	47270	Unreliable
+	"Douglas County, NV"	"32005"	"2009"	"2009"	"Unintentional"	"1"	26	46965	55.4
+	"Douglas County, NV"	"32005"	"2009"	"2009"	"Suicide"	"2"	16	46965	Unreliable
+	"Douglas County, NV"	"32005"	"2010"	"2010"	"Unintentional"	"1"	27	46997	57.5
+	"Douglas County, NV"	"32005"	"2011"	"2011"	"Unintentional"	"1"	30	46886	64.0
+	"Douglas County, NV"	"32005"	"2012"	"2012"	"Unintentional"	"1"	19	46996	Unreliable
+	"Douglas County, NV"	"32005"	"2013"	"2013"	"Unintentional"	"1"	23	47118	48.8
+	"Douglas County, NV"	"32005"	"2013"	"2013"	"Suicide"	"2"	11	47118	Unreliable
+	"Douglas County, NV"	"32005"	"2014"	"2014"	"Unintentional"	"1"	26	47536	54.7
+	"Douglas County, NV"	"32005"	"2014"	"2014"	"Suicide"	"2"	13	47536	Unreliable
+	"Douglas County, NV"	"32005"	"2015"	"2015"	"Unintentional"	"1"	28	47710	58.7
+	"Douglas County, NV"	"32005"	"2016"	"2016"	"Unintentional"	"1"	31	48020	64.6
+	"Douglas County, NV"	"32005"	"2016"	"2016"	"Suicide"	"2"	10	48020	Unreliable
+	"Douglas County, NV"	"32005"	"2017"	"2017"	"Unintentional"	"1"	15	48309	Unreliable
+	"Douglas County, NV"	"32005"	"2017"	"2017"	"Suicide"	"2"	15	48309	Unreliable
+	"Douglas County, NV"	"32005"	"2018"	"2018"	"Unintentional"	"1"	25	48467	51.6
+	"Douglas County, NV"	"32005"	"2018"	"2018"	"Suicide"	"2"	15	48467	Unreliable
+	"Elko County, NV"	"32007"	"1999"	"1999"	"Unintentional"	"1"	20	45134	44.3
+	"Elko County, NV"	"32007"	"1999"	"1999"	"Suicide"	"2"	10	45134	Unreliable
+	"Elko County, NV"	"32007"	"2000"	"2000"	"Unintentional"	"1"	15	45291	Unreliable
+	"Elko County, NV"	"32007"	"2000"	"2000"	"Suicide"	"2"	12	45291	Unreliable
+	"Elko County, NV"	"32007"	"2001"	"2001"	"Unintentional"	"1"	21	45063	46.6
+	"Elko County, NV"	"32007"	"2002"	"2002"	"Unintentional"	"1"	26	44173	58.9
+	"Elko County, NV"	"32007"	"2003"	"2003"	"Unintentional"	"1"	24	43693	54.9
+	"Elko County, NV"	"32007"	"2004"	"2004"	"Unintentional"	"1"	19	43830	Unreliable
+	"Elko County, NV"	"32007"	"2005"	"2005"	"Unintentional"	"1"	14	44760	Unreliable
+	"Elko County, NV"	"32007"	"2006"	"2006"	"Unintentional"	"1"	17	46108	Unreliable
+	"Elko County, NV"	"32007"	"2006"	"2006"	"Suicide"	"2"	10	46108	Unreliable
+	"Elko County, NV"	"32007"	"2007"	"2007"	"Unintentional"	"1"	23	47423	48.5
+	"Elko County, NV"	"32007"	"2008"	"2008"	"Unintentional"	"1"	32	47634	67.2
+	"Elko County, NV"	"32007"	"2008"	"2008"	"Suicide"	"2"	10	47634	Unreliable
+	"Elko County, NV"	"32007"	"2009"	"2009"	"Unintentional"	"1"	25	48445	51.6
+	"Elko County, NV"	"32007"	"2009"	"2009"	"Suicide"	"2"	16	48445	Unreliable
+	"Elko County, NV"	"32007"	"2010"	"2010"	"Unintentional"	"1"	17	48818	Unreliable
+	"Elko County, NV"	"32007"	"2010"	"2010"	"Suicide"	"2"	11	48818	Unreliable
+	"Elko County, NV"	"32007"	"2011"	"2011"	"Unintentional"	"1"	25	49491	50.5
+	"Elko County, NV"	"32007"	"2011"	"2011"	"Suicide"	"2"	17	49491	Unreliable
+	"Elko County, NV"	"32007"	"2012"	"2012"	"Unintentional"	"1"	27	51216	52.7
+	"Elko County, NV"	"32007"	"2012"	"2012"	"Suicide"	"2"	10	51216	Unreliable
+	"Elko County, NV"	"32007"	"2013"	"2013"	"Unintentional"	"1"	21	52384	40.1
+	"Elko County, NV"	"32007"	"2014"	"2014"	"Unintentional"	"1"	21	52766	39.8
+	"Elko County, NV"	"32007"	"2014"	"2014"	"Suicide"	"2"	11	52766	Unreliable
+	"Elko County, NV"	"32007"	"2015"	"2015"	"Unintentional"	"1"	25	51935	48.1
+	"Elko County, NV"	"32007"	"2015"	"2015"	"Suicide"	"2"	14	51935	Unreliable
+	"Elko County, NV"	"32007"	"2016"	"2016"	"Unintentional"	"1"	24	52168	46.0
+	"Elko County, NV"	"32007"	"2016"	"2016"	"Suicide"	"2"	14	52168	Unreliable
+	"Elko County, NV"	"32007"	"2017"	"2017"	"Unintentional"	"1"	27	52649	51.3
+	"Elko County, NV"	"32007"	"2017"	"2017"	"Suicide"	"2"	17	52649	Unreliable
+	"Elko County, NV"	"32007"	"2018"	"2018"	"Unintentional"	"1"	22	52460	41.9
+	"Elko County, NV"	"32007"	"2018"	"2018"	"Suicide"	"2"	14	52460	Unreliable
+	"Humboldt County, NV"	"32013"	"1999"	"1999"	"Unintentional"	"1"	12	16722	Unreliable
+	"Humboldt County, NV"	"32013"	"2003"	"2003"	"Unintentional"	"1"	10	14630	Unreliable
+	"Humboldt County, NV"	"32013"	"2005"	"2005"	"Unintentional"	"1"	11	15046	Unreliable
+	"Humboldt County, NV"	"32013"	"2007"	"2007"	"Unintentional"	"1"	16	15658	Unreliable
+	"Humboldt County, NV"	"32013"	"2009"	"2009"	"Unintentional"	"1"	11	16290	Unreliable
+	"Humboldt County, NV"	"32013"	"2011"	"2011"	"Unintentional"	"1"	13	16735	Unreliable
+	"Humboldt County, NV"	"32013"	"2012"	"2012"	"Unintentional"	"1"	13	17048	Unreliable
+	"Humboldt County, NV"	"32013"	"2014"	"2014"	"Unintentional"	"1"	10	17279	Unreliable
+	"Humboldt County, NV"	"32013"	"2016"	"2016"	"Unintentional"	"1"	10	16842	Unreliable
+	"Humboldt County, NV"	"32013"	"2016"	"2016"	"Suicide"	"2"	10	16842	Unreliable
+	"Humboldt County, NV"	"32013"	"2017"	"2017"	"Unintentional"	"1"	10	16826	Unreliable
+	"Humboldt County, NV"	"32013"	"2018"	"2018"	"Unintentional"	"1"	12	16786	Unreliable
+	"Lincoln County, NV"	"32017"	"2006"	"2006"	"Unintentional"	"1"	13	4729	Unreliable
+	"Lyon County, NV"	"32019"	"1999"	"1999"	"Unintentional"	"1"	17	33200	Unreliable
+	"Lyon County, NV"	"32019"	"2000"	"2000"	"Unintentional"	"1"	19	34501	Unreliable
+	"Lyon County, NV"	"32019"	"2000"	"2000"	"Suicide"	"2"	13	34501	Unreliable
+	"Lyon County, NV"	"32019"	"2001"	"2001"	"Unintentional"	"1"	13	36012	Unreliable
+	"Lyon County, NV"	"32019"	"2002"	"2002"	"Unintentional"	"1"	21	37573	55.9
+	"Lyon County, NV"	"32019"	"2002"	"2002"	"Suicide"	"2"	10	37573	Unreliable
+	"Lyon County, NV"	"32019"	"2003"	"2003"	"Unintentional"	"1"	25	39646	63.1
+	"Lyon County, NV"	"32019"	"2003"	"2003"	"Suicide"	"2"	11	39646	Unreliable
+	"Lyon County, NV"	"32019"	"2004"	"2004"	"Unintentional"	"1"	30	42534	70.5
+	"Lyon County, NV"	"32019"	"2004"	"2004"	"Suicide"	"2"	14	42534	Unreliable
+	"Lyon County, NV"	"32019"	"2005"	"2005"	"Unintentional"	"1"	28	46228	60.6
+	"Lyon County, NV"	"32019"	"2005"	"2005"	"Suicide"	"2"	13	46228	Unreliable
+	"Lyon County, NV"	"32019"	"2006"	"2006"	"Unintentional"	"1"	25	49827	50.2
+	"Lyon County, NV"	"32019"	"2006"	"2006"	"Suicide"	"2"	16	49827	Unreliable
+	"Lyon County, NV"	"32019"	"2007"	"2007"	"Unintentional"	"1"	24	51725	46.4
+	"Lyon County, NV"	"32019"	"2007"	"2007"	"Suicide"	"2"	14	51725	Unreliable
+	"Lyon County, NV"	"32019"	"2008"	"2008"	"Unintentional"	"1"	26	52156	49.9
+	"Lyon County, NV"	"32019"	"2008"	"2008"	"Suicide"	"2"	14	52156	Unreliable
+	"Lyon County, NV"	"32019"	"2009"	"2009"	"Unintentional"	"1"	15	51819	Unreliable
+	"Lyon County, NV"	"32019"	"2009"	"2009"	"Suicide"	"2"	19	51819	Unreliable
+	"Lyon County, NV"	"32019"	"2010"	"2010"	"Unintentional"	"1"	32	51980	61.6
+	"Lyon County, NV"	"32019"	"2010"	"2010"	"Suicide"	"2"	11	51980	Unreliable
+	"Lyon County, NV"	"32019"	"2011"	"2011"	"Unintentional"	"1"	29	51871	55.9
+	"Lyon County, NV"	"32019"	"2011"	"2011"	"Suicide"	"2"	13	51871	Unreliable
+	"Lyon County, NV"	"32019"	"2012"	"2012"	"Unintentional"	"1"	27	51327	52.6
+	"Lyon County, NV"	"32019"	"2012"	"2012"	"Suicide"	"2"	11	51327	Unreliable
+	"Lyon County, NV"	"32019"	"2013"	"2013"	"Unintentional"	"1"	24	51557	46.6
+	"Lyon County, NV"	"32019"	"2013"	"2013"	"Suicide"	"2"	16	51557	Unreliable
+	"Lyon County, NV"	"32019"	"2014"	"2014"	"Unintentional"	"1"	28	51789	54.1
+	"Lyon County, NV"	"32019"	"2014"	"2014"	"Suicide"	"2"	29	51789	56.0
+	"Lyon County, NV"	"32019"	"2015"	"2015"	"Unintentional"	"1"	34	52585	64.7
+	"Lyon County, NV"	"32019"	"2015"	"2015"	"Suicide"	"2"	10	52585	Unreliable
+	"Lyon County, NV"	"32019"	"2016"	"2016"	"Unintentional"	"1"	29	53179	54.5
+	"Lyon County, NV"	"32019"	"2016"	"2016"	"Suicide"	"2"	14	53179	Unreliable
+	"Lyon County, NV"	"32019"	"2017"	"2017"	"Unintentional"	"1"	42	54122	77.6
+	"Lyon County, NV"	"32019"	"2017"	"2017"	"Suicide"	"2"	17	54122	Unreliable
+	"Lyon County, NV"	"32019"	"2018"	"2018"	"Unintentional"	"1"	41	55808	73.5
+	"Lyon County, NV"	"32019"	"2018"	"2018"	"Suicide"	"2"	13	55808	Unreliable
+	"Mineral County, NV"	"32021"	"2004"	"2004"	"Unintentional"	"1"	10	4892	Unreliable
+	"Nye County, NV"	"32023"	"1999"	"1999"	"Unintentional"	"1"	28	31475	89.0
+	"Nye County, NV"	"32023"	"2000"	"2000"	"Unintentional"	"1"	25	32485	77.0
+	"Nye County, NV"	"32023"	"2000"	"2000"	"Suicide"	"2"	11	32485	Unreliable
+	"Nye County, NV"	"32023"	"2001"	"2001"	"Unintentional"	"1"	25	33684	74.2
+	"Nye County, NV"	"32023"	"2001"	"2001"	"Suicide"	"2"	10	33684	Unreliable
+	"Nye County, NV"	"32023"	"2002"	"2002"	"Unintentional"	"1"	31	34433	90.0
+	"Nye County, NV"	"32023"	"2003"	"2003"	"Unintentional"	"1"	21	35525	59.1
+	"Nye County, NV"	"32023"	"2003"	"2003"	"Suicide"	"2"	16	35525	Unreliable
+	"Nye County, NV"	"32023"	"2004"	"2004"	"Unintentional"	"1"	41	37287	110.0
+	"Nye County, NV"	"32023"	"2004"	"2004"	"Suicide"	"2"	17	37287	Unreliable
+	"Nye County, NV"	"32023"	"2005"	"2005"	"Unintentional"	"1"	49	40027	122.4
+	"Nye County, NV"	"32023"	"2005"	"2005"	"Suicide"	"2"	14	40027	Unreliable
+	"Nye County, NV"	"32023"	"2006"	"2006"	"Unintentional"	"1"	38	42530	89.3
+	"Nye County, NV"	"32023"	"2006"	"2006"	"Suicide"	"2"	14	42530	Unreliable
+	"Nye County, NV"	"32023"	"2007"	"2007"	"Unintentional"	"1"	30	44279	67.8
+	"Nye County, NV"	"32023"	"2007"	"2007"	"Suicide"	"2"	15	44279	Unreliable
+	"Nye County, NV"	"32023"	"2008"	"2008"	"Unintentional"	"1"	42	44367	94.7
+	"Nye County, NV"	"32023"	"2008"	"2008"	"Suicide"	"2"	17	44367	Unreliable
+	"Nye County, NV"	"32023"	"2009"	"2009"	"Unintentional"	"1"	35	44446	78.7
+	"Nye County, NV"	"32023"	"2009"	"2009"	"Suicide"	"2"	12	44446	Unreliable
+	"Nye County, NV"	"32023"	"2010"	"2010"	"Unintentional"	"1"	46	43946	104.7
+	"Nye County, NV"	"32023"	"2010"	"2010"	"Suicide"	"2"	16	43946	Unreliable
+	"Nye County, NV"	"32023"	"2011"	"2011"	"Unintentional"	"1"	36	43351	83.0
+	"Nye County, NV"	"32023"	"2011"	"2011"	"Suicide"	"2"	15	43351	Unreliable
+	"Nye County, NV"	"32023"	"2012"	"2012"	"Unintentional"	"1"	31	42963	72.2
+	"Nye County, NV"	"32023"	"2012"	"2012"	"Suicide"	"2"	16	42963	Unreliable
+	"Nye County, NV"	"32023"	"2013"	"2013"	"Unintentional"	"1"	31	42297	73.3
+	"Nye County, NV"	"32023"	"2013"	"2013"	"Suicide"	"2"	15	42297	Unreliable
+	"Nye County, NV"	"32023"	"2014"	"2014"	"Unintentional"	"1"	24	42282	56.8
+	"Nye County, NV"	"32023"	"2014"	"2014"	"Suicide"	"2"	20	42282	47.3
+	"Nye County, NV"	"32023"	"2015"	"2015"	"Unintentional"	"1"	34	42477	80.0
+	"Nye County, NV"	"32023"	"2015"	"2015"	"Suicide"	"2"	13	42477	Unreliable
+	"Nye County, NV"	"32023"	"2016"	"2016"	"Unintentional"	"1"	37	43423	85.2
+	"Nye County, NV"	"32023"	"2016"	"2016"	"Suicide"	"2"	15	43423	Unreliable
+	"Nye County, NV"	"32023"	"2017"	"2017"	"Unintentional"	"1"	39	44202	88.2
+	"Nye County, NV"	"32023"	"2017"	"2017"	"Suicide"	"2"	16	44202	Unreliable
+	"Nye County, NV"	"32023"	"2018"	"2018"	"Unintentional"	"1"	36	45346	79.4
+	"Nye County, NV"	"32023"	"2018"	"2018"	"Suicide"	"2"	19	45346	Unreliable
+	"Washoe County, NV"	"32031"	"1999"	"1999"	"Unintentional"	"1"	108	332833	32.4
+	"Washoe County, NV"	"32031"	"1999"	"1999"	"Suicide"	"2"	68	332833	20.4
+	"Washoe County, NV"	"32031"	"1999"	"1999"	"Homicide"	"3"	23	332833	6.9
+	"Washoe County, NV"	"32031"	"2000"	"2000"	"Unintentional"	"1"	138	339486	40.6
+	"Washoe County, NV"	"32031"	"2000"	"2000"	"Suicide"	"2"	70	339486	20.6
+	"Washoe County, NV"	"32031"	"2000"	"2000"	"Homicide"	"3"	12	339486	Unreliable
+	"Washoe County, NV"	"32031"	"2001"	"2001"	"Unintentional"	"1"	110	351959	31.3
+	"Washoe County, NV"	"32031"	"2001"	"2001"	"Suicide"	"2"	64	351959	18.2
+	"Washoe County, NV"	"32031"	"2001"	"2001"	"Homicide"	"3"	14	351959	Unreliable
+	"Washoe County, NV"	"32031"	"2002"	"2002"	"Unintentional"	"1"	124	362374	34.2
+	"Washoe County, NV"	"32031"	"2002"	"2002"	"Suicide"	"2"	72	362374	19.9
+	"Washoe County, NV"	"32031"	"2002"	"2002"	"Homicide"	"3"	10	362374	Unreliable
+	"Washoe County, NV"	"32031"	"2003"	"2003"	"Unintentional"	"1"	135	372302	36.3
+	"Washoe County, NV"	"32031"	"2003"	"2003"	"Suicide"	"2"	82	372302	22.0
+	"Washoe County, NV"	"32031"	"2003"	"2003"	"Homicide"	"3"	17	372302	Unreliable
+	"Washoe County, NV"	"32031"	"2003"	"2003"	"Undetermined "	"4"	13	372302	Unreliable
+	"Washoe County, NV"	"32031"	"2004"	"2004"	"Unintentional"	"1"	139	382777	36.3
+	"Washoe County, NV"	"32031"	"2004"	"2004"	"Suicide"	"2"	74	382777	19.3
+	"Washoe County, NV"	"32031"	"2004"	"2004"	"Homicide"	"3"	15	382777	Unreliable
+	"Washoe County, NV"	"32031"	"2005"	"2005"	"Unintentional"	"1"	143	392716	36.4
+	"Washoe County, NV"	"32031"	"2005"	"2005"	"Suicide"	"2"	95	392716	24.2
+	"Washoe County, NV"	"32031"	"2005"	"2005"	"Homicide"	"3"	17	392716	Unreliable
+	"Washoe County, NV"	"32031"	"2005"	"2005"	"Undetermined "	"4"	12	392716	Unreliable
+	"Washoe County, NV"	"32031"	"2006"	"2006"	"Unintentional"	"1"	140	400453	35.0
+	"Washoe County, NV"	"32031"	"2006"	"2006"	"Suicide"	"2"	90	400453	22.5
+	"Washoe County, NV"	"32031"	"2006"	"2006"	"Homicide"	"3"	32	400453	8.0
+	"Washoe County, NV"	"32031"	"2006"	"2006"	"Undetermined "	"4"	14	400453	Unreliable
+	"Washoe County, NV"	"32031"	"2007"	"2007"	"Unintentional"	"1"	198	408724	48.4
+	"Washoe County, NV"	"32031"	"2007"	"2007"	"Suicide"	"2"	73	408724	17.9
+	"Washoe County, NV"	"32031"	"2007"	"2007"	"Homicide"	"3"	28	408724	6.9
+	"Washoe County, NV"	"32031"	"2007"	"2007"	"Undetermined "	"4"	21	408724	5.1
+	"Washoe County, NV"	"32031"	"2008"	"2008"	"Unintentional"	"1"	201	414793	48.5
+	"Washoe County, NV"	"32031"	"2008"	"2008"	"Suicide"	"2"	83	414793	20.0
+	"Washoe County, NV"	"32031"	"2008"	"2008"	"Homicide"	"3"	15	414793	Unreliable
+	"Washoe County, NV"	"32031"	"2008"	"2008"	"Undetermined "	"4"	11	414793	Unreliable
+	"Washoe County, NV"	"32031"	"2009"	"2009"	"Unintentional"	"1"	164	417722	39.3
+	"Washoe County, NV"	"32031"	"2009"	"2009"	"Suicide"	"2"	85	417722	20.3
+	"Washoe County, NV"	"32031"	"2009"	"2009"	"Homicide"	"3"	18	417722	Unreliable
+	"Washoe County, NV"	"32031"	"2009"	"2009"	"Undetermined "	"4"	12	417722	Unreliable
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Unintentional"	"1"	184	421407	43.7
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Suicide"	"2"	93	421407	22.1
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Homicide"	"3"	23	421407	5.5
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Undetermined "	"4"	13	421407	Unreliable
+	"Washoe County, NV"	"32031"	"2011"	"2011"	"Unintentional"	"1"	198	425710	46.5
+	"Washoe County, NV"	"32031"	"2011"	"2011"	"Suicide"	"2"	88	425710	20.7
+	"Washoe County, NV"	"32031"	"2011"	"2011"	"Homicide"	"3"	22	425710	5.2
+	"Washoe County, NV"	"32031"	"2011"	"2011"	"Undetermined "	"4"	17	425710	Unreliable
+	"Washoe County, NV"	"32031"	"2012"	"2012"	"Unintentional"	"1"	182	429908	42.3
+	"Washoe County, NV"	"32031"	"2012"	"2012"	"Suicide"	"2"	80	429908	18.6
+	"Washoe County, NV"	"32031"	"2012"	"2012"	"Homicide"	"3"	15	429908	Unreliable
+	"Washoe County, NV"	"32031"	"2013"	"2013"	"Unintentional"	"1"	204	433731	47.0
+	"Washoe County, NV"	"32031"	"2013"	"2013"	"Suicide"	"2"	98	433731	22.6
+	"Washoe County, NV"	"32031"	"2013"	"2013"	"Homicide"	"3"	21	433731	4.8
+	"Washoe County, NV"	"32031"	"2014"	"2014"	"Unintentional"	"1"	197	440078	44.8
+	"Washoe County, NV"	"32031"	"2014"	"2014"	"Suicide"	"2"	93	440078	21.1
+	"Washoe County, NV"	"32031"	"2014"	"2014"	"Homicide"	"3"	23	440078	5.2
+	"Washoe County, NV"	"32031"	"2015"	"2015"	"Unintentional"	"1"	205	446903	45.9
+	"Washoe County, NV"	"32031"	"2015"	"2015"	"Suicide"	"2"	97	446903	21.7
+	"Washoe County, NV"	"32031"	"2015"	"2015"	"Homicide"	"3"	26	446903	5.8
+	"Washoe County, NV"	"32031"	"2015"	"2015"	"Undetermined "	"4"	16	446903	Unreliable
+	"Washoe County, NV"	"32031"	"2016"	"2016"	"Unintentional"	"1"	266	453616	58.6
+	"Washoe County, NV"	"32031"	"2016"	"2016"	"Suicide"	"2"	126	453616	27.8
+	"Washoe County, NV"	"32031"	"2016"	"2016"	"Homicide"	"3"	17	453616	Unreliable
+	"Washoe County, NV"	"32031"	"2016"	"2016"	"Undetermined "	"4"	11	453616	Unreliable
+	"Washoe County, NV"	"32031"	"2017"	"2017"	"Unintentional"	"1"	291	460587	63.2
+	"Washoe County, NV"	"32031"	"2017"	"2017"	"Suicide"	"2"	96	460587	20.8
+	"Washoe County, NV"	"32031"	"2017"	"2017"	"Homicide"	"3"	22	460587	4.8
+	"Washoe County, NV"	"32031"	"2017"	"2017"	"Undetermined "	"4"	15	460587	Unreliable
+	"Washoe County, NV"	"32031"	"2018"	"2018"	"Unintentional"	"1"	270	465735	58.0
+	"Washoe County, NV"	"32031"	"2018"	"2018"	"Suicide"	"2"	87	465735	18.7
+	"Washoe County, NV"	"32031"	"2018"	"2018"	"Homicide"	"3"	17	465735	Unreliable
+	"Washoe County, NV"	"32031"	"2018"	"2018"	"Undetermined "	"4"	17	465735	Unreliable
+	"White Pine County, NV"	"32033"	"2009"	"2009"	"Unintentional"	"1"	10	9900	Unreliable
+	"White Pine County, NV"	"32033"	"2010"	"2010"	"Unintentional"	"1"	11	10030	Unreliable
+	"White Pine County, NV"	"32033"	"2014"	"2014"	"Unintentional"	"1"	10	10034	Unreliable
+	"Carson City, NV"	"32510"	"1999"	"1999"	"Unintentional"	"1"	16	51953	Unreliable
+	"Carson City, NV"	"32510"	"1999"	"1999"	"Suicide"	"2"	22	51953	42.3
+	"Carson City, NV"	"32510"	"2000"	"2000"	"Unintentional"	"1"	16	52457	Unreliable
+	"Carson City, NV"	"32510"	"2001"	"2001"	"Unintentional"	"1"	21	53472	39.3
+	"Carson City, NV"	"32510"	"2001"	"2001"	"Suicide"	"2"	13	53472	Unreliable
+	"Carson City, NV"	"32510"	"2002"	"2002"	"Unintentional"	"1"	23	54503	42.2
+	"Carson City, NV"	"32510"	"2002"	"2002"	"Suicide"	"2"	11	54503	Unreliable
+	"Carson City, NV"	"32510"	"2003"	"2003"	"Unintentional"	"1"	27	55234	48.9
+	"Carson City, NV"	"32510"	"2003"	"2003"	"Suicide"	"2"	17	55234	Unreliable
+	"Carson City, NV"	"32510"	"2004"	"2004"	"Unintentional"	"1"	31	55995	55.4
+	"Carson City, NV"	"32510"	"2004"	"2004"	"Suicide"	"2"	22	55995	39.3
+	"Carson City, NV"	"32510"	"2005"	"2005"	"Unintentional"	"1"	27	55982	48.2
+	"Carson City, NV"	"32510"	"2005"	"2005"	"Suicide"	"2"	15	55982	Unreliable
+	"Carson City, NV"	"32510"	"2006"	"2006"	"Unintentional"	"1"	32	55410	57.8
+	"Carson City, NV"	"32510"	"2006"	"2006"	"Suicide"	"2"	14	55410	Unreliable
+	"Carson City, NV"	"32510"	"2007"	"2007"	"Unintentional"	"1"	22	55288	39.8
+	"Carson City, NV"	"32510"	"2008"	"2008"	"Unintentional"	"1"	25	55552	45.0
+	"Carson City, NV"	"32510"	"2008"	"2008"	"Suicide"	"2"	14	55552	Unreliable
+	"Carson City, NV"	"32510"	"2009"	"2009"	"Unintentional"	"1"	27	55401	48.7
+	"Carson City, NV"	"32510"	"2010"	"2010"	"Unintentional"	"1"	18	55274	Unreliable
+	"Carson City, NV"	"32510"	"2010"	"2010"	"Suicide"	"2"	12	55274	Unreliable
+	"Carson City, NV"	"32510"	"2011"	"2011"	"Unintentional"	"1"	27	55439	48.7
+	"Carson City, NV"	"32510"	"2011"	"2011"	"Suicide"	"2"	19	55439	Unreliable
+	"Carson City, NV"	"32510"	"2012"	"2012"	"Unintentional"	"1"	29	54838	52.9
+	"Carson City, NV"	"32510"	"2012"	"2012"	"Suicide"	"2"	10	54838	Unreliable
+	"Carson City, NV"	"32510"	"2013"	"2013"	"Unintentional"	"1"	29	54080	53.6
+	"Carson City, NV"	"32510"	"2013"	"2013"	"Suicide"	"2"	24	54080	44.4
+	"Carson City, NV"	"32510"	"2014"	"2014"	"Unintentional"	"1"	31	54522	56.9
+	"Carson City, NV"	"32510"	"2014"	"2014"	"Suicide"	"2"	13	54522	Unreliable
+	"Carson City, NV"	"32510"	"2015"	"2015"	"Unintentional"	"1"	62	54521	113.7
+	"Carson City, NV"	"32510"	"2015"	"2015"	"Suicide"	"2"	13	54521	Unreliable
+	"Carson City, NV"	"32510"	"2016"	"2016"	"Unintentional"	"1"	36	54742	65.8
+	"Carson City, NV"	"32510"	"2016"	"2016"	"Suicide"	"2"	18	54742	Unreliable
+	"Carson City, NV"	"32510"	"2017"	"2017"	"Unintentional"	"1"	47	54745	85.9
+	"Carson City, NV"	"32510"	"2017"	"2017"	"Suicide"	"2"	18	54745	Unreliable
+	"Carson City, NV"	"32510"	"2018"	"2018"	"Unintentional"	"1"	32	55414	57.7
+	"Carson City, NV"	"32510"	"2018"	"2018"	"Suicide"	"2"	17	55414	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Nevada"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Nevada (32)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:52:50 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:52:50 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

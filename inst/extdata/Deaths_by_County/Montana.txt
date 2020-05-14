@@ -1,0 +1,522 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Beaverhead County, MT"	"30001"	"2010"	"2010"	"Unintentional"	"1"	10	9246	Unreliable
+	"Big Horn County, MT"	"30003"	"1999"	"1999"	"Unintentional"	"1"	19	12653	Unreliable
+	"Big Horn County, MT"	"30003"	"2000"	"2000"	"Unintentional"	"1"	19	12671	Unreliable
+	"Big Horn County, MT"	"30003"	"2001"	"2001"	"Unintentional"	"1"	12	12783	Unreliable
+	"Big Horn County, MT"	"30003"	"2002"	"2002"	"Unintentional"	"1"	14	12713	Unreliable
+	"Big Horn County, MT"	"30003"	"2003"	"2003"	"Unintentional"	"1"	10	12652	Unreliable
+	"Big Horn County, MT"	"30003"	"2004"	"2004"	"Unintentional"	"1"	12	12731	Unreliable
+	"Big Horn County, MT"	"30003"	"2005"	"2005"	"Unintentional"	"1"	11	12634	Unreliable
+	"Big Horn County, MT"	"30003"	"2006"	"2006"	"Unintentional"	"1"	19	12540	Unreliable
+	"Big Horn County, MT"	"30003"	"2007"	"2007"	"Unintentional"	"1"	18	12549	Unreliable
+	"Big Horn County, MT"	"30003"	"2008"	"2008"	"Unintentional"	"1"	12	12564	Unreliable
+	"Big Horn County, MT"	"30003"	"2009"	"2009"	"Unintentional"	"1"	13	12747	Unreliable
+	"Big Horn County, MT"	"30003"	"2010"	"2010"	"Unintentional"	"1"	11	12865	Unreliable
+	"Big Horn County, MT"	"30003"	"2011"	"2011"	"Unintentional"	"1"	17	13093	Unreliable
+	"Big Horn County, MT"	"30003"	"2012"	"2012"	"Unintentional"	"1"	16	13061	Unreliable
+	"Big Horn County, MT"	"30003"	"2014"	"2014"	"Unintentional"	"1"	21	13282	158.1
+	"Big Horn County, MT"	"30003"	"2015"	"2015"	"Unintentional"	"1"	19	13242	Unreliable
+	"Big Horn County, MT"	"30003"	"2016"	"2016"	"Unintentional"	"1"	17	13343	Unreliable
+	"Big Horn County, MT"	"30003"	"2017"	"2017"	"Unintentional"	"1"	11	13360	Unreliable
+	"Big Horn County, MT"	"30003"	"2018"	"2018"	"Unintentional"	"1"	17	13338	Unreliable
+	"Blaine County, MT"	"30005"	"2000"	"2000"	"Unintentional"	"1"	11	7009	Unreliable
+	"Carbon County, MT"	"30009"	"1999"	"1999"	"Unintentional"	"1"	12	9495	Unreliable
+	"Carbon County, MT"	"30009"	"2009"	"2009"	"Unintentional"	"1"	12	10033	Unreliable
+	"Carbon County, MT"	"30009"	"2010"	"2010"	"Unintentional"	"1"	11	10078	Unreliable
+	"Carbon County, MT"	"30009"	"2011"	"2011"	"Unintentional"	"1"	10	10028	Unreliable
+	"Carbon County, MT"	"30009"	"2018"	"2018"	"Unintentional"	"1"	10	10714	Unreliable
+	"Cascade County, MT"	"30013"	"1999"	"1999"	"Unintentional"	"1"	36	80596	44.7
+	"Cascade County, MT"	"30013"	"1999"	"1999"	"Suicide"	"2"	18	80596	Unreliable
+	"Cascade County, MT"	"30013"	"2000"	"2000"	"Unintentional"	"1"	48	80357	59.7
+	"Cascade County, MT"	"30013"	"2000"	"2000"	"Suicide"	"2"	20	80357	24.9
+	"Cascade County, MT"	"30013"	"2001"	"2001"	"Unintentional"	"1"	48	80055	60.0
+	"Cascade County, MT"	"30013"	"2001"	"2001"	"Suicide"	"2"	16	80055	Unreliable
+	"Cascade County, MT"	"30013"	"2002"	"2002"	"Unintentional"	"1"	30	79848	37.6
+	"Cascade County, MT"	"30013"	"2002"	"2002"	"Suicide"	"2"	21	79848	26.3
+	"Cascade County, MT"	"30013"	"2003"	"2003"	"Unintentional"	"1"	35	79633	44.0
+	"Cascade County, MT"	"30013"	"2003"	"2003"	"Suicide"	"2"	17	79633	Unreliable
+	"Cascade County, MT"	"30013"	"2004"	"2004"	"Unintentional"	"1"	36	80198	44.9
+	"Cascade County, MT"	"30013"	"2004"	"2004"	"Suicide"	"2"	13	80198	Unreliable
+	"Cascade County, MT"	"30013"	"2005"	"2005"	"Unintentional"	"1"	48	80041	60.0
+	"Cascade County, MT"	"30013"	"2005"	"2005"	"Suicide"	"2"	18	80041	Unreliable
+	"Cascade County, MT"	"30013"	"2006"	"2006"	"Unintentional"	"1"	36	79984	45.0
+	"Cascade County, MT"	"30013"	"2006"	"2006"	"Suicide"	"2"	17	79984	Unreliable
+	"Cascade County, MT"	"30013"	"2007"	"2007"	"Unintentional"	"1"	40	80099	49.9
+	"Cascade County, MT"	"30013"	"2007"	"2007"	"Suicide"	"2"	10	80099	Unreliable
+	"Cascade County, MT"	"30013"	"2008"	"2008"	"Unintentional"	"1"	39	80529	48.4
+	"Cascade County, MT"	"30013"	"2008"	"2008"	"Suicide"	"2"	14	80529	Unreliable
+	"Cascade County, MT"	"30013"	"2009"	"2009"	"Unintentional"	"1"	39	80680	48.3
+	"Cascade County, MT"	"30013"	"2009"	"2009"	"Suicide"	"2"	20	80680	24.8
+	"Cascade County, MT"	"30013"	"2010"	"2010"	"Unintentional"	"1"	51	81327	62.7
+	"Cascade County, MT"	"30013"	"2010"	"2010"	"Suicide"	"2"	22	81327	27.1
+	"Cascade County, MT"	"30013"	"2011"	"2011"	"Unintentional"	"1"	48	81837	58.7
+	"Cascade County, MT"	"30013"	"2011"	"2011"	"Suicide"	"2"	18	81837	Unreliable
+	"Cascade County, MT"	"30013"	"2012"	"2012"	"Unintentional"	"1"	48	81723	58.7
+	"Cascade County, MT"	"30013"	"2012"	"2012"	"Suicide"	"2"	24	81723	29.4
+	"Cascade County, MT"	"30013"	"2013"	"2013"	"Unintentional"	"1"	67	82384	81.3
+	"Cascade County, MT"	"30013"	"2013"	"2013"	"Suicide"	"2"	21	82384	25.5
+	"Cascade County, MT"	"30013"	"2014"	"2014"	"Unintentional"	"1"	54	82344	65.6
+	"Cascade County, MT"	"30013"	"2015"	"2015"	"Unintentional"	"1"	54	82278	65.6
+	"Cascade County, MT"	"30013"	"2015"	"2015"	"Suicide"	"2"	21	82278	25.5
+	"Cascade County, MT"	"30013"	"2016"	"2016"	"Unintentional"	"1"	39	81755	47.7
+	"Cascade County, MT"	"30013"	"2016"	"2016"	"Suicide"	"2"	18	81755	Unreliable
+	"Cascade County, MT"	"30013"	"2017"	"2017"	"Unintentional"	"1"	52	81654	63.7
+	"Cascade County, MT"	"30013"	"2017"	"2017"	"Suicide"	"2"	29	81654	35.5
+	"Cascade County, MT"	"30013"	"2018"	"2018"	"Unintentional"	"1"	48	81643	58.8
+	"Cascade County, MT"	"30013"	"2018"	"2018"	"Suicide"	"2"	18	81643	Unreliable
+	"Custer County, MT"	"30017"	"2000"	"2000"	"Unintentional"	"1"	11	11696	Unreliable
+	"Custer County, MT"	"30017"	"2006"	"2006"	"Unintentional"	"1"	14	11395	Unreliable
+	"Custer County, MT"	"30017"	"2010"	"2010"	"Unintentional"	"1"	13	11699	Unreliable
+	"Custer County, MT"	"30017"	"2011"	"2011"	"Unintentional"	"1"	18	11752	Unreliable
+	"Custer County, MT"	"30017"	"2014"	"2014"	"Unintentional"	"1"	10	12092	Unreliable
+	"Custer County, MT"	"30017"	"2015"	"2015"	"Unintentional"	"1"	10	12135	Unreliable
+	"Deer Lodge County, MT"	"30023"	"2004"	"2004"	"Unintentional"	"1"	13	9274	Unreliable
+	"Deer Lodge County, MT"	"30023"	"2007"	"2007"	"Unintentional"	"1"	11	9264	Unreliable
+	"Deer Lodge County, MT"	"30023"	"2009"	"2009"	"Unintentional"	"1"	12	9260	Unreliable
+	"Fergus County, MT"	"30027"	"2007"	"2007"	"Unintentional"	"1"	11	11463	Unreliable
+	"Fergus County, MT"	"30027"	"2008"	"2008"	"Unintentional"	"1"	11	11448	Unreliable
+	"Fergus County, MT"	"30027"	"2013"	"2013"	"Unintentional"	"1"	11	11501	Unreliable
+	"Fergus County, MT"	"30027"	"2018"	"2018"	"Unintentional"	"1"	12	11113	Unreliable
+	"Flathead County, MT"	"30029"	"1999"	"1999"	"Unintentional"	"1"	26	73626	35.3
+	"Flathead County, MT"	"30029"	"1999"	"1999"	"Suicide"	"2"	15	73626	Unreliable
+	"Flathead County, MT"	"30029"	"2000"	"2000"	"Unintentional"	"1"	30	74471	40.3
+	"Flathead County, MT"	"30029"	"2000"	"2000"	"Suicide"	"2"	21	74471	28.2
+	"Flathead County, MT"	"30029"	"2001"	"2001"	"Unintentional"	"1"	42	76171	55.1
+	"Flathead County, MT"	"30029"	"2001"	"2001"	"Suicide"	"2"	13	76171	Unreliable
+	"Flathead County, MT"	"30029"	"2002"	"2002"	"Unintentional"	"1"	43	77583	55.4
+	"Flathead County, MT"	"30029"	"2002"	"2002"	"Suicide"	"2"	16	77583	Unreliable
+	"Flathead County, MT"	"30029"	"2003"	"2003"	"Unintentional"	"1"	33	79643	41.4
+	"Flathead County, MT"	"30029"	"2003"	"2003"	"Suicide"	"2"	24	79643	30.1
+	"Flathead County, MT"	"30029"	"2004"	"2004"	"Unintentional"	"1"	52	81247	64.0
+	"Flathead County, MT"	"30029"	"2004"	"2004"	"Suicide"	"2"	14	81247	Unreliable
+	"Flathead County, MT"	"30029"	"2005"	"2005"	"Unintentional"	"1"	47	83320	56.4
+	"Flathead County, MT"	"30029"	"2005"	"2005"	"Suicide"	"2"	17	83320	Unreliable
+	"Flathead County, MT"	"30029"	"2006"	"2006"	"Unintentional"	"1"	69	85759	80.5
+	"Flathead County, MT"	"30029"	"2006"	"2006"	"Suicide"	"2"	21	85759	24.5
+	"Flathead County, MT"	"30029"	"2007"	"2007"	"Unintentional"	"1"	65	88245	73.7
+	"Flathead County, MT"	"30029"	"2007"	"2007"	"Suicide"	"2"	16	88245	Unreliable
+	"Flathead County, MT"	"30029"	"2008"	"2008"	"Unintentional"	"1"	51	90260	56.5
+	"Flathead County, MT"	"30029"	"2008"	"2008"	"Suicide"	"2"	15	90260	Unreliable
+	"Flathead County, MT"	"30029"	"2009"	"2009"	"Unintentional"	"1"	44	90910	48.4
+	"Flathead County, MT"	"30029"	"2009"	"2009"	"Suicide"	"2"	22	90910	24.2
+	"Flathead County, MT"	"30029"	"2010"	"2010"	"Unintentional"	"1"	42	90928	46.2
+	"Flathead County, MT"	"30029"	"2010"	"2010"	"Suicide"	"2"	23	90928	25.3
+	"Flathead County, MT"	"30029"	"2011"	"2011"	"Unintentional"	"1"	49	91301	53.7
+	"Flathead County, MT"	"30029"	"2011"	"2011"	"Suicide"	"2"	16	91301	Unreliable
+	"Flathead County, MT"	"30029"	"2012"	"2012"	"Unintentional"	"1"	47	91633	51.3
+	"Flathead County, MT"	"30029"	"2012"	"2012"	"Suicide"	"2"	18	91633	Unreliable
+	"Flathead County, MT"	"30029"	"2013"	"2013"	"Unintentional"	"1"	63	93068	67.7
+	"Flathead County, MT"	"30029"	"2013"	"2013"	"Suicide"	"2"	22	93068	23.6
+	"Flathead County, MT"	"30029"	"2014"	"2014"	"Unintentional"	"1"	51	94924	53.7
+	"Flathead County, MT"	"30029"	"2014"	"2014"	"Suicide"	"2"	20	94924	21.1
+	"Flathead County, MT"	"30029"	"2015"	"2015"	"Unintentional"	"1"	53	96165	55.1
+	"Flathead County, MT"	"30029"	"2015"	"2015"	"Suicide"	"2"	24	96165	25.0
+	"Flathead County, MT"	"30029"	"2016"	"2016"	"Unintentional"	"1"	54	98082	55.1
+	"Flathead County, MT"	"30029"	"2016"	"2016"	"Suicide"	"2"	25	98082	25.5
+	"Flathead County, MT"	"30029"	"2017"	"2017"	"Unintentional"	"1"	50	100000	50.0
+	"Flathead County, MT"	"30029"	"2017"	"2017"	"Suicide"	"2"	24	100000	24.0
+	"Flathead County, MT"	"30029"	"2018"	"2018"	"Unintentional"	"1"	54	102106	52.9
+	"Flathead County, MT"	"30029"	"2018"	"2018"	"Suicide"	"2"	24	102106	23.5
+	"Gallatin County, MT"	"30031"	"1999"	"1999"	"Unintentional"	"1"	14	66437	Unreliable
+	"Gallatin County, MT"	"30031"	"1999"	"1999"	"Suicide"	"2"	10	66437	Unreliable
+	"Gallatin County, MT"	"30031"	"2000"	"2000"	"Unintentional"	"1"	34	67831	50.1
+	"Gallatin County, MT"	"30031"	"2001"	"2001"	"Unintentional"	"1"	23	70120	32.8
+	"Gallatin County, MT"	"30031"	"2001"	"2001"	"Suicide"	"2"	15	70120	Unreliable
+	"Gallatin County, MT"	"30031"	"2002"	"2002"	"Unintentional"	"1"	28	71824	39.0
+	"Gallatin County, MT"	"30031"	"2002"	"2002"	"Suicide"	"2"	12	71824	Unreliable
+	"Gallatin County, MT"	"30031"	"2003"	"2003"	"Unintentional"	"1"	37	74504	49.7
+	"Gallatin County, MT"	"30031"	"2003"	"2003"	"Suicide"	"2"	12	74504	Unreliable
+	"Gallatin County, MT"	"30031"	"2004"	"2004"	"Unintentional"	"1"	30	77124	38.9
+	"Gallatin County, MT"	"30031"	"2004"	"2004"	"Suicide"	"2"	12	77124	Unreliable
+	"Gallatin County, MT"	"30031"	"2005"	"2005"	"Unintentional"	"1"	20	80310	24.9
+	"Gallatin County, MT"	"30031"	"2005"	"2005"	"Suicide"	"2"	12	80310	Unreliable
+	"Gallatin County, MT"	"30031"	"2006"	"2006"	"Unintentional"	"1"	37	83984	44.1
+	"Gallatin County, MT"	"30031"	"2006"	"2006"	"Suicide"	"2"	18	83984	Unreliable
+	"Gallatin County, MT"	"30031"	"2007"	"2007"	"Unintentional"	"1"	38	86620	43.9
+	"Gallatin County, MT"	"30031"	"2007"	"2007"	"Suicide"	"2"	19	86620	Unreliable
+	"Gallatin County, MT"	"30031"	"2008"	"2008"	"Unintentional"	"1"	28	88932	31.5
+	"Gallatin County, MT"	"30031"	"2008"	"2008"	"Suicide"	"2"	10	88932	Unreliable
+	"Gallatin County, MT"	"30031"	"2009"	"2009"	"Unintentional"	"1"	37	89187	41.5
+	"Gallatin County, MT"	"30031"	"2009"	"2009"	"Suicide"	"2"	19	89187	Unreliable
+	"Gallatin County, MT"	"30031"	"2010"	"2010"	"Unintentional"	"1"	30	89513	33.5
+	"Gallatin County, MT"	"30031"	"2010"	"2010"	"Suicide"	"2"	17	89513	Unreliable
+	"Gallatin County, MT"	"30031"	"2011"	"2011"	"Unintentional"	"1"	43	91377	47.1
+	"Gallatin County, MT"	"30031"	"2011"	"2011"	"Suicide"	"2"	17	91377	Unreliable
+	"Gallatin County, MT"	"30031"	"2012"	"2012"	"Unintentional"	"1"	39	92614	42.1
+	"Gallatin County, MT"	"30031"	"2012"	"2012"	"Suicide"	"2"	16	92614	Unreliable
+	"Gallatin County, MT"	"30031"	"2013"	"2013"	"Unintentional"	"1"	34	94720	35.9
+	"Gallatin County, MT"	"30031"	"2013"	"2013"	"Suicide"	"2"	19	94720	Unreliable
+	"Gallatin County, MT"	"30031"	"2014"	"2014"	"Unintentional"	"1"	34	97308	34.9
+	"Gallatin County, MT"	"30031"	"2015"	"2015"	"Unintentional"	"1"	31	100739	30.8
+	"Gallatin County, MT"	"30031"	"2015"	"2015"	"Suicide"	"2"	18	100739	Unreliable
+	"Gallatin County, MT"	"30031"	"2016"	"2016"	"Unintentional"	"1"	27	104502	25.8
+	"Gallatin County, MT"	"30031"	"2016"	"2016"	"Suicide"	"2"	27	104502	25.8
+	"Gallatin County, MT"	"30031"	"2017"	"2017"	"Unintentional"	"1"	35	107810	32.5
+	"Gallatin County, MT"	"30031"	"2017"	"2017"	"Suicide"	"2"	25	107810	23.2
+	"Gallatin County, MT"	"30031"	"2018"	"2018"	"Unintentional"	"1"	35	111876	31.3
+	"Gallatin County, MT"	"30031"	"2018"	"2018"	"Suicide"	"2"	23	111876	20.6
+	"Glacier County, MT"	"30035"	"1999"	"1999"	"Unintentional"	"1"	14	13280	Unreliable
+	"Glacier County, MT"	"30035"	"2000"	"2000"	"Unintentional"	"1"	16	13247	Unreliable
+	"Glacier County, MT"	"30035"	"2002"	"2002"	"Unintentional"	"1"	18	13101	Unreliable
+	"Glacier County, MT"	"30035"	"2003"	"2003"	"Unintentional"	"1"	14	13168	Unreliable
+	"Glacier County, MT"	"30035"	"2004"	"2004"	"Unintentional"	"1"	17	13388	Unreliable
+	"Glacier County, MT"	"30035"	"2005"	"2005"	"Unintentional"	"1"	10	13264	Unreliable
+	"Glacier County, MT"	"30035"	"2006"	"2006"	"Unintentional"	"1"	12	13250	Unreliable
+	"Glacier County, MT"	"30035"	"2007"	"2007"	"Unintentional"	"1"	17	13179	Unreliable
+	"Glacier County, MT"	"30035"	"2008"	"2008"	"Unintentional"	"1"	14	13109	Unreliable
+	"Glacier County, MT"	"30035"	"2009"	"2009"	"Unintentional"	"1"	13	13266	Unreliable
+	"Glacier County, MT"	"30035"	"2010"	"2010"	"Unintentional"	"1"	12	13399	Unreliable
+	"Glacier County, MT"	"30035"	"2011"	"2011"	"Unintentional"	"1"	15	13624	Unreliable
+	"Glacier County, MT"	"30035"	"2012"	"2012"	"Unintentional"	"1"	18	13711	Unreliable
+	"Glacier County, MT"	"30035"	"2013"	"2013"	"Unintentional"	"1"	22	13739	160.1
+	"Glacier County, MT"	"30035"	"2014"	"2014"	"Unintentional"	"1"	16	13696	Unreliable
+	"Glacier County, MT"	"30035"	"2015"	"2015"	"Unintentional"	"1"	14	13647	Unreliable
+	"Glacier County, MT"	"30035"	"2016"	"2016"	"Unintentional"	"1"	12	13694	Unreliable
+	"Glacier County, MT"	"30035"	"2017"	"2017"	"Unintentional"	"1"	14	13640	Unreliable
+	"Glacier County, MT"	"30035"	"2018"	"2018"	"Unintentional"	"1"	10	13747	Unreliable
+	"Hill County, MT"	"30041"	"2001"	"2001"	"Unintentional"	"1"	10	16378	Unreliable
+	"Hill County, MT"	"30041"	"2003"	"2003"	"Unintentional"	"1"	12	15988	Unreliable
+	"Hill County, MT"	"30041"	"2004"	"2004"	"Unintentional"	"1"	10	15947	Unreliable
+	"Hill County, MT"	"30041"	"2006"	"2006"	"Unintentional"	"1"	10	15981	Unreliable
+	"Hill County, MT"	"30041"	"2007"	"2007"	"Unintentional"	"1"	21	16031	131.0
+	"Hill County, MT"	"30041"	"2009"	"2009"	"Unintentional"	"1"	14	15981	Unreliable
+	"Hill County, MT"	"30041"	"2010"	"2010"	"Unintentional"	"1"	16	16096	Unreliable
+	"Hill County, MT"	"30041"	"2012"	"2012"	"Unintentional"	"1"	11	16366	Unreliable
+	"Hill County, MT"	"30041"	"2015"	"2015"	"Unintentional"	"1"	14	16572	Unreliable
+	"Hill County, MT"	"30041"	"2016"	"2016"	"Unintentional"	"1"	10	16542	Unreliable
+	"Hill County, MT"	"30041"	"2017"	"2017"	"Unintentional"	"1"	10	16463	Unreliable
+	"Jefferson County, MT"	"30043"	"2007"	"2007"	"Unintentional"	"1"	11	11040	Unreliable
+	"Jefferson County, MT"	"30043"	"2011"	"2011"	"Unintentional"	"1"	10	11381	Unreliable
+	"Jefferson County, MT"	"30043"	"2013"	"2013"	"Unintentional"	"1"	11	11512	Unreliable
+	"Lake County, MT"	"30047"	"1999"	"1999"	"Unintentional"	"1"	19	26078	Unreliable
+	"Lake County, MT"	"30047"	"2000"	"2000"	"Unintentional"	"1"	21	26507	79.2
+	"Lake County, MT"	"30047"	"2001"	"2001"	"Unintentional"	"1"	22	26810	82.1
+	"Lake County, MT"	"30047"	"2002"	"2002"	"Unintentional"	"1"	25	26814	93.2
+	"Lake County, MT"	"30047"	"2003"	"2003"	"Unintentional"	"1"	34	27117	125.4
+	"Lake County, MT"	"30047"	"2004"	"2004"	"Unintentional"	"1"	33	27634	119.4
+	"Lake County, MT"	"30047"	"2005"	"2005"	"Unintentional"	"1"	25	28023	89.2
+	"Lake County, MT"	"30047"	"2006"	"2006"	"Unintentional"	"1"	29	28283	102.5
+	"Lake County, MT"	"30047"	"2007"	"2007"	"Unintentional"	"1"	31	28235	109.8
+	"Lake County, MT"	"30047"	"2008"	"2008"	"Unintentional"	"1"	24	28515	84.2
+	"Lake County, MT"	"30047"	"2008"	"2008"	"Suicide"	"2"	11	28515	Unreliable
+	"Lake County, MT"	"30047"	"2009"	"2009"	"Unintentional"	"1"	31	28668	108.1
+	"Lake County, MT"	"30047"	"2010"	"2010"	"Unintentional"	"1"	13	28746	Unreliable
+	"Lake County, MT"	"30047"	"2011"	"2011"	"Unintentional"	"1"	17	28947	Unreliable
+	"Lake County, MT"	"30047"	"2012"	"2012"	"Unintentional"	"1"	20	28986	69.0
+	"Lake County, MT"	"30047"	"2013"	"2013"	"Unintentional"	"1"	22	29017	75.8
+	"Lake County, MT"	"30047"	"2014"	"2014"	"Unintentional"	"1"	24	29099	82.5
+	"Lake County, MT"	"30047"	"2014"	"2014"	"Suicide"	"2"	12	29099	Unreliable
+	"Lake County, MT"	"30047"	"2015"	"2015"	"Unintentional"	"1"	22	29457	74.7
+	"Lake County, MT"	"30047"	"2015"	"2015"	"Suicide"	"2"	15	29457	Unreliable
+	"Lake County, MT"	"30047"	"2016"	"2016"	"Unintentional"	"1"	21	29758	70.6
+	"Lake County, MT"	"30047"	"2017"	"2017"	"Unintentional"	"1"	23	30273	76.0
+	"Lake County, MT"	"30047"	"2017"	"2017"	"Suicide"	"2"	17	30273	Unreliable
+	"Lake County, MT"	"30047"	"2018"	"2018"	"Unintentional"	"1"	14	30250	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"1999"	"1999"	"Unintentional"	"1"	31	55214	56.1
+	"Lewis and Clark County, MT"	"30049"	"1999"	"1999"	"Suicide"	"2"	11	55214	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2000"	"2000"	"Unintentional"	"1"	18	55716	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2001"	"2001"	"Unintentional"	"1"	22	56262	39.1
+	"Lewis and Clark County, MT"	"30049"	"2001"	"2001"	"Suicide"	"2"	15	56262	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2002"	"2002"	"Unintentional"	"1"	37	56271	65.8
+	"Lewis and Clark County, MT"	"30049"	"2002"	"2002"	"Suicide"	"2"	10	56271	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2003"	"2003"	"Unintentional"	"1"	26	57110	45.5
+	"Lewis and Clark County, MT"	"30049"	"2004"	"2004"	"Unintentional"	"1"	21	58041	36.2
+	"Lewis and Clark County, MT"	"30049"	"2004"	"2004"	"Suicide"	"2"	12	58041	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2005"	"2005"	"Unintentional"	"1"	23	58529	39.3
+	"Lewis and Clark County, MT"	"30049"	"2005"	"2005"	"Suicide"	"2"	13	58529	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2006"	"2006"	"Unintentional"	"1"	29	59529	48.7
+	"Lewis and Clark County, MT"	"30049"	"2007"	"2007"	"Unintentional"	"1"	29	60646	47.8
+	"Lewis and Clark County, MT"	"30049"	"2007"	"2007"	"Suicide"	"2"	12	60646	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2008"	"2008"	"Unintentional"	"1"	49	61747	79.4
+	"Lewis and Clark County, MT"	"30049"	"2008"	"2008"	"Suicide"	"2"	11	61747	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2009"	"2009"	"Unintentional"	"1"	40	62671	63.8
+	"Lewis and Clark County, MT"	"30049"	"2010"	"2010"	"Unintentional"	"1"	33	63395	52.1
+	"Lewis and Clark County, MT"	"30049"	"2010"	"2010"	"Suicide"	"2"	12	63395	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2011"	"2011"	"Unintentional"	"1"	44	64318	68.4
+	"Lewis and Clark County, MT"	"30049"	"2011"	"2011"	"Suicide"	"2"	15	64318	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2012"	"2012"	"Unintentional"	"1"	28	64876	43.2
+	"Lewis and Clark County, MT"	"30049"	"2012"	"2012"	"Suicide"	"2"	18	64876	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2013"	"2013"	"Unintentional"	"1"	33	65338	50.5
+	"Lewis and Clark County, MT"	"30049"	"2014"	"2014"	"Unintentional"	"1"	35	65856	53.1
+	"Lewis and Clark County, MT"	"30049"	"2014"	"2014"	"Suicide"	"2"	15	65856	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2015"	"2015"	"Unintentional"	"1"	49	66418	73.8
+	"Lewis and Clark County, MT"	"30049"	"2015"	"2015"	"Suicide"	"2"	18	66418	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2016"	"2016"	"Unintentional"	"1"	48	67282	71.3
+	"Lewis and Clark County, MT"	"30049"	"2016"	"2016"	"Suicide"	"2"	15	67282	Unreliable
+	"Lewis and Clark County, MT"	"30049"	"2017"	"2017"	"Unintentional"	"1"	45	67773	66.4
+	"Lewis and Clark County, MT"	"30049"	"2017"	"2017"	"Suicide"	"2"	21	67773	31.0
+	"Lewis and Clark County, MT"	"30049"	"2018"	"2018"	"Unintentional"	"1"	30	68700	43.7
+	"Lewis and Clark County, MT"	"30049"	"2018"	"2018"	"Suicide"	"2"	19	68700	Unreliable
+	"Lincoln County, MT"	"30053"	"1999"	"1999"	"Unintentional"	"1"	18	18837	Unreliable
+	"Lincoln County, MT"	"30053"	"2000"	"2000"	"Unintentional"	"1"	11	18837	Unreliable
+	"Lincoln County, MT"	"30053"	"2001"	"2001"	"Unintentional"	"1"	16	18646	Unreliable
+	"Lincoln County, MT"	"30053"	"2002"	"2002"	"Unintentional"	"1"	11	18669	Unreliable
+	"Lincoln County, MT"	"30053"	"2003"	"2003"	"Unintentional"	"1"	16	18861	Unreliable
+	"Lincoln County, MT"	"30053"	"2004"	"2004"	"Unintentional"	"1"	12	18991	Unreliable
+	"Lincoln County, MT"	"30053"	"2005"	"2005"	"Unintentional"	"1"	14	19180	Unreliable
+	"Lincoln County, MT"	"30053"	"2006"	"2006"	"Unintentional"	"1"	16	19228	Unreliable
+	"Lincoln County, MT"	"30053"	"2007"	"2007"	"Unintentional"	"1"	19	19440	Unreliable
+	"Lincoln County, MT"	"30053"	"2008"	"2008"	"Unintentional"	"1"	16	19541	Unreliable
+	"Lincoln County, MT"	"30053"	"2009"	"2009"	"Unintentional"	"1"	19	19657	Unreliable
+	"Lincoln County, MT"	"30053"	"2010"	"2010"	"Unintentional"	"1"	11	19687	Unreliable
+	"Lincoln County, MT"	"30053"	"2010"	"2010"	"Suicide"	"2"	11	19687	Unreliable
+	"Lincoln County, MT"	"30053"	"2011"	"2011"	"Unintentional"	"1"	11	19566	Unreliable
+	"Lincoln County, MT"	"30053"	"2012"	"2012"	"Unintentional"	"1"	13	19491	Unreliable
+	"Lincoln County, MT"	"30053"	"2013"	"2013"	"Unintentional"	"1"	15	19460	Unreliable
+	"Lincoln County, MT"	"30053"	"2014"	"2014"	"Unintentional"	"1"	15	19125	Unreliable
+	"Lincoln County, MT"	"30053"	"2015"	"2015"	"Suicide"	"2"	10	19052	Unreliable
+	"Lincoln County, MT"	"30053"	"2016"	"2016"	"Unintentional"	"1"	10	19259	Unreliable
+	"Lincoln County, MT"	"30053"	"2017"	"2017"	"Unintentional"	"1"	13	19440	Unreliable
+	"Missoula County, MT"	"30063"	"1999"	"1999"	"Unintentional"	"1"	40	94791	42.2
+	"Missoula County, MT"	"30063"	"1999"	"1999"	"Suicide"	"2"	20	94791	21.1
+	"Missoula County, MT"	"30063"	"2000"	"2000"	"Unintentional"	"1"	55	95802	57.4
+	"Missoula County, MT"	"30063"	"2000"	"2000"	"Suicide"	"2"	13	95802	Unreliable
+	"Missoula County, MT"	"30063"	"2001"	"2001"	"Unintentional"	"1"	43	97435	44.1
+	"Missoula County, MT"	"30063"	"2001"	"2001"	"Suicide"	"2"	16	97435	Unreliable
+	"Missoula County, MT"	"30063"	"2002"	"2002"	"Unintentional"	"1"	38	98968	38.4
+	"Missoula County, MT"	"30063"	"2002"	"2002"	"Suicide"	"2"	20	98968	20.2
+	"Missoula County, MT"	"30063"	"2003"	"2003"	"Unintentional"	"1"	53	99976	53.0
+	"Missoula County, MT"	"30063"	"2003"	"2003"	"Suicide"	"2"	15	99976	Unreliable
+	"Missoula County, MT"	"30063"	"2004"	"2004"	"Unintentional"	"1"	38	100934	37.6
+	"Missoula County, MT"	"30063"	"2004"	"2004"	"Suicide"	"2"	23	100934	22.8
+	"Missoula County, MT"	"30063"	"2005"	"2005"	"Unintentional"	"1"	57	102298	55.7
+	"Missoula County, MT"	"30063"	"2005"	"2005"	"Suicide"	"2"	25	102298	24.4
+	"Missoula County, MT"	"30063"	"2006"	"2006"	"Unintentional"	"1"	36	104372	34.5
+	"Missoula County, MT"	"30063"	"2006"	"2006"	"Suicide"	"2"	12	104372	Unreliable
+	"Missoula County, MT"	"30063"	"2007"	"2007"	"Unintentional"	"1"	48	106110	45.2
+	"Missoula County, MT"	"30063"	"2007"	"2007"	"Suicide"	"2"	24	106110	22.6
+	"Missoula County, MT"	"30063"	"2008"	"2008"	"Unintentional"	"1"	59	107747	54.8
+	"Missoula County, MT"	"30063"	"2008"	"2008"	"Suicide"	"2"	29	107747	26.9
+	"Missoula County, MT"	"30063"	"2009"	"2009"	"Unintentional"	"1"	50	108717	46.0
+	"Missoula County, MT"	"30063"	"2009"	"2009"	"Suicide"	"2"	18	108717	Unreliable
+	"Missoula County, MT"	"30063"	"2010"	"2010"	"Unintentional"	"1"	57	109299	52.2
+	"Missoula County, MT"	"30063"	"2010"	"2010"	"Suicide"	"2"	20	109299	18.3
+	"Missoula County, MT"	"30063"	"2011"	"2011"	"Unintentional"	"1"	64	110138	58.1
+	"Missoula County, MT"	"30063"	"2011"	"2011"	"Suicide"	"2"	31	110138	28.1
+	"Missoula County, MT"	"30063"	"2012"	"2012"	"Unintentional"	"1"	55	110977	49.6
+	"Missoula County, MT"	"30063"	"2012"	"2012"	"Suicide"	"2"	24	110977	21.6
+	"Missoula County, MT"	"30063"	"2013"	"2013"	"Unintentional"	"1"	62	111807	55.5
+	"Missoula County, MT"	"30063"	"2013"	"2013"	"Suicide"	"2"	26	111807	23.3
+	"Missoula County, MT"	"30063"	"2014"	"2014"	"Unintentional"	"1"	48	112684	42.6
+	"Missoula County, MT"	"30063"	"2014"	"2014"	"Suicide"	"2"	33	112684	29.3
+	"Missoula County, MT"	"30063"	"2015"	"2015"	"Unintentional"	"1"	49	114181	42.9
+	"Missoula County, MT"	"30063"	"2015"	"2015"	"Suicide"	"2"	25	114181	21.9
+	"Missoula County, MT"	"30063"	"2016"	"2016"	"Unintentional"	"1"	69	116130	59.4
+	"Missoula County, MT"	"30063"	"2016"	"2016"	"Suicide"	"2"	33	116130	28.4
+	"Missoula County, MT"	"30063"	"2017"	"2017"	"Unintentional"	"1"	55	117441	46.8
+	"Missoula County, MT"	"30063"	"2017"	"2017"	"Suicide"	"2"	33	117441	28.1
+	"Missoula County, MT"	"30063"	"2018"	"2018"	"Unintentional"	"1"	51	118791	42.9
+	"Missoula County, MT"	"30063"	"2018"	"2018"	"Suicide"	"2"	26	118791	21.9
+	"Park County, MT"	"30067"	"2001"	"2001"	"Unintentional"	"1"	10	15651	Unreliable
+	"Park County, MT"	"30067"	"2003"	"2003"	"Unintentional"	"1"	17	15539	Unreliable
+	"Park County, MT"	"30067"	"2004"	"2004"	"Unintentional"	"1"	15	15509	Unreliable
+	"Park County, MT"	"30067"	"2008"	"2008"	"Unintentional"	"1"	12	15896	Unreliable
+	"Park County, MT"	"30067"	"2010"	"2010"	"Unintentional"	"1"	10	15636	Unreliable
+	"Park County, MT"	"30067"	"2012"	"2012"	"Unintentional"	"1"	10	15567	Unreliable
+	"Park County, MT"	"30067"	"2015"	"2015"	"Unintentional"	"1"	18	15972	Unreliable
+	"Park County, MT"	"30067"	"2016"	"2016"	"Unintentional"	"1"	11	16114	Unreliable
+	"Park County, MT"	"30067"	"2018"	"2018"	"Unintentional"	"1"	14	16736	Unreliable
+	"Pondera County, MT"	"30073"	"2004"	"2004"	"Unintentional"	"1"	15	6140	Unreliable
+	"Ravalli County, MT"	"30081"	"1999"	"1999"	"Unintentional"	"1"	15	35311	Unreliable
+	"Ravalli County, MT"	"30081"	"2000"	"2000"	"Unintentional"	"1"	17	36070	Unreliable
+	"Ravalli County, MT"	"30081"	"2001"	"2001"	"Unintentional"	"1"	19	36683	Unreliable
+	"Ravalli County, MT"	"30081"	"2002"	"2002"	"Unintentional"	"1"	18	37308	Unreliable
+	"Ravalli County, MT"	"30081"	"2003"	"2003"	"Unintentional"	"1"	26	38184	68.1
+	"Ravalli County, MT"	"30081"	"2004"	"2004"	"Unintentional"	"1"	18	38739	Unreliable
+	"Ravalli County, MT"	"30081"	"2005"	"2005"	"Unintentional"	"1"	18	39012	Unreliable
+	"Ravalli County, MT"	"30081"	"2005"	"2005"	"Suicide"	"2"	10	39012	Unreliable
+	"Ravalli County, MT"	"30081"	"2006"	"2006"	"Unintentional"	"1"	20	39555	50.6
+	"Ravalli County, MT"	"30081"	"2006"	"2006"	"Suicide"	"2"	12	39555	Unreliable
+	"Ravalli County, MT"	"30081"	"2007"	"2007"	"Unintentional"	"1"	28	40023	70.0
+	"Ravalli County, MT"	"30081"	"2008"	"2008"	"Unintentional"	"1"	27	40223	67.1
+	"Ravalli County, MT"	"30081"	"2009"	"2009"	"Unintentional"	"1"	29	39956	72.6
+	"Ravalli County, MT"	"30081"	"2009"	"2009"	"Suicide"	"2"	13	39956	Unreliable
+	"Ravalli County, MT"	"30081"	"2010"	"2010"	"Unintentional"	"1"	17	40212	Unreliable
+	"Ravalli County, MT"	"30081"	"2010"	"2010"	"Suicide"	"2"	13	40212	Unreliable
+	"Ravalli County, MT"	"30081"	"2011"	"2011"	"Unintentional"	"1"	23	40450	56.9
+	"Ravalli County, MT"	"30081"	"2011"	"2011"	"Suicide"	"2"	16	40450	Unreliable
+	"Ravalli County, MT"	"30081"	"2012"	"2012"	"Unintentional"	"1"	23	40617	56.6
+	"Ravalli County, MT"	"30081"	"2013"	"2013"	"Unintentional"	"1"	20	40823	49.0
+	"Ravalli County, MT"	"30081"	"2013"	"2013"	"Suicide"	"2"	11	40823	Unreliable
+	"Ravalli County, MT"	"30081"	"2014"	"2014"	"Unintentional"	"1"	24	41030	58.5
+	"Ravalli County, MT"	"30081"	"2014"	"2014"	"Suicide"	"2"	13	41030	Unreliable
+	"Ravalli County, MT"	"30081"	"2015"	"2015"	"Unintentional"	"1"	17	41373	Unreliable
+	"Ravalli County, MT"	"30081"	"2015"	"2015"	"Suicide"	"2"	11	41373	Unreliable
+	"Ravalli County, MT"	"30081"	"2016"	"2016"	"Unintentional"	"1"	33	42088	78.4
+	"Ravalli County, MT"	"30081"	"2016"	"2016"	"Suicide"	"2"	12	42088	Unreliable
+	"Ravalli County, MT"	"30081"	"2017"	"2017"	"Unintentional"	"1"	18	42563	Unreliable
+	"Ravalli County, MT"	"30081"	"2017"	"2017"	"Suicide"	"2"	13	42563	Unreliable
+	"Ravalli County, MT"	"30081"	"2018"	"2018"	"Unintentional"	"1"	27	43172	62.5
+	"Ravalli County, MT"	"30081"	"2018"	"2018"	"Suicide"	"2"	20	43172	46.3
+	"Richland County, MT"	"30083"	"2008"	"2008"	"Unintentional"	"1"	13	9430	Unreliable
+	"Richland County, MT"	"30083"	"2011"	"2011"	"Unintentional"	"1"	18	10128	Unreliable
+	"Richland County, MT"	"30083"	"2013"	"2013"	"Unintentional"	"1"	19	11214	Unreliable
+	"Roosevelt County, MT"	"30085"	"2001"	"2001"	"Unintentional"	"1"	10	10558	Unreliable
+	"Roosevelt County, MT"	"30085"	"2002"	"2002"	"Unintentional"	"1"	12	10389	Unreliable
+	"Roosevelt County, MT"	"30085"	"2003"	"2003"	"Unintentional"	"1"	16	10344	Unreliable
+	"Roosevelt County, MT"	"30085"	"2004"	"2004"	"Unintentional"	"1"	10	10459	Unreliable
+	"Roosevelt County, MT"	"30085"	"2007"	"2007"	"Unintentional"	"1"	12	10166	Unreliable
+	"Roosevelt County, MT"	"30085"	"2008"	"2008"	"Unintentional"	"1"	10	10129	Unreliable
+	"Roosevelt County, MT"	"30085"	"2009"	"2009"	"Unintentional"	"1"	10	10334	Unreliable
+	"Roosevelt County, MT"	"30085"	"2011"	"2011"	"Unintentional"	"1"	14	10527	Unreliable
+	"Roosevelt County, MT"	"30085"	"2012"	"2012"	"Unintentional"	"1"	10	10927	Unreliable
+	"Roosevelt County, MT"	"30085"	"2013"	"2013"	"Unintentional"	"1"	10	11125	Unreliable
+	"Roosevelt County, MT"	"30085"	"2014"	"2014"	"Unintentional"	"1"	16	11332	Unreliable
+	"Roosevelt County, MT"	"30085"	"2015"	"2015"	"Unintentional"	"1"	12	11476	Unreliable
+	"Roosevelt County, MT"	"30085"	"2016"	"2016"	"Unintentional"	"1"	11	11305	Unreliable
+	"Roosevelt County, MT"	"30085"	"2018"	"2018"	"Unintentional"	"1"	13	11059	Unreliable
+	"Rosebud County, MT"	"30087"	"2003"	"2003"	"Unintentional"	"1"	10	9210	Unreliable
+	"Rosebud County, MT"	"30087"	"2009"	"2009"	"Unintentional"	"1"	15	9174	Unreliable
+	"Rosebud County, MT"	"30087"	"2012"	"2012"	"Unintentional"	"1"	10	9396	Unreliable
+	"Rosebud County, MT"	"30087"	"2015"	"2015"	"Unintentional"	"1"	10	9398	Unreliable
+	"Rosebud County, MT"	"30087"	"2016"	"2016"	"Unintentional"	"1"	12	9287	Unreliable
+	"Rosebud County, MT"	"30087"	"2017"	"2017"	"Unintentional"	"1"	10	9248	Unreliable
+	"Sanders County, MT"	"30089"	"2002"	"2002"	"Unintentional"	"1"	12	10466	Unreliable
+	"Sanders County, MT"	"30089"	"2003"	"2003"	"Unintentional"	"1"	10	10554	Unreliable
+	"Sanders County, MT"	"30089"	"2005"	"2005"	"Unintentional"	"1"	10	11002	Unreliable
+	"Sanders County, MT"	"30089"	"2008"	"2008"	"Unintentional"	"1"	10	11433	Unreliable
+	"Sanders County, MT"	"30089"	"2009"	"2009"	"Unintentional"	"1"	10	11471	Unreliable
+	"Sanders County, MT"	"30089"	"2011"	"2011"	"Unintentional"	"1"	11	11440	Unreliable
+	"Sanders County, MT"	"30089"	"2012"	"2012"	"Unintentional"	"1"	11	11408	Unreliable
+	"Sanders County, MT"	"30089"	"2013"	"2013"	"Unintentional"	"1"	10	11363	Unreliable
+	"Sanders County, MT"	"30089"	"2015"	"2015"	"Unintentional"	"1"	11	11336	Unreliable
+	"Silver Bow County, MT"	"30093"	"1999"	"1999"	"Unintentional"	"1"	22	34757	63.3
+	"Silver Bow County, MT"	"30093"	"2000"	"2000"	"Unintentional"	"1"	23	34606	66.5
+	"Silver Bow County, MT"	"30093"	"2001"	"2001"	"Unintentional"	"1"	11	33882	Unreliable
+	"Silver Bow County, MT"	"30093"	"2002"	"2002"	"Unintentional"	"1"	14	33636	Unreliable
+	"Silver Bow County, MT"	"30093"	"2002"	"2002"	"Suicide"	"2"	12	33636	Unreliable
+	"Silver Bow County, MT"	"30093"	"2003"	"2003"	"Unintentional"	"1"	10	33474	Unreliable
+	"Silver Bow County, MT"	"30093"	"2004"	"2004"	"Unintentional"	"1"	29	33416	86.8
+	"Silver Bow County, MT"	"30093"	"2005"	"2005"	"Unintentional"	"1"	21	33414	62.8
+	"Silver Bow County, MT"	"30093"	"2006"	"2006"	"Unintentional"	"1"	29	33441	86.7
+	"Silver Bow County, MT"	"30093"	"2006"	"2006"	"Suicide"	"2"	13	33441	Unreliable
+	"Silver Bow County, MT"	"30093"	"2007"	"2007"	"Unintentional"	"1"	19	33489	Unreliable
+	"Silver Bow County, MT"	"30093"	"2008"	"2008"	"Unintentional"	"1"	22	33812	65.1
+	"Silver Bow County, MT"	"30093"	"2008"	"2008"	"Suicide"	"2"	11	33812	Unreliable
+	"Silver Bow County, MT"	"30093"	"2009"	"2009"	"Unintentional"	"1"	33	34008	97.0
+	"Silver Bow County, MT"	"30093"	"2009"	"2009"	"Suicide"	"2"	11	34008	Unreliable
+	"Silver Bow County, MT"	"30093"	"2010"	"2010"	"Unintentional"	"1"	17	34200	Unreliable
+	"Silver Bow County, MT"	"30093"	"2011"	"2011"	"Unintentional"	"1"	22	34383	64.0
+	"Silver Bow County, MT"	"30093"	"2012"	"2012"	"Unintentional"	"1"	19	34403	Unreliable
+	"Silver Bow County, MT"	"30093"	"2012"	"2012"	"Suicide"	"2"	19	34403	Unreliable
+	"Silver Bow County, MT"	"30093"	"2013"	"2013"	"Unintentional"	"1"	14	34523	Unreliable
+	"Silver Bow County, MT"	"30093"	"2013"	"2013"	"Suicide"	"2"	11	34523	Unreliable
+	"Silver Bow County, MT"	"30093"	"2014"	"2014"	"Unintentional"	"1"	23	34680	66.3
+	"Silver Bow County, MT"	"30093"	"2014"	"2014"	"Suicide"	"2"	11	34680	Unreliable
+	"Silver Bow County, MT"	"30093"	"2015"	"2015"	"Unintentional"	"1"	22	34622	63.5
+	"Silver Bow County, MT"	"30093"	"2015"	"2015"	"Suicide"	"2"	12	34622	Unreliable
+	"Silver Bow County, MT"	"30093"	"2016"	"2016"	"Unintentional"	"1"	20	34553	57.9
+	"Silver Bow County, MT"	"30093"	"2016"	"2016"	"Suicide"	"2"	12	34553	Unreliable
+	"Silver Bow County, MT"	"30093"	"2017"	"2017"	"Unintentional"	"1"	15	34602	Unreliable
+	"Silver Bow County, MT"	"30093"	"2017"	"2017"	"Suicide"	"2"	18	34602	Unreliable
+	"Silver Bow County, MT"	"30093"	"2018"	"2018"	"Unintentional"	"1"	16	34993	Unreliable
+	"Silver Bow County, MT"	"30093"	"2018"	"2018"	"Suicide"	"2"	10	34993	Unreliable
+	"Stillwater County, MT"	"30095"	"2015"	"2015"	"Unintentional"	"1"	10	9486	Unreliable
+	"Valley County, MT"	"30105"	"2018"	"2018"	"Unintentional"	"1"	10	7437	Unreliable
+	"Yellowstone County, MT"	"30111"	"1999"	"1999"	"Unintentional"	"1"	45	128736	35.0
+	"Yellowstone County, MT"	"30111"	"1999"	"1999"	"Suicide"	"2"	16	128736	Unreliable
+	"Yellowstone County, MT"	"30111"	"2000"	"2000"	"Unintentional"	"1"	57	129352	44.1
+	"Yellowstone County, MT"	"30111"	"2000"	"2000"	"Suicide"	"2"	20	129352	15.5
+	"Yellowstone County, MT"	"30111"	"2001"	"2001"	"Unintentional"	"1"	46	130801	35.2
+	"Yellowstone County, MT"	"30111"	"2001"	"2001"	"Suicide"	"2"	26	130801	19.9
+	"Yellowstone County, MT"	"30111"	"2002"	"2002"	"Unintentional"	"1"	65	132165	49.2
+	"Yellowstone County, MT"	"30111"	"2002"	"2002"	"Suicide"	"2"	24	132165	18.2
+	"Yellowstone County, MT"	"30111"	"2003"	"2003"	"Unintentional"	"1"	52	133715	38.9
+	"Yellowstone County, MT"	"30111"	"2003"	"2003"	"Suicide"	"2"	18	133715	Unreliable
+	"Yellowstone County, MT"	"30111"	"2003"	"2003"	"Undetermined "	"4"	14	133715	Unreliable
+	"Yellowstone County, MT"	"30111"	"2004"	"2004"	"Unintentional"	"1"	57	135441	42.1
+	"Yellowstone County, MT"	"30111"	"2004"	"2004"	"Suicide"	"2"	23	135441	17.0
+	"Yellowstone County, MT"	"30111"	"2004"	"2004"	"Undetermined "	"4"	12	135441	Unreliable
+	"Yellowstone County, MT"	"30111"	"2005"	"2005"	"Unintentional"	"1"	58	137623	42.1
+	"Yellowstone County, MT"	"30111"	"2005"	"2005"	"Suicide"	"2"	34	137623	24.7
+	"Yellowstone County, MT"	"30111"	"2005"	"2005"	"Undetermined "	"4"	10	137623	Unreliable
+	"Yellowstone County, MT"	"30111"	"2006"	"2006"	"Unintentional"	"1"	52	139582	37.3
+	"Yellowstone County, MT"	"30111"	"2006"	"2006"	"Suicide"	"2"	18	139582	Unreliable
+	"Yellowstone County, MT"	"30111"	"2006"	"2006"	"Undetermined "	"4"	13	139582	Unreliable
+	"Yellowstone County, MT"	"30111"	"2007"	"2007"	"Unintentional"	"1"	55	141518	38.9
+	"Yellowstone County, MT"	"30111"	"2007"	"2007"	"Suicide"	"2"	24	141518	17.0
+	"Yellowstone County, MT"	"30111"	"2007"	"2007"	"Undetermined "	"4"	11	141518	Unreliable
+	"Yellowstone County, MT"	"30111"	"2008"	"2008"	"Unintentional"	"1"	67	144255	46.4
+	"Yellowstone County, MT"	"30111"	"2008"	"2008"	"Suicide"	"2"	18	144255	Unreliable
+	"Yellowstone County, MT"	"30111"	"2009"	"2009"	"Unintentional"	"1"	64	146465	43.7
+	"Yellowstone County, MT"	"30111"	"2009"	"2009"	"Suicide"	"2"	31	146465	21.2
+	"Yellowstone County, MT"	"30111"	"2010"	"2010"	"Unintentional"	"1"	65	147972	43.9
+	"Yellowstone County, MT"	"30111"	"2010"	"2010"	"Suicide"	"2"	29	147972	19.6
+	"Yellowstone County, MT"	"30111"	"2010"	"2010"	"Undetermined "	"4"	19	147972	Unreliable
+	"Yellowstone County, MT"	"30111"	"2011"	"2011"	"Unintentional"	"1"	55	150069	36.6
+	"Yellowstone County, MT"	"30111"	"2011"	"2011"	"Suicide"	"2"	35	150069	23.3
+	"Yellowstone County, MT"	"30111"	"2011"	"2011"	"Undetermined "	"4"	19	150069	Unreliable
+	"Yellowstone County, MT"	"30111"	"2012"	"2012"	"Unintentional"	"1"	53	151882	34.9
+	"Yellowstone County, MT"	"30111"	"2012"	"2012"	"Suicide"	"2"	32	151882	21.1
+	"Yellowstone County, MT"	"30111"	"2012"	"2012"	"Undetermined "	"4"	13	151882	Unreliable
+	"Yellowstone County, MT"	"30111"	"2013"	"2013"	"Unintentional"	"1"	56	154162	36.3
+	"Yellowstone County, MT"	"30111"	"2013"	"2013"	"Suicide"	"2"	38	154162	24.6
+	"Yellowstone County, MT"	"30111"	"2013"	"2013"	"Homicide"	"3"	10	154162	Unreliable
+	"Yellowstone County, MT"	"30111"	"2013"	"2013"	"Undetermined "	"4"	19	154162	Unreliable
+	"Yellowstone County, MT"	"30111"	"2014"	"2014"	"Unintentional"	"1"	63	155634	40.5
+	"Yellowstone County, MT"	"30111"	"2014"	"2014"	"Suicide"	"2"	34	155634	21.8
+	"Yellowstone County, MT"	"30111"	"2014"	"2014"	"Undetermined "	"4"	16	155634	Unreliable
+	"Yellowstone County, MT"	"30111"	"2015"	"2015"	"Unintentional"	"1"	88	157048	56.0
+	"Yellowstone County, MT"	"30111"	"2015"	"2015"	"Suicide"	"2"	39	157048	24.8
+	"Yellowstone County, MT"	"30111"	"2015"	"2015"	"Homicide"	"3"	12	157048	Unreliable
+	"Yellowstone County, MT"	"30111"	"2015"	"2015"	"Undetermined "	"4"	20	157048	12.7
+	"Yellowstone County, MT"	"30111"	"2016"	"2016"	"Unintentional"	"1"	79	158437	49.9
+	"Yellowstone County, MT"	"30111"	"2016"	"2016"	"Suicide"	"2"	40	158437	25.2
+	"Yellowstone County, MT"	"30111"	"2016"	"2016"	"Undetermined "	"4"	12	158437	Unreliable
+	"Yellowstone County, MT"	"30111"	"2017"	"2017"	"Unintentional"	"1"	84	158980	52.8
+	"Yellowstone County, MT"	"30111"	"2017"	"2017"	"Suicide"	"2"	42	158980	26.4
+	"Yellowstone County, MT"	"30111"	"2018"	"2018"	"Unintentional"	"1"	99	160137	61.8
+	"Yellowstone County, MT"	"30111"	"2018"	"2018"	"Suicide"	"2"	38	160137	23.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Montana"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Montana (30)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:51:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:51:14 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

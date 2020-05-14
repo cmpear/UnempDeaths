@@ -1,0 +1,473 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Adams County, NE"	"31001"	"2001"	"2001"	"Unintentional"	"1"	13	31021	Unreliable
+	"Adams County, NE"	"31001"	"2002"	"2002"	"Unintentional"	"1"	12	30716	Unreliable
+	"Adams County, NE"	"31001"	"2003"	"2003"	"Unintentional"	"1"	10	30693	Unreliable
+	"Adams County, NE"	"31001"	"2004"	"2004"	"Unintentional"	"1"	14	30740	Unreliable
+	"Adams County, NE"	"31001"	"2005"	"2005"	"Unintentional"	"1"	11	30987	Unreliable
+	"Adams County, NE"	"31001"	"2006"	"2006"	"Unintentional"	"1"	14	30910	Unreliable
+	"Adams County, NE"	"31001"	"2008"	"2008"	"Unintentional"	"1"	12	31160	Unreliable
+	"Adams County, NE"	"31001"	"2009"	"2009"	"Unintentional"	"1"	13	31280	Unreliable
+	"Adams County, NE"	"31001"	"2010"	"2010"	"Unintentional"	"1"	16	31364	Unreliable
+	"Adams County, NE"	"31001"	"2011"	"2011"	"Unintentional"	"1"	12	31216	Unreliable
+	"Adams County, NE"	"31001"	"2012"	"2012"	"Unintentional"	"1"	19	31459	Unreliable
+	"Adams County, NE"	"31001"	"2014"	"2014"	"Unintentional"	"1"	13	31457	Unreliable
+	"Adams County, NE"	"31001"	"2015"	"2015"	"Unintentional"	"1"	17	31587	Unreliable
+	"Adams County, NE"	"31001"	"2015"	"2015"	"Suicide"	"2"	10	31587	Unreliable
+	"Adams County, NE"	"31001"	"2016"	"2016"	"Unintentional"	"1"	16	31684	Unreliable
+	"Adams County, NE"	"31001"	"2017"	"2017"	"Unintentional"	"1"	12	31678	Unreliable
+	"Adams County, NE"	"31001"	"2018"	"2018"	"Unintentional"	"1"	19	31511	Unreliable
+	"Box Butte County, NE"	"31013"	"2014"	"2014"	"Unintentional"	"1"	12	11340	Unreliable
+	"Brown County, NE"	"31017"	"2009"	"2009"	"Unintentional"	"1"	10	3115	Unreliable
+	"Buffalo County, NE"	"31019"	"1999"	"1999"	"Unintentional"	"1"	14	41904	Unreliable
+	"Buffalo County, NE"	"31019"	"2000"	"2000"	"Unintentional"	"1"	19	42259	Unreliable
+	"Buffalo County, NE"	"31019"	"2001"	"2001"	"Unintentional"	"1"	11	42418	Unreliable
+	"Buffalo County, NE"	"31019"	"2002"	"2002"	"Unintentional"	"1"	21	42949	48.9
+	"Buffalo County, NE"	"31019"	"2003"	"2003"	"Unintentional"	"1"	17	43251	Unreliable
+	"Buffalo County, NE"	"31019"	"2004"	"2004"	"Unintentional"	"1"	18	43753	Unreliable
+	"Buffalo County, NE"	"31019"	"2005"	"2005"	"Unintentional"	"1"	21	44131	47.6
+	"Buffalo County, NE"	"31019"	"2006"	"2006"	"Unintentional"	"1"	16	44645	Unreliable
+	"Buffalo County, NE"	"31019"	"2007"	"2007"	"Unintentional"	"1"	22	45060	48.8
+	"Buffalo County, NE"	"31019"	"2008"	"2008"	"Unintentional"	"1"	17	45343	Unreliable
+	"Buffalo County, NE"	"31019"	"2009"	"2009"	"Unintentional"	"1"	16	45970	Unreliable
+	"Buffalo County, NE"	"31019"	"2010"	"2010"	"Unintentional"	"1"	17	46102	Unreliable
+	"Buffalo County, NE"	"31019"	"2011"	"2011"	"Unintentional"	"1"	15	46690	Unreliable
+	"Buffalo County, NE"	"31019"	"2012"	"2012"	"Unintentional"	"1"	17	47463	Unreliable
+	"Buffalo County, NE"	"31019"	"2013"	"2013"	"Unintentional"	"1"	28	47893	58.5
+	"Buffalo County, NE"	"31019"	"2014"	"2014"	"Unintentional"	"1"	18	48224	Unreliable
+	"Buffalo County, NE"	"31019"	"2015"	"2015"	"Unintentional"	"1"	18	48863	Unreliable
+	"Buffalo County, NE"	"31019"	"2016"	"2016"	"Unintentional"	"1"	23	49383	46.6
+	"Buffalo County, NE"	"31019"	"2017"	"2017"	"Unintentional"	"1"	25	49732	50.3
+	"Buffalo County, NE"	"31019"	"2017"	"2017"	"Suicide"	"2"	11	49732	Unreliable
+	"Buffalo County, NE"	"31019"	"2018"	"2018"	"Unintentional"	"1"	13	49615	Unreliable
+	"Cass County, NE"	"31025"	"1999"	"1999"	"Unintentional"	"1"	13	24184	Unreliable
+	"Cass County, NE"	"31025"	"2000"	"2000"	"Unintentional"	"1"	10	24334	Unreliable
+	"Cass County, NE"	"31025"	"2001"	"2001"	"Unintentional"	"1"	12	24460	Unreliable
+	"Cass County, NE"	"31025"	"2002"	"2002"	"Unintentional"	"1"	12	24602	Unreliable
+	"Cass County, NE"	"31025"	"2003"	"2003"	"Unintentional"	"1"	11	24868	Unreliable
+	"Cass County, NE"	"31025"	"2005"	"2005"	"Unintentional"	"1"	13	25170	Unreliable
+	"Cass County, NE"	"31025"	"2008"	"2008"	"Unintentional"	"1"	14	25322	Unreliable
+	"Cass County, NE"	"31025"	"2009"	"2009"	"Unintentional"	"1"	15	25122	Unreliable
+	"Cass County, NE"	"31025"	"2010"	"2010"	"Unintentional"	"1"	14	25241	Unreliable
+	"Cass County, NE"	"31025"	"2013"	"2013"	"Unintentional"	"1"	17	25357	Unreliable
+	"Cass County, NE"	"31025"	"2014"	"2014"	"Unintentional"	"1"	18	25524	Unreliable
+	"Cass County, NE"	"31025"	"2016"	"2016"	"Unintentional"	"1"	10	25767	Unreliable
+	"Cass County, NE"	"31025"	"2017"	"2017"	"Unintentional"	"1"	10	25889	Unreliable
+	"Cherry County, NE"	"31031"	"2017"	"2017"	"Unintentional"	"1"	10	5818	Unreliable
+	"Cheyenne County, NE"	"31033"	"2000"	"2000"	"Unintentional"	"1"	11	9830	Unreliable
+	"Clay County, NE"	"31035"	"2003"	"2003"	"Unintentional"	"1"	10	6859	Unreliable
+	"Colfax County, NE"	"31037"	"2012"	"2012"	"Unintentional"	"1"	10	10653	Unreliable
+	"Colfax County, NE"	"31037"	"2013"	"2013"	"Unintentional"	"1"	13	10425	Unreliable
+	"Cuming County, NE"	"31039"	"2006"	"2006"	"Unintentional"	"1"	13	9440	Unreliable
+	"Custer County, NE"	"31041"	"2003"	"2003"	"Unintentional"	"1"	12	11388	Unreliable
+	"Custer County, NE"	"31041"	"2013"	"2013"	"Unintentional"	"1"	10	10792	Unreliable
+	"Dakota County, NE"	"31043"	"2005"	"2005"	"Unintentional"	"1"	12	20191	Unreliable
+	"Dakota County, NE"	"31043"	"2007"	"2007"	"Unintentional"	"1"	10	20564	Unreliable
+	"Dakota County, NE"	"31043"	"2014"	"2014"	"Unintentional"	"1"	10	20850	Unreliable
+	"Dawson County, NE"	"31047"	"1999"	"1999"	"Unintentional"	"1"	18	24159	Unreliable
+	"Dawson County, NE"	"31047"	"2000"	"2000"	"Unintentional"	"1"	19	24365	Unreliable
+	"Dawson County, NE"	"31047"	"2001"	"2001"	"Unintentional"	"1"	16	24359	Unreliable
+	"Dawson County, NE"	"31047"	"2002"	"2002"	"Unintentional"	"1"	10	24149	Unreliable
+	"Dawson County, NE"	"31047"	"2003"	"2003"	"Unintentional"	"1"	18	24175	Unreliable
+	"Dawson County, NE"	"31047"	"2004"	"2004"	"Unintentional"	"1"	14	24112	Unreliable
+	"Dawson County, NE"	"31047"	"2005"	"2005"	"Unintentional"	"1"	17	24085	Unreliable
+	"Dawson County, NE"	"31047"	"2006"	"2006"	"Unintentional"	"1"	14	24291	Unreliable
+	"Dawson County, NE"	"31047"	"2007"	"2007"	"Unintentional"	"1"	10	24178	Unreliable
+	"Dawson County, NE"	"31047"	"2010"	"2010"	"Unintentional"	"1"	12	24326	Unreliable
+	"Dawson County, NE"	"31047"	"2011"	"2011"	"Unintentional"	"1"	13	24388	Unreliable
+	"Dawson County, NE"	"31047"	"2012"	"2012"	"Unintentional"	"1"	10	24220	Unreliable
+	"Dawson County, NE"	"31047"	"2013"	"2013"	"Unintentional"	"1"	10	24207	Unreliable
+	"Dawson County, NE"	"31047"	"2015"	"2015"	"Unintentional"	"1"	14	23886	Unreliable
+	"Dawson County, NE"	"31047"	"2016"	"2016"	"Unintentional"	"1"	11	23640	Unreliable
+	"Dawson County, NE"	"31047"	"2017"	"2017"	"Unintentional"	"1"	17	23709	Unreliable
+	"Dawson County, NE"	"31047"	"2018"	"2018"	"Unintentional"	"1"	13	23709	Unreliable
+	"Dodge County, NE"	"31053"	"1999"	"1999"	"Unintentional"	"1"	16	35904	Unreliable
+	"Dodge County, NE"	"31053"	"2000"	"2000"	"Unintentional"	"1"	15	36160	Unreliable
+	"Dodge County, NE"	"31053"	"2001"	"2001"	"Unintentional"	"1"	18	36143	Unreliable
+	"Dodge County, NE"	"31053"	"2002"	"2002"	"Unintentional"	"1"	20	36060	55.5
+	"Dodge County, NE"	"31053"	"2003"	"2003"	"Unintentional"	"1"	20	36184	55.3
+	"Dodge County, NE"	"31053"	"2004"	"2004"	"Unintentional"	"1"	17	36267	Unreliable
+	"Dodge County, NE"	"31053"	"2005"	"2005"	"Unintentional"	"1"	12	36442	Unreliable
+	"Dodge County, NE"	"31053"	"2006"	"2006"	"Unintentional"	"1"	12	36597	Unreliable
+	"Dodge County, NE"	"31053"	"2007"	"2007"	"Unintentional"	"1"	18	36647	Unreliable
+	"Dodge County, NE"	"31053"	"2008"	"2008"	"Unintentional"	"1"	17	36548	Unreliable
+	"Dodge County, NE"	"31053"	"2009"	"2009"	"Unintentional"	"1"	16	36604	Unreliable
+	"Dodge County, NE"	"31053"	"2010"	"2010"	"Unintentional"	"1"	18	36691	Unreliable
+	"Dodge County, NE"	"31053"	"2011"	"2011"	"Unintentional"	"1"	18	36773	Unreliable
+	"Dodge County, NE"	"31053"	"2012"	"2012"	"Unintentional"	"1"	24	36427	65.9
+	"Dodge County, NE"	"31053"	"2013"	"2013"	"Unintentional"	"1"	24	36515	65.7
+	"Dodge County, NE"	"31053"	"2014"	"2014"	"Unintentional"	"1"	22	36744	59.9
+	"Dodge County, NE"	"31053"	"2015"	"2015"	"Unintentional"	"1"	25	36706	68.1
+	"Dodge County, NE"	"31053"	"2016"	"2016"	"Unintentional"	"1"	21	36757	57.1
+	"Dodge County, NE"	"31053"	"2017"	"2017"	"Unintentional"	"1"	22	36707	59.9
+	"Dodge County, NE"	"31053"	"2018"	"2018"	"Unintentional"	"1"	19	36791	Unreliable
+	"Douglas County, NE"	"31055"	"1999"	"1999"	"Unintentional"	"1"	127	460798	27.6
+	"Douglas County, NE"	"31055"	"1999"	"1999"	"Suicide"	"2"	64	460798	13.9
+	"Douglas County, NE"	"31055"	"1999"	"1999"	"Homicide"	"3"	36	460798	7.8
+	"Douglas County, NE"	"31055"	"2000"	"2000"	"Unintentional"	"1"	107	463585	23.1
+	"Douglas County, NE"	"31055"	"2000"	"2000"	"Suicide"	"2"	45	463585	9.7
+	"Douglas County, NE"	"31055"	"2000"	"2000"	"Homicide"	"3"	33	463585	7.1
+	"Douglas County, NE"	"31055"	"2001"	"2001"	"Unintentional"	"1"	136	468125	29.1
+	"Douglas County, NE"	"31055"	"2001"	"2001"	"Suicide"	"2"	39	468125	8.3
+	"Douglas County, NE"	"31055"	"2001"	"2001"	"Homicide"	"3"	24	468125	5.1
+	"Douglas County, NE"	"31055"	"2001"	"2001"	"Undetermined "	"4"	21	468125	4.5
+	"Douglas County, NE"	"31055"	"2002"	"2002"	"Unintentional"	"1"	138	471866	29.2
+	"Douglas County, NE"	"31055"	"2002"	"2002"	"Suicide"	"2"	65	471866	13.8
+	"Douglas County, NE"	"31055"	"2002"	"2002"	"Homicide"	"3"	30	471866	6.4
+	"Douglas County, NE"	"31055"	"2002"	"2002"	"Undetermined "	"4"	16	471866	Unreliable
+	"Douglas County, NE"	"31055"	"2003"	"2003"	"Unintentional"	"1"	134	476701	28.1
+	"Douglas County, NE"	"31055"	"2003"	"2003"	"Suicide"	"2"	50	476701	10.5
+	"Douglas County, NE"	"31055"	"2003"	"2003"	"Homicide"	"3"	39	476701	8.2
+	"Douglas County, NE"	"31055"	"2003"	"2003"	"Undetermined "	"4"	15	476701	Unreliable
+	"Douglas County, NE"	"31055"	"2004"	"2004"	"Unintentional"	"1"	155	482075	32.2
+	"Douglas County, NE"	"31055"	"2004"	"2004"	"Suicide"	"2"	45	482075	9.3
+	"Douglas County, NE"	"31055"	"2004"	"2004"	"Homicide"	"3"	17	482075	Unreliable
+	"Douglas County, NE"	"31055"	"2005"	"2005"	"Unintentional"	"1"	144	488114	29.5
+	"Douglas County, NE"	"31055"	"2005"	"2005"	"Suicide"	"2"	52	488114	10.7
+	"Douglas County, NE"	"31055"	"2005"	"2005"	"Homicide"	"3"	28	488114	5.7
+	"Douglas County, NE"	"31055"	"2005"	"2005"	"Undetermined "	"4"	17	488114	Unreliable
+	"Douglas County, NE"	"31055"	"2006"	"2006"	"Unintentional"	"1"	138	493757	27.9
+	"Douglas County, NE"	"31055"	"2006"	"2006"	"Suicide"	"2"	48	493757	9.7
+	"Douglas County, NE"	"31055"	"2006"	"2006"	"Homicide"	"3"	32	493757	6.5
+	"Douglas County, NE"	"31055"	"2006"	"2006"	"Undetermined "	"4"	19	493757	Unreliable
+	"Douglas County, NE"	"31055"	"2007"	"2007"	"Unintentional"	"1"	129	498743	25.9
+	"Douglas County, NE"	"31055"	"2007"	"2007"	"Suicide"	"2"	50	498743	10.0
+	"Douglas County, NE"	"31055"	"2007"	"2007"	"Homicide"	"3"	40	498743	8.0
+	"Douglas County, NE"	"31055"	"2007"	"2007"	"Undetermined "	"4"	16	498743	Unreliable
+	"Douglas County, NE"	"31055"	"2008"	"2008"	"Unintentional"	"1"	146	504547	28.9
+	"Douglas County, NE"	"31055"	"2008"	"2008"	"Suicide"	"2"	56	504547	11.1
+	"Douglas County, NE"	"31055"	"2008"	"2008"	"Homicide"	"3"	45	504547	8.9
+	"Douglas County, NE"	"31055"	"2009"	"2009"	"Unintentional"	"1"	147	511902	28.7
+	"Douglas County, NE"	"31055"	"2009"	"2009"	"Suicide"	"2"	42	511902	8.2
+	"Douglas County, NE"	"31055"	"2009"	"2009"	"Homicide"	"3"	33	511902	6.4
+	"Douglas County, NE"	"31055"	"2010"	"2010"	"Unintentional"	"1"	165	517110	31.9
+	"Douglas County, NE"	"31055"	"2010"	"2010"	"Suicide"	"2"	52	517110	10.1
+	"Douglas County, NE"	"31055"	"2010"	"2010"	"Homicide"	"3"	40	517110	7.7
+	"Douglas County, NE"	"31055"	"2011"	"2011"	"Unintentional"	"1"	153	524861	29.2
+	"Douglas County, NE"	"31055"	"2011"	"2011"	"Suicide"	"2"	50	524861	9.5
+	"Douglas County, NE"	"31055"	"2011"	"2011"	"Homicide"	"3"	38	524861	7.2
+	"Douglas County, NE"	"31055"	"2012"	"2012"	"Unintentional"	"1"	204	531265	38.4
+	"Douglas County, NE"	"31055"	"2012"	"2012"	"Suicide"	"2"	44	531265	8.3
+	"Douglas County, NE"	"31055"	"2012"	"2012"	"Homicide"	"3"	41	531265	7.7
+	"Douglas County, NE"	"31055"	"2013"	"2013"	"Unintentional"	"1"	144	537256	26.8
+	"Douglas County, NE"	"31055"	"2013"	"2013"	"Suicide"	"2"	52	537256	9.7
+	"Douglas County, NE"	"31055"	"2013"	"2013"	"Homicide"	"3"	54	537256	10.1
+	"Douglas County, NE"	"31055"	"2014"	"2014"	"Unintentional"	"1"	170	543244	31.3
+	"Douglas County, NE"	"31055"	"2014"	"2014"	"Suicide"	"2"	63	543244	11.6
+	"Douglas County, NE"	"31055"	"2014"	"2014"	"Homicide"	"3"	37	543244	6.8
+	"Douglas County, NE"	"31055"	"2015"	"2015"	"Unintentional"	"1"	206	550064	37.5
+	"Douglas County, NE"	"31055"	"2015"	"2015"	"Suicide"	"2"	64	550064	11.6
+	"Douglas County, NE"	"31055"	"2015"	"2015"	"Homicide"	"3"	54	550064	9.8
+	"Douglas County, NE"	"31055"	"2016"	"2016"	"Unintentional"	"1"	193	554995	34.8
+	"Douglas County, NE"	"31055"	"2016"	"2016"	"Suicide"	"2"	58	554995	10.5
+	"Douglas County, NE"	"31055"	"2016"	"2016"	"Homicide"	"3"	29	554995	5.2
+	"Douglas County, NE"	"31055"	"2017"	"2017"	"Unintentional"	"1"	216	561620	38.5
+	"Douglas County, NE"	"31055"	"2017"	"2017"	"Suicide"	"2"	69	561620	12.3
+	"Douglas County, NE"	"31055"	"2017"	"2017"	"Homicide"	"3"	29	561620	5.2
+	"Douglas County, NE"	"31055"	"2017"	"2017"	"Non-Injury, no intent classified"	"9"	11	561620	Unreliable
+	"Douglas County, NE"	"31055"	"2018"	"2018"	"Unintentional"	"1"	184	566880	32.5
+	"Douglas County, NE"	"31055"	"2018"	"2018"	"Suicide"	"2"	73	566880	12.9
+	"Douglas County, NE"	"31055"	"2018"	"2018"	"Homicide"	"3"	21	566880	3.7
+	"Gage County, NE"	"31067"	"1999"	"1999"	"Unintentional"	"1"	10	22939	Unreliable
+	"Gage County, NE"	"31067"	"2000"	"2000"	"Unintentional"	"1"	21	22993	91.3
+	"Gage County, NE"	"31067"	"2001"	"2001"	"Unintentional"	"1"	15	23039	Unreliable
+	"Gage County, NE"	"31067"	"2002"	"2002"	"Unintentional"	"1"	18	23031	Unreliable
+	"Gage County, NE"	"31067"	"2003"	"2003"	"Unintentional"	"1"	17	23056	Unreliable
+	"Gage County, NE"	"31067"	"2004"	"2004"	"Unintentional"	"1"	14	23052	Unreliable
+	"Gage County, NE"	"31067"	"2006"	"2006"	"Unintentional"	"1"	21	22875	91.8
+	"Gage County, NE"	"31067"	"2007"	"2007"	"Unintentional"	"1"	10	22843	Unreliable
+	"Gage County, NE"	"31067"	"2008"	"2008"	"Unintentional"	"1"	18	22574	Unreliable
+	"Gage County, NE"	"31067"	"2009"	"2009"	"Unintentional"	"1"	12	22364	Unreliable
+	"Gage County, NE"	"31067"	"2010"	"2010"	"Unintentional"	"1"	15	22311	Unreliable
+	"Gage County, NE"	"31067"	"2011"	"2011"	"Unintentional"	"1"	18	22031	Unreliable
+	"Gage County, NE"	"31067"	"2012"	"2012"	"Unintentional"	"1"	12	21806	Unreliable
+	"Gage County, NE"	"31067"	"2012"	"2012"	"Suicide"	"2"	11	21806	Unreliable
+	"Gage County, NE"	"31067"	"2013"	"2013"	"Unintentional"	"1"	23	21864	105.2
+	"Gage County, NE"	"31067"	"2014"	"2014"	"Unintentional"	"1"	12	21663	Unreliable
+	"Gage County, NE"	"31067"	"2015"	"2015"	"Unintentional"	"1"	13	21900	Unreliable
+	"Gage County, NE"	"31067"	"2016"	"2016"	"Unintentional"	"1"	11	21799	Unreliable
+	"Gage County, NE"	"31067"	"2017"	"2017"	"Unintentional"	"1"	13	21601	Unreliable
+	"Hall County, NE"	"31079"	"1999"	"1999"	"Unintentional"	"1"	28	53553	52.3
+	"Hall County, NE"	"31079"	"2000"	"2000"	"Unintentional"	"1"	16	53534	Unreliable
+	"Hall County, NE"	"31079"	"2001"	"2001"	"Unintentional"	"1"	13	53508	Unreliable
+	"Hall County, NE"	"31079"	"2002"	"2002"	"Unintentional"	"1"	37	53722	68.9
+	"Hall County, NE"	"31079"	"2003"	"2003"	"Unintentional"	"1"	22	54050	40.7
+	"Hall County, NE"	"31079"	"2004"	"2004"	"Unintentional"	"1"	22	54413	40.4
+	"Hall County, NE"	"31079"	"2005"	"2005"	"Unintentional"	"1"	24	54535	44.0
+	"Hall County, NE"	"31079"	"2005"	"2005"	"Suicide"	"2"	11	54535	Unreliable
+	"Hall County, NE"	"31079"	"2006"	"2006"	"Unintentional"	"1"	18	55190	Unreliable
+	"Hall County, NE"	"31079"	"2007"	"2007"	"Unintentional"	"1"	23	55742	41.3
+	"Hall County, NE"	"31079"	"2008"	"2008"	"Unintentional"	"1"	15	56795	Unreliable
+	"Hall County, NE"	"31079"	"2009"	"2009"	"Unintentional"	"1"	32	57955	55.2
+	"Hall County, NE"	"31079"	"2010"	"2010"	"Unintentional"	"1"	22	58607	37.5
+	"Hall County, NE"	"31079"	"2011"	"2011"	"Unintentional"	"1"	26	59477	43.7
+	"Hall County, NE"	"31079"	"2012"	"2012"	"Unintentional"	"1"	23	60345	38.1
+	"Hall County, NE"	"31079"	"2012"	"2012"	"Suicide"	"2"	10	60345	Unreliable
+	"Hall County, NE"	"31079"	"2013"	"2013"	"Unintentional"	"1"	15	60720	Unreliable
+	"Hall County, NE"	"31079"	"2014"	"2014"	"Unintentional"	"1"	25	61492	40.7
+	"Hall County, NE"	"31079"	"2015"	"2015"	"Unintentional"	"1"	16	61680	Unreliable
+	"Hall County, NE"	"31079"	"2016"	"2016"	"Unintentional"	"1"	25	61705	40.5
+	"Hall County, NE"	"31079"	"2017"	"2017"	"Unintentional"	"1"	20	61519	32.5
+	"Hall County, NE"	"31079"	"2018"	"2018"	"Unintentional"	"1"	33	61607	53.6
+	"Hall County, NE"	"31079"	"2018"	"2018"	"Suicide"	"2"	13	61607	Unreliable
+	"Holt County, NE"	"31089"	"2000"	"2000"	"Unintentional"	"1"	15	11551	Unreliable
+	"Holt County, NE"	"31089"	"2007"	"2007"	"Unintentional"	"1"	11	10541	Unreliable
+	"Holt County, NE"	"31089"	"2008"	"2008"	"Unintentional"	"1"	10	10399	Unreliable
+	"Holt County, NE"	"31089"	"2018"	"2018"	"Unintentional"	"1"	11	10178	Unreliable
+	"Jefferson County, NE"	"31095"	"2002"	"2002"	"Unintentional"	"1"	10	8253	Unreliable
+	"Keith County, NE"	"31101"	"2005"	"2005"	"Unintentional"	"1"	10	8418	Unreliable
+	"Keith County, NE"	"31101"	"2008"	"2008"	"Unintentional"	"1"	11	8290	Unreliable
+	"Knox County, NE"	"31107"	"1999"	"1999"	"Unintentional"	"1"	14	9404	Unreliable
+	"Knox County, NE"	"31107"	"2004"	"2004"	"Unintentional"	"1"	11	9025	Unreliable
+	"Knox County, NE"	"31107"	"2007"	"2007"	"Unintentional"	"1"	10	8862	Unreliable
+	"Knox County, NE"	"31107"	"2008"	"2008"	"Unintentional"	"1"	10	8708	Unreliable
+	"Knox County, NE"	"31107"	"2011"	"2011"	"Unintentional"	"1"	11	8575	Unreliable
+	"Knox County, NE"	"31107"	"2012"	"2012"	"Unintentional"	"1"	10	8573	Unreliable
+	"Knox County, NE"	"31107"	"2015"	"2015"	"Unintentional"	"1"	11	8543	Unreliable
+	"Lancaster County, NE"	"31109"	"1999"	"1999"	"Unintentional"	"1"	70	247442	28.3
+	"Lancaster County, NE"	"31109"	"1999"	"1999"	"Suicide"	"2"	21	247442	8.5
+	"Lancaster County, NE"	"31109"	"2000"	"2000"	"Unintentional"	"1"	77	250291	30.8
+	"Lancaster County, NE"	"31109"	"2000"	"2000"	"Suicide"	"2"	28	250291	11.2
+	"Lancaster County, NE"	"31109"	"2001"	"2001"	"Unintentional"	"1"	88	254630	34.6
+	"Lancaster County, NE"	"31109"	"2001"	"2001"	"Suicide"	"2"	28	254630	11.0
+	"Lancaster County, NE"	"31109"	"2002"	"2002"	"Unintentional"	"1"	91	258398	35.2
+	"Lancaster County, NE"	"31109"	"2002"	"2002"	"Suicide"	"2"	33	258398	12.8
+	"Lancaster County, NE"	"31109"	"2003"	"2003"	"Unintentional"	"1"	78	262667	29.7
+	"Lancaster County, NE"	"31109"	"2003"	"2003"	"Suicide"	"2"	28	262667	10.7
+	"Lancaster County, NE"	"31109"	"2004"	"2004"	"Unintentional"	"1"	100	265087	37.7
+	"Lancaster County, NE"	"31109"	"2004"	"2004"	"Suicide"	"2"	28	265087	10.6
+	"Lancaster County, NE"	"31109"	"2005"	"2005"	"Unintentional"	"1"	77	268868	28.6
+	"Lancaster County, NE"	"31109"	"2005"	"2005"	"Suicide"	"2"	36	268868	13.4
+	"Lancaster County, NE"	"31109"	"2006"	"2006"	"Unintentional"	"1"	71	272286	26.1
+	"Lancaster County, NE"	"31109"	"2006"	"2006"	"Suicide"	"2"	39	272286	14.3
+	"Lancaster County, NE"	"31109"	"2007"	"2007"	"Unintentional"	"1"	78	276012	28.3
+	"Lancaster County, NE"	"31109"	"2007"	"2007"	"Suicide"	"2"	37	276012	13.4
+	"Lancaster County, NE"	"31109"	"2008"	"2008"	"Unintentional"	"1"	101	279605	36.1
+	"Lancaster County, NE"	"31109"	"2008"	"2008"	"Suicide"	"2"	23	279605	8.2
+	"Lancaster County, NE"	"31109"	"2009"	"2009"	"Unintentional"	"1"	65	283097	23.0
+	"Lancaster County, NE"	"31109"	"2009"	"2009"	"Suicide"	"2"	22	283097	7.8
+	"Lancaster County, NE"	"31109"	"2010"	"2010"	"Unintentional"	"1"	78	285407	27.3
+	"Lancaster County, NE"	"31109"	"2010"	"2010"	"Suicide"	"2"	19	285407	Unreliable
+	"Lancaster County, NE"	"31109"	"2010"	"2010"	"Undetermined "	"4"	13	285407	Unreliable
+	"Lancaster County, NE"	"31109"	"2011"	"2011"	"Unintentional"	"1"	90	289800	31.1
+	"Lancaster County, NE"	"31109"	"2011"	"2011"	"Suicide"	"2"	30	289800	10.4
+	"Lancaster County, NE"	"31109"	"2011"	"2011"	"Undetermined "	"4"	11	289800	Unreliable
+	"Lancaster County, NE"	"31109"	"2012"	"2012"	"Unintentional"	"1"	79	293407	26.9
+	"Lancaster County, NE"	"31109"	"2012"	"2012"	"Suicide"	"2"	38	293407	13.0
+	"Lancaster County, NE"	"31109"	"2013"	"2013"	"Unintentional"	"1"	65	297036	21.9
+	"Lancaster County, NE"	"31109"	"2013"	"2013"	"Suicide"	"2"	37	297036	12.5
+	"Lancaster County, NE"	"31109"	"2014"	"2014"	"Unintentional"	"1"	105	301795	34.8
+	"Lancaster County, NE"	"31109"	"2014"	"2014"	"Suicide"	"2"	46	301795	15.2
+	"Lancaster County, NE"	"31109"	"2015"	"2015"	"Unintentional"	"1"	87	306468	28.4
+	"Lancaster County, NE"	"31109"	"2015"	"2015"	"Suicide"	"2"	38	306468	12.4
+	"Lancaster County, NE"	"31109"	"2016"	"2016"	"Unintentional"	"1"	83	309637	26.8
+	"Lancaster County, NE"	"31109"	"2016"	"2016"	"Suicide"	"2"	44	309637	14.2
+	"Lancaster County, NE"	"31109"	"2016"	"2016"	"Homicide"	"3"	13	309637	Unreliable
+	"Lancaster County, NE"	"31109"	"2017"	"2017"	"Unintentional"	"1"	100	314358	31.8
+	"Lancaster County, NE"	"31109"	"2017"	"2017"	"Suicide"	"2"	47	314358	15.0
+	"Lancaster County, NE"	"31109"	"2018"	"2018"	"Unintentional"	"1"	103	317272	32.5
+	"Lancaster County, NE"	"31109"	"2018"	"2018"	"Suicide"	"2"	41	317272	12.9
+	"Lincoln County, NE"	"31111"	"1999"	"1999"	"Unintentional"	"1"	16	34562	Unreliable
+	"Lincoln County, NE"	"31111"	"2000"	"2000"	"Unintentional"	"1"	11	34632	Unreliable
+	"Lincoln County, NE"	"31111"	"2001"	"2001"	"Unintentional"	"1"	13	34669	Unreliable
+	"Lincoln County, NE"	"31111"	"2002"	"2002"	"Unintentional"	"1"	16	34525	Unreliable
+	"Lincoln County, NE"	"31111"	"2003"	"2003"	"Unintentional"	"1"	16	34776	Unreliable
+	"Lincoln County, NE"	"31111"	"2005"	"2005"	"Unintentional"	"1"	23	35577	64.6
+	"Lincoln County, NE"	"31111"	"2006"	"2006"	"Unintentional"	"1"	16	35973	Unreliable
+	"Lincoln County, NE"	"31111"	"2007"	"2007"	"Unintentional"	"1"	16	36011	Unreliable
+	"Lincoln County, NE"	"31111"	"2008"	"2008"	"Unintentional"	"1"	17	36301	Unreliable
+	"Lincoln County, NE"	"31111"	"2010"	"2010"	"Unintentional"	"1"	14	36288	Unreliable
+	"Lincoln County, NE"	"31111"	"2011"	"2011"	"Unintentional"	"1"	12	36142	Unreliable
+	"Lincoln County, NE"	"31111"	"2012"	"2012"	"Unintentional"	"1"	25	36099	69.3
+	"Lincoln County, NE"	"31111"	"2013"	"2013"	"Unintentional"	"1"	17	36051	Unreliable
+	"Lincoln County, NE"	"31111"	"2014"	"2014"	"Unintentional"	"1"	20	35815	55.8
+	"Lincoln County, NE"	"31111"	"2015"	"2015"	"Unintentional"	"1"	17	35656	Unreliable
+	"Lincoln County, NE"	"31111"	"2016"	"2016"	"Unintentional"	"1"	18	35550	Unreliable
+	"Lincoln County, NE"	"31111"	"2017"	"2017"	"Unintentional"	"1"	22	35280	62.4
+	"Lincoln County, NE"	"31111"	"2018"	"2018"	"Unintentional"	"1"	17	35185	Unreliable
+	"Madison County, NE"	"31119"	"1999"	"1999"	"Unintentional"	"1"	14	35347	Unreliable
+	"Madison County, NE"	"31119"	"2000"	"2000"	"Unintentional"	"1"	10	35226	Unreliable
+	"Madison County, NE"	"31119"	"2002"	"2002"	"Unintentional"	"1"	19	35862	Unreliable
+	"Madison County, NE"	"31119"	"2003"	"2003"	"Unintentional"	"1"	21	35858	58.6
+	"Madison County, NE"	"31119"	"2004"	"2004"	"Unintentional"	"1"	15	35722	Unreliable
+	"Madison County, NE"	"31119"	"2005"	"2005"	"Unintentional"	"1"	10	35631	Unreliable
+	"Madison County, NE"	"31119"	"2006"	"2006"	"Unintentional"	"1"	18	35415	Unreliable
+	"Madison County, NE"	"31119"	"2007"	"2007"	"Unintentional"	"1"	13	34298	Unreliable
+	"Madison County, NE"	"31119"	"2009"	"2009"	"Unintentional"	"1"	20	34609	57.8
+	"Madison County, NE"	"31119"	"2010"	"2010"	"Unintentional"	"1"	13	34876	Unreliable
+	"Madison County, NE"	"31119"	"2011"	"2011"	"Unintentional"	"1"	22	34931	63.0
+	"Madison County, NE"	"31119"	"2012"	"2012"	"Unintentional"	"1"	10	35031	Unreliable
+	"Madison County, NE"	"31119"	"2013"	"2013"	"Unintentional"	"1"	19	35278	Unreliable
+	"Madison County, NE"	"31119"	"2014"	"2014"	"Unintentional"	"1"	15	35174	Unreliable
+	"Madison County, NE"	"31119"	"2015"	"2015"	"Unintentional"	"1"	12	35039	Unreliable
+	"Madison County, NE"	"31119"	"2016"	"2016"	"Unintentional"	"1"	26	35015	74.3
+	"Madison County, NE"	"31119"	"2016"	"2016"	"Suicide"	"2"	10	35015	Unreliable
+	"Madison County, NE"	"31119"	"2017"	"2017"	"Unintentional"	"1"	17	35144	Unreliable
+	"Madison County, NE"	"31119"	"2018"	"2018"	"Unintentional"	"1"	19	35392	Unreliable
+	"Otoe County, NE"	"31131"	"2002"	"2002"	"Unintentional"	"1"	11	15524	Unreliable
+	"Otoe County, NE"	"31131"	"2005"	"2005"	"Unintentional"	"1"	10	15607	Unreliable
+	"Otoe County, NE"	"31131"	"2007"	"2007"	"Unintentional"	"1"	11	15841	Unreliable
+	"Otoe County, NE"	"31131"	"2009"	"2009"	"Unintentional"	"1"	11	15608	Unreliable
+	"Otoe County, NE"	"31131"	"2013"	"2013"	"Unintentional"	"1"	11	15752	Unreliable
+	"Phelps County, NE"	"31137"	"2001"	"2001"	"Unintentional"	"1"	10	9704	Unreliable
+	"Phelps County, NE"	"31137"	"2015"	"2015"	"Unintentional"	"1"	10	9296	Unreliable
+	"Platte County, NE"	"31141"	"1999"	"1999"	"Unintentional"	"1"	14	31558	Unreliable
+	"Platte County, NE"	"31141"	"2000"	"2000"	"Unintentional"	"1"	15	31662	Unreliable
+	"Platte County, NE"	"31141"	"2001"	"2001"	"Unintentional"	"1"	16	31319	Unreliable
+	"Platte County, NE"	"31141"	"2002"	"2002"	"Unintentional"	"1"	14	30939	Unreliable
+	"Platte County, NE"	"31141"	"2003"	"2003"	"Unintentional"	"1"	11	30756	Unreliable
+	"Platte County, NE"	"31141"	"2005"	"2005"	"Unintentional"	"1"	11	30865	Unreliable
+	"Platte County, NE"	"31141"	"2006"	"2006"	"Unintentional"	"1"	16	31100	Unreliable
+	"Platte County, NE"	"31141"	"2007"	"2007"	"Unintentional"	"1"	10	31408	Unreliable
+	"Platte County, NE"	"31141"	"2008"	"2008"	"Unintentional"	"1"	16	31527	Unreliable
+	"Platte County, NE"	"31141"	"2009"	"2009"	"Unintentional"	"1"	12	32017	Unreliable
+	"Platte County, NE"	"31141"	"2010"	"2010"	"Unintentional"	"1"	13	32237	Unreliable
+	"Platte County, NE"	"31141"	"2011"	"2011"	"Unintentional"	"1"	11	32593	Unreliable
+	"Platte County, NE"	"31141"	"2012"	"2012"	"Unintentional"	"1"	12	32681	Unreliable
+	"Platte County, NE"	"31141"	"2013"	"2013"	"Unintentional"	"1"	10	32505	Unreliable
+	"Platte County, NE"	"31141"	"2015"	"2015"	"Unintentional"	"1"	18	32847	Unreliable
+	"Platte County, NE"	"31141"	"2016"	"2016"	"Unintentional"	"1"	16	32861	Unreliable
+	"Platte County, NE"	"31141"	"2017"	"2017"	"Unintentional"	"1"	13	33175	Unreliable
+	"Platte County, NE"	"31141"	"2018"	"2018"	"Unintentional"	"1"	19	33363	Unreliable
+	"Red Willow County, NE"	"31145"	"2007"	"2007"	"Unintentional"	"1"	11	11053	Unreliable
+	"Red Willow County, NE"	"31145"	"2013"	"2013"	"Unintentional"	"1"	10	11006	Unreliable
+	"Red Willow County, NE"	"31145"	"2017"	"2017"	"Unintentional"	"1"	10	10728	Unreliable
+	"Richardson County, NE"	"31147"	"2004"	"2004"	"Unintentional"	"1"	11	8879	Unreliable
+	"Richardson County, NE"	"31147"	"2005"	"2005"	"Unintentional"	"1"	11	8799	Unreliable
+	"Saline County, NE"	"31151"	"2000"	"2000"	"Unintentional"	"1"	10	13843	Unreliable
+	"Saline County, NE"	"31151"	"2003"	"2003"	"Unintentional"	"1"	10	14232	Unreliable
+	"Saline County, NE"	"31151"	"2015"	"2015"	"Unintentional"	"1"	10	14282	Unreliable
+	"Sarpy County, NE"	"31153"	"1999"	"1999"	"Unintentional"	"1"	28	121025	23.1
+	"Sarpy County, NE"	"31153"	"2000"	"2000"	"Unintentional"	"1"	19	122595	Unreliable
+	"Sarpy County, NE"	"31153"	"2000"	"2000"	"Suicide"	"2"	14	122595	Unreliable
+	"Sarpy County, NE"	"31153"	"2001"	"2001"	"Unintentional"	"1"	24	126442	19.0
+	"Sarpy County, NE"	"31153"	"2001"	"2001"	"Suicide"	"2"	12	126442	Unreliable
+	"Sarpy County, NE"	"31153"	"2002"	"2002"	"Unintentional"	"1"	39	129496	30.1
+	"Sarpy County, NE"	"31153"	"2002"	"2002"	"Suicide"	"2"	17	129496	Unreliable
+	"Sarpy County, NE"	"31153"	"2003"	"2003"	"Unintentional"	"1"	23	132017	17.4
+	"Sarpy County, NE"	"31153"	"2003"	"2003"	"Suicide"	"2"	12	132017	Unreliable
+	"Sarpy County, NE"	"31153"	"2004"	"2004"	"Unintentional"	"1"	44	136339	32.3
+	"Sarpy County, NE"	"31153"	"2004"	"2004"	"Suicide"	"2"	12	136339	Unreliable
+	"Sarpy County, NE"	"31153"	"2005"	"2005"	"Unintentional"	"1"	22	140239	15.7
+	"Sarpy County, NE"	"31153"	"2006"	"2006"	"Unintentional"	"1"	29	144070	20.1
+	"Sarpy County, NE"	"31153"	"2006"	"2006"	"Suicide"	"2"	20	144070	13.9
+	"Sarpy County, NE"	"31153"	"2007"	"2007"	"Unintentional"	"1"	35	148214	23.6
+	"Sarpy County, NE"	"31153"	"2007"	"2007"	"Suicide"	"2"	17	148214	Unreliable
+	"Sarpy County, NE"	"31153"	"2008"	"2008"	"Unintentional"	"1"	36	152762	23.6
+	"Sarpy County, NE"	"31153"	"2009"	"2009"	"Unintentional"	"1"	29	156147	18.6
+	"Sarpy County, NE"	"31153"	"2009"	"2009"	"Suicide"	"2"	12	156147	Unreliable
+	"Sarpy County, NE"	"31153"	"2010"	"2010"	"Unintentional"	"1"	31	158840	19.5
+	"Sarpy County, NE"	"31153"	"2010"	"2010"	"Suicide"	"2"	14	158840	Unreliable
+	"Sarpy County, NE"	"31153"	"2011"	"2011"	"Unintentional"	"1"	41	162561	25.2
+	"Sarpy County, NE"	"31153"	"2012"	"2012"	"Unintentional"	"1"	50	165853	30.1
+	"Sarpy County, NE"	"31153"	"2012"	"2012"	"Suicide"	"2"	24	165853	14.5
+	"Sarpy County, NE"	"31153"	"2013"	"2013"	"Unintentional"	"1"	32	169331	18.9
+	"Sarpy County, NE"	"31153"	"2014"	"2014"	"Unintentional"	"1"	47	172193	27.3
+	"Sarpy County, NE"	"31153"	"2014"	"2014"	"Suicide"	"2"	18	172193	Unreliable
+	"Sarpy County, NE"	"31153"	"2015"	"2015"	"Unintentional"	"1"	38	175692	21.6
+	"Sarpy County, NE"	"31153"	"2015"	"2015"	"Suicide"	"2"	14	175692	Unreliable
+	"Sarpy County, NE"	"31153"	"2016"	"2016"	"Unintentional"	"1"	52	179023	29.0
+	"Sarpy County, NE"	"31153"	"2016"	"2016"	"Suicide"	"2"	20	179023	11.2
+	"Sarpy County, NE"	"31153"	"2017"	"2017"	"Unintentional"	"1"	48	181439	26.5
+	"Sarpy County, NE"	"31153"	"2017"	"2017"	"Suicide"	"2"	16	181439	Unreliable
+	"Sarpy County, NE"	"31153"	"2018"	"2018"	"Unintentional"	"1"	63	184459	34.2
+	"Sarpy County, NE"	"31153"	"2018"	"2018"	"Suicide"	"2"	18	184459	Unreliable
+	"Saunders County, NE"	"31155"	"2001"	"2001"	"Unintentional"	"1"	14	19962	Unreliable
+	"Saunders County, NE"	"31155"	"2004"	"2004"	"Unintentional"	"1"	20	20248	98.8
+	"Saunders County, NE"	"31155"	"2005"	"2005"	"Unintentional"	"1"	12	20460	Unreliable
+	"Saunders County, NE"	"31155"	"2006"	"2006"	"Unintentional"	"1"	14	20411	Unreliable
+	"Saunders County, NE"	"31155"	"2007"	"2007"	"Unintentional"	"1"	11	20483	Unreliable
+	"Saunders County, NE"	"31155"	"2009"	"2009"	"Unintentional"	"1"	11	20515	Unreliable
+	"Saunders County, NE"	"31155"	"2010"	"2010"	"Unintentional"	"1"	12	20780	Unreliable
+	"Saunders County, NE"	"31155"	"2014"	"2014"	"Unintentional"	"1"	11	20919	Unreliable
+	"Saunders County, NE"	"31155"	"2015"	"2015"	"Unintentional"	"1"	20	21016	95.2
+	"Saunders County, NE"	"31155"	"2017"	"2017"	"Unintentional"	"1"	11	21057	Unreliable
+	"Saunders County, NE"	"31155"	"2018"	"2018"	"Unintentional"	"1"	10	21303	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"1999"	"1999"	"Unintentional"	"1"	16	36849	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2000"	"2000"	"Unintentional"	"1"	13	36951	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2001"	"2001"	"Unintentional"	"1"	19	36561	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2002"	"2002"	"Unintentional"	"1"	23	36572	62.9
+	"Scotts Bluff County, NE"	"31157"	"2003"	"2003"	"Unintentional"	"1"	14	36468	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2004"	"2004"	"Unintentional"	"1"	27	36278	74.4
+	"Scotts Bluff County, NE"	"31157"	"2005"	"2005"	"Unintentional"	"1"	19	36277	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2006"	"2006"	"Unintentional"	"1"	19	36223	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2007"	"2007"	"Unintentional"	"1"	25	36338	68.8
+	"Scotts Bluff County, NE"	"31157"	"2008"	"2008"	"Unintentional"	"1"	18	36536	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2009"	"2009"	"Unintentional"	"1"	18	36677	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2010"	"2010"	"Unintentional"	"1"	23	36970	62.2
+	"Scotts Bluff County, NE"	"31157"	"2012"	"2012"	"Unintentional"	"1"	22	36964	59.5
+	"Scotts Bluff County, NE"	"31157"	"2013"	"2013"	"Unintentional"	"1"	14	36848	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2013"	"2013"	"Suicide"	"2"	10	36848	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2014"	"2014"	"Unintentional"	"1"	18	36465	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2015"	"2015"	"Unintentional"	"1"	14	36261	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2016"	"2016"	"Unintentional"	"1"	24	36422	65.9
+	"Scotts Bluff County, NE"	"31157"	"2017"	"2017"	"Unintentional"	"1"	19	36363	Unreliable
+	"Scotts Bluff County, NE"	"31157"	"2018"	"2018"	"Unintentional"	"1"	24	35989	66.7
+	"Seward County, NE"	"31159"	"2002"	"2002"	"Unintentional"	"1"	10	16574	Unreliable
+	"Seward County, NE"	"31159"	"2007"	"2007"	"Unintentional"	"1"	10	16490	Unreliable
+	"Seward County, NE"	"31159"	"2011"	"2011"	"Unintentional"	"1"	11	16703	Unreliable
+	"Seward County, NE"	"31159"	"2018"	"2018"	"Unintentional"	"1"	11	17318	Unreliable
+	"Thurston County, NE"	"31173"	"2002"	"2002"	"Unintentional"	"1"	10	6989	Unreliable
+	"Washington County, NE"	"31177"	"2003"	"2003"	"Unintentional"	"1"	10	19510	Unreliable
+	"Washington County, NE"	"31177"	"2005"	"2005"	"Unintentional"	"1"	12	19861	Unreliable
+	"Washington County, NE"	"31177"	"2006"	"2006"	"Unintentional"	"1"	10	20056	Unreliable
+	"Washington County, NE"	"31177"	"2009"	"2009"	"Unintentional"	"1"	10	20124	Unreliable
+	"Washington County, NE"	"31177"	"2013"	"2013"	"Unintentional"	"1"	11	20223	Unreliable
+	"Washington County, NE"	"31177"	"2015"	"2015"	"Unintentional"	"1"	10	20248	Unreliable
+	"Washington County, NE"	"31177"	"2017"	"2017"	"Unintentional"	"1"	10	20721	Unreliable
+	"York County, NE"	"31185"	"2000"	"2000"	"Unintentional"	"1"	10	14598	Unreliable
+	"York County, NE"	"31185"	"2002"	"2002"	"Unintentional"	"1"	10	14230	Unreliable
+	"York County, NE"	"31185"	"2016"	"2016"	"Unintentional"	"1"	14	13794	Unreliable
+	"York County, NE"	"31185"	"2017"	"2017"	"Unintentional"	"1"	11	13806	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Title: Nebraska"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"States: Nebraska (31)"
+"Group By: County; Year; Injury Intent"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 22, 2020 6:51:52 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 22, 2020 6:51:52 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 Codes, Injury Intent] cause equivalent selections in the other variables. More"
+"Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
