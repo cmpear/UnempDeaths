@@ -23,34 +23,62 @@ library(rlang)
 
 # Unemployment, Suicide, and Homicide
 
-This is a project that began as an idle curiousity: how might Covid-19 lockdowns affect homicide and suicides?  This has been raised a few times as an argument for lifting the lockdowns, and the intuitive logic is straightforward.  But, lack of hard numbers leaves a gap for our own prejudices to fill with "too high" or "low enough."  This is an effort to remedy that--and it is not so much the number of people looking for work as the number of able-bodied people who have stopped looking for work that is the real issue.
+This is a project that began as an idle curiousity: how might Covid-19 lockdowns affect homicide and suicide rates?  This issue has been raised a few times in arguments over the lockdown; and the relationship is clearly intuitive.  However, "intuitio" simply refers to immediate cognition, and to rely upon it alone allows other heuristic shortcuts to interefer and remain unchallenge.  It leaves a gap for our own preconceptions and predilections to fill the gap with "too high" or "low enough".  Let us get some idea of what this relationship may actually be.
 
-## Pyschology and Economics
+## Business Understanding
 
-While this is a social science project, it is not based on any sophisticated psychological or economic theories.  It follows the intuitive relationship between prolongued joblessness and social disfunction.  A relationship many of us have observed in ourselves or those around us who have had trouble finding work for a prolongued period of time. Likewise, that unemployment has been rising in response to the lockdown is a simple observational fact.  However, to make use of unemployment data it is important to udnerstand how it is measured.
+### Determine Business Objectives
+
+While this project begins from an idle curiousity, that does not mean it is divorced from business concerns.  Just as the spread of Covid-19 has created a global health crisis, so too have the lockdowns created a global economic crisis that affects every community.  Each business itself is embedded in one or more such communities going through these crises.  Just as many businesses are finding themselves caught up with employees or their familiy members falling ill or passing away due to Covid-19, many may also find themselves needing to addressing employees or their familiy members being damaged by the social contagion unleashed by high unemployment.  How concerned should businesses be about changes in the homicide and suicide rates?
+
+#### Background: Economics
+
+This project is not concerned precisely with how much unemployment will rise.  There are already many such projections in economics studies, and the level was pegged at 14.7% as recently as May 8, 2020 according to Forbes.  Rather, our interest is in how unemployment could effect homicide, suicide and unintentional deaths.  Thus, what exactly do the statistics mean when they say unemployment is at 14.7% or some other figure?
 
 The standard measure of unemployment is called U-3--which includes all persons who do not have jobs, but have looked in the past four weeks.  Two other measure sof unemployment, U-4 and U-5, add in "discouraged workers" and "marginally attached" workers. Discouraged workers are people who would like to work but have given up because they are convinced they cannot find work; while the marginally attached workers are people who would theoretically like to work but haven't looked in the past four weeks.  Both of these categories are of great interest, as almost definitionally they are more despondent than those experiencing U-3 unemployment. 
 
 Another issue with using unemployment figures is that some unemployment is natural.  Unemployment is often divided between that caused by frictional, cyclical and structural causes.  Cyclical unemployment is the least malignant: people changing jobs or just entering the workforce are unemployed for a time (most recent graduates will be in this category for a time).  Cyclical unemployment on the other hand is caused by fluctuations in the economy, and structural unemployment by technological change--both of which tend to cause longer periods of unemployment as people wait on conditions to improve or retrain themselves for a new line of work.  While these figures are not always readily avaialble, the existence of frictional unemployment is a reminder of why we are intersted in U-4 and U-5 unemployment rather than just U-3 unemployment.
 
-However, should the lockdown drag on too long and businesses struggle to reopen afterwards, unemployment caused by the lockdown is could become far more malignant; any many formerly productive citizens could end up becoming discouraged or marginally attached.  Of the population groups: young, retirement age, employed, unemployed, and discouraged & marginal--it is a rise in that last category that seems most likely to lead to an increase in the homicide or suicide rate.
+However, should the lockdown continue for too long and businesses struggle to reopen afterwards, unemployment caused by the lockdown is liable to become more malginant: many formerly productive citizens could end up becoming discouraged or marginally attached.  
 
-## Data and Measurement HERE HERE HERE
+#### Background: Sociology
 
-My goal here is to create a relatively simple model that eschews any scaling.  Part of this means that differences in population must be accounted for in some manner.  To that effect, we 
+Emile Durkheim, one of the fathers of sociology, wrote specifically on the foundation of suicide, creating a taxonomy of four types: egoistic suicide resulting from an individual feeling that they are not integrated into a community; altruistic suicide when a person's sees there death in service to a community and its goals (this would encompass many martyrs); anomic suicide when a person's lack of legitimate aspirations through a restraining social ethic--often caused by economic turmoil--leads him toward suicide; and finally fatalistic suicide, which is the result of extremely oppressive societies.
 
-If members of each group was some anti-social automaton, one might expect each group to contribute to each category of death.  More employed still means more people, and people are ultimately mortal.  However, those with jobs are also supporting the elderly and the young.  The same can also be said of many of those who lack jobs, but nevertheless can contribute with their time and energy to the care of those around them.
+Of those types, our concern is with egoistic and anomic suicide, which seem the most closely related to an increase in unemployment.  Work is an essential part of how we remain in community.  To be without work is also to be without an important social network which, as much as colleagues may irritate, subordinates may exasperate, and superiors may push, also provides many people with the purpose and meaning they require in life.  On the other hand, loss of the earnings from work can lead to anomic suicide.
 
-Thus, some variables such as the number of employed could reduce the number of deaths.  The expectation is that those not of working age would have the highest rate of unintentional deaths (this does, after all, include the elderly); while an increase in the number of discouraged workers would most contribute to the number of suicides and homicides.  The unemployed population, meanwhile, likely has a weaker relation with suicide (they still have hope of finding a job), while its relationship with homicide is even harder to predict.  Economic distress does not need to increase homicidal urges to raise the homicide rate: muggings can end in homicide, but that is not their goal.
+Shifting a little to Merton's development of Durkheim's theories, there are societally accepted and rejected aspirations, and societally accepted and rejected means to pursue aspiractions.  Most of those who have lost their jobs as a result of Covid-19 lockdowns were working to support themselves and perhaps build a family by working hard.  Desprived of the legitimate means to achieve those ends, many could be pressed into some form of deviancy: rejecting normal aspirations and instead pursuing mere pleasure (videogames are relatively cheap and more immersive than ever); or using illegitimate means to pursue the same ends (Season 1 of "Breaking Bad" explored this).
 
-## Data
+Bringing in Merton helps expand this a little from suicide to both homicide and unintentional deaths.  Crime is one means that allows one to support himself--though for most people it actually pays below the minimum wage.  In other words, crime can support a lower-class lifestyle, but it struggles to support even a middle-class lifestyle.  Moreover, by putting one's business dealings outside the law, one loses its protection.  If a low-level dealer gets mugged, it is not easy to turn to the police and he may even resort to a gang to pursue some approximation of justice.  Oftentimes homicide can increase not because people are more murderous, but because more and more of their life is occuring outside the protection of the law.
 
-Most of the data in this project are ultimately derived from the census, but many more refind figures are stored elsewhere.  The census bureau keeps intercensal population separate from the 2000 and 2010 census figures it is based on.  Others make use of their own sources, like the Center for Disease Control's data on deaths throughout the county, the Bureau of Labor Statistics' Employment Figures, or unemployment data from the Department of Labor.  The first step in this project is cleaning and wrangling these to create a unified dataset we can use to examine the relationship between employment figures, homicide, and suicide.
+### Businss Objectives
 
-For population, we are using census data.  However, it is important to keep in mind that much of this data consists intercensal or postcensal estimates.  Official projections are avaiable from 2010 to 2018; but the intercensal estimates betweeen the 2000 and 2010 estimates are not available by county and age.  The census makes its estimates assuming steady exponential growth between the two censuses, so we simply make those estimates ourselves using the 2000 and 2010 estimates.
+The goal here is to understand how the deathrate is affected by a change in U3 or U5 unemployment.  What happens when 1% of the population moves from employed to U3 or U5?  What happens if the same share of the population moves from U3 or U5 to employed?  These are the objectives of our analysis.
 
-One issue when trying to measure discouraged workers is that we are using the workers' age, and age is grouped in increments of 5 or 10 years.  Thus, the data can be split to include all of the people between 20 and 64, 15 and 75, but not 18-65.  Moreover, in some counties it is the norm to start work or retire from work earlier.  College students do not start work until 22 or 23; and there are many people who work past 64.  To address the first issue, we increase the WORKING_AGE feature by 4% and subtracted half of what was added from the YOUTH and ELDERLY features.  This effectively change the working definition to 18-66.  Next, for those handful of Counties where the LABOR_FORCE is larger than the population from 19-65, we expand the WORKING_AGE population to match the LABOR_FORCE, and trim the YOUTH and ELDERLY features to keep population constant--in these counties, thus putting DISCOURAGED_WORKERS at 0 for the county.
-x
+### Situation Assessment
+
+This is a small one-man project, with limited resources and time.  This project is not to go beyond any data that is readily available online.  Moreover, if at the end the conclusions prove unsatisfactory, additional weeks are not going to be spent addressing them.  This should keep the risks to a minimum, and any costs to merely time and effort.
+
+### Data Mining Goal
+
+The goal of data-gathering is to find the resources necessary to construct a model measuring the relationship between U3 and U5 unemployment.  Sufficiency will be determind if the model finds the variables significant.  If they are not sigificant, will either attempt to move down to a greater level of detail, or (if using proxies) to a better proxy.
+
+### Project Plan
+
+The plan for the project is simply to find the relationship unemployment has with suicide, homicide and unintentional deaths, and explain that relationship with visuals.  We are using compositional data, so the plan is to use logratio transformations in combination with linear regression to model it.  To judge whether the modle is significant or not, we will be using p-values and r-squared.  The goal for the p-values is anything under 1%, and--as we are not pursuing complex models--the goal for the r-squared value is anything over 10% (deaths is complex, so unemployment alone cannot be expected to explain anything even approaching half of it).
+
+## Data Understanding
+
+Initial efforts to carry out this study at the state-level were unsatisfactory, so we are going to be working with county-level data.
+
+The three main sources of data we are working with are census data from 2000 and 2010, data on deaths in the USA from the CDC, and data on employment/unemployment from the Bureau of Labor Statistics.  Our goal is a dataset with the sums of death by intent for each county in each year, as well as employment and population figures for each county.  Moreover, land-area data for each county would be useful for calculating population density.  Finally for good measure, in case we want to geographically cluster the counties, GPS coordinates would be most useful.
+
+The data taken straight each census is the hardest to work with, as these are divided between multiple spreadsheets, some over 100MB, and dozens of features.  To make this data more easily accessible, we are simply extracting the features we need.  However, this data is merely a snapshot, so to fill in the years between we need estimates and projections.  Fortunately, the census bureau has already made projects for after 2010 available up until 2018--expect 2019 in June.
+
+Similar estimates are available between 2000 and 2010, but only for states--so we will have to make these esitmates ourselves.  The census bureau's methodology in this case is to assume steady expotential growth between 2000 and 2010, so all we have to do is solve an exponential equation for t = 2000 and 2010, and then plug in t = 2001-2009 to get their populations.
+
+The main issue with the data instead arises from how the CDC data is distributed.  There are a larger number of small counties which in a given year have no homicides or suicides--and a few that bafflingly even lack recorded unintentional deaths for the entire 20-year period we have data for.
+
 ```{r, 'retrieve_data', message=FALSE, warning=FALSE}
 df <- UnempDeaths::Build_Dataset() %>%
   dplyr::select(- 'ESTIMATED', - 'WATER', - 'AGG_INCOME', - 'PCI_2016', - 'RATE_UNEMPLOYED', - 'ZRATE', - 'BAD_YEARS' )%>%
@@ -73,11 +101,28 @@ df <- UnempDeaths::Build_Dataset() %>%
                                                .data$DISCOURAGED ) )
 df
 ```
+
 ```{r, 'summarize_data'}
 summary(df)
 ```
 
-## Preliminary Analysis
+## Data Preparation
+
+### U5-Unemployment: DISCOURAGED WORKERS, EMPLOYED, AND UNEMPLOYMENT
+
+Data on employment and unemployment are readily available at the county level for the period we are looking for, but not U5-unemployment.  Thus, we have to figure out how to estimate the theoretical population that can work, and subtract from it the populations of employed and unemployed workers.  Initially we took the popuation, subtract youths and the elderly so we only have those between 20 and 64 to get the WORKING_AGE_POP, and then subtract the size of the actual LABOR_FORCE (UNEMPLOYMENT + EMPLOYMENT)--giving us the number of DISCOURAGED wokers.  
+
+These early efforts were unsatisfactory, as many counties had a larger LABOR_FORCE than WORKING_AGE_POPULATION.  Many of these were counties with large numbers of young workers, suggesting our numbers were too low.  Unfortuantely, our age-data is in five-range increments, so it is a little difficult to expand the WORKING_AGE_POP to 18-66, but we can try increasing it by 4%--which should have a similar effect--then for the handful of counties where the LABOR_FORCE is still larger than the WORKING_AGE_POP, we can expand the WORKING_AGE_POP to at least match the LABOR_FORCE, thus putting the number of discouraged workers at zero.
+
+An alternative fix if this does not work well would be to gather data on those in secondary and post-secondary schools, and expand the WORKING_AGE_POP to start from age 16 (similar to the official unemployment formula).
+
+### OUTSIDE_LABOR_FORCE: ELDERLY and YOUTH
+
+These two variables are included partly because they are convenient.  We already have the data for population by age and county, and are splitting that population into three age groups, so it is just a little extra code to use ELDERLY and YOUTH, rather than a measure of those outside of the LABOR_FORCE.  However, it also makes sense to split the ELDERLY and YOUTH--particularly with respect to unintentional deaths.
+
+### DENSITY
+
+One non-compositional feature that would be useful is popuation density.  The social pathologies of rural areas, towns, and major cities are quite different from one another.  This will be calculated by taking county population divided by its land area--which are both available from the census.
 
 ### Bar I
 
@@ -182,6 +227,11 @@ df <- df %>%
   dplyr::select( - 'D20' ) %>%
   dplyr::ungroup()
 ```
+
+## Modeling
+
+For this model, we are using lagratios with linear regression.  
+
 ## Variable Correlation
 
 Looking at the population divided into five categories, let's check how closely correlated they are.  Unsurprisingly, these are closely related.  A county around NYC or LA is of course goign to have more of everything.  However, if we instead divide each of these variables by the county population, the correlations become far weaker.  
@@ -222,13 +272,27 @@ df4 <- UnempDeaths::ilr_partial(df3, c('HOMICIDE','SUICIDE','UNINTENTIONAL', 'DE
 #df4 <- ilr_partial(df3, c('HOMICIDE','SUICIDE','UNINTENTIONAL') )
 ```
 
-## Model & Performance
+```{r, 'unintentional_model'}
+df3 <- df %>%
+  dplyr::select('HOMICIDE', 'SUICIDE', 'UNINTENTIONAL', 'DENSITY',
+                'DISCOURAGED','UNEMPLOYED', 'EMPLOYED', 'YOUTH', 'ELDERLY') %>%
+  select( everything(), ELDERLY, YOUTH, EMPLOYED, UNEMPLOYED, DISCOURAGED)
+df4 <- UnempDeaths::ilr_partial(df3, c('HOMICIDE','SUICIDE','UNINTENTIONAL', 'DENSITY') )
 
-Looking at the model performance, the R-Squared values are rather disappointing, with values ranging from 4-6%.  However, we are only working with compositional data on employment.  Simply adding populatoin density to the equation double's the R-squared values to around 10.  In other words, there is much room to grow here if additoinal variables are added in.  Perhaps some figures to capture poverty i neach county would work well in explaining how shifts in employment affect death-rates by intent.
+shift = 0.01  # this is NOT a 1% increase in the population, it is a 1% shift of the whole population between categories.
+              # in other words, 1% is more like a 2% change
+model <- lm( UNINTENTIONAL ~ V1 + V2 + V3 + V4 + DENSITY, data = df4 )
 
-Explaining the results is much more difficult than visualizing it.  Not only is it absurd for a variable like youth to rise to 100%, but it is impossible for it to rise anywhere beyond--which a normal linear model would asume.  A common way to address this issue for compositional dat ais to perform a log-ratio transformation on the data.  However, a key drawback of this is that the model coefficients become nearly, as the transformation reduces the number of variables--so one cannot even find YOUTH / POP among the model coefficients.
+print(summary(model))
+model <- lm( SUICIDE ~ V1 + V2 + V3 + V4 + DENSITY, data = df4 )
+print(summary(model))
+model <- lm( HOMICIDE ~ V1 + V2 + V3 + V4 + DENSITY, data = df4 )
+print(summary(model)$r.squared)
 
-One way to get around this is to instead model what a fixed change to the data would cause using ropeladder visuals.  This way, we can create an understandable change in the data--a shift of 1% of the population from EMPLOYED to UNEMPLOYED or DISCOURAGED, and see the projected change in the homicide, suicide or unintentional death rates.
+print(summary(model))
+```
+
+
 
 ```{r, 'unintentional_model'}
 shift = 0.01  # this is NOT a 1% increase in the population, it is a 1% shift of the whole population between categories.
@@ -268,6 +332,14 @@ H_predictions <- c(UnempDeaths::predict_logratio(df3, model, type = -3, shift = 
                    UnempDeaths::predict_logratio(df3, model, type =  3, shift = shift) )
 print(summary(model))
 ```
+
+### Assess Model
+
+One of the difficulties wtih logratios is that the model becomes more difficult to read.  However, we can still evaluate the model using p-values, R-squared and other common metrics; and we can work our way around the difficulty presented by logratios by being creative with how we build our visuals.
+
+Looking at those metrics, most of our features  are very significant for all three models, while the first of the three logratio features is only significant when it comes to unintentional deaths.  I have tried reordering the components to see if the insignificant logratio would move with some of the variables, and determined that regardless of order, it is always the first component that is considered least insignificant.
+
+Logratios replace k variables with k-1 variables--and not in a way where it is easy to isolate the influence of each variable.  The workaround is to instead make small changes to the independent variables, then perform the logratio functions, and use the model to predict the dependent varaible.  In this case, we will be shifting 1% of the population between the employed, U-3, and U-5 components.
 
 ```{r, 'homicide_rate_visual'}
 # Not aware of a good geom for a ropeladder and am rusty with tile, so decided to do this manually
@@ -323,21 +395,28 @@ points(U_predictions * (0.3 / 0.25 / 100) + 0.7, c(.8, .65, .50, .35, .20, .05),
        pch = 19,
        col = hcl(h = U_predictions / max(U_predictions) * 180 + 90, alpha = 0.7 ), cex = 2 )  
 ```
-
-## Analysis
+### Assess Model w/ Visuals
 
 Looking at the visuals (with Density included as a variable), we are expected to see the most change in deathrates when we see the number of discouraged workers increase.  For all other catgegories, the change in the deathrate is essentially zero.  Part of this is not so surprising: increases in the number of discouraged workers were to be expected.  But why didn't reducing them create much of a change?
 
-The easy answer would be to simply blame the low R-Squared values.  As more variables are added, perhaps this would indeed be found to be the case.  However, simple models with few, but very significant variables are often useful despite relatively low R-squared values; whereas models with many variables and higher R-squared values can often prove useless.  Despite the low R-squared values, the p-values and t-statistics show that these are very significant variables.  So, before expanding to a project with many more variables, let us consider what the current model is telling us.
+## Evaluation
 
-Curious here is the different effect from moving people from EMPLOYED or UNEMPLOYED to DISCOURAGED; vs instead moving people out of DISCOURAGED or UNEMPLOYED.  Why might this be?  One possibility is that UNEMPLOYED and DISCOURAGED workers already make up a small share of the population, and the effect diminishes as we approach 0% or 100%.  Increasing the already low shares of UNEMPLOYED and DISCOURAGED is a shift toward the steeper slope of the S-curve, whereas decreasing them is a shift toward the more gradual slopes.
+The goal of this project has been to determine the relationship of unemployment with homicide, suicide and unintentional deaths.  We have found some relation between the two, and described a 10-15% increase in deathrates for a shift of 1% of the population fom EMPLOYED or UNEMPLOYED to discouraged workers. Moreover, the R-Squared and P-Values both reached the thresholds we were hoping for.  However, there are enough oddities wtih the data to warrent further investigation--perhaps with a more complex model.
 
-A more descriptive view of this is an old saying about Russia, but is perhaps equally applicable here: "When times are good, we drink, when times are bad, we drink more."  Both boom and bust times often bring vice, but in good times those are at least balalnced by the boom.  Moreover, since unemployment and discouraged workers are already relatively low, modeling a shift of 1% of all the population from DISCOURAGED/UNEMPLOYED to EMPLOYED may often be pressing into natural unemployment.
+Perhaps the main question raised by this would be why increasing the number of discouraged workers lead to a projected increase in deathrates, but reducing the number of discouraged workers does not.  One possibility is that UNEMPLOYED and DISCOURAGED workers already make up a small share of the population, and the effect diminishes as we get near 0% or 100%.  Increasing the already low shares of UNEMPLOYED and DISCOURAGED is a shift toward the steeper slope of the S-curve, whereas decreasing them is a shift toward the more gradual slopes.
 
-Another interesting factor is that the number of UNEMPLOYED workers itself is not significant when it comes to the death rate. Or, to put it another way, to be EMPLOYED or UNEMPLOYED primarily matters in that one has or is looking for work--that one is not discouraged.  Unemployment is not the problem, able-bodied people leaving the workforce is.
+A more descriptive view of this is an old saying about Russia, but is perhaps equally applicable here: "When times are good, we drink, when times are bad, we drink more."  Both boom and bust times often bring vice, but in good times those are at least balalnced by the boom.  There are more alcoholics, but more of them can afford rehab.  Moreover, the number of unemployed are few compared to the number of employed, so shifting 1% of the populatoin from DISCOURAGED/UNEMPLOYED to EMPLOYED could be reducing some of the theoretical unemployment figures below natural unemployment.  
 
-# Future Changes
+Another interesting factor is that the number of UNEMPLOYED workers itself is not significant when it comes to the death rate. Or, to put it another way, what matters is that one is at least looking for a job--it is only when workers begin giving up that we begin to see negative social effects.  
 
-One possible problem is that we are still working with too many counties with too little population to have statistically meaningful deathrates.  Perhaps any county that had any year with no suicides or homicides should be dropped.
+### Next Steps
+
+One possible problem is that we are still working with too many counties with too little population to have statistically meaningful deathrates.  Perhaps any county that had any year with no suicides or homicides should be dropped.  While we would be losing some data, we would alos be limiting the focus to counties with enough population density for the target to have a reasonably high variance.
 
 Another consideration would be to simply divide the working-age popuation into DISCOURAGED vs HOPEFUL (or some other adjective) would work better than DISCOURAGED vs HOPEFUL vs UNEMPLOYED.  This would perhaps make it easier to visualize other changes--such as a babyboom or greying society.
+
+A third option, one we have already discussed, is to attempt to measure the discouraged workers better by incorporating figures from secondary and post-secondary schools.
+
+## Deployment
+
+This is a simple, one-man project carried out to satisfy the author's curiousity.  It certainly has some implications: that we should be deeply concerned about the potential contagion of long-term unemployment the locksdowns could unleash, but that these concerns are only relevant if we begin seeing workers move from what one would consider unemployed to discouraged.  At the moment, many workers could be classified as discouraged because they are out of work, but not looking for it--but some, many, hopefully most of these are merely biding their time until the lockdowns are being lifted and they can seek to resume work.  The downside would be to risk moral contagion in one's own community.
