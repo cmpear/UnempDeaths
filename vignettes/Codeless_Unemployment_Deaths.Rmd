@@ -1,5 +1,5 @@
 ---
-title: "Unemployment, Suicide, and Homicide"
+title: "Unemployment, Suicide, and Homicide (Codeless)"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Unemployment_Deaths}
@@ -10,7 +10,10 @@ vignette: >
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment = "#>",
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
 )
 ```
 
@@ -49,7 +52,7 @@ Shifting a little to Merton's development of Durkheim's theories, there are soci
 
 Bringing in Merton helps expand this a little from suicide to both homicide and unintentional deaths.  Crime is one means that allows one to support himself--though for most people it actually pays below the minimum wage.  In other words, crime can support a lower-class lifestyle, but it struggles to support even a middle-class lifestyle.  Moreover, by putting one's business dealings outside the law, one loses its protection.  If a low-level dealer gets mugged, it is not easy to turn to the police and he may even resort to a gang to pursue some approximation of justice.  Oftentimes homicide can increase not because people are more murderous, but because more and more of their life is occuring outside the protection of the law.
 
-#### Objectives
+### Objectives
 
 The goal here is to understand how the deathrate is affected by a change in U3 or U5 unemployment.  What happens when 1% of the population moves from employed to U3 or U5?  What happens if the same share of the population moves from U3 or U5 to employed?  These are the objectives of our analysis.
 
@@ -192,7 +195,7 @@ df %>%
 
 Clustering the data with kmeans, than averaging yearly differences should reduce the problem of clustering around zero.  This second set of histograms shows something more resembling a pareto distribution for homicide, almost a modal distribution for unintentional deaths, and something in between for suicides.
 
-```{r, 'histograms_2', , fig.height = 10, fig.width = 8}
+```{r, 'histograms_2', fig.height = 10, fig.width = 8}
 df %>%
   UnempDeaths:::ClusterData(750) %>%
   dplyr::transmute("Z_HOMICIDE_RATE" = .data$HOMICIDE / .data$POP, 'Z_SUICIDE_RATE' = .data$SUICIDE / .data$POP,
