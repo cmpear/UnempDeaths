@@ -1,6 +1,6 @@
 Package: UnempDeaths
 Type: Package
-Title: Examine Census and CDC data related to homicide and suicide
+Title: Unemployment and the Deathrate
 Version: 0.1.0
 Author: Christopher Pearson
 Maintainer: Christopher Pearson <cmpear@uw.edu>

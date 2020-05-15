@@ -2,7 +2,7 @@
 title: "Unemployment, Suicide, and Homicide (Codeless)"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Unemployment_Deaths}
+  %\VignetteIndexEntry{Unemployment_Deaths_Codeless}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
