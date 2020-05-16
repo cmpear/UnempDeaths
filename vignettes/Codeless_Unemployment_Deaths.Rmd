@@ -146,8 +146,8 @@ Looking at a histogram of the primary variables we are interested in, we see a c
 df %>%
   dplyr::transmute("Z_HOMICIDE_RATE" = .data$HOMICIDE / .data$POP, 'Z_SUICIDE_RATE' = .data$SUICIDE / .data$POP,
                    'Z_UNINTENTIONAL_RATE' = .data$UNINTENTIONAL / .data$POP, 'Z_LABOR_FORCE_RATE' = .data$LABOR_FORCE / .data$POP,
-                   'Z_OUTSIDE' = .data$OUTSIDE / .data$POP, 'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP,
-                   'Z_UNEMPLOYED_RATE' = .data$UNEMPLOYED / .data$POP, 'Z_WORKING_AGE' = .data$WORKING_AGE / .data$POP,
+                   'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP, 'Z_UNEMPLOYED_RATE' = .data$UNEMPLOYED / .data$POP,
+                   'Z_WORKING_AGE' = .data$WORKING_AGE / .data$POP,
                    'Z_ELDERLY' = .data$ELDERLY / .data$POP, 'Z_YOUTH' = .data$YOUTH / .data$POP,) %>%
   dplyr::mutate_all( function(x){ return(( x - mean(x) )/sd( x ) ) }) %>%
   tidyr::pivot_longer(cols = everything(), names_to = 'column', values_to = 'values') %>%
@@ -200,7 +200,7 @@ df %>%
   UnempDeaths:::ClusterData(750) %>%
   dplyr::transmute("Z_HOMICIDE_RATE" = .data$HOMICIDE / .data$POP, 'Z_SUICIDE_RATE' = .data$SUICIDE / .data$POP,
                    'Z_UNINTENTIONAL_RATE' = .data$UNINTENTIONAL / .data$POP, 'Z_LABOR_FORCE_RATE' = .data$LABOR_FORCE / .data$POP,
-                   'Z_OUTSIDE_RATE' = .data$OUTSIDE / .data$POP, 'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP,
+                   'Z_EMPLOYED_RATE' = .data$EMPLOYED / .data$POP,
                    'Z_UNEMPLOYED_RATE' = .data$UNEMPLOYED / .data$POP, 'Z_WORKING_AGE' = .data$WORKING_AGE / .data$POP,
                    'Z_ELDERLY' = .data$ELDERLY / .data$POP, 'Z_YOUTH' = .data$YOUTH / .data$POP,
                    'CLUSTER' = .data$CLUSTER) %>%
@@ -251,7 +251,7 @@ df %>%
   cor()
 ```
 
-```{r, 'prep_data_for_lm'}
+```{r message=FALSE, warning=FALSE}
 library(compositions)
 
 df3 <- df %>%

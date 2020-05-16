@@ -138,7 +138,7 @@ ClusterData <- function(df, n_clusters, ...)
                      'LAND' = sum(.data$LAND), 'POP' = sum(.data$POP),
                      'UNINTENTIONAL' = sum(.data$UNINTENTIONAL),'SUICIDE' = sum(.data$SUICIDE),
                      'HOMICIDE' = sum(.data$HOMICIDE), 'UNDETERMINED' = sum(.data$UNDETERMINED),
-                     'UNEMPLOYED' = sum(.data$UNEMPLOYED), 'OUTSIDE' = sum(.data$OUTSIDE),
+                     'UNEMPLOYED' = sum(.data$UNEMPLOYED),
                      'WORKING_AGE' = sum(.data$WORKING_AGE), 'ELDERLY' = sum(.data$ELDERLY),
                      'YOUTH' = sum(.data$YOUTH) ) %>%
     dplyr::ungroup()

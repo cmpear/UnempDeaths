@@ -139,7 +139,7 @@
 <p>The data taken straight each census is the hardest to work with, as these are divided between multiple spreadsheets, some over 100MB, and dozens of features. To make this data more easily accessible, we are simply extracting the features we need. However, this data is merely a snapshot, so to fill in the years between we need estimates and projections. Fortunately, the census bureau has already made projects for after 2010 available up until 2018–expect 2019 in June.</p>
 <p>Similar estimates are available between 2000 and 2010, but only for states–so we will have to make these esitmates ourselves. The census bureau’s methodology in this case is to assume steady expotential growth between 2000 and 2010, so all we have to do is solve an exponential equation for t = 2000 and 2010, and then plug in t = 2001-2009 to get their populations.</p>
 <p>The main issue with the data instead arises from how the CDC data is distributed. There are a larger number of small counties which in a given year have no homicides or suicides–and a few that bafflingly even lack recorded unintentional deaths for the entire 20-year period we have data for.</p>
-<pre><code>#&gt; # A tibble: 59,599 x 20
+<pre><code>#&gt; # A tibble: 59,599 x 19
 #&gt;    LONG_ID  YEAR COUNTY LABOR_FORCE EMPLOYED  LAND   LAT  LONG    POP SUICIDE
 #&gt;    &lt;chr&gt;   &lt;dbl&gt; &lt;chr&gt;        &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
 #&gt;  1 01001 ~  2018 Autau~       26196    25261  601.  32.5 -86.5  55533      11
@@ -152,10 +152,9 @@
 #&gt;  8 01015 ~  2018 Calho~       46307    44191  613.  33.7 -85.8 114331      25
 #&gt;  9 01017 ~  2018 Chamb~       15366    14775  604.  32.9 -85.3  33600       0
 #&gt; 10 01019 ~  2018 Chero~       11688    11276  560.  34.2 -85.6  26014       0
-#&gt; # ... with 59,589 more rows, and 10 more variables: HOMICIDE &lt;dbl&gt;,
+#&gt; # ... with 59,589 more rows, and 9 more variables: HOMICIDE &lt;dbl&gt;,
 #&gt; #   UNINTENTIONAL &lt;dbl&gt;, UNDETERMINED &lt;dbl&gt;, UNEMPLOYED &lt;dbl&gt;, DENSITY &lt;dbl&gt;,
-#&gt; #   ELDERLY &lt;dbl&gt;, WORKING_AGE &lt;dbl&gt;, YOUTH &lt;dbl&gt;, OUTSIDE &lt;dbl&gt;,
-#&gt; #   DISCOURAGED &lt;dbl&gt;</code></pre>
+#&gt; #   ELDERLY &lt;dbl&gt;, WORKING_AGE &lt;dbl&gt;, YOUTH &lt;dbl&gt;, DISCOURAGED &lt;dbl&gt;</code></pre>
 <pre><code>#&gt;    LONG_ID               YEAR         COUNTY           LABOR_FORCE     
 #&gt;  Length:59599       Min.   :2000   Length:59599       Min.   :     38  
 #&gt;  Class :character   1st Qu.:2004   Class :character   1st Qu.:   5089  
@@ -184,13 +183,13 @@
 #&gt;  Mean   :  0.8457   Mean   :  2919   Mean   :  255.40   Mean   :  12240.3  
 #&gt;  3rd Qu.:  0.0000   3rd Qu.:  1920   3rd Qu.:  110.84   3rd Qu.:   9210.8  
 #&gt;  Max.   :488.0000   Max.   :615101   Max.   :71378.87   Max.   :1246402.4  
-#&gt;   WORKING_AGE          YOUTH            OUTSIDE         DISCOURAGED     
-#&gt;  Min.   :    -11   Min.   :      6   Min.   :     15   Min.   :      0  
-#&gt;  1st Qu.:   6466   1st Qu.:   2716   1st Qu.:   4854   1st Qu.:   1013  
-#&gt;  Median :  15282   Median :   6370   Median :  10872   Median :   3116  
-#&gt;  Mean   :  60367   Mean   :  24811   Mean   :  39362   Mean   :  11813  
-#&gt;  3rd Qu.:  39999   3rd Qu.:  16496   3rd Qu.:  27369   3rd Qu.:   8273  
-#&gt;  Max.   :6545194   Max.   :3314656   Max.   :4279482   Max.   :1549097</code></pre>
+#&gt;   WORKING_AGE          YOUTH          DISCOURAGED     
+#&gt;  Min.   :    -11   Min.   :      6   Min.   :      0  
+#&gt;  1st Qu.:   6466   1st Qu.:   2716   1st Qu.:   1013  
+#&gt;  Median :  15282   Median :   6370   Median :   3116  
+#&gt;  Mean   :  60367   Mean   :  24811   Mean   :  11813  
+#&gt;  3rd Qu.:  39999   3rd Qu.:  16496   3rd Qu.:   8273  
+#&gt;  Max.   :6545194   Max.   :3314656   Max.   :1549097</code></pre>
 </div>
 <div id="data-preparation" class="section level2">
 <h2 class="hasAnchor">

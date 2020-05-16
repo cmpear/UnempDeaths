@@ -173,7 +173,7 @@ GetCountyPop <- function(){
 GetCleanedData <- function()
 {
   path <- system.file('extdata','df_cleaned.tsv', package = 'UnempDeaths')
-  return(read_tsv(path, col_types = 'cncnnnnnnnnnnnnnnnnnnn' ) )
+  return(read_tsv(path, col_types = 'cncnnnnnnnnnnnnnnnnnnnnnn' ) )
 }
 
 # GetPopAge <- function(){
