@@ -7,7 +7,7 @@ Maintainer: Christopher Pearson <cmpear@uw.edu>
 Description: This package is more properly understood as a project to better understand 
     how unemployment relates to homicide, suicide and unintentional deaths.  It gathers and 
     analyzes data from the CDC, Census Bureau, and Bureau of Labor Statistics.
-License: GPL-3
+License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
