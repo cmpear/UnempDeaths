@@ -81,7 +81,7 @@ Similar estimates are available between 2000 and 2010, but only for states--so w
 The main issue with the data instead arises from how the CDC data is distributed.  There are a larger number of small counties which in a given year have no homicides or suicides--and a few that bafflingly even lack recorded unintentional deaths for the entire 20-year period we have data for.
 
 ```{r, 'retrieve_data', message=FALSE, warning=FALSE}
-df <- UnempDeaths::Build_Dataset() %>%
+df <- UnempDeaths::GetCleanedData() %>%
   dplyr::select(- 'ESTIMATED', - 'WATER', - 'AGG_INCOME', - 'PCI_2016', - 'RATE_UNEMPLOYED', - 'ZRATE', - 'BAD_YEARS' )%>%
   dplyr::mutate('YOUTH' = .data$YOUTH - .data$WORKING_AGE * 0.02,
                 'ELDERLY' = .data$ELDERLY - .data$WORKING_AGE * 0.02) %>%

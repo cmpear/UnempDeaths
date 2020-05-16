@@ -1,6 +1,7 @@
 #' Build_Dataset
 #' @description builds dataset containing data on counties, GPS, deaths, 2016 income, and population
 #' @return returns dataset containing data on counties, GPS, deaths, 2016 income, and population
+#' @importFrom tidyr %>%
 #' @importFrom dplyr filter
 #' @importFrom dplyr mutate
 #' @importFrom dplyr select

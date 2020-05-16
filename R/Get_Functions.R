@@ -3,6 +3,7 @@
 #' @return Returns cleaned dataset of deaths by county
 #' @export
 #' @example data <- UnempDeaths::GetCountyDeaths()
+#' @importFrom tidyr %>%
 #' @importFrom readr read_tsv
 #' @importFrom dplyr mutate
 #' @importFrom dplyr transmute
@@ -48,6 +49,7 @@ GetCountyDeaths <- function( ){
 #' @return returns 2016 income data
 #' @export
 #' @example data <- UnempDeaths::GetIncome()
+#' @importFrom tidyr %>%
 #' @importFrom readr read_csv
 #' @importFrom rlang .data
 GetIncome <- function(){
@@ -70,6 +72,7 @@ GetIncome <- function(){
 #' @return a cleaned dataframe of unemployment data
 #' @export
 #' @example data <- UnempDeaths::GetCountyUnemployment()
+#' @importFrom tidyr %>%
 #' @importFrom readr read_tsv
 #' @importFrom dplyr bind_rows
 #' @importFrom rlang .data
@@ -91,6 +94,7 @@ GetCountyUnemployment <- function(){
 #' @return a dataset with GPS coordinates for county-FIPS
 #' @export
 #' @example data <- UnempDeaths::GetCountyGPS
+#' @importFrom tidyr %>%
 #' @importFrom readr read_csv
 #' @importFrom dplyr mutate
 #' @importFrom dplyr summarize
@@ -117,6 +121,7 @@ GetCountyGPS <- function(){
 #' @return a cleaned dataset of populations by county
 #' @export
 #' @example data <- UnempDeaths::GetCoutnyPop
+#' @importFrom tidyr %>%
 #' @importFrom stringr str_pad
 #' @importFrom stringr str_replace
 #' @importFrom readr read_csv
@@ -190,6 +195,7 @@ GetCleanedData <- function()
 #' @description retrieves sum total of population by county and year aged 20 to 64
 #' @returns dataframe of county population data by age from 2010 to 2018
 #' @export
+#' @importFrom tidyr %>%
 #' @importFrom readr read_csv
 #' @importFrom rlang .data
 GetWorkingAgePop <- function() {

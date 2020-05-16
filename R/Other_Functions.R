@@ -4,6 +4,7 @@
 #' @return a population dataset with estimates for 1999 and 1998 added
 #' @export
 #' @example data <- GetCountyPop %>% AddEstimates()
+#' @importFrom tidyr %>%
 #' @importFrom dplyr mutate
 #' @importFrom rlang .data
 #' @importFrom stats lm
@@ -66,6 +67,7 @@ ExcelToTSV <- function(from_path, to_path, ...){
 #' @param change what share of the employed to move to unemployed
 #' @return returns predicted number of deaths
 #' @export
+#' @importFrom tidyr %>%
 #' @importFrom readr read_tsv
 #' @importFrom dplyr mutate
 #' @importFrom dplyr filter
@@ -111,6 +113,7 @@ CountBadYears <- function(YEAR, Z_U_RATE, Threshold = 1){
 #' @param ... additional variables for kmeans
 #' @export
 #' @return the clustered dataset
+#' @importFrom tidyr %>%
 #' @importFrom stats kmeans
 #' @importFrom dplyr select
 #' @importFrom dplyr summarize
@@ -178,6 +181,7 @@ GrowthEstimates <- function(data, cols, start = 2000, end = 2010){
 #' @param col the name of the column being estimated
 #' @param start starting year
 #' @param end ending year
+#' @importFrom tidyr %>%
 #' @importFrom dplyr mutate
 GrowthEstimatesInner <- function(startPop, endPop, ID, col, start = 2000, end = 2010 ){
 
@@ -209,6 +213,7 @@ Reconcile <- function(target, goal, circumstances){
 #' @return the change in the target variable--homicides, suicides, or unintentoinal deaths--from applying the shift
 #' @export
 #' @importFrom stringr str_length
+#' @importFrom tidyr %>%
 #' @importFrom dplyr mutate
 #' @importFrom dplyr select
 #' @importFrom stats predict
@@ -297,6 +302,7 @@ predict_logratio <- function(df, model, shift = 0.5, type = -3 ){
 #' @param df the data to transform
 #' @return the df, with several of the variables transformed, and the exceptions unchanged
 #' @export
+#' @importFrom tidyr %>%
 #' @importFrom compositions ilr
 #' @importFrom dplyr select
 ilr_partial <- function(df, exceptions ){
